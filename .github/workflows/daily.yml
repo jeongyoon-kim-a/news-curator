@@ -45,3 +45,9 @@ jobs:
             git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Send email digest
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python scripts/send_email.py
