@@ -230,6 +230,18 @@ noise_patterns:
     score: -2
   - pattern: "광고"
     score: -3
+  - pattern: "개장"
+    score: -10
+  - pattern: "코스피"
+    score: -10
+    skip_if_event: true
+  - pattern: "코스닥"
+    score: -10
+    skip_if_event: true
+  - pattern: "상승 마감"
+    score: -10
+  - pattern: "하락 마감"
+    score: -10
 
 # =====================================================================
 # 시간 가중치
