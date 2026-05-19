@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:08:42.493123+00:00",
+  "generated_at": "2026-05-19T12:16:10.180125+00:00",
   "total_articles": 19,
   "categories": {
     "elon_musk": {
@@ -141,26 +141,6 @@
       "count": 8,
       "articles": [
         {
-          "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
-          "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
-          "published": "2026-05-19T00:15:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
           "title": "US Stock Futures Drop as Semiconductor Stocks Slip, Yields Climb",
           "link": "https://www.bloomberg.com/news/articles/2026-05-19/us-stock-futures-drop-as-semiconductor-stocks-slip-yields-climb",
           "summary": "US futures ticked lower with 10-year Treasury yields climbing above 4.6%. Major semiconductor stocks like Micron Technology Inc. and Nvidia Corp. extended declines.",
@@ -201,6 +181,26 @@
           "event_labels": [
             "earnings"
           ]
+        },
+        {
+          "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+          "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
+          "published": "2026-05-19T00:15:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         },
         {
           "title": "[AI는 지금] \"코파일럿 원조 흔들린다\"…MS, 깃허브 AI 주도권 약화에 내부 경고등",
@@ -285,12 +285,12 @@
           "event_labels": []
         },
         {
-          "title": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lTUFUQzIwNTd4bjZuV0hxSmhSX0pxcDI4QnE2S29mNk9FMHBVTTI3WWlNUEhVR0h2bzRZVXZmVVJvUmxxc0NkcnNWSUNBVkpFTVczR3RxUERLU2Rocmw1NmR1VkY2UUwzSFE?oc=5",
-          "summary": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-19T05:43:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "[가보니] \"회사 같지 않았다\"…구글 본사의 공간 전략 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyLTNQTzlreG1NMy1UZnhKTDgwOGVvWVVHdTU5Nkx1b3dUMmdMTEhJM2c0U3o4U25XSnZZblVGa3Faa01wU0ZTeXNBT0hJczhiS1E?oc=5",
+          "summary": "[가보니] \"회사 같지 않았다\"…구글 본사의 공간 전략 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-05-19T04:50:35+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
