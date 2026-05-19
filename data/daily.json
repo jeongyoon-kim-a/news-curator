@@ -1,0 +1,684 @@
+{
+  "generated_at": "2026-05-19T10:46:19.034917+00:00",
+  "total_articles": 30,
+  "categories": {
+    "elon_musk": {
+      "display_name": "일론 머스크",
+      "count": 6,
+      "articles": [
+        {
+          "title": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-ipo-will-add-another-musk-stock-it-s-a-problem-for-tesla",
+          "summary": "For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change &mdash; and it’s a serious risk for Tesla investors.",
+          "published": "2026-05-18T17:37:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 19,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "funding"
+          ]
+        },
+        {
+          "title": "머스크, 스페이스X IPO 위해 텍사스로 복귀...\"상장 신청 서둘러야\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ESkFURWF3X0dXVmtMcURvUDdYTEhhV1hOSmN5SG84TFJ3N2VJM0ZVX2w2bHhCbUtOVHRsRDYxZ2s0cXlYUjN4OWFLaGdTamVfWXhTUUtKOGR0V2dBTFlDNzVZUVY3czZVRGc?oc=5",
+          "summary": "머스크, 스페이스X IPO 위해 텍사스로 복귀...\"상장 신청 서둘러야\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-19T06:25:07+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Meet Zhou Qunfei: the woman seated between Tim Cook and Elon Musk at China state banquet",
+          "link": "https://www.scmp.com/tech/article/3353657/meet-zhou-qunfei-woman-seated-between-tim-cook-and-elon-musk-china-state-banquet?utm_source=rss_feed",
+          "summary": "Zhou Qunfei, the woman at the helm of manufacturing giant Lens Technology, found herself seated in a favourable position at the state banquet hosted by Chinese President Xi Jinping for US President Donald Trump on Thursday night, placed between two of her most important clients, Apple CEO Tim Cook and Tesla founder Elon Musk. Several Chinese business leaders attended the banquet alongside US executives and officials, including Hisense chairman Jia Shaoqian, Wanxiang Group chairman Lu Weiding,...",
+          "published": "2026-05-15T05:09:31+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aanlUcHBzQkxXLWxWZ3k2ekpwZ240WlREOXRGQ1Vpb3JQUWNTX052c3ZZeVJvN1NQVTZvbU5Bd2xhQUxDRkpmd2x2aEJrc2Y0U2JrNTI4cTdZaElSbGdYNVNKWjFuYXNHd2Y0UzctUzk?oc=5",
+          "summary": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-18T22:58:22+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
+          "published": "2026-05-19T00:53:10+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Elon Musk’s $1trn pay deal is a troubling display of corporate capture",
+          "link": "https://www.economist.com/business/2025/11/07/elon-musks-1trn-pay-deal-is-a-troubling-display-of-corporate-capture",
+          "summary": "He has Tesla and its board wrapped around his finger",
+          "published": "2025-11-07T18:11:52+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Cracks are appearing in OpenAI’s dominant façade",
+          "link": "https://www.economist.com/business/2025/11/19/cracks-are-appearing-in-openais-dominant-facade",
+          "summary": "A deal between Anthropic, Microsoft and Nvidia makes AI more circular",
+          "published": "2025-11-19T21:32:26+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia’s $100bn bet on OpenAI raises more questions than it answers",
+          "link": "https://www.economist.com/business/2025/09/22/nvidias-100bn-bet-on-openai-raises-more-questions-than-it-answers",
+          "summary": "What if OpenAI hits a roadblock?",
+          "published": "2025-09-22T23:18:02+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Nvidia’s $100bn bet on OpenAI raises plenty of questions",
+          "link": "https://www.economist.com/business/2025/09/25/nvidias-100bn-bet-on-openai-raises-plenty-of-questions",
+          "summary": "Meanwhile, the building of AI data-centres gathers pace",
+          "published": "2025-09-25T13:45:46+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX, OpenAI, Anthropic and their giga-IPO dreams",
+          "link": "https://www.economist.com/business/2025/12/16/spacex-openai-anthropic-and-their-giga-ipo-dreams",
+          "summary": "Will more capital trump more scrutiny?",
+          "published": "2025-12-16T20:25:13+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
+          "summary": "Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment of renewed momentum for upstarts looking to challenge Nvidia Corp. and Advanced Micro Devices Inc.",
+          "published": "2026-05-18T21:19:36+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
+          "summary": "Alphabet’s Google agreed to create an artificial intelligence cloud business with Blackstone, aiming to compete with companies like CoreWeave in a burgeoning market. The project will rely on an initial $5 billion in equity capital from Blackstone, which will become the majority owner, according to a statement Monday. Bloomberg's Neil Campling explains. (Source: Bloomberg)",
+          "published": "2026-05-19T05:46:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Trafigura-Backed Terrafame Studies Producing Scandium in Finland",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/trafigura-backed-terrafame-studies-producing-scandium-in-finland",
+          "summary": "Metals firm Terrafame is studying starting producing scandium, a material used in sectors including defense, from its existing uranium operation in Finland, as Europe seeks to secure supplies of critical minerals.",
+          "published": "2026-05-19T09:39:07+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
+          "published": "2026-05-18T19:25:18+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 6,
+      "articles": [
+        {
+          "title": "Nintendo Shares Rebound as AI Fatigue Fuels Japan Stock Rotation",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/nintendo-shares-rebound-as-ai-fatigue-fuels-japan-stock-rotation",
+          "summary": "Embattled Switch 2 maker Nintendo Co. enjoyed its biggest stock gain in two months on Tuesday as concerns about overvaluation in the AI sector sent investors on the hunt for bargains elsewhere.",
+          "published": "2026-05-19T06:21:32+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "funding"
+          ]
+        },
+        {
+          "title": "테더, 회사명 상표권 출원…한국 시장 진출 채비",
+          "link": "https://zdnet.co.kr/view/?no=20260519175540",
+          "summary": "[지디넷코리아]글로벌 스테이블코인 발행사 테더가 국내 상표권 출원했다.19일 특허청 지식재산정보에 따르면 테더는 지난 14일 회사명, 로고, 금 기반 스테이블코인 ‘테더골드’ 등 7개 상표를 국내 출원했다.이는 지난해 다섯 차례 진행한 상표권 출원에 이은 추가 행보다. 현재까지 테더가 국내에 출원한 상표는 총 15개다.일각에서는 테더가 국내 스테이블코인 시장 진출을 본격화하려는 움직임으로 해석하고 있다. 디지털자산기본법 논의 과정에서 해외 사업자의 가상자산 발행 문제가 다뤄지는 만큼, 법제화에 앞서 선제 대응에 나선 것으로 풀이된다.이번 상표권 출원 범위는 가상자산 지갑부터 발행·거래·대출까지 전반을 아우른다.구체적으로 디지털 지갑용 소프트웨어, 가상자산 교환·거래용 소프트웨어, 금융거래 처리 소프트웨어, 가상자산 구매·판매·결제·청산·예치 관련 소프트웨어 등이 포함됐다. 이와 함께 가상자산 대출업, 발행·회수업, 전자이체업, 전자지불 처리업 등도 명시됐다.이번 상표권 출원인은 테더",
+          "published": "2026-05-19T09:00:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Xi Prepares To Host Putin After Summit With Trump | The China Show 5/19/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-china-show-5-19-2026-video",
+          "summary": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+          "published": "2026-05-19T07:03:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "The Fight Against Trump’s Immigration Crackdown",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-fight-against-trump-s-immigration-crackdown-video",
+          "summary": "Bloomberg Investigates spends a year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies. (Source: Bloomberg)",
+          "published": "2026-05-19T08:00:06+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Crypto’s big bang will revolutionise finance",
+          "link": "https://www.economist.com/finance-and-economics/2025/07/23/cryptos-big-bang-will-revolutionise-finance",
+          "summary": "The more useful stablecoins and tokens prove to be, the greater the risk",
+          "published": "2025-07-23T19:01:11+00:00",
+          "source_key": "economist_finance",
+          "source_name": "The Economist - Finance",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Investors Flock to Japan Convertible as Borrowing Costs Spike",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/jx-metals-prices-1-6-billion-of-convertibles-at-top-of-range",
+          "summary": "Japanese convertible bonds continue to attract solid investor demand as a surge in borrowing costs drives companies to increasingly embrace the equity-linked securities.",
+          "published": "2026-05-19T01:24:32+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        }
+      ]
+    },
+    "fintech": {
+      "display_name": "핀테크",
+      "count": 6,
+      "articles": [
+        {
+          "title": "Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/18/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-close-5-18-2026-video",
+          "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Robinhood Markets CIO Stephanie Guild, Andersen Institute’s Fabio Natalucci, Wedbush Securities’ Dan Ives, IIF President & CEO Tim Adams, Kayne Anderson Rudnick’s Julie Biel, 42 Macro Founder & CEO Darius Dale, Westly Group Founder & Managing Partner Steve Westly, Moody’s Ratings Chief Credit Officer Atsi Sheth, Morningstar’",
+          "published": "2026-05-18T22:34:07+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Monzo’s Profit Jumps 44% as Fintech Moves Further Into Lending",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/uk-fintech-monzo-reports-44-jump-in-profit-on-interest-income",
+          "summary": "Monzo Bank Ltd. reported a 44% jump in profit in the year through March, as growth in lending lifted interest income.",
+          "published": "2026-05-19T07:42:11+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Indonesian Markets Slump on Commodity Export Control Speculation",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/indonesian-stocks-fall-on-fiscal-risks-export-body-speculation",
+          "summary": "Indonesian markets fell as speculation mounted that the government will centralize commodity exports to control capital flows and shore up a plunging currency. Palm oil futures rose.",
+          "published": "2026-05-19T06:21:34+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "StanChart to Cut Thousands of Jobs in AI Push",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
+          "summary": "Standard Chartered said it plans to eliminate thousands of support roles over the next four years, joining the ranks of global lenders using artificial intelligence to trim headcount. “It’s not about cost cutting,\" Chief Executive Officer Bill Winters said at a press briefing in Hong Kong. \"It's about having a structurally more productive environment that is fit for future.\" Bloomberg's Tom Metcalf reports. (Source: Bloomberg)",
+          "published": "2026-05-19T07:50:35+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"기업 신고없이도 직권 조사\"...과기정통부, 침해사고 조사 심의위 결성",
+          "link": "https://zdnet.co.kr/view/?no=20260519180702",
+          "summary": "[지디넷코리아]과기정통부가 김휘강 고려대 교수 등 민간 전문가 13인이 참여하는 ‘침해사고 조사 심의위원회’를 결성, 19일 첫 회의(Kick-off)를 개최했다. 이번 침해사고 조사 심의위원회는 지난해 연이어 발생한 침해사고로 국민 불안감이 높아지면서, 정부가 객관적·전문적 심의 과정을 바탕으로 사이버 위협에 선제적으로 대응해야 한다는 취지에서 정보통신망법에 따라 신설한 법정 위원회다.신설한 법정 위원회 심의를 거쳐, 침해사고 정황이 명백하거나 국민적 피해가 우려되는 중대한 침해사고의 경우, 기업의 신고 없이도 선제적 피해확산 방지를 위해 직권조사가 가능하다. 해당 법령은 올해 10월 1일부터 적용될 예정이나, 과기정통부는 법 시행 전이라도 발생할 수 있는 중대 침해사고에 빈틈없이 대응하고 민관 협력 기반의 대응 체계를 조기에 안착시키기 위해 이 위원회를 앞당겨 출범시켰다.최근 사이버 위협이 사회 전반으로 확산하고 있으며 미토스 등 AI 기반 공격이 고도화하고 있어, 신속한 대응을",
+          "published": "2026-05-19T09:07:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Only one of Berkshire Hathaway and SoftBank can survive",
+          "link": "https://www.economist.com/business/2026/05/06/only-one-of-berkshire-hathaway-and-softbank-can-survive",
+          "summary": "The two represent competing visions of the future",
+          "published": "2026-05-06T20:01:52+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": -2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        }
+      ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋 & 한국 금융",
+      "count": 4,
+      "articles": [
+        {
+          "title": "한일 정상회담 소식과 반도체 중심 1분기 코스피 실적까지 이시각 주요뉴스 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbGlWRzJlQnRxM0V6RVZYREdmV21nZDN1VEdsUGxKamR0VmxMNlhpN1ZZaXFnNHRMNHd0M1lXOHhoWjFPZ2FoTkRWcl9IbVVPS1lkbFZaZzZhbk5oWUQxSnBvZXpzdDFJLTBpdzhhMVXSAXRBVV95cUxQNzhlUjZyYnFnWnJVbkNEY0FoS01JWFpVVnZ3Q3JKNzg1UDRIYUdEOG5HVU5HZ0liZmh1WVktU2pwbmZyM2x3ZFRZTnhBeDRiY3ZXYmhuTm5RMjBaeEgyV3ZWN0IwZUcxY3pabVV3bW52N2MwVg?oc=5",
+          "summary": "한일 정상회담 소식과 반도체 중심 1분기 코스피 실적까지 이시각 주요뉴스 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-19T06:42:33+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "금융당국, 증권사에 유동성 규제 전면 확대…'헤어컷' 도입 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWVZydEdoU2dpVEpZUzRDanFPYVNyb2c4eTNoaWdMeE5CaGRLR2FZWVBmb0R6UWdUS0xSVFNZRklzcDlBb3k3eWdqN2pFV3BISW1HUGNfM0ZiMzBnSDhoY29nQUtuQVhudTlUcUZhd0g?oc=5",
+          "summary": "금융당국, 증권사에 유동성 규제 전면 확대…'헤어컷' 도입 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-18T03:03:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 0,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "[코스피] 90.38p(1.20%) 내린 7,425.66(개장) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoX2lPNDlnWG9UZ0Z4dEJOdlh4ODl3ZmQxME8yWDREWElfamlkRlEzQTJuM1paVnRMeXhEUzRUMEVVdVFtUXJQMDFBR0I0UTI5TGc?oc=5",
+          "summary": "[코스피] 90.38p(1.20%) 내린 7,425.66(개장) &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-05-19T00:01:22+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ib01jYkRqWTRaZ3ZxWFVMNG00RGdlUjZnRUpmeURhYkhEendmWHZFVzJDUUtMeS02cU5DZE83QkxvNHdJaDdUN3REbEM2aUhQRmc?oc=5",
+          "summary": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-19T04:01:05+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    }
+  }
+}
