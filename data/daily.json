@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T11:36:22.745402+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-19T11:49:18.707727+00:00",
+  "total_articles": 19,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
@@ -141,48 +141,6 @@
       "count": 8,
       "articles": [
         {
-          "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
-          "summary": "Alphabet’s Google agreed to create an artificial intelligence cloud business with Blackstone, aiming to compete with companies like CoreWeave in a burgeoning market. The project will rely on an initial $5 billion in equity capital from Blackstone, which will become the majority owner, according to a statement Monday. Bloomberg's Neil Campling explains. (Source: Bloomberg)",
-          "published": "2026-05-19T05:46:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "US Yields Near 2007 Highs; AI Push Fuels Job Cuts | Bloomberg Brief 5/19/2026",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/bloomberg-brief-5-19-2026-video",
-          "summary": "US equity futures slide and 30-year Treasury yield flirts with levels last seen in 2007. President Trump calls off scheduled strikes on Iran after Persian Gulf allies sought more time to work out a deal. Standard Chartered plans to eliminate nearly 8,000 jobs as the firm shift to AI, while Meta reassigns workers to AI roles ahead of planned job cuts. Christopher Hodge of Natixis discusses the challenges ahead for the Federal Reserve amid price pressure. (Source: Bloomberg)",
-          "published": "2026-05-19T11:19:24+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
           "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
           "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
           "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
@@ -287,6 +245,26 @@
           "event_labels": []
         },
         {
+          "title": "메타, 'AI 체질 개선' 본격화...8000명 해고하고 7000명 AI 전진 배치 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaUFAzM2s4LTRLOTVodUdmMHJJSFNCaDlzcUhvNkgwcXM1X0pjWEM1R0JHeXQ4Z1NfUVk2dUpGd0RVeXQxMWtVcllIWmxON3Y2VXZ6T0N4dHpDVXJJdWdUTWJfZ3lYSVdld2c?oc=5",
+          "summary": "메타, 'AI 체질 개선' 본격화...8000명 해고하고 7000명 AI 전진 배치 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-19T04:10:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
           "title": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 - AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lTUFUQzIwNTd4bjZuV0hxSmhSX0pxcDI4QnE2S29mNk9FMHBVTTI3WWlNUEhVR0h2bzRZVXZmVVJvUmxxc0NkcnNWSUNBVkpFTVczR3RxUERLU2Rocmw1NmR1VkY2UUwzSFE?oc=5",
           "summary": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 &nbsp;&nbsp; AI타임스",
@@ -296,10 +274,30 @@
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "교보DTS, AWS AI 전문 인증 획득…금융·제조 생성형 AI 공략",
+          "link": "https://zdnet.co.kr/view/?no=20260519170207",
+          "summary": "[지디넷코리아]교보DTS가 금융과 제조 등 전 산업군을 겨냥한 생성형 인공지능(AI) 시장 공략에 속도를 낸다.교보DTS는 아마존웹서비스(AWS)의 'AI 서비스 컴피턴시'를 취득하며 생성형 AI 분야의 전문 역량을 공식 인정받았다고 18일 밝혔다.AWS AI 서비스 컴피턴시는 검증된 기술력과 구축 사례를 가진 파트너에 부여하는 전문 인증이다. AWS는 엄격한 검증을 통과한 파트너를 선별해 고객의 신뢰도를 높이고 있다.교보DTS는 이번 인증을 계기로 AI 에이전트 플랫폼 '에이블 AI'를 AWS 인프라와 연계한다. 에이블 AI는 노코드 기반 워크플로우를 제공해 기업의 손쉬운 AI 에이전트 구축을 돕는다. 통합 오케스트레이션 구조로 실제 업무용 AI 운영 환경을 지원하는 것이 특징이다.그동안 교보DTS는 보험과 증권 등 금융 산업에서 IT 서비스와 클라우드 구축 역량을 쌓았다. 앞으로는 금융을 넘어 제조와 유통 등 다양한 산업군으로 AI 서비스를 확대할 계획이다.권창기 교보DTS 대표",
+          "published": "2026-05-19T08:02:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -310,7 +308,7 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "테더, 회사명 상표권 출원…한국 시장 진출 채비",
@@ -327,26 +325,6 @@
             "keyword": 10,
             "source": 1,
             "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Trafigura Turns to Tether as Stablecoins Take on Commodities",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-18/trafigura-and-tether-are-discussing-usdt-usage-in-fuel-stations",
-          "summary": "Commodity trading house Trafigura Group Pte Ltd. is in talks with Tether Inc. about a pilot project to use its stablecoin at fuel stations.",
-          "published": "2026-05-18T16:30:58+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
