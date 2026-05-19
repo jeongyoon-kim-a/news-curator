@@ -17,13 +17,13 @@
 categories:
   elon_musk:
     display_name: "일론 머스크"
-    target_count: 6   # 매일 이 카테고리에서 상위 N개 선정
+    target_count: 6
     keywords:
-      strong:  # 직접 언급 — 매칭되면 +5
+      strong:
         - "Elon Musk"
         - "일론 머스크"
         - "머스크"
-      related:  # 머스크 사업체 — +3
+      related:
         - "SpaceX"
         - "스페이스X"
         - "Starlink"
@@ -33,7 +33,6 @@ categories:
         - "xAI"
         - "Neuralink"
         - "뉴럴링크"
-        - "X Corp"
         - "Grok"
 
   bigtech:
@@ -58,8 +57,7 @@ categories:
         - "애플"
         - "Amazon"
         - "아마존"
-        - "AWS"
-        - "Azure"
+        # AWS, Azure 같은 제품명은 의도적으로 제외 — 무관 기사 끌어옴
 
   digital_asset:
     display_name: "디지털 자산"
@@ -68,69 +66,55 @@ categories:
       strong:
         - "stablecoin"
         - "스테이블코인"
-        - "Bitcoin ETF"
-        - "비트코인 ETF"
+        - "Bitcoin"
+        - "비트코인"
         - "디지털자산"
       related:
+        - "두나무"
+        - "업비트"
+        - "코인거래소"
         - "Coinbase"
         - "코인베이스"
         - "Circle"
         - "USDC"
-        - "Bitcoin"
-        - "비트코인"
+        - "USDT"
         - "Ethereum"
         - "이더리움"
         - "crypto"
         - "암호화폐"
         - "가상자산"
-        - "SEC"
         - "tokenization"
         - "토큰화"
         - "RWA"
+        - "Bitcoin ETF"
+        - "비트코인 ETF"
+        - "Robinhood"
+        # "SEC"는 의도적으로 제외 — "AI sector" 같은 데 잘못 걸림.
+        # 단어 경계 수정해도 SEC 단독 매칭은 너무 광범위해서 빼는 게 안전
 
-  fintech:
-    display_name: "핀테크"
-    target_count: 6
+  korea_fintech:
+    display_name: "한국 핀테크"
+    target_count: 4   # 분량 줄임
     keywords:
       strong:
-        - "Robinhood"
-        - "로빈후드"
-        - "Futu"
-        - "푸투홀딩스"
-        - "KakaoPay"
         - "카카오페이"
+        - "카카오뱅크"
+        - "네이버페이"
+        - "네이버파이낸셜"
         - "토스"
+        - "토스뱅크"
+        - "비바리퍼블리카"
       related:
-        - "Affirm"
-        - "Klarna"
-        - "Nubank"
-        - "Line Pay"
-        - "결제"
-        - "payments"
-        - "BNPL"
-        - "neobank"
-        - "digital bank"
-        - "fintech"
-        - "핀테크"
+        - "카카오"     # 카카오 본사 관련
+        - "네이버"     # 네이버 본사 관련
 
   mirae_asset:
-    display_name: "미래에셋 & 한국 금융"
-    target_count: 4
+    display_name: "미래에셋"
+    target_count: 3   # 분량 줄임
     keywords:
       strong:
         - "미래에셋"
         - "Mirae Asset"
-      related:
-        - "한국투자증권"
-        - "삼성증권"
-        - "NH투자증권"
-        - "KB증권"
-        - "증권사"
-        - "리서치센터"
-        - "ETF"
-        - "코스피"
-        - "코스닥"
-        - "KOSPI"
 
 # =====================================================================
 # 이벤트 보너스 — 이런 키워드가 들어있으면 점수 가산
@@ -207,7 +191,6 @@ noise_patterns:
     score: -2
     # 단, 이벤트 보너스 키워드가 함께 있으면 패널티 무시 (예: "주가 + 실적")
     skip_if_event: true
-
   - pattern: "시세"
     score: -3
   - pattern: "stock price"
@@ -243,6 +226,34 @@ noise_patterns:
   - pattern: "하락 마감"
     score: -10
 
+# 한국어 시세/시황 기사
+  - pattern: "강세"
+    score: -5
+    skip_if_event: true
+  - pattern: "약세"
+    score: -5
+    skip_if_event: true
+  - pattern: "증권사 발표에"
+    score: -10
+  - pattern: "이시각 주요뉴스"
+    score: -10
+  - pattern: "주요뉴스"
+    score: -8
+  - pattern: "코스피 실적"
+    score: -5
+    skip_if_event: true
+
+  # 영문 시황/포맷 기사
+  - pattern: "The Close"     # Bloomberg "The Close MM/DD" 정규 코너
+    score: -10
+  - pattern: "Stocks Fall"
+    score: -8
+  - pattern: "Stocks Rise"
+    score: -8
+  - pattern: "Stocks Mixed"
+    score: -8
+  - pattern: "Markets Wrap"
+    score: -10
 # =====================================================================
 # 시간 가중치
 # =====================================================================
