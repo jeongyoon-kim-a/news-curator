@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:24:53.055253+00:00",
+  "generated_at": "2026-05-19T12:27:33.834612+00:00",
   "total_articles": 19,
   "categories": {
     "elon_musk": {
@@ -38,11 +38,11 @@
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 15,
+          "score": 14,
           "score_breakdown": {
             "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
