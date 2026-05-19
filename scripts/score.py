@@ -27,6 +27,28 @@ import yaml
 log = logging.getLogger(__name__)
 
 
+# =====================================================================
+# URL 블랙리스트
+# =====================================================================
+# 기사 link에 아래 패턴이 포함되면 카테고리/점수 계산 전에 자동 제외.
+# 데일리 시황 영상, TV 코너, 팟캐스트 등 정형화된 노이즈 콘텐츠를 거르기 위함.
+URL_BLACKLIST = [
+    "/news/videos/",   # Bloomberg 영상 (Brief, The Close, Surveillance 등)
+    "/television/",    # Bloomberg TV 코너
+    "/audio/",         # 팟캐스트
+    "/podcasts/",      # 팟캐스트 (다른 매체)
+    "/live/",          # 라이브 방송
+]
+
+
+def _is_blacklisted_url(link: str) -> bool:
+    """기사 URL이 블랙리스트 패턴에 해당하는지."""
+    if not link:
+        return False
+    link_lower = link.lower()
+    return any(pattern in link_lower for pattern in URL_BLACKLIST)
+
+
 def _haystack(article: dict) -> str:
     """매칭 대상 텍스트 (제목 + 요약)."""
     return f"{article['title']} {article.get('summary', '')}".lower()
@@ -138,6 +160,10 @@ def score_articles(articles: list[dict], rules_path: str) -> dict:
     buckets: dict[str, list[dict]] = {k: [] for k in rules["categories"]}
 
     for art in articles:
+        # URL 블랙리스트 — 영상/TV/팟캐스트 등 자동 제외
+        if _is_blacklisted_url(art.get("link", "")):
+            continue
+        
         cat_key, kw_score = _assign_category(art, rules)
         if cat_key is None:
             continue
