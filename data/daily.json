@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T11:09:51.472626+00:00",
-  "total_articles": 22,
+  "generated_at": "2026-05-19T11:36:22.745402+00:00",
+  "total_articles": 20,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
@@ -161,6 +161,28 @@
           "event_labels": []
         },
         {
+          "title": "US Yields Near 2007 Highs; AI Push Fuels Job Cuts | Bloomberg Brief 5/19/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/bloomberg-brief-5-19-2026-video",
+          "summary": "US equity futures slide and 30-year Treasury yield flirts with levels last seen in 2007. President Trump calls off scheduled strikes on Iran after Persian Gulf allies sought more time to work out a deal. Standard Chartered plans to eliminate nearly 8,000 jobs as the firm shift to AI, while Meta reassigns workers to AI roles ahead of planned job cuts. Christopher Hodge of Natixis discusses the challenges ahead for the Federal Reserve amid price pressure. (Source: Bloomberg)",
+          "published": "2026-05-19T11:19:24+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
           "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
           "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
           "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
@@ -201,26 +223,6 @@
           "event_labels": [
             "earnings"
           ]
-        },
-        {
-          "title": "교보DTS, AWS AI 전문 인증 획득…금융·제조 생성형 AI 공략",
-          "link": "https://zdnet.co.kr/view/?no=20260519170207",
-          "summary": "[지디넷코리아]교보DTS가 금융과 제조 등 전 산업군을 겨냥한 생성형 인공지능(AI) 시장 공략에 속도를 낸다.교보DTS는 아마존웹서비스(AWS)의 'AI 서비스 컴피턴시'를 취득하며 생성형 AI 분야의 전문 역량을 공식 인정받았다고 18일 밝혔다.AWS AI 서비스 컴피턴시는 검증된 기술력과 구축 사례를 가진 파트너에 부여하는 전문 인증이다. AWS는 엄격한 검증을 통과한 파트너를 선별해 고객의 신뢰도를 높이고 있다.교보DTS는 이번 인증을 계기로 AI 에이전트 플랫폼 '에이블 AI'를 AWS 인프라와 연계한다. 에이블 AI는 노코드 기반 워크플로우를 제공해 기업의 손쉬운 AI 에이전트 구축을 돕는다. 통합 오케스트레이션 구조로 실제 업무용 AI 운영 환경을 지원하는 것이 특징이다.그동안 교보DTS는 보험과 증권 등 금융 산업에서 IT 서비스와 클라우드 구축 역량을 쌓았다. 앞으로는 금융을 넘어 제조와 유통 등 다양한 산업군으로 AI 서비스를 확대할 계획이다.권창기 교보DTS 대표",
-          "published": "2026-05-19T08:02:07+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         },
         {
           "title": "[AI는 지금] \"코파일럿 원조 흔들린다\"…MS, 깃허브 AI 주도권 약화에 내부 경고등",
@@ -372,51 +374,53 @@
         }
       ]
     },
-    "fintech": {
-      "display_name": "핀테크",
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
       "count": 3,
       "articles": [
         {
-          "title": "Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/18/2026",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-close-5-18-2026-video",
-          "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Robinhood Markets CIO Stephanie Guild, Andersen Institute’s Fabio Natalucci, Wedbush Securities’ Dan Ives, IIF President & CEO Tim Adams, Kayne Anderson Rudnick’s Julie Biel, 42 Macro Founder & CEO Darius Dale, Westly Group Founder & Managing Partner Steve Westly, Moody’s Ratings Chief Credit Officer Atsi Sheth, Morningstar’",
-          "published": "2026-05-18T22:34:07+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 11,
+          "title": "네이버, 배달의 민족 인수설에 \"결정된 바 없어\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fa2VrZlFNY3FoNG5vb1lJcUQ5b0JWWXUzSXc3UFd4T2ZzcDVreFlFVTFDeHV6enQ4cWc2UjJ2eDRZNEtMWFh6Q215amwwcmdyWHRZeWhRWDJwRzhZbDdSRExnRmZGVzhVaXVxUHlzNlE?oc=5",
+          "summary": "네이버, 배달의 민족 인수설에 \"결정된 바 없어\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-19T05:18:44+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "m_and_a"
           ]
         },
         {
-          "title": "Monzo’s Profit Jumps 44% as Fintech Moves Further Into Lending",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/uk-fintech-monzo-reports-44-jump-in-profit-on-interest-income",
-          "summary": "Monzo Bank Ltd. reported a 44% jump in profit in the year through March, as growth in lending lifted interest income.",
-          "published": "2026-05-19T07:42:11+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 9,
+          "title": "한국 시장 직진 막힌 우버, 카모·배민 품는 우회로 선택",
+          "link": "https://zdnet.co.kr/view/?no=20260519162817",
+          "summary": "[지디넷코리아]모빌리티 플랫폼 우버가 최근 국내 택시 호출과 음식배달 시장에서 잇따라 인수 후보로 거론되고 있다. 과거 한국에서 차량 호출과 음식배달 사업 모두 애를 먹었던 만큼, 이번에는 기존 국내 플랫폼 인프라를 흡수하는 우회 진출을 검토하는 것이라는 분석이 나온다.19일 관련 업계에 따르면 우버는 최근 카카오모빌리티 지배구조 재편 과정에서 전략적 투자자로 거론된 데 이어, 배달의민족(배민) 운영사 우아한형제들 인수전에서도 잠재 후보군으로 이름을 올렸다. 카카오모빌리티와 배민은 각각 국내 택시 호출과 음식배달 시장의 핵심 인프라를 보유한 사업자인 만큼, 우버가 한국 시장 재공략을 위해 기존 1위 플랫폼을 활용하는 방안을 들여다보고 있다는 해석이다.우버는 최근 국내 플랫폼 업계 주요 인수·투자설마다 이름을 올리고 있다. 카카오모빌리티 지배구조 재편 논의에서는 텍사스퍼시픽그룹(TPG) 등 재무적투자자 지분을 인수할 후보로 거론됐다. 이어 독일 딜리버리히어로(DH)가 우아한형제들 매각",
+          "published": "2026-05-19T08:19:52+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 1,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
           "title": "\"기업 신고없이도 직권 조사\"...과기정통부, 침해사고 조사 심의위 결성",
@@ -426,8 +430,8 @@
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "fintech",
-          "category_display": "핀테크",
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
@@ -441,52 +445,9 @@
       ]
     },
     "mirae_asset": {
-      "display_name": "미래에셋 & 한국 금융",
-      "count": 2,
-      "articles": [
-        {
-          "title": "한일 정상회담 소식과 반도체 중심 1분기 코스피 실적까지 이시각 주요뉴스 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbGlWRzJlQnRxM0V6RVZYREdmV21nZDN1VEdsUGxKamR0VmxMNlhpN1ZZaXFnNHRMNHd0M1lXOHhoWjFPZ2FoTkRWcl9IbVVPS1lkbFZaZzZhbk5oWUQxSnBvZXpzdDFJLTBpdzhhMVXSAXRBVV95cUxQNzhlUjZyYnFnWnJVbkNEY0FoS01JWFpVVnZ3Q3JKNzg1UDRIYUdEOG5HVU5HZ0liZmh1WVktU2pwbmZyM2x3ZFRZTnhBeDRiY3ZXYmhuTm5RMjBaeEgyV3ZWN0IwZUcxY3pabVV3bW52N2MwVg?oc=5",
-          "summary": "한일 정상회담 소식과 반도체 중심 1분기 코스피 실적까지 이시각 주요뉴스 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-19T06:42:33+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ib01jYkRqWTRaZ3ZxWFVMNG00RGdlUjZnRUpmeURhYkhEendmWHZFVzJDUUtMeS02cU5DZE83QkxvNHdJaDdUN3REbEM2aUhQRmc?oc=5",
-          "summary": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 &nbsp;&nbsp; 매일경제",
-          "published": "2026-05-19T04:01:05+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
