@@ -254,6 +254,13 @@ noise_patterns:
     score: -8
   - pattern: "Markets Wrap"
     score: -10
+
+  - pattern: "Bloomberg Brief"
+    score: -15
+  - pattern: "Bloomberg Surveillance"
+    score: -15
+  - pattern: "Wall Street Week"
+    score: -15
 # =====================================================================
 # 시간 가중치
 # =====================================================================
