@@ -1,26 +1,69 @@
 {
-  "generated_at": "2026-05-19T12:27:33.834612+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-05-19T22:19:07.078718+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 6,
       "articles": [
         {
-          "title": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-ipo-will-add-another-musk-stock-it-s-a-problem-for-tesla",
-          "summary": "For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change &mdash; and it’s a serious risk for Tesla investors.",
-          "published": "2026-05-18T17:37:45+00:00",
+          "title": "SpaceX Is Said to Plan to Buy Startup Cursor 30 Days After IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/spacex-is-said-to-plan-to-buy-startup-cursor-30-days-after-ipo",
+          "summary": "SpaceX expects to proceed with its acquisition of artificial intelligence coding startup Cursor 30 days after Elon Musk’s company begins trading publicly, according to people familiar with the matter.",
+          "published": "2026-05-19T21:51:26+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 19,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX Going Public Is Igniting Wall Street’s Own Race to Orbit",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/spacex-going-public-is-igniting-wall-street-s-own-race-to-orbit",
+          "summary": "As Elon Musk readies SpaceX for a highly anticipated initial public offering, Wall Street is racing to find the next big winner in space exploration.",
+          "published": "2026-05-19T18:00:19+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Musk Turns to Loyalists to Rebuild xAI Ahead of SpaceX IPO",
+          "link": "https://www.bloomberg.com/features/2026-elon-musk-xai-allies-spacex-ipo/",
+          "summary": "Who's leading Musk's AI company? He's turned to leaders at his other companies to rebuild the startup.",
+          "published": "2026-05-19T18:15:33+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -38,16 +81,38 @@
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 13,
           "score_breakdown": {
             "keyword": 8,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
             "funding"
+          ]
+        },
+        {
+          "title": "Roundtables: Inside the Musk v. Altman Trial",
+          "link": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/",
+          "summary": "Listen to the session or watch below Elon Musk lost his suit against OpenAI, in which he alleged CEO Sam Altman and President Greg Brockman had deceived him over the company’s non-profit status. Watch as AI reporter and attorney Michelle Kim, who covered the trial for MIT Technology Review, joins in conversation with editor in&#8230;",
+          "published": "2026-05-19T20:15:18+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
           ]
         },
         {
@@ -71,68 +136,6 @@
           "event_labels": [
             "regulation"
           ]
-        },
-        {
-          "title": "오픈AI, 머스크 재판에서 '소멸시효 만료'로 승리...\"IPO 추진 급물살\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTHZwMGJvd3BCS0V4UHJERXhiMkRiQ3lkOUdmbFc3aFJXTUk1eXFWZGxseEVYSnAxd3hJa0VYU0VhMTVvNjgtbXptWnhGTkhoZ3VnVXNuWGxFVFpsY2JXMUE3ZEN2cXdSNVE?oc=5",
-          "summary": "오픈AI, 머스크 재판에서 '소멸시효 만료'로 승리...\"IPO 추진 급물살\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-18T21:03:43+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Here’s why Elon Musk lost his suit against OpenAI",
-          "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
-          "published": "2026-05-19T00:53:10+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
-          "link": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race?utm_source=rss_feed",
-          "summary": "Chinese electric vehicle (EV) maker Xpeng has begun mass production of autonomous cabs powered by its own chips, likely to mount yet another challenge on Tesla as both companies pursue a leading position in self-driving. Robotaxis have become the latest area where the two firms could go head-to-head, after smart EVs and humanoid robots, as the booming development of physical artificial intelligence technologies intensifies. Guangzhou-based Xpeng said its robotaxis would have level 4 (L4)...",
-          "published": "2026-05-19T02:08:20+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -141,10 +144,136 @@
       "count": 8,
       "articles": [
         {
-          "title": "US Stock Futures Drop as Semiconductor Stocks Slip, Yields Climb",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/us-stock-futures-drop-as-semiconductor-stocks-slip-yields-climb",
-          "summary": "US futures ticked lower with 10-year Treasury yields climbing above 4.6%. Major semiconductor stocks like Micron Technology Inc. and Nvidia Corp. extended declines.",
-          "published": "2026-05-19T11:31:27+00:00",
+          "title": "구글 AI 연구원들이 TPU 줄 서 기다린다…\"외부 고객·앤트로픽·메타에 자리 뺏겨\"",
+          "link": "https://zdnet.co.kr/view/?no=20260519200810",
+          "summary": "[지디넷코리아]블룸버그가 18일 구글(Google) 사내 AI 연구원들이 자사 텐서 처리 장치(TPU)에 접근하기 위해 줄을 서야 하는 역설적 상황을 폭로 보도했다. 구글은 자체 칩, 클라우드 사업, 앤트로픽(Anthropic)·메타(Meta)와의 외부 컴퓨팅 공급 계약까지 결합한 가장 강력한 AI 인프라 생태계를 보유했지만, 정작 자사 연구원들이 외부 유료 고객과 같은 TPU 자원을 두고 경쟁하면서 \"실험 프로젝트가 매출 창출 워크로드에 밀린다\"는 불만이 누적되고 있다는 것이다.구글의 자체 설계 AI 칩 TPU는 수요가 폭증하면서 내부 연구원조차 \"외부 빅테크 고객인 앤트로픽·메타에 사실상 자리를 뺏기는 느낌\"이라고 토로하는 상황이다. 구글 검색·구글 클라우드 부서도 같은 칩을 두고 경쟁하는 구조다. 매출이 직접 발생하는 외부 고객 워크로드와 알파벳 자체 사업부의 매출 워크로드가 우선순위에서 앞서면서, 사내 연구 부서는 행정적 절차와 자원 할당 회의를 거쳐야만 GPU 시간을 확보할",
+          "published": "2026-05-19T11:08:10+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
+          "link": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Here’s why Elon Musk lost his suit against OpenAI Elon Musk has lost his lawsuit against OpenAI, which centered on whether the company breached its founding contract as a nonprofit. A&#8230;",
+          "published": "2026-05-19T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Google Revamps Search for AI Era, Debuts Coding Tools",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-revamps-youtube-docs-with-artificial-intelligence-tools",
+          "summary": "Alphabet Inc.’s Google is redesigning its iconic search box and adding new artificial intelligence coding tools, the latest steps in the company’s multibillion-dollar campaign to expand influence in the age of AI.",
+          "published": "2026-05-19T17:13:36+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Google Hires Staff From Bezos-Backed Contextual AI In Licensing Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-hires-staff-from-bezos-backed-contextual-ai-in-licensing-deal",
+          "summary": "Google DeepMind has reached a deal to hire more than 20 researchers from artificial intelligence startup Contextual AI and license its technology, according to people familiar with the matter.",
+          "published": "2026-05-19T18:09:48+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Wall Street Watchdogs Pause Some Cyber Exams After Mythos Shock",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/anthropic-mythos-ai-model-prompts-regulators-to-delay-us-bank-cyberattack-tests",
+          "summary": "US regulators are pausing some cyber-related examinations of the largest banks, giving the lenders more breathing room as the firms dig into the risks exposed by Anthropic PBC’s new Mythos AI model.",
+          "published": "2026-05-19T19:03:40+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SoftBank Founder’s Starstruck Bet on OpenAI Raises Concern",
+          "link": "https://www.bloomberg.com/news/features/2026-05-19/softbank-founder-son-s-devotion-to-openai-s-altman-spooks-some-insiders",
+          "summary": "With more than $60 billion committed, some SoftBank insiders are growing uneasy over Son’s devotion to Altman.",
+          "published": "2026-05-19T21:00:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SoftBank Insiders Worry About Masayoshi Son’s Bet on OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/masayoshi-son-s-60-billion-bet-on-openai-raises-red-flags",
+          "summary": "On today’s Big Take Asia podcast, why Masayoshi Son’s $60 billion investment in OpenAI is raising concerns inside SoftBank.",
+          "published": "2026-05-19T21:01:12+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -181,180 +310,17 @@
           "event_labels": [
             "earnings"
           ]
-        },
-        {
-          "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
-          "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
-          "published": "2026-05-19T00:15:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[AI는 지금] \"코파일럿 원조 흔들린다\"…MS, 깃허브 AI 주도권 약화에 내부 경고등",
-          "link": "https://zdnet.co.kr/view/?no=20260519175238",
-          "summary": "[지디넷코리아]마이크로소프트(MS) 내부에서 깃허브의 인공지능(AI) 코딩 도구 경쟁력 약화를 우려하는 목소리가 커지고 있다. 깃허브 코파일럿이 AI 코딩 시장을 연 대표 제품으로 자리 잡았지만 커서(Cursor), 앤트로픽 클로드 코드(Claude Code), 리플릿(Replit) 등 에이전트형 개발 도구가 빠르게 부상하면서 초기 주도권이 흔들리고 있다고 봐서다.18일(현지시간) 디인포메이션에 따르면 MS 경영진은 최근 깃허브의 AI 리더십 약화를 내부적으로 경고했다. 특히 제이 파리크 MS 코어AI 부문 책임자는 깃허브가 직면한 상황을 중대한 위협으로 보고 있는 것으로 전해졌다. 깃허브가 코파일럿으로 AI 코딩 도구 시장을 개척했지만 최근 경쟁 제품의 확산 속도와 개발자 사용 경험 변화에 충분히 대응하지 못했다는 취지다.이번 우려는 깃허브의 MS 내 위상이 달라지는 시점에 나왔다는 점에서 주목된다. 깃허브는 2018년 MS에 인수된 뒤에도 개발자 커뮤니티와 오픈소스 생태계 특성을",
-          "published": "2026-05-19T08:53:22+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "美헤지펀드, 엔비디아·AMD 등에 하락 베팅…AI 회의론 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WenVlS29DS0xtMmRYUF85MENHUjMtcENDWll0UXFJanZrYUkwQUJpUHVnZ0pvbTRYZkFTemt1X3lJWkFxVURNRTExRlBrVE1zRExPLTNuQkJtYzFsUU5ScDZsc2U1ZktaeDU0bVF3RjI?oc=5",
-          "summary": "美헤지펀드, 엔비디아·AMD 등에 하락 베팅…AI 회의론 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-19T00:38:23+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta Bets $200 Billion It Can Show Massive AI Data Center Will Pay Off",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-19/meta-bets-that-200-billion-ai-data-center-in-rural-louisiana-will-pay-off",
-          "summary": "Investors want to see whether the company’s huge facility in rural Louisiana is worth the cost",
-          "published": "2026-05-19T11:02:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, 'AI 체질 개선' 본격화...8000명 해고하고 7000명 AI 전진 배치 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaUFAzM2s4LTRLOTVodUdmMHJJSFNCaDlzcUhvNkgwcXM1X0pjWEM1R0JHeXQ4Z1NfUVk2dUpGd0RVeXQxMWtVcllIWmxON3Y2VXZ6T0N4dHpDVXJJdWdUTWJfZ3lYSVdld2c?oc=5",
-          "summary": "메타, 'AI 체질 개선' 본격화...8000명 해고하고 7000명 AI 전진 배치 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-19T04:10:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[가보니] \"회사 같지 않았다\"…구글 본사의 공간 전략 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyLTNQTzlreG1NMy1UZnhKTDgwOGVvWVVHdTU5Nkx1b3dUMmdMTEhJM2c0U3o4U25XSnZZblVGa3Faa01wU0ZTeXNBT0hJczhiS1E?oc=5",
-          "summary": "[가보니] \"회사 같지 않았다\"…구글 본사의 공간 전략 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-05-19T04:50:35+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "테더, 회사명 상표권 출원…한국 시장 진출 채비",
-          "link": "https://zdnet.co.kr/view/?no=20260519175540",
-          "summary": "[지디넷코리아]글로벌 스테이블코인 발행사 테더가 국내 상표권 출원했다.19일 특허청 지식재산정보에 따르면 테더는 지난 14일 회사명, 로고, 금 기반 스테이블코인 ‘테더골드’ 등 7개 상표를 국내 출원했다.이는 지난해 다섯 차례 진행한 상표권 출원에 이은 추가 행보다. 현재까지 테더가 국내에 출원한 상표는 총 15개다.일각에서는 테더가 국내 스테이블코인 시장 진출을 본격화하려는 움직임으로 해석하고 있다. 디지털자산기본법 논의 과정에서 해외 사업자의 가상자산 발행 문제가 다뤄지는 만큼, 법제화에 앞서 선제 대응에 나선 것으로 풀이된다.이번 상표권 출원 범위는 가상자산 지갑부터 발행·거래·대출까지 전반을 아우른다.구체적으로 디지털 지갑용 소프트웨어, 가상자산 교환·거래용 소프트웨어, 금융거래 처리 소프트웨어, 가상자산 구매·판매·결제·청산·예치 관련 소프트웨어 등이 포함됐다. 이와 함께 가상자산 대출업, 발행·회수업, 전자이체업, 전자지불 처리업 등도 명시됐다.이번 상표권 출원인은 테더",
-          "published": "2026-05-19T09:00:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Crypto Crime Escalates With Kidnappings, Cons and Human Coercion",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/crypto-conferences-up-security-after-attacks-scams",
-          "summary": "After a year of kidnappings, assaults and armed home invasions targeting cryptocurrency holders, the industry is racing to harden its defenses.",
-          "published": "2026-05-19T09:30:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "네이버, 배달의 민족 인수설에 \"결정된 바 없어\" - 연합인포맥스",
@@ -366,33 +332,11 @@
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "한국 시장 직진 막힌 우버, 카모·배민 품는 우회로 선택",
-          "link": "https://zdnet.co.kr/view/?no=20260519162817",
-          "summary": "[지디넷코리아]모빌리티 플랫폼 우버가 최근 국내 택시 호출과 음식배달 시장에서 잇따라 인수 후보로 거론되고 있다. 과거 한국에서 차량 호출과 음식배달 사업 모두 애를 먹었던 만큼, 이번에는 기존 국내 플랫폼 인프라를 흡수하는 우회 진출을 검토하는 것이라는 분석이 나온다.19일 관련 업계에 따르면 우버는 최근 카카오모빌리티 지배구조 재편 과정에서 전략적 투자자로 거론된 데 이어, 배달의민족(배민) 운영사 우아한형제들 인수전에서도 잠재 후보군으로 이름을 올렸다. 카카오모빌리티와 배민은 각각 국내 택시 호출과 음식배달 시장의 핵심 인프라를 보유한 사업자인 만큼, 우버가 한국 시장 재공략을 위해 기존 1위 플랫폼을 활용하는 방안을 들여다보고 있다는 해석이다.우버는 최근 국내 플랫폼 업계 주요 인수·투자설마다 이름을 올리고 있다. 카카오모빌리티 지배구조 재편 논의에서는 텍사스퍼시픽그룹(TPG) 등 재무적투자자 지분을 인수할 후보로 거론됐다. 이어 독일 딜리버리히어로(DH)가 우아한형제들 매각",
-          "published": "2026-05-19T08:19:52+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -410,11 +354,11 @@
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 9,
+          "score": 7,
           "score_breakdown": {
             "keyword": 5,
             "source": 1,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
