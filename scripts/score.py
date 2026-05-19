@@ -18,6 +18,7 @@ rules.yaml에 정의된 룰에 따라 기사에 카테고리와 점수를 부여
 from __future__ import annotations
 
 import logging
+import re
 from datetime import datetime, timezone
 from typing import Iterable
 
@@ -31,18 +32,42 @@ def _haystack(article: dict) -> str:
     return f"{article['title']} {article.get('summary', '')}".lower()
 
 
+# 단어 경계 매칭용 정규식 캐시
+_PATTERN_CACHE: dict[str, re.Pattern] = {}
+
+
+def _word_pattern(kw: str) -> re.Pattern:
+    """키워드를 단어 경계 매칭 정규식으로 변환. 결과는 캐시.
+
+    - 영문/숫자 키워드: \\b 사용 (예: 'SEC'은 'AI sector'에 매칭 안 됨)
+    - 한글 키워드: \\b가 한글에서는 잘 작동하지 않으므로 그대로 substring 매칭
+      (한국어는 띄어쓰기 기반이 아니라 어절 단위라 SEC같은 오매칭 문제가 거의 없음)
+    """
+    if kw in _PATTERN_CACHE:
+        return _PATTERN_CACHE[kw]
+
+    # 한글이 포함된 키워드는 그냥 escape 후 substring 매칭
+    has_korean = any('\uac00' <= c <= '\ud7a3' for c in kw)
+    if has_korean:
+        pattern = re.compile(re.escape(kw.lower()), re.IGNORECASE)
+    else:
+        # 영문/숫자: 단어 경계 \b 적용
+        pattern = re.compile(r'\b' + re.escape(kw.lower()) + r'\b', re.IGNORECASE)
+    _PATTERN_CACHE[kw] = pattern
+    return pattern
+
+
 def _count_matches(text: str, keywords: Iterable[str]) -> int:
-    """텍스트에서 키워드가 매칭된 *키워드 개수* 반환 (출현 횟수 아님)."""
+    """텍스트에서 키워드가 매칭된 *키워드 개수* 반환. 단어 경계 인식."""
     matched = 0
     for kw in keywords:
-        if kw.lower() in text:
+        if _word_pattern(kw).search(text):
             matched += 1
     return matched
 
 
 def _has_any(text: str, keywords: Iterable[str]) -> bool:
-    return any(kw.lower() in text for kw in keywords)
-
+    return any(_word_pattern(kw).search(text) for kw in keywords)
 
 def _recency_score(published: datetime, rules: dict) -> int:
     now = datetime.now(timezone.utc)
@@ -75,7 +100,7 @@ def _event_bonus_score(text: str, rules: dict) -> tuple[int, list[str]]:
 def _noise_penalty(text: str, rules: dict, event_matched: bool) -> int:
     penalty = 0
     for rule in rules["noise_patterns"]:
-        if rule["pattern"].lower() in text:
+        if _word_pattern(rule["pattern"]).search(text):
             if rule.get("skip_if_event") and event_matched:
                 continue
             penalty += rule["score"]  # 이미 음수
