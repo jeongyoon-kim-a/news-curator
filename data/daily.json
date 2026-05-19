@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T10:46:19.034917+00:00",
+  "generated_at": "2026-05-19T10:58:51.009359+00:00",
   "total_articles": 30,
   "categories": {
     "elon_musk": {
@@ -52,51 +52,6 @@
           ]
         },
         {
-          "title": "Meet Zhou Qunfei: the woman seated between Tim Cook and Elon Musk at China state banquet",
-          "link": "https://www.scmp.com/tech/article/3353657/meet-zhou-qunfei-woman-seated-between-tim-cook-and-elon-musk-china-state-banquet?utm_source=rss_feed",
-          "summary": "Zhou Qunfei, the woman at the helm of manufacturing giant Lens Technology, found herself seated in a favourable position at the state banquet hosted by Chinese President Xi Jinping for US President Donald Trump on Thursday night, placed between two of her most important clients, Apple CEO Tim Cook and Tesla founder Elon Musk. Several Chinese business leaders attended the banquet alongside US executives and officials, including Hisense chairman Jia Shaoqian, Wanxiang Group chairman Lu Weiding,...",
-          "published": "2026-05-15T05:09:31+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aanlUcHBzQkxXLWxWZ3k2ekpwZ240WlREOXRGQ1Vpb3JQUWNTX052c3ZZeVJvN1NQVTZvbU5Bd2xhQUxDRkpmd2x2aEJrc2Y0U2JrNTI4cTdZaElSbGdYNVNKWjFuYXNHd2Y0UzctUzk?oc=5",
-          "summary": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-18T22:58:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
           "title": "Here’s why Elon Musk lost his suit against OpenAI",
           "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
           "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
@@ -119,26 +74,68 @@
           ]
         },
         {
-          "title": "Elon Musk’s $1trn pay deal is a troubling display of corporate capture",
-          "link": "https://www.economist.com/business/2025/11/07/elon-musks-1trn-pay-deal-is-a-troubling-display-of-corporate-capture",
-          "summary": "He has Tesla and its board wrapped around his finger",
-          "published": "2025-11-07T18:11:52+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aanlUcHBzQkxXLWxWZ3k2ekpwZ240WlREOXRGQ1Vpb3JQUWNTX052c3ZZeVJvN1NQVTZvbU5Bd2xhQUxDRkpmd2x2aEJrc2Y0U2JrNTI4cTdZaElSbGdYNVNKWjFuYXNHd2Y0UzctUzk?oc=5",
+          "summary": "오픈AI 소송 건 머스크 패소…\"3년 소멸시효 지나\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-18T22:58:22+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
-            "recency": -2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "regulation"
           ]
+        },
+        {
+          "title": "오픈AI, 머스크 재판에서 '소멸시효 만료'로 승리...\"IPO 추진 급물살\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTHZwMGJvd3BCS0V4UHJERXhiMkRiQ3lkOUdmbFc3aFJXTUk1eXFWZGxseEVYSnAxd3hJa0VYU0VhMTVvNjgtbXptWnhGTkhoZ3VnVXNuWGxFVFpsY2JXMUE3ZEN2cXdSNVE?oc=5",
+          "summary": "오픈AI, 머스크 재판에서 '소멸시효 만료'로 승리...\"IPO 추진 급물살\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-18T21:03:43+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Elon Musk Loses Case Against Sam Altman Over OpenAI’s Overhaul",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/elon-musk-loses-case-against-sam-altman-to-force-openai-overhaul",
+          "summary": "A jury rejected Elon Musk’s claims that OpenAI under Sam Altman’s leadership betrayed its mission to benefit the public by morphing into a for-profit business, finding that he waited too long to sue the company.",
+          "published": "2026-05-18T17:40:56+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
@@ -146,94 +143,6 @@
       "display_name": "빅테크",
       "count": 8,
       "articles": [
-        {
-          "title": "Cracks are appearing in OpenAI’s dominant façade",
-          "link": "https://www.economist.com/business/2025/11/19/cracks-are-appearing-in-openais-dominant-facade",
-          "summary": "A deal between Anthropic, Microsoft and Nvidia makes AI more circular",
-          "published": "2025-11-19T21:32:26+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Nvidia’s $100bn bet on OpenAI raises more questions than it answers",
-          "link": "https://www.economist.com/business/2025/09/22/nvidias-100bn-bet-on-openai-raises-more-questions-than-it-answers",
-          "summary": "What if OpenAI hits a roadblock?",
-          "published": "2025-09-22T23:18:02+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Nvidia’s $100bn bet on OpenAI raises plenty of questions",
-          "link": "https://www.economist.com/business/2025/09/25/nvidias-100bn-bet-on-openai-raises-plenty-of-questions",
-          "summary": "Meanwhile, the building of AI data-centres gathers pace",
-          "published": "2025-09-25T13:45:46+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "SpaceX, OpenAI, Anthropic and their giga-IPO dreams",
-          "link": "https://www.economist.com/business/2025/12/16/spacex-openai-anthropic-and-their-giga-ipo-dreams",
-          "summary": "Will more capital trump more scrutiny?",
-          "published": "2025-12-16T20:25:13+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
         {
           "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
           "link": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
@@ -316,6 +225,90 @@
           },
           "event_labels": [
             "exec_change"
+          ]
+        },
+        {
+          "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/google-to-create-ai-cloud-business-with-blackstone-wsj-says",
+          "summary": "Alphabet Inc.’s Google agreed to create an artificial intelligence cloud business with Blackstone Inc., aiming to compete with companies like CoreWeave Inc. in a burgeoning market.",
+          "published": "2026-05-19T00:15:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "월가 전문가 \"금주 가장 크고 훌륭한 순풍은 엔비디아 실적\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVNzVRSjE4OVpQd2tHWUNGVFN4TzNua3lnb3N1alk0TmlyRmFCV3g2WmtURWVNWXN4S0xWV1k5MVlpYUFicVVRX29xbkRaRTc1NHZQUU9JUk5EXzZ6X0ZTeFpNWi1nazg2QkZhbE15OVfSAXRBVV95cUxOSExUUUhpY2NEVmp2eEhiUzBTNE5ERV9rVUNOb01Vem9QTzA2bWVsMUhEMWRpOFVFTnFqVTRBbUxRM3p3WUw0Wl9mbHhURXJXU2REb3Q3Y3J5NTBTNW1XRHlPRV9ER05yT2lLYXNjdGoxaURpNg?oc=5",
+          "summary": "월가 전문가 \"금주 가장 크고 훌륭한 순풍은 엔비디아 실적\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-18T22:46:15+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "교보DTS, AWS AI 전문 인증 획득…금융·제조 생성형 AI 공략",
+          "link": "https://zdnet.co.kr/view/?no=20260519170207",
+          "summary": "[지디넷코리아]교보DTS가 금융과 제조 등 전 산업군을 겨냥한 생성형 인공지능(AI) 시장 공략에 속도를 낸다.교보DTS는 아마존웹서비스(AWS)의 'AI 서비스 컴피턴시'를 취득하며 생성형 AI 분야의 전문 역량을 공식 인정받았다고 18일 밝혔다.AWS AI 서비스 컴피턴시는 검증된 기술력과 구축 사례를 가진 파트너에 부여하는 전문 인증이다. AWS는 엄격한 검증을 통과한 파트너를 선별해 고객의 신뢰도를 높이고 있다.교보DTS는 이번 인증을 계기로 AI 에이전트 플랫폼 '에이블 AI'를 AWS 인프라와 연계한다. 에이블 AI는 노코드 기반 워크플로우를 제공해 기업의 손쉬운 AI 에이전트 구축을 돕는다. 통합 오케스트레이션 구조로 실제 업무용 AI 운영 환경을 지원하는 것이 특징이다.그동안 교보DTS는 보험과 증권 등 금융 산업에서 IT 서비스와 클라우드 구축 역량을 쌓았다. 앞으로는 금융을 넘어 제조와 유통 등 다양한 산업군으로 AI 서비스를 확대할 계획이다.권창기 교보DTS 대표",
+          "published": "2026-05-19T08:02:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[AI는 지금] \"코파일럿 원조 흔들린다\"…MS, 깃허브 AI 주도권 약화에 내부 경고등",
+          "link": "https://zdnet.co.kr/view/?no=20260519175238",
+          "summary": "[지디넷코리아]마이크로소프트(MS) 내부에서 깃허브의 인공지능(AI) 코딩 도구 경쟁력 약화를 우려하는 목소리가 커지고 있다. 깃허브 코파일럿이 AI 코딩 시장을 연 대표 제품으로 자리 잡았지만 커서(Cursor), 앤트로픽 클로드 코드(Claude Code), 리플릿(Replit) 등 에이전트형 개발 도구가 빠르게 부상하면서 초기 주도권이 흔들리고 있다고 봐서다.18일(현지시간) 디인포메이션에 따르면 MS 경영진은 최근 깃허브의 AI 리더십 약화를 내부적으로 경고했다. 특히 제이 파리크 MS 코어AI 부문 책임자는 깃허브가 직면한 상황을 중대한 위협으로 보고 있는 것으로 전해졌다. 깃허브가 코파일럿으로 AI 코딩 도구 시장을 개척했지만 최근 경쟁 제품의 확산 속도와 개발자 사용 경험 변화에 충분히 대응하지 못했다는 취지다.이번 우려는 깃허브의 MS 내 위상이 달라지는 시점에 나왔다는 점에서 주목된다. 깃허브는 2018년 MS에 인수된 뒤에도 개발자 커뮤니티와 오픈소스 생태계 특성을",
+          "published": "2026-05-19T08:53:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
           ]
         }
       ]
@@ -412,28 +405,6 @@
           ]
         },
         {
-          "title": "Crypto’s big bang will revolutionise finance",
-          "link": "https://www.economist.com/finance-and-economics/2025/07/23/cryptos-big-bang-will-revolutionise-finance",
-          "summary": "The more useful stablecoins and tokens prove to be, the greater the risk",
-          "published": "2025-07-23T19:01:11+00:00",
-          "source_key": "economist_finance",
-          "source_name": "The Economist - Finance",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
           "title": "Investors Flock to Japan Convertible as Borrowing Costs Spike",
           "link": "https://www.bloomberg.com/news/articles/2026-05-19/jx-metals-prices-1-6-billion-of-convertibles-at-top-of-range",
           "summary": "Japanese convertible bonds continue to attract solid investor demand as a surge in borrowing costs drives companies to increasingly embrace the equity-linked securities.",
@@ -454,6 +425,28 @@
           "event_labels": [
             "regulation"
           ]
+        },
+        {
+          "title": "데이터독, 보안 위협 조사 30초면 해결…'비츠 AI 시큐리티 애널리스트' 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260519171059",
+          "summary": "[지디넷코리아]데이터독이 보안 위협 조사 시간을 최대 98%까지 줄여주는 인공지능(AI) 에이전트를 선보이며 보안 운영 센터 운영 지원에 나선다.데이터독은 '비츠 AI 시큐리티 애널리스트(Bits AI Security Analyst)'를 출시했다고 19일 밝혔다.클라우드 기반 보안 정보 이벤트 관리(Cloud SIEM) 시스템의 핵심 기능으로 탑재된 비츠 AI 시큐리티 애널리스트는 기존에 수 시간씩 걸리던 보안 조사 업무를 최소 30초로 단축한다. 이 에이전트는 숙련된 시니어 보안 전문가 수준의 판단 역량과 대규모 연산 처리 능력을 동시에 갖췄다.최근 보안 운영 센터는 지능화한 인공지능 기반 공격이 늘어나면서 업무 과부하에 시달리고 있다. 보안 인력 부족으로 모든 위협 요소를 사람이 일일이 조사하고 분류해 대응하는 일은 한계에 부딪힌 상황이다.비츠 AI 보안 분석가는 방대한 보안 데이터 전체를 스스로 탐색하고 실제 맥락에 맞춰 높은 정확도로 위협을 판정한다. 이를 통해 보안 담당자는",
+          "published": "2026-05-19T08:10:59+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
         }
       ]
     },
@@ -461,6 +454,30 @@
       "display_name": "핀테크",
       "count": 6,
       "articles": [
+        {
+          "title": "AI to Replace ‘Lower-Value Human Capital’: StanChart CEO | The Opening Trade 5/19/2026",
+          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-opening-trade-5-19-2026-video",
+          "summary": "Standard Chartered Chief Executive Officer Bill Winters delivered a blunt message on the future of the bank’s workforce, warning that a push into artificial intelligence will eliminate thousands of roles as the lender replaces “lower-value human capital” with technology. US stock futures held steady after a two-day pullback while oil fell modestly as traders awaited signs of progress toward a peace deal in the Middle East. The Opening Trade has everything you need to know as markets open across ",
+          "published": "2026-05-19T10:28:40+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "fintech",
+          "category_display": "핀테크",
+          "score": 19,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 8,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "regulation",
+            "exec_change"
+          ]
+        },
         {
           "title": "Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/18/2026",
           "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-close-5-18-2026-video",
@@ -565,28 +582,6 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "Only one of Berkshire Hathaway and SoftBank can survive",
-          "link": "https://www.economist.com/business/2026/05/06/only-one-of-berkshire-hathaway-and-softbank-can-survive",
-          "summary": "The two represent competing visions of the future",
-          "published": "2026-05-06T20:01:52+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": -2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
         }
       ]
     },
@@ -617,48 +612,6 @@
           ]
         },
         {
-          "title": "금융당국, 증권사에 유동성 규제 전면 확대…'헤어컷' 도입 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qWVZydEdoU2dpVEpZUzRDanFPYVNyb2c4eTNoaWdMeE5CaGRLR2FZWVBmb0R6UWdUS0xSVFNZRklzcDlBb3k3eWdqN2pFV3BISW1HUGNfM0ZiMzBnSDhoY29nQUtuQVhudTlUcUZhd0g?oc=5",
-          "summary": "금융당국, 증권사에 유동성 규제 전면 확대…'헤어컷' 도입 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-18T03:03:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 0,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "[코스피] 90.38p(1.20%) 내린 7,425.66(개장) - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBoX2lPNDlnWG9UZ0Z4dEJOdlh4ODl3ZmQxME8yWDREWElfamlkRlEzQTJuM1paVnRMeXhEUzRUMEVVdVFtUXJQMDFBR0I0UTI5TGc?oc=5",
-          "summary": "[코스피] 90.38p(1.20%) 내린 7,425.66(개장) &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-05-19T00:01:22+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
           "title": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 - 매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ib01jYkRqWTRaZ3ZxWFVMNG00RGdlUjZnRUpmeURhYkhEendmWHZFVzJDUUtMeS02cU5DZE83QkxvNHdJaDdUN3REbEM2aUhQRmc?oc=5",
           "summary": "한화에어로스페이스, `유럽보다도 우위 구간. 과도한 조정이다` 증권사 발표에 강세 &nbsp;&nbsp; 매일경제",
@@ -675,6 +628,46 @@
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "K-반도체, 메모리 넘어 AI칩 생태계 강화해야....B학점",
+          "link": "https://zdnet.co.kr/view/?no=20260514092900",
+          "summary": "[지디넷코리아]지난해 6월 출범한 이재명 정부는 '진짜 성장'을 내세웠다. AI로 경제·사회·기술 대전환을 꾀해 국가발전과 국민행복이 선순환되는 시대를 열겠다는 것이다. 지난해 하반기부터는 30대 선도프로젝트가 가동되기 시작했으며 각 경제·산업 분야에서 AI 대전환이 진행 중이다. 일단 스타트는 좋다. AI 붐을 등에 업고 코스피 7000 시대가 열렸다. 하지만 미국·이스라엘-이란 전쟁으로 인한 고유가·고물가·고환율 리스크가 AI 대전환의 발목을 잡고 있다. 지디넷코리아는 창간 26주년을 맞아 이 격변의 시점에 있는 대한민국 산업 현장을 진단하고, 각 분야 전문가들과 함께 'AI 시대, 이재명 정부 1년'을 평가했다. [편집자주]국내 반도체 기업, 그리고 학계 관계자들은 대체로 이재명 정부의 AI 반도체 정책 방향을 긍정 평가하면서 세부 과제는 보완이 필요하다고 평가했다. 앞으로 본격 전개될 AI 시대에는 현재 한국이 강점을 보유한 메모리 반도체 외에 온디바이스 AI, 생태계 등을 ",
+          "published": "2026-05-19T08:20:56+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "코스피, 3.25% 하락한 7,271.66 마감…외인 9일 연속 '팔자' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KNjI2T1A2djMwN0NxMXlINHdKYzc4NDlqdE1WMlg1ZEJxUThlZVhVdUIxYm5LQlh0N2N5V2tUZU5hdkllUEIwd3ZSeF84RHNpcnJGVndxNWFLaGVxbjJzbmViR2tGMFl3Tk00eFhtN1bSAXRBVV95cUxNWHVubU1MOGY0WkpFdVlaUUZjdHliYThyb0dfeEVGZXFKTDNFV1dNcjNCVDBfTk1xa1VpREd5RlBoY0pHY0dTTVdDeGI3aEdVNUNONF8wakw2ZTJuOFhCdkpzLXR1M3lrLXZNd2EzakpJeUM1Ng?oc=5",
+          "summary": "코스피, 3.25% 하락한 7,271.66 마감…외인 9일 연속 '팔자' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-19T06:35:34+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋 & 한국 금융",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": -2
           },
           "event_labels": []
         }
