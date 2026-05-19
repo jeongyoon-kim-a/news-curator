@@ -1,0 +1,47 @@
+name: Daily News Curation
+
+on:
+  schedule:
+    # GitHub Actions는 UTC 기준이므로 KST 06:00 = UTC 21:00 (전날)
+    - cron: "0 21 * * *"
+  # 수동 실행도 가능하게 (Actions 탭에서 "Run workflow" 버튼)
+  workflow_dispatch:
+
+jobs:
+  curate:
+    runs-on: ubuntu-latest
+
+    # Actions가 data/daily.json을 commit하려면 쓰기 권한 필요
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run curator
+        run: python scripts/run.py
+
+      - name: Commit updated daily.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/daily.json
+          # 변경 없으면 commit 스킵 (RSS가 비어있는 등)
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: daily news update $(date -u +%Y-%m-%d)"
+            git push
+          fi
