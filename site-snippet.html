@@ -1,0 +1,393 @@
+<!--
+==========================================================================
+오늘의 큐레이션 섹션
+==========================================================================
+사용법:
+  1. 이 파일의 <style>, <section>, <script>를 기존 index.html에 통합
+  2. fetch URL을 정윤님의 news-curator repo Pages URL로 수정:
+     예) https://<github-username>.github.io/news-curator/data/daily.json
+  3. 기존 News Multi-Search 섹션 위 또는 아래에 <section>을 배치
+==========================================================================
+-->
+
+<style>
+  :root {
+    --cur-bg: #faf8f3;           /* 기존 사이트 배경과 동일 */
+    --cur-card: #ffffff;
+    --cur-border: #e8e3d8;
+    --cur-text: #2a2620;
+    --cur-text-dim: #8a8175;
+    --cur-text-faint: #b8af9f;
+    --cur-accent: #6b5e4a;
+
+    /* 카테고리 색 — 기존 사이트 칩 색감과 호환 */
+    --cat-musk: #d9c8b8;          /* 머스크: 따뜻한 베이지 */
+    --cat-musk-text: #6b4d2e;
+    --cat-bigtech: #c8d5d0;       /* 빅테크: 차분한 세이지 */
+    --cat-bigtech-text: #3d5249;
+    --cat-digital: #d6cde0;       /* 디지털자산: 라벤더 */
+    --cat-digital-text: #4d4263;
+    --cat-fintech: #e6d4c6;       /* 핀테크: 살구 */
+    --cat-fintech-text: #6b4a35;
+    --cat-mirae: #c9d3df;         /* 미래에셋: 안개 푸름 */
+    --cat-mirae-text: #3a4a5e;
+  }
+
+  .curation-section {
+    max-width: 1100px;
+    margin: 80px auto 60px;
+    padding: 0 24px;
+    font-family: -apple-system, BlinkMacSystemFont, "Pretendard", sans-serif;
+    color: var(--cur-text);
+  }
+
+  .curation-header {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  .curation-title {
+    font-size: 28px;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    margin: 0 0 8px;
+  }
+
+  .curation-subtitle {
+    font-size: 13px;
+    color: var(--cur-text-dim);
+    margin: 0;
+  }
+
+  .curation-meta {
+    margin-top: 12px;
+    font-size: 11px;
+    color: var(--cur-text-faint);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .curation-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 32px;
+  }
+
+  .filter-chip {
+    padding: 6px 14px;
+    border: 1px solid var(--cur-border);
+    border-radius: 16px;
+    background: transparent;
+    color: var(--cur-text-dim);
+    font-size: 12px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .filter-chip:hover {
+    border-color: var(--cur-accent);
+    color: var(--cur-text);
+  }
+  .filter-chip.active {
+    background: var(--cur-accent);
+    border-color: var(--cur-accent);
+    color: white;
+  }
+
+  .curation-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 16px;
+  }
+
+  .category-block {
+    margin-bottom: 32px;
+  }
+
+  .category-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin: 0 0 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--cur-border);
+  }
+
+  .category-name {
+    font-size: 15px;
+    font-weight: 600;
+    color: var(--cur-text);
+  }
+
+  .category-count {
+    font-size: 11px;
+    color: var(--cur-text-faint);
+    font-variant-numeric: tabular-nums;
+  }
+
+  .article-card {
+    background: var(--cur-card);
+    border: 1px solid var(--cur-border);
+    border-radius: 8px;
+    padding: 16px 18px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    color: inherit;
+    display: block;
+    transition: transform 0.12s ease, box-shadow 0.12s ease, border-color 0.12s ease;
+  }
+  .article-card:hover {
+    transform: translateY(-1px);
+    border-color: var(--cur-accent);
+    box-shadow: 0 4px 12px rgba(60, 50, 40, 0.06);
+  }
+
+  .article-top-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    font-size: 11px;
+  }
+
+  .article-source {
+    color: var(--cur-text-dim);
+    font-weight: 500;
+  }
+
+  .article-time {
+    color: var(--cur-text-faint);
+    margin-left: auto;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .article-title {
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 500;
+    margin: 0 0 6px;
+    color: var(--cur-text);
+  }
+
+  .article-summary {
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--cur-text-dim);
+    margin: 0 0 8px;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .article-footer {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .event-tag {
+    font-size: 10px;
+    padding: 2px 7px;
+    border-radius: 10px;
+    background: var(--cur-bg);
+    color: var(--cur-text-dim);
+    border: 1px solid var(--cur-border);
+  }
+
+  .score-badge {
+    font-size: 10px;
+    color: var(--cur-text-faint);
+    margin-left: auto;
+    font-variant-numeric: tabular-nums;
+    font-family: ui-monospace, SFMono-Regular, monospace;
+  }
+
+  .loading, .error, .empty {
+    text-align: center;
+    padding: 40px 20px;
+    color: var(--cur-text-dim);
+    font-size: 13px;
+  }
+  .error {
+    color: #a85a3a;
+  }
+
+  /* 모바일 */
+  @media (max-width: 640px) {
+    .curation-section { padding: 0 16px; margin: 40px auto; }
+    .curation-title { font-size: 22px; }
+    .category-block { margin-bottom: 24px; }
+  }
+</style>
+
+<section class="curation-section" id="curation">
+  <div class="curation-header">
+    <h2 class="curation-title">오늘의 큐레이션</h2>
+    <p class="curation-subtitle">매일 새벽 6시 자동 갱신 · 중요도 기준 상위 기사</p>
+    <div class="curation-meta" id="curation-meta"></div>
+  </div>
+
+  <div class="curation-filters" id="curation-filters">
+    <button class="filter-chip active" data-cat="all">전체</button>
+  </div>
+
+  <div id="curation-content">
+    <div class="loading">기사를 불러오는 중…</div>
+  </div>
+</section>
+
+<script>
+(function() {
+  // ============================================================
+  // 설정: 정윤님 news-curator repo의 GitHub Pages URL로 변경
+  // ============================================================
+  const DATA_URL = "https://<YOUR-GITHUB-USERNAME>.github.io/news-curator/data/daily.json";
+
+  // 로컬 개발용 대안 (같은 repo 안에 두는 경우):
+  // const DATA_URL = "./data/daily.json";
+
+  const $ = (sel) => document.querySelector(sel);
+  const filtersEl = $("#curation-filters");
+  const contentEl = $("#curation-content");
+  const metaEl = $("#curation-meta");
+
+  let currentData = null;
+  let activeCategory = "all";
+
+  function formatTimeAgo(isoStr) {
+    const then = new Date(isoStr);
+    const now = new Date();
+    const mins = Math.floor((now - then) / 60000);
+    if (mins < 60) return `${mins}분 전`;
+    const hours = Math.floor(mins / 60);
+    if (hours < 24) return `${hours}시간 전`;
+    const days = Math.floor(hours / 24);
+    return `${days}일 전`;
+  }
+
+  function formatGeneratedAt(isoStr) {
+    const d = new Date(isoStr);
+    return d.toLocaleString("ko-KR", {
+      month: "long", day: "numeric",
+      hour: "2-digit", minute: "2-digit"
+    });
+  }
+
+  function eventLabelKo(label) {
+    const map = {
+      m_and_a: "M&A",
+      earnings: "실적",
+      regulation: "규제",
+      exec_change: "임원교체",
+      funding: "투자/IPO"
+    };
+    return map[label] || label;
+  }
+
+  function renderArticle(article) {
+    const events = (article.event_labels || [])
+      .map(l => `<span class="event-tag">${eventLabelKo(l)}</span>`)
+      .join("");
+
+    return `
+      <a class="article-card" href="${article.link}" target="_blank" rel="noopener">
+        <div class="article-top-row">
+          <span class="article-source">${article.source_name}</span>
+          <span class="article-time">${formatTimeAgo(article.published)}</span>
+        </div>
+        <div class="article-title">${escapeHtml(article.title)}</div>
+        ${article.summary ? `<div class="article-summary">${escapeHtml(article.summary)}</div>` : ""}
+        <div class="article-footer">
+          ${events}
+          <span class="score-badge">${article.score}점</span>
+        </div>
+      </a>
+    `;
+  }
+
+  function escapeHtml(str) {
+    return (str || "").replace(/[&<>"']/g, (c) => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+    }[c]));
+  }
+
+  function render() {
+    if (!currentData) return;
+    const cats = currentData.categories;
+    const catKeys = Object.keys(cats);
+
+    if (activeCategory === "all") {
+      // 전체 보기: 카테고리별 블록으로 렌더
+      const html = catKeys.map(key => {
+        const cat = cats[key];
+        if (!cat.articles.length) return "";
+        return `
+          <div class="category-block">
+            <div class="category-heading">
+              <span class="category-name">${cat.display_name}</span>
+              <span class="category-count">${cat.count}건</span>
+            </div>
+            ${cat.articles.map(renderArticle).join("")}
+          </div>
+        `;
+      }).join("");
+      contentEl.innerHTML = html || `<div class="empty">오늘 선정된 기사가 없습니다.</div>`;
+    } else {
+      // 특정 카테고리 보기
+      const cat = cats[activeCategory];
+      if (!cat || !cat.articles.length) {
+        contentEl.innerHTML = `<div class="empty">이 카테고리에서 선정된 기사가 없습니다.</div>`;
+      } else {
+        contentEl.innerHTML = `
+          <div class="category-block">
+            ${cat.articles.map(renderArticle).join("")}
+          </div>
+        `;
+      }
+    }
+  }
+
+  function buildFilters() {
+    const cats = currentData.categories;
+    Object.keys(cats).forEach(key => {
+      const btn = document.createElement("button");
+      btn.className = "filter-chip";
+      btn.dataset.cat = key;
+      btn.textContent = `${cats[key].display_name} (${cats[key].count})`;
+      filtersEl.appendChild(btn);
+    });
+
+    filtersEl.addEventListener("click", (e) => {
+      const btn = e.target.closest(".filter-chip");
+      if (!btn) return;
+      activeCategory = btn.dataset.cat;
+      filtersEl.querySelectorAll(".filter-chip")
+        .forEach(b => b.classList.toggle("active", b === btn));
+      render();
+    });
+  }
+
+  async function load() {
+    try {
+      const res = await fetch(DATA_URL, { cache: "no-store" });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      currentData = await res.json();
+      metaEl.textContent = `${formatGeneratedAt(currentData.generated_at)} 기준 · 총 ${currentData.total_articles}건`;
+      buildFilters();
+      render();
+    } catch (err) {
+      console.error(err);
+      contentEl.innerHTML = `
+        <div class="error">
+          데이터를 불러오지 못했습니다.<br>
+          <small style="color: var(--cur-text-faint);">${escapeHtml(String(err))}</small>
+        </div>
+      `;
+    }
+  }
+
+  load();
+})();
+</script>

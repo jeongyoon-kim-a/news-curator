@@ -1,0 +1,90 @@
+# 매체 정의 파일
+# weight: 매체 자체의 점수 가중치 (1차 보도 매체일수록 높게)
+# type: rss = 직접 RSS, gnews = Google News RSS로 우회, naver = 네이버 검색
+
+international:
+  bloomberg_tech:
+    name: "Bloomberg Technology"
+    type: rss
+    url: "https://feeds.bloomberg.com/technology/news.rss"
+    weight: 3
+
+  bloomberg_markets:
+    name: "Bloomberg Markets"
+    type: rss
+    url: "https://feeds.bloomberg.com/markets/news.rss"
+    weight: 3
+
+  the_information:
+    # The Information은 무료 RSS가 없어서 Google News로 우회
+    name: "The Information"
+    type: gnews
+    site: "theinformation.com"
+    weight: 3
+
+  barrons:
+    name: "Barron's"
+    type: gnews
+    site: "barrons.com"
+    weight: 2
+
+  scmp_tech:
+    name: "SCMP Tech"
+    type: rss
+    url: "https://www.scmp.com/rss/36/feed"
+    weight: 2
+
+  mit_tech_review:
+    name: "MIT Technology Review"
+    type: rss
+    url: "https://www.technologyreview.com/feed/"
+    weight: 2
+
+  economist_business:
+    name: "The Economist - Business"
+    type: rss
+    url: "https://www.economist.com/business/rss.xml"
+    weight: 2
+
+  economist_finance:
+    name: "The Economist - Finance"
+    type: rss
+    url: "https://www.economist.com/finance-and-economics/rss.xml"
+    weight: 2
+
+domestic:
+  hankyung_it:
+    name: "한국경제 IT"
+    type: rss
+    url: "https://www.hankyung.com/feed/it"
+    weight: 2
+
+  hankyung_finance:
+    name: "한국경제 금융"
+    type: rss
+    url: "https://www.hankyung.com/feed/finance"
+    weight: 2
+
+  mk_economy:
+    name: "매일경제"
+    type: gnews
+    site: "mk.co.kr"
+    weight: 2
+
+  einfomax:
+    name: "연합인포맥스"
+    type: gnews
+    site: "news.einfomax.co.kr"
+    weight: 2
+
+  aitimes:
+    name: "AI타임스"
+    type: gnews
+    site: "aitimes.com"
+    weight: 2
+
+  zdnet_korea:
+    name: "ZDNet Korea"
+    type: rss
+    url: "https://feeds.feedburner.com/zdkorea"
+    weight: 1

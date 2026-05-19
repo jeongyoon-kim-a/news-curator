@@ -1,0 +1,254 @@
+# =====================================================================
+# 스코어링 룰
+# =====================================================================
+# 시스템 작동 방식:
+#   1. 각 기사에 카테고리를 매김 (제목+요약에서 키워드 매칭)
+#   2. 카테고리 내에서 점수 계산: 키워드 점수 + 매체 점수 + 시간 점수
+#      + 이벤트 보너스 - 노이즈 패널티
+#   3. 카테고리별 상위 N개씩 추출 (총 ~30개)
+#
+# 튜닝 가이드:
+#   - "이건 왜 빠졌지" → 그 기사에 들어간 키워드를 keywords에 추가
+#   - "이건 왜 올라왔지" → noise_patterns에 추가
+#   - "이 매체는 너무 많이 올라옴" → sources.yaml에서 weight 낮춤
+# =====================================================================
+
+# 카테고리 정의 — 정윤님이 말씀하신 5개 분야
+categories:
+  elon_musk:
+    display_name: "일론 머스크"
+    target_count: 6   # 매일 이 카테고리에서 상위 N개 선정
+    keywords:
+      strong:  # 직접 언급 — 매칭되면 +5
+        - "Elon Musk"
+        - "일론 머스크"
+        - "머스크"
+      related:  # 머스크 사업체 — +3
+        - "SpaceX"
+        - "스페이스X"
+        - "Starlink"
+        - "스타링크"
+        - "Tesla"
+        - "테슬라"
+        - "xAI"
+        - "Neuralink"
+        - "뉴럴링크"
+        - "X Corp"
+        - "Grok"
+
+  bigtech:
+    display_name: "빅테크"
+    target_count: 8
+    keywords:
+      strong:
+        - "OpenAI"
+        - "Anthropic"
+        - "Nvidia"
+        - "엔비디아"
+      related:
+        - "Microsoft"
+        - "마이크로소프트"
+        - "Google"
+        - "구글"
+        - "Alphabet"
+        - "알파벳"
+        - "Meta"
+        - "메타"
+        - "Apple"
+        - "애플"
+        - "Amazon"
+        - "아마존"
+        - "AWS"
+        - "Azure"
+
+  digital_asset:
+    display_name: "디지털 자산"
+    target_count: 6
+    keywords:
+      strong:
+        - "stablecoin"
+        - "스테이블코인"
+        - "Bitcoin ETF"
+        - "비트코인 ETF"
+        - "디지털자산"
+      related:
+        - "Coinbase"
+        - "코인베이스"
+        - "Circle"
+        - "USDC"
+        - "Bitcoin"
+        - "비트코인"
+        - "Ethereum"
+        - "이더리움"
+        - "crypto"
+        - "암호화폐"
+        - "가상자산"
+        - "SEC"
+        - "tokenization"
+        - "토큰화"
+        - "RWA"
+
+  fintech:
+    display_name: "핀테크"
+    target_count: 6
+    keywords:
+      strong:
+        - "Robinhood"
+        - "로빈후드"
+        - "Futu"
+        - "푸투홀딩스"
+        - "KakaoPay"
+        - "카카오페이"
+        - "토스"
+      related:
+        - "Affirm"
+        - "Klarna"
+        - "Nubank"
+        - "Line Pay"
+        - "결제"
+        - "payments"
+        - "BNPL"
+        - "neobank"
+        - "digital bank"
+        - "fintech"
+        - "핀테크"
+
+  mirae_asset:
+    display_name: "미래에셋 & 한국 금융"
+    target_count: 4
+    keywords:
+      strong:
+        - "미래에셋"
+        - "Mirae Asset"
+      related:
+        - "한국투자증권"
+        - "삼성증권"
+        - "NH투자증권"
+        - "KB증권"
+        - "증권사"
+        - "리서치센터"
+        - "ETF"
+        - "코스피"
+        - "코스닥"
+        - "KOSPI"
+
+# =====================================================================
+# 이벤트 보너스 — 이런 키워드가 들어있으면 점수 가산
+# (단순 시세/요약이 아니라 "실제 사건"이라는 신호)
+# =====================================================================
+event_bonus:
+  m_and_a: # +3
+    score: 3
+    keywords:
+      - "인수"
+      - "합병"
+      - "acquire"
+      - "acquisition"
+      - "merger"
+      - "M&A"
+      - "deal"
+      - "buyout"
+
+  earnings: # +2
+    score: 2
+    keywords:
+      - "실적"
+      - "earnings"
+      - "revenue"
+      - "매출"
+      - "어닝"
+      - "guidance"
+      - "가이던스"
+
+  regulation: # +3 — 규제는 시장 영향 큼
+    score: 3
+    keywords:
+      - "regulation"
+      - "규제"
+      - "lawsuit"
+      - "소송"
+      - "fine"
+      - "과징금"
+      - "SEC"
+      - "FTC"
+      - "antitrust"
+      - "독점"
+      - "ban"
+      - "금지"
+
+  exec_change: # +2
+    score: 2
+    keywords:
+      - "CEO"
+      - "step down"
+      - "사임"
+      - "선임"
+      - "appoint"
+      - "resign"
+
+  funding: # +2
+    score: 2
+    keywords:
+      - "raise"
+      - "투자유치"
+      - "Series"
+      - "시리즈"
+      - "IPO"
+      - "상장"
+      - "valuation"
+      - "기업가치"
+
+# =====================================================================
+# 노이즈 패널티 — 이런 키워드가 들어있으면 점수 깎기
+# (의미 없는 시세 기사, 광고성 기사 거르기)
+# =====================================================================
+noise_patterns:
+  - pattern: "주가"
+    score: -2
+    # 단, 이벤트 보너스 키워드가 함께 있으면 패널티 무시 (예: "주가 + 실적")
+    skip_if_event: true
+
+  - pattern: "시세"
+    score: -3
+  - pattern: "stock price"
+    score: -2
+    skip_if_event: true
+  - pattern: "today's gainers"
+    score: -3
+  - pattern: "today's losers"
+    score: -3
+  - pattern: "마감"  # "코스피 마감" 류
+    score: -2
+    skip_if_event: true
+  - pattern: "오전 시황"
+    score: -3
+  - pattern: "오후 시황"
+    score: -3
+  - pattern: "보도자료"
+    score: -2
+  - pattern: "PR Newswire"
+    score: -2
+  - pattern: "광고"
+    score: -3
+
+# =====================================================================
+# 시간 가중치
+# =====================================================================
+recency:
+  within_6h: 3
+  within_12h: 2
+  within_24h: 1
+  within_48h: 0
+  older: -2
+
+# =====================================================================
+# 매칭 점수
+# =====================================================================
+match_scores:
+  strong_keyword: 5  # strong 키워드 매칭당
+  related_keyword: 3 # related 키워드 매칭당
+  # 같은 카테고리에서 여러 키워드 매칭되어도 카테고리당 최대 점수는 cap
+  cap_per_category: 10
+
+# 최소 점수 임계값 — 이 점수 미만은 무조건 제외
+min_score: 5
