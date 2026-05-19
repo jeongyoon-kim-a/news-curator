@@ -124,6 +124,7 @@ def send_email(html: str, recipient: str, api_key: str, subject: str) -> None:
         headers={
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
+            "User-Agent": "news-curator/1.0",
         },
         method="POST",
     )
