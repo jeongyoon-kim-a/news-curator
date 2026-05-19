@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-19T10:58:51.009359+00:00",
-  "total_articles": 30,
+  "generated_at": "2026-05-19T11:09:51.472626+00:00",
+  "total_articles": 22,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
@@ -16,16 +16,15 @@
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 16,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
             "recency": 1,
-            "event_bonus": 5,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
             "funding"
           ]
         },
@@ -49,28 +48,6 @@
           },
           "event_labels": [
             "funding"
-          ]
-        },
-        {
-          "title": "Here’s why Elon Musk lost his suit against OpenAI",
-          "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
-          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
-          "published": "2026-05-19T00:53:10+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
           ]
         },
         {
@@ -118,20 +95,40 @@
           ]
         },
         {
-          "title": "Elon Musk Loses Case Against Sam Altman Over OpenAI’s Overhaul",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-18/elon-musk-loses-case-against-sam-altman-to-force-openai-overhaul",
-          "summary": "A jury rejected Elon Musk’s claims that OpenAI under Sam Altman’s leadership betrayed its mission to benefit the public by morphing into a for-profit business, finding that he waited too long to sue the company.",
-          "published": "2026-05-18T17:40:56+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Here’s why Elon Musk lost his suit against OpenAI",
+          "link": "https://www.technologyreview.com/2026/05/18/1137488/elon-musk-suit-openai-verdict/",
+          "summary": "On Monday, the jury in Musk v. Altman dealt Elon Musk a major blow—reaching a unanimous advisory verdict that he had sued OpenAI too late and, as a result, his claims are barred by the applicable statutes of limitations. US District Judge Yvonne Gonzalez Rogers immediately accepted it.&#160; Musk announced on X that he will&#8230;",
+          "published": "2026-05-19T00:53:10+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
-            "recency": 1,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Chinese firm Xpeng builds driverless cabs, likely to challenge Tesla’s FSD software in AI race",
+          "link": "https://www.scmp.com/business/china-evs/article/3354034/chinese-firm-xpeng-builds-driverless-cabs-likely-challenge-teslas-fsd-software-ai-race?utm_source=rss_feed",
+          "summary": "Chinese electric vehicle (EV) maker Xpeng has begun mass production of autonomous cabs powered by its own chips, likely to mount yet another challenge on Tesla as both companies pursue a leading position in self-driving. Robotaxis have become the latest area where the two firms could go head-to-head, after smart EVs and humanoid robots, as the booming development of physical artificial intelligence technologies intensifies. Guangzhou-based Xpeng said its robotaxis would have level 4 (L4)...",
+          "published": "2026-05-19T02:08:20+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -143,26 +140,6 @@
       "display_name": "빅테크",
       "count": 8,
       "articles": [
-        {
-          "title": "AI Chip Startup Tenstorrent Draws Takeover Interest From Intel, Qualcomm",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-18/ai-chip-startup-tenstorrent-draws-takeover-interest-from-intel-qualcomm",
-          "summary": "Artificial intelligence chip startup Tenstorrent Inc. is drawing early takeover interest from prospective buyers at a moment of renewed momentum for upstarts looking to challenge Nvidia Corp. and Advanced Micro Devices Inc.",
-          "published": "2026-05-18T21:19:36+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
         {
           "title": "Google Agrees to Create AI Cloud Firm With Blackstone",
           "link": "https://www.bloomberg.com/news/videos/2026-05-19/google-agrees-to-create-ai-cloud-firm-with-blackstone-video",
@@ -182,50 +159,6 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "Trafigura-Backed Terrafame Studies Producing Scandium in Finland",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/trafigura-backed-terrafame-studies-producing-scandium-in-finland",
-          "summary": "Metals firm Terrafame is studying starting producing scandium, a material used in sectors including defense, from its existing uranium operation in Finland, as Europe seeks to secure supplies of critical minerals.",
-          "published": "2026-05-19T09:39:07+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Nvidia’s CEO Sees China Opening Market to AI Chips From US",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-18/nvidia-s-ceo-says-china-will-open-its-market-to-ai-chips-from-us",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, speaking days after he joined President Donald Trump’s summit in China, said he expects Chinese authorities to eventually allow the import of artificial intelligence chips from the US.",
-          "published": "2026-05-18T19:25:18+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
         },
         {
           "title": "Google, Blackstone to Create AI Cloud Firm With In-House Chips",
@@ -310,36 +243,73 @@
           "event_labels": [
             "m_and_a"
           ]
+        },
+        {
+          "title": "美헤지펀드, 엔비디아·AMD 등에 하락 베팅…AI 회의론 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WenVlS29DS0xtMmRYUF85MENHUjMtcENDWll0UXFJanZrYUkwQUJpUHVnZ0pvbTRYZkFTemt1X3lJWkFxVURNRTExRlBrVE1zRExPLTNuQkJtYzFsUU5ScDZsc2U1ZktaeDU0bVF3RjI?oc=5",
+          "summary": "美헤지펀드, 엔비디아·AMD 등에 하락 베팅…AI 회의론 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-19T00:38:23+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meta Bets $200 Billion It Can Show Massive AI Data Center Will Pay Off",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-19/meta-bets-that-200-billion-ai-data-center-in-rural-louisiana-will-pay-off",
+          "summary": "Investors want to see whether the company’s huge facility in rural Louisiana is worth the cost",
+          "published": "2026-05-19T11:02:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lTUFUQzIwNTd4bjZuV0hxSmhSX0pxcDI4QnE2S29mNk9FMHBVTTI3WWlNUEhVR0h2bzRZVXZmVVJvUmxxc0NkcnNWSUNBVkpFTVczR3RxUERLU2Rocmw1NmR1VkY2UUwzSFE?oc=5",
+          "summary": "구글이 I/O에서 '제미나이 4' 공개할 확률은...관전 포인트 7가지 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-19T05:43:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 6,
+      "count": 3,
       "articles": [
-        {
-          "title": "Nintendo Shares Rebound as AI Fatigue Fuels Japan Stock Rotation",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/nintendo-shares-rebound-as-ai-fatigue-fuels-japan-stock-rotation",
-          "summary": "Embattled Switch 2 maker Nintendo Co. enjoyed its biggest stock gain in two months on Tuesday as concerns about overvaluation in the AI sector sent investors on the hunt for bargains elsewhere.",
-          "published": "2026-05-19T06:21:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "funding"
-          ]
-        },
         {
           "title": "테더, 회사명 상표권 출원…한국 시장 진출 채비",
           "link": "https://zdnet.co.kr/view/?no=20260519175540",
@@ -361,123 +331,51 @@
           "event_labels": []
         },
         {
-          "title": "Xi Prepares To Host Putin After Summit With Trump | The China Show 5/19/2026",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-china-show-5-19-2026-video",
-          "summary": "\"Bloomberg: The China Show\" is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and Avril Hong give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-          "published": "2026-05-19T07:03:45+00:00",
+          "title": "Trafigura Turns to Tether as Stablecoins Take on Commodities",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-18/trafigura-and-tether-are-discussing-usdt-usage-in-fuel-stations",
+          "summary": "Commodity trading house Trafigura Group Pte Ltd. is in talks with Tether Inc. about a pilot project to use its stablecoin at fuel stations.",
+          "published": "2026-05-18T16:30:58+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 12,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         },
         {
-          "title": "The Fight Against Trump’s Immigration Crackdown",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-fight-against-trump-s-immigration-crackdown-video",
-          "summary": "Bloomberg Investigates spends a year following a group of lawyers as they sue the Department of Homeland Security and scramble to help free those arrested under Donald Trump's immigration policies. (Source: Bloomberg)",
-          "published": "2026-05-19T08:00:06+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Investors Flock to Japan Convertible as Borrowing Costs Spike",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/jx-metals-prices-1-6-billion-of-convertibles-at-top-of-range",
-          "summary": "Japanese convertible bonds continue to attract solid investor demand as a surge in borrowing costs drives companies to increasingly embrace the equity-linked securities.",
-          "published": "2026-05-19T01:24:32+00:00",
+          "title": "Crypto Crime Escalates With Kidnappings, Cons and Human Coercion",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-19/crypto-conferences-up-security-after-attacks-scams",
+          "summary": "After a year of kidnappings, assaults and armed home invasions targeting cryptocurrency holders, the industry is racing to harden its defenses.",
+          "published": "2026-05-19T09:30:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "데이터독, 보안 위협 조사 30초면 해결…'비츠 AI 시큐리티 애널리스트' 출시",
-          "link": "https://zdnet.co.kr/view/?no=20260519171059",
-          "summary": "[지디넷코리아]데이터독이 보안 위협 조사 시간을 최대 98%까지 줄여주는 인공지능(AI) 에이전트를 선보이며 보안 운영 센터 운영 지원에 나선다.데이터독은 '비츠 AI 시큐리티 애널리스트(Bits AI Security Analyst)'를 출시했다고 19일 밝혔다.클라우드 기반 보안 정보 이벤트 관리(Cloud SIEM) 시스템의 핵심 기능으로 탑재된 비츠 AI 시큐리티 애널리스트는 기존에 수 시간씩 걸리던 보안 조사 업무를 최소 30초로 단축한다. 이 에이전트는 숙련된 시니어 보안 전문가 수준의 판단 역량과 대규모 연산 처리 능력을 동시에 갖췄다.최근 보안 운영 센터는 지능화한 인공지능 기반 공격이 늘어나면서 업무 과부하에 시달리고 있다. 보안 인력 부족으로 모든 위협 요소를 사람이 일일이 조사하고 분류해 대응하는 일은 한계에 부딪힌 상황이다.비츠 AI 보안 분석가는 방대한 보안 데이터 전체를 스스로 탐색하고 실제 맥락에 맞춰 높은 정확도로 위협을 판정한다. 이를 통해 보안 담당자는",
-          "published": "2026-05-19T08:10:59+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
             "recency": 3,
-            "event_bonus": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         }
       ]
     },
     "fintech": {
       "display_name": "핀테크",
-      "count": 6,
+      "count": 3,
       "articles": [
-        {
-          "title": "AI to Replace ‘Lower-Value Human Capital’: StanChart CEO | The Opening Trade 5/19/2026",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/the-opening-trade-5-19-2026-video",
-          "summary": "Standard Chartered Chief Executive Officer Bill Winters delivered a blunt message on the future of the bank’s workforce, warning that a push into artificial intelligence will eliminate thousands of roles as the lender replaces “lower-value human capital” with technology. US stock futures held steady after a two-day pullback while oil fell modestly as traders awaited signs of progress toward a peace deal in the Middle East. The Opening Trade has everything you need to know as markets open across ",
-          "published": "2026-05-19T10:28:40+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 19,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 8,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "regulation",
-            "exec_change"
-          ]
-        },
         {
           "title": "Stocks Fall, Oil Rises as Investors Eye Bonds | The Close 5/18/2026",
           "link": "https://www.bloomberg.com/news/videos/2026-05-18/the-close-5-18-2026-video",
@@ -488,16 +386,15 @@
           "source_weight": 3,
           "category": "fintech",
           "category_display": "핀테크",
-          "score": 14,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 1,
-            "event_bonus": 5,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
             "exec_change"
           ]
         },
@@ -511,51 +408,9 @@
           "source_weight": 3,
           "category": "fintech",
           "category_display": "핀테크",
-          "score": 12,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Indonesian Markets Slump on Commodity Export Control Speculation",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-19/indonesian-stocks-fall-on-fiscal-risks-export-body-speculation",
-          "summary": "Indonesian markets fell as speculation mounted that the government will centralize commodity exports to control capital flows and shore up a plunging currency. Palm oil futures rose.",
-          "published": "2026-05-19T06:21:34+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "StanChart to Cut Thousands of Jobs in AI Push",
-          "link": "https://www.bloomberg.com/news/videos/2026-05-19/stanchart-to-cut-thousands-of-jobs-in-ai-push-video",
-          "summary": "Standard Chartered said it plans to eliminate thousands of support roles over the next four years, joining the ranks of global lenders using artificial intelligence to trim headcount. “It’s not about cost cutting,\" Chief Executive Officer Bill Winters said at a press briefing in Hong Kong. \"It's about having a structurally more productive environment that is fit for future.\" Bloomberg's Tom Metcalf reports. (Source: Bloomberg)",
-          "published": "2026-05-19T07:50:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "fintech",
-          "category_display": "핀테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -587,7 +442,7 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋 & 한국 금융",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
           "title": "한일 정상회담 소식과 반도체 중심 1분기 코스피 실적까지 이시각 주요뉴스 - 연합인포맥스",
@@ -628,46 +483,6 @@
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "K-반도체, 메모리 넘어 AI칩 생태계 강화해야....B학점",
-          "link": "https://zdnet.co.kr/view/?no=20260514092900",
-          "summary": "[지디넷코리아]지난해 6월 출범한 이재명 정부는 '진짜 성장'을 내세웠다. AI로 경제·사회·기술 대전환을 꾀해 국가발전과 국민행복이 선순환되는 시대를 열겠다는 것이다. 지난해 하반기부터는 30대 선도프로젝트가 가동되기 시작했으며 각 경제·산업 분야에서 AI 대전환이 진행 중이다. 일단 스타트는 좋다. AI 붐을 등에 업고 코스피 7000 시대가 열렸다. 하지만 미국·이스라엘-이란 전쟁으로 인한 고유가·고물가·고환율 리스크가 AI 대전환의 발목을 잡고 있다. 지디넷코리아는 창간 26주년을 맞아 이 격변의 시점에 있는 대한민국 산업 현장을 진단하고, 각 분야 전문가들과 함께 'AI 시대, 이재명 정부 1년'을 평가했다. [편집자주]국내 반도체 기업, 그리고 학계 관계자들은 대체로 이재명 정부의 AI 반도체 정책 방향을 긍정 평가하면서 세부 과제는 보완이 필요하다고 평가했다. 앞으로 본격 전개될 AI 시대에는 현재 한국이 강점을 보유한 메모리 반도체 외에 온디바이스 AI, 생태계 등을 ",
-          "published": "2026-05-19T08:20:56+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "코스피, 3.25% 하락한 7,271.66 마감…외인 9일 연속 '팔자' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KNjI2T1A2djMwN0NxMXlINHdKYzc4NDlqdE1WMlg1ZEJxUThlZVhVdUIxYm5LQlh0N2N5V2tUZU5hdkllUEIwd3ZSeF84RHNpcnJGVndxNWFLaGVxbjJzbmViR2tGMFl3Tk00eFhtN1bSAXRBVV95cUxNWHVubU1MOGY0WkpFdVlaUUZjdHliYThyb0dfeEVGZXFKTDNFV1dNcjNCVDBfTk1xa1VpREd5RlBoY0pHY0dTTVdDeGI3aEdVNUNONF8wakw2ZTJuOFhCdkpzLXR1M3lrLXZNd2EzakpJeUM1Ng?oc=5",
-          "summary": "코스피, 3.25% 하락한 7,271.66 마감…외인 9일 연속 '팔자' &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-19T06:35:34+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋 & 한국 금융",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": -2
           },
           "event_labels": []
         }
