@@ -1,26 +1,68 @@
 {
-  "generated_at": "2026-05-21T22:22:58.817067+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-05-22T22:11:37.959144+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 6,
       "articles": [
         {
-          "title": "Cursor Hits $3 Billion Annual Sales Rate Ahead of SpaceX Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/cursor-hits-3-billion-annual-sales-rate-ahead-of-spacex-deal",
-          "summary": "Cursor’s annualized revenue hit $3 billion in late April, according to a person familiar with the matter, indicating growing demand for the company’s AI coding software ahead of an expected deal to be acquired by Elon Musk’s SpaceX. The artificial intelligence startup’s annualized revenue, which projects sales for a 12-month-period based on recent performance, topped $2 billion in February, Bloomberg previously reported. Cursor now has more than 3,000 customers paying at least $100,000 each for",
-          "published": "2026-05-21T21:09:50+00:00",
+          "title": "Eutelsat Stock Takes Off as SpaceX IPO Triggers Satellite Rally",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/eutelsat-stock-takes-off-as-spacex-ipo-triggers-satellite-rally",
+          "summary": "Shares in Eutelsat Communications are headed for their best week in nearly a year, as enthusiasm over the highly anticipated initial public offering of Elon Musk’s SpaceX spurs investor flows into the sector.",
+          "published": "2026-05-22T11:13:32+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 15,
           "score_breakdown": {
             "keyword": 8,
             "source": 3,
-            "recency": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Musk Could Earn $760 Billion From His SpaceX Pay Packages",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/musk-could-earn-760-billion-from-spacex-mars-shot-pay-packages",
+          "summary": "Elon Musk is making a habit of collecting 12-figure compensation packages.",
+          "published": "2026-05-22T15:58:05+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X 인수 앞둔 커서, 매출 4.5조 돌파...2달 만에 50% 급성장 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Uk91Y2JqRVBfRjBCTzNsOEVpOW1EXzNSZEgzVmFXVVN5M2ZnZ2NvZEdmX1RaU3E1NFpNTlBhR0tQNDdsUDVMYkFzbzN1WUxsamV6N1g3SHhPdEsyclZlaWZxbFIxb2tvZmc?oc=5",
+          "summary": "스페이스X 인수 앞둔 커서, 매출 4.5조 돌파...2달 만에 50% 급성장 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-22T04:44:03+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 5,
             "noise_penalty": 0
           },
@@ -30,39 +72,19 @@
           ]
         },
         {
-          "title": "Musk Taps SpaceX’s Financial Power to Cut Interest Costs in Half",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/musk-taps-spacex-s-financial-power-to-cut-interest-costs-in-half",
-          "summary": "Elon Musk’s reshaping of SpaceX, xAI and X into a tightly-bound conglomerate has already yielded a significant financial windfall: nearly $1 billion in annual interest savings.",
-          "published": "2026-05-21T19:01:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWG45cGtsaTNsLTFScXlpRmVtdzBvYzcyb295S2N2WXJqNllFbi1EaXJNOHd0a2xPeGEtMlRvdkhsRThiVFp3V3pQUW41ZnFPb1hGdHlrZEswQ1BralVTTUUtcGU2X3l6UGc?oc=5",
+          "summary": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-22T22:00:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "What to Know About the SpaceX IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-ipo-ai-plans-starlink-growth-and-risks",
-          "summary": "Elon Musk gave the financial world a lot to ponder as SpaceX made public its plans for an initial public offering. The IPO is poised to be the largest stock-market debut in history, but as financial paperwork unveiled on May 20 confirmed, SpaceX’s success as a public enterprise will depend on its ability to meet lofty goals across space exploration, satellite communications and artificial intelligence.",
-          "published": "2026-05-21T21:33:26+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
+            "keyword": 3,
+            "source": 2,
             "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -72,19 +94,19 @@
           ]
         },
         {
-          "title": "SpaceX IPO Requires a Leap of Faith in AI, Musk and Mars",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-ipo-requires-leap-of-faith-in-ai-mars-and-musk-s-vision",
-          "summary": "Elon Musk’s SpaceX pulled back the curtain on a business empire that has racked up ballooning losses and debt after acquiring a cash-hungry startup, and pumping billions of dollars into futuristic endeavors ranging from AI to a Mars rocket.",
-          "published": "2026-05-21T10:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "상장 앞 흔들?…스페이스X, 시설 결함에 최신형 로켓 발사 취소 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lczZuN0ZVLWxOUVU2blVrZnVhc2pid2lxRUFOQWxjVDZSQ2t0MTVCY0FEaDVKaTVUbGQyUHJfc0NNUFJsem9OWUZsd0JWVjg2OWc?oc=5",
+          "summary": "상장 앞 흔들?…스페이스X, 시설 결함에 최신형 로켓 발사 취소 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-05-22T04:31:11+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -94,46 +116,24 @@
           ]
         },
         {
-          "title": "SpaceX Aims to Build 10-Gigawatt Solar Factory Near Austin",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-aims-to-build-10-gigawatt-solar-factory-near-austin",
-          "summary": "SpaceX is planning to build a massive, 10-gigawatt solar manufacturing facility near Austin as part of Elon Musk’s ambition to power artificial intelligence data centers in space.",
-          "published": "2026-05-21T19:07:27+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Inside Fuyao Glass, the Chinese auto-part supplier whose chairman sat beside Elon Musk",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3354478/inside-fuyao-glass-chinese-auto-part-supplier-whose-head-earned-seat-elon-musk?utm_source=rss_feed",
+          "summary": "Inside Fuyao Glass Industry Group’s sprawling new plant in eastern China’s Anhui province, ranks of bright orange robotic arms and a fleet of automated carriers transport heavy, fragile panes of automotive glass through a production process that the company claims is 90 per cent automated. The smart factory represents the technological blueprint for the Chinese manufacturing giant, which shot to fame as the subject of the 2019 Oscar-winning documentary American Factory. The company made waves...",
+          "published": "2026-05-22T07:00:09+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "SpaceX Joins Battle for Control of $26.5 Trillion AI Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-challenges-ai-rivals-for-control-of-26-5-trillion-market",
-          "summary": "SpaceX is marketing itself to IPO investors as an artificial intelligence play targeting a $26.5 trillion potential market opportunity, signaling its intention to wrest business from investor darlings whose valuations have soared.",
-          "published": "2026-05-21T15:49:47+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
         }
       ]
     },
@@ -142,18 +142,102 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-          "link": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-          "summary": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who here has shipped a pull request in the last week that was completely written&#8230;",
-          "published": "2026-05-21T14:30:45+00:00",
+          "title": "Anthropic to Close Over $30 Billion Round as Soon as Next Week",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week",
+          "summary": "Anthropic PBC is set to close its latest round of funding, which may top $30 billion at a valuation above $900 billion, as soon as next week, according to people familiar with the matter, vaulting ahead of rival OpenAI to become the world’s most valuable AI startup.",
+          "published": "2026-05-22T19:42:50+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 18,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Despite blocking Meta’s Manus deal, China says ‘door open’ to foreign tech investment",
+          "link": "https://www.scmp.com/tech/policy/article/3354547/despite-blocking-metas-manus-deal-china-says-door-open-foreign-tech-investment?utm_source=rss_feed",
+          "summary": "China’s top economic planner denied pressuring domestic tech companies to turn down foreign investment amid rising concerns sparked by its recent blocking of Facebook owner Meta Platforms’ proposed buyout of Chinese-founded AI start-up Manus. “We have never required Chinese tech firms not to accept foreign investment,” Li Chao, spokesman for the National Development and Reform Commission (NDRC), said at a press conference on Friday. “We support Chinese firms to integrate into the global...",
+          "published": "2026-05-22T10:30:04+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "'컴퓨팅 비상' 앤트로픽, 아마존·구글 이어 MS 칩까지 손길 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMVc4Sm1UQTh3NFU3WThnS2VVbHlFUklOSGhlTXpLcXRUY1lod0lWbGpsRlRUMUxQdXNOZEgyY0lYV0Rwa0ZZVzVQdjJhRjYxRF9hNktVcm9yX2h6bXNDSm12OEstR1Q1VXc?oc=5",
+          "summary": "'컴퓨팅 비상' 앤트로픽, 아마존·구글 이어 MS 칩까지 손길 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-22T03:59:52+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "AI Film ‘Critterz’ Looks for Tech Partner After OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/ai-cartoon-critterz-misses-cannes-debut-after-openai-shut-sora",
+          "summary": "Critterz, a feature-length cartoon intended to showcase how OpenAI’s video-generation capabilities could revolutionize filmmaking, has missed a planned Cannes Film Festival debut after the artificial intelligence company shut down its Sora tool, forcing its creators to look for a new AI partner.",
+          "published": "2026-05-22T08:51:02+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+          "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code&#8230;",
+          "published": "2026-05-22T12:10:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -162,15 +246,105 @@
           "event_labels": []
         },
         {
-          "title": "Meta Settles School Suit Over Social Media, Averting Trial",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/meta-settles-school-suit-over-social-media-averting-first-trial",
-          "summary": "Meta Platforms Inc. reached an agreement to settle a landmark lawsuit alleging that addiction to Instagram and other top social media platforms upended learning across America and pushed US public schools to spend enormous resources fighting a mental health crisis.",
-          "published": "2026-05-21T17:37:12+00:00",
+          "title": "Google I/O showed how the path for AI-driven science is shifting",
+          "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
+          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
+          "published": "2026-05-22T10:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Amazon’s Jassy Sees Company’s Breadth as a Strength",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-22/amazon-ceo-andy-jassy-sees-strength-in-breadth-as-ai-cloud-and-retail-player",
+          "summary": "Few companies serve as many consumers and businesses",
+          "published": "2026-05-22T11:02:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Norway’s $2.3 Trillion Fund Objects to Elkann’s Meta Board Seat",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/norway-s-2-3-trillion-fund-objects-to-elkann-s-meta-board-seat",
+          "summary": "Norway’s $2.3 trillion wealth fund expressed dissatisfaction with the reappointment of John Elkann, chairman of Stellantis NV and chief executive of investor Exor NV, on the board of directors at Meta Platforms Inc.",
+          "published": "2026-05-22T13:45:56+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 3,
+      "articles": [
+        {
+          "title": "Nasdaq Gets Approval From SEC to List Bitcoin Index Options",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec",
+          "summary": "The Securities and Exchange Commission has given the go-ahead for Nasdaq Inc. to list index options based on the price of Bitcoin, the latest sign that Wall Street is becoming more tightly integrated with the world of digital assets.",
+          "published": "2026-05-22T20:49:43+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "SEC Delays Plan Allowing for Crypto Versions of US Stocks",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/sec-delays-plan-allowing-for-crypto-versions-of-us-stocks",
+          "summary": "The Securities and Exchange Commission is delaying a plan to provide broad exemptions for US crypto firms to trade tokenized assets linked to stocks, according to people familiar with the matter.",
+          "published": "2026-05-22T18:33:56+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 12,
           "score_breakdown": {
             "keyword": 3,
@@ -184,192 +358,19 @@
           ]
         },
         {
-          "title": "Pentagon Tests Rival AI Models in Race to Replace Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/pentagon-tests-rival-ai-models-in-race-to-replace-anthropic",
-          "summary": "The Pentagon is testing artificial intelligence models to see which are most favored by 25 of the department’s “power users,” as the US military races to find alternatives to Anthropic PBC’s Claude, according to a senior defense official.",
-          "published": "2026-05-21T17:38:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia’s H200 sales prospects in China remain uncertain despite Huang visit",
-          "link": "https://www.scmp.com/tech/article/3354296/nvidias-h200-sales-prospects-china-remain-uncertain-despite-huang-visit?utm_source=rss_feed",
-          "summary": "Nvidia has not generated any revenue from H200 chip sales to China and remains uncertain whether the product will be allowed into the country, the US chip giant said on Wednesday, underscoring how geopolitics continues to cloud its access to one of the world’s largest AI markets even as global demand for its data centre processors surged to a record high. While Washington has approved licences for H200 shipments to China-based customers, Colette Kress, Nvidia’s executive vice-president and chief",
-          "published": "2026-05-21T01:32:34+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "박찬대 캠프, ‘가상자산 은닉’ 의혹 유정복 후보 부부 고발 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SSE5wdzg4cHVjUkZMOVZSVENqeU9iTHp6UVNHc1RQVE1xM0RmNFFhMGs4OTVsZjlnYlA1bzBSdHJBa0dzaTJPeEhKWlI0eXliVjdJclJ3?oc=5",
+          "summary": "박찬대 캠프, ‘가상자산 은닉’ 의혹 유정복 후보 부부 고발 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-22T02:15:21+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "앤트로픽, 사상 첫 분기 흑자 눈앞…클로드가 'AI 적자론' 깼다",
-          "link": "https://zdnet.co.kr/view/?no=20260521173540",
-          "summary": "[지디넷코리아]인공지능(AI) 모델 '클로드'를 앞세운 앤트로픽이 창사 이래 처음으로 분기 흑자 전환에 성공할 전망이다. 인프라와 연구개발(R&amp;D) 투자 부담에 짓눌려 적자에서 벗어나지 못하던 해외 AI 기업들 가운데 가장 먼저 수익 구간에 진입하는 사례가 될 것으로 보인다.월스트리트저널(WSJ)은 20일(현지시간) 앤트로픽이 진행 중인 투자 유치 과정에서 올해 2분기 매출 전망치를 109억 달러(약 16조원)로 제시했다고 보도했다. 직전 분기(48억 달러)의 두 배가 넘는 수준이며, 같은 기간 영업이익은 5억 5900만 달러(약 8400억원)에 이를 것으로 관측됐다.분기별 매출 성장 속도는 코로나19 팬데믹 시기 줌(Zoom)이나 기업공개(IPO) 직전의 구글·페이스북을 모두 앞선다. 성장세를 견인한 것은 클로드다. 사용자의 지시를 받아 스스로 판단하고 장시간 작업을 이어가는 에이전트 기능이 입소문을 타면서 올해 초부터 전 세계 기업의 도입이 잇따랐다.다리오 아모데이 앤트로",
-          "published": "2026-05-21T08:47:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "[5월21일] 구글은 왜 ‘제미나이 3.5 프로’ 출시를 미뤘나…핵심은 ‘데이터 플라이휠’ - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGcFQzSHBwUk9LLVZZWnNDdjBRU3JPYmthNmF6ekxUSlpCMWRhSGZfMGhSTjZRSWtQWk9fdmVCRVlXSGg2T2dVdnNka19obkhic3RCY20tb2MxV0MwVEdabWlpNHZIY0thQ0E?oc=5",
-          "summary": "[5월21일] 구글은 왜 ‘제미나이 3.5 프로’ 출시를 미뤘나…핵심은 ‘데이터 플라이휠’ &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-21T22:00:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"사이버보안서 AI 활용때 오버피팅 허용 불가피\"",
-          "link": "https://zdnet.co.kr/view/?no=20260521194635",
-          "summary": "[지디넷코리아]\"당연하지만, 사이버 보안 분야에서 공격자들은 누구도 악성코드를 만들 때 '이 코드가 악성코드입니다'하고 공개하지 않습니다. 탐지 우회를 위해 정상 코드로 위장하는 것이 일반적인데, 인공지능(AI) 모델을 활용한 보안을 구현할 때 오탐을 최소화하기 위해서는 우회할 수 없는 흑적을 확인해야 합니다.\"정성균 메타포렌식 대표는 21일 한국정보보호학회 랜섬웨어대응연구회가 개최한 워크숍에서 'AI 기반 랜섬웨어 대응 기술 소개'를 주제로 발표했다.정 대표는 \"AI 모델이 어떻게 만들어지는지를 살펴 보면, 가용할 수 있는 데이터 내에서 오류를 최소화하는 것이 목표가 될 수밖에 없다\"라며 \"모든 전체 데이터에서 오류를 0에 수렴하게 만드는 것이 굉장히 이상적이지만, 실제로 우리가 가지고 있는 데이터들은 노이즈가 섞여 있다\"고 말했다.그는 \"그런데 사이버 보안 분야에서는 이런 오류가 허용될 수 없다\"면서 \"왜냐면 공격은 정상 코드로 위장해 침투를 시도하는데 이를 단순 노이즈로 판단해",
-          "published": "2026-05-21T14:39:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "줌, 코덱스·클로드에 회의 맥락 심는다…AI 업무 자동화 공략",
-          "link": "https://zdnet.co.kr/view/?no=20260521174318",
-          "summary": "[지디넷코리아]줌이 회의·협업 데이터를 외부 인공지능(AI) 워크플로우로 연결하는 범위를 넓힌다. 오픈AI 코덱스, 앤트로픽 클로드 등에서 줌 AI 컴패니언이 생성한 회의 요약·녹취록·노트·액션 아이템을 활용할 수 있도록 해 기업 내 대화 맥락을 업무 자동화와 개발 환경으로 확장한다는 구상이다.줌 커뮤니케이션스는 모델 컨텍스트 프로토콜(MCP) 서버 기능을 확장하고 자사 대화 인텔리전스, 에이전틱 검색, 플랫폼 기능을 일부 지원되는 서드파티 AI 도구 및 워크플로우와 연동한다고 21일 밝혔다.이번 확장은 줌 AI 컴패니언이 생성한 회의·협업 인사이트를 기업이 사용하는 외부 AI 환경에서도 활용할 수 있도록 하는 것이 핵심이다. 기업은 지원되는 AI 플랫폼에서 회의 요약, 녹취록, 녹화, 노트, 액션 아이템, 협업 기록 등에 접근할 수 있다.줌은 이를 통해 AI 워크플로우의 한계로 꼽히는 '맥락 단절' 문제를 줄인다는 전략이다. 기존 에이전틱 워크플로우는 문서, 애플리케이션, 기록 시",
-          "published": "2026-05-21T08:43:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "Bitcoin Investors Sell Hardest Just When Prices Start to Recover",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/for-bitcoin-etf-holders-a-market-recovery-is-a-reason-to-sell",
-          "summary": "Bitcoin’s bad stretch of ETF outflows has exposed an uncomfortable dynamic in the crypto market’s structure: the price level that should draw buyers back in is the one that also prompts some of the heaviest selling.",
-          "published": "2026-05-21T15:46:47+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Billionaire Novogratz Fights $100 Million Fee on Dud Crypto Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-21/billionaire-novogratz-fights-100-million-fee-on-dud-crypto-deal",
-          "summary": "Michael Novogratz, the billionaire founder of Galaxy Digital Inc., squared off in court this week with BitGo Holdings Inc. Chief Executive Officer Mike Belshe in their protracted legal fight over a proposed merger that failed four years ago when the cryptocurrency markets cratered.",
-          "published": "2026-05-21T16:16:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "‘가상자산 과세 폐지’ 국민청원 5만명 넘겨…국회 회부 요건 충족",
-          "link": "https://zdnet.co.kr/view/?no=20260521185510",
-          "summary": "[지디넷코리아]가상자산 소득 과세 폐지를 요구하는 국민청원에 약 5만 2000명이 동의하면서 국회 논의 요건이 충족됐다.21일 국회전자청원 게시판에 따르면 ‘가상자산 과세 폐지에 대한 청원’은 5만 1856명의 동의를 얻었다. 청원 등록 약 8일 만이다.이에 따라 해당 청원은 국회 소관 상임위원회에 회부돼 청원심사소위원회 심사를 거친 뒤 본회의 부의 여부가 결정될 전망이다. 국민동의청원은 등록 후 30일 이내 5만명 이상 동의를 받으면 정식 접수된다.청원 핵심은 내년 1월 시행 예정인 가상자산 과세를 전면 재검토하고 과세를 폐지해야 한다는 내용이다. 청원인은 가상자산에만 별도 과세 체계를 적용하는 것은 형평성에 맞지 않는다고 주장했다. 그는 “주식시장은 일반 투자자 양도차익에 사실상 비과세 체계를 유지하고 있지만 가상자산은 250만원이라는 낮은 공제 기준을 적용받는다”며 “동일한 투자 성격 자산 간 과세 형평성 문제가 발생한다”고 비판했다.시장 침체로 다수 투자자가 손실을 보고 있다",
-          "published": "2026-05-21T09:57:18+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -380,63 +381,26 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 0,
+      "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 1,
       "articles": [
         {
-          "title": "배다른 민족, 다시 한민족으로..? 배민 인수 고민하는 네이버 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jV2RRbWRFb3VKWUxSekFGNmQxQWVOWlI4ZS1ZTnJxamlELVI5S1ctQkpyQldaZnpGZTlvTGx3UzU1bGFfVjM3dEVQTzlkT1gyRU1mSUZvT2ZJbjdVRDhLSl85SnM5UnFTM0hBYlEzSk_SAXRBVV95cUxNWVg0MVRhX3lMVlJXQmNHMjBBNUlMS3lRU0FvX0tuTjFZdExmNGZLTEtVRFVqV0xFcmtzQ2d4U1VCTmJDbF9iSWhjTWNOZVAzdVg4Tm1qWFZlcmVGWW5xcWVDdEtCdE0yTHR3cDRqTklsbjd2Tw?oc=5",
-          "summary": "배다른 민족, 다시 한민족으로..? 배민 인수 고민하는 네이버 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-20T23:56:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "'새벽 자동매매·AI 계좌분석까지'…토스증권, 오픈 API 시장 판 키운다 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vVmVORkgxa3dMZThoR0FEWE5wWE9jN3JVWHZUT3E0bnRmRnVMYklKaWpZbktfa3oxWVQ5UmZvNHFhVGhjU2NqTTV2dGFibUZwc0tnSS1tak5DSkVDUGV1RjRSTlNCMlBVbkhCaUpCMjM?oc=5",
-          "summary": "'새벽 자동매매·AI 계좌분석까지'…토스증권, 오픈 API 시장 판 키운다 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-20T22:34:51+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "문체부, 공연 1만원 할인권 24만장 배포...비수도권 문예회관 현장할인도 운영",
-          "link": "https://zdnet.co.kr/view/?no=20260521175443",
-          "summary": "[지디넷코리아]문화체육관광부(문체부)가 공연예술 관람료 부담을 낮추기 위해 공연 1만원 할인권 24만 장을 1차 배포한다. 문체부는 예술경영지원센터, 한국문화예술위원회와 함께 오는 22일부터 온라인 예매처와 비수도권 문예회관을 통해 공연 1만원 할인권 24만 장을 배포한다고 21일 밝혔다.이번 할인권 배포는 국민의 공연예술 향유 기회를 확대하고 공연예술시장을 활성화하기 위해 마련됐다. 문체부는 2026년 추가경정예산 41억원을 확보해 공연 할인권 40만장을 지원할 계획이며, 이번 1차 배포에 이어 나머지 예산은 9월 2차 할인권 배포에 활용한다.할인권은 22일 오전 10시부터 네이버예약, 놀유니버스, 예스이십사, 타임티켓, 티켓링크 등 5개 온라인 예매처에서 발급된다. 예매처별로 1인 2매까지 선착순으로 받을 수 있다.1차 배포기간은 22일부터 8월 20일까지다. 이 기간에 발급받은 할인권은 공연일이 9월 3일까지인 공연에 사용할 수 있다. 적용 대상은 연극, 뮤지컬, 서양음악, 한",
-          "published": "2026-05-21T08:54:43+00:00",
+          "title": "국민성장펀드 뭐길래…은행·증권사 완판 행렬",
+          "link": "https://zdnet.co.kr/view/?no=20260522103031",
+          "summary": "[지디넷코리아]5대 은행(KB국민은행·신한은행·하나은행·우리은행·NH농협은행)과 15개 증권사(KB·NH·대신·메리츠·미래에셋·삼성·신영·신한·아이엠·우리·유안타·하나·한국·한화·키움증권)에 배정됐던 '국민성장펀드' 물량이 대부분 소진됐다.22일 금융업계에 따르면 5대 은행 배정 물량인 2200억원 규모 국민성장펀드는 이날 모두 소진됐고, 증권사 15개사 중 14개사의 온라인 판매 물량도 소진됐다. 은행과 증권사를 통해 공급된 6000억원 규모 물량이 사실상 개시 하루 만에 몰리면서 흥행한 셈이다.국민성장펀드는 19세 이상 또는 15세 이상 근로소득자가 가입할 수 있으며 직전 3년 중 금융소득종합과세자는 전용 계좌에 가입할 수 없다. 전용 계좌는 5년 간 2억원으로 연간 최대 1억원 투자할 수 있으며 일반 계좌는 연간 3000만원까지 투자할 수 있다.전용 계좌로 가입해야 소득공제와 배당소득을 분리 과세 받을 수 있다. 소득공제는 최대 1800만원 한도에서 3000만원까지는 40% 공",
+          "published": "2026-05-22T08:51:16+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -445,11 +409,6 @@
           "event_labels": []
         }
       ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
