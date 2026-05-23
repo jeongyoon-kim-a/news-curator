@@ -1,76 +1,11 @@
 {
-  "generated_at": "2026-05-22T22:11:37.959144+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-05-23T21:58:08.344049+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 3,
       "articles": [
-        {
-          "title": "Eutelsat Stock Takes Off as SpaceX IPO Triggers Satellite Rally",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/eutelsat-stock-takes-off-as-spacex-ipo-triggers-satellite-rally",
-          "summary": "Shares in Eutelsat Communications are headed for their best week in nearly a year, as enthusiasm over the highly anticipated initial public offering of Elon Musk’s SpaceX spurs investor flows into the sector.",
-          "published": "2026-05-22T11:13:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Musk Could Earn $760 Billion From His SpaceX Pay Packages",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/musk-could-earn-760-billion-from-spacex-mars-shot-pay-packages",
-          "summary": "Elon Musk is making a habit of collecting 12-figure compensation packages.",
-          "published": "2026-05-22T15:58:05+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X 인수 앞둔 커서, 매출 4.5조 돌파...2달 만에 50% 급성장 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2Uk91Y2JqRVBfRjBCTzNsOEVpOW1EXzNSZEgzVmFXVVN5M2ZnZ2NvZEdmX1RaU3E1NFpNTlBhR0tQNDdsUDVMYkFzbzN1WUxsamV6N1g3SHhPdEsyclZlaWZxbFIxb2tvZmc?oc=5",
-          "summary": "스페이스X 인수 앞둔 커서, 매출 4.5조 돌파...2달 만에 50% 급성장 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-22T04:44:03+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "earnings"
-          ]
-        },
         {
           "title": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언 - AI타임스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWG45cGtsaTNsLTFScXlpRmVtdzBvYzcyb295S2N2WXJqNllFbi1EaXJNOHd0a2xPeGEtMlRvdkhsRThiVFp3V3pQUW41ZnFPb1hGdHlrZEswQ1BralVTTUUtcGU2X3l6UGc?oc=5",
@@ -81,11 +16,11 @@
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -94,10 +29,32 @@
           ]
         },
         {
-          "title": "상장 앞 흔들?…스페이스X, 시설 결함에 최신형 로켓 발사 취소 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lczZuN0ZVLWxOUVU2blVrZnVhc2pid2lxRUFOQWxjVDZSQ2t0MTVCY0FEaDVKaTVUbGQyUHJfc0NNUFJsem9OWUZsd0JWVjg2OWc?oc=5",
-          "summary": "상장 앞 흔들?…스페이스X, 시설 결함에 최신형 로켓 발사 취소 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-05-22T04:31:11+00:00",
+          "title": "Liquidity drain from SpaceX’s mega listing unlikely to ripple into Hong Kong: JPMorgan",
+          "link": "https://www.scmp.com/business/china-business/article/3354467/liquidity-drain-spacexs-mega-listing-unlikely-ripple-hong-kong-jpmorgan?utm_source=rss_feed",
+          "summary": "A liquidity drain caused by SpaceX’s gargantuan US share sale is unlikely to ripple into regional markets, including Hong Kong, thanks to global investors’ push to diversify and their growing interest in future profit stars, according to JPMorgan. Hong Kong could still aim for the runner-up position in fundraising this year despite potentially giving up the global initial public offering (IPO) crown to New York, said Paul Uren, the US bank’s Asia-Pacific investment banking head, on...",
+          "published": "2026-05-23T01:30:09+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "스페이스X, 상장 앞두고 스타십 시험발사 성공…상용화 기대감 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRTBNek0xYTE2MC0yeFo5V05NUXI4Mks0aXJLU3d5d2FrZ0ZHVlJ4Ym1KZ2hZV1MtcWlFeHJBd3J4NV9BRW9DbVc5NnpTZ3pLMXc?oc=5",
+          "summary": "스페이스X, 상장 앞두고 스타십 시험발사 성공…상용화 기대감 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-23T02:00:58+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -114,26 +71,6 @@
           "event_labels": [
             "funding"
           ]
-        },
-        {
-          "title": "Inside Fuyao Glass, the Chinese auto-part supplier whose chairman sat beside Elon Musk",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3354478/inside-fuyao-glass-chinese-auto-part-supplier-whose-head-earned-seat-elon-musk?utm_source=rss_feed",
-          "summary": "Inside Fuyao Glass Industry Group’s sprawling new plant in eastern China’s Anhui province, ranks of bright orange robotic arms and a fleet of automated carriers transport heavy, fragile panes of automotive glass through a production process that the company claims is 90 per cent automated. The smart factory represents the technological blueprint for the Chinese manufacturing giant, which shot to fame as the subject of the 2019 Oscar-winning documentary American Factory. The company made waves...",
-          "published": "2026-05-22T07:00:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -142,63 +79,19 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic to Close Over $30 Billion Round as Soon as Next Week",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/anthropic-to-close-over-30-billion-round-as-soon-as-next-week",
-          "summary": "Anthropic PBC is set to close its latest round of funding, which may top $30 billion at a valuation above $900 billion, as soon as next week, according to people familiar with the matter, vaulting ahead of rival OpenAI to become the world’s most valuable AI startup.",
-          "published": "2026-05-22T19:42:50+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[안광섭 AI 진테제] 구글, AI 워터마크도 장악하나",
+          "link": "https://zdnet.co.kr/view/?no=20260523150157",
+          "summary": "[지디넷코리아]지난 화요일 구글 'I/O 202'6 키노트에서 순다르 피차이 CEO가 소개한 숫자 하나가 눈에 들어왔다. 구글 딥마인드가 개발한 AI 워터마크 기술 '신스아이디(SynthID)'가 지금까지 찍어낸 이미지·영상이 1000억 건, 오디오는 6만 년 분량에 달한다는 것이다. 같은 무대에서 OpenAI, 엔비디아, 카카오, 일레븐랩스(ElevenLabs)가 이 기술을 자사 제품에 적용하겠다고 발표했다. 경쟁사가 경쟁사의 워터마크를 자발적으로 채택하는 이례적인 장면이었다.\"AI가 만든 콘텐츠에 표시를 남기자\"는 논의는 3년 전부터 있었다. 그런데 이번 발표의 핵심은 워터마크 '기술'이 아니다. 필자가 보기에 이건 AI 콘텐츠 신뢰 인프라의 표준을 누가 쥐는가를 둘러싼 구조적 경쟁이다.두 개의 신분증: C2PA와 SynthIDAI 콘텐츠에 \"이건 AI가 만들었다\"고 표시하는 방법은 크게 두 갈래다. 첫째는 C2PA(Coalition for Content Provenance an",
+          "published": "2026-05-23T06:01:57+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 18,
+          "score": 12,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Despite blocking Meta’s Manus deal, China says ‘door open’ to foreign tech investment",
-          "link": "https://www.scmp.com/tech/policy/article/3354547/despite-blocking-metas-manus-deal-china-says-door-open-foreign-tech-investment?utm_source=rss_feed",
-          "summary": "China’s top economic planner denied pressuring domestic tech companies to turn down foreign investment amid rising concerns sparked by its recent blocking of Facebook owner Meta Platforms’ proposed buyout of Chinese-founded AI start-up Manus. “We have never required Chinese tech firms not to accept foreign investment,” Li Chao, spokesman for the National Development and Reform Commission (NDRC), said at a press conference on Friday. “We support Chinese firms to integrate into the global...",
-          "published": "2026-05-22T10:30:04+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "'컴퓨팅 비상' 앤트로픽, 아마존·구글 이어 MS 칩까지 손길 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iMVc4Sm1UQTh3NFU3WThnS2VVbHlFUklOSGhlTXpLcXRUY1lod0lWbGpsRlRUMUxQdXNOZEgyY0lYV0Rwa0ZZVzVQdjJhRjYxRF9hNktVcm9yX2h6bXNDSm12OEstR1Q1VXc?oc=5",
-          "summary": "'컴퓨팅 비상' 앤트로픽, 아마존·구글 이어 MS 칩까지 손길 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-22T03:59:52+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -206,60 +99,20 @@
           "event_labels": []
         },
         {
-          "title": "AI Film ‘Critterz’ Looks for Tech Partner After OpenAI",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/ai-cartoon-critterz-misses-cannes-debut-after-openai-shut-sora",
-          "summary": "Critterz, a feature-length cartoon intended to showcase how OpenAI’s video-generation capabilities could revolutionize filmmaking, has missed a planned Cannes Film Festival debut after the artificial intelligence company shut down its Sora tool, forcing its creators to look for a new AI partner.",
-          "published": "2026-05-22T08:51:02+00:00",
+          "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang urged Super Micro Computer Inc. to tighten up on compliance after Taiwan detained three people this week for allegedly making fraudulent declarations about AI servers made by its US partner.",
+          "published": "2026-05-23T11:01:30+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-          "link": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s developer event in London this week, Code with Claude, attendees were asked if they’d shipped code&#8230;",
-          "published": "2026-05-22T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
             "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google I/O showed how the path for AI-driven science is shifting",
-          "link": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-          "summary": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment when AI rapidly exceeds human intelligence and dramatically transforms the world. But what struck me as I listened in the&#8230;",
-          "published": "2026-05-22T10:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -268,105 +121,115 @@
           ]
         },
         {
-          "title": "Amazon’s Jassy Sees Company’s Breadth as a Strength",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-22/amazon-ceo-andy-jassy-sees-strength-in-breadth-as-ai-cloud-and-retail-player",
-          "summary": "Few companies serve as many consumers and businesses",
-          "published": "2026-05-22T11:02:01+00:00",
+          "title": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
+          "summary": "Zoom Communications Inc., the videoconferencing company, has netted about $1 billion on an investment it made in artificial intelligence startup Anthropic PBC in early 2023.",
+          "published": "2026-05-22T22:41:51+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Norway’s $2.3 Trillion Fund Objects to Elkann’s Meta Board Seat",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/norway-s-2-3-trillion-fund-objects-to-elkann-s-meta-board-seat",
-          "summary": "Norway’s $2.3 trillion wealth fund expressed dissatisfaction with the reappointment of John Elkann, chairman of Stellantis NV and chief executive of investor Exor NV, on the board of directors at Meta Platforms Inc.",
-          "published": "2026-05-22T13:45:56+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "Nasdaq Gets Approval From SEC to List Bitcoin Index Options",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec",
-          "summary": "The Securities and Exchange Commission has given the go-ahead for Nasdaq Inc. to list index options based on the price of Bitcoin, the latest sign that Wall Street is becoming more tightly integrated with the world of digital assets.",
-          "published": "2026-05-22T20:49:43+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         },
         {
-          "title": "SEC Delays Plan Allowing for Crypto Versions of US Stocks",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/sec-delays-plan-allowing-for-crypto-versions-of-us-stocks",
-          "summary": "The Securities and Exchange Commission is delaying a plan to provide broad exemptions for US crypto firms to trade tokenized assets linked to stocks, according to people familiar with the matter.",
-          "published": "2026-05-22T18:33:56+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
+          "title": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUF9zajNXbk4wQ2QzSENMRS1lNjVNTV9TcW1SazRrV1pTNGxmTTBNdHZCd0drclFPTXJoZTRibkZpRHhNc2NtVlJzMW1fV1V4Y3JsUlpfVThGdDlzVmVrWHZVVTVIRXZmRHc?oc=5",
+          "summary": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-23T09:25:17+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CU3FtZEVBUEdyRmotUnlkOVdpQ2lacEpXQ25NQ3BMWUxLV2JYZVhaRFdaTzZEb1BMTnBaU3piTmFBeDh5YW9lYzM3R1I1TGt6VTQtdm5vYUFrTEpmdUZBdGdIRTlXajhyQVE?oc=5",
+          "summary": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-23T18:33:54+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 3,
-            "event_bonus": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         },
         {
-          "title": "박찬대 캠프, ‘가상자산 은닉’ 의혹 유정복 후보 부부 고발 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SSE5wdzg4cHVjUkZMOVZSVENqeU9iTHp6UVNHc1RQVE1xM0RmNFFhMGs4OTVsZjlnYlA1bzBSdHJBa0dzaTJPeEhKWlI0eXliVjdJclJ3?oc=5",
-          "summary": "박찬대 캠프, ‘가상자산 은닉’ 의혹 유정복 후보 부부 고발 &nbsp;&nbsp; 매일경제",
-          "published": "2026-05-22T02:15:21+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zYndnV2Z2SjBFWlJ3MHVIbnp6TUxxSVNrSDUwTnM0U2xja1BKZVdjeWFjTU4zSXRDMEFmendHdjFfdnR0cGlMcmtXaGpkMG15VTFyWHNEd2c0Q0k0N2QzVThYX2lsT0NKQ1E?oc=5",
+          "summary": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-23T12:12:26+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "1분기 삼성 엑시노스 출하량 11% 상승...점유율 5위",
+          "link": "https://zdnet.co.kr/view/?no=20260522165843",
+          "summary": "[지디넷코리아]1분기 삼성전자 스마트폰 AP 엑시노스 출하량이 전년 동기보다 11% 늘었다. 시장 점유율도 1%포인트 상승했다. 24일 시장조사업체 시그마인텔에 따르면 1분기 업체별 스마트폰 AP 출하량(시장 점유율)은 ▲미디어텍 9700만개(33%) ▲퀄컴 7100만개(24%) ▲애플 5300만개(18%) ▲유니SOC 3000만개(10%) ▲삼성전자 엑시노스 2100만개(7%) ▲화웨이 하이실리콘 1600만개(5%) 순으로 많았다. 1분기 전세계 스마트폰 AP 출하량은 2억 9100만개로, 지난해 1분기 3억 300만개보다 4% 줄었다. 시그마인텔은 메모리 반도체 가격 상승이 스마트폰 제조원가 전반으로 확산해 1분기 AP 수요가 위축됐다고 풀이했다. 완제품 업체는 재고 비축과 칩 구매를 축소했다. 150달러 이하 저가 스마트폰 판매가 특히 부진했다. 시그마인텔은 자체 AP를 보유한 업체가 시장 변동성이 큰 시기에 원가 관리, 제품 차별화, 안정적 출하 확대 등에서 이점을 봤다고 평",
+          "published": "2026-05-23T20:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NHFNTTdyN1ZiLTNyeklJOXVPX0o4SHJNQmpTcEZDa2ZsT1pRNlp0V08xaVFJWEh0YnVUU3JmVUtBNHJoTnEzclBaaGE1emNMbTB1LWV1X0psdjRTdUpHeHdJQWJSNXUzRlE?oc=5",
+          "summary": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-23T00:55:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -379,36 +242,41 @@
         }
       ]
     },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
+    "digital_asset": {
+      "display_name": "디지털 자산",
       "count": 0,
       "articles": []
     },
-    "mirae_asset": {
-      "display_name": "미래에셋",
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "국민성장펀드 뭐길래…은행·증권사 완판 행렬",
-          "link": "https://zdnet.co.kr/view/?no=20260522103031",
-          "summary": "[지디넷코리아]5대 은행(KB국민은행·신한은행·하나은행·우리은행·NH농협은행)과 15개 증권사(KB·NH·대신·메리츠·미래에셋·삼성·신영·신한·아이엠·우리·유안타·하나·한국·한화·키움증권)에 배정됐던 '국민성장펀드' 물량이 대부분 소진됐다.22일 금융업계에 따르면 5대 은행 배정 물량인 2200억원 규모 국민성장펀드는 이날 모두 소진됐고, 증권사 15개사 중 14개사의 온라인 판매 물량도 소진됐다. 은행과 증권사를 통해 공급된 6000억원 규모 물량이 사실상 개시 하루 만에 몰리면서 흥행한 셈이다.국민성장펀드는 19세 이상 또는 15세 이상 근로소득자가 가입할 수 있으며 직전 3년 중 금융소득종합과세자는 전용 계좌에 가입할 수 없다. 전용 계좌는 5년 간 2억원으로 연간 최대 1억원 투자할 수 있으며 일반 계좌는 연간 3000만원까지 투자할 수 있다.전용 계좌로 가입해야 소득공제와 배당소득을 분리 과세 받을 수 있다. 소득공제는 최대 1800만원 한도에서 3000만원까지는 40% 공",
-          "published": "2026-05-22T08:51:16+00:00",
+          "title": "[현장] 윤오준 전 국정원 3차장 \"이제 중기도 사이버보안 챙겨야\"",
+          "link": "https://zdnet.co.kr/view/?no=20260523201148",
+          "summary": "[지디넷코리아]\"이제는 중소기업도 사이버보안을 챙겨야합니다.\"윤오준 중앙대 보안대학원 특임교수(전 국정원 3차장)는 22일 열린 '제 2회 중소기업 정보보안 세미나'에서 \"보안은 실무자만의 업무가 아니라 기업 대표의 KPI여야 한다\"며 이 같이 밝혔다. 이날 행사는 중소기업중앙회(K-BIZ)가 한국정보산업협회(KISIS)와 공동으로 개최했다. 작년에 이어 올해 두 번째로 열렸다. 이날 기조강연(키노트)을 한 윤 교수는 국정원에서 사이버보안을 총괄하는 3차장을 맡아 2024년 2월부터 2025년 6월까지 1년 4개월간 근무했다.보안이 남의 일이 아니라 중소기업의 핵심 생존 수단이라고 짚은 그는 \"이제 보안이 얼마나 중요한가?를 묻는 것이 아니라 사고 이후에도 이 자리를 계속 유지할 수 있는가?를 물어야 할 중요한 시점\"이라고 밝혔다. 이날 그는 ▲최근 국내외 사이버위협 동향 ▲주요 사이버보안 정책 동향 ▲중소기업의 보안 고려사항 등을 들려줬다.2022년 일어난 SK와 카카오 IDC, ",
+          "published": "2026-05-23T11:11:48+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 7,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
