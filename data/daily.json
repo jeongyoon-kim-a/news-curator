@@ -1,118 +1,26 @@
 {
-  "generated_at": "2026-05-23T21:58:08.344049+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-05-24T21:58:54.212954+00:00",
+  "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxWG45cGtsaTNsLTFScXlpRmVtdzBvYzcyb295S2N2WXJqNllFbi1EaXJNOHd0a2xPeGEtMlRvdkhsRThiVFp3V3pQUW41ZnFPb1hGdHlrZEswQ1BralVTTUUtcGU2X3l6UGc?oc=5",
-          "summary": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-22T22:00:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Liquidity drain from SpaceX’s mega listing unlikely to ripple into Hong Kong: JPMorgan",
-          "link": "https://www.scmp.com/business/china-business/article/3354467/liquidity-drain-spacexs-mega-listing-unlikely-ripple-hong-kong-jpmorgan?utm_source=rss_feed",
-          "summary": "A liquidity drain caused by SpaceX’s gargantuan US share sale is unlikely to ripple into regional markets, including Hong Kong, thanks to global investors’ push to diversify and their growing interest in future profit stars, according to JPMorgan. Hong Kong could still aim for the runner-up position in fundraising this year despite potentially giving up the global initial public offering (IPO) crown to New York, said Paul Uren, the US bank’s Asia-Pacific investment banking head, on...",
-          "published": "2026-05-23T01:30:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "스페이스X, 상장 앞두고 스타십 시험발사 성공…상용화 기대감 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DRTBNek0xYTE2MC0yeFo5V05NUXI4Mks0aXJLU3d5d2FrZ0ZHVlJ4Ym1KZ2hZV1MtcWlFeHJBd3J4NV9BRW9DbVc5NnpTZ3pLMXc?oc=5",
-          "summary": "스페이스X, 상장 앞두고 스타십 시험발사 성공…상용화 기대감 &nbsp;&nbsp; 매일경제",
-          "published": "2026-05-23T02:00:58+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
-        {
-          "title": "[안광섭 AI 진테제] 구글, AI 워터마크도 장악하나",
-          "link": "https://zdnet.co.kr/view/?no=20260523150157",
-          "summary": "[지디넷코리아]지난 화요일 구글 'I/O 202'6 키노트에서 순다르 피차이 CEO가 소개한 숫자 하나가 눈에 들어왔다. 구글 딥마인드가 개발한 AI 워터마크 기술 '신스아이디(SynthID)'가 지금까지 찍어낸 이미지·영상이 1000억 건, 오디오는 6만 년 분량에 달한다는 것이다. 같은 무대에서 OpenAI, 엔비디아, 카카오, 일레븐랩스(ElevenLabs)가 이 기술을 자사 제품에 적용하겠다고 발표했다. 경쟁사가 경쟁사의 워터마크를 자발적으로 채택하는 이례적인 장면이었다.\"AI가 만든 콘텐츠에 표시를 남기자\"는 논의는 3년 전부터 있었다. 그런데 이번 발표의 핵심은 워터마크 '기술'이 아니다. 필자가 보기에 이건 AI 콘텐츠 신뢰 인프라의 표준을 누가 쥐는가를 둘러싼 구조적 경쟁이다.두 개의 신분증: C2PA와 SynthIDAI 콘텐츠에 \"이건 AI가 만들었다\"고 표시하는 방법은 크게 두 갈래다. 첫째는 C2PA(Coalition for Content Provenance an",
-          "published": "2026-05-23T06:01:57+00:00",
+          "title": "샤오미, 테슬라 재도전…YU7 표준형 부활·GT 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260524012638",
+          "summary": "[지디넷코리아]샤오미가 스포츠유틸리티차(SUV) 'YU7'을 앞세워 다시 한 번 테슬라 모델Y에 도전장을 던졌다. 표준형 모델 복귀와 고성능 'YU7 GT' 출시를 통해 제품 라인업을 재정비하며 본격적인 시장 확대에 나선 모습이다.24일 중국 자동차 전문매체 가스구에 따르면 샤오미 창업자 레이쥔 최고경영자(CEO)는 지난 21일 열린 발표회에서 \"지난 10개월간 모델Y와의 경쟁에서 2승8패를 기록했다\"며 \"글로벌 판매 1위 모델에 지는 건 부끄러운 일이 아니며 포기하지 않겠다\"고 밝혔다.YU7은 지난해 6월 출시 당시 18시간만에 24만대 계약을 기록하며 시장의 주목을 받았다. 올해 1월에 중국 SUV 판매 1위에 오르기도 했지만 이후 모델Y가 다시 1위에 올랐다. 현재까지 YU7 누적 인도량은 23만대 수준이다.샤오미는 이번 발표회에서 YU7 제품 전략 수정 계획을 밝혔다. 샤오미는 기존에 제외했던 표준형 모델을 다시 추가했다. 그동안 샤오미는 고사양 장거리 버전으로 모델Y 엔트리",
+          "published": "2026-05-24T00:11:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia CEO Urges Super Micro to Tighten Up Amid Taiwan Crackdown",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-23/nvidia-ceo-urges-super-micro-to-tighten-up-amid-taiwan-crackdown",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang urged Super Micro Computer Inc. to tighten up on compliance after Taiwan detained three people this week for allegedly making fraudulent declarations about AI servers made by its US partner.",
-          "published": "2026-05-23T11:01:30+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -121,78 +29,46 @@
           ]
         },
         {
-          "title": "Zoom’s Anthropic Investment Has Netted the Company $1 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-22/zoom-s-anthropic-investment-has-netted-the-company-1-billion",
-          "summary": "Zoom Communications Inc., the videoconferencing company, has netted about $1 billion on an investment it made in artificial intelligence startup Anthropic PBC in early 2023.",
-          "published": "2026-05-22T22:41:51+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IUF9zajNXbk4wQ2QzSENMRS1lNjVNTV9TcW1SazRrV1pTNGxmTTBNdHZCd0drclFPTXJoZTRibkZpRHhNc2NtVlJzMW1fV1V4Y3JsUlpfVThGdDlzVmVrWHZVVTVIRXZmRHc?oc=5",
-          "summary": "엔비디아 차세대 AI 서버 한대에 '118억'... 메모리 값만 30억 육박 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-23T09:25:17+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CU3FtZEVBUEdyRmotUnlkOVdpQ2lacEpXQ25NQ3BMWUxLV2JYZVhaRFdaTzZEb1BMTnBaU3piTmFBeDh5YW9lYzM3R1I1TGt6VTQtdm5vYUFrTEpmdUZBdGdIRTlXajhyQVE?oc=5",
-          "summary": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-23T18:33:54+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zYndnV2Z2SjBFWlJ3MHVIbnp6TUxxSVNrSDUwTnM0U2xja1BKZVdjeWFjTU4zSXRDMEFmendHdjFfdnR0cGlMcmtXaGpkMG15VTFyWHNEd2c0Q0k0N2QzVThYX2lsT0NKQ1E?oc=5",
-          "summary": "피차이 \"구글 코딩, 타사에 뒤져...데이터 선순환 구조로 역전할 것\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-23T12:12:26+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "title": "자율주행 기술 갈아탄 中 샤오펑 \"더 이상 라이다 필요없어\"",
+          "link": "https://zdnet.co.kr/view/?no=20260524093836",
+          "summary": "[지디넷코리아]중국 전기차 기업 샤오펑이 자율주행 기술로 더 이상 라이다(LIDAR)와 같은 센서가 필요치 않다고 주장했다.전기차 매체 CNEV포스트에 따르면 허샤오펑 샤오펑 회장 겸 최고경영자(CEO)는 최근 간담회에서 이 같은 취지의 발언을 했다. 중국차 중 라이다 기반 자율주행 기술을 지원하는 모델 비중이 지속 증가하고 있다는 지적에도 이같은 입장을 견지한 것이다.지난 2021년 샤오펑은 세계 최초로 양산 모델에 라이다를 도입한 전기 세단 ‘P5’를 출시했으나, 2024년 말 자율주행 기술을 라이다에서 순수 비전 기반 자율주행 솔루션으로 전환했다.라이다는 차량 외부에 설치돼 주변 환경과 거리를 측정하는 센서다. 샤오펑은 이를 사용하지 않고, 카메라 영상을 토대로 주변 상황을 판단하는 자율주행 기술 개발에 주력하겠다는 것이다. 업계에선 테슬라가 이 같은 방식의 기술을 채택하고 있다.지난 20일 샤오펑이 출시한 대형 SUV ‘GX’도 순수 비전 기반 자율주행 기술 ‘VLA 2.0’",
+          "published": "2026-05-24T00:51:46+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 7,
           "score_breakdown": {
             "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 6,
+      "articles": [
+        {
+          "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence start-up DeepSeek’s latest flagship model has been ranked as one of the world’s best on an intelligence-per-dollar basis, far exceeding those from US heavyweights OpenAI and Anthropic in cost-efficiency after a 75 per cent promotional price cut was made permanent. The Hangzhou-based start-up announced the permanent price cut for its V4 Pro model on Saturday, a month after it released the long-awaited V4 generation, which comprises the flagship V4 Pro model and its",
+          "published": "2026-05-24T12:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -201,30 +77,50 @@
           "event_labels": []
         },
         {
-          "title": "1분기 삼성 엑시노스 출하량 11% 상승...점유율 5위",
-          "link": "https://zdnet.co.kr/view/?no=20260522165843",
-          "summary": "[지디넷코리아]1분기 삼성전자 스마트폰 AP 엑시노스 출하량이 전년 동기보다 11% 늘었다. 시장 점유율도 1%포인트 상승했다. 24일 시장조사업체 시그마인텔에 따르면 1분기 업체별 스마트폰 AP 출하량(시장 점유율)은 ▲미디어텍 9700만개(33%) ▲퀄컴 7100만개(24%) ▲애플 5300만개(18%) ▲유니SOC 3000만개(10%) ▲삼성전자 엑시노스 2100만개(7%) ▲화웨이 하이실리콘 1600만개(5%) 순으로 많았다. 1분기 전세계 스마트폰 AP 출하량은 2억 9100만개로, 지난해 1분기 3억 300만개보다 4% 줄었다. 시그마인텔은 메모리 반도체 가격 상승이 스마트폰 제조원가 전반으로 확산해 1분기 AP 수요가 위축됐다고 풀이했다. 완제품 업체는 재고 비축과 칩 구매를 축소했다. 150달러 이하 저가 스마트폰 판매가 특히 부진했다. 시그마인텔은 자체 AP를 보유한 업체가 시장 변동성이 큰 시기에 원가 관리, 제품 차별화, 안정적 출하 확대 등에서 이점을 봤다고 평",
-          "published": "2026-05-23T20:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-24/apple-watch-needs-shake-up-amid-whoop-oura-google-fitbit-air-airpods-ios-27-mpjuh7ln",
+          "summary": "Also: iOS 27 AirPods, Genmoji and AirPlay details.",
+          "published": "2026-05-24T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 3,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82NHFNTTdyN1ZiLTNyeklJOXVPX0o4SHJNQmpTcEZDa2ZsT1pRNlp0V08xaVFJWEh0YnVUU3JmVUtBNHJoTnEzclBaaGE1emNMbTB1LWV1X0psdjRTdUpHeHdJQWJSNXUzRlE?oc=5",
-          "summary": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-23T00:55:00+00:00",
+          "title": "Is Hong Kong following Beijing’s lead and ousting Western tech?",
+          "link": "https://www.scmp.com/tech/policy/article/3354527/hong-kong-following-beijings-lead-and-ousting-western-tech?utm_source=rss_feed",
+          "summary": "Hong Kong’s technology infrastructure is undergoing a major transformation as local government and businesses replace Western products with domestic alternatives, driven by closer integration with mainland China and rising geopolitical risks, according to tech experts. US tech giants like Microsoft have long “served as the bedrock of Hong Kong’s digital landscape”, but that dominance is now being actively contested, particularly in the government sector, according to Francis Fong Po-kiu,...",
+          "published": "2026-05-24T03:00:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVFpoTHBaUWRZNHBiWlg4alpNaEw2RnQ5bVRkVHlFZVFzUkNfZVdYaUZYX3d5NDNGUTN1MHJCNnBfVXJralVLRVBJdjBETlB4TWEzYmU1Q211VWV5Z0RJVEdHNUdqakYza2c?oc=5",
+          "summary": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-24T03:44:50+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -234,6 +130,46 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스마트폰 이어 인공지능 글라스…삼성·애플, 차세대 기기 승부수 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55R3BlSGR2cGtWbDYxWEN1QkdqampUdmtSODFOTElNTERVYWVtRmNIbWdpZm1iallHNzNheGEycU01Vkw1NElXaFFTNHFOeXNoMHkyYnl3?oc=5",
+          "summary": "스마트폰 이어 인공지능 글라스…삼성·애플, 차세대 기기 승부수 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-24T08:03:49+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"물길 보고도 진입했다\"…웨이모 로보택시 또 침수 사고",
+          "link": "https://zdnet.co.kr/view/?no=20260523233104",
+          "summary": "[지디넷코리아]구글 자율주행 자회사 웨이모가 침수 도로 대응 실패 문제로 미국 주요 도시에서 로보택시 서비스를 일시 중단했다. 최근 소프트웨어 리콜 이후에도 침수 도로에 차량이 진입하는 사고가 재발했다. 23일(현지시간) 미국 IT매체 더넥스트웹(TNW)에 따르면 웨이모는 지난 21일 애틀랜타, 오스틴, 댈러스, 휴스턴, 샌안토니오 등 미국 5개 도시에서 로보택시 운행을 중단했다. 샌프란시스코, 로스앤젤레스, 피닉스, 마이애미 등에서는 고속도로 운행 서비스도 함께 중단한 상태다.이번 조치는 애틀랜타에서 발생한 침수 사고 이후 이뤄졌다. 웨이모 차량 한 대는 폭우로 물이 고인 도로에 진입한 뒤 멈춰 섰다. 당시 차량에는 승객이 탑승하지 않은 상태였다. 문제는 이 사고가 지난 8일 웨이모가 침수 대응 문제로 3791대 규모 리콜을 실시한 이후에도 발생했다는 점이다.앞서 웨이모는 지난달 텍사스 샌안토니오에서도 침수 사고를 겪었다. 당시 로보택시는 시속 40마일 제한 도로에서 침수 구간을 ",
+          "published": "2026-05-24T00:14:21+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -252,20 +188,20 @@
       "count": 1,
       "articles": [
         {
-          "title": "[현장] 윤오준 전 국정원 3차장 \"이제 중기도 사이버보안 챙겨야\"",
-          "link": "https://zdnet.co.kr/view/?no=20260523201148",
-          "summary": "[지디넷코리아]\"이제는 중소기업도 사이버보안을 챙겨야합니다.\"윤오준 중앙대 보안대학원 특임교수(전 국정원 3차장)는 22일 열린 '제 2회 중소기업 정보보안 세미나'에서 \"보안은 실무자만의 업무가 아니라 기업 대표의 KPI여야 한다\"며 이 같이 밝혔다. 이날 행사는 중소기업중앙회(K-BIZ)가 한국정보산업협회(KISIS)와 공동으로 개최했다. 작년에 이어 올해 두 번째로 열렸다. 이날 기조강연(키노트)을 한 윤 교수는 국정원에서 사이버보안을 총괄하는 3차장을 맡아 2024년 2월부터 2025년 6월까지 1년 4개월간 근무했다.보안이 남의 일이 아니라 중소기업의 핵심 생존 수단이라고 짚은 그는 \"이제 보안이 얼마나 중요한가?를 묻는 것이 아니라 사고 이후에도 이 자리를 계속 유지할 수 있는가?를 물어야 할 중요한 시점\"이라고 밝혔다. 이날 그는 ▲최근 국내외 사이버위협 동향 ▲주요 사이버보안 정책 동향 ▲중소기업의 보안 고려사항 등을 들려줬다.2022년 일어난 SK와 카카오 IDC, ",
-          "published": "2026-05-23T11:11:48+00:00",
+          "title": "배민, 전국소년체전 선수들에 푸드트럭 도시락 지원",
+          "link": "https://zdnet.co.kr/view/?no=20260524143204",
+          "summary": "[지디넷코리아]배달의민족 운영사 우아한형제들이 제55회 전국소년체육대회에 참가한 선수들을 대상으로 ‘배민응원도시락’ 캠페인을 진행했다. 회사는 대회 첫날인 23일 부산 주요 경기장 인근에서 푸드트럭 7대를 운영하며 선수들에게 음식을 제공했다고 24일 밝혔다.이번 캠페인은 우아한형제들이 기존에 진행해온 ‘배민방학도시락’ 사업을 바탕으로 기획됐다. 방학 중 돌봄이 필요한 아동에게 식사를 지원하던 활동을 스포츠 꿈나무 응원으로 확대한 것이다.푸드트럭 메뉴는 부산초량어묵 등 지역 먹거리와 피자, 치킨, 분식 등으로 구성됐다. 이재모피자, 처갓집양념치킨, 이삭토스트, 요아정, 스쿨푸드 등이 참여했고 배민 자체 브랜드 ‘배민이지’ 제품도 제공됐다.푸드트럭 4대는 태권도와 하키 경기가 열린 강서체육공원에 배치됐다. 나머지 3대는 씨름과 양궁 경기 일정에 맞춰 부산보건대학교와 을숙도 체육공원 인근을 이동하며 운영됐다.현장에서는 떡볶이와 요거트 아이스크림, 피자, 치킨 등을 받으려는 선수들의 방문이",
+          "published": "2026-05-24T08:03:48+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
