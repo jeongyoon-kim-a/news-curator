@@ -1,115 +1,74 @@
 {
-  "generated_at": "2026-05-24T21:58:54.212954+00:00",
+  "generated_at": "2026-05-25T22:11:10.418054+00:00",
   "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "샤오미, 테슬라 재도전…YU7 표준형 부활·GT 출시",
-          "link": "https://zdnet.co.kr/view/?no=20260524012638",
-          "summary": "[지디넷코리아]샤오미가 스포츠유틸리티차(SUV) 'YU7'을 앞세워 다시 한 번 테슬라 모델Y에 도전장을 던졌다. 표준형 모델 복귀와 고성능 'YU7 GT' 출시를 통해 제품 라인업을 재정비하며 본격적인 시장 확대에 나선 모습이다.24일 중국 자동차 전문매체 가스구에 따르면 샤오미 창업자 레이쥔 최고경영자(CEO)는 지난 21일 열린 발표회에서 \"지난 10개월간 모델Y와의 경쟁에서 2승8패를 기록했다\"며 \"글로벌 판매 1위 모델에 지는 건 부끄러운 일이 아니며 포기하지 않겠다\"고 밝혔다.YU7은 지난해 6월 출시 당시 18시간만에 24만대 계약을 기록하며 시장의 주목을 받았다. 올해 1월에 중국 SUV 판매 1위에 오르기도 했지만 이후 모델Y가 다시 1위에 올랐다. 현재까지 YU7 누적 인도량은 23만대 수준이다.샤오미는 이번 발표회에서 YU7 제품 전략 수정 계획을 밝혔다. 샤오미는 기존에 제외했던 표준형 모델을 다시 추가했다. 그동안 샤오미는 고사양 장거리 버전으로 모델Y 엔트리",
-          "published": "2026-05-24T00:11:41+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "자율주행 기술 갈아탄 中 샤오펑 \"더 이상 라이다 필요없어\"",
-          "link": "https://zdnet.co.kr/view/?no=20260524093836",
-          "summary": "[지디넷코리아]중국 전기차 기업 샤오펑이 자율주행 기술로 더 이상 라이다(LIDAR)와 같은 센서가 필요치 않다고 주장했다.전기차 매체 CNEV포스트에 따르면 허샤오펑 샤오펑 회장 겸 최고경영자(CEO)는 최근 간담회에서 이 같은 취지의 발언을 했다. 중국차 중 라이다 기반 자율주행 기술을 지원하는 모델 비중이 지속 증가하고 있다는 지적에도 이같은 입장을 견지한 것이다.지난 2021년 샤오펑은 세계 최초로 양산 모델에 라이다를 도입한 전기 세단 ‘P5’를 출시했으나, 2024년 말 자율주행 기술을 라이다에서 순수 비전 기반 자율주행 솔루션으로 전환했다.라이다는 차량 외부에 설치돼 주변 환경과 거리를 측정하는 센서다. 샤오펑은 이를 사용하지 않고, 카메라 영상을 토대로 주변 상황을 판단하는 자율주행 기술 개발에 주력하겠다는 것이다. 업계에선 테슬라가 이 같은 방식의 기술을 채택하고 있다.지난 20일 샤오펑이 출시한 대형 SUV ‘GX’도 순수 비전 기반 자율주행 기술 ‘VLA 2.0’",
-          "published": "2026-05-24T00:51:46+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 4,
       "articles": [
         {
-          "title": "DeepSeek V4 Pro tops global bang-for-buck ranking after 75% price cut",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3354668/deepseek-v4-pro-tops-global-bang-buck-ranking-after-75-price-cut?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence start-up DeepSeek’s latest flagship model has been ranked as one of the world’s best on an intelligence-per-dollar basis, far exceeding those from US heavyweights OpenAI and Anthropic in cost-efficiency after a 75 per cent promotional price cut was made permanent. The Hangzhou-based start-up announced the permanent price cut for its V4 Pro model on Saturday, a month after it released the long-awaited V4 generation, which comprises the flagship V4 Pro model and its",
-          "published": "2026-05-24T12:00:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple’s Watch and Health Efforts Need Reboot to Rival New Wearables",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-24/apple-watch-needs-shake-up-amid-whoop-oura-google-fitbit-air-airpods-ios-27-mpjuh7ln",
-          "summary": "Also: iOS 27 AirPods, Genmoji and AirPlay details.",
-          "published": "2026-05-24T14:00:01+00:00",
+          "title": "SoftBank Shares Hit Record With Lift From OpenAI IPO Hopes",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-25/softbank-shares-hit-record-high-with-lift-from-openai-ipo-hopes",
+          "summary": "SoftBank Group Corp. shares climbed to a record high, spurred by hopes of big returns from the Japanese investor’s stakes in OpenAI and SB Energy Corp., should the two go public.",
+          "published": "2026-05-25T06:37:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "인포매티카, 스노우플레이크 AI 거버넌스 강화",
+          "link": "https://zdnet.co.kr/view/?no=20260525092646",
+          "summary": "[지디넷코리아]인포매티카가 스노우플레이크 기반 엔터프라이즈 인공지능(AI) 운영을 위한 데이터 관리·거버넌스 기능을 강화했다.인포매티카는 21일까지 미국에서 열린 '인포매티카 월드 2026'에서 스노우플레이크와 협력을 확대해 에이전틱 AI 통합을 비롯한 접근 거버넌스, 오픈 포맷 데이터 검색 기능을 새로 공개했다고 밝혔다. 인포매티카는 지난해 세일즈포스에 인수됐다. 이번 기능은 두 기업 고객이 스노우플레이크에서 엔터프라이즈 AI를 구축하고 관리하며 확장할 수 있도록 지원하는 게 목표다. 인포매티카는 스노우플레이크 코텍스 AI와 연동되는 헤드리스 데이터 관리 통합을 제공하는 초기 파트너 중 하나로 참여했다. 코텍스 AI에서 에이전트를 개발하는 사용자는 에이전틱 워크플로 안에서 인포매티카의 헤드리스 지능형 데이터 관리 클라우드 기능을 호출할 수 있다.이 통합에는 인포매티카 클라우드 데이터 거버넌스·카탈로그를 통한 메타데이터 검색과 주소 검증 기능이 포함된다. 기업은 별도 맞춤형 커넥터 ",
+          "published": "2026-05-25T07:03:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Apple Watchに変革を、Whoopやオーラ台頭でヘルスケアアプリに課題－Power On",
+          "link": "https://www.bloomberg.com/jp/news/newsletters/2026-05-25/TFKOC1KGCTG700",
+          "summary": "健康ウエアラブル端末市場で競争激化、AI時代への対応課題に",
+          "published": "2026-05-25T03:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Is Hong Kong following Beijing’s lead and ousting Western tech?",
-          "link": "https://www.scmp.com/tech/policy/article/3354527/hong-kong-following-beijings-lead-and-ousting-western-tech?utm_source=rss_feed",
-          "summary": "Hong Kong’s technology infrastructure is undergoing a major transformation as local government and businesses replace Western products with domestic alternatives, driven by closer integration with mainland China and rising geopolitical risks, according to tech experts. US tech giants like Microsoft have long “served as the bedrock of Hong Kong’s digital landscape”, but that dominance is now being actively contested, particularly in the government sector, according to Francis Fong Po-kiu,...",
-          "published": "2026-05-24T03:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -117,50 +76,10 @@
           "event_labels": []
         },
         {
-          "title": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZVFpoTHBaUWRZNHBiWlg4alpNaEw2RnQ5bVRkVHlFZVFzUkNfZVdYaUZYX3d5NDNGUTN1MHJCNnBfVXJralVLRVBJdjBETlB4TWEzYmU1Q211VWV5Z0RJVEdHNUdqakYza2c?oc=5",
-          "summary": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-24T03:44:50+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스마트폰 이어 인공지능 글라스…삼성·애플, 차세대 기기 승부수 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE55R3BlSGR2cGtWbDYxWEN1QkdqampUdmtSODFOTElNTERVYWVtRmNIbWdpZm1iallHNzNheGEycU01Vkw1NElXaFFTNHFOeXNoMHkyYnl3?oc=5",
-          "summary": "스마트폰 이어 인공지능 글라스…삼성·애플, 차세대 기기 승부수 &nbsp;&nbsp; 매일경제",
-          "published": "2026-05-24T08:03:49+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"물길 보고도 진입했다\"…웨이모 로보택시 또 침수 사고",
-          "link": "https://zdnet.co.kr/view/?no=20260523233104",
-          "summary": "[지디넷코리아]구글 자율주행 자회사 웨이모가 침수 도로 대응 실패 문제로 미국 주요 도시에서 로보택시 서비스를 일시 중단했다. 최근 소프트웨어 리콜 이후에도 침수 도로에 차량이 진입하는 사고가 재발했다. 23일(현지시간) 미국 IT매체 더넥스트웹(TNW)에 따르면 웨이모는 지난 21일 애틀랜타, 오스틴, 댈러스, 휴스턴, 샌안토니오 등 미국 5개 도시에서 로보택시 운행을 중단했다. 샌프란시스코, 로스앤젤레스, 피닉스, 마이애미 등에서는 고속도로 운행 서비스도 함께 중단한 상태다.이번 조치는 애틀랜타에서 발생한 침수 사고 이후 이뤄졌다. 웨이모 차량 한 대는 폭우로 물이 고인 도로에 진입한 뒤 멈춰 섰다. 당시 차량에는 승객이 탑승하지 않은 상태였다. 문제는 이 사고가 지난 8일 웨이모가 침수 대응 문제로 3791대 규모 리콜을 실시한 이후에도 발생했다는 점이다.앞서 웨이모는 지난달 텍사스 샌안토니오에서도 침수 사고를 겪었다. 당시 로보택시는 시속 40마일 제한 도로에서 침수 구간을 ",
-          "published": "2026-05-24T00:14:21+00:00",
+          "title": "제미나이 과금 논란 속 구글 \"AI 보안 전략 처음부터 짜야\"",
+          "link": "https://zdnet.co.kr/view/?no=20260525090928",
+          "summary": "[지디넷코리아]구글이 제미나이 무단 API 호출로 인한 과금 논란 후 인공지능(AI) 보안 전략 중요성을 강조한 것으로 전해졌다. 24일(현지시간) 테크크런치 등 외신에 따르면 프랜시스 드 수자 구글클라우드 최고운영책임자(COO)는 이날 미국 로스앤젤레스에서 열린 한 행사에서 AI 시대 보안·데이터 전략 중요성을 강조했다.이날 수자 COO는 기업들이 AI 플랫폼을 구축할 때 보안, 거버넌스, 감사 가능성을 처음부터 고려해야 한다고 주장했다. 직원들이 조직 승인 없이 소비자용 AI 도구를 쓰는 '섀도 AI'가 확산하면 민감 데이터가 통제 밖으로 나갈 수 있다는 이유에서다.수자 COO는 AI 확산에 따라 보안 위협 속도도 빨라졌다고 봤다. 그는 \"최초 침해가 발생한 뒤 공격이 다음 단계로 넘어가는 평균 시간이 8시간에서 22초로 줄었다\"며 \"방어 대상도 기존 네트워크와 서버를 넘어 모델, 학습 데이터 파이프라인, 에이전트, 프롬프트로 넓어졌다\"고 설명했다.그는 AI 에이전트가 기업 내부",
+          "published": "2026-05-25T08:00:13+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -180,18 +99,99 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 4,
+      "articles": [
+        {
+          "title": "미국이 쏘아 올린 '패시브 이자'의 종말",
+          "link": "https://zdnet.co.kr/view/?no=20260522170959",
+          "summary": "[지디넷코리아]최근 미국 상원 은행위원회에서 가상자산 시장 핵심 법안인 클래리티 법안이 15 대 9로 통과되며 입법의 9부 능선을 넘었습니다.우리가 진정 주목해야 할 심해 해류는 지난 2025년 제정된 지니어스법과 이번 클래리티 법안이 맞물려 만들어낼 '온체인 금융 수익 구조 근본적인 재편'입니다. 블록체인 위에서 돈을 버는 방식이 완전히 달라지고 있습니다.이 거대한 변화를 이해하려면 먼저 거시경제 관점을 짚어야 합니다. 트럼프 행정부와 스콧 베센트 재무장관이 스테이블코인 제도를 강력히 밀어붙인 진짜 이유는 '미국 국가 부채 문제 해결'입니다.베센트 장관은 \"스테이블코인이 2030년까지 최대 3조 7000억 달러 규모로 성장할 것\"이라고 전망했습니다. 스테이블코인을 발행하는 회사는 그 가치를 유지하기 위해 고객 자금으로 '미국 단기 국채'를 매입해야 합니다. 즉, 전세계의 자금이 스테이블코인으로 몰려들수록 미 국채를 매입해주는 든든한 '고정 수요'가 생기는 셈입니다.미국 정부 입장에",
+          "published": "2026-05-25T06:10:19+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "업비트, ‘업클래스 주니어배 퀴즈 대항전’ 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260525133811",
+          "summary": "[지디넷코리아]업비트를 운영하는 두나무가 청소년 디지털 금융 리터러시 확산을 위해 ‘업클래스 주니어배 퀴즈 대항전’을 진행한다고 25일 밝혔다.‘업클래스 주니어’는 두나무의 세대별 맞춤형 금융 교육 프로그램 ‘업클래스’ 일환이다. 경제 상식과 인공지능(AI), 블록체인, 대체불가토큰(NFT) 등 최신 기술 트렌드를 접목한 커리큘럼을 제공한다. 이번 ‘업클래스 주니어배 퀴즈 대항전’은 학생들이 보다 쉽고 재미있게 디지털 금융·경제 지식을 쌓을 수 있도록 마련한 이벤트다. 업클래스 주니어 1학기에 참여한 62개교 학생들을 대상으로 5월 18일부터 7월 3일까지 약 7주간 진행된다.이벤트 종료 후에는 학교별 참여 인원과 평균 성적 등을 종합해 부문별 우수 학교를 선정, ‘업비트가 쏘는 간식차’를 선물한다. 열정 클래스상, 브레인 클래스상, 우리동네 클래스상(수도권), 우리동네 클래스상(비수도권) 총 4개 부문으로 각각 ▲참여 인원이 가장 많은 학교 1위 ▲평균 성적이 가장 높은 학교 1위",
+          "published": "2026-05-25T04:38:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "핑거, 두베와 원화 스테이블코인 사업 MOU 체결",
+          "link": "https://zdnet.co.kr/view/?no=20260525153135",
+          "summary": "[지디넷코리아]핀테크 '핑거'가 블록체인 인프라 기업 '두베'와 원화 기반 스테이블코인 공동 사업 추진을 위한 전략적 업무 협약(MOU)을 체결했다고 25일 밝혔다.핑거 블록체인 서비스 플랫폼 '프리즘(Frizm)'에 두베 블록체인 엔진 '시그마체인'을 연동해, 원화 스테이블코인 발행 인프라를 고도화할 계획이다. 두베는 스테이블코인 발행에 필요한 기술적 지원을 전담한다.양사는 스테이블코인 기술 협력을 넘어 다음의 구체적 사업 분야에서 긴밀히 협력할 예정이다. 보안 강화 스마트 컨트랙트 개발과 토큰증권에 대한 법규에 대해서도 대응한다는 방침이다.안인주 핑거 대표는 \"프리즘 생태계 내 파트너십을 지속 확장하며, 국내 금융권의 디지털 자산 전환을 주도하는 플랫폼 리더십을 더욱 공고히 할 계획\"이라며 \"두베와 협력은 국내 금융권 온체인 전환을 실질적으로 이끄는 표준 플랫폼으로 성장하는 중요한 이정표\"라고 말했다.윤장준 두베 대표는 \"금융 플랫폼 시장에서 독보적 기술 지위를 가진 핑거와 협력",
+          "published": "2026-05-25T06:31:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "X, 도둑 콘텐츠 계정 손본다…\"원작자 아닌 재업로드 계정 수익 대폭 삭감\"",
+          "link": "https://zdnet.co.kr/view/?no=20260525113815",
+          "summary": "[지디넷코리아]소셜미디어 플랫폼 X가 다른 이용자의 바이럴 콘텐츠를 무단 재업로드해 수익을 올리는 계정들에 대한 단속에 나섰다. 조회수와 참여도를 기반으로 한 크리에이터 수익 배분 구조가 오히려 콘텐츠 도용과 클릭베이트를 부추겼다는 지적이 이어지자 대응에 나선 것이다. 24일(현지시간) 디지털트렌드에 따르면 X는 소규모 계정의 콘텐츠를 자동으로 재업로드하며 수익을 챙기는 대형 계정들을 적극 단속하고 있다고 밝혔다.니키타 비어 X 제품 총괄은 “작은 계정의 콘텐츠를 프로그램 방식으로 재업로드해 크리에이터 수익 시스템을 악용하는 계정을 식별하고 있다”며 “재업로드 계정이 아닌 원작자에게 노출과 수익 혜택이 돌아가도록 변경 중”이라고 설명했다.X는 이미 일부 계정에 대해 크리에이터 수익 지급을 대폭 축소한 상태다. 반복적으로 규정을 위반한 계정의 경우 수익이 최대 90%까지 삭감된 사례도 있는 것으로 알려졌다. 이번 조치는 자극적인 제목과 재활용 영상, 정치적 분노 유발 게시물, 암호화폐",
+          "published": "2026-05-25T06:09:27+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "배민, 전국소년체전 선수들에 푸드트럭 도시락 지원",
-          "link": "https://zdnet.co.kr/view/?no=20260524143204",
-          "summary": "[지디넷코리아]배달의민족 운영사 우아한형제들이 제55회 전국소년체육대회에 참가한 선수들을 대상으로 ‘배민응원도시락’ 캠페인을 진행했다. 회사는 대회 첫날인 23일 부산 주요 경기장 인근에서 푸드트럭 7대를 운영하며 선수들에게 음식을 제공했다고 24일 밝혔다.이번 캠페인은 우아한형제들이 기존에 진행해온 ‘배민방학도시락’ 사업을 바탕으로 기획됐다. 방학 중 돌봄이 필요한 아동에게 식사를 지원하던 활동을 스포츠 꿈나무 응원으로 확대한 것이다.푸드트럭 메뉴는 부산초량어묵 등 지역 먹거리와 피자, 치킨, 분식 등으로 구성됐다. 이재모피자, 처갓집양념치킨, 이삭토스트, 요아정, 스쿨푸드 등이 참여했고 배민 자체 브랜드 ‘배민이지’ 제품도 제공됐다.푸드트럭 4대는 태권도와 하키 경기가 열린 강서체육공원에 배치됐다. 나머지 3대는 씨름과 양궁 경기 일정에 맞춰 부산보건대학교와 을숙도 체육공원 인근을 이동하며 운영됐다.현장에서는 떡볶이와 요거트 아이스크림, 피자, 치킨 등을 받으려는 선수들의 방문이",
-          "published": "2026-05-24T08:03:48+00:00",
+          "title": "앤트로픽 \"미토스, 한 달 만에 취약점 1만건 찾아\"",
+          "link": "https://zdnet.co.kr/view/?no=20260525094908",
+          "summary": "[지디넷코리아]앤스로픽 인공지능(AI) 모델 '미토스'가 한 달 만에 주요 소프트웨어(SW)와 시스템에서 1만건 넘는 취약점을 찾은 것으로 나타났다. 앤트로픽은 22일 AI 보안 프로젝트 '글래스윙' 초기 성과를 이같이 홈페이지를 통해 발표했다. 대표 사례로 클라우드플레어는 핵심 시스템에서 약 2천건 버그를 찾아냈다. 이중 400건은 고위험 또는 치명적 수준으로 분류됐다. 모질라도 파이어폭스 새 버전 보안 점검 과정에서 취약점 271건을 발견해 수정했다. 이는 기존 모델을 활용했을 때보다 10배 이상 많은 수준이다.글래스윙 참여 기업은 미토스로 탐지 속도를 크게 개선했다고 발표했다. 특히 버그를 찾아내는 시간이 기존보다 10배 이상 단축됐다고 밝혔다. 외부에서도 미토스 성능은 주목받았다. 영국 AI안전연구소가 진행한 가상 해킹 능력 평가에서 미토스는 공격 절차를 처음으로 끝까지 수행한 모델로 기록됐다. 보안 플랫폼 엑스보우도 미토스가 웹 취약점 공격 성능 평가에서 기존 AI 모델을 ",
+          "published": "2026-05-25T04:53:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
