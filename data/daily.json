@@ -1,104 +1,16 @@
 {
-  "generated_at": "2026-05-27T22:44:05.850071+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-05-28T22:45:07.978610+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 1,
       "articles": [
         {
-          "title": "SpaceX Investor Powerlaw Debuts on Nasdaq as IPO Race Heats Up",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-27/spacex-investor-powerlaw-to-debut-on-nasdaq-as-ipo-race-heats-up",
-          "summary": "Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk’s SpaceX and artificial intelligence firm OpenAI, traded well above the value of its underlying investments in its debut on Wednesday, capitalizing on retail investors’ clamor for exposure to the hottest private tech companies.",
-          "published": "2026-05-27T09:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "뜨거운 우주 테마주 스페이스X·테슬라 합병하나? - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DOGtrQm5Zdi1MV2ZZTzZCSmhwVjE1aXpWZFc3TU53RndSMWlhY3EycndfZFBZSmN0T3Z1OXFWNTZqY1lfN0NsT1Vmc0lja3hXMlFHT1ozODhMQmxDUTY2Y1lOMkxaYjBSd1RGMHpHLXDSAXRBVV95cUxOYXNkWG95RFpFbWJxQXVxaHdfUERtX2dITVl0VG5lNG1fNWI2Zk45ajJuRW5qM2FNZHJ0NGZoVVBvbkJ2WjdfZXNLNW04WlJKRW0wT2xUcDBvWTBaS0ZyN0p3clZYcHdwcjBuZWFSSmw4VE1ZYQ?oc=5",
-          "summary": "뜨거운 우주 테마주 스페이스X·테슬라 합병하나? &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-27T07:05:32+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "The SpaceX IPO Is the Perfect Embodiment of Markets",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-27/the-spacex-ipo-is-the-perfect-embodiment-of-markets",
-          "summary": "Momentum trumps everything.",
-          "published": "2026-05-27T19:00:15+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "스페이스X 상장 기대에 美 우주 테마 '불장' 모드 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5LUhOV3c2MUtKN2pLZ1Zqck15UjlHZjZDTEV5X1pjRGU5ZDRpSTBpVnBwN3ZRZFJEX2stYlNsYjEzSU1DM0tET2VyaGtWZGVNaGF6bU1ybDNVV3RPZF9FdDJhd2lJeVJPVUdGcmhqRGk?oc=5",
-          "summary": "스페이스X 상장 기대에 美 우주 테마 '불장' 모드 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-26T23:43:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "[스페이스X 상장-④] 증권사 미래 바뀐다…브로커리지 종말 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02WUN5Z3hBQUtHRV9nRzdtZGJrNnFtQkREQWNWQjdNYURlS29Ic0N6MXFCWVZ2ZDNEU0E3MXpPTFFTdVl6TWVuUzZhSFZfeDRhd0JzY3ZxMVhTTWYzQ2ZSZzc5TnlXRlE1c2VZbUpuVlA?oc=5",
-          "summary": "[스페이스X 상장-④] 증권사 미래 바뀐다…브로커리지 종말 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-27T00:13:18+00:00",
+          "title": "\"스페이스X·앤트로픽 초대형 IPO, 대형 기술주 매도 부를 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sQTZqMG1ZcE1uUUgxN0prZHhSLXVPbEllOUpKQ3BNaWFOZXY2NWhNNXhMTTUzbHRHc0p5LVNtSEFWdEFhOVZTWVBacnRyZjM2MmZBQm1rZWV4akctVi1RWDBTOUZ2OV9VQnhxMkRQd2I?oc=5",
+          "summary": "\"스페이스X·앤트로픽 초대형 IPO, 대형 기술주 매도 부를 것\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-28T01:09:03+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -123,58 +35,18 @@
       "count": 8,
       "articles": [
         {
-          "title": "American AI firms want it both ways in limiting, profiting off China",
-          "link": "https://www.scmp.com/opinion/china-opinion/article/3354759/american-ai-firms-want-it-both-ways-limiting-profiting-china?utm_source=rss_feed",
-          "summary": "OpenAI does not officially offer its services in mainland China, Hong Kong or Macau, yet it is hiring Mandarin-speaking developer experience engineers in Singapore. On May 14, the day US President Donald Trump met President Xi Jinping in Beijing, Anthropic published a policy paper arguing the United States and its allies must lock in a 12-to-24-month lead in frontier artificial intelligence (AI) by 2028 to avoid “authoritarian AI leadership”. In the same quarter, Anthropic disclosed US$1.56...",
-          "published": "2026-05-27T08:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Alibaba’s new AI model scores higher than OpenAI, Google rivals in coding ranking",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3355039/alibabas-new-ai-model-scores-higher-openai-google-rivals-coding-ranking?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding’s latest artificial intelligence model has clinched a top-tier spot on a major global coding leaderboard, making the Chinese technology giant the only developer other than Anthropic to break into the ranking’s top five spots. Qwen3.7-Max, Alibaba’s latest AI model, scored 1,541 on the Code Arena ranking to claim the fourth spot globally, placing it ahead of rival models from OpenAI and Google. The other four spots in the top five were held by various iterations of Claude...",
-          "published": "2026-05-27T10:00:15+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Snowflake Jumps 30% on Sales Outlook, $6 Billion Amazon Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-27/snowflake-raises-sales-outlook-touts-impact-of-ai-demand",
-          "summary": "Snowflake Inc. shares jumped almost 30% in late trading after the software maker gave a stronger-than-expected annual outlook and signed a $6 billion multiyear agreement to use Amazon.com Inc.’s cloud services and chips.",
-          "published": "2026-05-27T20:10:11+00:00",
+          "title": "Apollo Shops $36 Billion Debt Deal to Buy Google Chips for Anthropic",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/apollo-shops-36-billion-debt-deal-to-buy-google-chips-for-anthropic",
+          "summary": "Apollo Global Management Inc. and Blackstone Inc. are working to bring additional investors into a roughly $36 billion debt financing deal to help Anthropic PBC build out its AI infrastructure.",
+          "published": "2026-05-28T20:48:27+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 3,
@@ -185,40 +57,18 @@
           ]
         },
         {
-          "title": "Dell Wins $9.7 Billion Defense Deal to Streamline Software Buys",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-27/dell-wins-9-7-billion-defense-deal-to-streamline-software-buys",
-          "summary": "A unit of Dell Technologies Inc. won a $9.7 billion contract to help the US military handle its licenses for Microsoft Corp. software related to email, spreadsheets and other needs across classified and unclassified systems, the Pentagon said.",
-          "published": "2026-05-27T21:15:00+00:00",
+          "title": "Anthropic Valued at $965 Billion After Latest Funding Round, Eclipsing OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
+          "summary": "Anthropic PBC raised $65 billion in a funding round that valued the artificial intelligence company at $965 billion including the new investment, eclipsing rival OpenAI’s value for the first time.",
+          "published": "2026-05-28T18:22:16+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Meta to Sell AI Chatbot Subscriptions to Offset Spending",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-27/meta-to-sell-ai-chatbot-subscriptions-in-bid-to-offset-spending",
-          "summary": "Meta Platforms Inc. is selling consumer subscriptions to its Meta AI chatbot for the first time, a key step toward building a business that would help offset hundreds of billions of dollars in artificial intelligence investments by the company.",
-          "published": "2026-05-27T18:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -227,18 +77,18 @@
           "event_labels": []
         },
         {
-          "title": "Google Engineer Charged With Insider Trading on Polymarket",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-27/google-engineer-charged-with-insider-trading-on-polymarket",
-          "summary": "A Google software engineer was charged with insider trading on Polymarket, where he allegedly made more than $1 million betting on one of last year’s most popular Internet searches.",
-          "published": "2026-05-27T21:09:04+00:00",
+          "title": "Can the OpenAI and Anthropic IPOs Live Up to Expectations?",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/can-openai-and-anthropic-ipos-live-up-to-expectations",
+          "summary": "The AI dynamos are eyeing the public markets, but some wonder whether SpaceX’s planned June listing will steal&nbsp;their thunder.",
+          "published": "2026-05-28T21:00:08+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -247,18 +97,58 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아 '베라 CPU', 벤치마크서 인텔·AMD 최신 서버 칩 압도 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qZnZsQjZzRE5teVlxZlZvcGhyVWVlbURIUHZSTzJ5WWYyRUo4V1paaEpaMU5XdkljVVVJSUdJbW12RmxpNXhYNjF0aU9qa1JiaGE2bHF4RkMtMVduQlpxR2pEdGlaVWR4cFE?oc=5",
-          "summary": "엔비디아 '베라 CPU', 벤치마크서 인텔·AMD 최신 서버 칩 압도 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-27T10:15:19+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Anthropic Plans Wide Release of Mythos-Level AI Models in Weeks",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-unveils-new-flagship-ai-model-that-s-better-at-coding",
+          "summary": "Anthropic PBC plans to widely release new artificial intelligence models in the coming weeks with cybersecurity capabilities comparable to Mythos, a technology the company previously said was too dangerous to make available to the general public.",
+          "published": "2026-05-28T17:02:08+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Battle Is On to Win Attention and Money as Linear TV Declines",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/the-battle-is-on-to-win-attention-and-money-as-linear-tv-declines",
+          "summary": "With traditional TV audiences diminishing, everyone from Piers Morgan to OpenAI is trying to capitalize on the moment",
+          "published": "2026-05-28T20:17:52+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타 \"데이터 남으면 클라우드 진출…아마존·MS와 경쟁\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYYmZIa3RjZk1nNllmeWY2YVVXVkpleHhEWUNtaHFsUDdrNDVpZ0NCQ0FncDhkWEk2azhqc3FNamlzT216SlJuZTQ3RVdqd3FpZTdPUXJDZVhGY1o5VzJheTdkZVVqSlJiM1JibFFsWlo?oc=5",
+          "summary": "메타 \"데이터 남으면 클라우드 진출…아마존·MS와 경쟁\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-28T01:50:51+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -267,36 +157,78 @@
           "event_labels": []
         },
         {
-          "title": "오픈AI, '챗GPT 광고' 소상공인까지 확대…메타·구글에 정면 도전 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vRTBuR0xCVVhwNkE5bXFsa2NEaUFJUEpDRWlwRmRQd096SUpjZ0ZzSW1USVdXM1IxaS03ZnZPYzFob3l2MmxHNUtTN1hTMHF0Wl9RZlBSaHdVSlNtcXkzT2NPa2dtMkl3LVE?oc=5",
-          "summary": "오픈AI, '챗GPT 광고' 소상공인까지 확대…메타·구글에 정면 도전 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-27T09:15:20+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "'팔로워 2만명' 수천만 인플루언서 눌렀다…AI 검색 인용 글의 의외 공통점",
+          "link": "https://zdnet.co.kr/view/?no=20260528225853",
+          "summary": "[지디넷코리아]링크드인(LinkedIn)에는 팔로워가 수천만 명인 유명 인플루언서가 있고, 팔로워가 고작 2만 명인 평범한 금융 분석가도 있다. 그런데 챗GPT(ChatGPT) 같은 AI 검색이 답을 만들 때 더 자주 끌어다 쓴 쪽은 후자였다. 미디어 분석 기업 멜트워터(Meltwater)가 링크드인과 함께 AI가 만든 답변 속 인용(citation) 950만 건을 분석해 발표한 보고서가 밝힌 결과다. AI 인용이란 챗GPT나 구글(Google) AI가 답을 만들 때 참고하고 출처로 가져다 쓴 글을 말하는데, 이 보고서는 \"누가, 어떤 글을 써야 AI에 인용되는가\"라는, 이제 막 새로운 검색의 규칙이 된 질문에 데이터로 답한다.AI가 두 번째로 많이 인용한 출처, 링크드인의 부상멜트워터가 분석한 AI 답변 950만 건에서 링크드인은 유튜브(YouTube)에 이어 두 번째로 많이 인용된 출처로 나타났다. 멜트워터는 자사의 AI 가시성 분석 도구 젠AI 렌즈(GenAI Lens)로 코파",
+          "published": "2026-05-28T13:58:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The AI Hype Index: AI gets booed in graduation season",
+          "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
+          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
+          "published": "2026-05-28T09:51:11+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": -3
+            "event_bonus": 2,
+            "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "비트마인, 이더리움 폭락장서 올해 최대 규모 매수 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYNHRHUkRlT1pDSVdWempuXzdHT09NNTY5Qk5SS0tVWWxabWRwTld1amNMcmdnN1NDYUt1MTZTeHQxNXFRNFNJZ19aRmJoMFZLeUtjV1VvWUEzMENXLUU1elB1Zl9wTnhTRTdYbjREYTg?oc=5",
-          "summary": "비트마인, 이더리움 폭락장서 올해 최대 규모 매수 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-27T00:54:00+00:00",
+          "title": "Bitcoin Dips Below $73,000 Despite Trump’s Crypto Capital Push",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-below-73-000-despite-trump-s-crypto-capital-push",
+          "summary": "Bitcoin briefly fell below $73,000 despite a fresh push from Donald Trump for the CLARITY Act, suggesting pro-crypto messaging from Washington is losing its ability to drive gains in digital assets.",
+          "published": "2026-05-28T14:18:26+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "트럼프 \"절대 암호화폐 저버리지 않을 것\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42XzhWOFpvT2hTaW5uSjFPMVNHcjlleVFqcm9CTlFSYkllbkdFWnE3dkdiNnNPRTh3djRUQk42OHBEcVI4NGhvcDNWLVBVc1VjRkNuX2VyYXRLdEtERmNQeGM2dE1zSHBiLXJPaHl4TDU?oc=5",
+          "summary": "트럼프 \"절대 암호화폐 저버리지 않을 것\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-28T00:05:51+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -311,80 +243,40 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "Hong Kong finalises crypto regulatory framework to lock in global hub ambitions",
-          "link": "https://www.scmp.com/tech/policy/article/3354991/hong-kong-finalises-crypto-regulatory-framework-lock-global-hub-ambitions?utm_source=rss_feed",
-          "summary": "Hong Kong has finalised its regulatory framework for the digital asset industry, wrapping up a public consultation on a new licensing regime for firms advising on and managing virtual assets. Signalling a milestone in the city’s quest to become a global crypto hub, the Financial Services and the Treasury Bureau (FSTB) and the Securities and Futures Commission (SFC) said on Tuesday that the proposed rules received “broad market support” and would head to the Legislative Council later this...",
-          "published": "2026-05-27T09:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "국내 최대 '암호검증 컨퍼런스' 다음달 10일 열려",
-          "link": "https://zdnet.co.kr/view/?no=20260527181900",
-          "summary": "[지디넷코리아]암호모듈 검증과 양자내성암호(PQC), 암호 정책 등을 다루는 'CVC(Crypto Validation Conference) 2026'이 다음달 10일부터 11일까지 이틀간 양재 aT센터 그랜드홀에서 열린다.행사 등록은 무료고, 선착순 300명에 한해 접수가 가능하다. 다음달 4일까지 한국정보보호학회 홈페이지에서 내용을 확인하고, 별도의 신청링크를 통해 참가 등록을 하면 된다.국가정보원, 과학기술정보통신부가 주최하고 한국암호포럼(의장 곽진, 아주대학교 교수), 국가보안기술연구소(NSR, 소장 황수훈), 한국인터넷진흥원(KISA, 원장 이상중)이 주관한다.올해 컨퍼런스는 'KCMVP(Korea Cryptographic Module Validation Program) 들여다보다/내다보다'를 주제로 개최한다. 디지털 대전환 시대의 핵심인 암호모듈 검증 기술 진화와 양자내성암호로의 체계적인 이행 전략을 다룬다. 산·학·연·관을 아우르는 최고의 전문가들과 함께 최신 기술 트렌드",
-          "published": "2026-05-27T09:19:00+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "카톡 친구탭 개편 주도 '홍민택 CPO', 카카오 떠난다",
-          "link": "https://zdnet.co.kr/view/?no=20260527170702",
-          "summary": "[지디넷코리아]지난해 9월 카카오톡 개편을 주도한 홍민택 카카오 최고제품책임자(CPO)가 퇴사한다.27일 IT업계에 따르면, 홍 CPO가 최근 회사에 사의를 표명한 것으로 알려졌다. 홍 CPO는 지난해 9월 카카오톡 개편 당시 친구 탭을 목록형에서 피드형으로 바꾸는 작업을 주도한 인물이다.업계에서는 지난 카톡 친구 탭 개편 논란이 이번 홍 CPO 퇴사에 영향을 미쳤을 것으로 보고 있다. 당시 갑작스러운 변화에 이용자들 불편과 불만이 쏟아졌기 때문이다. 논란 끝에 결국 카카오는 지난해 12월 17일 카톡 친구탭을 과거 목록형과 새로운 피드형 중 이용자들이 선택할 수 있도록 업데이트 했다. 그는 비바리퍼블리카에서 토스뱅크 출범 과정을 이끌면서 토스뱅크 초대 대표를 역임했으며, 지난해 2월 카톡과 인공지능(AI) 서비스 역량을 통합하기 위해 카카오 CPO로 선임됐었다. 하지만 카카오톡 친구 탭 업데이트로 이용자 불편을 초래, 일찌감치 회사를 떠나게 된 것으로 보인다.",
-          "published": "2026-05-27T08:22:20+00:00",
+          "title": "그립, 커머스 크리에이터 성장 돕는다",
+          "link": "https://zdnet.co.kr/view/?no=20260528184205",
+          "summary": "[지디넷코리아]그립이 실무 중심 교육 과정 운영을 통해 라이브 커머스 전문 인재를 키운다.그립컴퍼니는 크리에이터 성장 지원 ‘초밀착 케어’ 캠페인을 다음 달 실시한다고 28일 밝혔다.이번 캠페인은 신규 입점 크리에이터의 안정적인 정착과 초기 매출 확보를 돕는다. 지원 대상은 이커머스를 처음 시작하는 크리에이터부터 기존 팬덤을 보유한 인플루언서까지 모두 포함된다. 대상자에게는 ▲1:1 크리에이터 밀착 케어 ▲카카오톡 채널 마케팅 캐시 지급 ▲그립 앱 상단 노출 ▲실전 라이브 코칭 등의 혜택이 주어진다.1:1 크리에이터 밀착 케어는 라이브 커머스 운영 경험에 따라 구분되는 등급을 기준으로 상품 기획 및 판매 전략 컨설팅, 라이브 방송 교육 등 다양한 성장 가이드를 제공한다. 또 라이브 방송 노출 확대를 위해 라이브 방송 알림·쿠폰 지급 메시지 발송에 활용할 수 있는 최대 20만원 상당의 카카오톡 채널 메시지 캐시를 제공하며 그립 앱 상단 및 배너 노출도 함께 지원한다.성장 가능성이 있는",
+          "published": "2026-05-28T09:42:05+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 14,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "earnings"
           ]
         },
         {
-          "title": "[단독] ‘카카오톡 개편 주도’ 홍민택 CPO, 결국 퇴사 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WN1E3dHp1SVItSmZ3TW1YcEo3Q0syRmdvanhpVHUyVmI5SmgtUFhiSUkzOHJZN3doWV92VGlKX25SNnJsOVhwenNESThiek1kRWExZERn?oc=5",
-          "summary": "[단독] ‘카카오톡 개편 주도’ 홍민택 CPO, 결국 퇴사 &nbsp;&nbsp; 매일경제",
-          "published": "2026-05-27T06:56:57+00:00",
+          "title": "카카오 정신아 대표, 임금교섭 결렬에 \"불확실성 해소못해 송구\"(종합) - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYzhSUTRpbUhNaDh0YnowN3ZvcmNic1lpaFZyZFZYeDVVUnVFdl9na3ZQOVEyTFNDV3Axa3pqcmtldTJheGx0RUNBVmdIYzgwVHc?oc=5",
+          "summary": "카카오 정신아 대표, 임금교섭 결렬에 \"불확실성 해소못해 송구\"(종합) &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-05-28T04:37:14+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -399,36 +291,53 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "네이버, 6월부터 AI 검색에 ‘차세대 하이퍼클로바X’ 적용 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5reGk5ZW1RbEhDaEFsTWVma1N5SWFERnNibzcwaG5WMTFwMHU4Wk82WVNBTDNEUGF2aWs0bnotd2NVVFlJb3NXcmVWdmR5MEFEbkxzbGFZOUszMllOT053dmxOMWIwRml2YWc?oc=5",
+          "summary": "네이버, 6월부터 AI 검색에 ‘차세대 하이퍼클로바X’ 적용 &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-28T04:51:50+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "멜론 글로벌 K차트 기준은...\"팬 활동 지표도 반영\"",
+          "link": "https://zdnet.co.kr/view/?no=20260528181739",
+          "summary": "[지디넷코리아]카카오엔터테인먼트가 오는 6월 멜론·텐센트뮤직·라인뮤직과 함께 선보이는 글로벌 K차트 집계 기준을 28일 공개했다. 음원 스트리밍 수치뿐 아니라 팬덤 활동 지표까지 함께 반영해 K팝 아티스트의 글로벌 영향력을 측정하는 방식이다. 기존 스트리밍 중심 글로벌 차트와 차별화를 꾀한다.글로벌 K차트는 멜론(한국), 텐센트뮤직(중국), 라인뮤직(일본) 등 3개 플랫폼의 이용량을 기반으로 운영되는 글로벌 아티스트 차트다. 글로벌 통합 차트와 플랫폼별 세부 차트 형태로 제공되며, 각 플랫폼에 동시 업데이트된다. 전일 기준 24시간 데이터를 토대로 음원 스트리밍 이용량과 팬 활동 지표를 합산해 점수를 산정하는 방식이다.멜론은 음원 스트리밍과 다운로드 이용자 수 외에도 팬맺기, 좋아요 등 팬덤 활동 데이터를 반영할 계획이다. 국가별 플랫폼 환경에 따라 세부 항목에는 일부 차이가 있을 수 있다.카카오엔터테인먼트는 이번 차트가 기존 K팝 차트와 달리 팬들의 실질적인 참여도를 함께 반영한다",
+          "published": "2026-05-28T09:23:32+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "[스페이스X 상장-①] 미래에셋은 왜 꽂혔나 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1V0VxWlFJTVF3aEZGeExCWTgzcEMtaEpmOUtIQU5vdUhoN3I5alpTbUFYSlQzTU9nN21tU1p1a2lBenZDZUJXX2E5bkVDVURRX2drYkY2VEp0SnUyel8ybVNEZUptOUVTaExhaDE1eXg?oc=5",
-          "summary": "[스페이스X 상장-①] 미래에셋은 왜 꽂혔나 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-27T00:13:03+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
