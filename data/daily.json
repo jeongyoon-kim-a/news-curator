@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-05-28T22:45:07.978610+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-05-29T22:39:10.846489+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 3,
       "articles": [
         {
-          "title": "\"스페이스X·앤트로픽 초대형 IPO, 대형 기술주 매도 부를 것\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sQTZqMG1ZcE1uUUgxN0prZHhSLXVPbEllOUpKQ3BNaWFOZXY2NWhNNXhMTTUzbHRHc0p5LVNtSEFWdEFhOVZTWVBacnRyZjM2MmZBQm1rZWV4akctVi1RWDBTOUZ2OV9VQnhxMkRQd2I?oc=5",
-          "summary": "\"스페이스X·앤트로픽 초대형 IPO, 대형 기술주 매도 부를 것\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-28T01:09:03+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "SpaceX Said to Cut IPO Value Goal to at Least $1.8 Trillion",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-lowers-ipo-valuation-target-to-at-least-1-8-trillion",
+          "summary": "SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk’s rocket and artificial intelligence company nears its debut.",
+          "published": "2026-05-29T01:22:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 8,
+            "source": 3,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -27,6 +27,46 @@
           "event_labels": [
             "funding"
           ]
+        },
+        {
+          "title": "SpaceX Wins $4 Billion Contract for US Golden Dome Satellites",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/spacex-wins-4-billion-contract-for-us-golden-dome-satellites",
+          "summary": "SpaceX has won a contract for more than $4 billion to build satellites to track foreign aircraft and missiles as part of President Donald Trump’s Golden Dome defensive shield.",
+          "published": "2026-05-29T18:48:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Danish Pension Blacklists SpaceX Over ‘Catastrophic Governance’",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/danish-pension-fund-blacklists-spacex-citing-governance-issues",
+          "summary": "A $25 billion Danish pension fund that earlier this year made headlines by ditching Treasuries as Donald Trump was threatening to seize Greenland now says it won’t touch SpaceX.",
+          "published": "2026-05-29T12:12:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
@@ -35,72 +75,52 @@
       "count": 8,
       "articles": [
         {
-          "title": "Apollo Shops $36 Billion Debt Deal to Buy Google Chips for Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/apollo-shops-36-billion-debt-deal-to-buy-google-chips-for-anthropic",
-          "summary": "Apollo Global Management Inc. and Blackstone Inc. are working to bring additional investors into a roughly $36 billion debt financing deal to help Anthropic PBC build out its AI infrastructure.",
-          "published": "2026-05-28T20:48:27+00:00",
+          "title": "OpenAI Has Discussed Adding Citigroup, JPMorgan to Bank Lineup for IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/openai-has-discussed-adding-citigroup-jpmorgan-to-bank-lineup-for-ipo",
+          "summary": "OpenAI has spoken with banks including Citigroup Inc. and JPMorgan Chase &amp; Co. about working on its upcoming initial public offering, according to people familiar with the matter.",
+          "published": "2026-05-29T19:28:59+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 17,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "funding"
           ]
         },
         {
-          "title": "Anthropic Valued at $965 Billion After Latest Funding Round, Eclipsing OpenAI",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-raises-at-965-billion-valuation-eclipsing-openai",
-          "summary": "Anthropic PBC raised $65 billion in a funding round that valued the artificial intelligence company at $965 billion including the new investment, eclipsing rival OpenAI’s value for the first time.",
-          "published": "2026-05-28T18:22:16+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "클라우드 '슈퍼사이클' 오나…AI 열풍에 194조원 몰렸다",
+          "link": "https://zdnet.co.kr/view/?no=20260529165326",
+          "summary": "[지디넷코리아]생성형 인공지능(AI) 확산에 힘입어 글로벌 클라우드 시장이 가파른 성장세를 보이고 있다. 기업들이 AI 학습·추론에 필요한 인프라 확보에 나서면서 클라우드 투자도 빠르게 늘어나는 모습이다.29일 스태티스타가 집계한 시너지 리서치 그룹 데이터에 따르면 올해 1분기 글로벌 클라우드 인프라 서비스 지출액은 1290억 달러(약 194조원)로 전년 동기 대비 35% 증가했다.이는 2021년 이후 가장 높은 성장률로, 시장 규모는 연간 기준 5000억 달러(약 754조원)를 넘어선 것으로 분석됐다.글로벌 클라우드 시장 점유율은 아마존웹서비스(AWS)가 28%로 선두를 유지했으며 마이크로소프트(MS) 애저가 21%, 구글 클라우드가 14%로 뒤를 이었다. 상위 3개 사업자가 전체 시장의 60% 이상을 차지하는 가운데 AI 인프라 공급 역량이 시장 경쟁 구도를 좌우하는 핵심 변수로 부상하고 있다.AI 확산은 기업들의 클라우드 예산 확대를 이끌고 있다. 기업 IT 예산에서 퍼블릭 클",
+          "published": "2026-05-29T08:34:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Can the OpenAI and Anthropic IPOs Live Up to Expectations?",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/can-openai-and-anthropic-ipos-live-up-to-expectations",
-          "summary": "The AI dynamos are eyeing the public markets, but some wonder whether SpaceX’s planned June listing will steal&nbsp;their thunder.",
-          "published": "2026-05-28T21:00:08+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic Plans Wide Release of Mythos-Level AI Models in Weeks",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/anthropic-unveils-new-flagship-ai-model-that-s-better-at-coding",
-          "summary": "Anthropic PBC plans to widely release new artificial intelligence models in the coming weeks with cybersecurity capabilities comparable to Mythos, a technology the company previously said was too dangerous to make available to the general public.",
-          "published": "2026-05-28T17:02:08+00:00",
+          "title": "BOE’s Bailey Says UK Banks Still Lack Access to Mythos",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/bank-of-england-s-bailey-says-uk-banks-still-lack-mythos-access",
+          "summary": "Bank of England Governor Andrew Bailey said that British banks are still locked out of using Anthropic PBC’s powerful new AI tool, calling for a international approach to fighting cybersecurity threats.",
+          "published": "2026-05-29T17:45:56+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -117,32 +137,35 @@
           "event_labels": []
         },
         {
-          "title": "The Battle Is On to Win Attention and Money as Linear TV Declines",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-05-28/the-battle-is-on-to-win-attention-and-money-as-linear-tv-declines",
-          "summary": "With traditional TV audiences diminishing, everyone from Piers Morgan to OpenAI is trying to capitalize on the moment",
-          "published": "2026-05-28T20:17:52+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[AI는 지금] \"오픈AI만으론 부족했나\"…MS, 미스트랄 품고 유럽 AI 에이전트 시장 정조준",
+          "link": "https://zdnet.co.kr/view/?no=20260529175711",
+          "summary": "[지디넷코리아]마이크로소프트(MS)가 자사 인공지능(AI) 에이전트 개발 플랫폼에 유럽 대표 AI 기업의 모델을 수용하며 글로벌 엔터프라이즈 시장 공략을 가속화한다. 날로 엄격해지는 글로벌 데이터 규제에 대응해 기업 고객에게 '선택권'을 부여하는 한편, AI 주권(Sovereign AI) 요구가 거센 유럽 시장의 주도권을 잡겠다는 포석이다.MS는 자사 로우코드 에이전트 구축 플랫폼인 '코파일럿 스튜디오(Copilot Studio)'의 외부 모델 제공업체 라인업에 프랑스 AI 스타트업 미스트랄 AI의 고성능 모델 '미스트랄 미디엄 3.5(Mistral Medium 3.5)'를 추가했다고 29일 밝혔다. 이번 업데이트는 초기 배포(early release) 환경의 전 세계 고객을 대상으로 우선 적용된다.이번 양사의 협력은 최근 단순 챗봇을 넘어 스스로 판단하고 업무를 수행하는 '에이전틱 AI(Agentic AI)' 도입을 서두르는 글로벌 기업들의 현실적인 고민을 해결하는 데 초점이 맞춰",
+          "published": "2026-05-29T08:59:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings",
+            "regulation"
+          ]
         },
         {
-          "title": "메타 \"데이터 남으면 클라우드 진출…아마존·MS와 경쟁\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYYmZIa3RjZk1nNllmeWY2YVVXVkpleHhEWUNtaHFsUDdrNDVpZ0NCQ0FncDhkWEk2azhqc3FNamlzT216SlJuZTQ3RVdqd3FpZTdPUXJDZVhGY1o5VzJheTdkZVVqSlJiM1JibFFsWlo?oc=5",
-          "summary": "메타 \"데이터 남으면 클라우드 진출…아마존·MS와 경쟁\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-28T01:50:51+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...\"토큰 비용 69.5% 절감\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1CbnpNWDBST21BN1B4TUVGcEFrd3NydmdxUlMtMnZHeEhoVXJsUWxERm1uOW1IeTI4dC1NQXZZWUVpOGNVZzNXM2xRNXh0SFIzVmxURWtmVXpaZDNWZW5nQkQyTG5MYVJWZHc?oc=5",
+          "summary": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...\"토큰 비용 69.5% 절감\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-05-29T08:27:34+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -157,19 +180,19 @@
           "event_labels": []
         },
         {
-          "title": "'팔로워 2만명' 수천만 인플루언서 눌렀다…AI 검색 인용 글의 의외 공통점",
-          "link": "https://zdnet.co.kr/view/?no=20260528225853",
-          "summary": "[지디넷코리아]링크드인(LinkedIn)에는 팔로워가 수천만 명인 유명 인플루언서가 있고, 팔로워가 고작 2만 명인 평범한 금융 분석가도 있다. 그런데 챗GPT(ChatGPT) 같은 AI 검색이 답을 만들 때 더 자주 끌어다 쓴 쪽은 후자였다. 미디어 분석 기업 멜트워터(Meltwater)가 링크드인과 함께 AI가 만든 답변 속 인용(citation) 950만 건을 분석해 발표한 보고서가 밝힌 결과다. AI 인용이란 챗GPT나 구글(Google) AI가 답을 만들 때 참고하고 출처로 가져다 쓴 글을 말하는데, 이 보고서는 \"누가, 어떤 글을 써야 AI에 인용되는가\"라는, 이제 막 새로운 검색의 규칙이 된 질문에 데이터로 답한다.AI가 두 번째로 많이 인용한 출처, 링크드인의 부상멜트워터가 분석한 AI 답변 950만 건에서 링크드인은 유튜브(YouTube)에 이어 두 번째로 많이 인용된 출처로 나타났다. 멜트워터는 자사의 AI 가시성 분석 도구 젠AI 렌즈(GenAI Lens)로 코파",
-          "published": "2026-05-28T13:58:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Alibaba AI voice model cracks top 5 globally, outperforming US rivals in regional accents",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3355316/alibaba-ai-voice-model-cracks-top-5-globally-outperforming-us-rivals-regional-accents?utm_source=rss_feed",
+          "summary": "A new artificial intelligence voice model from Alibaba Group Holding has beaten out Western rivals OpenAI and xAI on a major global benchmark, underscoring its technical edge in capturing complex Chinese dialects and accents. Fun-Realtime-TTS-Preview, developed by Alibaba’s Tongyi Lab, has secured the fifth spot on the Artificial Analysis Speech Arena leaderboard with a score of 1,190. It was the only Chinese-engineered voice system in the global top five. Alibaba owns the South China Morning...",
+          "published": "2026-05-29T11:00:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 5,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -177,26 +200,44 @@
           "event_labels": []
         },
         {
-          "title": "The AI Hype Index: AI gets booed in graduation season",
-          "link": "https://www.technologyreview.com/2026/05/28/1138053/the-ai-hype-index-ai-gets-booed-in-graduation-season/",
-          "summary": "It is one thing to say AI will change the world. It is another to expect the class of 2026 to applaud it. In fact, when former Google CEO Eric Schmidt told University of Arizona graduates that their task is to help shape AI, he was met with a resounding chorus of boos. “I can&#8230;",
-          "published": "2026-05-28T09:51:11+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "줌, 'AI 컴패니언' 고도화…\"회의 내용이 후속 업무로\"",
+          "link": "https://zdnet.co.kr/view/?no=20260529170022",
+          "summary": "[지디넷코리아]줌이 인공지능(AI) 기반 업무 기록 적용 범위를 모바일·에이전틱 검색 영역으로 확장했다. 줌은 모바일 '마이 노트' 지원과 에이전틱 검색 기능 강화를 통해 AI 컴패니언 기반 업무 지원 기능을 확대한다고 29일 밝혔다.마이 노트는 줌 AI 컴패니언 기반 개인 노트 기능이다. 줌 미팅뿐 아니라 마이크로소프트 팀즈, 구글 미트, 전화 통화, 대면 대화 환경에서도 회의 내용을 녹음하고 전사하며 개인 노트로 정리할 수 있다.이 기능은 회의 요약을 비롯한 주요 결정사항, 액션 아이템을 정리해 사용자가 기록 부담을 줄이고 대화와 협업 자체에 집중할 수 있도록 돕는다.이번 업데이트 핵심은 마이 노트를 모바일 환경으로 넓힌 점이다. 사용자는 이동 중이거나 대면 회의 중인 상황에서도 마이 노트를 활용할 수 있다.줌은 모바일과 데스크톱 간 기록·전사 내용도 연동한다. 이를 통해 회의 장소나 플랫폼이 달라도 일관된 업무 경험을 제공한다는 구상이다.데스크톱 마이 노트에서는 회의 후 필요한",
+          "published": "2026-05-29T08:00:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
+        },
+        {
+          "title": "위메이드커넥트 '메이크드라마 : 매드', 사전예약 50만 돌파",
+          "link": "https://zdnet.co.kr/view/?no=20260529170729",
+          "summary": "[지디넷코리아]서브컬쳐 신작 '메이크 드라마 : 매드'의 출시 전 기대감이 고조되는 가운데, 정식 출시일이 공개됐다.위메이드커넥트(대표 이호대)는 플러피덕가 개발한 모바일 서브컬처 RPG 메이크 드라마 : 매드 사전예약 참여자가 50만명을 돌파했다고 29일 밝혔다.아울러 국내 정식 출시일은 다음달 4일로 확정됐다.사전예약 참여자 전원에게는 최고 보상인 3성 캐릭터 '엘리시아'를 비롯해 캐릭터 소환권, 인게임 재화 등 다양한 아이템이 지급된다.출시 버전은 상호작용 기능과 콘텐츠 표현 확장성을 고려해 청소년이용불가 등급으로 선보이며, 구글 플레이와 원스토어를 통해 먼저 출시한 뒤 추후 애플 앱스토어로 서비스를 확대할 예정이다.이정훈 플러피덕 대표는 \"이번 사전예약 성과는 메이크 드라마 : 매드만의 매력과 차별화된 콘텐츠에 유저들이 공감해준 결과\"라며 \"정식 출시 이후에도 이용자들이 오랫동안 즐길 수 있는 안정적인 서비스를 이어가겠다\"고 전했다.메이크 드라마 : 매드는 완성도 높은 일러스",
+          "published": "2026-05-29T08:13:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
@@ -205,40 +246,42 @@
       "count": 2,
       "articles": [
         {
-          "title": "Bitcoin Dips Below $73,000 Despite Trump’s Crypto Capital Push",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-28/bitcoin-falls-below-73-000-despite-trump-s-crypto-capital-push",
-          "summary": "Bitcoin briefly fell below $73,000 despite a fresh push from Donald Trump for the CLARITY Act, suggesting pro-crypto messaging from Washington is losing its ability to drive gains in digital assets.",
-          "published": "2026-05-28T14:18:26+00:00",
+          "title": "법원, 코인원 영업 일부정지 효력 중단",
+          "link": "https://zdnet.co.kr/view/?no=20260529163703",
+          "summary": "[지디넷코리아]금융당국이 가상자산 거래소 코인원에 내린 영업 일부정지 3개월 처분 효력이 법원 결정으로 일시 중단됐다.29일 법조계에 따르면 서울행정법원 행정10부(부장판사 정은영)는 코인원이 금융정보분석원(FIU)을 상대로 제기한 영업 일부정지 처분 집행정지 신청을 인용했다.이에 따라 코인원에 대한 영업 일부정지 3개월 처분 효력은 본안 소송 판결 선고일로부터 30일이 되는 날까지 정지된다.해당 제재는 지난달 29일부터 시행될 예정이었으나, 코인원이 시행 이틀 전 행정소송과 함께 집행정지를 신청하면서 효력이 일시 중단된 상태였다.앞서 FIU는 코인원이 특정금융정보법(특금법)상 미신고 가상자산사업자와의 거래금지 의무, 고객확인(KYC) 의무 등을 포함해 약 9만건 위반 사항이 확인됐다며 영업 일부정지 3개월과 과태료 52억원 부과 처분을 내렸다.한편 두나무(업비트)와 빗썸 역시 FIU로부터 특금법 위반을 이유로 영업 일부정지와 과태료 처분을 받고, 이에 불복해 행정소송을 진행 중이다",
+          "published": "2026-05-29T07:44:33+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "CFTC Paves Way for Crypto’s Trillion-Dollar Offshore Trade",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-29/us-paves-way-for-onshore-crypto-linked-perpetual-futures",
+          "summary": "For years, the most popular way to trade crypto &mdash; a never-expiring, highly leveraged contract called a perpetual future &mdash; has existed almost entirely beyond the reach of US regulators, thriving on offshore exchanges that operate outside American law.",
+          "published": "2026-05-29T14:38:05+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "트럼프 \"절대 암호화폐 저버리지 않을 것\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42XzhWOFpvT2hTaW5uSjFPMVNHcjlleVFqcm9CTlFSYkllbkdFWnE3dkdiNnNPRTh3djRUQk42OHBEcVI4NGhvcDNWLVBVc1VjRkNuX2VyYXRLdEtERmNQeGM2dE1zSHBiLXJPaHl4TDU?oc=5",
-          "summary": "트럼프 \"절대 암호화폐 저버리지 않을 것\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-05-28T00:05:51+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -251,19 +294,39 @@
       "count": 4,
       "articles": [
         {
-          "title": "그립, 커머스 크리에이터 성장 돕는다",
-          "link": "https://zdnet.co.kr/view/?no=20260528184205",
-          "summary": "[지디넷코리아]그립이 실무 중심 교육 과정 운영을 통해 라이브 커머스 전문 인재를 키운다.그립컴퍼니는 크리에이터 성장 지원 ‘초밀착 케어’ 캠페인을 다음 달 실시한다고 28일 밝혔다.이번 캠페인은 신규 입점 크리에이터의 안정적인 정착과 초기 매출 확보를 돕는다. 지원 대상은 이커머스를 처음 시작하는 크리에이터부터 기존 팬덤을 보유한 인플루언서까지 모두 포함된다. 대상자에게는 ▲1:1 크리에이터 밀착 케어 ▲카카오톡 채널 마케팅 캐시 지급 ▲그립 앱 상단 노출 ▲실전 라이브 코칭 등의 혜택이 주어진다.1:1 크리에이터 밀착 케어는 라이브 커머스 운영 경험에 따라 구분되는 등급을 기준으로 상품 기획 및 판매 전략 컨설팅, 라이브 방송 교육 등 다양한 성장 가이드를 제공한다. 또 라이브 방송 노출 확대를 위해 라이브 방송 알림·쿠폰 지급 메시지 발송에 활용할 수 있는 최대 20만원 상당의 카카오톡 채널 메시지 캐시를 제공하며 그립 앱 상단 및 배너 노출도 함께 지원한다.성장 가능성이 있는",
-          "published": "2026-05-28T09:42:05+00:00",
+          "title": "카카오 첫 파업 갈림길...'카톡'도 멈추나",
+          "link": "https://zdnet.co.kr/view/?no=20260529164547",
+          "summary": "[지디넷코리아]카카오가 창사 이래 첫 파업 갈림길에 섰다. 성과급과 보상체계를 둘러싼 노사 갈등이 조정 중지로 이어지면서 노조는 파업 수순에 돌입했다. 서비스 중단 가능성은 낮다는 평가가 우세하지만, 카카오톡을 비롯한 주요 서비스 운영에 어떤 영향을 미칠지 업계의 관심이 집중되고 있다.29일 IT업계에 따르면 최근 카카오 본사는 창사 이래 처음으로 파업 위기에 직면했다. 회사와 노조가 성과급과 보상체계 관련 논의에서 합의에 다다르지 못해서다. 지난 27일 경기 지방노동위원회에서 열린 2차 조정이 중단된 것이 파업 분수령이 됐다. 조정 결렬로 카카오 본사 노조는 쟁의권을 확보했다. 이미 카카오엔터프라이즈, 카카오페이, 디케이테크인, 엑스엘게임즈 등 계열사 4곳은 파업 찬성 투표가 찬성으로 가결된 상황이다.이번 조정 중단 핵심은 지난해 영업이익의 13~14%를 성과급으로 지급하는 방안과 500만원 규모의 양도제한조건부주식(RSU)를 성과급에 포함할지를 두고 나타난 양측의 이견 때문이다.",
+          "published": "2026-05-29T08:24:19+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오 \"노조 요구하는 성과 보상, 현실적으로 감내 어려워\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yR3BLVzdqQ0V3MVRiR0dwYkZYb1FUdk5IX3lQbGlhaW4teGd5TnBRbHJuSWMwaGxvRGZwQUY1bk05N3hKS2x1SkQwcngtcmdOblJoQUtLN3k5UmwzZm1hUk9rbGRZVDFsTkRCOWFpSlY?oc=5",
+          "summary": "카카오 \"노조 요구하는 성과 보상, 현실적으로 감내 어려워\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-05-29T01:07:11+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -273,10 +336,10 @@
           ]
         },
         {
-          "title": "카카오 정신아 대표, 임금교섭 결렬에 \"불확실성 해소못해 송구\"(종합) - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DYzhSUTRpbUhNaDh0YnowN3ZvcmNic1lpaFZyZFZYeDVVUnVFdl9na3ZQOVEyTFNDV3Axa3pqcmtldTJheGx0RUNBVmdIYzgwVHc?oc=5",
-          "summary": "카카오 정신아 대표, 임금교섭 결렬에 \"불확실성 해소못해 송구\"(종합) &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-05-28T04:37:14+00:00",
+          "title": "“5년째 지긋지긋”…총파업 악재 덮친 카카오, 개미들 ‘곡소리’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EZDFvSFRaUjkxbXFOWllCRGpWWnc1N3dEMFdQd2F2Z3ZMY3lYbUJ6R3p1YTk5SC1zVUE3UUZOLVJ6eHNUakFCdnF5UlJFaGNCTmc?oc=5",
+          "summary": "“5년째 지긋지긋”…총파업 악재 덮친 카카오, 개미들 ‘곡소리’ &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-29T02:23:33+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -293,30 +356,10 @@
           "event_labels": []
         },
         {
-          "title": "네이버, 6월부터 AI 검색에 ‘차세대 하이퍼클로바X’ 적용 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5reGk5ZW1RbEhDaEFsTWVma1N5SWFERnNibzcwaG5WMTFwMHU4Wk82WVNBTDNEUGF2aWs0bnotd2NVVFlJb3NXcmVWdmR5MEFEbkxzbGFZOUszMllOT053dmxOMWIwRml2YWc?oc=5",
-          "summary": "네이버, 6월부터 AI 검색에 ‘차세대 하이퍼클로바X’ 적용 &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-28T04:51:50+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "멜론 글로벌 K차트 기준은...\"팬 활동 지표도 반영\"",
-          "link": "https://zdnet.co.kr/view/?no=20260528181739",
-          "summary": "[지디넷코리아]카카오엔터테인먼트가 오는 6월 멜론·텐센트뮤직·라인뮤직과 함께 선보이는 글로벌 K차트 집계 기준을 28일 공개했다. 음원 스트리밍 수치뿐 아니라 팬덤 활동 지표까지 함께 반영해 K팝 아티스트의 글로벌 영향력을 측정하는 방식이다. 기존 스트리밍 중심 글로벌 차트와 차별화를 꾀한다.글로벌 K차트는 멜론(한국), 텐센트뮤직(중국), 라인뮤직(일본) 등 3개 플랫폼의 이용량을 기반으로 운영되는 글로벌 아티스트 차트다. 글로벌 통합 차트와 플랫폼별 세부 차트 형태로 제공되며, 각 플랫폼에 동시 업데이트된다. 전일 기준 24시간 데이터를 토대로 음원 스트리밍 이용량과 팬 활동 지표를 합산해 점수를 산정하는 방식이다.멜론은 음원 스트리밍과 다운로드 이용자 수 외에도 팬맺기, 좋아요 등 팬덤 활동 데이터를 반영할 계획이다. 국가별 플랫폼 환경에 따라 세부 항목에는 일부 차이가 있을 수 있다.카카오엔터테인먼트는 이번 차트가 기존 K팝 차트와 달리 팬들의 실질적인 참여도를 함께 반영한다",
-          "published": "2026-05-28T09:23:32+00:00",
+          "title": "인챈트엔터, 버추얼 크리에이티브 그룹 '플라네타' 30일 데뷔",
+          "link": "https://zdnet.co.kr/view/?no=20260529163447",
+          "summary": "[지디넷코리아]국내 MCN 기업 인챈트 엔터테인먼트(대표 박규상)가 독창적인 세계관의 버추얼 크리에이티브 그룹 '플라네타'를 선보인다.인챈트 엔터테인먼트는 버추얼 크리에이티브 그룹 '플라네타'를 네이버 스트리밍 플랫폼 치지직을 통해 정식 데한다고 29일 밝혔다.플라네타 프로젝트에는 인기 크리에이터 '초승달'이 총괄 디렉터로 참여해 론칭 전부터 팬들의 기대를 모았다. 인챈트는 론칭과 함께 플라네타 공식 홈페이지를 오픈하고, 1기 유닛 '데네브'의 멤버별 프로필 이미지와 공식 프로모션 비디오를 공개했다. 이를 통해 각 멤버의 서사와 비주얼, 그룹 세계관을 확인할 수 있다.데네브는 서로 다른 배경을 지닌 네 멤버로 구성됐다. 아마네 나기는 2000년간 신사를 지켜온 무녀로, 한 소원을 계기로 처음 바깥세상을 향한 여정을 시작하는 인물이다.카네코 파냐는 타인의 시선을 두려워해 유령 보자기로 스스로를 숨기려 하지만, 오히려 더 눈에 띄는 역효과를 낳는 순수하고 서툰 소녀다.치치는 불량 판정으",
+          "published": "2026-05-29T07:36:26+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
