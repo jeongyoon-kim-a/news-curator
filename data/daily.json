@@ -1,30 +1,54 @@
 {
-  "generated_at": "2026-05-30T22:03:42.516529+00:00",
-  "total_articles": 5,
+  "generated_at": "2026-05-31T22:03:35.972179+00:00",
+  "total_articles": 7,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "[뉴스페이스] ① 스페이스X가 연 민간 우주시대…한국도 가능할까 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZkR5X3l6NU0zNndlMkFJWlNlQnA2V09HVEdfSFJuczhsRlVCcE4wUGpaZ0dfcVFxYndKTFUtY0FlcjMwYzk3YmRqcWNReFRIaGc?oc=5",
-          "summary": "[뉴스페이스] ① 스페이스X가 연 민간 우주시대…한국도 가능할까 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-05-30T21:36:02+00:00",
+          "title": "SpaceX’s IPO Forces Wall Street to Reorganize Around It",
+          "link": "https://www.bloomberg.com/news/features/2026-05-31/spacex-s-ipo-led-by-elon-musk-forces-index-funds-and-retail-to-change-the-rules",
+          "summary": "The company’s ambitious listing plan is set to clear the way for other mega-offerings. It also risks threatening the integrity of the market itself",
+          "published": "2026-05-31T21:00:09+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "“완전자율주행? 허위 광고” vs “일부 기능 구현”…테슬라 차주들 ‘집단소송’ 왜? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBUS3l3b291ZWNpUFJJUm9vc21Qb2UybUJpM3czVkx0NHF0VkxSeGhXZnFqVGxGdzNNMWs2VTNZLXZ1SzhsSFZyOVpMQjI1RjJHemZRUlJn?oc=5",
+          "summary": "“완전자율주행? 허위 광고” vs “일부 기능 구현”…테슬라 차주들 ‘집단소송’ 왜? &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-31T04:16:02+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": -3
           },
-          "event_labels": []
+          "event_labels": [
+            "regulation"
+          ]
         }
       ]
     },
@@ -33,58 +57,60 @@
       "count": 4,
       "articles": [
         {
-          "title": "Anthropic Cuts Unauthorized Platform List by Half After Pushback",
-          "link": "https://www.bloomberg.com/news/articles/2026-05-30/anthropic-cuts-unauthorized-platform-list-by-half-after-pushback",
-          "summary": "Anthropic PBC updated its warning about secondary markets for its shares, cutting the number of unauthorized platforms by half, after the notice caused panic among investors and a sharp rebuttal from one of the companies named.",
-          "published": "2026-05-30T10:17:43+00:00",
+          "title": "US takes step to halt Nvidia AI chip shipments to Chinese firms outside China",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3355492/us-takes-step-halt-nvidia-ai-chip-shipments-chinese-firms-outside-china?utm_source=rss_feed",
+          "summary": "The US Department of Commerce on Sunday moved to close a year-old potential loophole it had created that may have led companies to export ‌the world’s most advanced chips – such as Nvidia’s most sophisticated Rubin and Blackwell processors, as well as AMD’s MI350x – to Chinese entities located outside China. The unexpected guidance suggests the United States’ best artificial intelligence chips may have been making their way to the subsidiaries of Chinese AI firms based in places such as Malaysia",
+          "published": "2026-05-31T21:46:33+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "SpaceX, OpenAI Windfall Fuels Bets on Next-Wave Asian AI Winners",
+          "link": "https://www.bloomberg.com/news/articles/2026-05-31/spacex-openai-windfall-fuels-bets-on-next-wave-asian-ai-winners",
+          "summary": "The hunt is on for companies that could benefit from the tailwinds of an unprecedented wave of stock offerings in the US, and investors are increasingly honing in on the Asian supply chain.",
+          "published": "2026-05-31T00:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "구글, AI 검색에 ‘사용자 선호 소스’ 기능 도입...\"맞춤형 콘텐츠 강화\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fVVhBQ2JIS0RBUGEzcHZXTFFWWVo5dExTeWpZWV93azlJYTcyRXZTUDN3ZlRfcTAzZkFvYzB0V0FYcHg0b0JnRk5fWW42aUFnSGpVRi1FUTU1NTRsUC04b2hFYk5CRUJwaEE?oc=5",
-          "summary": "구글, AI 검색에 ‘사용자 선호 소스’ 기능 도입...\"맞춤형 콘텐츠 강화\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-30T10:49:58+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "AI 맞춤 개인 슈퍼컴 '엔비디아 PC' 나온다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBSaU1TaHNFdEtJWE1QdGNXVjhfc21lSFpaa3N3Z2t3eG1wX093emN0aTVnQ3BXNi1DY1otREs5X1M4NkxSeVdwc2I3T0FPNW1ORUVrb0tB?oc=5",
+          "summary": "AI 맞춤 개인 슈퍼컴 '엔비디아 PC' 나온다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-31T08:51:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…\"동영상 보고 이미지 만든다\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xZDdpTGJMVFFYY1dsdWc5YXhfV2dEb2pTSU5LUTBpRDIwN2VnbFA2ZFphNUFpWEwyUHJrMEJUbmZVMENNeXJfMGJhTk84Y0tQMUtFSDlXWUhZWDRHbjNGaDNrZ2VLSjFrTWc?oc=5",
-          "summary": "구글, ‘나노 바나나 2·프로’ 정식 출시…\"동영상 보고 이미지 만든다\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-30T02:29:24+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -93,20 +119,20 @@
           "event_labels": []
         },
         {
-          "title": "아마존, 새 네트워크 아키텍처 'RNG' 공개…\"장비 69% 줄이고 속도 33% 향상\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kR2czal90UGMyME1kNWM2ZklRQ3BFN1BrTlZNUHdzczdERUh6N09HYWZtalZxSm1IQ1B2TTY1Y3UtTGJrcGRQM3lJY3dpMWNsd2dKbm51aXJfaC1PbmttNTZTVld3OW9pMEE?oc=5",
-          "summary": "아마존, 새 네트워크 아키텍처 'RNG' 공개…\"장비 69% 줄이고 속도 33% 향상\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-05-30T03:31:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "Apple Seeks to Disrupt the Glasses Market the Way It Did With Watches",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-05-31/apple-glasses-late-2027-release-watch-comparison-ios-28-apple-tv-homepod",
+          "summary": "Also: The latest on iOS 27, iOS 28, new Apple TV and HomePod mini.",
+          "published": "2026-05-31T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -116,8 +142,29 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "“없으면 호르무즈 못 지나가” … 비트코인이 종전 합의안을 주목하는 이유 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83cnFUdnJOenBUbFBCeHh1emdYUW5uZzNmSGpNd0tiaHM0OFlOUEZfQWYybEt4aElqRmpiZ0RUUlBYbWhNbDEwSE9VTThRODgwMGc?oc=5",
+          "summary": "“없으면 호르무즈 못 지나가” … 비트코인이 종전 합의안을 주목하는 이유 &nbsp;&nbsp; 매일경제",
+          "published": "2026-05-31T19:00:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
