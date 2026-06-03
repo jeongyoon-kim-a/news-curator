@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-06-02T23:04:47.152947+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-06-03T23:07:26.828054+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "SpaceX to Plan Setting IPO Terms as Soon as Wednesday",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/spacex-is-said-to-plan-setting-ipo-terms-as-soon-as-wednesday",
-          "summary": "SpaceX is planning to set the terms of its initial public offering as early as Wednesday afternoon, according to people familiar with the matter, ahead of what’s expected to be the biggest ever listing.",
-          "published": "2026-06-02T21:45:58+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
+          "summary": "SpaceX is seeking to raise $75 billion in an initial public offering that would be the biggest of all time, as Elon Musk’s rocket, satellite and artificial intelligence company targets a historic debut that could clear a path for more mega-listings.",
+          "published": "2026-06-03T20:46:32+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 2,
@@ -29,66 +29,110 @@
           ]
         },
         {
-          "title": "삼전, 테슬라·메타마저 제끼고 장중 글로벌 시총 9위로 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CcVBOT2lnUDFKc0x2QWp4M090OEZNQkFQclJxR1dIdV9yU0RaTGg0OVg3dFBfSzU4bk1ZRWkzZXd6SkZKVjYzN3lVLUV2eW9QR2c?oc=5",
-          "summary": "삼전, 테슬라·메타마저 제끼고 장중 글로벌 시총 9위로 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-02T01:17:05+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "모닝스타, 스페이스X 7천800억달러 평가…\"이번 IPO 피하세요\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZTFNT1IxMVN4RzZDaTVfcUtMWVVjbnVIbXl5bVg4ZHdha2xkRWVud0ZqT1FHWHVMNU1EU09zU0hOWXNtQTJzTm9yMGhMYVpWZU9CV201U1lWbTl2c3hmMGxkOXEyaFZGV2d2OGw4V1Q?oc=5",
+          "summary": "모닝스타, 스페이스X 7천800억달러 평가…\"이번 IPO 피하세요\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-03T01:40:03+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "엔비디아, ‘RTX 스파크’ 칩으로 애플·인텔에 도전...\"데이터센터 넘어 PC까지\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nV0NlQXJvR281RU9iLXR2UGVpRHlLWUh0QTlCNTBXcTRuSDhrczBYTXVYanUydkR6YzQ3MkREZ1NVR2FMd2lPRHI2NXdaZk5rSUFLbFJCcVNRQVgxVkpXcjdrQnBicEdPeUE?oc=5",
-          "summary": "엔비디아, ‘RTX 스파크’ 칩으로 애플·인텔에 도전...\"데이터센터 넘어 PC까지\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-02T03:15:30+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "OpenAI y Anthropic alistan sus OPI que podrían redefinir el mercado de la inteligencia artificial",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/openai-y-anthropic-preparan-opi-record-en-ia",
+          "summary": "Dos grandes de la IA tienen la mirada puesta en los mercados bursátiles, pero algunos&nbsp;se preguntan si la salida a bolsa de SpaceX, prevista para junio, les va a robar el protagonismo.",
+          "published": "2026-06-03T21:29:43+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Marvell Soars the Most Since 2000 After $1 Trillion Stock Call",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company",
-          "summary": "Marvell Technology Inc. shares surged the most in 26 years after Nvidia Corp.’s Jensen Huang predicted that the semiconductor and networking company would be the next business to hit a $1 trillion valuation.",
-          "published": "2026-06-02T10:41:53+00:00",
+          "title": "AI Funding Boom Reaches Muni Market With Google-Tied Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/ai-funding-boom-reaches-muni-market-with-google-tied-bond-sale",
+          "summary": "Google parent Alphabet Inc. is poised to enter the municipal-bond market’s prepaid energy space by participating in a $1 billion transaction out of California, a major development in the evolution of a booming segment.",
+          "published": "2026-06-03T12:33:43+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 3,
-            "recency": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia’s RTX Spark Sets Up Fight Over the Soul of Windows PCs",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-s-rtx-spark-sets-up-fight-over-the-soul-of-windows-pcs",
+          "summary": "The future of the personal computer is a hot topic again, courtesy of Nvidia Corp.’s announcement this week with Microsoft Corp. The leader in AI hardware is taking another run at making the central component for laptops, promising to bring the biggest change to the devices in decades.",
+          "published": "2026-06-03T19:27:48+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Alphabet Upsizes Offering for AI Spending to $85 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/alphabet-upsizes-equity-offering-to-85-billion-for-ai-spending",
+          "summary": "Google parent Alphabet Inc. upsized its equity raise to $84.75 billion from the $80 billion it announced just two days earlier in a bid to help fund growing artificial intelligence spending plans.",
+          "published": "2026-06-03T14:00:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -97,124 +141,48 @@
           ]
         },
         {
-          "title": "Nvidia wants to supercharge your laptop",
-          "link": "https://www.economist.com/business/2026/06/02/nvidia-wants-to-supercharge-your-laptop",
-          "summary": "Jensen Huang is bringing the firm’s AI act to the PC",
-          "published": "2026-06-02T17:14:08+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/openai-ceo-to-share-oversight-ideas-in-wake-of-trump-ai-order",
+          "summary": "OpenAI Chief Executive Officer Sam Altman will push his vision for public-private collaboration on artificial intelligence during a visit to Washington on Wednesday, part of a broader policy agenda that also includes creating a vehicle to pass AI’s potentially vast financial windfall to consumers.",
+          "published": "2026-06-03T17:55:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "How virtual power plants could provide energy for data centers",
+          "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
+          "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
+          "published": "2026-06-03T16:51:38+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[르포] 젠슨 황 업고 존재감 키운 대만 컴퓨텍스…주축은 엔비디아 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWk1KWVJJMGVta1dDQ3lHOXdBYlVhYWVPa1lQcGZTSGxyaGplaDBhajdqM3F5d0RyM2FpRDA5a3QtWXNDM3haTGNWTUVGRTk4Q3c?oc=5",
-          "summary": "[르포] 젠슨 황 업고 존재감 키운 대만 컴퓨텍스…주축은 엔비디아 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-06-02T21:01:01+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Microsoft’s Project Solara Aims to Put AI in an Employee Badge",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-project-solara-aims-to-put-ai-in-an-employee-badge",
-          "summary": "Microsoft Corp. introduced a new set of software tools designed to take artificial intelligence agents off of laptop screens and place them in mobile devices for businesses.",
-          "published": "2026-06-02T17:58:19+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Microsoft Launches AI That Works Like an Executive Assistant",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-launches-ai-that-works-like-an-executive-assistant",
-          "summary": "Microsoft Corp. launched new artificial intelligence software designed to function like an always-active executive assistant, the latest evolution of its workplace AI efforts.",
-          "published": "2026-06-02T18:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Microsoft’s New Quantum Chip Aiming for Useful Machine in 2029",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/microsoft-s-new-quantum-chip-aiming-for-useful-machine-in-2029",
-          "summary": "Microsoft Corp. announced an updated quantum-computing chip, betting it can set up a commercially useful machine by 2029.",
-          "published": "2026-06-02T18:18:20+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "바클레이즈 \"IBM, 엔비디아 전략 장착…비중확대\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BV0MyOVB0MWR6Yzk2dDV1N2pMTFBjNkN5RW1meTJ6a25xMFQ0bDdRcnZoV2FJZGhIbVpDakRrSFF6V2lVSGtSdFd3aHJ0Smt4VWNyMW14amZacml2LWVKWEFPRHZQV0pEb05tQm5hd0bSAXRBVV95cUxON2dmR0g2a2RLRDB2TjJyS0NiWmU4WXlpVkhVY0l4dEJkNVlxR256alFQLWJrQ21Qb21vOThPVF9kX2hxaW16SHVWWUN4eHJEQzR0S2RtalNWR3RXX25YdGJtMDhvNkRyLXczcy1PWXU2NENFVA?oc=5",
-          "summary": "바클레이즈 \"IBM, 엔비디아 전략 장착…비중확대\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-01T23:41:59+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         }
       ]
     },
@@ -223,18 +191,18 @@
       "count": 1,
       "articles": [
         {
-          "title": "Bitcoin’s Inflation-Hedging Promise in Tatters After Plunge",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-02/bitcoin-s-inflation-hedging-promise-in-tatters-after-36-plunge",
-          "summary": "Bitcoin has fallen 36% over the past year and slipped below $70,000 this week, extending a retreat that is undermining several of the arguments that helped carry the cryptocurrency into the financial mainstream.",
-          "published": "2026-06-02T16:09:25+00:00",
+          "title": "A 180% Crypto Rally Shows New Investing Era as Bitcoin Melts",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-03/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-stumbles",
+          "summary": "As billions of dollars leave Bitcoin and Ether funds, money is flowing into a corner of crypto that promises something investors have long struggled to find in digital assets: a clearer path from economic activity to token value.",
+          "published": "2026-06-03T13:46:00+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 10,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -246,8 +214,29 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "“35억 투자해 2조2000억 수익”…신들린 투자 주인공은 카카오 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5meDRvMHVJNW5KNTFVSXJEbm1BQ01aS1YyaS15eVhZelh6SmdkcF9kTEMycUNtMTY0c0hGZUhWZGI2TkwzYWFqTVBtUXdWdw?oc=5",
+          "summary": "“35억 투자해 2조2000억 수익”…신들린 투자 주인공은 카카오 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-03T20:44:53+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
