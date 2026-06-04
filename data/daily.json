@@ -1,48 +1,26 @@
 {
-  "generated_at": "2026-06-03T23:07:26.828054+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-06-04T22:23:22.272940+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/spacex-seeks-75-billion-in-record-ipo-plan-to-fund-ai-launch",
-          "summary": "SpaceX is seeking to raise $75 billion in an initial public offering that would be the biggest of all time, as Elon Musk’s rocket, satellite and artificial intelligence company targets a historic debut that could clear a path for more mega-listings.",
-          "published": "2026-06-03T20:46:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "S&amp;P Dow Jones Keeps MegaCap IPO Rules As Is After Consultation",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+          "summary": "S&amp;P Dow Jones Indices will keep its existing eligibility requirements for the S&amp;P 500, rejecting proposals that would have made it faster for mega-cap companies such as SpaceX to gain rapid entry into the benchmark after going public.",
+          "published": "2026-06-04T21:56:19+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "모닝스타, 스페이스X 7천800억달러 평가…\"이번 IPO 피하세요\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80ZTFNT1IxMVN4RzZDaTVfcUtMWVVjbnVIbXl5bVg4ZHdha2xkRWVud0ZqT1FHWHVMNU1EU09zU0hOWXNtQTJzTm9yMGhMYVpWZU9CV201U1lWbTl2c3hmMGxkOXEyaFZGV2d2OGw4V1Q?oc=5",
-          "summary": "모닝스타, 스페이스X 7천800억달러 평가…\"이번 IPO 피하세요\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-03T01:40:03+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -54,97 +32,33 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 8,
       "articles": [
         {
-          "title": "OpenAI y Anthropic alistan sus OPI que podrían redefinir el mercado de la inteligencia artificial",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/openai-y-anthropic-preparan-opi-record-en-ia",
-          "summary": "Dos grandes de la IA tienen la mirada puesta en los mercados bursátiles, pero algunos&nbsp;se preguntan si la salida a bolsa de SpaceX, prevista para junio, les va a robar el protagonismo.",
-          "published": "2026-06-03T21:29:43+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "AI Funding Boom Reaches Muni Market With Google-Tied Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/ai-funding-boom-reaches-muni-market-with-google-tied-bond-sale",
-          "summary": "Google parent Alphabet Inc. is poised to enter the municipal-bond market’s prepaid energy space by participating in a $1 billion transaction out of California, a major development in the evolution of a booming segment.",
-          "published": "2026-06-03T12:33:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Nvidia’s RTX Spark Sets Up Fight Over the Soul of Windows PCs",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/nvidia-s-rtx-spark-sets-up-fight-over-the-soul-of-windows-pcs",
-          "summary": "The future of the personal computer is a hot topic again, courtesy of Nvidia Corp.’s announcement this week with Microsoft Corp. The leader in AI hardware is taking another run at making the central component for laptops, promising to bring the biggest change to the devices in decades.",
-          "published": "2026-06-03T19:27:48+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Alphabet Upsizes Offering for AI Spending to $85 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/alphabet-upsizes-equity-offering-to-85-billion-for-ai-spending",
-          "summary": "Google parent Alphabet Inc. upsized its equity raise to $84.75 billion from the $80 billion it announced just two days earlier in a bid to help fund growing artificial intelligence spending plans.",
-          "published": "2026-06-03T14:00:39+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from New York-based corporate spending platform Ramp – which tracks when businesses buy from a software vendor for the first time – DeepSeek’s rise placed it ahead of event-management platform PheedLoop and...",
+          "published": "2026-06-04T07:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
+            "keyword": 10,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "OpenAI CEO to Share Oversight Ideas in Wake of Trump AI Order",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/openai-ceo-to-share-oversight-ideas-in-wake-of-trump-ai-order",
-          "summary": "OpenAI Chief Executive Officer Sam Altman will push his vision for public-private collaboration on artificial intelligence during a visit to Washington on Wednesday, part of a broader policy agenda that also includes creating a vehicle to pass AI’s potentially vast financial windfall to consumers.",
-          "published": "2026-06-03T17:55:04+00:00",
+          "title": "Anthropic President Sees High Computing Costs as Driver for IPOs",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/anthropic-president-cites-high-computing-costs-as-driver-for-ipo",
+          "summary": "Anthropic PBC co-founder and President Daniela Amodei said the high cost of developing artificial intelligence models is driving firms like hers to look to the public market for capital, days after the Claude maker confidentially filed paperwork for an IPO.",
+          "published": "2026-06-04T17:58:46+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -159,73 +73,59 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "How virtual power plants could provide energy for data centers",
-          "link": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-          "summary": "Would you take a payment to ramp down your electricity use? Would it change anything if you were doing so to help power a local data center? Google just signed a new deal to help pay for a virtual power plant (VPP) in the largest power grid in the US. The agreement is with Voltus,&#8230;",
-          "published": "2026-06-03T16:51:38+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "A Chinese robotics start-up beat Nvidia on a global AI ranking. Is a new tech war brewing?",
+          "link": "https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing?utm_source=rss_feed",
+          "summary": "As artificial intelligence steps out of the digital realm and into the real world, the race to build the embodied “brains” powering next-generation robots has become the newest battleground in tech competition between China and the United States. Two days after US chip giant Nvidia launched its Cosmos 3 model – designed to help physical AI “think before it acts” – a Chinese start-up stole the spotlight. On Wednesday, Hangzhou, Zhejiang province-based Spirit AI said its foundation model for...",
+          "published": "2026-06-04T01:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "A 180% Crypto Rally Shows New Investing Era as Bitcoin Melts",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-03/a-180-crypto-rally-shows-new-investing-era-as-bitcoin-stumbles",
-          "summary": "As billions of dollars leave Bitcoin and Ether funds, money is flowing into a corner of crypto that promises something investors have long struggled to find in digital assets: a clearer path from economic activity to token value.",
-          "published": "2026-06-03T13:46:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "“35억 투자해 2조2000억 수익”…신들린 투자 주인공은 카카오 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5meDRvMHVJNW5KNTFVSXJEbm1BQ01aS1YyaS15eVhZelh6SmdkcF9kTEMycUNtMTY0c0hGZUhWZGI2TkwzYWFqTVBtUXdWdw?oc=5",
-          "summary": "“35억 투자해 2조2000억 수익”…신들린 투자 주인공은 카카오 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-03T20:44:53+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "배경훈 부총리, \"엔비디아에 버금가는 기술력 확보 중\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94eXRESHRCc0pwamR2ZnBLNlQ2OGdqcGZZOTh1MGlleDJGMDE3bVFBVmRLd1JKZC1wSUFYdG5QQU91cG8wLW5JWURaT1NJRE5lLTZQWmI3bU5SU2o3bDZBVU80RE8tU2ZIOXpGRldKVUQ?oc=5",
+          "summary": "배경훈 부총리, \"엔비디아에 버금가는 기술력 확보 중\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-04T02:28:16+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41OVd1dUZjSF9MbUhkMmx2N29JVDBYMmdaOXB0Uzd5NEJwNjZJQVk0Wk1xb3RvdG8xQTNkSEQxeE80Y3p4NW5QRkpzcVJJLVRYQmcyOHhib240UGZYMDVWWHBVaTVheTV2a3c?oc=5",
+          "summary": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-04T21:01:26+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
@@ -235,8 +135,161 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQjJvdzlTZXdkSkZlNUEzalktRVZoQkNXZUF6U3FBUmVTT2pUOGxJVEtGaU1SMnhWaDlYOW9aSy1fWjJqSXJwWVVjQ0hQZ0FMQ3Q5eWFyWGlBd0hFLVdLSTd0aWkwQUhGQ2c?oc=5",
+          "summary": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-04T21:51:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, 노트북용 멀티모달 '젬마 4' 출시...\"인코더 빼고 경량화 성공\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QV21IRjJlT3ktMmgxV051VkZTcWdNdUtzMEoxbWJjdl9mVXRIb2tieXdmcGQ2aG45ajNUSkhTYTlhSHVhWG96R3hWV3FDb1NVcHBEak03ZDBwMV9NdVpqSVVlcW9DSzdWeHc?oc=5",
+          "summary": "구글, 노트북용 멀티모달 '젬마 4' 출시...\"인코더 빼고 경량화 성공\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-04T22:19:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxU1JsYTFxeTVVMmRUaU9rRVZBaW44b0JHb0FJdTRqMFpSTXlCNzRMaUd0cl9iRTdSbjRscWpjcHQwVHhTTlVrekl5NHNNNUZsdTZ5WUdmcTBaWnAxcFVfRzBjMlE2bGxiUUE?oc=5",
+          "summary": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-04T05:53:20+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 4,
+      "articles": [
+        {
+          "title": "Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder",
+          "summary": "Michael Saylor built Strategy Inc. around a straightforward idea: raise money to buy Bitcoin, then never sell it. Over time, that simple bet has turned far more complicated.",
+          "published": "2026-06-04T16:10:07+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Bitcoin Has Longest Losing Streak Since August in Bruising Week",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends",
+          "summary": "Bitcoin posted its longest losing streak since August, weighed down by liquidations of bullish bets and this week’s rare sale of tokens by the dominant corporate buyer.",
+          "published": "2026-06-04T01:18:51+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "비트코인, 한때 6만1천선 달러로 급락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OMk9GZXFJOUVJcTMtcjlFNXFBQlh0dks2Z2VyekdvWnZKRngtUV96dlRsUVlqbHp0bjFiV0cwd0l1MWZfX09TckVLV1FhS0p1b3ktMmVteS1vbWJFWE00SWFlMVgtWWhyQjV3dmFpVjI?oc=5",
+          "summary": "비트코인, 한때 6만1천선 달러로 급락 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-04T04:31:24+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "한투·코인원·OKX·컴투스 ‘초대형 디지털금융 동맹’…전통금융·가상자산 경계 허문다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRa3VnbGk3eW5jMjJBM3pJbGtCekkzelFveWowdnBUZHFyeWxTczVZbzdXRVl0RWFmYm4tSHVoMXRFd3Z4ejBiS2VVN0lwLUtqNlE?oc=5",
+          "summary": "한투·코인원·OKX·컴투스 ‘초대형 디지털금융 동맹’…전통금융·가상자산 경계 허문다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-04T01:17:09+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
