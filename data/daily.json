@@ -1,16 +1,78 @@
 {
-  "generated_at": "2026-06-04T22:23:22.272940+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-06-05T22:18:00.816801+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 6,
       "articles": [
         {
-          "title": "S&amp;P Dow Jones Keeps MegaCap IPO Rules As Is After Consultation",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
-          "summary": "S&amp;P Dow Jones Indices will keep its existing eligibility requirements for the S&amp;P 500, rejecting proposals that would have made it faster for mega-cap companies such as SpaceX to gain rapid entry into the benchmark after going public.",
-          "published": "2026-06-04T21:56:19+00:00",
+          "title": "S&amp;P’s SpaceX Snub Shows Elon Musk the Power of Index Gatekeepers",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/s-p-s-spacex-snub-shows-elon-musk-the-power-of-index-gatekeepers",
+          "summary": "Elon Musk once said passive investing has “gone too far,” mocked environmental, social and governance indexes as a “scam” and endured a long wait to get Tesla Inc. into the S&amp;P 500.",
+          "published": "2026-06-05T18:46:18+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "JPMorgan Turns Rosy on Tesla a Day After Dimon Lauds Musk",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/jpmorgan-turns-upbeat-on-tesla-after-replacing-bearish-analyst",
+          "summary": "The morning after Jamie Dimon offered Elon Musk an audience to talk up SpaceX, JPMorgan Chase &amp; Co.’s new lead autos analyst completely changed the bank’s tune on Tesla Inc.",
+          "published": "2026-06-05T13:24:35+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "China launches space computing hub as SpaceX gears up for historic IPO",
+          "link": "https://www.scmp.com/tech/big-tech/article/3356102/china-launches-space-computing-hub-spacex-gears-historic-ipo?utm_source=rss_feed",
+          "summary": "China is ramping up its bets on space-based artificial intelligence computing with the launch of a state-backed research institute in Beijing, accelerating a frontier tech race with the US just as Elon Musk’s SpaceX eyes a record-shattering US$75 billion market debut to fund its own orbital AI ambitions. The establishment of the Beijing Space Intelligent Computing Research Institute marks a major step in the superpowers’ AI rivalry, which is increasingly extending beyond Earth as terrestrial AI.",
+          "published": "2026-06-05T14:00:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX and Other Mega IPOs May Wait Years to Join the S&amp;P 500",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/spacex-and-other-mega-ipos-may-wait-years-to-join-the-s-p-500",
+          "summary": "Mega-IPO candidates including SpaceX are expected to face a long road to entry to the S&amp;P 500 Index, after the company that makes the rules rejected a proposal that included relaxing the requirement that they be profitable.",
+          "published": "2026-06-05T20:39:11+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
@@ -27,6 +89,51 @@
           "event_labels": [
             "funding"
           ]
+        },
+        {
+          "title": "스페이스X IPO 띄우는 골드만삭스 \"AI 매출 5년새 100배 급증\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14Z2pYMUxvY2RLeXZJdVdJenJ0TUpYdVV2c0FLQ0IzM1F1UnJkOHdPRzFCVzRJYWQ4QlRqNUNKMHhlSXItTm9iZzU5WEpvcHVWVmc?oc=5",
+          "summary": "스페이스X IPO 띄우는 골드만삭스 \"AI 매출 5년새 100배 급증\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-05T00:33:54+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX IPO Is Said to Draw More Orders Than Shares Available",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/spacex-s-75-billion-ipo-draws-more-orders-than-shares-available",
+          "summary": "SpaceX has already received orders for more than the shares available in its $75 billion initial public offering, according to people familiar with the matter, putting the company on the verge of setting the record for the biggest-ever listing.",
+          "published": "2026-06-05T14:42:58+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
@@ -35,72 +142,92 @@
       "count": 8,
       "articles": [
         {
-          "title": "More US firms turn to China’s DeepSeek over pricey Silicon Valley AI",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3355927/more-us-firms-turn-chinas-deepseek-over-pricey-silicon-valley-ai?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence start-up DeepSeek took the top spot on a major US business spending index in June, as more companies swap out expensive American options like OpenAI and Anthropic in favour of more affordable alternatives. According to a “trending software vendors” list from New York-based corporate spending platform Ramp – which tracks when businesses buy from a software vendor for the first time – DeepSeek’s rise placed it ahead of event-management platform PheedLoop and...",
-          "published": "2026-06-04T07:00:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic President Sees High Computing Costs as Driver for IPOs",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-04/anthropic-president-cites-high-computing-costs-as-driver-for-ipo",
-          "summary": "Anthropic PBC co-founder and President Daniela Amodei said the high cost of developing artificial intelligence models is driving firms like hers to look to the public market for capital, days after the Claude maker confidentially filed paperwork for an IPO.",
-          "published": "2026-06-04T17:58:46+00:00",
+          "title": "Apollo Wraps Up $35 Billion Debt to Buy AI Chips for Anthropic",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/apollo-wraps-up-35-billion-debt-to-buy-ai-chips-for-anthropic",
+          "summary": "Apollo Global Management Inc. and Blackstone Inc. have finalized a $35 billion financing package for Anthropic PBC to expand its AI infrastructure, marking the latest mega-deal in the artificial intelligence race.",
+          "published": "2026-06-05T21:02:29+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "m_and_a"
           ]
         },
         {
-          "title": "A Chinese robotics start-up beat Nvidia on a global AI ranking. Is a new tech war brewing?",
-          "link": "https://www.scmp.com/tech/article/3355838/chinese-robotics-start-beat-nvidia-global-ai-ranking-new-tech-war-brewing?utm_source=rss_feed",
-          "summary": "As artificial intelligence steps out of the digital realm and into the real world, the race to build the embodied “brains” powering next-generation robots has become the newest battleground in tech competition between China and the United States. Two days after US chip giant Nvidia launched its Cosmos 3 model – designed to help physical AI “think before it acts” – a Chinese start-up stole the spotlight. On Wednesday, Hangzhou, Zhejiang province-based Spirit AI said its foundation model for...",
-          "published": "2026-06-04T01:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Meta Considers Raising Billions in Share Sale, FT Reports",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/meta-considers-raising-billions-in-share-sale-ft-reports",
+          "summary": "Meta Platforms Inc. is considering raising equity after Alphabet Inc.’s successful $85 billion sale, according to the Financial Times. Meta shares fell on the report.",
+          "published": "2026-06-05T18:33:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "배경훈 부총리, \"엔비디아에 버금가는 기술력 확보 중\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94eXRESHRCc0pwamR2ZnBLNlQ2OGdqcGZZOTh1MGlleDJGMDE3bVFBVmRLd1JKZC1wSUFYdG5QQU91cG8wLW5JWURaT1NJRE5lLTZQWmI3bU5SU2o3bDZBVU80RE8tU2ZIOXpGRldKVUQ?oc=5",
-          "summary": "배경훈 부총리, \"엔비디아에 버금가는 기술력 확보 중\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-04T02:28:16+00:00",
+          "title": "Google-Tied Prepaid Energy Bonds See Flood of Muni Trader Demand",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/google-tied-prepaid-energy-bonds-see-flood-of-muni-trader-demand",
+          "summary": "Google parent Alphabet Inc.’s municipal-bond market debut was met by a surge of investor interest.",
+          "published": "2026-06-05T20:57:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Would’ve ‘Imploded’ If Altman Didn’t Return, Ex-CTO Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-05/openai-would-ve-imploded-if-altman-didn-t-return-ex-cto-says",
+          "summary": "OpenAI would likely have unraveled if Sam Altman hadn’t returned as chief executive officer following his brief ouster in 2023, former tech chief Mira Murati said, offering her clearest account yet of one of Silicon Valley’s most dramatic boardroom battles.",
+          "published": "2026-06-05T15:18:30+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "젠슨 황은 어디에 투자할까…엔비디아가 찍은 한국 스타트업은 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OMnFnQzY0Qkw4bFI1ckRvUlZzMjlxQ0xUVUpGYkltMURVR055REx4SjVQdk5MUTJvcUYtWEY0X2NsRi1rTVR6NlFraEROdmZScEo3T3FaUDNvelZ4SGxZSU40UmNLNVFjTk52Q25YdjM?oc=5",
+          "summary": "젠슨 황은 어디에 투자할까…엔비디아가 찍은 한국 스타트업은 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-05T01:05:00+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -117,10 +244,30 @@
           "event_labels": []
         },
         {
-          "title": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41OVd1dUZjSF9MbUhkMmx2N29JVDBYMmdaOXB0Uzd5NEJwNjZJQVk0Wk1xb3RvdG8xQTNkSEQxeE80Y3p4NW5QRkpzcVJJLVRYQmcyOHhib240UGZYMDVWWHBVaTVheTV2a3c?oc=5",
-          "summary": "메타, 바이브 코딩 가능한 개인용 에이전트 '해치' 출시 준비 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-04T21:01:26+00:00",
+          "title": "[속보] 젠슨 황 \"게임은 엔비디아 기원…한국은 e스포츠 최적화 시장\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05bVFmd2pIUlVMZ2xnN1NkZEhIU0xDdDNRdGJpdXZhTUwyU0NIUW93dUdsMEdLYm5QU1VZSVZ4dWtkUzZJdFJsLV9FVXFpX2hyYVE?oc=5",
+          "summary": "[속보] 젠슨 황 \"게임은 엔비디아 기원…한국은 e스포츠 최적화 시장\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-05T06:01:59+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Bb1AzUHMwbnRMakdhYkJiUlpBWUc4WjQzREhWbzU4OWg5c0RtSWM1NFZnTFhPWThnSHdWTC04ejZYeXZEZldTM0tlcElvdkxRSVhMYmhDVDZ0Qk1wNG1wU1B0bV91YkNvZ2c?oc=5",
+          "summary": "엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감” &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-05T08:19:38+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -128,67 +275,27 @@
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IQjJvdzlTZXdkSkZlNUEzalktRVZoQkNXZUF6U3FBUmVTT2pUOGxJVEtGaU1SMnhWaDlYOW9aSy1fWjJqSXJwWVVjQ0hQZ0FMQ3Q5eWFyWGlBd0hFLVdLSTd0aWkwQUhGQ2c?oc=5",
-          "summary": "\"매일 아침 나를 위한 스토리 생성\"... 구글, AI 브리핑 '드림빈즈' 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-04T21:51:51+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Tencent’s chief AI scientist dismisses lag concerns, says race a ‘long-term game’",
+          "link": "https://www.scmp.com/tech/big-tech/article/3356090/tencents-chief-ai-scientist-dismisses-lag-concerns-says-race-long-term-game?utm_source=rss_feed",
+          "summary": "Yao Shunyu, the former OpenAI researcher now leading Tencent Holdings’ artificial intelligence model development, pushed back against concerns that the tech giant is slow in AI, arguing that the race is just beginning with massive untapped opportunities in coding agents and embodied intelligence. “AI is a long-term game, with the second half of the race just starting,” said Yao, chief AI scientist at Tencent, comparing the current state to the development of personal computers in the 1970s. Yao.",
+          "published": "2026-06-05T09:00:11+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 노트북용 멀티모달 '젬마 4' 출시...\"인코더 빼고 경량화 성공\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QV21IRjJlT3ktMmgxV051VkZTcWdNdUtzMEoxbWJjdl9mVXRIb2tieXdmcGQ2aG45ajNUSkhTYTlhSHVhWG96R3hWV3FDb1NVcHBEak03ZDBwMV9NdVpqSVVlcW9DSzdWeHc?oc=5",
-          "summary": "구글, 노트북용 멀티모달 '젬마 4' 출시...\"인코더 빼고 경량화 성공\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-04T22:19:51+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxU1JsYTFxeTVVMmRUaU9rRVZBaW44b0JHb0FJdTRqMFpSTXlCNzRMaUd0cl9iRTdSbjRscWpjcHQwVHhTTlVrekl5NHNNNUZsdTZ5WUdmcTBaWnAxcFVfRzBjMlE2bGxiUUE?oc=5",
-          "summary": "구글, AI 자금 조달 129조로 확대… 35%는 '인재 유지' 세금으로 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-04T05:53:20+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -200,85 +307,23 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "Saylor’s Bitcoin Machine Is Misfiring on Every Cylinder",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-04/michael-saylor-s-bitcoin-machine-is-misfiring-on-every-cylinder",
-          "summary": "Michael Saylor built Strategy Inc. around a straightforward idea: raise money to buy Bitcoin, then never sell it. Over time, that simple bet has turned far more complicated.",
-          "published": "2026-06-04T16:10:07+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Bitcoin Has Longest Losing Streak Since August in Bruising Week",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-04/bitcoin-btc-falls-to-pre-iran-conflict-low-as-crypto-slide-extends",
-          "summary": "Bitcoin posted its longest losing streak since August, weighed down by liquidations of bullish bets and this week’s rare sale of tokens by the dominant corporate buyer.",
-          "published": "2026-06-04T01:18:51+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "비트코인, 한때 6만1천선 달러로 급락 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OMk9GZXFJOUVJcTMtcjlFNXFBQlh0dks2Z2VyekdvWnZKRngtUV96dlRsUVlqbHp0bjFiV0cwd0l1MWZfX09TckVLV1FhS0p1b3ktMmVteS1vbWJFWE00SWFlMVgtWWhyQjV3dmFpVjI?oc=5",
-          "summary": "비트코인, 한때 6만1천선 달러로 급락 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-04T04:31:24+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "한투·코인원·OKX·컴투스 ‘초대형 디지털금융 동맹’…전통금융·가상자산 경계 허문다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRa3VnbGk3eW5jMjJBM3pJbGtCekkzelFveWowdnBUZHFyeWxTczVZbzdXRVl0RWFmYm4tSHVoMXRFd3Z4ejBiS2VVN0lwLUtqNlE?oc=5",
-          "summary": "한투·코인원·OKX·컴투스 ‘초대형 디지털금융 동맹’…전통금융·가상자산 경계 허문다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-04T01:17:09+00:00",
+          "title": "AI에 밀린 비트코인, 6만달러선도 무너져…트럼프 재선 이후 최저치 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBwRE9iYWVKTEptOXdPSHFlTmxSNGg1Skc1TDdFNW9jUFY2blhUOVhOVktMWGgtbVlOdmZmUWg1OGlTOFg0QngzSGhJY0V3R0drRFE?oc=5",
+          "summary": "AI에 밀린 비트코인, 6만달러선도 무너져…트럼프 재선 이후 최저치 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-05T22:04:27+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -293,8 +338,29 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "\"투자자 대거 몰려\"…미래에셋 스페이스X 청약 '1분 완판' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OY2Y4V0Mya3huX0tfMVl3T0x4RmlJbGxVNmZXbVZHSDdHNzVWb0R6WkFvSHV6eXIzSTB6d2pNaFhSaFV6VVJMT0t0TDR3TE05Z0lqS29pRm5YTVdHeFlwYzd5SDg2NVNjMVB0UTNDeko?oc=5",
+          "summary": "\"투자자 대거 몰려\"…미래에셋 스페이스X 청약 '1분 완판' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-05T00:43:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
