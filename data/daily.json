@@ -1,26 +1,66 @@
 {
-  "generated_at": "2026-06-08T22:41:59.519953+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-06-09T22:26:12.055001+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "SpaceX IPO Forces Investors to Bet on Musk’s Entangled AI Empire",
-          "link": "https://www.bloomberg.com/news/features/2026-06-08/spacex-ipo-puts-elon-musk-s-intertwined-business-empire-under-scrutiny",
-          "summary": "The boundaries between Elon Musk’s companies are growing increasingly blurred through shared capital, talent and infrastructure. Investors must decide what that ecosystem is worth.",
-          "published": "2026-06-08T21:00:32+00:00",
+          "title": "SpaceX Set to Put 30% of Tradeable Shares in Passive Hands, Testing Markets",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-risks-feedback-loop-as-index-funds-eye-30-of-float",
+          "summary": "The prospect of billions of dollars of oncoming demand for SpaceX stock from index-tracking funds risks creating a feedback loop that drives the shares of Elon Musk’s company even higher, academics and market observers have warned.",
+          "published": "2026-06-09T17:59:21+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "NASA Selects Crew for Artemis Mission to Test Moon Landers",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-09/nasa-picks-crew-for-2027-artemis-mission-to-test-moon-landers",
+          "summary": "NASA announced the four astronauts who will fly to space as soon as next year to test out moon landers built by SpaceX and Blue Origin &mdash; the next stage in the agency’s ambitious Artemis program to ultimately send humans back to the lunar surface.",
+          "published": "2026-06-09T16:37:40+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SpaceX IPO: views from the ground",
+          "link": "https://www.scmp.com/tech/big-tech/series/3356494/spacex-ipo-views-ground?utm_source=rss_feed",
+          "summary": "",
+          "published": "2026-06-09T08:14:43+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -29,26 +69,24 @@
           ]
         },
         {
-          "title": "SpaceX IPO set to lift industry in push for space-based AI computing, solar power: report",
-          "link": "https://www.scmp.com/tech/tech-war/article/3356375/spacex-ipo-set-lift-industry-push-space-based-ai-computing-solar-power-report?utm_source=rss_feed",
-          "summary": "SpaceX’s planned mega-listing on Friday is expected to add momentum to the global satellite industry, as Elon Musk’s rocket and connectivity giant pushes beyond satellite broadband into direct-to-cell services and space-based solar power and artificial intelligence (AI) computing, according to a report released on Monday. TrendForce, a Taiwan-based market research consulting firm, expects the global satellite industry to grow at an annual rate of about 14 per cent, reaching US$447 billion by...",
-          "published": "2026-06-08T13:30:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "Wall Street’s undignified SpaceX mania",
+          "link": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
+          "summary": "Is that a rocket in your lobby, or are you just happy to see me?",
+          "published": "2026-06-09T19:16:00+00:00",
+          "source_key": "economist_finance",
+          "source_name": "The Economist - Finance",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -57,20 +95,42 @@
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
-          "summary": "OpenAI, the maker of ChatGPT, filed confidentially for an IPO, joining artificial intelligence rivals in tapping public markets to fund ambitious growth plans.",
-          "published": "2026-06-08T21:19:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
+          "link": "https://zdnet.co.kr/view/?no=20260609173128",
+          "summary": "[지디넷코리아]네이버와 카카오의 AI 협력 지도가 극명한 차이를 보이고 있다. 네이버는 엔비디아·AMD와 함께 데이터센터와 AI 팩토리 구축에 속도를 내고 있고, 카카오는 오픈AI·구글과 손잡고 카카오톡 기반 AI 서비스 확대에 주력하고 있다. 양사 모두 글로벌 빅테크와 협력하고 있지만, 인프라 경쟁력과 이용자 기반이라는 서로 다른 강점이 동맹 방향을 결정했다는 평가다.9일 IT업계에 따르면 젠슨 황 엔비디아 최고경영자(CEO)는 전날 제2사옥 네이버1784를 찾아 네이버와의 글로벌 AI 팩토리 구축 협력을 구체화했다. 네이버는 기가와트(GW)급 AI 팩토리 구축을 위해 데이터센터 ‘각 세종’을 기반으로 2027년 상반기 55MW 가동을 시작하고, 같은해 안에 100MW, 2028년 200MW까지 해외로 인프라 규모를 확장한다.앞선 3월 리사 수 AMD CEO도 AI 인프라 협력을 위해 네이버1784를 방문했다. 당시 양 측은 차세대 그래픽처리장치(GPU) 협력을 강화하기로 약속했다",
+          "published": "2026-06-09T08:55:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "맥OS 27, 애플 실리콘 전용으로…인텔 맥 시대 막 내린다",
+          "link": "https://zdnet.co.kr/view/?no=20260609195434",
+          "summary": "[지디넷코리아]애플(Apple)이 차세대 운영체제 'macOS 27'을 애플 실리콘(Apple Silicon) 전용으로 내놓으며 인텔(Intel) 맥 시대를 마무리한다. 아스 테크니카(Ars Technica)에 따르면 다음 macOS를 설치하려면 M1 이상의 M 시리즈 칩이나 A18 프로 칩을 탑재한 맥북 네오(MacBook Neo)가 필요하다.macOS 27의 공식 명칭은 '골든 게이트(Golden Gate)'로, 애플 실리콘에서만 작동하는 첫 번째 macOS이자 인텔 앱을 구동하는 로제타 2(Rosetta 2) 기능을 온전히 지원하는 마지막 버전이다. 애플은 6월 8일 WWDC 2026에서 이를 공개했으며, 정식 배포는 9월로 예정돼 있다.로제타 2는 인텔용으로 만들어진 앱을 애플 실리콘에서도 돌아가게 해 주는 호환 기술로, 그동안 두 칩 사이를 잇는 다리 역할을 해 왔다. 이 기능을 온전히 지원하는 마지막 버전이라는 점에서, macOS 27은 전환기의 끝을 알리는 분기점으로 볼",
+          "published": "2026-06-09T10:54:34+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -79,245 +139,75 @@
           ]
         },
         {
-          "title": "Apple Downplays Concerns That Its Use of Google AI Models Will Undermine Privacy",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-08/apple-downplays-concerns-that-its-use-of-google-ai-models-will-undermine-privacy",
-          "summary": "Apple Inc., which just unveiled a revamped artificial intelligence platform built in part with Google technology, said the new approach will still preserve the company’s privacy safeguards.",
-          "published": "2026-06-08T20:21:16+00:00",
+          "title": "Anthropic Releases Mythos-Like Model Without Cyber Capabilities",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-releases-mythos-like-model-without-cyber-capabilities",
+          "summary": "Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and exploit vulnerabilities in critical software.",
+          "published": "2026-06-09T17:00:33+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "WWDC 2026: Apple gives Siri an AI makeover, but China must wait",
+          "link": "https://www.scmp.com/tech/article/3356438/wwdc-2026-apple-gives-siri-ai-makeover-china-must-wait?utm_source=rss_feed",
+          "summary": "Apple has finally made its big move in the artificial intelligence (AI) tech race, unveiling a long-awaited reinvention of its Siri voice assistant. Introduced on Monday at Apple’s annual Worldwide Developers Conference (WWDC) in Cupertino, California, the new Siri AI abandons stiff, preprogrammed responses in favour of fluid conversations powered by Google’s Gemini model. The upgrade transforms Siri into an integrated companion capable of managing tasks across apps and maintaining continuous...",
+          "published": "2026-06-09T02:42:58+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple Delays Siri AI for iPhone Users in the EU, Says Regulators Refusing to Engage",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-08/apple-delays-siri-ai-for-iphone-users-in-eu-says-regulators-refusing-to-engage",
-          "summary": "Apple Inc. said it isn’t currently able to launch Siri AI, its redesigned digital assistant, on iPhones or iPads in the European Union, marking the company’s latest standoff with the continent’s antitrust watchdog.",
-          "published": "2026-06-08T20:23:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "전영현 부회장 \"삼성 파운드리서 엔비디아 자율주행 칩 생산\"",
-          "link": "https://zdnet.co.kr/view/?no=20260608193013",
-          "summary": "[지디넷코리아]삼성전자 파운드리가 엔비디아의 자율주행 칩을 생산한다. 전영현 삼성전자 부회장은 8일 서울 중구 신라호텔에서 젠슨 황 엔비디아 최고경영자(CEO)와 회동 후 취재진에 \"4나노미터(nm)와 8나노 공정에서 자율주행 칩과 그록칩 생산을 협력하고 있다\"고 말했다. 전영현 부회장은 \"자율주행 칩을 공급하고 있다\"며 \"그록의 다음 세대 칩도 같이 협력하고 있다\"고 설명했다. 엔비디아는 현재 자율주행 칩셋 '오린(Orin)'과 차세대 칩 '토르(Thor)'를 중심으로 자율주행 플랫폼을 지원하고 있다. 그록칩은 엔비디아의 차세대 추론 특화 프로세서다. 전 부회장은 고대역폭메모리(HBM) 협력 내용도 공유했다. 그는 \"오늘 젠슨 황과 단기적으로는 HBM4와 파운드리 협력을 얘기했다\"며 \"HBM4나 소캠(서버용 저전력 메모리 모듈) 공급해야 하고, 내년에 대해선 HBM4E, HBM5, 파운드리 관련 이야기를 했다\"고 밝혔다. 소캠은 엔비디아의 차세대 서버용 저전력 D램 모듈이다.SK하",
-          "published": "2026-06-08T10:45:34+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "[현장] 김유원 네이버클라우드 대표 \"GW급 AI 인프라, 해외 거점까지 염두\"",
-          "link": "https://zdnet.co.kr/view/?no=20260608211355",
-          "summary": "[지디넷코리아]네이버가 엔비디아와 추진하는 기가와트(GW)급 인공지능(AI) 팩토리 구상이 국내 단일 데이터센터 확장에 그치지 않고 해외 거점까지 포함한 장기 인프라 전략으로 추진된다.김유원 네이버클라우드 대표는 8일 저녁 서울 중구 신라호텔에서 젠슨 황 엔비디아 최고경영자(CEO)와 회동 후 지디넷코리아와 만나 GW급 AI 인프라 구축 구상과 관련해 \"각 세종 이외에 다른 해외 거점까지 염두에 둔 것\"이라고 말했다.앞서 네이버는 이날 엔비디아와 글로벌 AI 팩토리 공동 구축 사업을 추진한다고 밝힌 바 있다. 양사는 글로벌 AI 인프라 수요 증가에 대응해 대규모 AI 팩토리를 공동 구축·운영하고 글로벌 AI 컴퓨트 시장을 공략한다는 방침이다.이번 협력은 기존 GPU 공급 협력을 넘어 데이터센터 구축·운영, 글로벌 고객 확보, AI 클라우드 사업 확대까지 포괄하는 전략적 동맹 성격이 짙다. 네이버는 데이터센터 부지 확보와 구축·운영을 주도하고, 엔비디아는 그래픽처리장치(GPU) 공급과",
-          "published": "2026-06-08T12:16:36+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "[현장] 배경훈 과기정통부 장관 \"젠슨 황, GTC 한국 개최 긍정적\"",
-          "link": "https://zdnet.co.kr/view/?no=20260608212445",
-          "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 엔비디아 연례 기술행사인 'GTC'의 한국 개최를 두고 긍정적인 입장을 밝혔다. 엔비디아 차세대 그래픽처리장치(GPU)의 연내 국내 공급 가능성에도 청신호가 켜진 분위기다.배경훈 과학기술정보통신부 부총리 겸 장관은 8일 저녁 서울 중구 신라호텔에서 엔비디아가 개최한 '코리아 AI 에코시스템 리셉션' 행사에 참석 후 기자들과 만나 \"젠슨 황 CEO는 AI 생태계를 만든다는 관점에서 GTC 국내 개최에 대해 매우 긍정적으로 생각하고 있다\"고 전했다.GTC는 엔비디아가 매년 개최하는 글로벌 기술 콘퍼런스로, GPU·AI 반도체·로보틱스·데이터센터 등 차세대 AI 기술과 생태계 전략을 공개하는 대표 행사다. 국내에서 GTC가 열릴 경우 한국 AI 산업계와 글로벌 빅테크·개발자 생태계의 접점이 확대될 것으로 보인다.앞서 황 CEO는 지난주 국내 파트너사들과 진행한 '코리안 파트너 나이트'에서도 GTC 국내 개최 가능성에 대해 \"서울이 원하",
-          "published": "2026-06-08T12:48:17+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "젠슨 황 \"SK하이닉스 캐파 2배 확대로는 불충분\"",
-          "link": "https://zdnet.co.kr/view/?no=20260608214342",
-          "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 SK하이닉스의 장기 생산능력 확대 계획에 대해 \"충분치 않다\"고 말했다. 앞서 최태원 SK그룹 회장은 \"앞으로 5년 안에 전체 웨이퍼 생산능력을 2배로 늘릴 것\"이라고 말한 바 있다. 8일 젠슨 황 CEO는 서울 중구 신라호텔에서 열린 '코리아 AI 에코시스템 리셉션' 후 기자들과 만나 \"(SK하이닉스 계획은) 충분치 않다고 생각한다\"며 \"우리는 스마트(smart)해져야 한다. 엔비디아는 SK가 생산하는 모든 메모리를 최대한 똑똑하게 사용할 것\"이라고 밝혔다. 그는 \"엔비디아는 인공지능(AI) 가속기 시장 80%를 점유하고 있고, 시장 점유율을 계속 확대하고 있다\"며 \"우리는 매년 거의 100%씩 성장하고 있고, 성장은 더 가속되는 것으로 보인다\"고 강조했다. 황 CEO는 \"AI 붐(Boom)은 거대하다. AI가 드디어 유용해졌기 때문이다. AI는 이제 우리가 소프트웨어 프로그래밍을 효과적으로 할 수 있도록 돕는다\"며 \"전 세계에",
-          "published": "2026-06-08T12:49:51+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "김성훈 업스테이지 대표 \"젠슨 황, 한국 AI 기업 투자 필요성 강조\"",
-          "link": "https://zdnet.co.kr/view/?no=20260608220303",
-          "summary": "[지디넷코리아]\"오늘 밤 행사를 한마디로 표현하면 '투자'였다. 젠슨 황 엔비디아 최고경영자(CEO)가 한국 인공지능(AI) 기업들에 대한 투자가 필요하다는 이야기를 여러 차례 강조했다.\"김성훈 업스테이지 대표는 8일 서울 중구 신라호텔에서 엔비디아가 개최한 '코리아 AI 에코시스템 리셉션' 참석 후 취재진과 만나 이같이 밝혔다.코리아 AI 에코시스템 리셉션은 지난 5일부터 나흘간 이어진 황 CEO의 방한 일정을 마무리하는 자리로, 피지컬 AI 가치사슬에 속한 국내 AI·로봇 기업 대표들과의 비공개 간담회 형식으로 진행됐다.이날 현장엔 삼성전자와 SK하이닉스, SK텔레콤, 현대차그룹, LG전자, 네이버, 크래프톤 등 주요 대기업과 함께 업스테이지, NC AI, 프렌들리AI, 트웰브랩스, 파일러, 노타 등 AI 스타트업, 두산로보틱스, 리얼월드, 로보티즈, 엔닷라이트, 에이로봇 등 로봇·피지컬 AI 기업 등 총 18개사가 참석했다.반도체와 AI, 게임, 로봇 등 국내 AI 연관 산업 ",
-          "published": "2026-06-08T13:05:51+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "Bitcoin’s $235 Billion Crash Masks Bigger Shift in Crypto",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto",
-          "summary": "The easiest way to understand crypto used to be to look at Bitcoin.",
-          "published": "2026-06-08T15:56:12+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "\"브랜드 대표, 마케팅 리더 모여\"...아임웹 '브랜드콘 26' 개최",
-          "link": "https://zdnet.co.kr/view/?no=20260608163824",
-          "summary": "[지디넷코리아]\"브랜드 대표, 마케팅 리더 코엑스로 모여.\"아임웹(대표 이수모)이 7월 28일 서울 코엑스 그랜드볼룸에서 ‘브랜드콘 26’을 개최한다. ‘DEEP: 깊은 브랜드만 남는다’를 주제로 열리는 이번 컨퍼런스에는 브랜드 대표와 마케팅 리더 및 실무자 1000여 명이 참석할 예정이다. 이번 행사는 브랜드의 지속 가능한 경쟁력에 대해 함께 고민하고 경험을 나누는 자리다.브랜드콘 26의 메인 강연은 총 세 개 세션으로 구성된다. ▲시장의 신호를 읽고 기회를 발견하는 트렌드 세션 ▲고유한 방식으로 성장을 만들어내는 전략 세션 ▲고객의 기억에 오래 남는 브랜드를 만드는 브랜딩 세션으로 구성된다. 식품·패션·뷰티·가전·리빙 등 산업 전반의 브랜드 리더와 전문가들이 참여해 각자의 방식으로 성장을 만들어온 경험과 인사이트를 공유한다.참가자들을 위한 다채로운 현장 프로그램도 준비돼 있다. 구글·페이팔·틱톡·슬릿·토스페이·리메인레이어 등 다양한 분야의 기업이 참여하는 ‘딥 컨설팅’ 부스에서는",
-          "published": "2026-06-08T08:55:24+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "젠슨 황 “네이버, 우리와의 협력으로 10배 커질 것” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51aXdGSGNUaHAtOWc0SXpuMWFTQ0VpOVJpVTBEU01JWFlrTjBZVkdmb2Y4dkpsSnNLS0t6Ry1taUV6T3BKTHhFZUN6RTY0aUt3U1VPbXhn?oc=5",
-          "summary": "젠슨 황 “네이버, 우리와의 협력으로 10배 커질 것” &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-08T09:28:29+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "미래에셋, 싱가포르 증권사와 '외국인 통합계좌' 계약 체결 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1yWm5sd1lqYmJKdTBMWUZXMElJMUxfV3ZrVGE5VXVNaGpXY2lrX21vUkRZdTJiWk5zM2E2YU5EMWJhYm9saFphX1FqT2pMVUdia3owMkVmVS13U3AxeGQxa2NsWkZvcGhsLV9tVC1fd2o?oc=5",
-          "summary": "미래에셋, 싱가포르 증권사와 '외국인 통합계좌' 계약 체결 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-08T04:32:33+00:00",
+          "title": "Apple WWDC 2026 Recap: What’s Coming to iPhone, Mac and Other Devices",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-09/apple-wwdc-2026-recap-everything-coming-to-iphone-mac-apple-watch-and-more",
+          "summary": "Apple Inc. unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes everyday consumers will actually use.",
+          "published": "2026-06-09T16:39:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아·네이버 맞손에 AI 커머스 주목…국내 업계 어디까지 왔나 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubjVVU3IteUVGNkh6a1ZSWWw0V2ZRQTRrSUstTDYtWVhKdjJuRGxwMFZoem5sVGJMV3lHVC1XcEs1TVFtRzRhLXV6a1lDRVJ4dUtEQ3dLSms3TlRfYUQyNTVjeFpSYjdBcl9GWVdJdHg?oc=5",
+          "summary": "엔비디아·네이버 맞손에 AI 커머스 주목…국내 업계 어디까지 왔나 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-08T23:55:00+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -327,8 +217,146 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "크레이머 \"엔비디아, 소버린AI가 새로운 성장 동력\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVEMzRjhvWFhEOS1EQlNoZk8yOGo5MDVhZkVLdWlqZWhMQWF5V256S3k4WG4zMDlaVGl1ZG9yQ19OMWRPc3NBU1BZU3ZEMW9BU3lMY05fMHFzYXlmY3F5cm5fWFdRUlM0Q2lmMllhM2I?oc=5",
+          "summary": "크레이머 \"엔비디아, 소버린AI가 새로운 성장 동력\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-09T00:38:38+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meta Ordered by EU to Halt WhatsApp Curbs on AI Rivals",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-09/meta-ordered-by-eu-to-halt-whatsapp-curbs-on-ai-rivals",
+          "summary": "Meta Platforms Inc. has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses.",
+          "published": "2026-06-09T15:21:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 4,
+      "articles": [
+        {
+          "title": "네이버, 문구페어 '인벤타리오' 후원...온-오프 이색 경험 제공",
+          "link": "https://zdnet.co.kr/view/?no=20260609172942",
+          "summary": "[지디넷코리아]네이버(대표 최수연)가 문구 페어 ‘인벤타리오 2026’에서 온·오프라인을 잇는 이색 경험을 제공한다.9일 네이버에 따르면, 지난해 처음 개최된 인벤타리오는 5일간 총 2만 5000여 명이 방문했다. 올해는 전년 대비 2배 이상 규모를 확대해 총 103개에 달하는 브랜드사가 참여한다.공식 후원사인 네이버는 관람객들이 한층 매끄럽고 몰입감 있게 행사를 경험할 수 있도록 행사 정보 탐색부터 행사장 방문, 제품 구매 및 후기 콘텐츠 제작에 이르기까지 온·오프라인 여정 전반을 지원한다.먼저 네이버 플레이스에서 예약 기능을 통해 관람 티켓을 예매할 수 있고, 행사 기간 운영하는 팝업 스토어 정보도 확인할 수 있다. 또 네이버 지도의 AR 내비게이션 기능을 활용해 코엑스 안에 위치한 행사장까지의 경로도 안내한다.관람객 확인과 체크인 절차도 네이버페이 안면 인식 출입·인증 기술 ‘페이스사인’으로 대폭 간소화했다. 네이버페이에 페이스사인을 미리 등록하면, 전용 패스트트랙으로 대기 없",
+          "published": "2026-06-09T08:41:16+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오, 창사 20년 만에 첫 파업…노사 여전히 평행선",
+          "link": "https://zdnet.co.kr/view/?no=20260609181115",
+          "summary": "[지디넷코리아]창사 이래 처음으로 카카오 노조가 파업에 나선다.9일 IT업계에 따르면 카카오 노동조합은 오는 10일 오전 10시부터 4시까지 부분 파업에 돌입한다. 한 시간 이른 9시부터 오후 4시까지 판교역 광장 인근에서 결의대회와 행진도 진행된다. 파업 시간 중 오전 11시 30분부터 낮 12시 30분까지는 판교역에서 시작해 유스페이스까지 약 800m를 행진한다.이번 파업에는 카카오 본사, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인이 참가한다.지난달 28일 경기 지방노동위원회 2차 조정이 중단되면서 본사도 쟁의권을 확보한 것이 파업의 분수령이 됐다. 본사를 제외한 계열사 4곳은 이미 파업 찬성투표로 찬성이 가결된 상태였다.회사와 노조 측은 성과급 산정 기준과 보상 체계에 대한 합의를 찾지 못하면서 갈등의 골이 깊어졌다. 이들은 지난해 영업이익의 13~14%를 성과급으로 보상하는 방안과 500만원 규모의 양도제한조건부주식(RSU)를 성과급으로 산입할 ",
+          "published": "2026-06-09T09:24:38+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "문체부, 해외 5개국과 K-콘텐츠 저작권 침해 대응 논의",
+          "link": "https://zdnet.co.kr/view/?no=20260609173036",
+          "summary": "[지디넷코리아]문화체육관광부(문체부)가 해외 법집행기관과 함께 K-콘텐츠 저작권 침해 사범 검거를 위한 국제공조 방안을 논의했다. 문체부는 한국저작권보호원과 9일 서울 롯데호텔에서 ‘2026 저작권 보호 집행 국제공조회의’를 열고, 해외 불법유통 사이트 대응과 침해 사범 검거를 위한 공동작전 계획을 점검했다이번 회의는 온라인 저작권 침해가 국경을 넘어 이뤄지는 상황에서 해외 수사기관과 민간 콘텐츠업계의 협력 체계를 강화하기 위해 마련됐다. 문체부는 경찰청, 인터폴, 미국 국토안보수사국, 해외 수사기관과의 공조망을 바탕으로 K-콘텐츠 불법유통 조직과 운영자 추적을 이어간다는 방침이다.회의에는 태국, 인도네시아, 베트남, 필리핀, 네덜란드 등 해외 5개국 수사기관과 국제형사경찰기구 인터폴, 미국 국토안보수사국 한국지부가 참여했다.국내에서는 법무부, 대전지검, 경찰청 관계자가 참석했다. 민간 콘텐츠업계에서는 저작권해외진흥협회, 네이버웹툰, 카카오엔터테인먼트, 미국영화협회 등이 함께했다.오",
+          "published": "2026-06-09T08:30:36+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "지그재그 직진배송 효과 톡톡…중소 쇼핑몰 거래액 30% 늘었다",
+          "link": "https://zdnet.co.kr/view/?no=20260609172344",
+          "summary": "[지디넷코리아]지그재그의 빠른 배송 서비스 '직진배송'이 중소형 쇼핑몰 성장의 발판 역할을 하고 있는 것으로 나타났다. 직진배송을 도입한 중소형 스토어들의 거래액이 두 자릿수 성장세를 기록했으며, 일부 쇼핑몰은 수백 퍼센트에 달하는 매출 증가를 달성했다. 카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그는 직진배송을 이용하는 중소형 스토어들의 거래액이 크게 증가했다고 9일 밝혔다.지그재그가 2024년 월평균 거래액 2천만원 미만이었던 직진배송 스토어 가운데 지난해에도 거래를 이어간 55개 스토어를 분석한 결과, 2025년 월평균 거래액은 전년 대비 30% 증가한 것으로 집계됐다.이는 규모가 작은 쇼핑몰이라도 상품 경쟁력에 물류 경쟁력이 더해질 경우 충분히 성장할 수 있음을 보여주는 사례라고 회사 측은 설명했다.최근 빠른 배송에 대한 소비자 수요가 높아지면서 직진배송이 구매 전환율 향상에도 긍정적인 영향을 미친 것으로 분석된다.스토어별 성장세는 더욱 가파르게 나타났다. 쇼핑몰 '쇼",
+          "published": "2026-06-09T08:30:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        }
+      ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
