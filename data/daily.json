@@ -1,18 +1,84 @@
 {
-  "generated_at": "2026-06-09T22:26:12.055001+00:00",
+  "generated_at": "2026-06-10T22:53:30.030246+00:00",
   "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
+      "count": 6,
       "articles": [
         {
-          "title": "SpaceX Set to Put 30% of Tradeable Shares in Passive Hands, Testing Markets",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/spacex-ipo-risks-feedback-loop-as-index-funds-eye-30-of-float",
-          "summary": "The prospect of billions of dollars of oncoming demand for SpaceX stock from index-tracking funds risks creating a feedback loop that drives the shares of Elon Musk’s company even higher, academics and market observers have warned.",
-          "published": "2026-06-09T17:59:21+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "SpaceX Tells Investors It Has Lined Up Blue-Chip Credit Ratings",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/spacex-touts-investment-grade-ratings-for-75-billion-ipo",
+          "summary": "Elon Musk’s SpaceX is telling investors it has lined up investment-grade ratings from three major bond graders, according to people with knowledge of the matter, which could help the company cut funding costs as it continues to raise financing after its initial public offering.",
+          "published": "2026-06-10T19:59:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "[스페이스X 상장] 테슬라 '머스크 프리미엄' 희석되나 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42TllQVS1VWmM4OFkzaVYzLXRKQ3VKWm9SRkM2Ql9DaVNZR0VqSFczeEMwRVhiWlZfc3FnbUlTWUVCSlNXXzE5YXhBVXJzRG9lc0J3TzUxcHhSZGFfY2FNWUNIcUtEVWZVa0ttNmRfZ2k?oc=5",
+          "summary": "[스페이스X 상장] 테슬라 '머스크 프리미엄' 희석되나 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-10T01:03:10+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Before Elon Musk’s SpaceX, these were the world’s 5 largest IPOs",
+          "link": "https://www.scmp.com/business/banking-finance/article/3356623/elon-musks-spacex-these-were-worlds-5-largest-ipos?utm_source=rss_feed",
+          "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. The coming initial public offering (IPO) from Elon Musk’s SpaceX, which is expected to break fundraising records on Friday with a size of around US$75 billion, marks the phenomenal rise of tech giants in the global capital markets. Previous blockbuster IPOs, as...",
+          "published": "2026-06-10T12:00:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "XAI Co-Founder Babuschkin Unveils New Startup for Personalized AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/xai-co-founder-babuschkin-unveils-new-startup-for-personalized-ai",
+          "summary": "A team of former employees from Elon Musk’s xAI have formed a new startup focused on personalized artificial intelligence, marking perhaps the most high-profile new venture yet from the wave of recent xAI departures.",
+          "published": "2026-06-10T20:57:24+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -27,38 +93,18 @@
           "event_labels": []
         },
         {
-          "title": "NASA Selects Crew for Artemis Mission to Test Moon Landers",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/nasa-picks-crew-for-2027-artemis-mission-to-test-moon-landers",
-          "summary": "NASA announced the four astronauts who will fly to space as soon as next year to test out moon landers built by SpaceX and Blue Origin &mdash; the next stage in the agency’s ambitious Artemis program to ultimately send humans back to the lunar surface.",
-          "published": "2026-06-09T16:37:40+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SpaceX IPO: views from the ground",
-          "link": "https://www.scmp.com/tech/big-tech/series/3356494/spacex-ipo-views-ground?utm_source=rss_feed",
-          "summary": "",
-          "published": "2026-06-09T08:14:43+00:00",
+          "title": "Shut out of the SpaceX IPO, Chinese investors get creative to catch a ride",
+          "link": "https://www.scmp.com/tech/article/3356580/shut-out-spacex-ipo-chinese-investors-get-creative-catch-ride?utm_source=rss_feed",
+          "summary": "This is part of a series on the global impact of SpaceX’s historic IPO, tracing how mainland Chinese investors’ strategies, the Hong Kong market and wider capital flows are being reshaped by Elon Musk’s trillion‑dollar rocket gamble. Chinese investors are scrambling for back-door routes to trade on SpaceX’s highly anticipated initial public offering (IPO), resorting to proxy stocks and supply chain speculation after being shut out of direct participation in what could be the largest listing in..",
+          "published": "2026-06-10T05:00:07+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
             "event_bonus": 2,
@@ -69,24 +115,26 @@
           ]
         },
         {
-          "title": "Wall Street’s undignified SpaceX mania",
-          "link": "https://www.economist.com/finance-and-economics/2026/06/09/wall-streets-undignified-spacex-mania",
-          "summary": "Is that a rocket in your lobby, or are you just happy to see me?",
-          "published": "2026-06-09T19:16:00+00:00",
-          "source_key": "economist_finance",
-          "source_name": "The Economist - Finance",
-          "source_weight": 2,
+          "title": "SpaceX IPO Whips Musk Fans Into Frenzy: ‘The More, the Better’",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/musk-stock-fans-say-the-more-the-better-in-spacex-ipo-frenzy",
+          "summary": "Anna Watts, a 33-year-old public relations manager in New York, has stashed away $6,500 to buy SpaceX stock after it hits the market Friday. If she had her way, she’d buy even more. She tried to borrow $5,000 from her best friend and applied for a bank loan, too, but both turned her away.",
+          "published": "2026-06-10T18:43:08+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 3,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
@@ -95,42 +143,20 @@
       "count": 8,
       "articles": [
         {
-          "title": "네이버는 엔비디아·AMD, 카카오는 구글·오픈AI...두 기업의 같은 길, 다른 동맹",
-          "link": "https://zdnet.co.kr/view/?no=20260609173128",
-          "summary": "[지디넷코리아]네이버와 카카오의 AI 협력 지도가 극명한 차이를 보이고 있다. 네이버는 엔비디아·AMD와 함께 데이터센터와 AI 팩토리 구축에 속도를 내고 있고, 카카오는 오픈AI·구글과 손잡고 카카오톡 기반 AI 서비스 확대에 주력하고 있다. 양사 모두 글로벌 빅테크와 협력하고 있지만, 인프라 경쟁력과 이용자 기반이라는 서로 다른 강점이 동맹 방향을 결정했다는 평가다.9일 IT업계에 따르면 젠슨 황 엔비디아 최고경영자(CEO)는 전날 제2사옥 네이버1784를 찾아 네이버와의 글로벌 AI 팩토리 구축 협력을 구체화했다. 네이버는 기가와트(GW)급 AI 팩토리 구축을 위해 데이터센터 ‘각 세종’을 기반으로 2027년 상반기 55MW 가동을 시작하고, 같은해 안에 100MW, 2028년 200MW까지 해외로 인프라 규모를 확장한다.앞선 3월 리사 수 AMD CEO도 AI 인프라 협력을 위해 네이버1784를 방문했다. 당시 양 측은 차세대 그래픽처리장치(GPU) 협력을 강화하기로 약속했다",
-          "published": "2026-06-09T08:55:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "AI Data Firm DDN Eyeing a Fresh Funding Round by End of Year",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/ai-data-firm-ddn-eyeing-a-fresh-funding-round-by-end-of-year",
+          "summary": "DDN, a data hardware and software provider that counts Nvidia Corp. as a partner and Alphabet Inc.’s Google and Salesforce Inc. as customers, is looking to raise additional funding by the end of the year, Chief Executive Officer Alex Bouzari said.",
+          "published": "2026-06-10T18:19:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 18,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "맥OS 27, 애플 실리콘 전용으로…인텔 맥 시대 막 내린다",
-          "link": "https://zdnet.co.kr/view/?no=20260609195434",
-          "summary": "[지디넷코리아]애플(Apple)이 차세대 운영체제 'macOS 27'을 애플 실리콘(Apple Silicon) 전용으로 내놓으며 인텔(Intel) 맥 시대를 마무리한다. 아스 테크니카(Ars Technica)에 따르면 다음 macOS를 설치하려면 M1 이상의 M 시리즈 칩이나 A18 프로 칩을 탑재한 맥북 네오(MacBook Neo)가 필요하다.macOS 27의 공식 명칭은 '골든 게이트(Golden Gate)'로, 애플 실리콘에서만 작동하는 첫 번째 macOS이자 인텔 앱을 구동하는 로제타 2(Rosetta 2) 기능을 온전히 지원하는 마지막 버전이다. 애플은 6월 8일 WWDC 2026에서 이를 공개했으며, 정식 배포는 9월로 예정돼 있다.로제타 2는 인텔용으로 만들어진 앱을 애플 실리콘에서도 돌아가게 해 주는 호환 기술로, 그동안 두 칩 사이를 잇는 다리 역할을 해 왔다. 이 기능을 온전히 지원하는 마지막 버전이라는 점에서, macOS 27은 전환기의 끝을 알리는 분기점으로 볼",
-          "published": "2026-06-09T10:54:34+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -139,10 +165,54 @@
           ]
         },
         {
-          "title": "Anthropic Releases Mythos-Like Model Without Cyber Capabilities",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/anthropic-releases-mythos-like-model-without-cyber-capabilities",
-          "summary": "Anthropic PBC is widely releasing a version of Mythos that will be blocked from carrying out cybersecurity tasks, months after warning that the powerful artificial intelligence model could spot and exploit vulnerabilities in critical software.",
-          "published": "2026-06-09T17:00:33+00:00",
+          "title": "Anthropic CEO Says Government Should Be Able to Block New Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/anthropic-ceo-says-government-should-be-able-to-block-new-models",
+          "summary": "Anthropic PBC Chief Executive Officer Dario Amodei said the government should have the power to block artificial intelligence developers from deploying new AI models if they present certain risks.",
+          "published": "2026-06-10T18:31:57+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Meta, X to Face Moratorium on Users Under 16 With New Canada Bill",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/meta-x-to-face-moratorium-on-users-under-16-with-new-canada-bill",
+          "summary": "Canadian Prime Minister Mark Carney’s government has introduced legislation that would ban social media for youth under 16 unless companies such as Meta Platforms Inc. and X Corp. meet a set of safety standards.",
+          "published": "2026-06-10T21:13:33+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "OpenAI Says China-Linked Accounts Aim to Fuel US Data Center Pushback",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/openai-says-china-linked-accounts-aim-to-fuel-us-data-center-pushback",
+          "summary": "OpenAI said a group of ChatGPT accounts with ties to China have sought to stir up local opposition to data centers in the US in a potential bid to hinder the country’s competitiveness in artificial intelligence, echoing recent rhetoric from others in the tech industry.",
+          "published": "2026-06-10T20:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -159,52 +229,34 @@
           "event_labels": []
         },
         {
-          "title": "WWDC 2026: Apple gives Siri an AI makeover, but China must wait",
-          "link": "https://www.scmp.com/tech/article/3356438/wwdc-2026-apple-gives-siri-ai-makeover-china-must-wait?utm_source=rss_feed",
-          "summary": "Apple has finally made its big move in the artificial intelligence (AI) tech race, unveiling a long-awaited reinvention of its Siri voice assistant. Introduced on Monday at Apple’s annual Worldwide Developers Conference (WWDC) in Cupertino, California, the new Siri AI abandons stiff, preprogrammed responses in favour of fluid conversations powered by Google’s Gemini model. The upgrade transforms Siri into an integrated companion capable of managing tasks across apps and maintaining continuous...",
-          "published": "2026-06-09T02:42:58+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "넵튠, 멀티버스 신무협 RPG '검신제로' 글로벌 퍼블리싱 계약 체결",
+          "link": "https://zdnet.co.kr/view/?no=20260610181552",
+          "summary": "[지디넷코리아]넵튠이 스팀 200만장 판매고를 올린 검증된 개발사와 손잡고 글로벌 무협 RPG 시장에 도전한다.넵튠(대표 강율빈)은 글로벌 게임 개발사 한가 다람쥐 스튜디오가 개발한 멀티버스 신무협 RPG '검신제로'의 글로벌 퍼블리싱 계약을 체결했다고 10일 밝혔다.2015년 설립된 한가 다람쥐 스튜디오는 무협 장르 중심의 게임을 개발해 온 회사로, 모바일 RPG '한가강호'와 PC MMORPG '샌드 오브 살자르'를 서비스 중이다. 모바일 무협 RPG 한가강호’는 글로벌 누적 다운로드 700만건, 누적 매출 450억원을 기록했으며, 판타지 오픈월드 싱글 게임 '샌드 오브 살자르'는 글로벌 게임 플랫폼 스팀에서 200만장 이상 판매된 바 있다.넵튠은 이번 계약을 통해 검신제로의 글로벌 퍼블리싱 판권을 취득했으며 연내 서비스를 시작할 계획이다. 현재 구글 플레이스토어에서 사전예약이 가능하며, 애플 앱스토어 사전예약은 이달 중 개시될 예정이다.이 게임은 수많은 영혼이 모여들고 각기 다",
+          "published": "2026-06-10T09:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
             "keyword": 6,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "Apple WWDC 2026 Recap: What’s Coming to iPhone, Mac and Other Devices",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/apple-wwdc-2026-recap-everything-coming-to-iphone-mac-apple-watch-and-more",
-          "summary": "Apple Inc. unveiled a new artificial intelligence strategy on Monday at its annual Worldwide Developers Conference, aiming to provide practical improvements and features that the company believes everyday consumers will actually use.",
-          "published": "2026-06-09T16:39:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아·네이버 맞손에 AI 커머스 주목…국내 업계 어디까지 왔나 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBubjVVU3IteUVGNkh6a1ZSWWw0V2ZRQTRrSUstTDYtWVhKdjJuRGxwMFZoem5sVGJMV3lHVC1XcEs1TVFtRzRhLXV6a1lDRVJ4dUtEQ3dLSms3TlRfYUQyNTVjeFpSYjdBcl9GWVdJdHg?oc=5",
-          "summary": "엔비디아·네이버 맞손에 AI 커머스 주목…국내 업계 어디까지 왔나 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-08T23:55:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "오픈AI, 엔비디아 지원으로 10GW급 역대 최대 데이터센터 구축 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Nm95UUg3LVRHN0RVaTkxNncteENLeTVYSjA4RVNOdFRWUU5tMkYzYnhwMm1PS3ZFZDhQdngxWkFmQ1RQakVpUUJ6NGQyY2F1ZlduRHk1eG4tYTNLdldyVjE3X3p0cEVqQ0E?oc=5",
+          "summary": "오픈AI, 엔비디아 지원으로 10GW급 역대 최대 데이터센터 구축 추진 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-10T09:32:05+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -219,30 +271,10 @@
           "event_labels": []
         },
         {
-          "title": "크레이머 \"엔비디아, 소버린AI가 새로운 성장 동력\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OVEMzRjhvWFhEOS1EQlNoZk8yOGo5MDVhZkVLdWlqZWhMQWF5V256S3k4WG4zMDlaVGl1ZG9yQ19OMWRPc3NBU1BZU3ZEMW9BU3lMY05fMHFzYXlmY3F5cm5fWFdRUlM0Q2lmMllhM2I?oc=5",
-          "summary": "크레이머 \"엔비디아, 소버린AI가 새로운 성장 동력\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-09T00:38:38+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta Ordered by EU to Halt WhatsApp Curbs on AI Rivals",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-09/meta-ordered-by-eu-to-halt-whatsapp-curbs-on-ai-rivals",
-          "summary": "Meta Platforms Inc. has been ordered by the European Union to temporarily halt policies that allegedly block rival AI firms from operating on its WhatsApp messaging service for businesses.",
-          "published": "2026-06-09T15:21:39+00:00",
+          "title": "Amazon’s Trucking Push Sparks New Slide in Transport Stocks",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-10/amazon-s-trucking-push-sparks-fresh-selloff-in-transport-stocks",
+          "summary": "Shares of several large trucking companies plunged on Wednesday after Amazon.com Inc. announced an expansion of its shipping service that has already shaken the transportation and logistics sector and unsettled investors.",
+          "published": "2026-06-10T12:09:36+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -253,6 +285,26 @@
             "keyword": 3,
             "source": 3,
             "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "정부가 그리는 AI 시대 '가상융합' 미래는…'2026 KMF' 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260610183941",
+          "summary": "[지디넷코리아]정부가 가상융합(XR) 최신 기술·산업 전략을 공유하는 자리를 마련한다.과학기술정보통신부는 12일까지 서울 코엑스 1층 B홀에서 '2026 대한민국 가상융합산업대전(KMF)'을 개최한다고 밝혔다. 올해로 11회째를 맞은 이번 행사는 '한계를 넘어, 새로운 현실로'를 슬로건으로 140개사 270부스 규모로 진행된다. XR 스마트글래스 체험존과 엔비디아, 유니티 등 국내외 연사진이 참여하는 컨퍼런스 등 XR 산업 현재와 미래를 한자리에서 조망할 수 있도록 구성됐다.전시회는 정부·공공기관과 학계·산업계의 성과를 한눈에 보여주는 거버넌스관, 가상융합 분야 선도·유망기업 기술을 선보이는 비즈니스관, CES·MWC 등 글로벌 무대에서 기술력을 인정받은 수상기업들이 모인 혁신관, 관람객이 첨단 기술을 직접 체험할 수 있는 체험관 등으로 이뤄졌다.부스에는 디지털 트윈 기반 VR 트럭 안전체험관, AR 스마트글라스용 광학 모듈, 체감형 영화 관람 시스템, 점자 촉각 패드 등이 전시된다",
+          "published": "2026-06-10T09:39:41+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -262,58 +314,39 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "China sounds alarm over AI ‘skills’ that evade guard rails and mine crypto",
+          "link": "https://www.scmp.com/tech/article/3356637/china-sounds-alarm-over-ai-skills-evade-guard-rails-and-mine-crypto?utm_source=rss_feed",
+          "summary": "China’s cybersecurity watchdog has warned against third-party AI “skills” packages that claim to bypass model safety guard rails and generate otherwise prohibited content, or provide access to cryptocurrency-mining functions, saying the tools expose users to data leaks and money-laundering risks. The National Computer Network Emergency Response Coordination Centre (CNCERT) issued the warning on Tuesday via its official WeChat account, highlighting the rapid emergence of a grey market for...",
+          "published": "2026-06-10T11:00:13+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "네이버, 문구페어 '인벤타리오' 후원...온-오프 이색 경험 제공",
-          "link": "https://zdnet.co.kr/view/?no=20260609172942",
-          "summary": "[지디넷코리아]네이버(대표 최수연)가 문구 페어 ‘인벤타리오 2026’에서 온·오프라인을 잇는 이색 경험을 제공한다.9일 네이버에 따르면, 지난해 처음 개최된 인벤타리오는 5일간 총 2만 5000여 명이 방문했다. 올해는 전년 대비 2배 이상 규모를 확대해 총 103개에 달하는 브랜드사가 참여한다.공식 후원사인 네이버는 관람객들이 한층 매끄럽고 몰입감 있게 행사를 경험할 수 있도록 행사 정보 탐색부터 행사장 방문, 제품 구매 및 후기 콘텐츠 제작에 이르기까지 온·오프라인 여정 전반을 지원한다.먼저 네이버 플레이스에서 예약 기능을 통해 관람 티켓을 예매할 수 있고, 행사 기간 운영하는 팝업 스토어 정보도 확인할 수 있다. 또 네이버 지도의 AR 내비게이션 기능을 활용해 코엑스 안에 위치한 행사장까지의 경로도 안내한다.관람객 확인과 체크인 절차도 네이버페이 안면 인식 출입·인증 기술 ‘페이스사인’으로 대폭 간소화했다. 네이버페이에 페이스사인을 미리 등록하면, 전용 패스트트랙으로 대기 없",
-          "published": "2026-06-09T08:41:16+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오, 창사 20년 만에 첫 파업…노사 여전히 평행선",
-          "link": "https://zdnet.co.kr/view/?no=20260609181115",
-          "summary": "[지디넷코리아]창사 이래 처음으로 카카오 노조가 파업에 나선다.9일 IT업계에 따르면 카카오 노동조합은 오는 10일 오전 10시부터 4시까지 부분 파업에 돌입한다. 한 시간 이른 9시부터 오후 4시까지 판교역 광장 인근에서 결의대회와 행진도 진행된다. 파업 시간 중 오전 11시 30분부터 낮 12시 30분까지는 판교역에서 시작해 유스페이스까지 약 800m를 행진한다.이번 파업에는 카카오 본사, 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인이 참가한다.지난달 28일 경기 지방노동위원회 2차 조정이 중단되면서 본사도 쟁의권을 확보한 것이 파업의 분수령이 됐다. 본사를 제외한 계열사 4곳은 이미 파업 찬성투표로 찬성이 가결된 상태였다.회사와 노조 측은 성과급 산정 기준과 보상 체계에 대한 합의를 찾지 못하면서 갈등의 골이 깊어졌다. 이들은 지난해 영업이익의 13~14%를 성과급으로 보상하는 방안과 500만원 규모의 양도제한조건부주식(RSU)를 성과급으로 산입할 ",
-          "published": "2026-06-09T09:24:38+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "문체부, 해외 5개국과 K-콘텐츠 저작권 침해 대응 논의",
-          "link": "https://zdnet.co.kr/view/?no=20260609173036",
-          "summary": "[지디넷코리아]문화체육관광부(문체부)가 해외 법집행기관과 함께 K-콘텐츠 저작권 침해 사범 검거를 위한 국제공조 방안을 논의했다. 문체부는 한국저작권보호원과 9일 서울 롯데호텔에서 ‘2026 저작권 보호 집행 국제공조회의’를 열고, 해외 불법유통 사이트 대응과 침해 사범 검거를 위한 공동작전 계획을 점검했다이번 회의는 온라인 저작권 침해가 국경을 넘어 이뤄지는 상황에서 해외 수사기관과 민간 콘텐츠업계의 협력 체계를 강화하기 위해 마련됐다. 문체부는 경찰청, 인터폴, 미국 국토안보수사국, 해외 수사기관과의 공조망을 바탕으로 K-콘텐츠 불법유통 조직과 운영자 추적을 이어간다는 방침이다.회의에는 태국, 인도네시아, 베트남, 필리핀, 네덜란드 등 해외 5개국 수사기관과 국제형사경찰기구 인터폴, 미국 국토안보수사국 한국지부가 참여했다.국내에서는 법무부, 대전지검, 경찰청 관계자가 참석했다. 민간 콘텐츠업계에서는 저작권해외진흥협회, 네이버웹툰, 카카오엔터테인먼트, 미국영화협회 등이 함께했다.오",
-          "published": "2026-06-09T08:30:36+00:00",
+          "title": "\"투자사가 고객\"...에임인텔리전스, LG전자·네이버 D2SF서 투자 유치",
+          "link": "https://zdnet.co.kr/view/?no=20260610224349",
+          "summary": "[지디넷코리아]AI보안 전문기업 에임인텔리전스(대표 유상윤)가 삼성벤처투자 주도의 시리즈 A 라운드를 마친지 한 달 만에 LG전자, 현대차그룹 제로원벤처스, 네이버 D2SF로부터 전략적 투자를 유치했다.이번 투자는 AI 보안이 주요 산업의 공통 인프라로 부상하며 수요가 본격화된 데 따른 것으로 풀이된다. 이번 전략적 투자에는 피지컬 AI, 모빌리티, 플랫폼·커머스 등 각 분야를 대표하는 기업들이 참여했다. 이 중 일부는 투자에 그치지 않고 실제 고객사로 협력을 이어가고 있다. 에임인텔리전스는 인공지능의 취약점을 탐지하고 차단하는 보안 솔루션을 개발해 산업 현장에 공급하는 AI 보안 전문 기업이다.10일 회사에 따르면, 국내외 20개 이상 기업 고객을 대상으로 금융, 통신, 제조, 공공 등 다양한 영역에 AI 보안 모델을 공급했다. 기업이 AI를 내부 업무 뿐 아니라 고객 상담 서비스, 결제 시스템, 물류 등 실제 산업 현장에 적용하면서 데이터 유출, 유해 응답, 권한 오남용을 사전에",
+          "published": "2026-06-10T13:43:49+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -321,34 +354,14 @@
           "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "지그재그 직진배송 효과 톡톡…중소 쇼핑몰 거래액 30% 늘었다",
-          "link": "https://zdnet.co.kr/view/?no=20260609172344",
-          "summary": "[지디넷코리아]지그재그의 빠른 배송 서비스 '직진배송'이 중소형 쇼핑몰 성장의 발판 역할을 하고 있는 것으로 나타났다. 직진배송을 도입한 중소형 스토어들의 거래액이 두 자릿수 성장세를 기록했으며, 일부 쇼핑몰은 수백 퍼센트에 달하는 매출 증가를 달성했다. 카카오스타일이 운영하는 스타일 커머스 플랫폼 지그재그는 직진배송을 이용하는 중소형 스토어들의 거래액이 크게 증가했다고 9일 밝혔다.지그재그가 2024년 월평균 거래액 2천만원 미만이었던 직진배송 스토어 가운데 지난해에도 거래를 이어간 55개 스토어를 분석한 결과, 2025년 월평균 거래액은 전년 대비 30% 증가한 것으로 집계됐다.이는 규모가 작은 쇼핑몰이라도 상품 경쟁력에 물류 경쟁력이 더해질 경우 충분히 성장할 수 있음을 보여주는 사례라고 회사 측은 설명했다.최근 빠른 배송에 대한 소비자 수요가 높아지면서 직진배송이 구매 전환율 향상에도 긍정적인 영향을 미친 것으로 분석된다.스토어별 성장세는 더욱 가파르게 나타났다. 쇼핑몰 '쇼",
-          "published": "2026-06-09T08:30:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "funding"
           ]
         }
       ]
