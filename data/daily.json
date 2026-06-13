@@ -1,88 +1,24 @@
 {
-  "generated_at": "2026-06-12T22:26:40.374471+00:00",
-  "total_articles": 21,
+  "generated_at": "2026-06-13T22:08:01.250878+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 3,
       "articles": [
         {
-          "title": "SpaceX Passes Tesla as Most Valuable Company in Musk’s Portfolio",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-passes-tesla-as-most-valuable-company-in-musk-s-portfolio",
-          "summary": "When it comes to the interconnected companies of Elon Musk, Tesla Inc. is no longer the big man on campus.",
-          "published": "2026-06-12T20:19:31+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "What to Know About SpaceX’s Record-Breaking IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/what-to-know-about-spacex-s-record-breaking-ipo",
-          "summary": "SpaceX had the largest stock-market debut in history when it went public on June 12. The company raised $75 billion in the initial public offering and ended its first day on the public markets with a market capitalization of around $2.2 trillion. The IPO turned SpaceX founder Elon Musk into the world’s first trillionaire.",
-          "published": "2026-06-12T22:16:11+00:00",
+          "title": "Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO",
+          "link": "https://www.bloomberg.com/news/features/2026-06-13/inside-the-spacex-ipo-why-elon-musk-raced-to-take-spacex-public",
+          "summary": "It was meant to happen once humans were regularly flying to Mars. Then the AI boom took off.&nbsp;",
+          "published": "2026-06-13T01:46:07+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Elon Musk becomes world’s first trillionaire after SpaceX IPO",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3356972/elon-musk-becomes-worlds-first-trillionaire-after-spacex-ipo?utm_source=rss_feed",
-          "summary": "In a post on the social media platform he owns, Elon Musk recently lamented: “Whoever said ‘money can’t buy happiness’ really knew what they were talking about.” Now the world’s richest person can put that maxim to an even bigger test as he adds a new title: world’s first trillionaire. Shares of SpaceX rose 19 per cent on Friday to US$160.95 each in their first day of trading, vaulting the value of the rocket and AI company Musk founded to US$2.2 trillion. His fortune now stands at the...",
-          "published": "2026-06-12T16:52:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "SpaceX Shares Close 19% Higher After Historic $75 Billion IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/spacex-ipo-spcx-prepares-for-debut-after-75-billion-ipo-smashes-record",
-          "summary": "SpaceX’s first day on the stock market transformed the startup into one of the world’s most-valuable public companies, handed buyers of the IPO a 19% return and turned its founder Elon Musk into the world’s first trillionaire.",
-          "published": "2026-06-12T09:00:21+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 3,
             "recency": 1,
             "event_bonus": 2,
@@ -93,18 +29,18 @@
           ]
         },
         {
-          "title": "From London to Sydney, Traders Ready to Watch SpaceX’s Debut",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/from-sydney-to-london-traders-ready-to-watch-spacex-s-debut",
-          "summary": "Investors and retail traders from across the US and around the world were glued to their screens on Friday as Elon Musk’s SpaceX started trading in the stock market after the biggest initial public offering in Wall Street history.",
-          "published": "2026-06-12T13:01:16+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "We’re All on Starship Elon Now",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
+          "summary": "SpaceX is coming to a mutual fund or 401(k) near you.",
+          "published": "2026-06-13T12:00:19+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -113,20 +49,20 @@
           "event_labels": []
         },
         {
-          "title": "The value of SpaceX rockets on its stock-market debut",
-          "link": "https://www.economist.com/business/2026/06/12/the-value-of-spacex-rockets-on-its-stock-market-debut",
-          "summary": "Elon Musk has become the world’s first trillionaire",
-          "published": "2026-06-12T16:04:44+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "토큰증권업계도 스페이스X 청약 무산…바이낸스 총 100만달러 보상 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83RjZBZWM1RDY4ZS1IdnljWllCSHdNZHFSQVliQTR0RUI2Q3I0R3pUMjhlQWZaZ000MGVfSjc4NENIT01Fa2xwYThLb1JUTFpJMDBvYUFkWUd2SEpPbXQyRkFOTFYtdlE3S2dsTGpHSzI?oc=5",
+          "summary": "토큰증권업계도 스페이스X 청약 무산…바이낸스 총 100만달러 보상 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-13T02:36:23+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 12,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -139,42 +75,41 @@
       "count": 8,
       "articles": [
         {
-          "title": "바이낸스 스페이스X·삼전 주식 토큰 하루 거래액, 웬만한 '중견기업' 시총",
-          "link": "https://zdnet.co.kr/view/?no=20260612144618",
-          "summary": "[지디넷코리아]코스피 지수 급등과 스페이스X 기업공개(IPO) 열풍으로 국내외 증시로 자금이 이동하면서 글로벌 가상자산 거래소가 사업 영역을 주식시장으로 넓히고 있다. 반면 국내 거래소는 규제 공백에 막혀 현물 거래 서비스에 머물러 있다.13일 가상자산 업계에 따르면 바이낸스에서 거래되는 스페이스X 파생상품의 하루 거래대금은 3억 2304만 달러(약 4913억원)를 기록했다. 삼성전자와 SK하이닉스를 기초자산으로 한 파생상품 거래대금도 각각 2152만 달러(약 327억원), 1억 3052만 달러(약 1985억원)에 달한다.세 상품의 하루 거래대금을 합산하면 4억 7508만 달러(약 7226억원)로, 국내 5대 원화 가상자산 거래소의 하루 거래대금 약 11억 8413만 달러(약 1조 8011억원)의 40% 수준이다. 바이낸스는 최근 스페이스X를 비롯해 구글, 애플 등 미국 주요 기업과 삼성전자, SK하이닉스 등 국내 기업을 기초자산으로 한 무기한 선물 상품을 잇따라 출시했다. 투자자는",
-          "published": "2026-06-12T21:00:02+00:00",
+          "title": "앤트로픽, 미국 정부 지침에 '페이블 5' 서비스 전면 중단",
+          "link": "https://zdnet.co.kr/view/?no=20260613201028",
+          "summary": "[지디넷코리아]미국 행정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블5(Fable 5)'와 '미토스5(Mythos 5)'에 대해 외국인의 접근을 전면 금지했다.13일(한국시간) 앤트로픽은 공식 웹사이트를 통해 미국 정부로부터 수출통제 지침을 받았다고 밝혔다.앤트로픽에 따르면 해당 지침은 미국 내외를 막론하고 앤트로픽 직원까지 포함한 모든 외국 국적자의 페이블5 및 미토스5 접근을 전면 차단하라는 내용이다. 클로드 소넷 등 다른 앤트로픽 서비스는 이번 조치 대상에 포함되지 않았다.회사는 정부 명령을 이행하기 위해 일부 이용자만 제한하는 수준이 아니라 전체 고객을 대상으로 관련 모델 사용을 비활성화했다고 설명했다. 앤트로픽 측은 규정 준수를 위한 불가피한 결정이라고 강조했다.이번 조치는 미국 당국이 해당 모델의 보안상 위험 가능성을 문제 삼으면서 이뤄졌다. 앤트로픽은 정부가 페이블5에 대한 이른바 '탈옥(jailbreaking)' 가능성을 인지한 것으로 보고",
+          "published": "2026-06-13T13:07:55+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 5,
             "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
-            "funding"
+            "regulation"
           ]
         },
         {
-          "title": "China’s Nvidia challenger MetaX eyes Hong Kong share sale to fund AI ambitions",
-          "link": "https://www.scmp.com/tech/article/3356961/chinas-nvidia-challenger-metax-eyes-hong-kong-share-sale-fund-ai-ambitions?utm_source=rss_feed",
-          "summary": "MetaX, a Shanghai-based graphics processing unit (GPU) designer, said on Friday that it plans to pursue a Hong Kong listing, less than half a year after its debut on Shanghai’s technology-focused Star Market. The company said in a filing that the proposed H-share offering would support its business expansion, strengthen corporate governance and competitiveness, and advance its international growth strategy. MetaX plans to issue H shares equivalent to no more than 5 per cent of its enlarged share",
-          "published": "2026-06-12T13:44:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
+          "summary": "Days after filing confidentially to go public, Anthropic, the $965 billion artificial intelligence juggernaut that’s one of the fastest-growing startups of all time, dropped another bombshell.",
+          "published": "2026-06-13T11:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -182,10 +117,72 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic’s Claude Fable 5 curbs to create new hurdles for China’s AI labs",
-          "link": "https://www.scmp.com/tech/big-tech/article/3356900/anthropics-claude-fable-5-curbs-create-new-hurdles-chinas-ai-labs?utm_source=rss_feed",
-          "summary": "Anthropic’s move to restrict access to its cutting-edge model, Claude Fable 5, is expected to create new hurdles for Chinese artificial intelligence labs, experts say, even as the US firm walks back part of its enforcement plan following a backlash from the global AI research community. Earlier this week, Anthropic released Claude Fable 5, the public-facing version of Mythos – the company’s most powerful model to date. First announced in April but withheld from general use, Mythos alarmed...",
-          "published": "2026-06-12T08:59:29+00:00",
+          "title": "OpenAI Probed by Coalition of State Attorneys General",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
+          "summary": "OpenAI is under investigation by a coalition of state attorneys general who requested information from the artificial intelligence company on a wide range of topics.",
+          "published": "2026-06-13T00:27:02+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, ‘제미나이’ 악용한 중국 범죄 조직에 소송…FBI·통신사 공동 대응 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11MWJUY1o5cUJUR2pvMUhBRXdhWTlndzVXQUVwcktBRkluclREQVY2QXRSV1JtYU0wNzAtRVdDT3pwYzE3YTNJQ0V1dk9BMVdzU2ZUVlBZVEFGbzFJM3VRX3FmNWRPRW54Y0E?oc=5",
+          "summary": "구글, ‘제미나이’ 악용한 중국 범죄 조직에 소송…FBI·통신사 공동 대응 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-13T02:35:27+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oX0dyOGNDcGZVdm9PeTJfUWZqMVRSMEtldVdvQXluN2kwRXJtcmZ5Z2RVTGtqSUJ3UzNLb0ZHMjFFOGtaRGVUZ3hlQ3NIWlgwRGNLcUFLUEdubk5TUV9Hbl9WWlBCa1QwNmc?oc=5",
+          "summary": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-13T04:18:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
+          "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
+          "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
+          "published": "2026-06-13T05:06:27+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -202,124 +199,18 @@
           "event_labels": []
         },
         {
-          "title": "Huawei arms HarmonyOS with 2,000 AI agents in challenge to Apple",
-          "link": "https://www.scmp.com/tech/article/3356952/huawei-arms-harmonyos-2000-ai-agents-challenge-apple?utm_source=rss_feed",
-          "summary": "Huawei Technologies unveiled HarmonyOS 7 on Friday, a major upgrade to its self-developed mobile operating system that the company said marks its entry into the “agent era”, as the Chinese technology giant ramps up competition with Apple’s latest iOS 27 software. The new platform introduces an “agent-friendly” architecture and a significantly enhanced voice assistant capable of understanding context, remembering past interactions and connecting with more than 2,000 specialised AI agents,...",
-          "published": "2026-06-12T12:30:12+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 삼성과 차세대 TPU 생산 협력 논의...'2나노 공정' 타진 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CZzN2eEFMMDJJclZjZjBaTG1uS29IMElSRUw5UnRtM1pqSkZuV2tUSlh1SG9iX19zOWluTzItMUs1WUozS2l3b0dsWkVhNWhjYkx5VUdiX21VVkYtNUlOYXpHMjBiWFNKRGc?oc=5",
-          "summary": "구글, 삼성과 차세대 TPU 생산 협력 논의...'2나노 공정' 타진 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-12T03:28:03+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1yd3Y5QW1vcGZhSEZDWU05ckNEUHJVM3RVWllpYjJkMlJ3aVd0ZUhURy1nYm5BX1drcEhjdWxCYzhUYldjRVk0bVJLS1ZYQWF1RFpPa1dXa216VGNWS3Bub0tMTFZfY3k4MVE?oc=5",
-          "summary": "구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄” &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-12T04:38:43+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "앤트로픽도 자체 데이터센터 구축...구글이 '신용 보증' - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Jb3ZpZ0ZaUldoZTQ4QnlPdGpLNUZDc29pVk1iQkI0R1pjaWZCR2Zpajc2TGlONndUb29FY0ItbjZrX01LMzhaMUlQazc0UWQ0LXBzQlI1akN5Uzc0WElTZFJnbzg4cURKVEE?oc=5",
-          "summary": "앤트로픽도 자체 데이터센터 구축...구글이 '신용 보증' &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-12T05:23:34+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[현장] 컨포트랩, '공장특화 AI OS' 제시...제조 AX 기간·비용 3분의 1로",
-          "link": "https://zdnet.co.kr/view/?no=20260612162243",
-          "summary": "[지디넷코리아]컨포트랩이 제조 현장 인공지능(AI) 전환(AX) 도입 기간과 비용을 기존 대비 3분의 1 수준으로 줄일 수 있는 '공장특화 AI 운영체제(OS)'를 앞세워 파트너 생태계 확장에 나섰다.컨포트랩은 12일 서울 강남구 코엑스 스튜디오 159에서 '포타 커넥트(PORTA CONNECT) 2026'을 성황리에 개최하고, 산업용 AI OS '포타(PORTA)'를 앞세운 제조 AI 전환 전략과 파트너 협업 모델을 제시했다.김희중 컨포트랩 대표는 현재 제조 현장은 인프라 구성부터 데이터 수집, 모델링, 애플리케이션 개발까지 일일이 쌓아 올려야 하는 일종의 시스템 통합(SI)프로젝트라고 설명했다.이런 방식은 각 공장마다 구축된 환경이 달라 현장마다 엔지니어가 다수 투입돼 처음부터 새로 맞춤형 개발이 이뤄진다. 이는 대규모 지출과 시간 소요로 이어지면서 기대 효과(ROI)마저 불확실해 중소기업이 선뜻 나서기 힘들다는 지적이다.컨포트랩은 이러한 구조적 한계를 줄이기 위한 해법으로 '공",
-          "published": "2026-06-12T07:47:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "Tether’s Brief Flip of Ether in Value Gives Crypto a Reality Check",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/tether-usdt-stablecoin-briefly-overtakes-ethereum-eth-in-market-value",
-          "summary": "For a few hours last weekend, Tether’s USDT stablecoin became more valuable than Ether.",
-          "published": "2026-06-12T11:05:07+00:00",
+          "title": "Google Search Gets AI Makeover, and the World Cup Comes to North America",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america",
+          "summary": "It’s been a big week for Google and the World Cup.",
+          "published": "2026-06-13T12:00:01+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 15,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -328,40 +219,18 @@
           "event_labels": []
         },
         {
-          "title": "Bitcoin Bottom Hunters Are Eyeing Up AI Frenzy,  SpaceX IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-12/bitcoin-bottom-hunters-are-eyeing-up-ai-frenzy-and-spacex-ipo",
-          "summary": "Bitcoin’s rebound this week from the depths of despair below $60,000 has reignited a familiar Wall Street ritual: trying to call the bottom.",
-          "published": "2026-06-12T14:38:29+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "“결국 6만달러도 무너졌다”…고점 대비 반토막 난 비트코인 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HMkxYMmZBQThZMm44QUsybWN5SXp6TmxGMGlzT3h0Ry1mT20zZnd6NGNLcG1rY2FhRGx5clM5TVUwc2NCNjdnWGp4T21pZWcycFE?oc=5",
-          "summary": "“결국 6만달러도 무너졌다”…고점 대비 반토막 난 비트코인 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-12T21:54:11+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSlpBX3FTOTh3RGl2cmVTbEhoT09tZG0xczc2REdhNmRGcTdoN1V0ZVB3aEJfUFUxOFo3ZnNkVS1QMDV2NXQySW1MYUZnOC1UdFRBNXpHTExZU0JQVEF6bDBzMG5wSUFva1E?oc=5",
+          "summary": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-13T21:24:10+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -371,100 +240,107 @@
         }
       ]
     },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "샘 알트먼 방한 연기…오픈AI \"불가피한 개인 사정\"",
-          "link": "https://zdnet.co.kr/view/?no=20260612170931",
-          "summary": "[지디넷코리아]샘 알트먼 오픈AI 최고경영자(CEO)가 오는 14~15일로 예정했던 방한 일정을 연기했다.12일 정보기술(IT) 업계에 따르면 오픈AI는 알트먼 CEO의 불가피한 개인 사정으로 한국을 비롯한 아시아 방문 일정을 연기하게 됐다. 구체적인 사유와 추후 방한 시점은 공개되지 않았다.애초 계획에 따르면 알트먼 CEO는 오는 14일 밤 입국한 뒤 다음 날인 15일 하루 동안 카카오와 삼성전자, 네이버 등 국내 주요 기업을 만날 예정이었다. 우선 이날 오전 카카오 판교아지트에서 정신아 대표를 만나 카카오톡 기반 챗GPT 협력 확대 방안을 논의할 계획이었다. 삼성전자 디지털시티에서 열리는 'DX 인사이트 토크'에 연사로 참석해 AI 기반 업무 혁신을 주제로 임직원들에게 강연하는 일정도 있었다. 강연 전후로는 전영현·노태문 대표 등 삼성전자 경영진과 면담이 계획된 것으로 알려졌다. 같은 날 네이버1784를 찾아 최수연 대표와 협력 방안을 타진하는 일정도 거론됐다. 오픈AI는 알트먼",
-          "published": "2026-06-12T08:11:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "美정부, 앤트로픽 최신 AI ‘미토스·페이블’ 외국인 접속 전면 금지 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVkpNTkptRjVEaW5ZZGQ3SlY1MEI4aEZpYndhRk5XQmxiVWZSUjk1ckQ5Z3Z4UTkzZUhFaVVoRkFZODhtbjB3MUVPNHotUQ?oc=5",
+          "summary": "美정부, 앤트로픽 최신 AI ‘미토스·페이블’ 외국인 접속 전면 금지 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-13T02:08:09+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "제미나이 밀어낸 '클로드'…국내 AI 시장 2위 격변, 비결은",
-          "link": "https://zdnet.co.kr/view/?no=20260612173511",
-          "summary": "[지디넷코리아]앤트로픽 인공지능(AI) 챗봇 '클로드'가 국내 생성형 AI 앱 시장에서 구글 '제미나이'를 제치고 매출 2위에 올랐다.12일 시장조사업체 센서타워에 따르면 클로드는 올해 들어 현재까지 국내 아이폰 이용자 기준 생성형 AI 앱 매출에서 오픈AI '챗GPT'에 이어 2위를 기록했다. 매출 성장률은 1위다. 그간 국내 시장에서 챗GPT 1위, 제미나이 2위로 굳어져 있던 순위가 바뀐 것이다.클로드는 지난달 5일 하루 국내 매출 10만 4000달러(약 1억 6000만원)를 기록하며 역대 최고치를 경신했다. 전날 대비 두 배 이상 늘어난 규모다.매출 확대는 기존 이용자의 결제 증가가 이끌었다. 다운로드 수와 이용자 수는 이전과 비슷했지만 유료 구독 전환과 상위 요금제 업그레이드가 늘면서 매출이 상승했다. 코딩 기능을 주로 쓰는 개발자층을 중심으로 월 220달러 '맥스 20x' 등 고가 요금제 수요가 늘어난 영향으로 풀이된다.앤트로픽은 올해 '오퍼스 4.8', '미토스 프리뷰'",
-          "published": "2026-06-12T09:01:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
+            "source": 2,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "regulation"
           ]
-        },
-        {
-          "title": "482만명 몰린 월드컵 중계, 끊김 없던 비결 'CDN'",
-          "link": "https://zdnet.co.kr/view/?no=20260612170915",
-          "summary": "[지디넷코리아]2026 북중미 월드컵 개막과 함께 네이버 치지직에 이용자 수백만 명이 몰린 가운데 대규모 트래픽을 안정적으로 처리하는 '콘텐츠 전송 네트워크(CDN)' 기술의 중요성이 주목받고 있다.12일 업계에 따르면 GS네오텍은 네이버 치지직 월드컵 중계 서비스에 CDN을 제공하며 대규모 트래픽 대응을 지원하고 있다. 치지직은 서비스 안정성을 위해 복수 사업자를 활용하는 멀티 CDN 구조를 운영 중이며 GS네오텍은 이 가운데 한 축을 맡고 있다.이날 열린 한국과 체코의 북중미 월드컵 조별리그 경기에서 치지직은 최고 동시접속자 수 482만 명을 기록했다. 이는 지난해 리그오브레전드(LoL) 월드 챔피언십 당시 기록한 76만 명을 크게 웃도는 수치다.CDN은 영상과 같은 대용량 콘텐츠를 이용자와 가까운 서버에서 전달하는 기술이다. 특정 경기나 이벤트로 트래픽이 급증하더라도 서버 부하를 분산해 끊김 없는 시청 환경을 제공한다.GS네오텍은 국내 대표 CDN 사업자 중 하나로, 자체 CD",
-          "published": "2026-06-12T08:12:37+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버 신기술과 옛 문구류 감성에 빠지다…'인벤타리오' 가보니",
-          "link": "https://zdnet.co.kr/view/?no=20260612161400",
-          "summary": "[지디넷코리아]“오늘은 어떤 질문으로 이야기를 써볼까요?”12일 서울 강남구 코엑스에 마련된 문구 페어 ‘인벤타리오 2026’ 전시장 도입부에 위치한 네이버 라운지는 이같은 질문을 던지며 관람객들을 반겼다. 현장에는 얼굴 인식으로 입장부터 결제까지 모두 가능한 네이버의 신기술과 손으로 기록하는 아날로그 감성이 서로 연결되며, 기술 넘어선 기록의 가치를 엿볼 수 있었다.인벤타리오는 물품 및 문건에 관한 기록물과 목록이라는 의미를 가진 스페인어로, 지난해 첫 개최 후 다양한 창작 도구와 문구 브랜드를 한 자리에서 보여주는 큐레이션 행사로 자리잡았다.지난 10일부터 오는 14일까지 이어지는 올해 행사는 2030 여성이 주요 타겟층으로, 전년 대비 규모를 2배 이상 확대해 총 103개 브랜드가 참여했다. 높은 관심을 반증하듯이 행사가 문을 열기 한 시간 전인 오전 10시부터 전시장에 입장하기 위해 기다리는 관람객들이 대기장을 빼곡히 매운 모습을 볼 수 있었다.대기장 옆에는 올해 메인 스폰서",
-          "published": "2026-06-12T08:15:50+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "미래에셋證, 스페이스X 물량 0…한투·미래에셋자산운용 ETF까지 '일파만파'",
+          "link": "https://zdnet.co.kr/view/?no=20260613192226",
+          "summary": "[지디넷코리아]미래에셋증권이 12일(현지시간) 나스닥에 상장한 스페이스엑스(Space X) 공모주 물량을 배정받지 못함에 따라, 미래에셋증권과 공동 기업공개상장(IPO) 인수단으로 참여한 한국투자신탁운용·미래에셋자산운용 상장지수펀드(ETF)까지 타격을 입었다.13일 금융투자업계에 따르면 미래에셋증권은 공동 인수단을 꾸려 공모주 물량 배정을 대기했으나, 결국 공모주를 배정받지 못해 고객이 납입한 청약 증거금을 이날 새벽 전액 환불 처리하는 절차를 밟았다.스페이스X 물량 배정을 기다렸던 미래에셋증권 금융소비자뿐만 아니라 미래에셋증권 공모주 물량을 통해 ETF를 운용하고자 했던 한국투자신탁운용·미래에셋자산운용과 해당 ETF를 구매했던 금융소비자까지 차질을 빚었다.한국투자신탁운용 등은 미래에셋증권을 국내 주관사로 해 공모주 신청을 했다. 그렇지만 미국 현지 펀딩이 마무리되는 최종 배정단계서 한국 인수단 전체에는 판매 가능한 물량을 배정하지 않는다는 결정을 통보받았다는 것이 한국투자신탁운용 ",
+          "published": "2026-06-13T10:41:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "미래에셋 '스페이스X 0주' 쇼크에…금감원 경위 파악 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTM5by1YS0NPVS1rMzgyVjhYamN6aDl4VTBGcGhNbDBkaVNXcWp0aXh4YVBVY1kxU29FZ1dyYzVFcTdMaUY0cDZhV1A5a2tyUEVZZ3dtQkg0UHhTSXh6ZHB0RU1kVFFoUmZVM1U4ZXk?oc=5",
+          "summary": "미래에셋 '스페이스X 0주' 쇼크에…금감원 경위 파악 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-13T09:45:14+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "청약 번복 '초유의 사태'…미래에셋, 스페이스X發 주가·평판 리스크 돌출 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdVJSOFBndm5FQlQ2SEl4QkI4WGNEblk0RHZQeVpmNElMRFRrMWZnZndQX19VcW1WLTVnMDJTV1YxYjh6N1ZXOElkVlRXSEt5YU1ZSWl5NUFUTEpTTXlzRkw2SUF0OGlYNFJyT1pGZnc?oc=5",
+          "summary": "청약 번복 '초유의 사태'…미래에셋, 스페이스X發 주가·평판 리스크 돌출 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-13T05:04:50+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": -2
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
