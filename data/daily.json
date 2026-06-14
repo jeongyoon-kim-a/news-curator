@@ -1,26 +1,49 @@
 {
-  "generated_at": "2026-06-13T22:08:01.250878+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-06-14T22:15:56.152895+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 5,
       "articles": [
         {
-          "title": "Why Musk Raced to Take SpaceX Public in the World’s Biggest IPO",
-          "link": "https://www.bloomberg.com/news/features/2026-06-13/inside-the-spacex-ipo-why-elon-musk-raced-to-take-spacex-public",
-          "summary": "It was meant to happen once humans were regularly flying to Mars. Then the AI boom took off.&nbsp;",
-          "published": "2026-06-13T01:46:07+00:00",
+          "title": "Stock Market Moves On From SpaceX With Iran Deal, Fed in Focus",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-14/stock-market-moves-on-from-spacex-with-iran-deal-fed-in-focus",
+          "summary": "After SpaceX and its bankers pulled off the largest-ever IPO without a hitch last week, investors are returning their focus back to Earth.",
+          "published": "2026-06-14T22:00:00+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 9,
+          "score": 14,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "Equity Funding Squeeze Driven By AI Rally, SpaceX IPO Stretches Banks",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-14/s-p-500-funding-squeeze-driven-by-ai-rally-spacex-ipo-stretches-banks",
+          "summary": "The cost to fund US equity positions is surging unexpectedly, as a combination of the AI-driven stock rally, the massive growth of leveraged ETFs and SpaceX’s $75 billion public listing tests Wall Street’s market plumbing.",
+          "published": "2026-06-14T14:00:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -29,32 +52,52 @@
           ]
         },
         {
-          "title": "We’re All on Starship Elon Now",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-13/spacex-ipo-shows-wall-street-still-can-t-get-enough-of-elon-musk",
-          "summary": "SpaceX is coming to a mutual fund or 401(k) near you.",
-          "published": "2026-06-13T12:00:19+00:00",
+          "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
+          "summary": "Friday’s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia’s richest men.",
+          "published": "2026-06-14T07:33:34+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "토큰증권업계도 스페이스X 청약 무산…바이낸스 총 100만달러 보상 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83RjZBZWM1RDY4ZS1IdnljWllCSHdNZHFSQVliQTR0RUI2Q3I0R3pUMjhlQWZaZ000MGVfSjc4NENIT01Fa2xwYThLb1JUTFpJMDBvYUFkWUd2SEpPbXQyRkFOTFYtdlE3S2dsTGpHSzI?oc=5",
-          "summary": "토큰증권업계도 스페이스X 청약 무산…바이낸스 총 100만달러 보상 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-13T02:36:23+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "[뉴스&분석] 스페이스X 축포 쐈지만…'한국은 0주' 후폭풍 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpY3pGanZUVFIwZ3JYU1R4SXlHMlVxdnZ2V0xFZDlTYzRxeFNPTkdmV2FGaUtpVHN3Si0zWU4tS0ZKRzV3dVdobUFMWWlERXo1VlE?oc=5",
+          "summary": "[뉴스&분석] 스페이스X 축포 쐈지만…'한국은 0주' 후폭풍 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-14T08:26:57+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[뉴스&분석] 스페이스X 축포 쐈지만…'한국은 0주' 후폭풍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81UTNaSW1ZU2FTQ0VQLW5oQ1EwMFVnWkxjclM4WjRBVG51UjUxdGVXa3hyTjdQM0NlYVBIeGRSZHVNS0dXaUdlNGwxT2s2NUt2emc?oc=5",
+          "summary": "[뉴스&분석] 스페이스X 축포 쐈지만…'한국은 0주' 후폭풍 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-14T08:26:57+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -75,10 +118,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "앤트로픽, 미국 정부 지침에 '페이블 5' 서비스 전면 중단",
-          "link": "https://zdnet.co.kr/view/?no=20260613201028",
-          "summary": "[지디넷코리아]미국 행정부가 앤트로픽(Anthropic)의 최상위 인공지능(AI) 모델인 '페이블5(Fable 5)'와 '미토스5(Mythos 5)'에 대해 외국인의 접근을 전면 금지했다.13일(한국시간) 앤트로픽은 공식 웹사이트를 통해 미국 정부로부터 수출통제 지침을 받았다고 밝혔다.앤트로픽에 따르면 해당 지침은 미국 내외를 막론하고 앤트로픽 직원까지 포함한 모든 외국 국적자의 페이블5 및 미토스5 접근을 전면 차단하라는 내용이다. 클로드 소넷 등 다른 앤트로픽 서비스는 이번 조치 대상에 포함되지 않았다.회사는 정부 명령을 이행하기 위해 일부 이용자만 제한하는 수준이 아니라 전체 고객을 대상으로 관련 모델 사용을 비활성화했다고 설명했다. 앤트로픽 측은 규정 준수를 위한 불가피한 결정이라고 강조했다.이번 조치는 미국 당국이 해당 모델의 보안상 위험 가능성을 문제 삼으면서 이뤄졌다. 앤트로픽은 정부가 페이블5에 대한 이른바 '탈옥(jailbreaking)' 가능성을 인지한 것으로 보고",
-          "published": "2026-06-13T13:07:55+00:00",
+          "title": "Carney Says Anthropic Ban Shows Risk of Relying on Big AI Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-14/carney-says-anthropic-ban-shows-risk-of-relying-on-big-ai-models",
+          "summary": "Prime Minister Mark Carney said the US export ban blocking all foreign access to Anthropic PBC’s latest artificial intelligence models underscores the risk of depending on just a handful of powerful AI tools.",
+          "published": "2026-06-14T17:02:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "문 열린 외산 클라우드, 발 묶인 공공시장…보안 개편 영향은",
+          "link": "https://zdnet.co.kr/view/?no=20260614110340",
+          "summary": "[지디넷코리아]공공기관의 민간 클라우드 활용이 확대되면서 디지털서비스 이용지원시스템에 등록된 외산 인프라서비스(IaaS)도 빠르게 늘고 있다. 정부가 공공 클라우드 보안 체계를 기존 클라우드보안인증(CSAP) 중심에서 국가정보원 단일 검증 체계로 개편하기로 하면서, 외국계 클라우드 기업들의 공공시장 확대 기대와 시장 관망론이 동시에 커지는 분위기다.14일 디지털서비스 이용지원시스템에 따르면 현재 아마존웹서비스(AWS), 마이크로소프트(MS), 구글클라우드 기반 IaaS 서비스가 다수 등록돼 있다. 디지털서비스 이용지원시스템은 국가기관과 공공기관이 민간 클라우드와 인공지능(AI), 서비스형 소프트웨어(SaaS) 등을 신속하게 도입할 수 있도록 지원하는 전문계약 제도다.현재 AWS 기반 IaaS 서비스는 메가존클라우드와 가비아, 디딤365, 엔디에스 등을 포함해 6개가 등록돼 있다. MS 애저 기반 서비스는 클루커스와 에쓰핀테크놀로지 등 4개, 구글클라우드 기반 서비스는 LG CNS와 ",
+          "published": "2026-06-14T02:07:27+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -86,50 +151,8 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 9,
             "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Global Capitalism Bets It All on AI Future Alarming Voters",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "summary": "Days after filing confidentially to go public, Anthropic, the $965 billion artificial intelligence juggernaut that’s one of the fastest-growing startups of all time, dropped another bombshell.",
-          "published": "2026-06-13T11:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Probed by Coalition of State Attorneys General",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-13/openai-probed-by-coalition-of-state-attorneys-general",
-          "summary": "OpenAI is under investigation by a coalition of state attorneys general who requested information from the artificial intelligence company on a wide range of topics.",
-          "published": "2026-06-13T00:27:02+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -137,77 +160,77 @@
           "event_labels": []
         },
         {
-          "title": "구글, ‘제미나이’ 악용한 중국 범죄 조직에 소송…FBI·통신사 공동 대응 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11MWJUY1o5cUJUR2pvMUhBRXdhWTlndzVXQUVwcktBRkluclREQVY2QXRSV1JtYU0wNzAtRVdDT3pwYzE3YTNJQ0V1dk9BMVdzU2ZUVlBZVEFGbzFJM3VRX3FmNWRPRW54Y0E?oc=5",
-          "summary": "구글, ‘제미나이’ 악용한 중국 범죄 조직에 소송…FBI·통신사 공동 대응 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-13T02:35:27+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oX0dyOGNDcGZVdm9PeTJfUWZqMVRSMEtldVdvQXluN2kwRXJtcmZ5Z2RVTGtqSUJ3UzNLb0ZHMjFFOGtaRGVUZ3hlQ3NIWlgwRGNLcUFLUEdubk5TUV9Hbl9WWlBCa1QwNmc?oc=5",
-          "summary": "구글, AI 환각 잡는 ‘메타인지’ 제시…“에이전트 시대 필수 조건” &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-13T04:18:08+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "US blocks foreign access to Anthropic’s newest AI models over security risks",
-          "link": "https://www.scmp.com/tech/article/3356990/us-blocks-foreign-access-anthropics-newest-ai-models-over-security-risks?utm_source=rss_feed",
-          "summary": "Washington has ordered Anthropic – a leading entity in America’s AI sector – to block all foreign nationals from accessing its latest models, Fable 5 and Mythos 5, citing national security concerns, according to the Silicon Valley-based firm. The unprecedented export-control measure – the first to target specific AI models – came just days after Anthropic released the models, underscoring Washington’s increasingly hands-on approach to regulating frontier artificial intelligence...",
-          "published": "2026-06-13T05:06:27+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google Search Gets AI Makeover, and the World Cup Comes to North America",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-13/google-search-gets-ai-makeover-and-the-world-cup-comes-to-north-america",
-          "summary": "It’s been a big week for Google and the World Cup.",
-          "published": "2026-06-13T12:00:01+00:00",
+          "title": "SpaceX and OpenAI Are Ending Wall Street’s Era of Stock Scarcity",
+          "link": "https://www.bloomberg.com/news/features/2026-06-14/spacex-open-ai-anthropic-ipos-have-wall-street-bullish-on-equities-again",
+          "summary": "The stock&nbsp;market is starting to expand again after years of shrinking &mdash; and potentially at a scale not seen since the dot-com era.",
+          "published": "2026-06-14T19:00:17+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Donald Trump has cut off access to the world’s best AI model",
+          "link": "https://www.economist.com/business/2026/06/14/donald-trump-has-cut-off-access-to-the-worlds-best-ai-model",
+          "summary": "America’s closest allies have been blocked from Anthropic’s Mythos",
+          "published": "2026-06-14T18:56:34+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 중국 정부 압박에 20억 달러 규모 '마누스' 인수 철회 착수",
+          "link": "https://zdnet.co.kr/view/?no=20260614153424",
+          "summary": "[지디넷코리아]메타가 20억 달러(2조7000억원) 규모 인공지능(AI) 스타트업 인수 계약을 백지화하는 작업에 착수했다. 국가 안보를 이유로 중국 정부가 내린 강제 매각 명령에 따른 조치다.14일 테크리퍼블릭 등 외신에 따르면 메타는 중국 AI 스타트업 버터플라이 이펙트와의 운영 분리를 완료하고 데이터 공유를 전면 중단했다. 메타 내부 프로젝트에서 버터플라이 이펙트가 개발한 AI 에이전트 '마누스(Manus)'를 사용할 수 없도록 차단 조치도 마친 것으로 전해졌다.버터플라이 이펙트는 중국 베이징과 우한을 기반으로 성장한 AI 스타트업이다. 이들이 개발한 마누스는 사용자 지시를 바탕으로 웹 탐색, 조사, 분석, 일정 설계, 웹사이트 제작 등 여러 복잡한 작업을 자율적으로 수행하는 AI 에이전트로 세계적인 주목을 받았다.업계에 따르면 버터플라이 이펙트는 지난해 중반 인력을 싱가포르로 이전한 뒤 같은 해 12월 메타와 20억달러 규모의 인수 계약을 체결했다. 당시 거래는 글로벌 빅테크가",
+          "published": "2026-06-14T07:44:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Apple’s New Siri Is Just Good Enough to Ease Its AI Crisis",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-14/siri-ai-hands-on-review-ios-27-macos-27-details-iphone-fold-touch-macbook",
+          "summary": "The company prepares for the foldable iPhone and touch-screen MacBook.",
+          "published": "2026-06-14T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
@@ -219,20 +242,40 @@
           "event_labels": []
         },
         {
-          "title": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSlpBX3FTOTh3RGl2cmVTbEhoT09tZG0xczc2REdhNmRGcTdoN1V0ZVB3aEJfUFUxOFo3ZnNkVS1QMDV2NXQySW1MYUZnOC1UdFRBNXpHTExZU0JQVEF6bDBzMG5wSUFva1E?oc=5",
-          "summary": "앤트로픽 최신 모델 해외 사용 중단은 아마존 제보가 발단 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-13T21:24:10+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "[안광섭의 AI 진테제] 미 정부가 끈 세계최강 AI...한국 대안은",
+          "link": "https://zdnet.co.kr/view/?no=20260614134109",
+          "summary": "[지디넷코리아]1999년 가을, 애플의 파워 매킨토시 G4가 미국 수출관리법상 '무기'로 분류됐다. 초당 10억 회 부동소수점 연산을 돌파한 것이 냉전 시대 기준선에 걸린 것이다. 스티브 잡스는 이를 마케팅으로 뒤집었다. 탱크가 컴퓨터를 에워싸는 광고(를 만들고, 마지막 멘트로 \"경쟁사 PC에 대해서는, 뭐, 해로울 게 없죠\"를 붙였다. 클린턴 행정부가 이미 기준 상향을 예정해 둔 상태였고, 수출통제는 수개월 만에 풀렸다.이로부터 27년이 지난 지난주 금요일, 비슷하면서도 본질적으로 다른 일이 벌어졌다. 하워드 러트닉 미국 상무장관이 앤트로픽(Anthropic) CEO에게 서한 한 통을 보냈고, 수시간 뒤 세계 최강 AI 모델 '페이블 5(Fable 5)'가 전 세계에서 동시에 꺼졌다. 해제 시점은 아직 정해지지 않았다. 수출통제의 대상이 원자(반도체)에서 비트(AI 모델)로 옮겨간 것이다.6월 9일, 앤트로픽은 자사 최강 모델인 페이블 5와 미소스 5(Mythos 5)를 공개했다.",
+          "published": "2026-06-14T04:41:09+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": -3
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[기고] SW구현 시대 끝나...고객경험이 명운 갈라",
+          "link": "https://zdnet.co.kr/view/?no=20260614223803",
+          "summary": "[지디넷코리아]미국정부가 앤트로픽의 ‘페이블5’를 오픈한지 3일만에 외국 국적자의 접근을 제한했다. 이번 사안은 단순히 수출통제 이슈만이 아니다. SW와 AI산업계에도 파장이 예상된다. 필자 역시 전사 엔터프라이즈 계정을 만들어 1인당 20달러 수준의 비용을 지불하고 이틀간 '페이블5'를 사용해 봤다. 놀라웠다. 갤러그 게임을 만들고 다운로드받는 데 걸린 시간은 2분에 불과했다. 체감상 세상에 존재하는 대부분의 독립 소프트웨어(SW)를 만들 수 있겠다는 생각을 했다.'페이블5' 충격은 우리 회사 내부에서도 그대로 나타났다. 직원들은 성능에 놀라 말 그대로 탄성과 비명을 질렀고, 그동안 난제로 여겼던 문제들이 빠르게 풀려나갔다. 12시간 만에 운영체제(OS)를 만들었다는 구글 Antigravity 사례조차 비교하기 어려울 만큼 강렬한 경험이었다.필자가 직원들에게 “이제 우리에게 10일이 남았다. 세상의 모든 소프트웨어를 만들어 버릴 수 있는 시간”이라고 말했을 정도다. 비슷한 변화는 ",
+          "published": "2026-06-14T13:38:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 3,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -242,27 +285,48 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "美정부, 앤트로픽 최신 AI ‘미토스·페이블’ 외국인 접속 전면 금지 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YVkpNTkptRjVEaW5ZZGQ3SlY1MEI4aEZpYndhRk5XQmxiVWZSUjk1ckQ5Z3Z4UTkzZUhFaVVoRkFZODhtbjB3MUVPNHotUQ?oc=5",
-          "summary": "美정부, 앤트로픽 최신 AI ‘미토스·페이블’ 외국인 접속 전면 금지 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-13T02:08:09+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Crypto Token’s 50% Wipeout Shows Magnitude of AI-Hacking Threat",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-14/crypto-token-s-50-wipeout-shows-magnitude-of-ai-hacking-threat",
+          "summary": "When Eli Ben-Sasson helped create the Zcash cryptocurrency nearly a decade ago, the cryptographer worried about human adversaries. He didn’t expect that machine intelligence would one day expose a flaw that had eluded years of expert human judgment.",
+          "published": "2026-06-14T13:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
+        {
+          "title": "위험한 AI 막아야 한다더니…자사 모델부터 막힌 앤트로픽",
+          "link": "https://zdnet.co.kr/view/?no=20260614112628",
+          "summary": "[지디넷코리아]안전한 인공지능(AI)을 위해 강한 정부 규제가 필요하다고 앞장서 주장해 온 앤트로픽의 주장이 오히려 그 규제 대상이 되는 역설적 상황에 놓였다.위험한 AI 모델 배포를 정부가 차단할 권한을 가져야 한다고 공개 제안한 지 며칠 만에 최신 AI 모델 '페이블5(Fable 5)'와 '미토스5(Mythos 5)' 서비스가 수출통제 지침에 따라 전면 중단됐기 때문이다.14일 관련 업계에 따르면 앤트로픽은 최근 미국 정부의 수출통제 조치에 따라 페이블5와 미토스5 제공을 중단했다. 이번 사태가 더 주목받는 이유는 앤트로픽이 불과 며칠 전까지만 해도 고위험 프론티어 AI 모델에 대해 정부가 직접 개입할 수 있어야 한다는 입장을 공개적으로 강화해 왔기 때문이다.앤트로픽은 신형AI를 출시한 지난 10일 공식 홈페이지를 통해 '고도화된 AI 프레임워크(Advanced AI FRAMEwork)'를 발표하고, 정부가 파국적 위험을 지닌 AI 모델의 배포를 차단하거나 억제할 법적 권한을 가",
+          "published": "2026-06-14T04:09:24+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -270,77 +334,53 @@
           "event_labels": [
             "regulation"
           ]
+        },
+        {
+          "title": "미국 정부 \"앤트로픽 제재, 타 AI 기업 확대 안 해\"…원인은 '비협조적 태도'",
+          "link": "https://zdnet.co.kr/view/?no=20260614143046",
+          "summary": "[지디넷코리아]미국 정부가 앤트로픽에 내린 수출 통제 조치가 다른 인공지능(AI) 기업으로 확대될 가능성은 낮을 전망이다.14일 디 인포메이션에 따르면 익명을 요구한 백악관 관계자는 이번 수출 제한 조치를 다른 AI 기업으로 확대할 계획이 없다고 밝혔다.그는 이번 지침이 다른 공개 AI 모델에서도 흔히 발견되는 탈옥 등 위험의 보편성 때문에 내려진 것이 아니라고 선을 그었다. 대신 이번 조치가 내려진 원인으로 모델 자체 위험성이 아닌 앤트로픽의 대응 방식을 지목했다. 페이블5·미토스5에서 발견된 취약점을 앤트로픽이 수정하길 거부한 것이 직접적인 발단이 됐다는 설명이다.앤트로픽이 제기된 보안 취약점을 즉각적으로 수정하지 않았으며, 안전성이 확보될 때까지 모델 출시를 보류해 달라는 요청마저 거부한 채 출시를 강행한 점을 문제삼았다는 것이다.즉 이번 수출 통제는 국가 안보 기관의 권고를 무시한 앤트로픽의 독단적인 행보가 초래한 특수한 사례라는 설명이다.앞서 앤트로픽은 모델 서비스 전면 중",
+          "published": "2026-06-14T05:35:23+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "美, 앤트로픽 최신 모델 전면 차단…'소버린 AI' 논의 다시 불붙나",
+          "link": "https://zdnet.co.kr/view/?no=20260614125412",
+          "summary": "[지디넷코리아]미국 행정부가 앤트로픽의 최신 인공지능(AI) 모델 '페이블 5(Fable 5)'와 '미토스 5(Mythos 5)'에 대한 수출 통제에 나섰다. 해외 이용자뿐 아니라 미국 내 거주 외국 국적자와 앤트로픽 소속 외국인 직원까지 적용 대상에 포함되면서 국내 정부와 기업의 모델 접근권에도 변수가 생겼다.14일 앤트로픽에 따르면 미국 정부는 국가안보 지침에 따라 외국 국적자 대상 페이블 5와 미토스 5 서비스를 전면 차단하는 수출 통제 조치를 시행했다.해당 조치는 해외 접속자뿐 아니라 미국 내 거주 외국 국적자, 앤트로픽 소속 외국인 직원에게도 적용된다. 다만 앤트로픽은 외국인과 내국인 이용자를 실시간으로 구분하는 것이 기술적으로 어려운 만큼 전 세계 이용자 전반에 대해 두 모델 서비스를 임시 중단했다.이번 조치로 프로젝트 글래스윙에 최근 합류한 한국 정부와 기업도 직접적인 영향권에 들 것이란 우려가 나오고 있다.프로젝트 글래스윙은 앤트로픽이 사이버보안에 특화된 미토스 계열 ",
+          "published": "2026-06-14T06:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 3,
-      "articles": [
-        {
-          "title": "미래에셋證, 스페이스X 물량 0…한투·미래에셋자산운용 ETF까지 '일파만파'",
-          "link": "https://zdnet.co.kr/view/?no=20260613192226",
-          "summary": "[지디넷코리아]미래에셋증권이 12일(현지시간) 나스닥에 상장한 스페이스엑스(Space X) 공모주 물량을 배정받지 못함에 따라, 미래에셋증권과 공동 기업공개상장(IPO) 인수단으로 참여한 한국투자신탁운용·미래에셋자산운용 상장지수펀드(ETF)까지 타격을 입었다.13일 금융투자업계에 따르면 미래에셋증권은 공동 인수단을 꾸려 공모주 물량 배정을 대기했으나, 결국 공모주를 배정받지 못해 고객이 납입한 청약 증거금을 이날 새벽 전액 환불 처리하는 절차를 밟았다.스페이스X 물량 배정을 기다렸던 미래에셋증권 금융소비자뿐만 아니라 미래에셋증권 공모주 물량을 통해 ETF를 운용하고자 했던 한국투자신탁운용·미래에셋자산운용과 해당 ETF를 구매했던 금융소비자까지 차질을 빚었다.한국투자신탁운용 등은 미래에셋증권을 국내 주관사로 해 공모주 신청을 했다. 그렇지만 미국 현지 펀딩이 마무리되는 최종 배정단계서 한국 인수단 전체에는 판매 가능한 물량을 배정하지 않는다는 결정을 통보받았다는 것이 한국투자신탁운용 ",
-          "published": "2026-06-13T10:41:22+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "funding"
-          ]
-        },
-        {
-          "title": "미래에셋 '스페이스X 0주' 쇼크에…금감원 경위 파악 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40cTM5by1YS0NPVS1rMzgyVjhYamN6aDl4VTBGcGhNbDBkaVNXcWp0aXh4YVBVY1kxU29FZ1dyYzVFcTdMaUY0cDZhV1A5a2tyUEVZZ3dtQkg0UHhTSXh6ZHB0RU1kVFFoUmZVM1U4ZXk?oc=5",
-          "summary": "미래에셋 '스페이스X 0주' 쇼크에…금감원 경위 파악 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-13T09:45:14+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "청약 번복 '초유의 사태'…미래에셋, 스페이스X發 주가·평판 리스크 돌출 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdVJSOFBndm5FQlQ2SEl4QkI4WGNEblk0RHZQeVpmNElMRFRrMWZnZndQX19VcW1WLTVnMDJTV1YxYjh6N1ZXOElkVlRXSEt5YU1ZSWl5NUFUTEpTTXlzRkw2SUF0OGlYNFJyT1pGZnc?oc=5",
-          "summary": "청약 번복 '초유의 사태'…미래에셋, 스페이스X發 주가·평판 리스크 돌출 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-13T05:04:50+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": -2
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
