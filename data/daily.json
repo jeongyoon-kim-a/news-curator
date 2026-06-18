@@ -1,129 +1,132 @@
 {
-  "generated_at": "2026-06-17T22:46:53.020561+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-06-18T22:57:21.160719+00:00",
+  "total_articles": 19,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 6,
       "articles": [
         {
-          "title": "ASML CEO Sees Musk’s Terafab as Test for Supply Lines",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/asml-ceo-warns-of-possible-supply-constraints-on-musk-s-terafab",
-          "summary": "ASML Holding NV Chief Executive Officer Christophe Fouquet said the chip equipment maker has to make sure it doesn’t experience supply constraints when servicing new projects such as Elon Musk’s Terafab.",
-          "published": "2026-06-17T15:27:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "스페이스X, IPO 직후 90조에 커서 인수…\"공동 개발 모델 곧 공개\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84LVYyQ2ZSNEh6WVI1S093WTlTYkVNRzZQY21HcWJlYURjcjFacWVySFRzQ0NpUFZlVWNENUl0Y3VPclk0QV9zVE9rSU9veWZ0YnVhOXVfOF9BUzBtZ3VPRVo0ZktHR3dxYmc?oc=5",
-          "summary": "스페이스X, IPO 직후 90조에 커서 인수…\"공동 개발 모델 곧 공개\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-17T05:18:32+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "funding"
-          ]
-        },
-        {
-          "title": "SpaceX Shares Fall for First Time Since Blockbuster Debut",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/spacex-heads-toward-fourth-day-of-gains-since-record-ipo",
-          "summary": "SpaceX shares declined for the first time since its record initial public offering, snapping a three-day rally that had reached nearly 50%.",
-          "published": "2026-06-17T08:22:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X ‘0주’ 배정 후폭풍…제도개선 목소리에 당국 “제반사정 볼 것” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YLVZQM2NqRHNfX2JJOEVFSHVzdHdJVF94b09JaVVFOXJDNkxpVVhUN29ueXZCbmFUSGtGRGVERmtGdG9aUW1LZ0trYlhhemxZM0E?oc=5",
-          "summary": "스페이스X ‘0주’ 배정 후폭풍…제도개선 목소리에 당국 “제반사정 볼 것” &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-17T15:02:53+00:00",
+          "title": "NYT \"머스크의 다음 행보는 스페이스X·테슬라 합병 가능성\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yWnR6cHVmTFltVXJMakw2M01BN2FHaWN4N3pEbHJCcDE4ZzdoVEp5eEdzRkNZcXdaUjNIVWZybmhUZkJfMGZ6ay1xUDNZd05vZXc?oc=5",
+          "summary": "NYT \"머스크의 다음 행보는 스페이스X·테슬라 합병 가능성\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-18T05:56:38+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X 최고 목표가 227달러…하락 여력도 9.4% - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZUjJON296SFZTWlVjVndGUThLRGkyd0xQV2hBejZxelMwcEo0OHdNSjk1RTdyb09hM1JZeWotZWVEY0VpWTJXZW16VGo3bzcwa2RNa0F6NmltWEVYbjM2aDNqTDBPd2dGVW1mMjhiUkbSAXRBVV95cUxQU3FtaF8wZWhmUnI0Rl9uLVBjRTBGMWF3VS1oOENCU0M2Rk50NUxnUVFtSFVrYmkwR3VrSmFYcktBQUhoRXk2TkN6QUJibTFZVTZWWExCNm5Nb0JTZGRSVGozNGp4UWNfbm9aTEhhYjZTX3NLTQ?oc=5",
-          "summary": "스페이스X 최고 목표가 227달러…하락 여력도 9.4% &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-17T00:03:17+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 2,
             "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "SpaceX’s Epic Fundraising Campaign for AI Has Only Just Begun",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-s-epic-fundraising-campaign-for-ai-has-only-just-begun",
+          "summary": "When Elon Musk went into sales pitch mode ahead of the SpaceX IPO, the comparison he marshaled to justify valuing the company in the trillions of dollars, and tapping investors for tens of billions, raised a few eyebrows.",
+          "published": "2026-06-18T20:53:38+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX Criticizes EU Proposal for Satellite Spectrum Tender",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-criticizes-eu-s-proposal-for-satellite-spectrum-tender",
+          "summary": "SpaceX criticized the European Union’s plans for the distribution of satellite spectrum, a key element in the growth plans for the Elon Musk-led company’s Starlink service following its record-setting initial public offering.",
+          "published": "2026-06-18T22:04:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "스페이스X 열풍 지속될까…엇갈리는 월가 전망 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83Z1ZkUWhEZVBXZ05fYS1IcFN3MzNIY3A0TVlqUUZDc1RuX2ZPb1VadUM4UWh0NDN0TDZZVnJfNml1dzh0YWVnb3lvUWdWUGpBSV9GVjhsam9RXzJIQkJNbDNpVzB2VVRuY3A1Z1RQb3M?oc=5",
-          "summary": "스페이스X 열풍 지속될까…엇갈리는 월가 전망 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-17T04:52:43+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "Tesla Stock Underperforms SpaceX in First Week After IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/tesla-stock-underperforms-spacex-in-first-week-after-ipo",
+          "summary": "Tesla Inc. stock is set to end the holiday-shortened week lower after SpaceX went public last Friday.",
+          "published": "2026-06-18T18:24:58+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX Shares End First Week of Trading Up 37% From IPO Price",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-shares-waver-after-posting-first-decline-since-ipo",
+          "summary": "SpaceX stock ended higher in its first week of trading, even though its rough ride showed the largest-ever IPO was not immune to the type of share-price volatility that tends to rock big companies after they go public.",
+          "published": "2026-06-18T08:36:47+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "K반도체 장비, 머스크 테라팹 생태계 입성 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0M3NiMVh0S1dkMmRidG9wTHpCbk16eVh5RHhteGhkVjNLWS1ET2JVZGZVVXEwd2YyTW5idkxSUEM0NjByLURCRmFkb3FFb3hTOE53N3J3?oc=5",
+          "summary": "K반도체 장비, 머스크 테라팹 생태계 입성 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-18T08:58:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -138,18 +141,38 @@
       "count": 8,
       "articles": [
         {
-          "title": "Macron Seeks Way Around Trump’s Ban on Anthropic’s AI Models",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/macron-seeks-way-around-trump-s-ban-on-anthropic-s-ai-models",
-          "summary": "French President Emmanuel Macron led talks with Group of Seven leaders and tech executives to explore how to deploy the most advanced artificial intelligence models through so-called trusted partners, after the US blocked foreign nationals from accessing the technology.",
-          "published": "2026-06-17T12:27:47+00:00",
+          "title": "Google Says Canada’s Data Law Changes Fail to Ease Concerns",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/google-googl-says-canada-law-changes-don-t-resolve-privacy-security-concerns",
+          "summary": "Alphabet Inc.’s Google said Canada’s changes to a proposed law that would help police obtain citizen data from private companies don’t resolve many of its concerns.",
+          "published": "2026-06-18T20:39:53+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Amazon Workers Say Data Center Testimony Prompted HR Calls",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/amazon-workers-say-data-center-testimony-prompted-interrogation",
+          "summary": "Three Amazon.com Inc. workers say the company violated a Seattle ordinance by interrogating them after they testified in favor of regulation of data centers in the city.",
+          "published": "2026-06-18T16:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 3,
             "recency": 2,
             "event_bonus": 3,
@@ -160,10 +183,10 @@
           ]
         },
         {
-          "title": "Snubbing Nvidia for Adobe Costs Florida Stock-Picker $50 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/wrong-way-ai-trade-costs-boca-raton-stock-picker-50-billion",
-          "summary": "It was 180 degrees off the hot trade on Wall Street.",
-          "published": "2026-06-17T13:15:00+00:00",
+          "title": "Intel Rallies to Record After Trump Touts Apple Chip Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/intel-intc-share-price-soars-after-trump-says-it-struck-apple-chip-deal",
+          "summary": "Intel Corp.’s stock surged Thursday after US President Donald Trump said the chipmaker will work with Apple Inc. to design and produce semiconductors domestically.",
+          "published": "2026-06-18T09:35:34+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -171,39 +194,21 @@
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "US Order on Anthropic Models Signals New Era for AI Controls",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-17/us-order-on-anthropic-models-signals-new-era-for-ai-controls",
-          "summary": "The confusing matter of Mythos.",
-          "published": "2026-06-17T16:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple Prepares Second-Generation iPhone Air for Spring 2027",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/apple-prepares-second-generation-iphone-air-for-spring-2027",
-          "summary": "Apple Inc. is preparing a second-generation iPhone Air for spring 2027, aiming to boost the appeal of the slimmed-down device, according to people with knowledge of the matter.",
-          "published": "2026-06-17T19:57:38+00:00",
+          "title": "Google’s Secret Warrant Fight Over DOJ Pipe Bomb Probe Revealed",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/google-s-secret-warrant-fight-over-doj-pipe-bomb-probe-revealed",
+          "summary": "Google waged a secret court fight against a US warrant demanding identities of hundreds of internet users who searched for the Democratic and Republican party headquarters in Washington before pipe bombs were planted there on the eve of the Capitol riot on Jan. 6, 2021, newly unsealed records reveal.",
+          "published": "2026-06-18T18:50:37+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -220,10 +225,30 @@
           "event_labels": []
         },
         {
-          "title": "Can Chinese silicon replace Nvidia? Here are 5 AI models trained on local chips",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3357391/can-chinese-silicon-replace-nvidia-here-are-5-ai-models-trained-local-chips?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence models have become increasingly competitive with their US peers, but the country’s AI hardware still lags significantly behind. While domestic chips are now widely adopted for model inference, none of China’s top models are known to have been pre-trained on homegrown silicon. To understand this gap, it helps to look at the three stages of AI model development. First is pre-training, the most computationally demanding phase, where a model feeds on massive data sets",
-          "published": "2026-06-17T06:30:32+00:00",
+          "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
+          "summary": "Meta Platforms Inc. has secured new agreements to get AI computing power from data center developer Crusoe, bolstering the infrastructure it needs to support an ambitious artificial intelligence expansion.",
+          "published": "2026-06-18T20:13:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "As ByteDance spends billions on AI, which Chinese chip start-ups stand to gain?",
+          "link": "https://www.scmp.com/tech/article/3357545/bytedance-spends-billions-ai-which-chinese-chip-start-ups-stand-gain?utm_source=rss_feed",
+          "summary": "As Chinese technology giant ByteDance accelerates its shift towards domestic chips for artificial intelligence workloads, a few smaller domestic suppliers stand to benefit – if they can deliver at scale amid a void left by Nvidia due to regulatory hurdles. The Beijing-based owner of TikTok is considering turning to a handful of so-called tier-two chipmakers in China – smaller rivals to Huawei Technologies and Cambricon Technologies – for its cloud infrastructure, according to sources and...",
+          "published": "2026-06-18T08:11:42+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -240,152 +265,15 @@
           "event_labels": []
         },
         {
-          "title": "Apple Investors Are Tired of AI Promises, Want Tangible Progress",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-17/apple-investors-are-tired-of-ai-promises-want-tangible-progress",
-          "summary": "Apple Inc. investors are losing patience with the company’s talk about becoming a more formidable presence in artificial intelligence and want to start seeing some results.",
-          "published": "2026-06-17T11:21:59+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "클로드 코드, 자동 모드의 안전장치 보강 업데이트",
-          "link": "https://zdnet.co.kr/view/?no=20260617210858",
-          "summary": "[지디넷코리아]앤트로픽(Anthropic)이 6월 16일 코딩 도구 클로드 코드(Claude Code)의 기능을 강화하는 업데이트를 내놨다. 권한 규칙을 정교하게 다듬고, 중첩된 .claude 디렉터리를 지원하며, 자동 모드(auto mode)의 안전장치를 보강한 것이 핵심이다.권한 규칙에는 도구의 입력 파라미터까지 세밀하게 지정하는 문법이 추가됐다.'Tool(param:value)' 형식으로 특정 도구가 어떤 값으로 호출되는지를 제어하고, 와일드카드(*)도 함께 쓸 수 있다. 어떤 작업을 허용하고 막을지를 한층 정밀하게 설정하도록 한 것이다. 기존에는 도구 단위로만 허용 여부를 정할 수 있었으나, 이번 변경으로 같은 도구라도 입력 값에 따라 다르게 통제하는 세밀한 관리가 가능해졌다.중첩 .claude 지원도 강화됐다. 하위 디렉터리의 스킬과 설정이 작업 위치에 따라 우선 적용되며, 이름이 겹칠 경우 디렉터리 이름을 붙여 구분해 양쪽이 모두 살아남도록 했다. 자동 모드에서는 하위 에",
-          "published": "2026-06-17T12:08:58+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "배경훈 \"전국민 위한 '공공 에이전틱AI' 3년 내 만들겠다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260617165502",
-          "summary": "[지디넷코리아]배경훈 부총리 겸 과학기술정보통신부 장관이 전 국민 AI 사용을 위해 3년 안에 국가 차원의 공공형 에이전틱 AI를 개발하겠다고 밝혔다.배 부총리는 17일 오후 서울 상암동 누리꿈스퀘어에서 열린 39회 정보문화의 달 기념식에서 “통계상으론 국민 70%가 AI를 사용하지만 실질적으로 그 이익을 누리는 건 30% 정도에 불과하다”며 “정부는 국민 모두가 AI를 누릴 수 있도록 3년 안에 AI가 스스로 판단하고 결정하는 에이전틱 AI를 개발하겠다”고 말했다.그러면서 “AI를 전국민이 누릴 때 AI 기본 사회를 만들 수 있다”면서 “AI 향유에 대한 공정함, 동등한 기회 제공에 대한 많은 고민을 계속하겠다”고 강조했다.배 부총리는 또 최근 젠슨 황 엔비디아 CEO가 방한해 정부를 비롯해 한국 IT, 반도체 기업 총수와 만나 산업 논의를 한 것과 관련해 AI 기반 한국 산업의 전망이 밝다고 진단했다.배 부총리는 “황 CEO가 한국에 방문해 여러 인사와 접촉한 것에서 알 수 있듯",
-          "published": "2026-06-17T08:14:54+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 3,
-      "articles": [
-        {
-          "title": "카카오 노사 협상 다시 시작…연차 파업은 예정대로",
-          "link": "https://zdnet.co.kr/view/?no=20260617172020",
-          "summary": "[지디넷코리아]카카오 경영진과 노동조합이 중단됐던 교섭을 재개했다. 노사가 다시 협상에 나서면서 오는 29일 예고된 연차 파업 이전에 임금과 고용 안정 등을 둘러싼 이견을 좁힐 수 있을지 주목된다. 17일 관련업계에 따르면 민주노총 전국화학섬유식품산업노동조합 카카오지회(크루유니언)는 이번 주부터 카카오 본사와 교섭을 재개했다. 노사가 공식 교섭을 다시 진행하는 것은 지난 10일 경기 성남 판교에서 열린 부분 파업 이후 처음이다.노조도 교섭을 이어가고 있지만 오는 29일 예정된 연차 파업은 계획대로 추진한다는 입장인 것으로 알려졌다. 연차 파업은 조합원들이 사내 업무 시스템에서 동시에 로그아웃한 뒤 연차를 사용하는 방식으로 진행된다. 노조는 쟁의권을 확보한 카카오 본사와 카카오페이, 카카오엔터프라이즈, 디케이테크인, 엑스엘게임즈 등 5개 법인의 조합원들이 참여하는 것을 목표로 하고 있다.앞서 카카오 노조는 지난 10일 이들 5개 법인에서 4시간 규모의 부분 파업을 실시하며 임금과 성과",
-          "published": "2026-06-17T09:13:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "앤트로픽, 서울 상륙…기업·연구·공익 전방위 공략",
-          "link": "https://zdnet.co.kr/view/?no=20260617170159",
-          "summary": "[지디넷코리아]앤트로픽이 서울 오피스를 열고 국내 고객·파트너 지원 강화를 비롯해 인공지능(AI) 생태계 전반과의 협력 확대에 나선다.앤트로픽은 17일 서울 영등포구 콘래드 호텔에서 기자 간담회를 열고 서울 오피스 개소를 공식화했다.이날 현장에는 크리스 차우리 앤트로픽 인터내셔널 총괄과 최기영 앤트로픽 한국 대표가 참석해 국내 유수 기업과 스타트업은 물론, 연구·공익 분야 기관 및 클로드 개발자 커뮤니티와의 파트너십 계획을 발표했다.앤트로픽에 따르면 한국 산업 전반에 걸쳐 자사 AI 모델인 클로드 도입이 확산하고 있다. 특히 개발자 생태계에서 클로드 활용이 두드러진다는 설명이다.네이버는 최근 전체 엔지니어링 조직에 AI 코딩 에이전트인 클로드 코드를 전면 도입해 개발자 수천 명의 코딩 도구를 다양화하고 코딩 생산성을 극대화하고 있다. 이는 아시아 최대 규모의 엔터프라이즈 도입 사례 중 하나다. 넥슨의 엔지니어링 조직 역시 클로드 코드를 활용해 전 세계 수백만 명이 즐기는 라이브 서비",
-          "published": "2026-06-17T14:59:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[종합] 앤트로픽, 한국 법인 본격 가동…\"수출통제 곧 해결\"",
-          "link": "https://zdnet.co.kr/view/?no=20260617195811",
-          "summary": "[지디넷코리아]\"한국은 세계에서 가장 빠르게 성장하는 시장 중 하나입니다. 상업·기술·정책·운영을 아우르는 전담팀을 서울에 구축해 빠르게 규모를 키우겠습니다.\"크리스 차우리 앤트로픽 인터내셔널 총괄은 17일 서울 영등포구 콘래드호텔에서 열린 서울 오피스 개소 기념 기자간담회에서 이같이 밝혔다. 앤트로픽은 이날 한국 법인 운영을 공식화하며 국내 기업과 스타트업은 물론, 연구·공익 분야를 아우르는 전방위 파트너십을 가속하겠다고 발표했다. 국내 도입 사례를 보면 네이버가 아시아 최대 규모로 엔지니어링 조직에 AI 코딩 에이전트 '클로드 코드'를 전면 적용했다. 넥슨, LG CNS, 삼성SDS, 한화솔루션 등 주요 대기업 역시 개발 생산성과 업무 효율화를 위해 클로드 제품군을 확대 도입하고 있다.학계·공익 영역과 개발자 커뮤니티 접점도 늘린다. 한국 AI 생태계 전반의 발전을 위한 장기 협력 토대를 마련하겠다는 구상이다. 앤트로픽은 국가AI연구거점(NAIRL)과 협력해 주요 대학 연구진에게",
-          "published": "2026-06-17T14:59:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "'묵묵부답' 골드만·'검사확대' 금감원…수습 나선 미래에셋 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pdDhhbkhJdG1mS0psSVhEcjEzelA1MlBqdDJWeTd6SHpwUXdxU0JWNDVrTTRLemNfTDVFTk0yOUhlRnp2V20wdHNySlI1bDJKVVNjWl9yMjNMYkhsXzJfZzhnLWl6TEdnUkxObk5fVXg?oc=5",
-          "summary": "'묵묵부답' 골드만·'검사확대' 금감원…수습 나선 미래에셋 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-16T23:03:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "엔비디아, '자율 연구' 에이전트 로봇 공개...GPU 조립까지 독학 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqMW84MU53ODVEV1Bfelc3RGgzeFRLTlA4V3FINGx4RFJYSWNpOFJkUklhU3NFWjd3WXY5YXNDUHF1cWtLR2RNdkNQNmZrSDZQbW9uTThBY3VDcGkwRURjTzlfaUpCQWZvb1E?oc=5",
+          "summary": "엔비디아, '자율 연구' 에이전트 로봇 공개...GPU 조립까지 독학 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-18T09:32:06+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -395,8 +283,149 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "폭스콘, 유럽 첫 휴머노이드 로봇 시연… 수시간만에 로봇 훈련 가능하다",
+          "link": "https://zdnet.co.kr/view/?no=20260618213137",
+          "summary": "[지디넷코리아]세계 최대 전자제품 위탁생산업체 폭스콘(Foxconn·훙하이정밀)이 6월 17일 파리 비바테크 2026에서 휴머노이드(humanoid·인간형) 로봇을 유럽에 처음 선보였다. 폭스콘은 엔비디아의 베라루빈 NVL72 연산 랙부터 아이작 GR00T로 학습한 조립 로봇까지 이어지는 '폐쇄 루프 피지컬 AI 스택'을 시연했다. 폭스콘은 2025년 3월 GTC에서 휴머노이드 로봇 개발 현황을 처음 공개했는데, 산업용 휴머노이드를 유럽 무대에 올린 것은 이번이 처음이다. 모델을 학습시키는 연산 장비와 그 모델이 들어가는 로봇, 그리고 로봇이 일하는 공장을 한 회사가 모두 갖춘 형태다.테크타임스에 따르면 폭스콘은 자사를 단순 위탁 조립업체가 아니라 모델을 학습시키는 연산 장비, 그 모델이 들어가는 로봇 몸체, 전시된 전기차까지 수직 통합한 '피지컬 AI 플랫폼'으로 규정했다.바퀴 달린 휴머노이드가 양팔 협업으로 정밀 조립을 수행했으며, 실제 공장 시나리오에서 얻은 데이터로 시뮬레이션",
+          "published": "2026-06-18T12:31:37+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels",
+          "summary": "Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets.",
+          "published": "2026-06-18T17:46:30+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Crypto-Treasury Dream Unravels After a 90% Stock Plunge",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-18/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge",
+          "summary": "The business model of launching a public company to buy crypto is falling apart. As a result, those in the queue to do so through blank-check companies are facing pressure from investors against a market backdrop that is fiercely unfriendly.",
+          "published": "2026-06-18T13:30:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
+        {
+          "title": "방한 돌연 연기한 오픈AI 샘 알트먼, 사유는 '둘째 딸 출산'",
+          "link": "https://zdnet.co.kr/view/?no=20260618173907",
+          "summary": "[지디넷코리아]샘 알트먼 오픈AI 최고경영자(CEO)가 이달 계획한 한국 방문 일정을 돌연 연기한 이유는 둘째 딸 출산 때문으로 알려졌다. 18일 업계에 따르면 알트먼 CEO는 지난 14일 밤 한국에 입국해 15일 하루 동안 카카오와 삼성전자, 네이버 등 국내 주요 기업을 만날 예정이었다. 하지만 둘째 딸 출산 일정과 겹치면서 방한을 미뤘다. 이번 일정 조정으로 한국뿐 아니라 일본과 유럽 방문 일정도 함께 취소된 것으로 전해졌다. 오픈AI 측은 앞서 알트먼 CEO의 개인 사정을 이유로 한국을 비롯한 아시아 방문 일정을 연기한다고 밝히면서 구체적인 사유는 공개하지 않았다.알트먼 CEO의 방한은 불발됐지만 오픈AI 고위 관계자들의 일정은 예정대로 진행됐다. 마크 첸 오픈AI 최고연구책임자(CRO)를 포함한 주요 인사 2명이 지난 14∼15일 한국을 방문한 뒤 돌아간 것으로 파악됐다.다만 이들의 방한 기간 삼성전자와의 별도 미팅은 없었던 것으로 알려졌다. 오픈AI는 알트먼 CEO의 방한이",
+          "published": "2026-06-18T09:04:09+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "미토스 통제 논란 속 한국·앤트로픽 협력 본격화 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWWkxZSUFVYmxiNnRqMC1kVGlteUU5eHRkNHlqNnI3ZmFXb0o5czNHNTFVMHREamlOSlY0TnVBOGIzdkFPUjQ3d001ekNRcHhjWVE?oc=5",
+          "summary": "미토스 통제 논란 속 한국·앤트로픽 협력 본격화 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-18T02:30:01+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "넥써쓰, 626억에 원스토어 인수...'블록체인 게임허브' 구축",
+          "link": "https://zdnet.co.kr/view/?no=20260618183841",
+          "summary": "[지디넷코리아]토종 앱마켓 원스토어가 블록체인 게임 플랫폼 기업 넥써쓰를 새 주인으로 맞이하며 글로벌 웹3 및 AI 중심의 게임허브로 전면 개편된다.넥써쓰(대표 장현국)는 18일 이사회를 열고 원스토어 주식 2024만 7990주(지분율 89.03%)를 약 626억원에 양수하기로 결정했다. 이번 인수를 바탕으로 원스토어의 기존 사업을 고도화하고 새로운 비전과 전략을 결합해 성장시킬 방침이다.매각 주체는 SK스퀘어(45.78%), 네이버(24.06%), 스틸넘버원제일차(17.02%), 크래프톤(2.17%)이다. 이번 인수 과정에서 SK스퀘어, 네이버, 크래프톤은 넥써쓰에 전략적 투자자로 참여한다. 이를 통해 원스토어가 기존에 구축해 온 사업 기반과 파트너십, 생태계는 그대로 유지 및 강화될 예정이다.원스토어는 2016년 국내 통신 3사(SK텔레콤, KT, LG유플러스)와 인터넷 포털 네이버가 함께 설립한 토종 앱마켓이다.넥써쓰는 국내 시장에서 3800만대 이상 설치된 원스토어를 '게임 ",
+          "published": "2026-06-18T09:38:41+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        }
+      ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
