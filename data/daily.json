@@ -1,111 +1,45 @@
 {
-  "generated_at": "2026-06-18T22:57:21.160719+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-06-19T22:07:43.560939+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 4,
       "articles": [
         {
-          "title": "NYT \"머스크의 다음 행보는 스페이스X·테슬라 합병 가능성\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yWnR6cHVmTFltVXJMakw2M01BN2FHaWN4N3pEbHJCcDE4ZzdoVEp5eEdzRkNZcXdaUjNIVWZybmhUZkJfMGZ6ay1xUDNZd05vZXc?oc=5",
-          "summary": "NYT \"머스크의 다음 행보는 스페이스X·테슬라 합병 가능성\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-06-18T05:56:38+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "SpaceX’s Epic Fundraising Campaign for AI Has Only Just Begun",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-s-epic-fundraising-campaign-for-ai-has-only-just-begun",
-          "summary": "When Elon Musk went into sales pitch mode ahead of the SpaceX IPO, the comparison he marshaled to justify valuing the company in the trillions of dollars, and tapping investors for tens of billions, raised a few eyebrows.",
-          "published": "2026-06-18T20:53:38+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "SpaceX Criticizes EU Proposal for Satellite Spectrum Tender",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-criticizes-eu-s-proposal-for-satellite-spectrum-tender",
-          "summary": "SpaceX criticized the European Union’s plans for the distribution of satellite spectrum, a key element in the growth plans for the Elon Musk-led company’s Starlink service following its record-setting initial public offering.",
-          "published": "2026-06-18T22:04:41+00:00",
+          "title": "Ambani’s Jio Weighs India Satellite Network to Rival Starlink",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/ambani-s-jio-weighs-india-satellite-network-to-rival-starlink",
+          "summary": "Billionaire Mukesh Ambani-controlled Jio Platforms Ltd. is weighing plans to build its own satellite constellation, as it seeks to cement control over the nation’s communications infrastructure while Elon Musk’s Starlink faces hurdles.",
+          "published": "2026-06-19T11:19:27+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 3,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Tesla Stock Underperforms SpaceX in First Week After IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/tesla-stock-underperforms-spacex-in-first-week-after-ipo",
-          "summary": "Tesla Inc. stock is set to end the holiday-shortened week lower after SpaceX went public last Friday.",
-          "published": "2026-06-18T18:24:58+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "스페이스X, IPO 열기 식었나...상장 후 첫 주가 연속 하락 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVkMwZHF5cDdkSGFNYnZZOHRhVWRON2ZTZDVhQXZnZEJCX0lCRkM4QXhEdE1Ca0RCRTlLSjBNWWhxd080R3Bzd1M5MFZ6d0JtTW9pejJuMWVSQ0JMUEQxcVdyRHBYV0R2Umc?oc=5",
+          "summary": "스페이스X, IPO 열기 식었나...상장 후 첫 주가 연속 하락 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-19T02:29:46+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "SpaceX Shares End First Week of Trading Up 37% From IPO Price",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/spacex-shares-waver-after-posting-first-decline-since-ipo",
-          "summary": "SpaceX stock ended higher in its first week of trading, even though its rough ride showed the largest-ever IPO was not immune to the type of share-price volatility that tends to rock big companies after they go public.",
-          "published": "2026-06-18T08:36:47+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -115,18 +49,38 @@
           ]
         },
         {
-          "title": "K반도체 장비, 머스크 테라팹 생태계 입성 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB0M3NiMVh0S1dkMmRidG9wTHpCbk16eVh5RHhteGhkVjNLWS1ET2JVZGZVVXEwd2YyTW5idkxSUEM0NjByLURCRmFkb3FFb3hTOE53N3J3?oc=5",
-          "summary": "K반도체 장비, 머스크 테라팹 생태계 입성 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-18T08:58:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "얀 르쿤 \"머스크의 xAI는 실패작...오픈AI·앤트로픽과 경쟁 안 돼\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UGZ5WmxpNGtPeVNmSmtpMzV3VzR3bzV0R0tSNXJjUFRXM3hmMzNmQkJ5V0h5bHRWQjgzQzNOd3J2MEVyTUdBbW5JZFpob1hkZ1lKUC1iaU1aUTloam1LeV9lQTA2VUQwNUE?oc=5",
+          "summary": "얀 르쿤 \"머스크의 xAI는 실패작...오픈AI·앤트로픽과 경쟁 안 돼\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-19T03:10:33+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"스페이스X 투자자들 손익분기점 근접…펀더멘털 재평가\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HRlhjZ3FudlI5NDBrQWN1WHppZUVHUnYtWVZNbUlGeWxfWEItcFYwWnhKMVdCcTg1UkJ4Y0lyZ2dyZmtKQlJMVHh5U0tsQW96cVNSYV9oMWNyODVNMVZ3X29NejlfNVVGYnd5M2pRYzk?oc=5",
+          "summary": "\"스페이스X 투자자들 손익분기점 근접…펀더멘털 재평가\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-19T01:35:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -141,18 +95,18 @@
       "count": 8,
       "articles": [
         {
-          "title": "Google Says Canada’s Data Law Changes Fail to Ease Concerns",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/google-googl-says-canada-law-changes-don-t-resolve-privacy-security-concerns",
-          "summary": "Alphabet Inc.’s Google said Canada’s changes to a proposed law that would help police obtain citizen data from private companies don’t resolve many of its concerns.",
-          "published": "2026-06-18T20:39:53+00:00",
+          "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+          "summary": "Google DeepMind Vice President John Jumper, who won the 2024 Nobel Prize in chemistry for his work on artificial intelligence, is leaving the company to join Anthropic PBC.",
+          "published": "2026-06-19T18:43:36+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -161,10 +115,30 @@
           "event_labels": []
         },
         {
-          "title": "Amazon Workers Say Data Center Testimony Prompted HR Calls",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/amazon-workers-say-data-center-testimony-prompted-interrogation",
-          "summary": "Three Amazon.com Inc. workers say the company violated a Seattle ordinance by interrogating them after they testified in favor of regulation of data centers in the city.",
-          "published": "2026-06-18T16:00:00+00:00",
+          "title": "China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals",
+          "link": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence developers are accelerating their push into massive foundation models with more than a trillion parameters, just as Washington moves to block foreign access to leading US software through unprecedented export controls. Parameters serve as a primary measure of an AI’s capabilities. Chinese companies have been looking to narrow the gap with leading US rivals like OpenAI and Anthropic, which continue to aggressively expand the size of their top models. The depth of..",
+          "published": "2026-06-19T06:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
+          "summary": "President Donald Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.",
+          "published": "2026-06-19T19:49:23+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -172,21 +146,39 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Intel Rallies to Record After Trump Touts Apple Chip Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/intel-intc-share-price-soars-after-trump-says-it-struck-apple-chip-deal",
-          "summary": "Intel Corp.’s stock surged Thursday after US President Donald Trump said the chipmaker will work with Apple Inc. to design and produce semiconductors domestically.",
-          "published": "2026-06-18T09:35:34+00:00",
+          "title": "엔비디아 성공 공식, 구글이 따라 쓴다…TPU로 'GPU 장벽' 넘을까",
+          "link": "https://zdnet.co.kr/view/?no=20260619174149",
+          "summary": "[지디넷코리아]구글이 자체 인공지능(AI) 반도체인 텐서처리장치(TPU) 사업을 앞세워 엔비디아 중심 AI 컴퓨팅 시장에서 영역 확장에 본격 나섰다. 엔비디아가 그래픽처리장치(GPU) 판매 확대에 활용해온 데이터센터 금융 지원 방식을 본격 적용하며 외부 고객 확보에 속도를 내는 모습이다.18일(현지시간) 월스트리트저널(WSJ)에 따르면 구글은 미국 뉴욕주 서부 온타리오호 인근 AI 데이터센터 클러스터 '레이크 매리너' 프로젝트에 32억 달러(약 4조9000억원) 규모 금융보증을 제공했다. 이 프로젝트는 AI 인프라 기업 테라울프와 구글이 투자한 클라우드 업체 플루이드스택이 추진 중이다. 해당 데이터센터의 컴퓨팅 자원은 앤트로픽에 임대될 예정이다.이 같은 구글의 전략은 엔비디아가 AI 칩 시장 지배력을 키울 때 활용한 방식과 유사하다. 데이터센터 사업자가 낮은 비용으로 자금을 조달할 수 있도록 지원하고, 이 자금이 다시 칩 구매와 컴퓨팅 임대 계약으로 이어지도록 만드는 구조다. 구글은",
+          "published": "2026-06-19T08:45:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Chipmakers Renew Nerdy Performance Tussle That Nvidia’s Dominance Had Quashed",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-19/nvidia-s-ai-wins-had-quashed-the-benchmark-fight-cpu-race-is-bringing-it-back",
+          "summary": "With CPUs back in the spotlight, so too is the PR fight over benchmarks",
+          "published": "2026-06-19T11:02:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -194,21 +186,39 @@
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
-            "recency": 1,
-            "event_bonus": 3,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Google’s Secret Warrant Fight Over DOJ Pipe Bomb Probe Revealed",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/google-s-secret-warrant-fight-over-doj-pipe-bomb-probe-revealed",
-          "summary": "Google waged a secret court fight against a US warrant demanding identities of hundreds of internet users who searched for the Democratic and Republican party headquarters in Washington before pipe bombs were planted there on the eve of the Capitol riot on Jan. 6, 2021, newly unsealed records reveal.",
-          "published": "2026-06-18T18:50:37+00:00",
+          "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
+          "summary": "The Trump administration’s push to rein in Anthropic PBC, outlined in a recent Commerce Department order, relies on an unprecedented use of export control laws and raises legal questions about whether the US can dictate who can access artificial intelligence systems.",
+          "published": "2026-06-19T12:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order",
+          "summary": "Some firms chosen early on by Anthropic PBC to test the Mythos AI model ahead of a wider release have preserved their access to a preview of the system, despite a US government order that led to the total shutdown of other versions.",
+          "published": "2026-06-19T03:36:08+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -216,48 +226,8 @@
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta Strikes New AI Computing Deals With Data Center Firm Crusoe",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/meta-strikes-new-ai-computing-deals-with-data-center-firm-crusoe",
-          "summary": "Meta Platforms Inc. has secured new agreements to get AI computing power from data center developer Crusoe, bolstering the infrastructure it needs to support an ambitious artificial intelligence expansion.",
-          "published": "2026-06-18T20:13:46+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "As ByteDance spends billions on AI, which Chinese chip start-ups stand to gain?",
-          "link": "https://www.scmp.com/tech/article/3357545/bytedance-spends-billions-ai-which-chinese-chip-start-ups-stand-gain?utm_source=rss_feed",
-          "summary": "As Chinese technology giant ByteDance accelerates its shift towards domestic chips for artificial intelligence workloads, a few smaller domestic suppliers stand to benefit – if they can deliver at scale amid a void left by Nvidia due to regulatory hurdles. The Beijing-based owner of TikTok is considering turning to a handful of so-called tier-two chipmakers in China – smaller rivals to Huawei Technologies and Cambricon Technologies – for its cloud infrastructure, according to sources and...",
-          "published": "2026-06-18T08:11:42+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -265,38 +235,18 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, '자율 연구' 에이전트 로봇 공개...GPU 조립까지 독학 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqMW84MU53ODVEV1Bfelc3RGgzeFRLTlA4V3FINGx4RFJYSWNpOFJkUklhU3NFWjd3WXY5YXNDUHF1cWtLR2RNdkNQNmZrSDZQbW9uTThBY3VDcGkwRURjTzlfaUpCQWZvb1E?oc=5",
-          "summary": "엔비디아, '자율 연구' 에이전트 로봇 공개...GPU 조립까지 독학 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-18T09:32:06+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "폭스콘, 유럽 첫 휴머노이드 로봇 시연… 수시간만에 로봇 훈련 가능하다",
-          "link": "https://zdnet.co.kr/view/?no=20260618213137",
-          "summary": "[지디넷코리아]세계 최대 전자제품 위탁생산업체 폭스콘(Foxconn·훙하이정밀)이 6월 17일 파리 비바테크 2026에서 휴머노이드(humanoid·인간형) 로봇을 유럽에 처음 선보였다. 폭스콘은 엔비디아의 베라루빈 NVL72 연산 랙부터 아이작 GR00T로 학습한 조립 로봇까지 이어지는 '폐쇄 루프 피지컬 AI 스택'을 시연했다. 폭스콘은 2025년 3월 GTC에서 휴머노이드 로봇 개발 현황을 처음 공개했는데, 산업용 휴머노이드를 유럽 무대에 올린 것은 이번이 처음이다. 모델을 학습시키는 연산 장비와 그 모델이 들어가는 로봇, 그리고 로봇이 일하는 공장을 한 회사가 모두 갖춘 형태다.테크타임스에 따르면 폭스콘은 자사를 단순 위탁 조립업체가 아니라 모델을 학습시키는 연산 장비, 그 모델이 들어가는 로봇 몸체, 전시된 전기차까지 수직 통합한 '피지컬 AI 플랫폼'으로 규정했다.바퀴 달린 휴머노이드가 양팔 협업으로 정밀 조립을 수행했으며, 실제 공장 시나리오에서 얻은 데이터로 시뮬레이션",
-          "published": "2026-06-18T12:31:37+00:00",
+          "title": "구글 제미나이로 탄생한 세계 첫 AI 미술관, '데이터랜드' 6월 20일 LA 개관",
+          "link": "https://zdnet.co.kr/view/?no=20260619212527",
+          "summary": "[지디넷코리아]구글(Google)이 세계 최초의 AI 예술 전문 미술관에 기술을 공급한다. 구글은 6월 18일 공식 블로그를 통해, 미디어 아티스트 리픽 아나돌(Refik Anadol)과 함께 만든 'AI 예술 미술관' 데이터랜드(Dataland)가 6월 20일 미국 로스앤젤레스에서 일반에 공개된다고 밝혔다. 데이터랜드는 구글 클라우드(Google Cloud)로 구동되고, 구글 아츠 앤 컬처(Google Arts &amp;amp;amp; Culture)가 지원한다.데이터랜드는 건축가 프랭크 게리(Frank Gehry)가 설계한 복합단지 '더 그랜드 LA' 안에 자리한 약 2만 5,000평방피트(약 2,300㎡) 규모의 전(全)감각 공간이다. 이곳에서는 데이터가 물감이 되고, 작품이 실시간으로 변형된다. 구글과 아나돌은 10년에 걸쳐 이 프로젝트를 함께 만들어 왔다.개관 전시 '머신 드림스: 레인포레스트(Machine Dreams: Rainforest)'는 자연 데이터로 학습한 기반 ",
+          "published": "2026-06-19T12:25:27+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 1,
             "recency": 2,
             "event_bonus": 0,
@@ -311,40 +261,40 @@
       "count": 2,
       "articles": [
         {
-          "title": "Bitcoin Falls Back Toward $60,000 on Strategy Shares, Rate Fears",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/bitcoin-btc-slides-toward-60-000-as-saylor-s-strategy-funding-model-unravels",
-          "summary": "Bitcoin extended its slide back toward the $60,000 level. The decline is driven by mounting concerns over the unraveling of Strategy Inc.’s funding mechanism, alongside rate-hike fears that are dampening demand for riskier assets.",
-          "published": "2026-06-18T17:46:30+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "임주영 안랩블록체인컴퍼니 총괄리더, 온체인 가치 순환 청사진 밝힌다",
+          "link": "https://zdnet.co.kr/view/?no=20260619151116",
+          "summary": "[지디넷코리아]가치가 고정된 스테이블코인과 스스로 판단하는 'AI 에이전트'의 결합이 게임 산업의 미래에 어떤 영향이 있을지를 짚는 강연 자리가 마련된다.한국게임미디어협회(협회장 이택수)는 임주영 안랩블록체인컴퍼니 총괄리더가 오는 6월 23일 경기도 성남시 판교 경기창조경제혁신센터 국제회의장에서 개최되는 ‘제5회 대한민국 블록체인 웹3 게임 컨퍼런스’의 무대에 올라 강연한다고 밝혔다.안랩블록체인컴퍼니는 최근 가상자산사업자(VASP)를 신고수리 완료하여 본격적인 스테이블코인 지갑 인프라를 제공하며 수탁사업을 연계하고 있다.임주영 총괄리더는 이날 행사에서 '게임에서 현실로 이어지는 가치의 순환 : 진짜 온체인 경제'의 시작'을 주제로 발표를 진행한다.독자적인 지갑을 지닌 AI 캐릭터(NPC)가 자율적으로 재화를 획득하고, 이용자의 AI 비서가 최적의 경로로 게임 자산을 거래하는 구체적인 웹3 생태계를 제시할 계획이다.임 총괄리더는 이러한 기술 융합을 통해 게임 속 성과가 국경을 넘어 현",
+          "published": "2026-06-19T08:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "The Crypto-Treasury Dream Unravels After a 90% Stock Plunge",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-18/the-crypto-treasury-dream-unravels-after-a-90-stock-plunge",
-          "summary": "The business model of launching a public company to buy crypto is falling apart. As a result, those in the queue to do so through blank-check companies are facing pressure from investors against a market backdrop that is fiercely unfriendly.",
-          "published": "2026-06-18T13:30:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "'돈나무 언니', 일라이 릴리·블록·코인베이스 저가매수 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SmpUTFZ1VGdsM3NMUFZFcmkyUzhLTmZDd0dfc19GOWF5X01BN3dfdUhFX2VURFVjWXBacGxOM1FPWHVaNDZYNTRiTHhVOVM4UkFwOXcxYlRzWmZZRkozTllpT3R3N0hIZVE4MkZSNFE?oc=5",
+          "summary": "'돈나무 언니', 일라이 릴리·블록·코인베이스 저가매수 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-19T00:46:40+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 2,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -354,71 +304,27 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "방한 돌연 연기한 오픈AI 샘 알트먼, 사유는 '둘째 딸 출산'",
-          "link": "https://zdnet.co.kr/view/?no=20260618173907",
-          "summary": "[지디넷코리아]샘 알트먼 오픈AI 최고경영자(CEO)가 이달 계획한 한국 방문 일정을 돌연 연기한 이유는 둘째 딸 출산 때문으로 알려졌다. 18일 업계에 따르면 알트먼 CEO는 지난 14일 밤 한국에 입국해 15일 하루 동안 카카오와 삼성전자, 네이버 등 국내 주요 기업을 만날 예정이었다. 하지만 둘째 딸 출산 일정과 겹치면서 방한을 미뤘다. 이번 일정 조정으로 한국뿐 아니라 일본과 유럽 방문 일정도 함께 취소된 것으로 전해졌다. 오픈AI 측은 앞서 알트먼 CEO의 개인 사정을 이유로 한국을 비롯한 아시아 방문 일정을 연기한다고 밝히면서 구체적인 사유는 공개하지 않았다.알트먼 CEO의 방한은 불발됐지만 오픈AI 고위 관계자들의 일정은 예정대로 진행됐다. 마크 첸 오픈AI 최고연구책임자(CRO)를 포함한 주요 인사 2명이 지난 14∼15일 한국을 방문한 뒤 돌아간 것으로 파악됐다.다만 이들의 방한 기간 삼성전자와의 별도 미팅은 없었던 것으로 알려졌다. 오픈AI는 알트먼 CEO의 방한이",
-          "published": "2026-06-18T09:04:09+00:00",
+          "title": "카카오게임즈, 카톡 미니게임 플랫폼 '게임칩' 합류…캐주얼 25종 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260619173314",
+          "summary": "[지디넷코리아]카카오게임즈가 카카오톡 내에 신설된 게임 플랫폼을 통해 별도의 설치가 필요 없는 캐주얼 게임 서비스를 대거 선보인다.카카오게임즈는 카카오톡 내 '더보기' 탭에 마련된 HTML5 기반 게임 플랫폼 '게임칩'을 통해 총 25종의 캐주얼 게임을 출시했다고 19일 밝혔다.이용자는 카카오톡 앱을 벗어나거나 별도의 앱을 다운로드할 필요 없이 게임칩 메뉴를 통해 다양한 게임을 즉시 즐길 수 있다. 카카오게임즈는 이번 플랫폼에서 게임 소싱과 출시 게임의 운영, 개발 관리 전반을 담당한다.이번에 공개된 25종의 라인업은 카카오프렌즈 IP(지식재산권)를 활용한 게임 6종과 다채로운 장르의 캐주얼 게임 19종으로 구성됐다. 짧은 시간 동안 부담 없이 즐길 수 있는 타이틀이 중심이며, 카카오톡 기반의 높은 접근성을 살려 친구들과 순위를 경쟁하거나 기록을 공유할 수 있는 소셜 요소를 강조한 것이 특징이다.카카오프렌즈 IP를 활용한 대표 게임으로는 ▲프렌즈 봉봉 ▲프렌즈 타일 매치 ▲프렌즈 3",
+          "published": "2026-06-19T08:35:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "미토스 통제 논란 속 한국·앤트로픽 협력 본격화 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWWkxZSUFVYmxiNnRqMC1kVGlteUU5eHRkNHlqNnI3ZmFXb0o5czNHNTFVMHREamlOSlY0TnVBOGIzdkFPUjQ3d001ekNRcHhjWVE?oc=5",
-          "summary": "미토스 통제 논란 속 한국·앤트로픽 협력 본격화 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-06-18T02:30:01+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "넥써쓰, 626억에 원스토어 인수...'블록체인 게임허브' 구축",
-          "link": "https://zdnet.co.kr/view/?no=20260618183841",
-          "summary": "[지디넷코리아]토종 앱마켓 원스토어가 블록체인 게임 플랫폼 기업 넥써쓰를 새 주인으로 맞이하며 글로벌 웹3 및 AI 중심의 게임허브로 전면 개편된다.넥써쓰(대표 장현국)는 18일 이사회를 열고 원스토어 주식 2024만 7990주(지분율 89.03%)를 약 626억원에 양수하기로 결정했다. 이번 인수를 바탕으로 원스토어의 기존 사업을 고도화하고 새로운 비전과 전략을 결합해 성장시킬 방침이다.매각 주체는 SK스퀘어(45.78%), 네이버(24.06%), 스틸넘버원제일차(17.02%), 크래프톤(2.17%)이다. 이번 인수 과정에서 SK스퀘어, 네이버, 크래프톤은 넥써쓰에 전략적 투자자로 참여한다. 이를 통해 원스토어가 기존에 구축해 온 사업 기반과 파트너십, 생태계는 그대로 유지 및 강화될 예정이다.원스토어는 2016년 국내 통신 3사(SK텔레콤, KT, LG유플러스)와 인터넷 포털 네이버가 함께 설립한 토종 앱마켓이다.넥써쓰는 국내 시장에서 3800만대 이상 설치된 원스토어를 '게임 ",
-          "published": "2026-06-18T09:38:41+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
         }
       ]
     },
