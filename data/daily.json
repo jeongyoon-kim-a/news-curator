@@ -1,67 +1,70 @@
 {
-  "generated_at": "2026-06-19T22:07:43.560939+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-06-20T22:13:12.595991+00:00",
+  "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 4,
       "articles": [
         {
-          "title": "Ambani’s Jio Weighs India Satellite Network to Rival Starlink",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-19/ambani-s-jio-weighs-india-satellite-network-to-rival-starlink",
-          "summary": "Billionaire Mukesh Ambani-controlled Jio Platforms Ltd. is weighing plans to build its own satellite constellation, as it seeks to cement control over the nation’s communications infrastructure while Elon Musk’s Starlink faces hurdles.",
-          "published": "2026-06-19T11:19:27+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "스페이스X의 커서 인수가 드러낸 '공개시장의 힘'… 상장 통화로 AI 추격",
+          "link": "https://zdnet.co.kr/view/?no=20260620085909",
+          "summary": "[지디넷코리아]스페이스X(SpaceX)가 AI 코딩 기업 커서(Cursor)를 전액 주식으로 인수한 거래가 공개시장의 위력을 보여주었다. 뉴욕타임스(The New York Times)에 따르면 6월 18일, 이번 인수는 상장 기업이 자사 주식을 인수 통화로 활용해 앤트로픽(Anthropic)·오픈AI(OpenAI)와의 격차를 좁힐 수 있었다. 머스크의 우주기업 주가가 뛰면서 인수 여력도 함께 커졌다.이번 거래의 핵심은 상장으로 확보한 주식이 강력한 인수 수단으로 작동한다는 데 있다. 비상장 기업은 현금이나 제한된 지분으로 인수해야 하지만, 상장 기업은 시장에서 평가받는 자사 주식을 통화처럼 써서 대형 거래를 성사시킬 수 있다. 스페이스X는 지난 12일 나스닥 상장 직후 사흘 만에 커서를 약 600억 달러(약 92조 원) 규모의 주식 교환으로 사들이며 이 전략을 실증했다.이번 거래는 AI 경쟁에서 모델 성능이 아닌 자본 조달 방식도 승부를 가르는 변수가 되고 있음을 보여준 사례로 남을",
+          "published": "2026-06-19T23:59:09+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, IPO 열기 식었나...상장 후 첫 주가 연속 하락 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVkMwZHF5cDdkSGFNYnZZOHRhVWRON2ZTZDVhQXZnZEJCX0lCRkM4QXhEdE1Ca0RCRTlLSjBNWWhxd080R3Bzd1M5MFZ6d0JtTW9pejJuMWVSQ0JMUEQxcVdyRHBYV0R2Umc?oc=5",
-          "summary": "스페이스X, IPO 열기 식었나...상장 후 첫 주가 연속 하락 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-19T02:29:46+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 10,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
           "event_labels": [
+            "m_and_a",
             "funding"
           ]
         },
         {
-          "title": "얀 르쿤 \"머스크의 xAI는 실패작...오픈AI·앤트로픽과 경쟁 안 돼\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02UGZ5WmxpNGtPeVNmSmtpMzV3VzR3bzV0R0tSNXJjUFRXM3hmMzNmQkJ5V0h5bHRWQjgzQzNOd3J2MEVyTUdBbW5JZFpob1hkZ1lKUC1iaU1aUTloam1LeV9lQTA2VUQwNUE?oc=5",
-          "summary": "얀 르쿤 \"머스크의 xAI는 실패작...오픈AI·앤트로픽과 경쟁 안 돼\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-19T03:10:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "테슬라·스페이스X 합병설…투자자는 뭘 봐야 하나",
+          "link": "https://zdnet.co.kr/view/?no=20260620072609",
+          "summary": "[지디넷코리아]테슬라와 스페이스X의 합병설이 새로운 화두로 떠오르고 있다. 특히 최근 들어 피터 디아만디스 등 스페이스X 초기 투자자들과 업계 관계자들이 두 회사 합병설을 연이어 제기하면서 관심이 더 커지고 있다. 투자전문매체 모틀리풀은 19일(현지시간) 테슬라와 스페이스X의 합병 가능성과 관련해 투자자들이 주목해야 할 주요 쟁점을 정리해 보도했다.두 회사가 공유하는 핵심 목표 중 하나는 인공지능(AI) 프로세서 개발이다. 현재 테슬라와 스페이스X는 인텔과 협력해 테라팹(Terafab) 프로젝트용 AI 프로세서를 설계•개발하고 있다. 이 프로세서는 스페이스X가 추진 중인 궤도 데이터센터와 테슬라의 옵티머스 휴머노이드 로봇, 자율주행 트럭 등에 활용될 것으로 예상된다.또 올해 초 스페이스X에 합병된 xAI와 테슬라는 AI 에이전트 기반 기업용 소프트웨어 플랫폼인 '매크로하드(Macrohard)'를 공동 개발 중인 것으로 알려졌다.스페이스X는 테슬라의 메가팩 배터리를 약 6억9700만 ",
+          "published": "2026-06-19T23:37:00+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "[기경학회 AX칼럼] AI 시대, 제조 강국의 세 가지 착각",
+          "link": "https://zdnet.co.kr/view/?no=20260620102542",
+          "summary": "[지디넷코리아]클로드를 만든 앤트로픽 최상위 모델 '페이블5'가 미국의 수출통제로 막혔다. 한국 기업과 기관마저 하루아침에 접근이 끊겼고, 다시 모두가 '소버린 AI'를 말하며 거대 언어 모델(LLM) 자체를 가지려 애쓴다. 옳은 방향이다. 그러나 그 소란 속에서 우리가 잊고 있는 핵심이 있다. 누구도 통제할 수 없는 우리만의 진짜 무기, 바로 제조 데이터다. 우리나라는 세계적 제조강국이다. 제조 데이터도 마찬가지다. 우리만의 세계적 무기가 될 수 있다. 짚고 넘어갈 게 있다. '어떤' 데이터가 아니라 '어떻게' 데이터를 활용하는가가 더 중요하다는 점이다. 그리고 우리의 '어떻게'에는 세 가지 착각이 있다.첫째, 우리는 '가진 데이터'로만 무언가를 하려 한다. 테슬라를 보자. 자율주행을 시작할 때 테슬라가 가진 운전 데이터는 하나도 없었다. 대신 차를 팔았고, 그 수백만 대를 데이터 수집 장치로 바꿨다. 그리고 테슬라는 이를 기반으로 여러 로보택시 등 여러 사업으로의 확장을 준비하고",
+          "published": "2026-06-20T01:25:42+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -69,19 +72,19 @@
           "event_labels": []
         },
         {
-          "title": "\"스페이스X 투자자들 손익분기점 근접…펀더멘털 재평가\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HRlhjZ3FudlI5NDBrQWN1WHppZUVHUnYtWVZNbUlGeWxfWEItcFYwWnhKMVdCcTg1UkJ4Y0lyZ2dyZmtKQlJMVHh5U0tsQW96cVNSYV9oMWNyODVNMVZ3X29NejlfNVVGYnd5M2pRYzk?oc=5",
-          "summary": "\"스페이스X 투자자들 손익분기점 근접…펀더멘털 재평가\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-19T01:35:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "우주청, 우주신기술로 비츠로·페리지·파이버·두시텍 등 8건 선정",
+          "link": "https://zdnet.co.kr/view/?no=20260620134952",
+          "summary": "[지디넷코리아]스페이스X의 나스닥 진입으로 우주분야 관심이 급증한 가운데 우주항공청이 2차로 지정한 우주 신기술 8곤에 관심이 모아졌다. 특히, 위성 분야 경쟁이 치열했다.선정된 8건은 발사체 분야 4건, 위성분야 4건이 각각 선정됐다. 우주관측탐사 및 기타분야에선 6건이 접수됐으나, 선정된 기술은 나오지 않았다.발사체 분야 응모는 총 5건, 경쟁률은 1.25대 1이었다. 선정 기술은 주로 엔진 성능 향상과 제조 기술로 신청했다.4건은 ▲비츠로넥스텍 '액체로켓 엔진용 금속 발화방지 내산화 코팅 기술' ▲한양이엔지 '우주발사체용 고압 및 극저온 단간 연결 엄빌리칼 기술' ▲페리지에어로스페이스 '액체로켓엔진 재생냉각 연소기 제작을 위한 전기성형 공정 기술' ▲이노스페이스 '이원추진제 재생냉각 메탄엔진 연소기' 등이다.위성분야는 경쟁이 치열했다. 19건 지원, 4.75대 1의 경쟁률을 나타냈다. 선정된 기술은 ▲파이버프로 '저궤도 위성용 광섬유 자이로' ▲두시텍 '정지궤도 위성용 GNSS",
+          "published": "2026-06-20T04:49:52+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -92,41 +95,21 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 4,
       "articles": [
         {
-          "title": "Nobel Winner John Jumper to Leave Google DeepMind for Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
-          "summary": "Google DeepMind Vice President John Jumper, who won the 2024 Nobel Prize in chemistry for his work on artificial intelligence, is leaving the company to join Anthropic PBC.",
-          "published": "2026-06-19T18:43:36+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China’s trillion-parameter AI race: how developers strive to narrow gap with US rivals",
-          "link": "https://www.scmp.com/tech/big-tech/article/3357449/chinas-trillion-parameter-ai-race-how-developers-strive-narrow-gap-us-rivals?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence developers are accelerating their push into massive foundation models with more than a trillion parameters, just as Washington moves to block foreign access to leading US software through unprecedented export controls. Parameters serve as a primary measure of an AI’s capabilities. Chinese companies have been looking to narrow the gap with leading US rivals like OpenAI and Anthropic, which continue to aggressively expand the size of their top models. The depth of..",
-          "published": "2026-06-19T06:00:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전' - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Udi03Mk0yTW1jeXIzOXRiR0M0YzA3UmdJWFIyU2lYT2k5UHVWNkhIeVhQdFFNdEZnbWxQS3ZXb2NrbHlhb3V6dGljVFFRZ3QxUlVTTUlmTlZPRElIY1V0dGZLS21KZmZ6eEE?oc=5",
+          "summary": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전' &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-20T04:03:57+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -135,19 +118,19 @@
           "event_labels": []
         },
         {
-          "title": "Trump Tells Axios He Doesn’t See Anthropic as US Security Threat",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-19/trump-tells-axios-he-doesn-t-see-anthropic-as-us-security-threat",
-          "summary": "President Donald Trump said he doesn’t view Anthropic PBC as a national-security threat, days after his administration took steps to cut off foreign access to the tech company’s most advanced artificial intelligence models.",
-          "published": "2026-06-19T19:49:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "노벨상 수상자도 구글→앤트로픽…핵심인재 AI기업 이직 이어져 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MMEZYLVhkdmt3ZWJ3LXM2d3hNcDVJM2NMN2hIekxJT19kUklHc0Y2Q2t3ZGUzVTkwRXI4bUlEc0NJWUVjcWNxa0J3YlUwQWxfMkE?oc=5",
+          "summary": "노벨상 수상자도 구글→앤트로픽…핵심인재 AI기업 이직 이어져 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-20T17:52:19+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
+            "keyword": 3,
+            "source": 2,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -155,141 +138,15 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아 성공 공식, 구글이 따라 쓴다…TPU로 'GPU 장벽' 넘을까",
-          "link": "https://zdnet.co.kr/view/?no=20260619174149",
-          "summary": "[지디넷코리아]구글이 자체 인공지능(AI) 반도체인 텐서처리장치(TPU) 사업을 앞세워 엔비디아 중심 AI 컴퓨팅 시장에서 영역 확장에 본격 나섰다. 엔비디아가 그래픽처리장치(GPU) 판매 확대에 활용해온 데이터센터 금융 지원 방식을 본격 적용하며 외부 고객 확보에 속도를 내는 모습이다.18일(현지시간) 월스트리트저널(WSJ)에 따르면 구글은 미국 뉴욕주 서부 온타리오호 인근 AI 데이터센터 클러스터 '레이크 매리너' 프로젝트에 32억 달러(약 4조9000억원) 규모 금융보증을 제공했다. 이 프로젝트는 AI 인프라 기업 테라울프와 구글이 투자한 클라우드 업체 플루이드스택이 추진 중이다. 해당 데이터센터의 컴퓨팅 자원은 앤트로픽에 임대될 예정이다.이 같은 구글의 전략은 엔비디아가 AI 칩 시장 지배력을 키울 때 활용한 방식과 유사하다. 데이터센터 사업자가 낮은 비용으로 자금을 조달할 수 있도록 지원하고, 이 자금이 다시 칩 구매와 컴퓨팅 임대 계약으로 이어지도록 만드는 구조다. 구글은",
-          "published": "2026-06-19T08:45:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chipmakers Renew Nerdy Performance Tussle That Nvidia’s Dominance Had Quashed",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-19/nvidia-s-ai-wins-had-quashed-the-benchmark-fight-cpu-race-is-bringing-it-back",
-          "summary": "With CPUs back in the spotlight, so too is the PR fight over benchmarks",
-          "published": "2026-06-19T11:02:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Lutnick’s Anthropic Crackdown Claims New Power Over AI Models",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-19/lutnick-s-anthropic-crackdown-claims-new-power-over-ai-models",
-          "summary": "The Trump administration’s push to rein in Anthropic PBC, outlined in a recent Commerce Department order, relies on an unprecedented use of export control laws and raises legal questions about whether the US can dictate who can access artificial intelligence systems.",
-          "published": "2026-06-19T12:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Early Users of Anthropic Mythos Still Have Access After US Order",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-19/early-users-of-anthropic-mythos-still-have-access-after-us-order",
-          "summary": "Some firms chosen early on by Anthropic PBC to test the Mythos AI model ahead of a wider release have preserved their access to a preview of the system, despite a US government order that led to the total shutdown of other versions.",
-          "published": "2026-06-19T03:36:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글 제미나이로 탄생한 세계 첫 AI 미술관, '데이터랜드' 6월 20일 LA 개관",
-          "link": "https://zdnet.co.kr/view/?no=20260619212527",
-          "summary": "[지디넷코리아]구글(Google)이 세계 최초의 AI 예술 전문 미술관에 기술을 공급한다. 구글은 6월 18일 공식 블로그를 통해, 미디어 아티스트 리픽 아나돌(Refik Anadol)과 함께 만든 'AI 예술 미술관' 데이터랜드(Dataland)가 6월 20일 미국 로스앤젤레스에서 일반에 공개된다고 밝혔다. 데이터랜드는 구글 클라우드(Google Cloud)로 구동되고, 구글 아츠 앤 컬처(Google Arts &amp;amp;amp; Culture)가 지원한다.데이터랜드는 건축가 프랭크 게리(Frank Gehry)가 설계한 복합단지 '더 그랜드 LA' 안에 자리한 약 2만 5,000평방피트(약 2,300㎡) 규모의 전(全)감각 공간이다. 이곳에서는 데이터가 물감이 되고, 작품이 실시간으로 변형된다. 구글과 아나돌은 10년에 걸쳐 이 프로젝트를 함께 만들어 왔다.개관 전시 '머신 드림스: 레인포레스트(Machine Dreams: Rainforest)'는 자연 데이터로 학습한 기반 ",
-          "published": "2026-06-19T12:25:27+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "임주영 안랩블록체인컴퍼니 총괄리더, 온체인 가치 순환 청사진 밝힌다",
-          "link": "https://zdnet.co.kr/view/?no=20260619151116",
-          "summary": "[지디넷코리아]가치가 고정된 스테이블코인과 스스로 판단하는 'AI 에이전트'의 결합이 게임 산업의 미래에 어떤 영향이 있을지를 짚는 강연 자리가 마련된다.한국게임미디어협회(협회장 이택수)는 임주영 안랩블록체인컴퍼니 총괄리더가 오는 6월 23일 경기도 성남시 판교 경기창조경제혁신센터 국제회의장에서 개최되는 ‘제5회 대한민국 블록체인 웹3 게임 컨퍼런스’의 무대에 올라 강연한다고 밝혔다.안랩블록체인컴퍼니는 최근 가상자산사업자(VASP)를 신고수리 완료하여 본격적인 스테이블코인 지갑 인프라를 제공하며 수탁사업을 연계하고 있다.임주영 총괄리더는 이날 행사에서 '게임에서 현실로 이어지는 가치의 순환 : 진짜 온체인 경제'의 시작'을 주제로 발표를 진행한다.독자적인 지갑을 지닌 AI 캐릭터(NPC)가 자율적으로 재화를 획득하고, 이용자의 AI 비서가 최적의 경로로 게임 자산을 거래하는 구체적인 웹3 생태계를 제시할 계획이다.임 총괄리더는 이러한 기술 융합을 통해 게임 속 성과가 국경을 넘어 현",
-          "published": "2026-06-19T08:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'돈나무 언니', 일라이 릴리·블록·코인베이스 저가매수 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE00SmpUTFZ1VGdsM3NMUFZFcmkyUzhLTmZDd0dfc19GOWF5X01BN3dfdUhFX2VURFVjWXBacGxOM1FPWHVaNDZYNTRiTHhVOVM4UkFwOXcxYlRzWmZZRkozTllpT3R3N0hIZVE4MkZSNFE?oc=5",
-          "summary": "'돈나무 언니', 일라이 릴리·블록·코인베이스 저가매수 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-19T00:46:40+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU3RFbmJRR3Y5Y3hCVGtYd2VoX1lHNk5JTnVsb0hMQVJZYVpucVhxQ1A3Q1FoTm1oNEx5bnZXLWJmV1BkZm0zT1p1SVgzTWluQ3RTb014MmszeTBGaVI4TjZOaXJsRmRBMFE?oc=5",
+          "summary": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-20T04:23:16+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -299,23 +156,17 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "카카오게임즈, 카톡 미니게임 플랫폼 '게임칩' 합류…캐주얼 25종 출시",
-          "link": "https://zdnet.co.kr/view/?no=20260619173314",
-          "summary": "[지디넷코리아]카카오게임즈가 카카오톡 내에 신설된 게임 플랫폼을 통해 별도의 설치가 필요 없는 캐주얼 게임 서비스를 대거 선보인다.카카오게임즈는 카카오톡 내 '더보기' 탭에 마련된 HTML5 기반 게임 플랫폼 '게임칩'을 통해 총 25종의 캐주얼 게임을 출시했다고 19일 밝혔다.이용자는 카카오톡 앱을 벗어나거나 별도의 앱을 다운로드할 필요 없이 게임칩 메뉴를 통해 다양한 게임을 즉시 즐길 수 있다. 카카오게임즈는 이번 플랫폼에서 게임 소싱과 출시 게임의 운영, 개발 관리 전반을 담당한다.이번에 공개된 25종의 라인업은 카카오프렌즈 IP(지식재산권)를 활용한 게임 6종과 다채로운 장르의 캐주얼 게임 19종으로 구성됐다. 짧은 시간 동안 부담 없이 즐길 수 있는 타이틀이 중심이며, 카카오톡 기반의 높은 접근성을 살려 친구들과 순위를 경쟁하거나 기록을 공유할 수 있는 소셜 요소를 강조한 것이 특징이다.카카오프렌즈 IP를 활용한 대표 게임으로는 ▲프렌즈 봉봉 ▲프렌즈 타일 매치 ▲프렌즈 3",
-          "published": "2026-06-19T08:35:01+00:00",
+          "title": "넷플릭스 \"케데헌, 52주 연속 글로벌 톱10 유지\"",
+          "link": "https://zdnet.co.kr/view/?no=20260619181305",
+          "summary": "[지디넷코리아]넷플릭스가 애니메이션 영화 'K팝 데몬 헌터스'(이하 케데헌) 공개 1주년을 맞아 52주 연속 글로벌 톱10 등극 그 동안의 기록을 공개했다.18일(현지시간) 데드라인 등에 따르면, 넷플릭스는 지난해 6월 20일 선보인 영화 케데헌이 개봉 이후 매주 글로벌 톱10에 이름을 올렸다고 밝혔다. 이는 넷플릭스 최초다.케데헌은 또 누적 6억뷰를 돌파했으며, 5억 4100만 시청 시간을 기록하며 넷플릭스에서 가장 많이 스트리밍된 영화로 등극했다. OST에 대한 반응도 뜨거웠다. 주제곡 '골든'은 아카데미와 그래미 최우수 주제가상을 받았다. 케데헌이 계속해서 신기록을 세우자 넷플릭스는 올해 초 케데헌 속편 제작을 확정했다. 속편은 본편 감독이었던 매기강과 크리스 애플한스가 다시 메가폰을 잡으며, 소니 픽처스가 제작을 맡는다. 2029년 개봉될 예정이다.",
+          "published": "2026-06-20T00:00:46+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -325,6 +176,40 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
+        {
+          "title": "트럼프 \"앤트로픽, 지금은 국가안보 위협 존재 아냐\"",
+          "link": "https://zdnet.co.kr/view/?no=20260620131742",
+          "summary": "[지디넷코리아]“일주일 전에는 그랬는데, 지금은 아니다.”도널드 트럼프 미국 대통령은 19일(현지시간) 온라인 매체 악시오스와 인터뷰에서 “앤트로픽이 이젠 미국 국가안보에 위협이 되는 존재가 아니다”고 말했다.보도에 따르면 트럼프는 이날 앤트로픽이나 다리오 아모데이 최고경영자(CEO)가 국가안보에 위협이 되는 존재냐는 악시오스의 질문에 대해 “일주일 전에는 그랬을 지 모르지만, 지금은 아니다”고 말했다.미국 상무부는 지난 12일 국가 안보를 이유로 앤트로픽의 최신 인공지능(AI) 모델 '페이블 5'와 '미토스 5'에 기습적인 수출금지령을 내렸다. 미국 내 외국인의 접근도 금지됐다. 앤트로픽은 90분 만에 글로벌 서비스를 중단했다. 정부가 민간 AI 모델에 '킬스위치'를 누른 초유의 사태였다.당시 미국 정부는 이 같은 조치에 대해 “국가안보 위협 때문”이라고 설명했다.하지만 G7 회의에서 다리오 아모데이 CEO는 트럼프에게 “미국 정부가 글로벌 AI 거버넌스를 주도해달라”고 요청해 눈",
+          "published": "2026-06-20T04:18:38+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
         }
       ]
     },
