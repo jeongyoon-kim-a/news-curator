@@ -1,147 +1,110 @@
 {
-  "generated_at": "2026-06-20T22:13:12.595991+00:00",
+  "generated_at": "2026-06-21T22:16:53.260838+00:00",
   "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
+      "count": 0,
+      "articles": []
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
       "articles": [
         {
-          "title": "스페이스X의 커서 인수가 드러낸 '공개시장의 힘'… 상장 통화로 AI 추격",
-          "link": "https://zdnet.co.kr/view/?no=20260620085909",
-          "summary": "[지디넷코리아]스페이스X(SpaceX)가 AI 코딩 기업 커서(Cursor)를 전액 주식으로 인수한 거래가 공개시장의 위력을 보여주었다. 뉴욕타임스(The New York Times)에 따르면 6월 18일, 이번 인수는 상장 기업이 자사 주식을 인수 통화로 활용해 앤트로픽(Anthropic)·오픈AI(OpenAI)와의 격차를 좁힐 수 있었다. 머스크의 우주기업 주가가 뛰면서 인수 여력도 함께 커졌다.이번 거래의 핵심은 상장으로 확보한 주식이 강력한 인수 수단으로 작동한다는 데 있다. 비상장 기업은 현금이나 제한된 지분으로 인수해야 하지만, 상장 기업은 시장에서 평가받는 자사 주식을 통화처럼 써서 대형 거래를 성사시킬 수 있다. 스페이스X는 지난 12일 나스닥 상장 직후 사흘 만에 커서를 약 600억 달러(약 92조 원) 규모의 주식 교환으로 사들이며 이 전략을 실증했다.이번 거래는 AI 경쟁에서 모델 성능이 아닌 자본 조달 방식도 승부를 가르는 변수가 되고 있음을 보여준 사례로 남을",
-          "published": "2026-06-19T23:59:09+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 17,
+          "title": "Apple’s New CEO Must Rebuild a Design Team That Lost Its Way",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26",
+          "summary": "Also: The 2027 iPhone and AirPods plans.",
+          "published": "2026-06-21T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "문 스튜디오 CEO, 엑스박스 구조조정설 속 공개 비판...\"게임패스, 공산주의와 비슷\"",
+          "link": "https://zdnet.co.kr/view/?no=20260620082252",
+          "summary": "[지디넷코리아]엑스박스 구조조정 우려가 커지는 가운데 메트로바니아 액션 게임 시리즈 ‘오리’를 개발한 문 스튜디오의 토머스 말러 최고경영자(CEO)가 마이크로소프트의 게임패스 전략을 공개 비판했다.20일(현지시간) 미국 IT매체 Wccf테크 보도에 따르면 토마스 말러는 게임패스를 “어떤 면에서는 공산주의와 비슷하다”며 개발자들이 소매를 걷어붙이고 한 걸음 더 나아갈 강한 유인을 갖기 어렵다고 주장했다.또한 구독 서비스의 성패가 결국 콘텐츠 품질에 달려 있다고 봤다. 영화 스트리밍의 경우 HBO처럼 강한 대표 콘텐츠가 있으면 이용자가 구독을 유지하지만, 게임은 특히 새 작품의 힘이 중요하다고 설명했다. 그러면서 엑스박스는 이용자들이 매달 기꺼이 비용을 낼 만큼 강한 신규 콘텐츠를 충분히 내놓지 못했다고 지적했다.토마스 말러 CEO는 최근 몇 년간 엑스박스 퍼스트파티 게임 가운데 대표작이 보이지 않았다고 주장했다. 이어서 엑스박스가 게임 이용자가 원하는 것이 무엇인지, 어떤 게임이 뛰어",
+          "published": "2026-06-21T05:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change",
             "funding"
           ]
         },
         {
-          "title": "테슬라·스페이스X 합병설…투자자는 뭘 봐야 하나",
-          "link": "https://zdnet.co.kr/view/?no=20260620072609",
-          "summary": "[지디넷코리아]테슬라와 스페이스X의 합병설이 새로운 화두로 떠오르고 있다. 특히 최근 들어 피터 디아만디스 등 스페이스X 초기 투자자들과 업계 관계자들이 두 회사 합병설을 연이어 제기하면서 관심이 더 커지고 있다. 투자전문매체 모틀리풀은 19일(현지시간) 테슬라와 스페이스X의 합병 가능성과 관련해 투자자들이 주목해야 할 주요 쟁점을 정리해 보도했다.두 회사가 공유하는 핵심 목표 중 하나는 인공지능(AI) 프로세서 개발이다. 현재 테슬라와 스페이스X는 인텔과 협력해 테라팹(Terafab) 프로젝트용 AI 프로세서를 설계•개발하고 있다. 이 프로세서는 스페이스X가 추진 중인 궤도 데이터센터와 테슬라의 옵티머스 휴머노이드 로봇, 자율주행 트럭 등에 활용될 것으로 예상된다.또 올해 초 스페이스X에 합병된 xAI와 테슬라는 AI 에이전트 기반 기업용 소프트웨어 플랫폼인 '매크로하드(Macrohard)'를 공동 개발 중인 것으로 알려졌다.스페이스X는 테슬라의 메가팩 배터리를 약 6억9700만 ",
-          "published": "2026-06-19T23:37:00+00:00",
+          "title": "[AI 고속도로] 같은 GPU, 다른 결과…AI 인프라도 산업별 맞춤형 설계",
+          "link": "https://zdnet.co.kr/view/?no=20260621080538",
+          "summary": "[지디넷코리아]인공지능(AI) 인프라 시장의 경쟁 축이 단순 그래픽처리장치(GPU) 확보에서 산업별 워크로드 최적화로 이동하고 있다. 로봇과 자율주행, 바이오, AI 에이전트 등 활용 분야가 다양해지면서 같은 GPU라도 데이터 특성과 운영 방식에 따라 필요한 인프라 구조가 달라지고 있다는 분석이 나온다.21일 업계에 따르면 최근 젠슨 황 엔비디아 최고경영자(CEO)가 방한해 로보틱스·제조·모빌리티 분야 AI 활용 가능성을 강조하면서 한국형 피지컬 AI가 화두로 떠올랐다.다만 업계에선 피지컬 AI 확산이 곧 획일적인 인프라 수요 증가로 이어지지는 않을 것으로 보고 있다. 산업마다 AI 모델을 학습·검증·배포하는 방식이 다르고 GPU 사용 규모와 기간, 배치 환경도 제각각이기 때문이다.이에 대해 안재만 베슬AI 대표는 \"AI 인프라 수요는 더 이상 하나의 덩어리로 움직이지 않는다\"며 \"GPU를 얼마나 확보하느냐 못지않게 누가·어떻게·어디서 쓰는지에 따라 인프라 설계가 달라지고 있다\"고 ",
+          "published": "2026-06-21T06:00:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 5,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "exec_change"
           ]
         },
         {
-          "title": "[기경학회 AX칼럼] AI 시대, 제조 강국의 세 가지 착각",
-          "link": "https://zdnet.co.kr/view/?no=20260620102542",
-          "summary": "[지디넷코리아]클로드를 만든 앤트로픽 최상위 모델 '페이블5'가 미국의 수출통제로 막혔다. 한국 기업과 기관마저 하루아침에 접근이 끊겼고, 다시 모두가 '소버린 AI'를 말하며 거대 언어 모델(LLM) 자체를 가지려 애쓴다. 옳은 방향이다. 그러나 그 소란 속에서 우리가 잊고 있는 핵심이 있다. 누구도 통제할 수 없는 우리만의 진짜 무기, 바로 제조 데이터다. 우리나라는 세계적 제조강국이다. 제조 데이터도 마찬가지다. 우리만의 세계적 무기가 될 수 있다. 짚고 넘어갈 게 있다. '어떤' 데이터가 아니라 '어떻게' 데이터를 활용하는가가 더 중요하다는 점이다. 그리고 우리의 '어떻게'에는 세 가지 착각이 있다.첫째, 우리는 '가진 데이터'로만 무언가를 하려 한다. 테슬라를 보자. 자율주행을 시작할 때 테슬라가 가진 운전 데이터는 하나도 없었다. 대신 차를 팔았고, 그 수백만 대를 데이터 수집 장치로 바꿨다. 그리고 테슬라는 이를 기반으로 여러 로보택시 등 여러 사업으로의 확장을 준비하고",
-          "published": "2026-06-20T01:25:42+00:00",
+          "title": "노벨상 수상자까지 떠난 구글…핵심 AI 인재 이탈에 위기",
+          "link": "https://zdnet.co.kr/view/?no=20260621103937",
+          "summary": "[지디넷코리아]구글 핵심 인공지능(AI) 연구 인력이 경쟁사 앤트로픽으로 이직한다.20일(현지시간) 블룸버그통신에 따르면 존 점퍼 구글딥마인드 부사장이 회사를 떠나 앤트로픽에 합류하는 것으로 확인됐다. 지난주 제미나이 공동 개발자 노엄 샤지어의 이직 소식이 전해진 데 이어 또 다른 핵심 연구 인력이 자리를 옮기게 됐다.점퍼 부사장은 단백질 구조 예측 AI 모델 '알파폴드' 개발을 이끈 핵심 인물로 꼽힌다. 그는 데미스 허사비스 구글딥마인드 최고경영자(CEO)와 알파폴드 성과를 인정받아 2024년 노벨 화학상을 공동 수상했다.점퍼 부사장은 사회관계망서비스(SNS) '엑스'를 통해 \"약 9년간 몸담은 구글딥마인드를 떠나 앤트로픽에 합류한다\"며 \"박사 학위를 받은 지 6개월 만에 알파폴드 팀을 이끌 기회를 준 허사비스 CEO에게 고맙다\"고 밝혔다.지난주 노엄 샤지어 역시 오픈AI 합류 소식을 알렸다. 그는 제미나이 공동 개발자이자 생성형 AI 토대가 된 주요 논문 저자 중 한 명으로 알려",
+          "published": "2026-06-21T05:20:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 5,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         },
         {
-          "title": "우주청, 우주신기술로 비츠로·페리지·파이버·두시텍 등 8건 선정",
-          "link": "https://zdnet.co.kr/view/?no=20260620134952",
-          "summary": "[지디넷코리아]스페이스X의 나스닥 진입으로 우주분야 관심이 급증한 가운데 우주항공청이 2차로 지정한 우주 신기술 8곤에 관심이 모아졌다. 특히, 위성 분야 경쟁이 치열했다.선정된 8건은 발사체 분야 4건, 위성분야 4건이 각각 선정됐다. 우주관측탐사 및 기타분야에선 6건이 접수됐으나, 선정된 기술은 나오지 않았다.발사체 분야 응모는 총 5건, 경쟁률은 1.25대 1이었다. 선정 기술은 주로 엔진 성능 향상과 제조 기술로 신청했다.4건은 ▲비츠로넥스텍 '액체로켓 엔진용 금속 발화방지 내산화 코팅 기술' ▲한양이엔지 '우주발사체용 고압 및 극저온 단간 연결 엄빌리칼 기술' ▲페리지에어로스페이스 '액체로켓엔진 재생냉각 연소기 제작을 위한 전기성형 공정 기술' ▲이노스페이스 '이원추진제 재생냉각 메탄엔진 연소기' 등이다.위성분야는 경쟁이 치열했다. 19건 지원, 4.75대 1의 경쟁률을 나타냈다. 선정된 기술은 ▲파이버프로 '저궤도 위성용 광섬유 자이로' ▲두시텍 '정지궤도 위성용 GNSS",
-          "published": "2026-06-20T04:49:52+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전' - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Udi03Mk0yTW1jeXIzOXRiR0M0YzA3UmdJWFIyU2lYT2k5UHVWNkhIeVhQdFFNdEZnbWxQS3ZXb2NrbHlhb3V6dGljVFFRZ3QxUlVTTUlmTlZPRElIY1V0dGZLS21KZmZ6eEE?oc=5",
-          "summary": "아마존, 자체 AI 칩 외부 공급 추진…엔비디아 독주에 '가장 실질적 도전' &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-20T04:03:57+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "노벨상 수상자도 구글→앤트로픽…핵심인재 AI기업 이직 이어져 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MMEZYLVhkdmt3ZWJ3LXM2d3hNcDVJM2NMN2hIekxJT19kUklHc0Y2Q2t3ZGUzVTkwRXI4bUlEc0NJWUVjcWNxa0J3YlUwQWxfMkE?oc=5",
-          "summary": "노벨상 수상자도 구글→앤트로픽…핵심인재 AI기업 이직 이어져 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-06-20T17:52:19+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SU3RFbmJRR3Y5Y3hCVGtYd2VoX1lHNk5JTnVsb0hMQVJZYVpucVhxQ1A3Q1FoTm1oNEx5bnZXLWJmV1BkZm0zT1p1SVgzTWluQ3RTb014MmszeTBGaVI4TjZOaXJsRmRBMFE?oc=5",
-          "summary": "구글·MS, AI 에이전트 연결 표준 'ARD' 발표…오픈AI·앤트로픽 견제 나서 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-20T04:23:16+00:00",
+          "title": "구글, '제미나이' 탑재한 AI 스피커 5년 만에 출시…한국은 미정 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51NHdmbHJHbGZFaVZRZ3VxbmVSSDhPdFVyOEhXdVFHb05aWC1lNVVjOGY0dUZpaHJpNkRRdDh6TVZXQ1d6UTMwNmhaQ0d1UGJqeHVOdmxoZG5WbVVONmVRVUZzbTZfSDZ5QVE?oc=5",
+          "summary": "구글, '제미나이' 탑재한 AI 스피커 5년 만에 출시…한국은 미정 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-21T03:42:29+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -158,10 +121,50 @@
           "event_labels": []
         },
         {
-          "title": "넷플릭스 \"케데헌, 52주 연속 글로벌 톱10 유지\"",
-          "link": "https://zdnet.co.kr/view/?no=20260619181305",
-          "summary": "[지디넷코리아]넷플릭스가 애니메이션 영화 'K팝 데몬 헌터스'(이하 케데헌) 공개 1주년을 맞아 52주 연속 글로벌 톱10 등극 그 동안의 기록을 공개했다.18일(현지시간) 데드라인 등에 따르면, 넷플릭스는 지난해 6월 20일 선보인 영화 케데헌이 개봉 이후 매주 글로벌 톱10에 이름을 올렸다고 밝혔다. 이는 넷플릭스 최초다.케데헌은 또 누적 6억뷰를 돌파했으며, 5억 4100만 시청 시간을 기록하며 넷플릭스에서 가장 많이 스트리밍된 영화로 등극했다. OST에 대한 반응도 뜨거웠다. 주제곡 '골든'은 아카데미와 그래미 최우수 주제가상을 받았다. 케데헌이 계속해서 신기록을 세우자 넷플릭스는 올해 초 케데헌 속편 제작을 확정했다. 속편은 본편 감독이었던 매기강과 크리스 애플한스가 다시 메가폰을 잡으며, 소니 픽처스가 제작을 맡는다. 2029년 개봉될 예정이다.",
-          "published": "2026-06-20T00:00:46+00:00",
+          "title": "英, 유튜브 등에 공영방송 뉴스 ‘우선 노출’ 방안 검토",
+          "link": "https://zdnet.co.kr/view/?no=20260621102237",
+          "summary": "[지디넷코리아]영국 정부가 유튜브, 메타 등 사회관계망서비스(SNS)에 공영방송 뉴스 콘텐츠를 보다 눈에 띄게 노출하는 방안을 추진한다.20일(현지시간) 파이낸셜타임스 등 외신에 따르면 영국 정부는 BBC, ITV, 채널4 등 공영 방송의 뉴스 채널과 콘텐츠 노출을 확대하는 규정에 대한 의견 수렴을 이달 중 시작할 계획이다.이번 조치는 신뢰할 수 있는 영국 뉴스가 해외 기업의 알고리즘에 의해 가려지고 있다는 우려를 해소하기 위한 것이다. 현재 젊은 층이 TV 대신 SNS를 통해 뉴스를 소비하는 만큼 허위 정보와 조작 확산 문제에 대응하겠다는 목적이다.논의 중인 규정은 향후 중앙지(전국지)와 지역 신문에도 적용될 수 있다. 틱톡 피드 상단에 뉴스 콘텐츠를 우선 배치하는 방식 등이 거론된다.영국 정부는 BBC 등 방송사들이 동영상·SNS 플랫폼으로 적극 진출하는 것을 지지하고 있다. 또한 월드컵, 올림픽, 윔블던과 같은 주요 스포츠 행사의 주문형(VOD)·스트리밍 권리도 관련 규정 적용",
+          "published": "2026-06-21T10:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플 비츠 이어폰, '도청 해킹' 취약점 뒤늦게 패치",
+          "link": "https://zdnet.co.kr/view/?no=20260621085821",
+          "summary": "[지디넷코리아]애플이 산하 오디오 브랜드 비츠(Beats)의 무선 이어폰 '비츠 스튜디오 버즈'에서 타인이 내 통화와 대화 내용을 몰래 도청할 수 있는 치명적인 보안 취약점을 확인, 소프트웨어 업데이트를 통해 수정했다.결함 보고 약 1년 만에 이뤄진 보안 패치로, 경쟁사들 대비 수개월 늦은 조치다.21일 IT 전문 매체 아르스테크니카 등 외신에 따르면, 문제가 된 취약점은 'CVE-2025-20701'로 이름 지어졌다. 이는 대만 미디어텍의 자회사 아이로하(Airoha)가 제공하는 블루투스 오디오 소프트웨어 개발 키트(SDK)에서 발생한 버그다. 이 취약점을 악용하면 공격자가 사용자 동의 없이 블루투스 오디오 기기를 몰래 페어링할 수 있으며, 추가적인 실행 권한 없이도 원격으로 기기 접근 권한을 획득할 수 있다. 해당 결함의 심각도(CVSS) 평가는 10점 만점에 8.8점으로 '고위험' 수준에 해당한다.이 취약점이 뚫릴 경우, 블루투스 신호 범위 내에 있는 제3자가 원래 페어링된 사",
+          "published": "2026-06-21T04:51:21+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "MS, 올 10월 '오피스 2021' 지원 종료…보안 업데이트도 중단",
+          "link": "https://zdnet.co.kr/view/?no=20260621125714",
+          "summary": "[지디넷코리아]마이크로소프트가 올해 10월 '오피스 2021' 지원을 종료한다. 이용자는 이후에도 오피스 2021을 사용할 수 있지만 보안 패치와 기능 업데이트를 받을 수 없다. 마이크로소프트는 21일 워드와 엑셀, 파워포인트 등이 포함된 생산성 소프트웨어(SW) 제품군 오피스 2021 지원을 2026년 10월 13일 종료한다고 발표했다. 테크크런치 등 다수 외신은 오피스 2021이 지원 종료 후 대부분 환경에서 사용 가능할 것으로 보고 있다. 실제로 '오피스 2010'과 '오피스 2013'도 지원 종료 이후 상당 기간 사용된 사례가 있었다는 이유에서다.마이크로소프트는 오피스 2021 지원 종료 후 보안 패치와 기능 개선 업데이트는 더 이상 제공되지 않는다고 밝혔다. 오피스 2021에서 새로운 취약점 발견돼도 이를 해결할 방법이 없다는 의미다. 현재 오피스 2021 이용자는 지원 종료를 앞두고 대안을 찾기 시작했다. 영구 라이선스를 선호하는 이용자에게는 '오피스 2024'가 해결책으",
+          "published": "2026-06-21T07:30:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -189,27 +192,24 @@
       "count": 1,
       "articles": [
         {
-          "title": "트럼프 \"앤트로픽, 지금은 국가안보 위협 존재 아냐\"",
-          "link": "https://zdnet.co.kr/view/?no=20260620131742",
-          "summary": "[지디넷코리아]“일주일 전에는 그랬는데, 지금은 아니다.”도널드 트럼프 미국 대통령은 19일(현지시간) 온라인 매체 악시오스와 인터뷰에서 “앤트로픽이 이젠 미국 국가안보에 위협이 되는 존재가 아니다”고 말했다.보도에 따르면 트럼프는 이날 앤트로픽이나 다리오 아모데이 최고경영자(CEO)가 국가안보에 위협이 되는 존재냐는 악시오스의 질문에 대해 “일주일 전에는 그랬을 지 모르지만, 지금은 아니다”고 말했다.미국 상무부는 지난 12일 국가 안보를 이유로 앤트로픽의 최신 인공지능(AI) 모델 '페이블 5'와 '미토스 5'에 기습적인 수출금지령을 내렸다. 미국 내 외국인의 접근도 금지됐다. 앤트로픽은 90분 만에 글로벌 서비스를 중단했다. 정부가 민간 AI 모델에 '킬스위치'를 누른 초유의 사태였다.당시 미국 정부는 이 같은 조치에 대해 “국가안보 위협 때문”이라고 설명했다.하지만 G7 회의에서 다리오 아모데이 CEO는 트럼프에게 “미국 정부가 글로벌 AI 거버넌스를 주도해달라”고 요청해 눈",
-          "published": "2026-06-20T04:18:38+00:00",
+          "title": "르노코리아, AI 에이전트 앞세워 SDV 경쟁력 강화 나선다",
+          "link": "https://zdnet.co.kr/view/?no=20260621131348",
+          "summary": "[지디넷코리아]르노코리아가 국내외 기업 및 스타트업과의 협업을 기반으로 미래 모빌리티 생태계 확대에 나선다. 자체 개발 중인 인공지능(AI) 에이전트와 파트너사 기술을 공개하며 소프트웨어 중심 차량(SDV) 경쟁력 강화 전략도 제시했다.르노코리아는 지난 18일~19일 서울 코엑스에서 열린 아시아 최대 기술·스타트업 행사 '넥스트라이즈 2026'에 참가해 미래 모빌리티 비전과 오픈 이노베이션 전략을 소개했다고 21일 밝혔다.르노코리아는 '모빌리티 심포니'를 주제로 전시 부스를 열고 국내 연구진이 개발 중인 AI 통합 에이전트 'AI 오케스트레이터' 베타 버전을 선보였다.AI 오케스트레이터는 차량 내 다양한 기능을 통합 제어하며 운전자 맞춤형 서비스를 제공하는 것이 특징이다. 운전자의 선호 시트 위치와 실내 온도, 주행 모드 등을 음성으로 저장·설정할 수 있으며, 스마트폰 일정과 연계한 목적지 추천 기능도 지원한다.전시장에는 카카오모빌리티, 티맵모빌리티, 스매시랩스, 발레오 등 협력사들",
+          "published": "2026-06-21T04:13:48+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 12,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 5,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
+          "event_labels": []
         }
       ]
     },
