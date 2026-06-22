@@ -1,26 +1,63 @@
 {
-  "generated_at": "2026-06-21T22:16:53.260838+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-06-22T22:49:11.980658+00:00",
+  "total_articles": 23,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "Apple’s New CEO Must Rebuild a Design Team That Lost Its Way",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-21/apple-s-new-ceo-ternus-needs-to-shake-up-design-apple-s-2027-iphone-road-map-mqnust26",
-          "summary": "Also: The 2027 iPhone and AirPods plans.",
-          "published": "2026-06-21T14:00:01+00:00",
+          "title": "SpaceX Inks Multibillion-Dollar Computing Deal With Reflection AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-inks-multibillion-dollar-computing-deal-with-reflection-ai",
+          "summary": "SpaceX has inked a multibillion-dollar agreement to provide computing resources to artificial intelligence startup Reflection AI, the latest in a string deals from Elon Musk’s firm as it vies to become an AI infrastructure provider.",
+          "published": "2026-06-22T15:05:09+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "SpaceX Falls for Third Day, Erases $600 Billion in Market Value",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-shares-poised-to-slide-again-as-us-market-reopens",
+          "summary": "SpaceX shares slipped for a third straight day, shedding hundreds of billions of dollars in market value, after the Elon Musk-led company said it is selling investment-grade bonds for the first time, part of what’s expected to be a massive borrowing spree to fund its artificial-intelligence ambitions.",
+          "published": "2026-06-22T08:52:07+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SpaceX Readies Its $20 Billion Bond Debut to Fund AI Ambition",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/spacex-kicks-off-debut-us-dollar-investment-grade-bond-offering",
+          "summary": "SpaceX is selling investment-grade bonds for the first time in what’s expected to be the start of a massive borrowing spree to fund the company’s AI ambitions following its record $75 billion IPO.",
+          "published": "2026-06-22T12:15:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 10,
           "score_breakdown": {
             "keyword": 3,
@@ -30,86 +67,39 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "문 스튜디오 CEO, 엑스박스 구조조정설 속 공개 비판...\"게임패스, 공산주의와 비슷\"",
-          "link": "https://zdnet.co.kr/view/?no=20260620082252",
-          "summary": "[지디넷코리아]엑스박스 구조조정 우려가 커지는 가운데 메트로바니아 액션 게임 시리즈 ‘오리’를 개발한 문 스튜디오의 토머스 말러 최고경영자(CEO)가 마이크로소프트의 게임패스 전략을 공개 비판했다.20일(현지시간) 미국 IT매체 Wccf테크 보도에 따르면 토마스 말러는 게임패스를 “어떤 면에서는 공산주의와 비슷하다”며 개발자들이 소매를 걷어붙이고 한 걸음 더 나아갈 강한 유인을 갖기 어렵다고 주장했다.또한 구독 서비스의 성패가 결국 콘텐츠 품질에 달려 있다고 봤다. 영화 스트리밍의 경우 HBO처럼 강한 대표 콘텐츠가 있으면 이용자가 구독을 유지하지만, 게임은 특히 새 작품의 힘이 중요하다고 설명했다. 그러면서 엑스박스는 이용자들이 매달 기꺼이 비용을 낼 만큼 강한 신규 콘텐츠를 충분히 내놓지 못했다고 지적했다.토마스 말러 CEO는 최근 몇 년간 엑스박스 퍼스트파티 게임 가운데 대표작이 보이지 않았다고 주장했다. 이어서 엑스박스가 게임 이용자가 원하는 것이 무엇인지, 어떤 게임이 뛰어",
-          "published": "2026-06-21T05:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change",
             "funding"
           ]
         },
         {
-          "title": "[AI 고속도로] 같은 GPU, 다른 결과…AI 인프라도 산업별 맞춤형 설계",
-          "link": "https://zdnet.co.kr/view/?no=20260621080538",
-          "summary": "[지디넷코리아]인공지능(AI) 인프라 시장의 경쟁 축이 단순 그래픽처리장치(GPU) 확보에서 산업별 워크로드 최적화로 이동하고 있다. 로봇과 자율주행, 바이오, AI 에이전트 등 활용 분야가 다양해지면서 같은 GPU라도 데이터 특성과 운영 방식에 따라 필요한 인프라 구조가 달라지고 있다는 분석이 나온다.21일 업계에 따르면 최근 젠슨 황 엔비디아 최고경영자(CEO)가 방한해 로보틱스·제조·모빌리티 분야 AI 활용 가능성을 강조하면서 한국형 피지컬 AI가 화두로 떠올랐다.다만 업계에선 피지컬 AI 확산이 곧 획일적인 인프라 수요 증가로 이어지지는 않을 것으로 보고 있다. 산업마다 AI 모델을 학습·검증·배포하는 방식이 다르고 GPU 사용 규모와 기간, 배치 환경도 제각각이기 때문이다.이에 대해 안재만 베슬AI 대표는 \"AI 인프라 수요는 더 이상 하나의 덩어리로 움직이지 않는다\"며 \"GPU를 얼마나 확보하느냐 못지않게 누가·어떻게·어디서 쓰는지에 따라 인프라 설계가 달라지고 있다\"고 ",
-          "published": "2026-06-21T06:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "title": "Is China AI ready to match Anthropic’s Fable 5? Musk, Zhipu’s Tang clash over GLM-5.2 rise",
+          "link": "https://www.scmp.com/tech/article/3357926/china-ai-ready-match-anthropics-fable-5-musk-zhipus-tang-clash-over-glm-52-rise?utm_source=rss_feed",
+          "summary": "A Chinese AI model capable of matching Anthropic’s flagship Claude Fable 5 could arrive before the end of this year, according to the founder of Zhipu AI, escalating the global frontier model race after the release of Zhipu’s GLM-5.2. The prediction emerged from a rare online exchange between Zhipu founder and chief scientist Tang Jie and US tech trillionaire Elon Musk, sparking fresh debate over the narrowing artificial intelligence gap between the US and China. On social media platform X last.",
+          "published": "2026-06-22T12:00:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "노벨상 수상자까지 떠난 구글…핵심 AI 인재 이탈에 위기",
-          "link": "https://zdnet.co.kr/view/?no=20260621103937",
-          "summary": "[지디넷코리아]구글 핵심 인공지능(AI) 연구 인력이 경쟁사 앤트로픽으로 이직한다.20일(현지시간) 블룸버그통신에 따르면 존 점퍼 구글딥마인드 부사장이 회사를 떠나 앤트로픽에 합류하는 것으로 확인됐다. 지난주 제미나이 공동 개발자 노엄 샤지어의 이직 소식이 전해진 데 이어 또 다른 핵심 연구 인력이 자리를 옮기게 됐다.점퍼 부사장은 단백질 구조 예측 AI 모델 '알파폴드' 개발을 이끈 핵심 인물로 꼽힌다. 그는 데미스 허사비스 구글딥마인드 최고경영자(CEO)와 알파폴드 성과를 인정받아 2024년 노벨 화학상을 공동 수상했다.점퍼 부사장은 사회관계망서비스(SNS) '엑스'를 통해 \"약 9년간 몸담은 구글딥마인드를 떠나 앤트로픽에 합류한다\"며 \"박사 학위를 받은 지 6개월 만에 알파폴드 팀을 이끌 기회를 준 허사비스 CEO에게 고맙다\"고 밝혔다.지난주 노엄 샤지어 역시 오픈AI 합류 소식을 알렸다. 그는 제미나이 공동 개발자이자 생성형 AI 토대가 된 주요 논문 저자 중 한 명으로 알려",
-          "published": "2026-06-21T05:20:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "구글, '제미나이' 탑재한 AI 스피커 5년 만에 출시…한국은 미정 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51NHdmbHJHbGZFaVZRZ3VxbmVSSDhPdFVyOEhXdVFHb05aWC1lNVVjOGY0dUZpaHJpNkRRdDh6TVZXQ1d6UTMwNmhaQ0d1UGJqeHVOdmxoZG5WbVVONmVRVUZzbTZfSDZ5QVE?oc=5",
-          "summary": "구글, '제미나이' 탑재한 AI 스피커 5년 만에 출시…한국은 미정 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-21T03:42:29+00:00",
+          "title": "테슬라, AI 데이터센터 시장 진출 시동…모듈형 AI 하드웨어 '메가포드' 상표 출원 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YV3d4STg2a3EwOEloeVBEeUJGVWppbmFmeXNzY1ljNlBZUnNRYnYzOVJYajg3M3ZpRlBQU2pEeXpLanRpN1BVdUk5ejZfbjdGbi05ckhBWlhseVR1ejdLNE1XQnJqeWJNWWc?oc=5",
+          "summary": "테슬라, AI 데이터센터 시장 진출 시동…모듈형 AI 하드웨어 '메가포드' 상표 출원 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-22T07:49:54+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -121,19 +111,133 @@
           "event_labels": []
         },
         {
-          "title": "英, 유튜브 등에 공영방송 뉴스 ‘우선 노출’ 방안 검토",
-          "link": "https://zdnet.co.kr/view/?no=20260621102237",
-          "summary": "[지디넷코리아]영국 정부가 유튜브, 메타 등 사회관계망서비스(SNS)에 공영방송 뉴스 콘텐츠를 보다 눈에 띄게 노출하는 방안을 추진한다.20일(현지시간) 파이낸셜타임스 등 외신에 따르면 영국 정부는 BBC, ITV, 채널4 등 공영 방송의 뉴스 채널과 콘텐츠 노출을 확대하는 규정에 대한 의견 수렴을 이달 중 시작할 계획이다.이번 조치는 신뢰할 수 있는 영국 뉴스가 해외 기업의 알고리즘에 의해 가려지고 있다는 우려를 해소하기 위한 것이다. 현재 젊은 층이 TV 대신 SNS를 통해 뉴스를 소비하는 만큼 허위 정보와 조작 확산 문제에 대응하겠다는 목적이다.논의 중인 규정은 향후 중앙지(전국지)와 지역 신문에도 적용될 수 있다. 틱톡 피드 상단에 뉴스 콘텐츠를 우선 배치하는 방식 등이 거론된다.영국 정부는 BBC 등 방송사들이 동영상·SNS 플랫폼으로 적극 진출하는 것을 지지하고 있다. 또한 월드컵, 올림픽, 윔블던과 같은 주요 스포츠 행사의 주문형(VOD)·스트리밍 권리도 관련 규정 적용",
-          "published": "2026-06-21T10:30:01+00:00",
+          "title": "스페이스X, 프리장서 4% 가까이 하락 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zSTN5cFlETVNYX2czRUNWem5ZRmhlQlF1UVBVNUNZam00cTRVYU5DMW1Bd3l5OTQxTG52Q2s2TWtZcDVBZzdMTGpKNnM3X2lkaWJxMnNPTjdiMkQ2SVBnaXMyVUdmUHM1ME5hMmpvSnA?oc=5",
+          "summary": "스페이스X, 프리장서 4% 가까이 하락 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-22T09:04:09+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Groq Raises $650 Million to Aid in Pivot After Nvidia Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/groq-raises-650-million-to-help-startup-pivot-after-nvidia-deal",
+          "summary": "Groq Inc. raised $650 million in a new funding round aimed at expanding its data center capacity and helping the one-time chip startup become a provider of artificial intelligence computing.",
+          "published": "2026-06-22T13:00:37+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Getty Images Surges 145% After Announcing OpenAI Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/getty-images-soars-200-in-early-trading-after-openai-deal",
+          "summary": "Shares of stock-photo company Getty Images Holdings Inc. soared as much as 145% on Monday after it announced a licensing deal with OpenAI.",
+          "published": "2026-06-22T09:31:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "개발자 97%가 AI 코딩툴 쓴다…거버넌스 갖춘 곳은 3분의 1뿐",
+          "link": "https://zdnet.co.kr/view/?no=20260622205935",
+          "summary": "[지디넷코리아]인공지능 코딩 도구가 소프트웨어 개발의 기본값으로 자리 잡았지만, 이에 대한 관리 체계는 한참 뒤처져 있다는 조사가 나왔다. 빌드패스트위드AI(Build Fast with AI)가 전한 블랙덕(Black Duck) 보안 조사에 따르면 개발자의 97%가 인공지능 코딩 도구를 사용하지만, 인공지능이 생성한 코드에 대한 완전한 거버넌스(governance) 체계를 갖춘 조직은 3분의 1에 불과했다.도구별 채택률을 보면 깃허브 코파일럿(GitHub Copilot)이 83%로 가장 높았고, 출시된 지 1년이 채 되지 않은 클로드 코드(Claude Code)가 63%에 이르렀다. 짧은 기간에 이 정도 채택률을 기록한 것은 안전 장치와 함께 코딩 도구를 구축해 온 앤트로픽(Anthropic)의 기업 전략이 통했음을 보여준다는 평가다. 규제 산업이나 보안에 민감한 엔지니어링 팀에서 클로드 코드가 신뢰받는 선택지가 됐다는 것이다.문제는 거버넌스 공백이다. 인공지능이 생성한 코드가 검토",
+          "published": "2026-06-22T11:59:35+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Microsoft and Chevron Sign 20-Year Power Deal For Texas Data Center",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/microsoft-chevron-sign-20-year-power-deal-for-texas-data-center",
+          "summary": "Chevron Corp. signed a 20-year deal with Microsoft Corp. to provide natural-gas fired power for a proposed West Texas data center, which could be one of the biggest in the US.",
+          "published": "2026-06-22T10:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia Seeks to Make Humanoid AI Robots Safer Around Humans",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/nvidia-seeks-to-make-humanoid-ai-robots-safer-around-humans",
+          "summary": "Nvidia Corp. is working to make humanoid robots safer around people, arguing that they’ll need to handle split-second decisions before they can be trusted to work closely with humans.",
+          "published": "2026-06-22T13:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -141,19 +245,109 @@
           "event_labels": []
         },
         {
-          "title": "애플 비츠 이어폰, '도청 해킹' 취약점 뒤늦게 패치",
-          "link": "https://zdnet.co.kr/view/?no=20260621085821",
-          "summary": "[지디넷코리아]애플이 산하 오디오 브랜드 비츠(Beats)의 무선 이어폰 '비츠 스튜디오 버즈'에서 타인이 내 통화와 대화 내용을 몰래 도청할 수 있는 치명적인 보안 취약점을 확인, 소프트웨어 업데이트를 통해 수정했다.결함 보고 약 1년 만에 이뤄진 보안 패치로, 경쟁사들 대비 수개월 늦은 조치다.21일 IT 전문 매체 아르스테크니카 등 외신에 따르면, 문제가 된 취약점은 'CVE-2025-20701'로 이름 지어졌다. 이는 대만 미디어텍의 자회사 아이로하(Airoha)가 제공하는 블루투스 오디오 소프트웨어 개발 키트(SDK)에서 발생한 버그다. 이 취약점을 악용하면 공격자가 사용자 동의 없이 블루투스 오디오 기기를 몰래 페어링할 수 있으며, 추가적인 실행 권한 없이도 원격으로 기기 접근 권한을 획득할 수 있다. 해당 결함의 심각도(CVSS) 평가는 10점 만점에 8.8점으로 '고위험' 수준에 해당한다.이 취약점이 뚫릴 경우, 블루투스 신호 범위 내에 있는 제3자가 원래 페어링된 사",
-          "published": "2026-06-21T04:51:21+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Three things to watch amid Anthropic’s latest feud with the government",
+          "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of you enjoying your summer unaware of Anthropic’s latest feud with the US government, here’s a recap: In April the company said it had built an AI model called Mythos&#8230;",
+          "published": "2026-06-22T18:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"비싸도 살 사람은 산다\"…가격 상승 예고한 애플의 '프리미엄 독점' - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vOFdIZ01xRzEtYXozZ1p1dml4SnRWQTFHTEV0dHlwZUgwalBiTEh0VHRPOVUzeXY2WEJBeE5VVWpOdDBFU3pxMEdla0FVUGlsdGwwc0tpU3ZTMm0xZGM4WjlpcjEzaGdVQmc?oc=5",
+          "summary": "\"비싸도 살 사람은 산다\"…가격 상승 예고한 애플의 '프리미엄 독점' &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-22T04:56:24+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Apple supplier Lingyi seeks US$1.1 billion Hong Kong IPO to fund AI and robotics push",
+          "link": "https://www.scmp.com/tech/article/3357705/apple-supplier-lingyi-seeks-us11-billion-hong-kong-ipo-fund-ai-and-robotics-push?utm_source=rss_feed",
+          "summary": "Apple supplier Lingyi iTech is looking beyond smartphones, seeking to raise up to HK$8.3 billion (US$1.1 billion) in a Hong Kong initial public offering (IPO) to fund an ambitious expansion into artificial intelligence hardware and humanoid robotics. The Shenzhen-listed electronic components maker is expected to debut on the Hong Kong stock exchange on Friday after offering 811.8 million shares at a maximum price of HK$10.18 each, according to a company filing. The subscription period opened...",
+          "published": "2026-06-22T01:00:11+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 4,
+      "articles": [
+        {
+          "title": "Michael Saylor’s Strategy Buys $34.9 Million of Bitcoin Using Common Stock",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-22/michael-saylor-s-strategy-buys-34-9-million-of-bitcoin-using-common-stock",
+          "summary": "Michael Saylor’s Strategy Inc. bought $39.4 million of Bitcoin, leaning again on its common stock to fund purchases of the cryptocurrency for a third consecutive week despite earlier pledges to pivot to perpetual preferred shares.",
+          "published": "2026-06-22T12:20:27+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "정은보 거래소 이사장 “스테이블코인 도입 논의 진척돼야” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pNDAzVjhaZU1KT19BOTVzVG1xYTNQcHZfMzlYMUhwa2c4eWNFZXlDektFc2FBYWt1UlRhLUxDeGhnZEdRamwwM2pjZlZnSTNlekE?oc=5",
+          "summary": "정은보 거래소 이사장 “스테이블코인 도입 논의 진척돼야” &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-22T07:52:05+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -161,15 +355,35 @@
           "event_labels": []
         },
         {
-          "title": "MS, 올 10월 '오피스 2021' 지원 종료…보안 업데이트도 중단",
-          "link": "https://zdnet.co.kr/view/?no=20260621125714",
-          "summary": "[지디넷코리아]마이크로소프트가 올해 10월 '오피스 2021' 지원을 종료한다. 이용자는 이후에도 오피스 2021을 사용할 수 있지만 보안 패치와 기능 업데이트를 받을 수 없다. 마이크로소프트는 21일 워드와 엑셀, 파워포인트 등이 포함된 생산성 소프트웨어(SW) 제품군 오피스 2021 지원을 2026년 10월 13일 종료한다고 발표했다. 테크크런치 등 다수 외신은 오피스 2021이 지원 종료 후 대부분 환경에서 사용 가능할 것으로 보고 있다. 실제로 '오피스 2010'과 '오피스 2013'도 지원 종료 이후 상당 기간 사용된 사례가 있었다는 이유에서다.마이크로소프트는 오피스 2021 지원 종료 후 보안 패치와 기능 개선 업데이트는 더 이상 제공되지 않는다고 밝혔다. 오피스 2021에서 새로운 취약점 발견돼도 이를 해결할 방법이 없다는 의미다. 현재 오피스 2021 이용자는 지원 종료를 앞두고 대안을 찾기 시작했다. 영구 라이선스를 선호하는 이용자에게는 '오피스 2024'가 해결책으",
-          "published": "2026-06-21T07:30:01+00:00",
+          "title": "China’s MLCC suppliers eye Hong Kong capital as AI reshapes electronics supply chains",
+          "link": "https://www.scmp.com/tech/article/3357912/chinas-mlcc-suppliers-eye-hong-kong-capital-ai-reshapes-electronics-supply-chains?utm_source=rss_feed",
+          "summary": "Two major players in China’s multilayer ceramic capacitor (MLCC) supply chain are seeking Hong Kong listings, betting that a global surge in demand for the tiny electronic components powering artificial intelligence infrastructure will continue to fuel growth. Chaozhou Three-Circle, one of China’s largest MLCC manufacturers and already listed in Shenzhen, passed its listing hearing at Hong Kong Exchanges and Clearing (HKEX) last week ahead of an initial public offering sponsored by China Galaxy.",
+          "published": "2026-06-22T08:30:24+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "크로쓰 프로토콜, 알케미페이 연동…\"거래소 없이 신용카드로 토큰 산다\"",
+          "link": "https://zdnet.co.kr/view/?no=20260622175811",
+          "summary": "[지디넷코리아]온체인 게임 플랫폼 크로쓰 프로토콜이 글로벌 가상자산 결제 가교를 마련하며 생태계 접근성을 대폭 강화한다.크로쓰 프로토콜은 글로벌 법정화폐·가상자산 결제 게이트웨이 기업 알케미페이와 연동해 전통 법정화폐로 크로쓰 토큰($CROSS)을 구매할 수 있는 '온램프' 기능을 적용했다고 22일 밝혔다.온램프는 신용카드 등 법정화폐로 가상자산을 거래해 지갑으로 받는 기능이다. 이번 연동으로 글로벌 이용자는 가상자산 거래소를 거치지 않고도 통합 월렛인 크로쓰x를 통해 크로쓰 토큰을 거래할 수 있게 됐다.온램프 진행에 따른 결제와 본인확인(KYC) 절차는 알케미페이가 직접 수행한다. 미국 달러(USD)·유로(EUR)·싱가포르 달러(SGD)·홍콩 달러(HKD) 등 주요 법정화폐를 지원하고, 결제가 완료되면 크로쓰 메인넷의 크로쓰 토큰이 사용자 지갑에 지급된다.이번 연동은 웹3 생태계의 진입 장벽을 낮췄다는 점에서 의미가 있다. 거래소 가입이나 자산 이동 등 번거로운 절차 없이 기존 금",
+          "published": "2026-06-22T08:58:11+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -182,20 +396,75 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "르노코리아, AI 에이전트 앞세워 SDV 경쟁력 강화 나선다",
-          "link": "https://zdnet.co.kr/view/?no=20260621131348",
-          "summary": "[지디넷코리아]르노코리아가 국내외 기업 및 스타트업과의 협업을 기반으로 미래 모빌리티 생태계 확대에 나선다. 자체 개발 중인 인공지능(AI) 에이전트와 파트너사 기술을 공개하며 소프트웨어 중심 차량(SDV) 경쟁력 강화 전략도 제시했다.르노코리아는 지난 18일~19일 서울 코엑스에서 열린 아시아 최대 기술·스타트업 행사 '넥스트라이즈 2026'에 참가해 미래 모빌리티 비전과 오픈 이노베이션 전략을 소개했다고 21일 밝혔다.르노코리아는 '모빌리티 심포니'를 주제로 전시 부스를 열고 국내 연구진이 개발 중인 AI 통합 에이전트 'AI 오케스트레이터' 베타 버전을 선보였다.AI 오케스트레이터는 차량 내 다양한 기능을 통합 제어하며 운전자 맞춤형 서비스를 제공하는 것이 특징이다. 운전자의 선호 시트 위치와 실내 온도, 주행 모드 등을 음성으로 저장·설정할 수 있으며, 스마트폰 일정과 연계한 목적지 추천 기능도 지원한다.전시장에는 카카오모빌리티, 티맵모빌리티, 스매시랩스, 발레오 등 협력사들",
-          "published": "2026-06-21T04:13:48+00:00",
+          "title": "닷밀, 전시·테마파크 통합 예매 플랫폼 ‘비밀’ 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260622173413",
+          "summary": "[지디넷코리아]전시와 테마파크, 관광 콘텐츠의 예매부터 운영·정산까지 연결하는 자체 플랫폼이 나왔다. 콘텐츠 기반 공간 솔루션 기업 닷밀은 경험 소비 플랫폼 ‘비밀(bemill)’을 공식 출시했다고 22일 밝혔다.비밀은 닷밀의 오리지널 전시와 테마파크, 관광 콘텐츠를 통합한 티켓 플랫폼이다. 이용자는 플랫폼에서 문화 체험 콘텐츠를 검색·예약하고 구매한 티켓을 관리할 수 있다.운영자와 파트너사를 위한 통합 관리 기능도 마련했다. 콘텐츠 등록과 관리, 실시간 예매 현황 확인, 정산과 회원 관리 기능 등을 제공한다. 카카오와 네이버, 구글 계정을 활용한 간편 로그인도 지원한다.닷밀은 플랫폼 출시를 기념해 오는 28일까지 비밀 이용자를 대상으로 프로모션을 진행한다. 회원은 루나폴 입장권을 10% 할인된 가격에 구매할 수 있다.원피스 특별 체험전은 비밀에서 단독 예매할 수 있으며 20% 얼리버드 할인 혜택을 제공한다. ‘약사의 혼잣말’은 선예매 고객 가운데 선착순 5천명에게 한정판 포토카드를",
+          "published": "2026-06-22T08:34:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "국민연금, 카카오 손잡고 AI 인프라 구축한다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2X3RCamNRWG4yaUVHZmltUWRJRnEtb1ZERU1aaVA5MGdZWkhMUHg5bUF1VS1WWmNsNkFxc2I5NmFlSnhpdmQ1X245TUo2bGhnMm1VQ3RtSTZTUGI2SGl3VmFEOE9hdVpVSTdPNnBtV3I?oc=5",
+          "summary": "국민연금, 카카오 손잡고 AI 인프라 구축한다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-22T05:34:58+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"팔로워 수보다 AI 인용수\"…네이버 메이트, 창작 생태계 바꾼다",
+          "link": "https://zdnet.co.kr/view/?no=20260622165503",
+          "summary": "[지디넷코리아]“저 네이버 메이트 됐어요.”, “조회수는 낮았는데 AI 인용수가 높게 나왔습니다.”네이버의 인공지능(AI) 창작자 지원 프로그램 ‘네이버 메이트’가 공개된 이후 선정된 이용자들의 후기가 이어지고 있다. 사회관계망서비스(SNS)를 통해 ‘AI 인용수’와 AI에 잘 인용되는 방법, 창작자 지원 혜택에 대한 관심도 확대되는 상황이다.네이버 메이트는 AI 브리핑 인용 수를 중심으로 블로그·카페·지식iN·프리미엄콘텐츠 등 네이버 UGC 서비스에서 활동하는 창작자를 매월 선정하는 프로그램이다.프로그램이 공개된 뒤 ‘AI 인용수’에 주목하는 창작자들이 늘고 있다는 점이 가장 눈에 띈다. 한 IT·테크 분야 창작자는 “네이버 메이트 선정은 단순 팔로워 수나 방문객 수보다 AI 인용 횟수가 중요한 기준인 것 같다”며 “방문객 수가 기준이었다면 선정되기 어려웠을 것”이라고 밝혔다.또 다른 창작자는 “이제 블로그도 단순 조회수 싸움이 아니라 AI에 인용되는 콘텐츠 싸움으로 가는 듯하다”",
+          "published": "2026-06-22T08:17:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "삼성·서울대도 택했다…오픈AI 챗GPT, 조직 인프라로 진화",
+          "link": "https://zdnet.co.kr/view/?no=20260622172546",
+          "summary": "[지디넷코리아]기업용 인공지능(AI) 핵심이 개인 생산성 도구를 넘어 조직의 데이터·보안·업무 흐름에 연결되는 인프라로 진화하고 있다. 삼성전자와 서울대학교를 비롯한 국내 주요 기업·기관이 챗GPT 엔터프라이즈와 코딩 에이전트 코덱스를 잇따라 도입하면서 생성형 AI 활용이 개인 단위를 넘어 조직 단위로 빠르게 확산하는 모습이다.오픈AI는 삼성전자가 임직원의 업무 혁신과 전사적 AI 전환을 위해 전 세계 임직원들에게 챗GPT 엔터프라이즈와 코덱스를 공급한다고 22일 밝혔다. 이번 계약에 따라 삼성전자 국내 전 임직원과 디바이스경험(DX) 부문 전 세계 임직원에게 챗GPT와 코딩 에이전트 코덱스가 제공된다. 이는 오픈AI 엔터프라이즈 계약 중 최대 규모의 도입 사례 중 하나다.서울대학교도 전 구성원 약 4만 7000명에게 교육기관 전용 생성형 AI 서비스인 챗GPT 에듀를 제공하기로 했다. 카카오는 카카오톡 그룹 채팅방에서 챗GPT에 질문하고 답변을 받는 기능을 선보였다. LG전자·LG",
+          "published": "2026-06-22T08:25:46+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -215,8 +484,29 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "이찬진 \"미래에셋 스페이스X 사태 이해 안돼…어처구니 없다\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5WQ0hEYS1EbHlFMFVfSDlnRjJRZnNSR2gtclNyeWxUc3JZbXY0eDl3ZlJmSjFCRm9jeVhDSHprMm02b3pGcGVsZXA1NGd6b3RTRm9QNGJWLTZpZlpWQVFTSW9QcS03WmNVZGNVczJoSHk?oc=5",
+          "summary": "이찬진 \"미래에셋 스페이스X 사태 이해 안돼…어처구니 없다\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-22T06:03:02+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
