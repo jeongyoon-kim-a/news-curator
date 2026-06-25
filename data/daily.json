@@ -1,76 +1,36 @@
 {
-  "generated_at": "2026-06-24T22:21:09.494639+00:00",
-  "total_articles": 20,
+  "generated_at": "2026-06-25T22:22:57.481284+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 3,
       "articles": [
         {
-          "title": "SpaceX Holder Andreessen Says Starship Opens Path to AI in Space",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/spacex-holder-andreessen-says-starship-opens-path-to-ai-in-space",
-          "summary": "Andreessen Horowitz LLC General Partner David George, an investor in SpaceX, said the “rapid reusability” of the new Starship rocket will be crucial to delivering on Elon Musk’s bet on orbital data centers to expand AI computing capacity.",
-          "published": "2026-06-24T17:43:45+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“인류최초 ‘조만장자’ 타이틀 반납”…스페이스X 급락에 머스크 자산 가치도↓ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40UWx0LTJDQ3JsRXJuemM3ZE5scmYwR05VbmVYM2NYTUdEV1lPOXNHWklJNDhnYk5YZ2YxWVV5aEE5SF8zNzJObDRvaW83RXV5N3c?oc=5",
-          "summary": "“인류최초 ‘조만장자’ 타이틀 반납”…스페이스X 급락에 머스크 자산 가치도↓ &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-24T21:30:18+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "머스크, '조만장자' 지위 2주 만에 반납…AI 거품론·기술주 폭락 직격탄 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vMVE3cXVYYURKZDZjM2M3LWtPc0UyVDgtNW14OFQwRmx3dURPR1lFRnlwN3RvU21uMFdlcExEV1c4UEl6YVVsem1ySFBoTEE4Wk5kX2owd3lzSS1aODM5dGwtTU9UbjlKTXc?oc=5",
+          "summary": "머스크, '조만장자' 지위 2주 만에 반납…AI 거품론·기술주 폭락 직격탄 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-25T07:54:41+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "China’s telecoms giants bet on ‘air-space-ground-sea’ networks for future AI needs",
-          "link": "https://www.scmp.com/tech/article/3358220/chinas-telecoms-giants-bet-air-space-ground-sea-networks-future-ai-needs?utm_source=rss_feed",
-          "summary": "China’s telecoms giants are pushing for “air-space-ground-sea” networks amid Beijing’s push to expand artificial intelligence infrastructure, as SpaceX’s market debut has ignited the industry’s focus beyond the Earth. At the opening of the Mobile World Congress (MWC) Shanghai on Wednesday, telecommunications executives framed the next phase of infrastructure as one that needs to encompass both the skies and oceans to meet skyrocketing demand for AI computing. Wang Tao, rotating chairman of...",
-          "published": "2026-06-24T11:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, 8월부터 '보호예수 폭탄' 줄줄이 대기 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NZ3MweWNqdFhReUdrV09PdHJNbWZKajZtUDRhUTN5OFZydUgwM3BrTXFNVk9YeFU0TnpoZ0FCc0pHM2huckRvcTB0NHlleWg2cFNqOVVOdE9sZXJuRzBmakFNYjc0SW9FRFViY3EzaFHSAXRBVV95cUxPOXlzSmdnMnVoaE1US1lOVHBmU1l5OE5Xb295dERrOW5pQ2NZUk1jbWo4emhnTHNGeWJWeTJQZkJFaW05UWE5T1RJVkNJUTVTWFFIRnNrLUotemo5WlFHZTAtcEY0bnNjQ3A5ZC0zS3E3RC01cQ?oc=5",
-          "summary": "스페이스X, 8월부터 '보호예수 폭탄' 줄줄이 대기 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-24T01:10:06+00:00",
+          "title": "스페이스X, 프리마켓에서 상승 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0bjdsSGJUS0VGNnR3bi1meDUtQjJqYThuNE9YTE11dUtoY0hIblpPUFl6S0pCNzBUa0xEMXZXeVRpWnV1UExNT1FKS2RuRnZGU0RyZkhNYjlVVE9jVEFHbmV3cmlqczhOall0ZjY3OTg?oc=5",
+          "summary": "스페이스X, 프리마켓에서 상승 출발 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-25T08:15:59+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -87,12 +47,12 @@
           "event_labels": []
         },
         {
-          "title": "테슬라 FSD, 텍사스서 70대 사망 사고로 미 연방 조사 착수 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAxNDNNNkVlc2lsR3ZzV20xVC1Ld25nWUQzWWF1X1R0VkY1QXFNV2VSSm5veEhNQXJyUTBXc2ZpUktYb19tYnFrNGRVRDZPeFF5eDlKMGRZUzVlRndtTjU0WFl4bEpycHZTY3c?oc=5",
-          "summary": "테슬라 FSD, 텍사스서 70대 사망 사고로 미 연방 조사 착수 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-24T07:12:37+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "설상가상 스페이스X…8월 더 큰 폭탄 온다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b09nejF2ZWQzTzlDSzYyUDJtbm40NVRpSHRlQVBiNHp0WjRDa2VLVGJ2SUNjLVNGQmY0WDM5WktoblpEWG92c3Ezel9jZk11SVE?oc=5",
+          "summary": "설상가상 스페이스X…8월 더 큰 폭탄 온다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-25T08:43:43+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -113,18 +73,38 @@
       "count": 8,
       "articles": [
         {
-          "title": "Google Poised to Lose Two More Senior AI Staffers to Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/google-poised-to-lose-two-more-high-profile-ai-staffers-to-anthropic",
-          "summary": "Two leading artificial intelligence researchers at Alphabet Inc.’s Google are planning to leave for rival Anthropic PBC, according to people familiar with the matter, adding to a series of high-profile departures that risk undercutting the search giant’s position in AI.Jonas Adler and Alexander Pritzel, both viewed internally as key contributors to Google’s Gemini AI model, are set to move to the Claude maker, said the people, who spoke on condition of anonymity as the information is not public.",
-          "published": "2026-06-24T18:18:14+00:00",
+          "title": "Trump Administration Asks OpenAI to Stagger Release of AI Model",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
+          "summary": "The Trump administration has asked OpenAI to stagger the release of an upcoming powerful artificial intelligence model, according to a person familiar with the matter, nearly two weeks after rival Anthropic PBC suspended its most capable offerings from the market under regulatory pressure.",
+          "published": "2026-06-25T22:00:54+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 18,
+          "score": 16,
           "score_breakdown": {
             "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Leans Toward Waiting Until 2027 for IPO, NYT Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says",
+          "summary": "OpenAI is leaning toward holding off on an initial public offering until 2027, the New York Times reported, citing three people involved in the company’s deliberations.",
+          "published": "2026-06-25T20:51:55+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 3,
             "recency": 3,
             "event_bonus": 2,
@@ -135,18 +115,18 @@
           ]
         },
         {
-          "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-          "link": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-          "summary": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick and John Collison, says it will fund a new&#8230;",
-          "published": "2026-06-24T12:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "Chinese physical AI start-up proposes new paradigm that bypasses OpenAI, Meta road maps",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3358346/chinese-physical-ai-start-proposes-new-paradigm-bypasses-openai-meta-road-maps?utm_source=rss_feed",
+          "summary": "A Chinese physical AI start-up has launched a new world model designed to simulate reality by embedding the laws of physics directly into its code – a departure from the data-driven approaches favoured by American tech giants like OpenAI and Meta Platforms. Shanghai-based Fysics AI announced the launch of the Fysiverse, which it described as a “new-generation physics-based world model that adheres to real-world physical laws”, in a post on its WeChat social media account on Wednesday. The...",
+          "published": "2026-06-25T14:00:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -155,52 +135,32 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic Accuses Alibaba of ‘Illicitly’ Accessing AI Models",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/anthropic-accuses-alibaba-of-illicitly-accessing-its-ai-models",
-          "summary": "Anthropic PBC accused Chinese technology giant Alibaba Group Holding Ltd. of waging a large-scale effort to “illicitly” access its Claude artificial intelligence model using thousands of fraudulent accounts that undermine the US AI developer’s decision to keep its products out of China.",
-          "published": "2026-06-24T19:36:41+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "US Stocks Erase Gains as Apple Price Hikes Offset Chips Strength",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-tech-stocks-set-to-rally-as-micron-outlook-fuels-ai-optimism",
+          "summary": "US stock indexes ended Thursday nearly where they started after a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
+          "published": "2026-06-25T09:41:07+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple supplier Luxshare Precision Industry passes hearing for Hong Kong listing",
-          "link": "https://www.scmp.com/tech/big-tech/article/3358183/apple-supplier-luxshare-precision-industry-passes-hearing-hong-kong-listing?utm_source=rss_feed",
-          "summary": "Luxshare Precision Industry, a key player in Apple’s AirPods and iPhone supply chains, passed a listing hearing for Hong Kong Exchanges and Clearing (HKEX), joining a wave of mainland Chinese technology manufacturing giants seeking diversified capital in the city. The Shenzhen-listed firm cleared the regulatory hurdle for a Hong Kong listing on Tuesday, days after receiving the green light from the China Securities Regulatory Commission for the offshore plan. The deal counts Citic Securities,...",
-          "published": "2026-06-24T07:30:26+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 3,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "funding"
           ]
         },
         {
-          "title": "Alibaba cuts Qwen AI model costs on Qoder coding platform to capture US workday demand",
-          "link": "https://www.scmp.com/tech/tech-war/article/3358224/alibaba-cuts-qwen-ai-model-costs-qoder-coding-platform-capture-us-workday-demand?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding has slashed prices for its flagship Qwen AI models by up to 80 per cent on its Qoder agentic coding platform, offering an aggressive discount to hook global developers to compete with US and Chinese rivals like Anthropic and Zhipu AI. The e-commerce and cloud giant said on X on Tuesday that it was cutting the price of its flagship Qwen3.7-Max model by 80 per cent and its smaller Qwen3.7-Plus model by 60 per cent for international users from 10pm to 8am Beijing time. The...",
-          "published": "2026-06-24T12:30:08+00:00",
+          "title": "China’s cybersecurity industry needs its own Mythos model, 360 founder warns",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3358341/chinas-cybersecurity-industry-needs-its-own-mythos-model-360-founder-warns?utm_source=rss_feed",
+          "summary": "China must develop its own equivalent to Anthropic’s Mythos model to counter the cybersecurity risks posed by the artificial intelligence era, according to 360 Security Technology founder Zhou Hongyi, who likened the powerful US technology to a “cyber nuclear weapon”. Released in April with the ability to autonomously identify software vulnerabilities, Mythos has accelerated vulnerability discovery a hundredfold while slashing costs – a “terrifying change” that had effectively “democratised”...",
+          "published": "2026-06-25T13:00:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -217,10 +177,10 @@
           "event_labels": []
         },
         {
-          "title": "Alphabet’s Dow Debut Shows Index Headache in Tech-Driven Economy",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/alphabet-s-dow-debut-shows-index-headache-in-tech-driven-economy",
-          "summary": "Alphabet Inc.’s addition to the Dow Jones Industrial Average marks another step in the benchmark’s effort to catch up with a market increasingly defined by Big Tech.",
-          "published": "2026-06-24T18:48:51+00:00",
+          "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
+          "summary": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ahead to a new artificial intelligence-focused chip generation for its next top-end processors.",
+          "published": "2026-06-25T16:35:34+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -237,40 +197,40 @@
           "event_labels": []
         },
         {
-          "title": "China’s medical AI breaks ground as surgical robot wins EU approval, model tops benchmark",
-          "link": "https://www.scmp.com/tech/article/3358087/chinas-medical-ai-breaks-ground-surgical-robot-wins-eu-approval-model-tops-benchmark?utm_source=rss_feed",
-          "summary": "Medical AI from China has reached new milestones, with a teleoperated surgical robot gaining access to the European Union market and a clinical-grade model topping a major healthcare benchmark developed by OpenAI. Shanghai MicroPort MedBot said its Toumai Remote robot, which allowed surgeons to remotely conduct laparoscopic surgeries, had received the “CE mark” from the European Union, a mandatory requirement to enter the market, according to its Hong Kong stock exchange filing on Monday. The...",
-          "published": "2026-06-24T01:00:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Microsoft Raises Xbox Prices for Third Time in 13 Months",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-raises-xbox-console-prices-for-third-time-in-13-months",
+          "summary": "Microsoft Corp. announced a third substantial price increase for the company’s current-generation Xbox video-game consoles in a glaring example of the component shortage crisis that has universally driven up the cost of consumer tech products.",
+          "published": "2026-06-25T17:16:06+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "엔비디아 없이 美 압도했다...‘CPU100%’ 中 슈퍼컴퓨터, 세계 1위 탈환 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQemdJeC1acEo3aU40Tk1mU0huS2gtcEZvaUNka3VCRGxHaUV4aFU1WnY3X0NDOXA2LUgtbHUwUmZTU2xLNnRIcjgyLXh4OGljcVE?oc=5",
-          "summary": "엔비디아 없이 美 압도했다...‘CPU100%’ 中 슈퍼컴퓨터, 세계 1위 탈환 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-24T01:23:12+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Waymo Registers German Entity for Future European Expansion",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-25/waymo-registers-german-entity-for-future-european-expansion",
+          "summary": "Waymo is planning to offer its driverless robotaxis in Germany, the latest move by the Alphabet Inc. unit to expand outside the US.",
+          "published": "2026-06-25T17:51:09+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -280,109 +240,26 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 4,
-      "articles": [
-        {
-          "title": "Bitcoin Breaks Below $60,000 Again as Biggest Crypto Buyers Balk",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-breaks-60-000-again-as-crypto-s-biggest-buyers-wobble",
-          "summary": "Bitcoin’s slide back below $60,000 is reviving a fear that has largely been absent from crypto for the past two years: what happens when the market’s biggest buyer comes under pressure just as retail traders lose interest.",
-          "published": "2026-06-24T18:02:25+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Crypto Deal Between Cantor SPAC and Adam Back DAT Gets Delayed",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/crypto-deal-between-cantor-spac-and-adam-back-dat-gets-delayed",
-          "summary": "A closely watched vote on a tie-up between a Cantor Fitzgerald-linked company and a digital-asset treasury firm led by Adam Back has been delayed.",
-          "published": "2026-06-24T21:21:59+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Bitcoin’s Retreating Retail Army Exposes Fresh Fragility",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-24/bitcoin-s-retreating-retail-army-exposes-fresh-market-fragility",
-          "summary": "Bitcoin spent years trying to shed its reputation as a playground for speculative retail traders. Its latest selloff is exposing the tradeoff: Wall Street brought scale and legitimacy, but the retail buyers who once helped absorb sharp declines have largely vanished.",
-          "published": "2026-06-24T12:27:31+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "교보생명, 스테이블코인으로 보험금 지급한다…기술 검증 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PTjA3SXNic2g2SWFRRHdLZktnZXBuMGJHTkNTVzBSc1RxSU94dm5LRlFhaEpjcTZ2d1V1YXRxWjVDZ2p4SkNfdXJPM0UzcV84ZjA4WlIyU2J2dG4tNlQzWTRqanlhckFrV1I3QlQwYjXSAXRBVV95cUxNX0FrZy1sQ0NJU1JZYV9nZUxDMlJkWkFhWk1meEl2TUtHczdIOExPX2ppOEdqM3hwSGFLTjF2VTJFUEFqTmFkaXduNVFXb0k1WE5DVkNKVDJ4YkRxc0V3ekg5cmNDZHQxWTBTR2FaQ3NPbXozeg?oc=5",
-          "summary": "교보생명, 스테이블코인으로 보험금 지급한다…기술 검증 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-24T00:35:16+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 3,
       "articles": [
         {
-          "title": "금보원-인터넷은행 3사, 보이스피싱 탐지 AI 개발 7월 적용",
-          "link": "https://zdnet.co.kr/view/?no=20260624204729",
-          "summary": "[지디넷코리아]금융보안원(원장 박상원)이 인터넷은행 3사(카카오뱅크, 토스뱅크, 케이뱅크)와 연합학습 기법을 활용한 '보이스피싱 탐지 AI 공동모델'을 개발했다. 연합학습은 원본 학습데이터를 외부에 공유하지 않고, 기관별로 학습된 AI 모델(가중치)만 공유·병합, 개별 기관의 프라이버시와 보안을 유지하면서도 공동으로 활용가능한 고성능 AI를 만드는 차세대 협업 기술이다.금보원은 보이스피싱 탐지를 위해 직접 AI 모델을 개발·운영해 온 인터넷은행 3사의 현장 경험과 원에서 연구및 개발한 연합학습 알고리즘을 더해 설계했다. 공동모델을 활용할 경우 각 은행이 보유한 사기탐지 역량이 다른 은행으로 상호 전파, 개별 은행에서 기존에 탐지하지 못하던 사기 거래를 탐지할 수 있다고 설명했다.실제, 공동 모델 활용 시 각 은행 개별 모델이 탐지하지 못한 사기거래를 탐지한 사례가 다수 확인됐고, 공동 모델의 탐지 정밀도(모델이 사기라고 판단한 것 중에서 실제로 사기인 것의 비율)가 개별 모델 대비 ",
-          "published": "2026-06-24T11:47:29+00:00",
+          "title": "구글 엔지니어 \"GLM-5.2, 美 모델 증류 없이도 미토스급 간다\"",
+          "link": "https://zdnet.co.kr/view/?no=20260625205825",
+          "summary": "[지디넷코리아]중국 Z.ai(지푸AI)의 오픈소스 모델 GLM-5.2가 클로드 오퍼스(Claude Opus 4.8)에 필적하는 코딩 성능으로 주목받고 있다. 구글 엔지니어 패트릭 툴메(Patrick Toulme)는 이 모델의 훈련 방식을 두고 “이제 중국 모델은 미국산 모델을 증류(distillation)하지 않고도 더 높은 성능에 도달할 수 있다”는 분석을 내놨다.GLM-5.2는 6월 17일 MIT 라이선스로 공개된 약 750B(활성 약 40B) 규모의 전문가 혼합(MoE) 모델로, 100만 토큰 컨텍스트를 지원한다. 프런티어SWE에서 74.4%를 기록해 GPT-5.5를 앞섰고 클로드 오퍼스 4.8(75.1%)에 1%포인트 안쪽까지 따라붙었다. API 비용은 오퍼스의 약 6분의 1 수준이다.툴메의 핵심 주장은 “증류가 성능을 만든 게 아니다”라는 것이다. 그는 증류가 강화학습(RL)의 ‘콜드 스타트’ 문제만 해결했다고 설명했다. 강화학습은 모델이 실제로 작업을 완수한 ‘성공 궤적(",
+          "published": "2026-06-25T11:58:25+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 13,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 5,
             "source": 1,
             "recency": 2,
             "event_bonus": 0,
@@ -391,32 +268,30 @@
           "event_labels": []
         },
         {
-          "title": "DJI, 여름 할인 행사… 첫 로봇청소기 ROMO 최대 30%·Neo·Osmo 특별가",
-          "link": "https://zdnet.co.kr/view/?no=20260624221018",
-          "summary": "[지디넷코리아]민간용 드론과 카메라 기술의 글로벌 기업 DJI가 본격적인 여름 시즌을 맞아 할인 행사를 연다. 행사 기간은 7월 5일까지이며, DJI 공식 스토어를 비롯해 쿠팡·네이버 등 주요 온라인 채널에서 진행된다. 대상 제품군은 로봇청소기, 드론, 액션 카메라, 360도 카메라, 포켓 카메라, 스마트폰 짐벌, 무선 마이크까지 폭넓게 걸쳐 있어 여름철 여행·콘텐츠 촬영 수요를 겨냥했다.이번 행사의 중심은 DJI의 첫 로봇청소기 ‘DJI ROMO’ 시리즈다. 물탱크 버전인 ROMO P, ROMO S, ROMO A 전 모델에 최대 30% 할인이 적용된다. 대표 모델 ROMO P는 1,940,000원에서 1,358,000원으로 내렸다(6월 1일~6월 30일). ROMO는 DJI가 드론·카메라에서 쌓은 매핑과 자율주행 기술을 가정용 로봇청소기로 확장한 첫 제품이라는 점에서 의미가 있다. 함께 DJI Neo, Osmo 360, Osmo Pocket 3, Osmo Action 5 Pro 등",
-          "published": "2026-06-24T13:10:18+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "네이버 D2SF, 에이전틱 AI 커머스 ‘사줘’에 신규 투자…”네이버쇼핑과 협업” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UalR3eC1SaC1jMS13Z0lmRWVQdXFST0d5TEx6VjFiYmN0OGdBcVpxeU1hQmlhSGN2VzJLblRGQkJsLU9JUmo0NWtYVm5MaW1zWTV5bzAwelRPZnN0RTBNVTVzUzR3R1l6Q3c?oc=5",
+          "summary": "네이버 D2SF, 에이전틱 AI 커머스 ‘사줘’에 신규 투자…”네이버쇼핑과 협업” &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-25T07:53:15+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "‘김범수 무죄’ 1심 뒤집기 나선 검찰…방시혁 증인 등판하나",
-          "link": "https://zdnet.co.kr/view/?no=20260624190533",
-          "summary": "[지디넷코리아]자본시장법 위반 혐의를 받는 김범수 카카오 창업자에 대한 2심 공판이 열린 가운데, 검찰은 공개 매수를 저지할 목적을 가진 주요 증거가 1심에서 고려되지 못했다고 주장했다. 이날 검찰이 방시혁 하이브 의장을 증인으로 추가 요청함에 따라 그가 증인 채택될 지 여부에도 관심이 쏠린다.서울고법 형사4-1부(부장판사 김인경 성지용 전지원)는 24일 김 창업자를 포함한 카카오 전·현직 경영진들의 2심 첫 공판을 열었다. 재판부는 SM엔터테인먼트 인수 과정에서의 시세 조종 목적성을 중점적으로 들여다봤다.김 창업자는 2023년 2월 SM엔터 인수 과정에서 경쟁사인 하이브의 공개매수를 저지하기 위해 SM엔터 주가를 하이브의 공개매수가인 12만원보다 높게 설정·고정했다는 혐의를 받고 있다.검찰은 김 창업자가 같은 해 2월 16~17일, 27일 배재현 전 투자총괄대표, 원아시아파트너스 등과 함께 공모해 약 1100억원의 SM엔터 주식을 고가 매수·물량소진 등의 방식으로 300회 이상 시",
-          "published": "2026-06-24T10:15:22+00:00",
+          "title": "한성숙 '창과 방패' 청문회...與 \"AI 리더\" vs 野 \"미꾸라지\"",
+          "link": "https://zdnet.co.kr/view/?no=20260625161137",
+          "summary": "[지디넷코리아]한성숙 국무총리 후보자 인사청문회에서 여·야가 후보자 자질을 놓고 정면 충돌했다. 더불어민주당은 IT 기업 대표와 중소벤처기업부 장관을 지낸 경험을 앞세워 인공지능(AI) 시대를 이끌 적임자라고 평가한 반면, 국민의힘은 다주택 논란과 불법 증축, 개인정보 유출, 안보관 등을 집중 추궁하며 공세를 이어갔다.25일 서울 여의도 국회에서 열린 한 후보자 인사청문회에서 더불어민주당은 한 후보자 경력과 정책 역량을 부각하는 데 주력했다. 네이버 대표 재직 시절 공적과 함께 ‘AI 대전환’을 시대적 과제로 삼고 있는 현 정부의 정책 기조에 궤를 같이 할 수 있다는 의견이 대표적이다.이외에도 중소벤처기업부 장관 시절 추진했던 ‘모두의 창업’ 개인정보 유출 후속 대응 방안, 12·29 제주항공 여객기 참사 진상 해결 등에 한 후보자의 자질과 공직 역량을 엿볼 수 있는 질문도 이어졌다.모두의 창업 개인정보 유출 사안을 두고 한 후보자는 거듭 사과하며 “가용 가능한 모든 수단을 활용하겠",
+          "published": "2026-06-25T08:21:00+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -427,19 +302,38 @@
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": -3
+            "event_bonus": 0,
+            "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "‘총수 일가 골프장만 이용 원칙’ 미래에셋 계열사들 무죄 확정 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TS3ZCQjhVYTJMUzhYMnNBMDZFYkh0RzcySE1NWFg3ZS13SnlJVE82clFEWmd5OFlHNHdERjEzenB5Q0pzYTlQRlZ0TDIya0dzMlE?oc=5",
+          "summary": "‘총수 일가 골프장만 이용 원칙’ 미래에셋 계열사들 무죄 확정 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-25T11:54:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
