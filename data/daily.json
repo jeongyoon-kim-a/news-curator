@@ -1,16 +1,38 @@
 {
-  "generated_at": "2026-06-25T22:22:57.481284+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-06-26T22:17:00.005854+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "머스크, '조만장자' 지위 2주 만에 반납…AI 거품론·기술주 폭락 직격탄 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vMVE3cXVYYURKZDZjM2M3LWtPc0UyVDgtNW14OFQwRmx3dURPR1lFRnlwN3RvU21uMFdlcExEV1c4UEl6YVVsem1ySFBoTEE4Wk5kX2owd3lzSS1aODM5dGwtTU9UbjlKTXc?oc=5",
-          "summary": "머스크, '조만장자' 지위 2주 만에 반납…AI 거품론·기술주 폭락 직격탄 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-25T07:54:41+00:00",
+          "title": "“스페이스X 급락에 IPO시장 신뢰 바닥”...‘1조달러’ 외친 오픈AI, 상장 미루나 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lUW1jY2F1WFZnR3VwVzhiWE5lU1pLRjNPdFQ0S2syVW5ONFlNeVl2VXBUb2ptSmtBNUlrMW0yajJMNlJlNzM2dGdWSG56T2J6X3c?oc=5",
+          "summary": "“스페이스X 급락에 IPO시장 신뢰 바닥”...‘1조달러’ 외친 오픈AI, 상장 미루나 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-26T00:21:08+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "오픈AI, IPO 내년 연기 검토…'주가 급락' 스페이스X 변동성에 신중론 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GcWNXamg0M2RFWlRBM21EUWtZVFRMRVFGRjRJb2RpZzBCU3U3emhUZHVlZURJcjVrRGlmVXVlMXUxdEE2MzJwQzZ0ZXVOcUUza1cxM2wwM0p1b3I1UGI3bTlyby12N2E2NHc?oc=5",
+          "summary": "오픈AI, IPO 내년 연기 검토…'주가 급락' 스페이스X 변동성에 신중론 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-26T07:16:43+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -18,53 +40,15 @@
           "category_display": "일론 머스크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, 프리마켓에서 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0bjdsSGJUS0VGNnR3bi1meDUtQjJqYThuNE9YTE11dUtoY0hIblpPUFl6S0pCNzBUa0xEMXZXeVRpWnV1UExNT1FKS2RuRnZGU0RyZkhNYjlVVE9jVEFHbmV3cmlqczhOall0ZjY3OTg?oc=5",
-          "summary": "스페이스X, 프리마켓에서 상승 출발 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-06-25T08:15:59+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
-        },
-        {
-          "title": "설상가상 스페이스X…8월 더 큰 폭탄 온다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3b09nejF2ZWQzTzlDSzYyUDJtbm40NVRpSHRlQVBiNHp0WjRDa2VLVGJ2SUNjLVNGQmY0WDM5WktoblpEWG92c3Ezel9jZk11SVE?oc=5",
-          "summary": "설상가상 스페이스X…8월 더 큰 폭탄 온다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-25T08:43:43+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
@@ -73,40 +57,20 @@
       "count": 8,
       "articles": [
         {
-          "title": "Trump Administration Asks OpenAI to Stagger Release of AI Model",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/trump-administration-asks-openai-to-stagger-release-of-ai-model",
-          "summary": "The Trump administration has asked OpenAI to stagger the release of an upcoming powerful artificial intelligence model, according to a person familiar with the matter, nearly two weeks after rival Anthropic PBC suspended its most capable offerings from the market under regulatory pressure.",
-          "published": "2026-06-25T22:00:54+00:00",
+          "title": "OpenAI Weighs IPO in 2027 After Expected Anthropic Public Debut",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/openai-weighs-ipo-in-2027-after-expected-anthropic-public-debut",
+          "summary": "OpenAI is considering an initial public offering as soon as in 2027, according to people familiar with the matter, a timeline that would potentially see it go public after its artificial intelligence rival Anthropic PBC.",
+          "published": "2026-06-26T14:40:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 17,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Leans Toward Waiting Until 2027 for IPO, NYT Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/openai-leans-toward-waiting-until-2027-for-ipo-ny-times-says",
-          "summary": "OpenAI is leaning toward holding off on an initial public offering until 2027, the New York Times reported, citing three people involved in the company’s deliberations.",
-          "published": "2026-06-25T20:51:55+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -115,18 +79,122 @@
           ]
         },
         {
-          "title": "Chinese physical AI start-up proposes new paradigm that bypasses OpenAI, Meta road maps",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3358346/chinese-physical-ai-start-proposes-new-paradigm-bypasses-openai-meta-road-maps?utm_source=rss_feed",
-          "summary": "A Chinese physical AI start-up has launched a new world model designed to simulate reality by embedding the laws of physics directly into its code – a departure from the data-driven approaches favoured by American tech giants like OpenAI and Meta Platforms. Shanghai-based Fysics AI announced the launch of the Fysiverse, which it described as a “new-generation physics-based world model that adheres to real-world physical laws”, in a post on its WeChat social media account on Wednesday. The...",
-          "published": "2026-06-25T14:00:05+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Apple’s Vision Pro and Smart Glasses Chief to Join OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/apple-s-vision-pro-and-smart-glasses-chief-paul-meade-is-leaving-for-openai",
+          "summary": "Apple Inc.’s top executive in charge of the Vision Pro headset and the company’s smart glasses efforts is leaving for OpenAI, continuing a streak of high-profile defections to rivals in the artificial intelligence and hardware sectors.",
+          "published": "2026-06-26T19:22:17+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Anthropic Moves Toward Deal With US to Lift Curbs on AI Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/anthropic-moves-toward-deal-with-us-to-lift-curbs-on-ai-models",
+          "summary": "Anthropic PBC and the Trump administration are moving closer to an agreement that would lift US restrictions on the company’s top two artificial intelligence models after weeks of talks between the two sides over security of the systems, according to people familiar with the matter.",
+          "published": "2026-06-26T21:44:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "제4회 중국 국제 공급망 박람회: 디지털 기술 체인, 지능형 경제 속 글로벌 업스트림과 다운스트림 연결",
+          "link": "https://zdnet.co.kr/view/?no=20260626171045",
+          "summary": "[지디넷코리아]베이징, 2026년 6월 26일 /PRNewswire/ -- 제4회 중국 국제 공급망 박람회(CISCE)의 디지털 기술 체인 전시 구역이 58개 부스를 선보이며 글로벌 산업 체인의 11개국에서 온 228개의 업스트림 및 다운스트림 기업들을 한자리에 모았다. 올해 이 부문은 '디지털 기술 체인(Digital Technology Chain)'에서 '지능형 디지털 기술 체인(Intelligent Digital Technology Chain)'으로 업그레이드되었으며, 산업 가치 사슬 전반에 걸쳐 AI의 역할이 커지는 것을 반영하여 전용 인공지능(AI) 존이 처음으로 등장했다. Digital Tech Chain: Making Innovation More Dynamic 글로벌 업계 선도기업들이 이 행사를 현지 파트너십을 선보이는 자리로 활용하고 있다. 엔비디아(NVIDIA)는 중국 생태계 파트너들과 함께 에너지, 칩, 인프라, 모델, 애플리케이션에 걸친 '5계층 AI 스택(fiv",
+          "published": "2026-06-26T08:10:45+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Morgan Stanley, Goldman Shares Fall on Possible OpenAI IPO Delay",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/morgan-stanley-goldman-shares-fall-on-possible-openai-ipo-delay",
+          "summary": "Shares of Morgan Stanley and Goldman Sachs Group Inc. fell on Friday after OpenAI is said to weigh holding off on an initial public offering until next year amid volatility in technology stocks.",
+          "published": "2026-06-26T15:18:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "OpenAI Limits Release of New Model Under Pressure From US",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-26/openai-limits-release-of-new-model-under-pressure-from-us",
+          "summary": "OpenAI is rolling out a preview version of a more capable new artificial intelligence model to select partners before making it available more widely in the coming weeks, following pressure from the Trump administration to stagger the release.",
+          "published": "2026-06-26T17:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+          "link": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western&#8230;",
+          "published": "2026-06-26T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -135,19 +203,19 @@
           "event_labels": []
         },
         {
-          "title": "US Stocks Erase Gains as Apple Price Hikes Offset Chips Strength",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/us-tech-stocks-set-to-rally-as-micron-outlook-fuels-ai-optimism",
-          "summary": "US stock indexes ended Thursday nearly where they started after a choppy trading session that saw Apple Inc.’s move to raise prices on its products unwinding some of the enthusiasm over strong chipmaker forecasts.",
-          "published": "2026-06-25T09:41:07+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "구글 핵심 AI 인재 연쇄 이탈은 \"IPO 지분 대박 유혹 때문\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GYVNTYWM0U0QwbHc5UEdEdmtrTlJuSkk2UzlVa1RkdmM1SWFyUnIwaXJoVTQ2dlE5SnJzd3U2dks3Zlp4UVNUb3p1bVVLWUVQSnNrcVpvRVRHZ21IT2NQdWZxMWg3bmZWbFE?oc=5",
+          "summary": "구글 핵심 AI 인재 연쇄 이탈은 \"IPO 지분 대박 유혹 때문\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-26T00:54:01+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -155,86 +223,6 @@
           "event_labels": [
             "funding"
           ]
-        },
-        {
-          "title": "China’s cybersecurity industry needs its own Mythos model, 360 founder warns",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3358341/chinas-cybersecurity-industry-needs-its-own-mythos-model-360-founder-warns?utm_source=rss_feed",
-          "summary": "China must develop its own equivalent to Anthropic’s Mythos model to counter the cybersecurity risks posed by the artificial intelligence era, according to 360 Security Technology founder Zhou Hongyi, who likened the powerful US technology to a “cyber nuclear weapon”. Released in April with the ability to autonomously identify software vulnerabilities, Mythos has accelerated vulnerability discovery a hundredfold while slashing costs – a “terrifying change” that had effectively “democratised”...",
-          "published": "2026-06-25T13:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple to Skip High-End M6 Mac Chips in Favor of AI-Focused M7 Line",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead",
-          "summary": "Apple Inc. is making one of the biggest-ever changes to its Mac silicon strategy, preparing to jump ahead to a new artificial intelligence-focused chip generation for its next top-end processors.",
-          "published": "2026-06-25T16:35:34+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Microsoft Raises Xbox Prices for Third Time in 13 Months",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/microsoft-raises-xbox-console-prices-for-third-time-in-13-months",
-          "summary": "Microsoft Corp. announced a third substantial price increase for the company’s current-generation Xbox video-game consoles in a glaring example of the component shortage crisis that has universally driven up the cost of consumer tech products.",
-          "published": "2026-06-25T17:16:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Waymo Registers German Entity for Future European Expansion",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-25/waymo-registers-german-entity-for-future-european-expansion",
-          "summary": "Waymo is planning to offer its driverless robotaxis in Germany, the latest move by the Alphabet Inc. unit to expand outside the US.",
-          "published": "2026-06-25T17:51:09+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -245,13 +233,13 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "구글 엔지니어 \"GLM-5.2, 美 모델 증류 없이도 미토스급 간다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260625205825",
-          "summary": "[지디넷코리아]중국 Z.ai(지푸AI)의 오픈소스 모델 GLM-5.2가 클로드 오퍼스(Claude Opus 4.8)에 필적하는 코딩 성능으로 주목받고 있다. 구글 엔지니어 패트릭 툴메(Patrick Toulme)는 이 모델의 훈련 방식을 두고 “이제 중국 모델은 미국산 모델을 증류(distillation)하지 않고도 더 높은 성능에 도달할 수 있다”는 분석을 내놨다.GLM-5.2는 6월 17일 MIT 라이선스로 공개된 약 750B(활성 약 40B) 규모의 전문가 혼합(MoE) 모델로, 100만 토큰 컨텍스트를 지원한다. 프런티어SWE에서 74.4%를 기록해 GPT-5.5를 앞섰고 클로드 오퍼스 4.8(75.1%)에 1%포인트 안쪽까지 따라붙었다. API 비용은 오퍼스의 약 6분의 1 수준이다.툴메의 핵심 주장은 “증류가 성능을 만든 게 아니다”라는 것이다. 그는 증류가 강화학습(RL)의 ‘콜드 스타트’ 문제만 해결했다고 설명했다. 강화학습은 모델이 실제로 작업을 완수한 ‘성공 궤적(",
-          "published": "2026-06-25T11:58:25+00:00",
+          "title": "“초등생도 안 할 비약”...한성숙 청문회, 플랫폼 정책·헐값 임대 의혹 공방",
+          "link": "https://zdnet.co.kr/view/?no=20260626173607",
+          "summary": "[지디넷코리아]한성숙 국무총리 후보자가 인사청문회 이틀째 플랫폼 규제와 소상공인 보호, 반도체 산업 지원, 인공지능(AI) 데이터센터 전력 대책 등 주요 정책 현안에 대해 \"적극 검토하겠다\"는 입장을 밝혔다. 반면 '지인 헐값 임대' 의혹에 대해서는 \"과한 주장\"이라며 강하게 반박했고, 여야 의원들 간 고성이 오가는 공방도 이어졌다.26일 서울 영등포구 국회에서 열린 인사청문회에서 한 후보자에게 청년·부동산·교육·IT 분야를 아우르는 다양한 질문이 이어졌다. 그 중에서도 IT 분야에서는 플랫폼 관련 질문이 주를 이뤘다.조정훈 국민의힘 의원은 네이버의 대표직을 역임하며 온라인플랫폼법(온플법)에 반대해왔던 한 후보자의 이력을 언급하며 “네이버 출신 총리가 네이버의 독과점을 막을 수 있냐”고 비판했다. 그러면서 온플법 관련 소상공인의 우려를 내세워 온플법에 대한 입장을 질의했다.김동아 더불어민주당 의원도 배달앱 소송 과정에서 소상공인이 입을 피해를 우려했고 공정거래위원회의 상생 기금 기각",
+          "published": "2026-06-26T09:14:52+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -259,53 +247,15 @@
           "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버 D2SF, 에이전틱 AI 커머스 ‘사줘’에 신규 투자…”네이버쇼핑과 협업” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UalR3eC1SaC1jMS13Z0lmRWVQdXFST0d5TEx6VjFiYmN0OGdBcVpxeU1hQmlhSGN2VzJLblRGQkJsLU9JUmo0NWtYVm5MaW1zWTV5bzAwelRPZnN0RTBNVTVzUzR3R1l6Q3c?oc=5",
-          "summary": "네이버 D2SF, 에이전틱 AI 커머스 ‘사줘’에 신규 투자…”네이버쇼핑과 협업” &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-25T07:53:15+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "한성숙 '창과 방패' 청문회...與 \"AI 리더\" vs 野 \"미꾸라지\"",
-          "link": "https://zdnet.co.kr/view/?no=20260625161137",
-          "summary": "[지디넷코리아]한성숙 국무총리 후보자 인사청문회에서 여·야가 후보자 자질을 놓고 정면 충돌했다. 더불어민주당은 IT 기업 대표와 중소벤처기업부 장관을 지낸 경험을 앞세워 인공지능(AI) 시대를 이끌 적임자라고 평가한 반면, 국민의힘은 다주택 논란과 불법 증축, 개인정보 유출, 안보관 등을 집중 추궁하며 공세를 이어갔다.25일 서울 여의도 국회에서 열린 한 후보자 인사청문회에서 더불어민주당은 한 후보자 경력과 정책 역량을 부각하는 데 주력했다. 네이버 대표 재직 시절 공적과 함께 ‘AI 대전환’을 시대적 과제로 삼고 있는 현 정부의 정책 기조에 궤를 같이 할 수 있다는 의견이 대표적이다.이외에도 중소벤처기업부 장관 시절 추진했던 ‘모두의 창업’ 개인정보 유출 후속 대응 방안, 12·29 제주항공 여객기 참사 진상 해결 등에 한 후보자의 자질과 공직 역량을 엿볼 수 있는 질문도 이어졌다.모두의 창업 개인정보 유출 사안을 두고 한 후보자는 거듭 사과하며 “가용 가능한 모든 수단을 활용하겠",
-          "published": "2026-06-25T08:21:00+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "regulation"
+          ]
         }
       ]
     },
@@ -314,20 +264,20 @@
       "count": 1,
       "articles": [
         {
-          "title": "‘총수 일가 골프장만 이용 원칙’ 미래에셋 계열사들 무죄 확정 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1TS3ZCQjhVYTJMUzhYMnNBMDZFYkh0RzcySE1NWFg3ZS13SnlJVE82clFEWmd5OFlHNHdERjEzenB5Q0pzYTlQRlZ0TDIya0dzMlE?oc=5",
-          "summary": "‘총수 일가 골프장만 이용 원칙’ 미래에셋 계열사들 무죄 확정 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-25T11:54:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "미래에셋증권, 6억달러 채권 발행 성공…조달 잰걸음 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxcDZ4cGtxUG9iU2MtREZxc0loc2ZVODZ2RGFDUzlTaW56RFFFS0RhdEZCWDNWeTBIY2s0YW1ja0Nub2tnWEVLTDFETjJPRHlmbjBBZW03dUZDQWNseTJTNVNDVjNTM1ZaSnFMSXpZVXA?oc=5",
+          "summary": "미래에셋증권, 6억달러 채권 발행 성공…조달 잰걸음 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-06-26T01:39:08+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "mirae_asset",
           "category_display": "미래에셋",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
