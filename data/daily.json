@@ -1,25 +1,115 @@
 {
-  "generated_at": "2026-06-27T22:06:07.451442+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-06-28T22:04:38.961255+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 6,
       "articles": [
         {
-          "title": "SpaceX, Charter Discussed Mobile Phone Partnership in US",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-26/spacex-charter-discussed-mobile-phone-partnership-in-us",
-          "summary": "SpaceX and Charter Communications Inc. have held executive-level talks about partnering on a consumer mobile phone offering, according to people familiar with the matter.",
-          "published": "2026-06-26T22:25:38+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "美 정부 AI 개입에 오픈AI·앤트로픽 전략 갈렸다",
+          "link": "https://zdnet.co.kr/view/?no=20260628120509",
+          "summary": "[지디넷코리아]오픈AI와 앤트로픽의 최신 인공지능(AI) 모델 공개 전략이 엇갈리고 있다. 오픈AI는 미국 정부 요청을 수용하며 출시 속도를 조절한 반면, 앤트로픽은 최신 모델 '페이블'을 둘러싼 행정부 압박에 공개를 철회했다. 샘 알트먼 오픈AI 최고경영자(CEO)의 실용주의와 다리오 아모데이 앤트로픽 CEO의 원칙론이 AI 규제 국면에서 서로 다른 선택으로 드러난 셈이다.제시카 레신 디인포메이션 창업자 겸 CEO는 28일 칼럼을 통해 주요 기술 기업 CEO들의 공통점으로 실용주의를 꼽았다. 그는 20년간 기술 기업을 취재하며 가장 성공한 CEO들은 신념에만 기대기보다 시장과 정치, 고객 환경 변화에 맞춰 선택을 바꿔 왔다고 평가했다.레신 CEO는 마크 저커버그 메타 CEO와 일론 머스크 테슬라 CEO를 대표 사례로 들었다. 저커버그 CEO는 페이스북을 사람 연결 서비스에서 메타버스 기업으로, 다시 초지능 AI 기업으로 전환해 왔다. 콘텐츠 조정 정책도 정치적 환경에 따라 달라졌다",
+          "published": "2026-06-28T03:53:17+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 17,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "The final insurance frontier: Hong Kong spots opportunity in mainland China’s space boom",
+          "link": "https://www.scmp.com/tech/article/3358494/final-insurance-frontier-hong-kong-spots-opportunity-mainland-chinas-space-boom?utm_source=rss_feed",
+          "summary": "Elon Musk’s recent record-breaking SpaceX IPO has thrust the space economy into the financial mainstream, but mainland China’s trillion-yuan commercial space sector remains strikingly underinsured – a gap industry insiders say presents a rare opportunity for Hong Kong. On the mainland, only third-party liability insurance is mandatory for commercial space activities. Coverage for research and development, manufacturing, testing, launches and in-orbit operations remained largely optional,...",
+          "published": "2026-06-28T13:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "스페이스X가 직접 이통사 운영한다...\"주파수 경매 참여”, \"종이호랑이 전락”",
+          "link": "https://zdnet.co.kr/view/?no=20260628134157",
+          "summary": "[지디넷코리아]스페이스X가 미국 내에서 직접 이동통신 사업에 진출할 수 있다는 소식에 이목이 쏠린다.통신사의 유무선 서비스 커버리지 밖에서 보완재 역할로 성장한 저궤도 위성통신 스타링크가 버라이즌, AT&amp;T, T모바일 등 현지 통신사와 경쟁 관계를 통한 사업도 서슴지 않겠다는 뜻으로 풀이된다.영국 파이낸셜타임스는 복수의 소식통을 인용해 기네 쇼트웰 스페이스X 최고운영책임자(COO)가 최근 기업공개(IPO) 로드쇼에서 투자자들에 이같은 의견을 설명했다고 보도했다.스페이스X는 현재 미국 T모바일과 협력해 이동통신사의 주파수로 위성통신이 직접 스마트폰에 연결되는 D2D 서비스를 제공하고 있다.이처럼 주로 각 나라의 통신사와 협력 모델 구축이 그간 사업 내용이 집중됐는데 기존 이동통신사를 인수하는 시나리오와 도매 재판매(MVNO) 시장에 뛰어들 수 있다는 시나리오까지 나오게 됐다.스페이스X가 최근 종료된 미국 주파수 경매에 참여한 점도 이에 대한 의구심을 키우고 있다. AWS-3 경",
+          "published": "2026-06-28T04:41:57+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "테슬라, 'FSD' 첫 보행자 사망 소송 합의…비전 AI 한계론 부각 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwTWlCWmxGQVlWa3hqWUxSaDhZVWR4a1ZQS3lrbldxZE9OTk9iSFh5NWNkSWhHdDlqc21QejBHYXN3WEZVc01GbnhUT3pxRkJpMlZzalNDSXViN1l2RktSME1VN2pJU09MYlE?oc=5",
+          "summary": "테슬라, 'FSD' 첫 보행자 사망 소송 합의…비전 AI 한계론 부각 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-28T02:15:28+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "스페이스X, 스타링크로 모바일 시장 직접 진출…'B2C 통신사' 정면 도전 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tTW41SVZqWVNsMUdQYXVzcFpGOHYtTk5XQXRLUHV2UWQ5ckZvZW5TYUp6WWphdnhMWk9xU1p0VDA2MU5JTzFtYU5PaHZRUEF5Qy1DSDdPVDhJTVRpdEpWSkFtaldlT3FhaVE?oc=5",
+          "summary": "스페이스X, 스타링크로 모바일 시장 직접 진출…'B2C 통신사' 정면 도전 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-28T03:39:29+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -27,20 +117,20 @@
           "event_labels": []
         },
         {
-          "title": "제4회 CISCE 공급망 서비스 구역: 물류, 금융 및 글로벌 연결성이 중심 무대에 오르다",
-          "link": "https://zdnet.co.kr/view/?no=20260627101034",
-          "summary": "[지디넷코리아] 베이징 2026년 6월 27일 /PRNewswire/ -- 제4회 중국국제공급망엑스포(China International Supply Chain Expo, CISCE)가 공급망의 모든 단계를 지원하는 고부가가치 전문 비즈니스 서비스에 초점을 맞춘 전용 공급망 서비스 구역을 개설했다. 이 구역은 블루 채널(Blue Channel), 통합 물류(Integrated Logistics), 종합 서비스(Comprehensive Services), 산업 금융(Industrial Finance)이라는 네 가지 핵심 축을 중심으로 구성됐다. Supply Chain Service: Making Cooperation More Strengthened 블루 채널 부문에는 중국초상그룹(China Merchants Group), 산둥항만그룹(Shandong Port Group), 글로벌 운송 기업인 머스크(Maersk), 지중해해운회사(Mediterranean Shipping Company,",
-          "published": "2026-06-27T01:10:34+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "“무조건 더 오른다, 3배로 베팅”…스페이스X 차익실현 서학개미, 다시 반도체로 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3TnZMeVV0RVVUdEFLYXczWG9JbXFPNlcwT0JhWGlLc09DY245VDVNdXRRTWlCbFk4bVZGWnRIOEhqb0Rxd1RVUk4zZnQ2Vzk3SWc?oc=5",
+          "summary": "“무조건 더 오른다, 3배로 베팅”…스페이스X 차익실현 서학개미, 다시 반도체로 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-06-28T10:37:55+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 7,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -53,18 +143,38 @@
       "count": 8,
       "articles": [
         {
-          "title": "Soaring iPad, Xbox Prices Reveal Pain of Memory Chip Mess",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-27/soaring-ipad-xbox-prices-reveal-pain-of-memory-chip-mess",
-          "summary": "Within a span of five hours Thursday, Apple Inc. and Microsoft Corp. hiked the prices for such popular products as Xbox video-game consoles, Macs and iPads.",
-          "published": "2026-06-27T14:00:00+00:00",
+          "title": "Google Caps Meta’s Use of Gemini AI, Financial Times Reports",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-28/google-caps-meta-s-use-of-gemini-ai-financial-times-reports",
+          "summary": "Google has placed limits on Meta Platforms Inc.’s use of its Gemini artificial intelligence models because it could not provide as much computing capacity as the social media company wanted, according to the Financial Times.",
+          "published": "2026-06-28T09:02:14+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
             "keyword": 6,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Austria Lobbies EU to Host Anthropic After US Access Curbs",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-28/austria-lobbies-eu-to-host-anthropic-after-us-access-curbs",
+          "summary": "Austria is pushing the European Union to consider hosting Anthropic PBC within its borders to counter US efforts to block foreigners from using its most advanced artificial-intelligence models.",
+          "published": "2026-06-28T12:29:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -73,54 +183,30 @@
           "event_labels": []
         },
         {
-          "title": "퀄컴, 텐스토렌트 인수 타진…설계부터 연결까지 '탈 Arm' 가속",
-          "link": "https://zdnet.co.kr/view/?no=20260626171646",
-          "summary": "[지디넷코리아]퀄컴이 짐 켈러가 이끄는 인공지능(AI) 반도체 스타트업 텐스토렌트 인수를 추진 중이다. 엔비디아가 장악한 AI 반도체 시장 내 경쟁력 강화로 읽히지만, 업계는 텐스토렌트의 'RISC-V(리스크파이브)' 기술력에 주목한다. 이는 영국 설계자산(IP) 기업 'Arm' 생태계에서 벗어나, 독자 아키텍처 노선을 구축하려는 퀄컴의 '탈(脫) Arm' 시나리오가 본격화했음을 시사한다.27일 반도체 업계에서는 이번 인수설을 Arm과 라이선스 분쟁 속에서 '아키텍처 독립'을 선언하겠다는 퀄컴의 의지란 풀이가 나온다. 최근 인터페이스 기술 기업 알파웨이브세미를 전격 인수한 데 이어 리스크파이브 설계 역량까지 내재화해, 설계부터 연결에 이르는 전 과정을 독자 생태계로 통제하겠다는 구상이다. 퀄컴이 Arm과 결별을 준비하는 배경에는 라이선스 분쟁이 있다. 퀄컴은 서버용 칩 기업 누비아를 인수하며 스냅드래곤 라인업에 독자 설계 코어를 탑재했다. 이에 Arm은 누비아의 라이선스가 퀄컴으로 ",
-          "published": "2026-06-27T00:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "AI Startup Firmus to Build Indonesia Data Center With Nvidia",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-28/ai-startup-firmus-to-build-indonesia-data-center-with-nvidia",
+          "summary": "Firmus Technologies Pty Ltd. will build its first data center project in Indonesia as part of a partnership with US chip giant Nvidia Corp., which the Australian artificial intelligence infrastructure firm said is expected to win it as much as $30 billion in committed offtake agreements in its first six years.",
+          "published": "2026-06-28T14:01:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         },
         {
-          "title": "트럼프 \"디지털 서비스세 부과 땐 100% 보복관세\"",
-          "link": "https://zdnet.co.kr/view/?no=20260627093047",
-          "summary": "[지디넷코리아]도널드 트럼프 대통령이 미국 기업에 대해 디지털 서비스세를 부과하는 나라에는 100% 보복관세로 맞불을 놓겠다고 경고했다.트럼프는 트르스소셜에 “이 (보복)관세가 해당 국가와의 무역협정을 대신할 것이다”는 글을 올렸다고 CNBC가 26일(현지시간) 보도했다. 그는 또 어떤 나라건 디지털세 도입을 강행한다면, 즉시 관세를 부과할 것이라고 덧붙였다.이전에도 트럼프는 디지털 서비스세를 부과하는 국가에 대해서는 보복관세로 대응하겠다고 공언해 왔다. 디지털 서비스세가 미국 테크기업들을 불공정하게 겨냥하고 있다는 게 그 이유다.실제로 트럼프는 지난 해 디지털 서비스세를 이유로 캐나다와 모든 무역 협상을 중단하겠다고 선언하기도 했다. 트럼프의 압박 직후 캐나다 정부는 디지털 서비스세 계획을 포기했다.전통산업에서는 '물리적 고정사업장(건물이나 공장)'이 있는 곳에 과세했다. 그러다보니 메타나 구글 같은 온라인 서비스 제공 플랫폼 기업들은 매출에 비해 터무니없이 적은 세금을 냈다. 이",
-          "published": "2026-06-27T00:35:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Anthropic’s Mythos 5 AI Model Cleared by US for Wider Use",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-26/us-allows-trusted-partners-to-use-anthropic-s-mythos-5-ai-model",
-          "summary": "Anthropic PBC won US approval to restore some access to its powerful Mythos 5 artificial intelligence model, after resolving Trump administration concerns about the technology’s potential threats to national security.",
-          "published": "2026-06-26T23:02:41+00:00",
+          "title": "OpenAI Hires Uber’s Prabhjeet Singh to Lead India Operations",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-28/openai-hires-uber-s-prabhjeet-singh-to-lead-india-operations",
+          "summary": "OpenAI appointed Uber Technologies Inc.’s former India and South Asia President Prabhjeet Singh as its managing director for the country, deepening its investment in one of its fastest-growing markets.",
+          "published": "2026-06-28T07:27:48+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -137,52 +223,10 @@
           "event_labels": []
         },
         {
-          "title": "Amazon Prime Day Total Online Spending Surpasses Adobe Estimate",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-27/amazon-prime-day-total-online-spending-surpasses-adobe-estimate",
-          "summary": "Online spending across all retailers in the US hit $26.4 billion during Amazon.com Inc.’s annual Prime Day sale, according to Adobe Inc., narrowly beating the firm’s earlier estimate of $26.3 billion.",
-          "published": "2026-06-27T16:59:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "글로벌 기술 전환: 튠톡, 앱 수준 한계를 우회하는 세계 최초의 네트워크 기반 아동 안전 모바일 요금제 출시",
-          "link": "https://zdnet.co.kr/view/?no=20260627101013",
-          "summary": "[지디넷코리아]페탈링자야, 말레이시아 2026년 6월 27일 /PRNewswire/ -- 말레이시아 이동통신 사업자 튠톡(Tune Talk)이 아동 온라인 안전을 시행하는 방식의 표준을 새롭게 정의했다. 각국 정부가 여러 플랫폼과 애플리케이션 전반의 안전을 규제하기 위해 노력하는 가운데, 튠톡은 연결 지점에서 완전히 시행되는 원터치 보호자 통제 기능이 통합된 세계 최초의 가족 모바일 요금제인 Epik+ Family Safe 출시를 통해 시행 지점을 단일 지점, 즉 네트워크로 가져오고 있다. From left to right: Jill Yeap (General Manager of Marketing, Tune Talk), Jay Pandey (Chief Technical Officer, Tune Talk), Gurtaj Singh Padda (Chief Executive Officer, Tune Talk), Sonia Ooi (Chief Financial Officer, Tune Tal",
-          "published": "2026-06-27T01:10:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "예링크, 싱가포르 글로벌 운영 본부 업그레이드 및 신규 고객경험센터 개관",
-          "link": "https://zdnet.co.kr/view/?no=20260627101045",
-          "summary": "[지디넷코리아]싱가포르 2026년 6월 27일 /PRNewswire/ -- 통합 커뮤니케이션 및 협업(Unified Communications and Collaboration, UC&amp;C) 솔루션 분야의 글로벌 선도 기업인 예링크(Yealink)(300628.SZ)가 업그레이드된 싱가포르 운영 본부와 신규 고객경험센터(Customer Experience Center, CEC) 개관을 공식적으로 기념했다. 이는 회사의 글로벌 운영 전략에서 중요한 이정표이자 전 세계 고객과 파트너에 대한 장기적인 의지를 한층 강화하는 의미를 지닌다. 개관식에는 고객, 파트너, 정부 관계자, 싱가포르 기술 커뮤니티 관계자가 참석했다. 주요 귀빈으로는 예링크의 제이 류(Jay Liu) 부사장 겸 이사회 비서, 마이크로소프트(Microsoft)의 아시아 AI 기반 업무공간 파트너 프로그램 매니저 프라샨트 싱 비슈노이(Prashant Singh Bishnoi), 싱가포르 경제개발청(Singapore Ec",
-          "published": "2026-06-27T01:10:45+00:00",
+          "title": "고우넷 \"AI시대 인재 양성\"...'마인크래프트 페스티벌 2026' 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260628175357",
+          "summary": "[지디넷코리아]AI 시대에 필요한 창의성, 문제 해결력, 협업 역량, 디지털 리터러시를 경험하고 공유한 '마인크래프트 에듀케이션 월드 메이커 페스티벌 코리아(Minecraft Education World Makers Festival Korea) 2026' 행사가 20일 성황리에 막을 내렸다. 행사는 마이크로소프트 엘리베이트(Microsoft Elevate)가 주최하고 고우넷이 주관, 서울 성수동 고우넷 트레이닝센터에서 열렸다. 전국 교사와 학생, 학부모가 함께 참여했다.체험과 경연을 넘어 학생과 교사가 함께 배우고 성장하는 교육의 장으로 마련됐다. 참가자들은 Minecraft Education을 활용한 방탈출형 학습 콘텐츠와 다양한 미션 프로그램을 수행하며 문제 해결력과 협업 역량을 키웠다. 교육 콘텐츠 전시와 체험 공간을 통해 디지털 기술이 교육 현장에서 어떻게 활용될 수 있는지도 경험했다.특히 전국 교원들이 참여한 '교사 개발자 대회(World Makers Challenge)'는",
+          "published": "2026-06-28T08:53:57+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -199,19 +243,59 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 'GLM-5.2' 4비트 양자화 모델 공개...“정확도 유지·용량 70%↓” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFVWdWMThwb2I5RFJqb1d5V3Vhb0w4UlRTVHRwUU1ua29zUzU5S3hhQWtmOGdTcFptUjhuRS1ydzVudVhBcjhTMmRyVEp0S195d09yU01neHVDSkR1N2JvSmRDY3RlRjNjTUE?oc=5",
-          "summary": "엔비디아, 'GLM-5.2' 4비트 양자화 모델 공개...“정확도 유지·용량 70%↓” &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-27T04:21:23+00:00",
+          "title": "Apple’s Sweeping Price Increases Bring Home the Costs of the AI Era",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-06-28/apple-s-sweeping-price-hikes-bring-the-ai-era-home-m6-m7-touch-macbook-pro",
+          "summary": "The latest on the smart glasses competition.",
+          "published": "2026-06-28T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, 메모리 폭등에 '블랙리스트' 중국 CXMT 칩 구매 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12R2w4dG0wSW1SLVh0R1dtaWp6UTVNSjZBcWtKRVNRbm5veGhUN2VyWHl4Vkc2WC1yX09CUVNqZjRLMVhsODdqeVV2SVUxd2tnT0syS2Vqb05zakdyREFsRWFnR0pmUmlVUUE?oc=5",
+          "summary": "애플, 메모리 폭등에 '블랙리스트' 중국 CXMT 칩 구매 추진 &nbsp;&nbsp; AI타임스",
+          "published": "2026-06-28T02:44:40+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "오픈AI·앤트로픽·MS와 함께…젠스파크, 'AI 워크스페이스' 생태계 키운다",
+          "link": "https://zdnet.co.kr/view/?no=20260627023326",
+          "summary": "[지디넷코리아][팔로알토(미국)=한정호 기자] 미국 인공지능(AI) 스타트업 젠스파크가 오픈AI, 앤트로픽, 마이크로소프트(MS)와의 협력을 앞세워 'AI 워크스페이스' 생태계 확장에 나선다. 프론티어 AI 모델과 클라우드 인프라, 기업용 업무 플랫폼을 결합해 지식 노동자를 위한 AI 에이전트 활용 범위를 넓힌다는 전략이다.젠스파크는 26일(현지시간) 미국 팔로알토 본사에서 진행한 미디어 투어에서 오픈AI·앤트로픽·MS와의 기술 파트너십 현황과 엔터프라이즈 AI 워크스페이스 확장 전략을 발표했다.2023년 12월 설립한 젠스파크는 특정 AI 모델을 직접 개발하기보다 주요 AI 기업의 모델과 인프라를 업무 목적에 맞게 조합하는 전략을 택하고 있다. 사용자가 어떤 모델을 써야 할지 직접 고르지 않아도 문서 작성, 자료 조사, 발표자료 제작, 실시간 통화, 에이전트 자동화 등 업무별로 적합한 AI를 제공하는 플랫폼 방식이다.오픈AI와 젠스파크의 협력은 약 1년 반 전부터 시작됐다. 마크 ",
+          "published": "2026-06-28T06:01:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -230,40 +314,38 @@
       "count": 2,
       "articles": [
         {
-          "title": "오픈AI, GPT-5.6 출시…미국 정부 요청에 제한 배포",
-          "link": "https://zdnet.co.kr/view/?no=20260627102728",
-          "summary": "[지디넷코리아]오픈AI가 차세대 인공지능(AI) 모델 'GPT-5.6' 시리즈를 공개하면서 코딩·생물학·사이버 보안 전 영역에서 성능을 끌어올렸다. 다만 미국 정부 요청으로 즉각적인 일반 배포 대신 신뢰 파트너를 대상으로 한 제한 공개를 먼저 진행하기로 했다.오픈AI는 26일(현지시간) 공식 블로그를 통해 GPT-5.6을 최상위 모델 '솔', 중위 모델 '테라', 하위 모델 '루나' 세 갈래로 구성해 출시한다고 발표했다. 테라는 전작 GPT-5.5와 유사한 성능을 유지하면서도 가격을 절반으로 낮췄고 루나는 최저 비용으로 준수한 성능을 제공한다.최상위 모델 솔은 코딩·생물학·사이버 보안 세 영역에서 역대 최고 성능을 기록했다고 오픈AI는 강조했다. 터미널 코딩 벤치마크 '터미널-벤치 2.1'에서 솔 울트라가 91.9%, 솔이 88.8%를 기록해 앤트로픽의 클로드 미토스5(88%)를 앞섰다. 사이버 보안 벤치마크 '익스플로잇벤치'에서는 솔이 클로드 미토스 프리뷰와 유사한 성능을 내면서도",
-          "published": "2026-06-27T03:30:01+00:00",
+          "title": "카카오 노조, 29일 ‘로그아웃데이’ 돌입…노사 협상 끝내 불발",
+          "link": "https://zdnet.co.kr/view/?no=20260628113102",
+          "summary": "[지디넷코리아]카카오 노사가 성과급·경영진 관련 갈등을 해소하지 못하면서, 노동조합이 예정대로 파업 수순을 밟게 됐다. 노조는 파업 참여 인원을 파악 중인 상태로, 회사는 대응 체계를 가동해 안정적인 서비스를 이어간다는 방침이다.28일 IT업계에 따르면, 카카오 노조는 오는 29일 ‘로그아웃데이’를 진행한다. 로그아웃데이는 전일 연차 또는 전일 오프를 통해 하루 동안 업무를 진행하지 않는 방식을 뜻한다.카카오 노조와 회사 측은 지난 10일 부분 파업 이후 교섭을 실시했으나 합의할 수 있는 수준에 이르지 못하면서 이번 파업이 현실화됐다. 교섭의 경우 법인별로, 사안별로 차이는 있으나 본사와는 3~4차례 가량 진행됐다.이번 파업 참여 대상은 ▲카카오 본사 ▲카카오페이 ▲카카오엔터프라이즈 ▲디케이테크인 ▲엑스엘게임즈 5개 법인 조합원이다. 노조에 따르면 이들이 가입된 카카오지회 소속 조합원 수는 5000명 이상이다.이달 10일 열린 부분 파업에는 카카오 본사에서만 1000명, 그룹사 전체",
+          "published": "2026-06-28T03:03:07+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "美, 앤트로픽 '미토스5' 빗장 풀어…\"100여 곳에 허용\"",
-          "link": "https://zdnet.co.kr/view/?no=20260627102714",
-          "summary": "[지디넷코리아]미국 정부가 앤트로픽의 최상위 인공지능(AI) 모델 '클로드 미토스5'에 대한 전면 수출 통제를 2주 만에 부분 완화했다. 자국 내 외국 국적자를 포함한 광범위한 접근 차단이 미국의 AI 주도권을 오히려 흔들 수 있다는 비판이 제기된 이후 나온 조치다.26일(현지시간) 로이터통신에 따르면 미국 상무부는 이날 앤트로픽이 미토스5를 신뢰할 수 있는 파트너에게 제공할 수 있도록 허가했다. 소식통은 포천 500대 기업 명단에 드는 회사와 기관 등 100여 곳이 미토스5에 접근할 수 있게 됐다고 전했다.이번 조치로 검증된 기업과 해당 기업 소속 외국인 직원, 앤트로픽 내 외국인 직원이 수출 면허 없이 미토스5를 이용할 수 있게 됐다. 수출 면허 취득 절차 없이도 접근이 가능해진 만큼, 실질적으로 서비스 이용이 재개될 기업의 범위는 적지 않을 것으로 전망된다.도널드 트럼프 행정부는 지난 12일 국가 안보를 이유로 모든 외국 국적자가 미토스5와 페이블5(보호장치가 적용된 모델)에 ",
-          "published": "2026-06-27T02:25:54+00:00",
+          "title": "[ZD e게임] 중세시대 좀비 생존의 잠재력…'갓 세이브 버밍엄' CBT 해보니",
+          "link": "https://zdnet.co.kr/view/?no=20260628143746",
+          "summary": "[지디넷코리아]카카오게임즈가 퍼블리싱하고 오션드라이브 스튜디오가 개발 중인 중세 좀비 생존 시뮬레이션 게임 '갓 세이브 버밍엄'이 비공개 베타 테스트를 진행했다.이번 테스트는 생존 및 좀비 장르 팬들의 피드백을 수렴하고, 그간 수정된 편의성과 밸런스를 점검하기 위해 마련됐다. 한국 시간으로는 오는 30일 오전 2시에 종료된다.게임의 배경은 중세 시대 영국의 버밍엄이다. 이용자는 좀비 사태가 터진 마을의 유일한 생존자가 돼, 좀비로 변해버린 주민들을 피해 처절한 사투를 벌여야 한다.직접 참여해 본 '갓 세이브 버밍엄'은 개발사가 추구하는 코어 콘텐츠의 방향성을 확실히 보여주는 동시에, 향후 '앞서 해보기(얼리 액세스)' 출시를 위해 다듬어야 할 과제도 명확히 남겼다.이번 테스트 버전은 캐릭터의 움직임이나 조작 반응 속도 면에서 만족스러웠다. 좀비물 특유의 긴박한 상황에서도 조작감에 불편함이 없어 이용자의 의도대로 기민하게 대처할 수 있었다.특히 이번 빌드는 별도의 저장(세이브) 기능을",
+          "published": "2026-06-28T05:53:54+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
