@@ -1,45 +1,25 @@
 {
-  "generated_at": "2026-06-29T22:11:41.220219+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-06-30T22:17:28.999890+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "머스크 \"그록 4.5 비공개 베타 시작…앤트로픽 오퍼스 능가할 것\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5UVdjd1B1UFR3WGEtamFPdG1QbTh0bTJURS0tMEpUeDE0Mm55X3BjYTdtckJZZ1JPOHppVExuY3hXM3RXRXpSU2ctTTc2bTRwOU0wNVIySWY2Y2RHd1VtbHBqSzR0Q0NUM3c?oc=5",
-          "summary": "머스크 \"그록 4.5 비공개 베타 시작…앤트로픽 오퍼스 능가할 것\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-29T05:57:07+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "SpaceX Cuts Starlink Internet Prices in Memphis After Data Center Opposition",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback",
+          "summary": "SpaceX is offering discounts for Starlink internet plans in Memphis, Tennessee, as the Elon Musk-led company endures blowback and legal challenges from opponents of its data centers in the area and neighboring Mississippi.",
+          "published": "2026-06-30T19:30:47+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“괜히 샀다, ‘쏘렌토값’ 일본車”…못바꿔 짜증폭발, 이젠 테슬라로 안바꿔 [최기성의 허브車] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qSXJTTG9RNW9YdmlLNWVjTU14Y0dLX2NMb0VJdjBNZzFhWnZWRVpNWmZOT0JJeVVJNmk5d0NIYWNqRXpaM2t1cURHUlZFdnJnd2Z4WkN3?oc=5",
-          "summary": "“괜히 샀다, ‘쏘렌토값’ 일본車”…못바꿔 짜증폭발, 이젠 테슬라로 안바꿔 [최기성의 허브車] &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-29T21:45:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 10,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -53,32 +33,74 @@
       "count": 8,
       "articles": [
         {
-          "title": "AI 기업들은 올해 694조원 썼다… AI 자본지출이 던진 ROI 질문",
-          "link": "https://zdnet.co.kr/view/?no=20260629222727",
-          "summary": "[지디넷코리아]6월 24일 미국 증시에서 기술주가 급락했다. 나스닥 종합지수는 2.21% 내린 25,587로 분기 최대 낙폭을 기록했고, S&amp;amp;P500도 1.44% 하락했다. 마이크론(Micron)은 장중 13%까지 내렸다가 일부 회복했다. 직접적 계기는 구글(Google) 모회사 알파벳(Alphabet)의 인재 이탈 소식이었지만, 더 근본적인 원인은 ‘AI 자본지출이 과연 언제 돈을 버느냐’는 회의였다.마이크로소프트(Microsoft·약 1,900억 달러), 알파벳(1,800억~1,900억 달러), 아마존(Amazon), 메타(Meta) 등 4대 하이퍼스케일러의 올해 자본지출 합계는 4,520억 달러(약 694조 원)를 넘어선 것으로 집계됐다. 이스라엘 국내총생산(GDP)보다 큰 금액이다. 반면 마이크로소프트의 AI 서비스는 최근 4개 분기 970억 달러를 쓰는 동안 연환산 370억 달러의 매출을 냈다. 1달러를 써서 38센트를 거둔 수준이다.앤트로픽(Anthropic",
-          "published": "2026-06-29T13:27:27+00:00",
+          "title": "Building tech in the world’s secret R&D hub",
+          "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+          "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
+          "published": "2026-06-30T10:23:30+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, EU 규제 경고…\"검색·안드로이드 데이터 공유 강제 땐 해킹 위험\"",
+          "link": "https://zdnet.co.kr/view/?no=20260630203445",
+          "summary": "[지디넷코리아]구글(Google)의 보안 책임자들이 유럽연합(EU)의 경쟁 규제가 프라이버시와 사이버보안 위험을 키울 수 있다고 경고했다. 와이어드는 6월 29일 구글이 검색과 안드로이드(Android) 데이터를 경쟁사와 더 많이 공유하도록 강제될 경우 새로운 공격면이 생긴다는 주장을 폈다고 보도했다. 데이터 개방이 곧 보안 취약점으로 이어질 수 있다는 논리다.배경에는 디지털시장법(DMA)이 있다. EU는 빅테크의 '게이트키퍼' 지위를 줄이기 위해 최종 결정을 저울질하고 있다. 더 많은 경쟁을 원하는 유럽과, 민감한 시스템 개방이 보안을 위협한다는 구글의 입장이 정면으로 부딪히는 중이다. DMA는 이미 시행 중이지만 세부 적용 범위를 두고 줄다리기가 이어진다.경쟁사들은 구글이 시장 지배력을 지키려고 위험을 과장한다고 반박한다. 데이터 공유가 실제로 어느 정도의 보안 리스크를 만드는지, 아니면 개방으로 더 큰 혁신과 경쟁을 끌어낼 수 있는지를 두고 양측의 주장이 맞섰다. 보안을 명분으",
+          "published": "2026-06-30T11:34:45+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 6,
             "source": 1,
             "recency": 2,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "regulation"
           ]
         },
         {
-          "title": "Super Micro Raided as Taiwan Expands Chip Smuggling Probe",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-29/super-micro-office-raided-as-taiwan-expands-chip-smuggling-probe",
-          "summary": "Super Micro Computer Inc.’s offices in Taiwan were raided by government authorities on Monday, widening an investigation into the alleged smuggling of Nvidia Corp. chips into China using the company’s servers, according to a person familiar with the situation. Super Micro’s shares fell as much as 9.2%.",
-          "published": "2026-06-29T17:59:46+00:00",
+          "title": "Supreme Court to Hear Apple Appeal Over Contempt Ruling",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/supreme-court-to-hear-apple-appeal-over-epic-app-store-fees",
+          "summary": "The Supreme Court agreed to hear an appeal by Apple Inc. regarding a contempt ruling in its long-running antitrust battle with Fortnite-maker Epic Games Inc.",
+          "published": "2026-06-30T16:09:31+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Anthropic Releases Claude Science for Automating Research",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
+          "summary": "Anthropic PBC is releasing new software aimed at helping scientists automate research, in the hopes of reducing some of the tedious aspects of their work.",
+          "published": "2026-06-30T17:00:15+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -95,58 +117,18 @@
           "event_labels": []
         },
         {
-          "title": "Uber and Waymo Have Ended Their Robotaxi Tie-Up in Phoenix; Uber to Announce New Partner",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-29/uber-waymo-have-ended-robotaxi-tie-up-in-phoenix-uber-to-announce-new-partner",
-          "summary": "Uber Technologies Inc. said it has wound down its robotaxi offering with Alphabet Inc.’s Waymo in Phoenix, the latest relationship twist between two companies that simultaneously function as partners and competitors.",
-          "published": "2026-06-29T18:54:59+00:00",
+          "title": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says",
+          "summary": "The rise of artificial intelligence won’t make human workers superfluous, according to OpenAI Chief Economist Ronnie Chatterji.",
+          "published": "2026-06-30T14:37:28+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chinese AI model’s bug-hunting prowess narrows gap to US",
-          "link": "https://www.scmp.com/plus/tech/tech-war/article/3358754/chinese-ai-models-bug-hunting-prowess-narrows-gap-us?utm_source=rss_feed",
-          "summary": "A Chinese artificial-intelligence (AI) model whose launch has been hailed as another “DeepSeek moment” can go toe-to-toe with US rival Anthropic’s powerful Mythos model on cybersecurity tasks, researchers have said. Beijing-based start-up Zhipu AI’s GLM-5.2, released on June 13, beat Anthropic’s Claude Opus 4.8 model in benchmarking tests by cybersecurity company Semgrep, The Wall Street Journal reported. When Semgrep researchers gave it further instructions, GLM-5.2 matched that model and...",
-          "published": "2026-06-29T09:03:28+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Ferrari Luce, New Golf Cart Reflect Apple Design Aesthetic",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-06-29/ferrari-luce-new-amble-golf-car-reflect-apple-design-flair",
-          "summary": "Ive, Hoenig reflect their Apple experience in new vehicles",
-          "published": "2026-06-29T11:02:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -155,59 +137,59 @@
           "event_labels": []
         },
         {
-          "title": "Amazon’s Rapid Delivery Push Triggers $15 Billion Rout for Eternal, Swiggy",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-29/amazon-s-rapid-delivery-push-triggers-15-billion-rout-for-eternal-swiggy",
-          "summary": "Eternal Ltd. and Swiggy Ltd. got the 10-minute delivery party going in India. Now, e-commerce titans Amazon.com Inc. and Walmart Inc.’s Flipkart are looking to crash it.",
-          "published": "2026-06-29T06:01:18+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Claude Science is Anthropic’s newest flagship product",
+          "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
+          "published": "2026-06-30T21:50:04+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "피지컬 AI 선점 위해 '팀 코리아' 뭉쳐야…데이터 구매·공장 수출 등 제안",
-          "link": "https://zdnet.co.kr/view/?no=20260629182121",
-          "summary": "[지디넷코리아]주요 피지컬 인공지능(AI) 스타트업이 한자리에 모여 글로벌 시장 선점을 위한 원팀 구축과 정부 지원을 촉구했다. 글로벌 빅테크와 경쟁에서 이기려면 국내 기업 간 연합군 형성과 데이터 확보가 필수라고 봤기 때문이다. 류중희 리얼월드 대표는 29일 청와대에서 열린 '대한민국 대도약 3대 메가프로젝트 국민보고회'에서 \"리얼월드의 오픈소스 파운데이션 모델이 엔비디아를 제치고 글로벌 벤치마크 1위를 차지했다\"며 \"거대언어모델(LLM)에서 정부가 독자 파운데이션 모델을 개발하는 것처럼 피지컬 AI도 대기업, 강소기업, 컴퓨팅 기업으로 연합군을 구성하면 글로벌 초격차를 달성할 수 있을 것\"이라고 밝혔다.현장의 로 데이터(Raw Data) 수집 프로세스를 혁신해야 한다는 목소리도 나왔다. 엄윤설 에이로봇 대표는 \"로봇 기업에 가장 필요한 것은 실제 작업자의 동작 데이터지만, 기업마다 형식과 기준이 달라 데이터 취득이 매우 어렵다\"고 지적했다.엄 대표는 '에고센트릭(바디캠 착용) 방",
-          "published": "2026-06-29T09:31:15+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 1,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "AI agents that provide ‘economic value’ are next frontier, says Meta AI research chief",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3358639/ai-agents-provide-economic-value-are-next-frontier-says-meta-ai-research-chief?utm_source=rss_feed",
-          "summary": "The next frontier of artificial intelligence will be agents that can perform “economically valuable” work across a broad range of real-world domains, according to Dawn Song, Meta Platforms’ new vice-president of AI research. “The goal is not to replace humans,” Song told the South China Morning Post last week on the sidelines of the World Economic Forum in Dalian, also known as Summer Davos, days before joining Meta. “But we want these AI agents to be more effective in these important real-world",
-          "published": "2026-06-29T03:00:05+00:00",
+          "title": "Nvidia to boost its China robotics team amid emergence of physical AI",
+          "link": "https://www.scmp.com/tech/big-tech/article/3358928/nvidia-boost-its-china-robotics-team-amid-emergence-physical-ai?utm_source=rss_feed",
+          "summary": "US chip giant Nvidia is ramping up a talent drive for its robotics team in China, a market whose vendors account for the lion’s share of global shipments. The Silicon Valley firm is recruiting for more than a dozen roles across Beijing, Shanghai and Shenzhen, according to a post on its official WeChat account on Monday. The positions span four key domains: embodied intelligence, simulation, implementation and solutions. Nvidia said its robotics team planned to build a “leading robotics platform.",
+          "published": "2026-06-30T13:30:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "비전에서 행동으로: GECC, 글로벌 에너지 순환 경제 연합 및 순환 배터리 설계 가이드라인 출범",
+          "link": "https://zdnet.co.kr/view/?no=20260630181003",
+          "summary": "[지디넷코리아]런던, 영국 2026년 6월 30일 /PRNewswire/ -- 6월 22일 CATL과 엘런 맥아더 재단(Ellen MacArthur Foundation)이 엘런 맥아더 재단과의 전략적 파트너십으로 개발된 CATL의 글로벌 에너지 순환 약속(Global Energy Circularity Commitment, GECC)을 통해 런던 기후 행동 주간 2026(London Climate Action Week 2026)의 주요 행사인 기후 혁신 포럼(Climate Innovation Forum)에서 BMW, 르노(Renault), 볼보(Volvo), 구글(Google), 샤오미(Xiaomi), 그리고 기타 업계 리더 및 이해관계자들과 함께 두 가지 새로운 이니셔티브를 발표했다. 이니셔티브에는 전체 배터리 생애주기에 걸쳐 순환성을 내재화하기 위한 순환 배터리 설계 가이드라인과 순환 비즈니스 모델을 업계 표준으로 만드는 데 필요한 정책, 투자, 상업적 조건을 가속화하기 위한 비즈",
+          "published": "2026-06-30T09:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -218,70 +200,49 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "바이낸스 '코스피 150배' 상품의 함정…2%만 반대로 움직여도 청산",
-          "link": "https://zdnet.co.kr/view/?no=20260629175648",
-          "summary": "[지디넷코리아]글로벌 가상자산 거래소 바이낸스가 코스피 지수 상승률을 최대 150배까지 설정할 수 있는 파생상품을 내놓으면서 논란이 되고 있다. 국내 미인가 거래소인 바이낸스는 규제 당국 관할권 밖에 있어, 국내 투자자들이 아무런 보호 장치 없이 고위험 투자가 가능한 사각지대에 노출됐다는 지적이 나온다.29일 가상자산 업계에 따르면, 바이낸스는 지난 22일 코스피 3배 레버리지 상장지수펀드(ETF)인 'KORU'를 기초자산으로 하는 파생상품 'KORUUSDT'를 상장했다. 이어 26일에는 최대 레버리지를 기존 20배에서 50배로 확대했다.KORU는 미국 ETF 운용사 디렉시온이 운용하는 한국주식시장 지수(MSCI 코리아 25/50 지수)를 세배 추종하도록 설계된 ETF로, 뉴욕증권거래소에 상장됐다. 결과적으로 코스피를 3배 추종하는 ETF에 다시 50배 레버리지를 적용할 수 있어, 이론상 최대 150배 레버리지를 설정할 수 있는 구조다.가령 KORUUSDT의 레버리지를 50배로 설정",
-          "published": "2026-06-29T09:02:28+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "funding"
-          ]
-        },
-        {
-          "title": "Strategy Says It May Sell Up to $1.25 Billion of Bitcoin",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-29/strategy-says-it-may-sell-up-to-1-25-billlion-of-bitcoin",
-          "summary": "Michael Saylor’s Strategy Inc. unveiled a sweeping overhaul of the financing model underpinning its Bitcoin strategy, giving itself broader powers to sell the cryptocurrency, buy back securities and preserve liquidity as it adapts to mounting pressure on the structure that fueled years of aggressive accumulation.",
-          "published": "2026-06-29T12:19:44+00:00",
+          "title": "Bitcoin Slides Below $60,000 as Strategy Selloff Refuels Anxiety",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/bitcoin-slides-below-60-000-as-strategy-selloff-refuels-anxiety",
+          "summary": "Bitcoin tumbled as much as 3.5% toward $58,000 on Tuesday as investors reversed an initial vote of confidence in Michael Saylor’s financing overhaul at Strategy Inc., raising fresh concerns that one of the cryptocurrency’s biggest buyers may no longer be a consistent source of demand.",
+          "published": "2026-06-30T17:24:54+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "지그재그, 피싱사이트 등장…사칭 피해 2건 발생",
-          "link": "https://zdnet.co.kr/view/?no=20260629173128",
-          "summary": "[지디넷코리아]카카오스타일이 운영하는 지그재그를 사칭한 사이트가 등장해 소비자 피해가 발생함에 따라 회사가 주의를 당부했다.29일 플랫폼업계에 따르면 카카오스타일은 지난 15일 오후 지그재그를 사칭한 피싱 사이트를 처음 인지했다. 이후 다음날인 16일 오전 해당 사이트를 통해 피해를 입었다는 이용자 신고가 접수돼 이용자 대상 주의 공지를 게시했다.해당 사이트는 지그재그의 행사 페이지를 사칭하고 있으며, 접속 시 개인정보 입력 또는 자산 연동을 유도하는 내용이 포함됐다. 특히, 이용자들에게 웹3 지갑 연동을 유도한 뒤 지갑 내 가상자산을 탈취하는 방식으로 운영된 것으로 알려졌다.현재까지 접수된 피해 신고는 2건으로, 피해액은 약 10만원이다.해당 사이트는 신고 절차를 진행 중이며 지그재그는 사과와 함께 피해가 발생하지 않도록 각별한 주의를 기울일 것을 고객들에게 권고했다. 그러면서 이미 접속해 정보를 입력했다면 비밀번호 변경 및 결제 수단 점검을 권유했다.지그재그는 “KISA에 신고를",
-          "published": "2026-06-29T08:33:50+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
+          "link": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025",
+          "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure.",
+          "published": "2026-06-30T21:20:53+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 5,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
@@ -290,42 +251,42 @@
       "count": 2,
       "articles": [
         {
-          "title": "카카오 노조 2차 파업···“성과급 영업이익 15% 보장하라” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uejNrQlhWYzAwaklTeHg0Rm9ac2JOWWlFdUE1TmhCRWt5YVNMS1gxeTdLM0duTUlpVndOX3Etc0dJR3hXVWJQTGZNU3dIY2E3ZndQVzhn?oc=5",
-          "summary": "카카오 노조 2차 파업···“성과급 영업이익 15% 보장하라” &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-29T01:36:18+00:00",
+          "title": "“블로그, 다시 키워보겠습니다”…네이버, 창작 플랫폼에 대규모 투자 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Tcl9tMmdLblprY1lNWnJRZ0ozLTVRRlBnSFRJT0FiVktCVXlHNVZUaDhYUEFPREZmc0g4R1NGUVltamNxZ3hlelQ4cVVNZw?oc=5",
+          "summary": "“블로그, 다시 키워보겠습니다”…네이버, 창작 플랫폼에 대규모 투자 &nbsp;&nbsp; 매일경제",
+          "published": "2026-06-30T21:11:33+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"네이버·다음 게 섯거라\"...줌, K-엑사원으로 'AI 검색' 전면 확대 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tanFBVE5yOVY1dEJGRFJfT1dQR3c2VFZHc1FkQURQRzc0QjNDSkVWNEhkdHd1NzR6VGFLbG5EMW52akprRTdBcms4MnpGbkh6OE8tV3NKUDh3dk1qZWtnOUxJSVEtQUZZeWc?oc=5",
-          "summary": "\"네이버·다음 게 섯거라\"...줌, K-엑사원으로 'AI 검색' 전면 확대 &nbsp;&nbsp; AI타임스",
-          "published": "2026-06-29T02:30:05+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"팔로알토, 미토스 이후 주가 두 배 상승 2330억달러\"",
+          "link": "https://zdnet.co.kr/view/?no=20260630234220",
+          "summary": "[지디넷코리아]\"고객 환경을 테스트하면서 얻은 초기 결과를 보면, 여전히 공격자가 너무 쉽게 침투할 수 있는 환경이 많다는 사실을 확인하고 있습니다. 발견되는 문제의 상당수는 신원관리(Identity Management) 취약점이나 잘못된 시스템 설정(Misconfiguration)입니다. 일부 AI 관련 문제도 존재하지만, 여전히 가장 큰 원인은 기본적인 보안 관리 미흡입니다.\"헬렌 타이세이라(Helen Teixeira) 팔로알토네트웍스(Palo Alto Networks, 이하 팔로알토) 유닛42(Unit 42) 아시아태평양 총괄은 30일 열린 '한국CIO포럼 6월 조찬회'에서 이 같이 밝히며 \"이는 한국만의 문제가 아니다. 전 세계적으로 공통적으로 나타나는 현상이다. 현대 IT 환경은 매우 복잡하기 때문에 방어 자체가 쉽지 않은 것은 사실이다. 그러나 우리는 여전히 공격자들이 너무 쉽게 침투할 수 있는 환경을 만들고 있다. 이제는 이러한 상황을 개선해야 할 때\"라고 강조했다.이 ",
+          "published": "2026-06-30T14:42:20+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -2
           },
           "event_labels": []
         }
