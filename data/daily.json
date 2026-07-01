@@ -1,24 +1,44 @@
 {
-  "generated_at": "2026-06-30T22:17:28.999890+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-07-01T22:20:31.237154+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "SpaceX Cuts Starlink Internet Prices in Memphis After Data Center Opposition",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/spacex-drops-starlink-costs-in-memphis-amid-data-center-pushback",
-          "summary": "SpaceX is offering discounts for Starlink internet plans in Memphis, Tennessee, as the Elon Musk-led company endures blowback and legal challenges from opponents of its data centers in the area and neighboring Mississippi.",
-          "published": "2026-06-30T19:30:47+00:00",
+          "title": "Musk Ally Gracias Eyes Bets in AI, Energy After SpaceX Windfall",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/musk-ally-gracias-eyes-bets-in-ai-energy-after-spacex-windfall",
+          "summary": "Antonio Gracias, a long-time SpaceX board member, is looking for more investments in artificial intelligence, energy and space after bets in Elon Musk’s company netted his fund nearly $100 billion.",
+          "published": "2026-07-01T20:25:28+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Tesla ‘Magic Number’ $420 Sends Musk Bros Piling Into the Stock",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/musk-meme-traders-blaze-back-into-tesla-when-the-stock-hits-420",
+          "summary": "Crossing $420 gets Tesla Inc. investors excited.",
+          "published": "2026-07-01T19:41:56+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -33,52 +53,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "Building tech in the world’s secret R&D hub",
-          "link": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-          "summary": "Apple. Anthropic. Disney Research. Google. Meta. Microsoft. NVIDIA. OpenAI. Few places outside Silicon Valley can claim R&#38;D hubs from all of these companies. Fewer still are concentrated in a city of just over 400,000 people—roughly half the size of San Francisco. Over the past two decades, however, many of the world&#8217;s most influential technology companies&#8230;",
-          "published": "2026-06-30T10:23:30+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "Cboe Seeks to List Prediction Market Type Options on Earnings Metrics",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/cboe-seeks-to-list-prediction-market-type-options-on-earnings-metrics",
+          "summary": "Cboe Global Markets Inc. is seeking US regulatory approval to list all-or-nothing options tied to corporate earnings results, allowing traders to wager on figures ranging from SpaceX revenue and Nvidia data-center sales to JPMorgan Chase &amp; Co.’s credit-loss provisions.",
+          "published": "2026-07-01T21:53:03+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, EU 규제 경고…\"검색·안드로이드 데이터 공유 강제 땐 해킹 위험\"",
-          "link": "https://zdnet.co.kr/view/?no=20260630203445",
-          "summary": "[지디넷코리아]구글(Google)의 보안 책임자들이 유럽연합(EU)의 경쟁 규제가 프라이버시와 사이버보안 위험을 키울 수 있다고 경고했다. 와이어드는 6월 29일 구글이 검색과 안드로이드(Android) 데이터를 경쟁사와 더 많이 공유하도록 강제될 경우 새로운 공격면이 생긴다는 주장을 폈다고 보도했다. 데이터 개방이 곧 보안 취약점으로 이어질 수 있다는 논리다.배경에는 디지털시장법(DMA)이 있다. EU는 빅테크의 '게이트키퍼' 지위를 줄이기 위해 최종 결정을 저울질하고 있다. 더 많은 경쟁을 원하는 유럽과, 민감한 시스템 개방이 보안을 위협한다는 구글의 입장이 정면으로 부딪히는 중이다. DMA는 이미 시행 중이지만 세부 적용 범위를 두고 줄다리기가 이어진다.경쟁사들은 구글이 시장 지배력을 지키려고 위험을 과장한다고 반박한다. 데이터 공유가 실제로 어느 정도의 보안 리스크를 만드는지, 아니면 개방으로 더 큰 혁신과 경쟁을 끌어낼 수 있는지를 두고 양측의 주장이 맞섰다. 보안을 명분으",
-          "published": "2026-06-30T11:34:45+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "earnings"
           ]
         },
         {
-          "title": "Supreme Court to Hear Apple Appeal Over Contempt Ruling",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/supreme-court-to-hear-apple-appeal-over-epic-app-store-fees",
-          "summary": "The Supreme Court agreed to hear an appeal by Apple Inc. regarding a contempt ruling in its long-running antitrust battle with Fortnite-maker Epic Games Inc.",
-          "published": "2026-06-30T16:09:31+00:00",
+          "title": "Apple Seeks to Buy Chinese-Made Memory Chips by Lobbying US",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/apple-seeks-to-buy-chinese-made-memory-chips-with-lobbying-push",
+          "summary": "Apple Inc. is in negotiations to purchase chips from two Chinese semiconductor makers on a Pentagon blacklist to help reduce the impact of a global memory shortage that’s forced the company to raise prices across its product line.",
+          "published": "2026-07-01T19:54:48+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -88,19 +88,19 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "funding"
           ]
         },
         {
-          "title": "Anthropic Releases Claude Science for Automating Research",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/anthropic-releases-claude-science-for-automating-research",
-          "summary": "Anthropic PBC is releasing new software aimed at helping scientists automate research, in the hopes of reducing some of the tedious aspects of their work.",
-          "published": "2026-06-30T17:00:15+00:00",
+          "title": "Nuclear Firm First in US to Produce Power From Advanced Reactor",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/nvidia-ai-chip-gets-power-from-valar-s-nuclear-reactor",
+          "summary": "Valar Atomics Inc., a California-based nuclear startup, generated power from an advanced reactor to run an Nvidia Corp. AI chip. While just a trickle of electricity was produced, it’s the first time a next-gen reactor has done so in the US.",
+          "published": "2026-07-01T21:14:39+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -117,10 +117,10 @@
           "event_labels": []
         },
         {
-          "title": "AI Won’t Be Substitute for Human Workers, OpenAI Economist Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/ai-won-t-be-substitute-for-human-workers-openai-economist-says",
-          "summary": "The rise of artificial intelligence won’t make human workers superfluous, according to OpenAI Chief Economist Ronnie Chatterji.",
-          "published": "2026-06-30T14:37:28+00:00",
+          "title": "US Limits on Anthropic’s Mythos Keep Foreign Firms in Limbo",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/us-limits-on-anthropic-s-mythos-keep-foreign-firms-in-limbo",
+          "summary": "Foreign governments, companies and financial institutions were left in limbo after the Trump administration continued to restrict access to Anthropic PBC’s Mythos 5 to a limited number of US organizations even after dropping export controls on the company’s latest artificial intelligence models.",
+          "published": "2026-07-01T13:04:58+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -137,32 +137,12 @@
           "event_labels": []
         },
         {
-          "title": "Claude Science is Anthropic’s newest flagship product",
-          "link": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
-          "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude Science can autonomously carry out meaningful work when given concise, high-level instructions, and it has access&#8230;",
-          "published": "2026-06-30T21:50:04+00:00",
+          "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+          "link": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers yesterday, Anthropic announced Claude Science, a major new product intended to support scientific research&#8230;",
+          "published": "2026-07-01T12:10:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia to boost its China robotics team amid emergence of physical AI",
-          "link": "https://www.scmp.com/tech/big-tech/article/3358928/nvidia-boost-its-china-robotics-team-amid-emergence-physical-ai?utm_source=rss_feed",
-          "summary": "US chip giant Nvidia is ramping up a talent drive for its robotics team in China, a market whose vendors account for the lion’s share of global shipments. The Silicon Valley firm is recruiting for more than a dozen roles across Beijing, Shanghai and Shenzhen, according to a post on its official WeChat account on Monday. The positions span four key domains: embodied intelligence, simulation, implementation and solutions. Nvidia said its robotics team planned to build a “leading robotics platform.",
-          "published": "2026-06-30T13:30:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -177,20 +157,60 @@
           "event_labels": []
         },
         {
-          "title": "비전에서 행동으로: GECC, 글로벌 에너지 순환 경제 연합 및 순환 배터리 설계 가이드라인 출범",
-          "link": "https://zdnet.co.kr/view/?no=20260630181003",
-          "summary": "[지디넷코리아]런던, 영국 2026년 6월 30일 /PRNewswire/ -- 6월 22일 CATL과 엘런 맥아더 재단(Ellen MacArthur Foundation)이 엘런 맥아더 재단과의 전략적 파트너십으로 개발된 CATL의 글로벌 에너지 순환 약속(Global Energy Circularity Commitment, GECC)을 통해 런던 기후 행동 주간 2026(London Climate Action Week 2026)의 주요 행사인 기후 혁신 포럼(Climate Innovation Forum)에서 BMW, 르노(Renault), 볼보(Volvo), 구글(Google), 샤오미(Xiaomi), 그리고 기타 업계 리더 및 이해관계자들과 함께 두 가지 새로운 이니셔티브를 발표했다. 이니셔티브에는 전체 배터리 생애주기에 걸쳐 순환성을 내재화하기 위한 순환 배터리 설계 가이드라인과 순환 비즈니스 모델을 업계 표준으로 만드는 데 필요한 정책, 투자, 상업적 조건을 가속화하기 위한 비즈",
-          "published": "2026-06-30T09:10:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Apple Readies New iPad Pro, Redesigned Entry MacBook Pro for 2027",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-01/apple-readies-new-ipad-pro-redesigned-entry-macbook-pro-for-first-half-2027",
+          "summary": "Apple Inc. is preparing an upgraded iPad Pro line and a redesigned entry-level MacBook Pro for next year, adding to a slate of several other major new products planned for the iPhone’s 20th anniversary year.",
+          "published": "2026-07-01T20:47:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "A Giant Cable Exposes Ireland’s AI Ambitions and Security Risks",
+          "link": "https://www.bloomberg.com/news/features/2026-07-01/amazon-cable-shows-ireland-s-status-as-ai-hub-and-highlights-security-risk",
+          "summary": "A new Amazon transatlantic&nbsp;fiber-optic link is symbolic of the country’s tech economy, but&nbsp;also of its chronic&nbsp;lack of defense spending.",
+          "published": "2026-07-01T04:00:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
             "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“하는 짓이 구멍가게 수준”…구글, 한국 앱마켓 죽이려 돈 뿌렸다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBRMUtnWnI2bW5kbkVkZVQ3ZWxMeURhY21XTVlXUnJxLXFXX1E0Wkd0enQ2OC1KVlY3YXl6b1NQbWNIYmMyS0kxQmYyZHRFQQ?oc=5",
+          "summary": "“하는 짓이 구멍가게 수준”…구글, 한국 앱마켓 죽이려 돈 뿌렸다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-01T11:42:29+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -200,95 +220,54 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Bitcoin Slides Below $60,000 as Strategy Selloff Refuels Anxiety",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/bitcoin-slides-below-60-000-as-strategy-selloff-refuels-anxiety",
-          "summary": "Bitcoin tumbled as much as 3.5% toward $58,000 on Tuesday as investors reversed an initial vote of confidence in Michael Saylor’s financing overhaul at Strategy Inc., raising fresh concerns that one of the cryptocurrency’s biggest buyers may no longer be a consistent source of demand.",
-          "published": "2026-06-30T17:24:54+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
-          "link": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025",
-          "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure.",
-          "published": "2026-06-30T21:20:53+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "“블로그, 다시 키워보겠습니다”…네이버, 창작 플랫폼에 대규모 투자 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1Tcl9tMmdLblprY1lNWnJRZ0ozLTVRRlBnSFRJT0FiVktCVXlHNVZUaDhYUEFPREZmc0g4R1NGUVltamNxZ3hlelQ4cVVNZw?oc=5",
-          "summary": "“블로그, 다시 키워보겠습니다”…네이버, 창작 플랫폼에 대규모 투자 &nbsp;&nbsp; 매일경제",
-          "published": "2026-06-30T21:11:33+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "앤트로픽 \"美 상무부에서 미토스 수출통제 해제\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OX1h0N1NFMlBBeHhNcVBUSnF6eU9wMTd2eFFtSDZ6Z1ZNZWdCbHAyMFlXN1pQWmFjcFVSSENFN0hEU3d0SVdIdkplOEdfc0pEdUZESnRtbW54ZHFfNEZXRVhzc2g2UEowWVdzUGVLYlnSAXRBVV95cUxONVNUZ25pb1BDZmVqMnh3cE9PUURDQU9Xd1RPYW5BX2RyTXJOYlZfemdzVHZPdTZjWnV3cDVuNFFCWEpvYjFOS1VqR0ZMZnFubkl4OXB2SXNYZmhsU3MzRXpfcXB0TXJkWlNRbWFpdGhuQTNQZw?oc=5",
+          "summary": "앤트로픽 \"美 상무부에서 미토스 수출통제 해제\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-01T07:25:55+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"팔로알토, 미토스 이후 주가 두 배 상승 2330억달러\"",
-          "link": "https://zdnet.co.kr/view/?no=20260630234220",
-          "summary": "[지디넷코리아]\"고객 환경을 테스트하면서 얻은 초기 결과를 보면, 여전히 공격자가 너무 쉽게 침투할 수 있는 환경이 많다는 사실을 확인하고 있습니다. 발견되는 문제의 상당수는 신원관리(Identity Management) 취약점이나 잘못된 시스템 설정(Misconfiguration)입니다. 일부 AI 관련 문제도 존재하지만, 여전히 가장 큰 원인은 기본적인 보안 관리 미흡입니다.\"헬렌 타이세이라(Helen Teixeira) 팔로알토네트웍스(Palo Alto Networks, 이하 팔로알토) 유닛42(Unit 42) 아시아태평양 총괄은 30일 열린 '한국CIO포럼 6월 조찬회'에서 이 같이 밝히며 \"이는 한국만의 문제가 아니다. 전 세계적으로 공통적으로 나타나는 현상이다. 현대 IT 환경은 매우 복잡하기 때문에 방어 자체가 쉽지 않은 것은 사실이다. 그러나 우리는 여전히 공격자들이 너무 쉽게 침투할 수 있는 환경을 만들고 있다. 이제는 이러한 상황을 개선해야 할 때\"라고 강조했다.이 ",
-          "published": "2026-06-30T14:42:20+00:00",
+          "title": "네이버시리즈, '블리치' 국내 첫 전권 무료…'나루토' 릴레이 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260701185543",
+          "summary": "[지디넷코리아]네이버시리즈가 일본 인기 만화 '블리치'와 '나루토' 단행본 전권을 무료로 공개하는 대규모 프로모션을 진행한다. 특히 '블리치'는 국내에서 처음으로 전권 무료 공개되며, 정주행 이벤트와 할인 행사도 함께 마련했다.네이버웹툰이 운영하는 웹소설·웹툰·단행본 플랫폼 네이버시리즈는 일본 인기 만화 '블리치'와 '나루토' 단행본 전권을 무료로 감상할 수 있는 릴레이 프로모션을 진행한다고 1일 밝혔다.먼저 '블리치'는 이날부터 오는 14일까지 2주간 단행본 전권 74권을 무료로 공개한다. '블리치' 단행본 전권이 국내에서 무료로 제공되는 것은 이번이 처음이다.이어 '나루토'는 오는 15일부터 28일까지 2주간 단행본 전권 72권을 무료로 제공한다. '나루토' 전권 무료 공개는 두 번째이며, 첫 번째 역시 네이버시리즈에서 진행됐다.이용자는 작품 페이지에서 '선물받기'를 통해 이용권을 발급받을 수 있다. '블리치'는 74장, '나루토'는 72장의 이용권이 제공되며 발급 시점부터 24",
+          "published": "2026-07-01T09:57:08+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": -2
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
