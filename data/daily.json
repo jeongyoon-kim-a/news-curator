@@ -1,87 +1,47 @@
 {
-  "generated_at": "2026-07-02T22:10:57.420734+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-07-03T22:07:55.348037+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 3,
       "articles": [
         {
-          "title": "\"스페이스X도 AI 기기 개발\"...머스크는 \"완전 거짓\" 부인 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsWl9COXI2M00yZGF0LUlQRG1ISnAxWHRkUEc5bDZsWHJHY0J4Q1RMclpiN0U2d3J1T1NjeHhhZnp3bDRlcHk1Y0pPU3ZxSWhxMF9JNUtxMGlaZXZPVWx3U3dfamlHMEZQZUE?oc=5",
-          "summary": "\"스페이스X도 AI 기기 개발\"...머스크는 \"완전 거짓\" 부인 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-02T04:41:26+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "“이젠 전기차 잘 팔아도 주가 안 올라”…실적 대박 테슬라의 굴욕 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ndWF0ZkloNFVFY2dCdUFMX3VqQlNEdFNnNkdwV055QVR4RTV5RF83QUNnOXZzb1NIc1VSQjY0YlMweGdYZW4wUkdwZldmTnBLdnc?oc=5",
+          "summary": "“이젠 전기차 잘 팔아도 주가 안 올라”…실적 대박 테슬라의 굴욕 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-03T00:13:51+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SpaceX Analyst Debut Set to Test $2.2 Trillion Valuation",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-02/spacex-analyst-debut-set-to-test-2-2-trillion-valuation",
-          "summary": "Investors in SpaceX have been largely flying blind since the company’s record-breaking IPO last month, with few financial projections to help determine what the stock is actually worth.",
-          "published": "2026-07-02T08:41:17+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "earnings"
           ]
         },
         {
-          "title": "Invesco’s Brill Gives SpaceX Bond a Red Card for ‘Very Sloppy’ Performance",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-02/invesco-s-brill-gives-spacex-bond-a-red-card-for-very-sloppy-performance",
-          "summary": "Invesco Advisers Inc.’s head of investment-grade credit for North America slammed SpaceX’s inaugural bond sale on Thursday for a “very sloppy” secondary market performance.",
-          "published": "2026-07-02T19:17:18+00:00",
+          "title": "India’s Space Industry Hunts for Its SpaceX Moment",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment",
+          "summary": "India’s attempt to fire up its fledgling private space program is showing early signs of success.",
+          "published": "2026-07-03T01:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 9,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "곽동신 한미반도체 회장, 50억원 자사주 추가 취득",
-          "link": "https://zdnet.co.kr/view/?no=20260702170735",
-          "summary": "[지디넷코리아]곽동신 한미반도체 회장이 사재로 자사주를 추가 취득한다. 테라팹 공급 목표에 따른 회사 성장에 대한 자신감을 담은 행보로 풀이된다.한미반도체는 곽동신 회장이 사재로 50억원 규모 자사주를 추가 취득한다고 2일 밝혔다. 이로써 곽 회장은 지난 2023년부터 총 695억원(73만 6345주) 자사주를 취득하게 된다.취득 예정 시기는 7월 30일이다. 장내 취득할 예정이다. 이번 취득이 완료되면 곽동신 회장 지분율은 33.61%로 높아진다. 곽 회장은 2023년부터 사재로 자사주를 매입해왔다. 곽 회장은 지난달에도 80억원 자사주를 추가 취득한 바 있다.한미반도체는 올해 말 미국 캘리포니아 산호세에 법인 '한미USA'를 설립하고 미국 반도체 시장에 본격 진출할 예정이다. 마이크론과 SK하이닉스, 앰코테크놀로지, 인텔, 스페이스X·테슬라·xAI가 공동 주도하는 '테라팹' 등이 미국 정부 반도체법(CHIPS Act) 지원에 힘입어 현지 제조시설에 투자를 확대하며 한미반도체는 한",
-          "published": "2026-07-02T08:21:54+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -89,12 +49,12 @@
           "event_labels": []
         },
         {
-          "title": "메타, 스페이스X처럼 남는 AI 컴퓨팅 자원 판매...\"자체 AI 수요 부진 타개\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1MaGJsY0swWHdXXzdBU25ZX2JYM3pBS3R5WGFOejlna1FuYlVWZmlhM2dpdUJKX2xkVWtiQm5uVVNyQjJuQzVqRWtYZDRlRHhRdHB5V1Jwc09TcmIzVVJCMlQ3ejhPRHoyOGc?oc=5",
-          "summary": "메타, 스페이스X처럼 남는 AI 컴퓨팅 자원 판매...\"자체 AI 수요 부진 타개\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-02T09:26:29+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "“우주항공, 대한민국 미래 달렸다”…李, 스페이스X 언급하며 ‘명운’ 강조 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yeXQ3OU40UG9fWGFYb0ZuZ1dSUmpBcVdhZHI2NThoaDN4LXQtSHczU0YwRmc1aDZqVm1mVzhSUlF0N3M5Y1lFSWNtNGhvbWZxQW9GODdB?oc=5",
+          "summary": "“우주항공, 대한민국 미래 달렸다”…李, 스페이스X 언급하며 ‘명운’ 강조 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-03T07:25:40+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -115,10 +75,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "Crusoe in Talks to Raise $3 Billion in Round That May Triple Firm’s Value",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-02/crusoe-in-talks-to-raise-3-billion-in-round-that-may-triple-firm-s-value",
-          "summary": "Crusoe, the data center upstart with contracts to supply AI computing power for the likes of Meta Platforms Inc. and Oracle Corp., is in talks to raise about $3 billion in a funding round that may triple the company’s valuation, people familiar with the situation said.",
-          "published": "2026-07-02T21:14:49+00:00",
+          "title": "At 17, She Sued Meta and Google, and Won. Now She’s Ready to Tell Her Story",
+          "link": "https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user",
+          "summary": "Kaley Glenn-Mills’&nbsp;lawsuit reshaped the fight to protect children from social media. She says she still can’t stop scrolling.",
+          "published": "2026-07-03T10:00:22+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Big Tech Sends Workers Into the Field to Help Customers Use AI",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai",
+          "summary": "Microsoft, Amazon follow AI companies by creating units of “forward-deployed” engineers",
+          "published": "2026-07-03T11:02:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -126,51 +108,7 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "구글, EU서 7조 3천억 과징금…반독점 소송 졌다",
-          "link": "https://zdnet.co.kr/view/?no=20260702222358",
-          "summary": "[지디넷코리아]구글이 8년 여에 걸친 법정 공방 끝에 유럽연합(EU)에서 7조원 규모 과징금을 부과받았다.유럽사법재판소(ECJ)가 2일(현지시간) 구글과 모회사 알파벳이 유럽연합집행위원회(EC)를 상대로 제기한 안드로이드 반독점 소송 상고를 기각했다고 CNBC를 비롯한 외신들이 보도했다.이 같은 판결로 안드로이드 운영체제(OS) 끼워팔기로 구글에 부과된 41억 2500만 유로(약 7조 2900억원) 과징금이 최종 확정됐다.ECJ는 이날 공식 보도자료를 통해 “구글과 모회사 알파벳이 일반 법원 판결에 대해 제기한 상고를 기각한다”면서 “따라서 안드로이드 운영체제와 관련된 경쟁방해 행위 때문에 부과된 과징금은 그대로 확정된다”고 밝혔다.구글과 EC의 안드로이드 독점 공방은 지난 2015년 시작됐다. 당시 EC는 구글이 모바일 OS 시장의 80%를 차지하는 '안드로이드'의 시장지배적 지위를 이용해 경쟁을 방해하고 있다는 혐의에 대한 조사에 착수했다.2년 간 조사를 끝낸 EC는 구글에 안드",
-          "published": "2026-07-02T13:24:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
             "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": -2
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Anthropic in Talks With Samsung for Custom AI Chip: Information",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-02/anthropic-in-talks-with-samsung-for-custom-ai-chip-information-mr3l34t4",
-          "summary": "Anthropic PBC is in talks with Samsung Electronics Co. to be a manufacturing partner for a custom artificial intelligence chip, the Information said, citing people familiar with the plan.",
-          "published": "2026-07-02T14:12:29+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -179,18 +117,60 @@
           "event_labels": []
         },
         {
-          "title": "[AI 고속도로] \"AI칩 독주 지켜라\"…엔비디아, GPU 고객사에 돈줄 댄다",
-          "link": "https://zdnet.co.kr/view/?no=20260702171549",
-          "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 클라우드 업체에 재무 보증을 제공하고 매출 일부를 공유받는 방식으로 그래픽처리장치(GPU) 판매 생태계를 넓히고 있다. 고가 GPU 구매 부담을 줄여 신생 클라우드 업체의 자금 조달을 돕고, 칩 판매 이후 임대 매출 일부까지 확보하는 구조다.2일 디인포메이션에 따르면 엔비디아는 자사 GPU를 임대해 수익을 내는 소규모 클라우드 업체를 대상으로 재무 보증 프로그램을 운영하고 있다. 이 프로그램은 엔비디아 내부에서 'AI 컴퓨트 파트너십'으로 불린다.이는 클라우드 업체가 GPU 임대 수요를 충분히 확보하지 못할 경우 엔비디아가 미사용 GPU를 다시 임대하겠다고 약속하는 방식이다. 대신 참여 업체는 매출 일부를 엔비디아와 공유한다. 엔비디아가 가져가는 비중은 계약 기간이 지날수록 낮아지는 구조로 전해졌다.디인포메이션은 GPU 클라우드 업체 퍼머스와 샤론AI, 엔비디아와 거래하는 다른 기업 임원 3명이 이 같은 내용을 전했다고 보도했다. 엔비디아 대",
-          "published": "2026-07-02T09:07:38+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "엔비디아, '수익 공유형' GPU 공급 모델 가동...\"토큰 주고 매출 분배\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlTHk4Z0c3ZzBRbDctVHRKQ2VXaDJkVjUwNVREMTZWYjBNOEtldWNlWF8wQkFzQ1dHZ01YYWxoRDZqVTNWdEJSR2FwakVQSnBfSVZ0SVJ2NnQ3T1ZZY0VMM3g1SjdOdHptd0E?oc=5",
+          "summary": "엔비디아, '수익 공유형' GPU 공급 모델 가동...\"토큰 주고 매출 분배\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-03T03:55:27+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns",
+          "link": "https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns?utm_source=rss_feed",
+          "summary": "Alibaba Group Holding has banned its employees from using Anthropic’s Claude Code for work, citing security risks related to the US artificial intelligence firm’s previous use of hidden code to track Chinese users – a move that has sparked widespread backlash in recent days. “As Claude Code was recently discovered to carry back-door risks, after comprehensive evaluation, Claude Code has now been added to a list of high-risk software with security vulnerabilities,” Alibaba said on Thursday in an.",
+          "published": "2026-07-03T14:15:48+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "시프트업 '니케', 여름 업데이트로 국내 앱스토어 매출 1위 탈환",
+          "link": "https://zdnet.co.kr/view/?no=20260703151916",
+          "summary": "[지디넷코리아]시프트업 모바일 게임 '승리의 여신: 니케(이하 니케)'가 여름 기념 업데이트에 힘입어 국내외 주요 시장에서 매출 순위 역주행에 성공했다.시프트업은 니케가 여름 업데이트의 흥행으로 한국 애플 앱스토어 매출 1위, 일본과 대만에서 각각 2위를 기록했다고 3일 밝혔다. 지난 5월 진행된 3.5주년 업데이트 이후 약 두 달 만에 다시 한번 글로벌 차트 최정상권을 탈환하며 장기 흥행 지식재산권(IP)의 저력을 입증했다.이번 업데이트에서는 수영복 콘셉트의 신규 니케 '신데렐라: 크리스탈 웨이브'와 '마르차나: 마린 스터디'가 새롭게 추가됐다. 이와 함께 두 캐릭터를 중심으로 한 풀 보이스 스토리 이벤트 'WAVE TO YOU', 여름 테마곡을 포함한 미니게임, 스페셜 애니메이션 예고 등 다채로운 콘텐츠가 이용자들의 큰 호응을 얻고 있다.아울러 시프트업은 온·오프라인 콘텐츠를 통해 이용자 접점을 전방위로 확대한다. 공식 유튜브 채널에서 오케스트라 콘서트와 여름 콘셉트 ASMR 영",
+          "published": "2026-07-03T06:30:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 2,
@@ -201,18 +181,18 @@
           ]
         },
         {
-          "title": "“컨텍스트와 노이즈 제거의 분리”…엔비디아, 하이브리드 확산 모델 ‘네모트론 투타워’ 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aWXhhYjhoblNWVkpUNjF4bzctR2hEUDRMQldhQjRvVC1kY1hBREs0NWpyT0ZteXBqLThGV0p0RnNZNW5YdW5CRkk2YlplWHp5dTZoS0E0cjRUN1VxeUZiU2dVYXU2bnpnQUE?oc=5",
-          "summary": "“컨텍스트와 노이즈 제거의 분리”…엔비디아, 하이브리드 확산 모델 ‘네모트론 투타워’ 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-02T08:49:23+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "첫 폴더블에 1000만 대 베팅하는 애플…삼성 주도 판도 뒤흔들까 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRXFGRDNDZzBidWV4cFNPczZoOGRnUVpoN3lkZGZFWHhsby11aGhva2hIZkhQM00yaUR6S0U1VjBZSTF6Ulg1bjVwQ0ZNSWt4SllwaEpn?oc=5",
+          "summary": "첫 폴더블에 1000만 대 베팅하는 애플…삼성 주도 판도 뒤흔들까 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-03T02:40:02+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -221,38 +201,18 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI '아스파이어' 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sQ004WHZQWWZCM19pQzRDOE1iaUpWVnF4YXBEWi1SMXE3Vm5lYXlYeWoxQlJMTHhwRnVvbEJNOVItcXJkZHJwVHB1WE1sYjAyLVNqbkJ4eW1sdnliaUxubVhreVlIR2FET2c?oc=5",
-          "summary": "엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI '아스파이어' 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-02T08:56:07+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Zhipu AI releases harness for GLM-5.2 model as Chinese firm takes aim at Anthropic",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3359170/zhipu-ai-releases-harness-glm-52-model-chinese-firm-takes-aim-anthropic?utm_source=rss_feed",
-          "summary": "Zhipu AI has launched a new tool to help developers build autonomous coding assistants, heating up its rivalry with US firm Anthropic as the latter removes a hidden code tracking Chinese users of its Claude Code platform. Beijing-based Zhipu, known as Z.ai overseas and listed in Hong Kong under the name Knowledge Atlas Technology, on Wednesday introduced ZCode, a harness for its latest artificial intelligence model, GLM-5.2. A harness is a control system that helps large language models execute.",
-          "published": "2026-07-02T10:00:32+00:00",
+          "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
+          "link": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
+          "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday. Spooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was preparing to flood the market with unused graphics processing units. Shares of alternative cloud companies.",
+          "published": "2026-07-03T06:28:31+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -261,20 +221,20 @@
           "event_labels": []
         },
         {
-          "title": "오픈AI, 챗GPT 추론 비용 절반으로 뚝…'컴퓨트 멀티플라이어' 최적화 전략",
-          "link": "https://zdnet.co.kr/view/?no=20260702214601",
-          "summary": "[지디넷코리아]오픈AI가 AI 모델 추론(inference) 비용을 절반 이상 줄이는 최적화 기술을 개발한 것으로 알려졌다. 데이터센터와 GPU 확보 경쟁이 치열한 가운데, 기존 인프라의 효율을 끌어올리는 '컴퓨트 멀티플라이어(Compute Multiplier)' 전략이 새 경쟁력으로 떠올랐다.디 인포메이션은 30일(현지시간) 오픈AI 엔지니어들이 이달 초 새 추론 최적화 기법으로 모델 실행 비용을 절반 이상 줄였다고 내부에 공유했다고 보도했다. 특히 로그인하지 않은 이용자용 챗GPT에는 이 기술이 적용됐고, 특정 시점에는 엔비디아 GPU 수백 대만으로 서비스를 운영할 수 있었던 것으로 전해졌다.오픈AI가 어떤 기술을 썼는지는 공개되지 않았다. 업계에서는 낮은 정밀도로 연산하는 양자화, 이전 계산을 재활용하는 키-값 캐시, 여러 요청을 한 번에 처리하는 배치 추론, 난이도에 따라 작은 모델이나 일부 전문가만 쓰는 동적 라우팅 등이 복합적으로 쓰였을 것으로 본다.이런 최적화는 단순한 ",
-          "published": "2026-07-02T12:46:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "\"제미나이 할인받고 쓰자\"...SKT, ‘구글 AI 플랜’ 구독 서비스 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMWNOalZmdGg0QldlX2F2ZEJlbk1fQmlGRkxzSXNTRGQ1aVFwbEJqUWFlZGVrY1duUjJHYnRtTno3SnZhV1ZvRjdidGxnZk5WV3VCSkJvcWxoOGJSRER4ZVhVVmhZdXppSUE?oc=5",
+          "summary": "\"제미나이 할인받고 쓰자\"...SKT, ‘구글 AI 플랜’ 구독 서비스 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-03T07:08:17+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -284,84 +244,22 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "이찬진 금감원장, 가상자산 사업자에 '내부통제 강화' 주문",
-          "link": "https://zdnet.co.kr/view/?no=20260702172303",
-          "summary": "[지디넷코리아]금융감독원이 주요 가상자산 사업자(VASP)들과 만나 내부통제 강화를 당부했다. 제도화를 앞두고 있는 만큼 시장 신뢰를 회복해야 한다는 이야기다.이찬진 금감원 원장은 2일 서울 마포구 프론트원에서 15개 주요 가상자산 사업자 최고경영자(CEO)와 간담회를 열고 “지속 가능한 발전과 내실 있는 성장을 위해 전사적 내부통제 체계의 구축과 운영에 각별한 관심과 노력을 기울여 달라”고 말했다.가상자산이 새로운 산업으로 자리잡아가고 있는 중요한 변곡점에 있는 만큼 사업자들의 역량이 중요해졌다는 주장이다.그는 “올 상반기 가상자산 시장은 중동사태, 증시로의 머니무브 등 여러 시장 외적 요인으로 시장이 다소 침체된 모습이었다”고 말했다.다만, 전통 금융권의 가상자산 거래소 지분 매각, 협업과 스테이블코인 활용을 위한 블록체인 인프라 도입 등 산업 저변이 확대되고 있는 점을 짚었다. 향후 시장 규모가 확대되면 가상자산 불공정 거래 규모가 더 커지고 유형도 다양화되는 만큼, 사업자 스",
-          "published": "2026-07-02T09:08:40+00:00",
+          "title": "누베이, 비자와 함께 최초의 자사 에이전트 내 결제 완료… 가맹점 주도형 에이전틱 결제 전략 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260703151002",
+          "summary": "[지디넷코리아] 비자 네트워크에서 다수 발급사에 걸쳐 최초의 에이전트 내 구매 승인 완료 누베이 에이전틱, 가맹점의 요구사항 제공… 현재는 자사 에이전트 기능, 시장 수요에 따라 서드파티 에이전트로 확장 몬트리올, 2026년 7월 3일 /PRNewswire/ -- 모든 곳에서 모든 결제를 위한 인프라를 구축하는 글로벌 핀테크 기업 누베이(Nuvei)가 7월 2일, 비자(Visa), 아르바토 시스템즈(Arvato Systems), 패션 브랜드 킹스 앤 프리스츠(Kings and Priests)와 함께 실시간 에이전틱 커머스 개념 검증을 완료했다. 이번 거래에서 가맹점의 AI 에이전트는 쇼핑객을 대신해 상품 구매를 시작하고, 별도의 결제 흐름으로 전환되지 않은 채 에이전트 내에서 결제를 완료했다. 유럽 전역의 다수 발급사가 참여해, 비자 인텔리전트 커머스(Visa Intelligent Commerce) 내 토큰화된 비자 자격 증명을 사용하고 실제 비자 네트워크에서 정산되는 에이전틱 결제",
+          "published": "2026-07-03T06:10:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "[단독] 은행은 뛰는데 보험은 손 놨다…스테이블코인 ‘무대응’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QbjZCY2NyOWVuczFvODFOYkZRN0h0RlA2TVdmYXJ1SE5adUJtc2RGZ1k2R1MxWmdhNlpnOExzZHhJYk5pT1Q2LWs0UGhQY2tha3pleg?oc=5",
-          "summary": "[단독] 은행은 뛰는데 보험은 손 놨다…스테이블코인 ‘무대응’ &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-02T07:03:08+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“반토막 난 비트코인, 이제 끝이 보이나”…월가서 ‘10월 말 바닥설’ 솔솔 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zamhSVUttRS1KLWtLYy1fUzAwMzlsZExMb1JEWTlROTdtVjEyOEE3RTRNX0RHVnFJT3NBNzJFSWpMTXF5ZFR5dW80eGYyTDhaYXc?oc=5",
-          "summary": "“반토막 난 비트코인, 이제 끝이 보이나”…월가서 ‘10월 말 바닥설’ 솔솔 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-02T07:22:50+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "이찬진 코인거래소 대표 소집…\"내부통제 강화해 신뢰 높여야\" - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBpOVlfVVlpUE5sRHJxVzlfV0ZTbEswYXpld3ZhODRNSjRhNlZtYlNQQmR4WUlGWnNLWkh1bnBMbDFXMmJpb2pPRmlldjNzOXpadVE?oc=5",
-          "summary": "이찬진 코인거래소 대표 소집…\"내부통제 강화해 신뢰 높여야\" &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-02T08:47:05+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -375,20 +273,20 @@
       "count": 1,
       "articles": [
         {
-          "title": "딥시크, 11조 원 첫 외부 투자 배경은 앤트로픽 미토스 충격",
-          "link": "https://zdnet.co.kr/view/?no=20260702200833",
-          "summary": "[지디넷코리아]딥시크가 74억 달러(약 11조 4천억 원) 규모 첫 외부 투자를 받게 된 배경은 앤트로픽 미토스 충격으로 알려졌다. 미토스의 성능이 막대한 인프라 투자의 결과라는 점에서, 딥시크도 고효율 전략만으로는 버티기 어려워졌다는 판단이다.디 인포메이션은 26일(현지시간) 복수의 소식통을 인용해, 최근 초대형 투자를 단행한 량원펑 딥시크 최고경영자의 심경 변화에 지난 4월 공개된 미토스가 결정적 계기가 됐다고 보도했다.량원펑은 그동안 상업적 압박에서 벗어나 순수 연구에만 몰두하겠다며 대기업과 벤처캐피털의 투자 제안을 거절해 왔다. 2025년 1월 딥시크-R1 성공 뒤에도 사재 30억 달러(약 4조 6천억 원)를 더 넣으며 독자 노선을 지켰다. 적은 컴퓨팅으로 프론티어급 성능에 맞먹는 고효율 알고리즘에 집중해 온 것이다.그러나 앤트로픽 미토스가 이 계산을 흔들었다. 이 모델은 소프트웨어 취약점을 자율로 찾아 악용할 수 있을 만큼 강한 추론 성능을 보였고, 이는 대규모 인프라와 컴",
-          "published": "2026-07-02T11:08:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "네이버, 재난·기상특보 '세이프티' 페이지 오픈…AI로 안전 정보 상시 제공 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tX2xRb3FyUTlxQnh2QWd5dmxVSTdBQURWQ05icHRpQ29RQnhyZzVoNnBZb0RSWGVBT1JYaEctZXlBc2d2NXEwU1VUNjJhX29hR2VtOEdzU2ZFYURUOXBVUjZtY3lKVEVEdHc?oc=5",
+          "summary": "네이버, 재난·기상특보 '세이프티' 페이지 오픈…AI로 안전 정보 상시 제공 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-03T07:48:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -398,13 +296,33 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "미래에셋, 국내주식 증거금률 40%로 상향…\"쏠림 선제 대응\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tWlFWVmpna1NVMzJ1OEljNmlJSkMwdzBsbzBMZHlfRXp5VXAyTUhwVG44WWMtX2l4MGhZdU5vSnp5bTVpclR6VlN4UUc5UkxVTWZYVzQxZ0RiZmJibW5xM0ljOFJLREF2Y2ZsTkZoaV8?oc=5",
-          "summary": "미래에셋, 국내주식 증거금률 40%로 상향…\"쏠림 선제 대응\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-02T01:29:01+00:00",
+          "title": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YSF9TbkN6NmhFeHR4Mi1qRWxuRFhXdDcyRFplQm9aUnQyREUxQnZFZ0FIT1RLUXQ2SnBDU2cxbk01OUNiOTgwVnBJMzFkcXR3dHc?oc=5",
+          "summary": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-03T10:18:48+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "미래에셋, '2026 통합보고서' 발간…\"WM·글로벌 확장 가속화\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PUkszZWdKd1R0alJiUWU5MVE0STJSSklHRjF3ekkxSzdZS1JRMHJnMVQwSE5tVFJiZ25wWDJJaUdhelVqY0xmS3d1NnhrN09ORmNqLXZtMDhhdlZsTlBkMGpoekNTcjFpTkgwdk5BYjM?oc=5",
+          "summary": "미래에셋, '2026 통합보고서' 발간…\"WM·글로벌 확장 가속화\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-03T01:16:02+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
