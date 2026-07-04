@@ -1,60 +1,18 @@
 {
-  "generated_at": "2026-07-03T22:07:55.348037+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-07-04T22:01:46.995959+00:00",
+  "total_articles": 8,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "“이젠 전기차 잘 팔아도 주가 안 올라”…실적 대박 테슬라의 굴욕 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ndWF0ZkloNFVFY2dCdUFMX3VqQlNEdFNnNkdwV055QVR4RTV5RF83QUNnOXZzb1NIc1VSQjY0YlMweGdYZW4wUkdwZldmTnBLdnc?oc=5",
-          "summary": "“이젠 전기차 잘 팔아도 주가 안 올라”…실적 대박 테슬라의 굴욕 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-03T00:13:51+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "India’s Space Industry Hunts for Its SpaceX Moment",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-03/india-s-space-industry-hunts-for-its-spacex-moment",
-          "summary": "India’s attempt to fire up its fledgling private space program is showing early signs of success.",
-          "published": "2026-07-03T01:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“우주항공, 대한민국 미래 달렸다”…李, 스페이스X 언급하며 ‘명운’ 강조 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yeXQ3OU40UG9fWGFYb0ZuZ1dSUmpBcVdhZHI2NThoaDN4LXQtSHczU0YwRmc1aDZqVm1mVzhSUlF0N3M5Y1lFSWNtNGhvbWZxQW9GODdB?oc=5",
-          "summary": "“우주항공, 대한민국 미래 달렸다”…李, 스페이스X 언급하며 ‘명운’ 강조 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-03T07:25:40+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "테슬라, 직원 AI 사용료 주당 200달러로 제한…“비용 급증 제동” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1tNWRrNzcyMGhJNS1UMndJalJFaTVILVM1SFViSFoxTG44cHRXODh5ZVloNDFfbzlONGsxWXI3V0NkVDRESkZUVkk5TzhMdDhVNU9RNWFzVnVrRXRkYVRORHRtZDkybFlDTEE?oc=5",
+          "summary": "테슬라, 직원 AI 사용료 주당 200달러로 제한…“비용 급증 제동” &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-04T02:47:18+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -72,127 +30,64 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "At 17, She Sued Meta and Google, and Won. Now She’s Ready to Tell Her Story",
-          "link": "https://www.bloomberg.com/news/features/2026-07-03/google-and-meta-lost-a-landmark-trial-to-kaley-but-kept-her-as-a-user",
-          "summary": "Kaley Glenn-Mills’&nbsp;lawsuit reshaped the fight to protect children from social media. She says she still can’t stop scrolling.",
-          "published": "2026-07-03T10:00:22+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Big Tech Sends Workers Into the Field to Help Customers Use AI",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-03/microsoft-amazon-send-workers-to-their-customers-to-help-with-ai",
-          "summary": "Microsoft, Amazon follow AI companies by creating units of “forward-deployed” engineers",
-          "published": "2026-07-03T11:02:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, '수익 공유형' GPU 공급 모델 가동...\"토큰 주고 매출 분배\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlTHk4Z0c3ZzBRbDctVHRKQ2VXaDJkVjUwNVREMTZWYjBNOEtldWNlWF8wQkFzQ1dHZ01YYWxoRDZqVTNWdEJSR2FwakVQSnBfSVZ0SVJ2NnQ3T1ZZY0VMM3g1SjdOdHptd0E?oc=5",
-          "summary": "엔비디아, '수익 공유형' GPU 공급 모델 가동...\"토큰 주고 매출 분배\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-03T03:55:27+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Alibaba bans staff from using Claude Code over Anthropic spyware concerns",
-          "link": "https://www.scmp.com/tech/big-tech/article/3359375/alibaba-bans-staff-using-claude-code-over-anthropic-spyware-concerns?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding has banned its employees from using Anthropic’s Claude Code for work, citing security risks related to the US artificial intelligence firm’s previous use of hidden code to track Chinese users – a move that has sparked widespread backlash in recent days. “As Claude Code was recently discovered to carry back-door risks, after comprehensive evaluation, Claude Code has now been added to a list of high-risk software with security vulnerabilities,” Alibaba said on Thursday in an.",
-          "published": "2026-07-03T14:15:48+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "시프트업 '니케', 여름 업데이트로 국내 앱스토어 매출 1위 탈환",
-          "link": "https://zdnet.co.kr/view/?no=20260703151916",
-          "summary": "[지디넷코리아]시프트업 모바일 게임 '승리의 여신: 니케(이하 니케)'가 여름 기념 업데이트에 힘입어 국내외 주요 시장에서 매출 순위 역주행에 성공했다.시프트업은 니케가 여름 업데이트의 흥행으로 한국 애플 앱스토어 매출 1위, 일본과 대만에서 각각 2위를 기록했다고 3일 밝혔다. 지난 5월 진행된 3.5주년 업데이트 이후 약 두 달 만에 다시 한번 글로벌 차트 최정상권을 탈환하며 장기 흥행 지식재산권(IP)의 저력을 입증했다.이번 업데이트에서는 수영복 콘셉트의 신규 니케 '신데렐라: 크리스탈 웨이브'와 '마르차나: 마린 스터디'가 새롭게 추가됐다. 이와 함께 두 캐릭터를 중심으로 한 풀 보이스 스토리 이벤트 'WAVE TO YOU', 여름 테마곡을 포함한 미니게임, 스페셜 애니메이션 예고 등 다채로운 콘텐츠가 이용자들의 큰 호응을 얻고 있다.아울러 시프트업은 온·오프라인 콘텐츠를 통해 이용자 접점을 전방위로 확대한다. 공식 유튜브 채널에서 오케스트라 콘서트와 여름 콘셉트 ASMR 영",
-          "published": "2026-07-03T06:30:02+00:00",
+          "title": "[안광섭 AI 진테제] 메타의 클라우드사업 진출이 의미하는 것",
+          "link": "https://zdnet.co.kr/view/?no=20260704151025",
+          "summary": "[지디넷코리아]지난 1일, 미국 블룸버그는 메타가 남는 AI 컴퓨팅을 외부에 팔기 위한 클라우드 사업을 준비 중이라고 전했다. 앞서 지난 6월 28일, 파이낸셜타임스(FT)는 구글이 컴퓨팅 부족으로 메타의 제미나이 모델 접근을 제한했고, 메타가 직원들에게 AI 토큰을 아껴 쓰라고 당부했다고 보도했다. 사흘만에 메타의 컴퓨팅 파워에 대한 뉴스가 바뀌었다. FT보도에는 (컴퓨팅 파워가 부족하니) AI토큰을 아껴쓰라고 했는데, 블룸버그 뉴스에는 남는 AI컴퓨팅을 외부에 판매한다고 했다. 언뜻보면 두 보도는 앞뒤가 안맞는다. 메타에 무슨 일이 일어난 걸까. 필자가 보기엔, 이번 메타 보도는, 현재의 AI 인프라 경제의 구조 변화가 압축돼 있다고 생각한다.블룸버그에 따르면 메타가 검토 중인 클라우드 사업은 두 갈래다. 첫째는 아마존웹서비스(AWS)의 '베드록'과 유사한 방식이다. 메타의 데이터센터에서 구동되는 여러 AI 모델, 자체 모델인 '뮤즈 스파크'를 포함해 개발자에게 접근 권한을 팔고",
+          "published": "2026-07-04T06:10:25+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, 30일 3분기 실적 발표…핵심 내용 '이것'",
+          "link": "https://zdnet.co.kr/view/?no=20260703131215",
+          "summary": "[지디넷코리아]애플이 오는 30일(현지시간) 2026회계연도 3분기(4~6월) 실적을 발표할 예정이라고 애플인사이더 등 외신이 2일(현지시간) 보도했다.실적 발표 후에는 팀 쿡 애플 최고경영자(CEO)와 케반 파레크 최고재무책임자(CFO)가 참석하는 콘퍼런스콜이 오후 5시(미국 동부시간)에 진행된다. 이번 3분기 실적 발표는 팀 쿡 CEO가 CEO 자격으로 진행하는 마지막 실적 발표가 될 전망이다. 애플은 오는 10월 예정된 4분기 실적 발표부터 차기 CEO인 존 터너스가 직접 콘퍼런스콜을 진행할 예정이다.이번 분기에는 실적에 큰 영향을 미칠 만한 대형 신제품 출시가 없었다. 에어팟 맥스 2가 출시됐지만 매출에 미치는 영향은 제한적일 것으로 예상된다.다만 이번 분기는 애플이 지난 3월 말 선보인 M4 아이패드 에어, 맥북 네오, M5 맥북 에어, M5 프로·맥스 맥북 프로, 애플 스튜디오 디스플레이 XDR, 아이폰17e 등이 분기 전체에 걸쳐 처음 판매된 기간이라는 점에서 의미가 있",
+          "published": "2026-07-04T09:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 4,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "earnings",
+            "exec_change"
           ]
         },
         {
-          "title": "첫 폴더블에 1000만 대 베팅하는 애플…삼성 주도 판도 뒤흔들까 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZRXFGRDNDZzBidWV4cFNPczZoOGRnUVpoN3lkZGZFWHhsby11aGhva2hIZkhQM00yaUR6S0U1VjBZSTF6Ulg1bjVwQ0ZNSWt4SllwaEpn?oc=5",
-          "summary": "첫 폴더블에 1000만 대 베팅하는 애플…삼성 주도 판도 뒤흔들까 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-03T02:40:02+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "엔비디아, 차세대 '루빈 울트라' 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBXOGh5c2hQT0xJV2FsNldETG1xaDFZamh3VnFreVdyRDFFcDlSVlZnOFB1TjBsZ2ctMjRDSml5c1AwNWR6cF9QQW13VGdKMjlfQTBkUnRkMzdaMHFhcjRWYWxnaGd1dTAxU0E?oc=5",
+          "summary": "엔비디아, 차세대 '루빈 울트라' 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-04T07:49:07+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -201,30 +96,30 @@
           "event_labels": []
         },
         {
-          "title": "AI computing stock panic over Meta cloud rumour ‘erroneous’, analysts say",
-          "link": "https://www.scmp.com/tech/big-tech/article/3359278/ai-computing-stock-panic-over-meta-cloud-rumour-erroneous-analysts-say?utm_source=rss_feed",
-          "summary": "A panic over excess computing capacity for artificial intelligence was “erroneous”, according to a report by research firm SemiAnalysis, after a global sell-off erased billions of dollars in value from semiconductor stocks on Thursday. Spooked investors interpreted a potential pivot by Meta Platforms into cloud services as a sign of an AI hardware glut, as they feared the US tech giant was preparing to flood the market with unused graphics processing units. Shares of alternative cloud companies.",
-          "published": "2026-07-03T06:28:31+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "메타, 앤트로픽 '클로드' 직접 서비스 추진...\"클라우드 진입 준비\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CSEJFX3VEUmhKOUUwVHFXbi1kLTV3UzB1emNBOXF2aHVES21Kck12VTRGTnBOVHJLWTZ3T1FUUW9FMGZ1ejZjWWVZMUVtNmR1Zzh6QjFfWkxOWFJ6Tkl0aGhLWGFyZE5tVXc?oc=5",
+          "summary": "메타, 앤트로픽 '클로드' 직접 서비스 추진...\"클라우드 진입 준비\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-04T10:10:39+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"제미나이 할인받고 쓰자\"...SKT, ‘구글 AI 플랜’ 구독 서비스 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZMWNOalZmdGg0QldlX2F2ZEJlbk1fQmlGRkxzSXNTRGQ1aVFwbEJqUWFlZGVrY1duUjJHYnRtTno3SnZhV1ZvRjdidGxnZk5WV3VCSkJvcWxoOGJSRER4ZVhVVmhZdXppSUE?oc=5",
-          "summary": "\"제미나이 할인받고 쓰자\"...SKT, ‘구글 AI 플랜’ 구독 서비스 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-03T07:08:17+00:00",
+          "title": "아마존, 온디바이스 AI 칩 설계...\"화면 없는 자체 AI 기기 곧 공개\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yc25MXy1ibjZkeVpEZmV6dHRZX1FuVWdqUWFjWlVRMU9pbU9rcnFFS3EtdUZrNk5TQzIxSmN0bWEwdExKZEY0WUg4eGk2THhoNElRd1BTR3gyYW4xQk9GVFhMNlQ2SV9wd0E?oc=5",
+          "summary": "아마존, 온디바이스 AI 칩 설계...\"화면 없는 자체 AI 기기 곧 공개\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-04T04:31:49+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -234,6 +129,26 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "아이폰18 프로 맥스, 배터리 최대 5425mAh 전망…갤S26 울트라 넘을까",
+          "link": "https://zdnet.co.kr/view/?no=20260703222457",
+          "summary": "[지디넷코리아]올가을 출시 예정인 애플의 차세대 플래그십 스마트폰 ‘아이폰18 프로 맥스’의 배터리 용량이 전작 대비 눈에 띄게 증가할 것이라는 전망이 나왔다.나인투파이브맥, 디지털트렌드 등 주요 외신은 2일(현지시간) 중국 웨이보 기반 IT 팁스터를 인용해 아이폰18 프로 맥스의 배터리 용량이 대폭 업그레이드될 가능성이 있다고 보도했다.유출된 정보에 따르면, 아이폰18 프로 맥스는 전작처럼 물리 SIM 모델과 eSIM 모델로 나올 예정이며 물리 SIM 모델의 배터리 용량은 5235mAh, eSIM 전용 모델은 5425mAh에 달할 예정이다. 이는 전작인 아이폰17 프로 맥스(물리 SIM 모델 4823mAh, eSIM 모델 5088mAh)와 비교했을 때 상당한 수준의 증량이다.지난해 출시된 아이폰17 프로 맥스 역시 우수한 배터리 수명을 보여준 바 있다. 여기에 올해 신제품의 물리적인 배터리 용량 증가와 차세대 ‘A20 프로’ 칩셋의 전력 효율성이 더해진다면, 실제 배터리 지속 시간",
+          "published": "2026-07-04T06:33:51+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -247,19 +162,19 @@
       "count": 1,
       "articles": [
         {
-          "title": "누베이, 비자와 함께 최초의 자사 에이전트 내 결제 완료… 가맹점 주도형 에이전틱 결제 전략 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260703151002",
-          "summary": "[지디넷코리아] 비자 네트워크에서 다수 발급사에 걸쳐 최초의 에이전트 내 구매 승인 완료 누베이 에이전틱, 가맹점의 요구사항 제공… 현재는 자사 에이전트 기능, 시장 수요에 따라 서드파티 에이전트로 확장 몬트리올, 2026년 7월 3일 /PRNewswire/ -- 모든 곳에서 모든 결제를 위한 인프라를 구축하는 글로벌 핀테크 기업 누베이(Nuvei)가 7월 2일, 비자(Visa), 아르바토 시스템즈(Arvato Systems), 패션 브랜드 킹스 앤 프리스츠(Kings and Priests)와 함께 실시간 에이전틱 커머스 개념 검증을 완료했다. 이번 거래에서 가맹점의 AI 에이전트는 쇼핑객을 대신해 상품 구매를 시작하고, 별도의 결제 흐름으로 전환되지 않은 채 에이전트 내에서 결제를 완료했다. 유럽 전역의 다수 발급사가 참여해, 비자 인텔리전트 커머스(Visa Intelligent Commerce) 내 토큰화된 비자 자격 증명을 사용하고 실제 비자 네트워크에서 정산되는 에이전틱 결제",
-          "published": "2026-07-03T06:10:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Local Lenders Set to Supercharge Crypto Trading in Germany",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-04/local-lenders-set-to-supercharge-crypto-trading-in-germany",
+          "summary": "The cryptocurrency market in Germany is expected to gain significant momentum in the coming months as millions of people will soon be able to trade virtual currencies directly through their local banks, without having to go through specialized third-party platforms.",
+          "published": "2026-07-04T05:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 5,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -270,75 +185,13 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "네이버, 재난·기상특보 '세이프티' 페이지 오픈…AI로 안전 정보 상시 제공 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tX2xRb3FyUTlxQnh2QWd5dmxVSTdBQURWQ05icHRpQ29RQnhyZzVoNnBZb0RSWGVBT1JYaEctZXlBc2d2NXEwU1VUNjJhX29hR2VtOEdzU2ZFYURUOXBVUjZtY3lKVEVEdHc?oc=5",
-          "summary": "네이버, 재난·기상특보 '세이프티' 페이지 오픈…AI로 안전 정보 상시 제공 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-03T07:48:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 2,
-      "articles": [
-        {
-          "title": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YSF9TbkN6NmhFeHR4Mi1qRWxuRFhXdDcyRFplQm9aUnQyREUxQnZFZ0FIT1RLUXQ2SnBDU2cxbk01OUNiOTgwVnBJMzFkcXR3dHc?oc=5",
-          "summary": "미래에셋, 1조3천억 자금조달 추진…'큰 손' 된 SK하이닉스 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-03T10:18:48+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "미래에셋, '2026 통합보고서' 발간…\"WM·글로벌 확장 가속화\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PUkszZWdKd1R0alJiUWU5MVE0STJSSklHRjF3ekkxSzdZS1JRMHJnMVQwSE5tVFJiZ25wWDJJaUdhelVqY0xmS3d1NnhrN09ORmNqLXZtMDhhdlZsTlBkMGpoekNTcjFpTkgwdk5BYjM?oc=5",
-          "summary": "미래에셋, '2026 통합보고서' 발간…\"WM·글로벌 확장 가속화\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-03T01:16:02+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
