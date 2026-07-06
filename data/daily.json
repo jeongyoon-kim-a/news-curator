@@ -1,58 +1,18 @@
 {
-  "generated_at": "2026-07-05T22:04:31.085528+00:00",
+  "generated_at": "2026-07-06T22:16:06.305302+00:00",
   "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "자체 칩 생산 속도 내는 머스크...'테라팹' 책임자로 인텔 베테랑 영입 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03T0M0RjN3ODRXUVktUHJrSS1QSFZ4dmNERjZWTFJpN0NDSnlEWTc3VTkwVVh1MlpJbzhzSUVyWlJoRVBaZXlTZG1uVGhoMHJiM24ybGF2YnE1ejlOTlhjUEJBUzZvc04wdUE?oc=5",
-          "summary": "자체 칩 생산 속도 내는 머스크...'테라팹' 책임자로 인텔 베테랑 영입 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-05T07:31:38+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "‘또또또 꼼수’ 테슬라, 반성해…한국인 특별대우, 벤츠급인데 3천만원대 파격 [세상만車] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iejlxWi0ySlZTWjJ3TlhXTGtJUm5TcDhoWERSUllrR0hkdEJaN2N3bkh3NTUxLVhRT3ljYUJ1SVNNWWFPRlhTbGhKYkFxZGkzSmlUcF9n?oc=5",
-          "summary": "‘또또또 꼼수’ 테슬라, 반성해…한국인 특별대우, 벤츠급인데 3천만원대 파격 [세상만車] &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-05T21:45:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[단독] “스페이스X에 위성용 기판 댑니다”…제대로 새 먹거리 찾은 K기업 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qVGxFS1VDdkdkRUZwdUtGeElEQ0NMWk5wOWlIazB5dlVmZHBjY2ozT3NuVkJqNjRONGs4T0ZVYTN3WE5lZ1g0c2lVMU1yLTdCd3JuMDZB?oc=5",
-          "summary": "[단독] “스페이스X에 위성용 기판 댑니다”…제대로 새 먹거리 찾은 K기업 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-05T12:03:31+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Global robotaxi market set to hit US$1t by 2040 as China tech costs plummet: Morgan Stanley",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3359602/global-robotaxi-market-set-hit-us1t-2040-china-tech-costs-plummet-morgan-stanley?utm_source=rss_feed",
+          "summary": "The global robotaxi sector is on track to become a US$1 trillion market by 2040, according to Morgan Stanley, with Chinese players like Baidu, Xpeng and WeRide primed to be regional front-runners alongside global leaders Tesla and Waymo. In a research note on Friday, the US investment bank forecast that falling manufacturing costs in China would act as a “major underappreciated accelerant” for the industry. Driven by cheaper supply chains, the cost of parts per vehicle for Chinese-made robotaxi.",
+          "published": "2026-07-06T10:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -70,23 +30,43 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 7,
+      "count": 8,
       "articles": [
         {
-          "title": "이재용 회장, '억만장자 여름캠프' 美선밸리 컨퍼런스 참석",
-          "link": "https://zdnet.co.kr/view/?no=20260705160950",
-          "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자 여름캠프' 미국 선밸리 컨퍼런스에 참석할 예정이다. 5일 뉴스1과 외신 등에 따르면 미국 투자은행 앨런앤드컴퍼니는 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 선밸리 컨퍼런스를 개최한다. 선밸리 콘퍼런스는 애플과 구글, 메타, 아마존 등 빅테크 최고경영자(CEO)가 참석하는 비공개 네트워킹 행사다. 이재용 회장은 지난 2002년부터 선밸리 컨퍼런스에 참석했다. 이 회장 참석은 인공지능(AI) 산업 확대 등으로 관심을 받고 있다.삼성전자는 엔비디아 등의 그래픽처리장치(GPU)에 필요한 고대역폭메모리(HBM)를 양산 중이다. 삼성전자는 다양한 주문형반도체(ASIC)를 만들 수 있는 파운드리사업부도 보유하고 있다. 아직 전체 시장에서 비중은 작지만 2.5D 패키징용 I-큐브(Cube), 3D 패키징용 X-큐브 기술을 개발하고 있고, 계열사인 삼성전기는 빅테크에 플립칩(FC)-볼그리드어레이(BGA) 등 고부가 반도체 기판을 공급 중",
-          "published": "2026-07-05T07:09:50+00:00",
+          "title": "앤트로픽, 페이블5 사이버 탈옥 신고 '해커원 버그바운티' 개설",
+          "link": "https://zdnet.co.kr/view/?no=20260706203507",
+          "summary": "[지디넷코리아]앤트로픽이 최신 모델 페이블5의 사이버 탈옥을 신고받는 버그바운티를 열었다. 해커원(HackerOne) 플랫폼에서 운영한다. 6월 페이블5를 다시 배포하며 미 정부와 맺은 합의의 일부다.방식은 이렇다. 검증된 보안 연구자가 페이블5의 사이버보안 분류기를 우회하는 기법을 찾아 신고한다. 성공한 신고에는 금전 보상을 준다. 적대적 공격이 아닌 책임 있는 공개로 처리한다. 신고 범위는 사이버 탈옥으로 한정된다. 시스템 프롬프트 추출 같은 비(非)사이버 문제는 앤트로픽이 이미 자체 공개하고 있어 제외된다.이 프로그램은 6월 12일 사태에 대한 대응이다. 당시 페이블5의 수출 통제를 부른 아마존발 탈옥은 내부 테스트로 발견됐다. 외부 신고가 아니었다. 공식 신고 창구가 없다 보니 보안 연구 커뮤니티가 찾은 문제를 앤트로픽에 전달할 길이 마땅치 않았다. 버그바운티는 그 통로를 만든 것이다.앤트로픽은 공동 프레임워크도 마련하고 있다. 아마존·마이크로소프트·구글과 함께 탈옥 심각도를",
+          "published": "2026-07-06T11:35:07+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 9,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Your family’s $300 stake in OpenAI",
+          "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
+          "published": "2026-07-06T18:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -95,30 +75,52 @@
           ]
         },
         {
-          "title": "'전기 먹는 하마' AI 데이터센터, 물도 많이 먹는다",
-          "link": "https://zdnet.co.kr/view/?no=20260705082138",
-          "summary": "[지디넷코리아]인공지능(AI) 데이터센터가 빠르게 늘어나면서 빅테크사 물 사용량이 새로운 환경 문제로 부상하고 있다. 기업들이 공개하는 데이터센터 물 사용량 수치에 발전소에서 전력을 생산하는 과정에서 소비되는 물이 대부분 제외돼 실제 사용 규모보다 적게 집계된다는 지적이 나온다.4일(현지시간) 월스트리트저널에 따르면 마이크로소프트(MS)·구글·아마존 등 주요 빅테크는 지난해와 올해 AI 인프라 구축에 총 1조 달러(약 1530조원)를 투자하고 있다. 하지만 데이터센터 전력 생산 과정에서 발생하는 대규모 물 사용량은 대부분 지속가능성 보고서에 포함하지 않고 있다.현재 빅테크 가운데 데이터센터 직접 물 사용량과 발전소에서 발생하는 간접 물 사용량을 함께 집계하는 곳은 메타가 유일하다. 미국에선 데이터센터의 직·간접 물 사용량을 모두 공개하도록 의무화한 규정도 없는 것으로 알려졌다.미국 로런스버클리국립연구소(LBNL)는 지난해 보고서를 통해 미국 데이터센터의 간접 물 사용량이 직접 사용량",
-          "published": "2026-07-05T02:44:22+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Microsoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul",
+          "summary": "Compulsion and Double Fine studios will become independent; Undead Labs and Ninja Theory will be sold. Xbox will also look&nbsp;to sell or spin out Arkane Studios.",
+          "published": "2026-07-06T13:31:51+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kbDhXZ1ZjQzE2bVRPRU5SZzV2STRwZVNwc3JNNTNQcy1sWlk2dUxScXhpR2h4YkxacGU3MTJjWUpXcDhnaTZwbW5aeVpxUVJVeHc?oc=5",
+          "summary": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-06T16:44:32+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Nvidia Supplier Hon Hai’s Sales Beat on Continued AI Demand",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-05/nvidia-supplier-hon-hai-reports-surging-sales-on-solid-ai-demand",
-          "summary": "Nvidia Corp.’s server assembly partner Hon Hai Precision Industry Co. reported a bigger-than-expected 40% jump in quarterly sales and said AI demand is growing further.",
-          "published": "2026-07-05T07:47:23+00:00",
+          "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
+          "summary": "Asian technology stocks slumped after a report that Nvidia Corp.’s next-generation AI server rack system has been delayed by more than a year due to manufacturing difficulties.",
+          "published": "2026-07-06T05:52:07+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -135,12 +137,12 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwVWo5N1FMclpUN2RyV0U4WERmUS15YjRyZVJkVlctUzFEbmdvU1UzLWQ3MXhsdVdjWS1ReW1yekl2VTRCSE5HRHRYOWk5ZGhjVGhvVkJnQ2ZmeGEyVWhGMVRwTlRqdDEzUWc?oc=5",
-          "summary": "엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-05T07:17:49+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia amid AI boom",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence chipmaking champion Shanghai Biren Technology is raising HK$7 billion (US$892.5 million) to boost production of its graphics processing units (GPUs), joining a fierce domestic battle to capture Nvidia’s market share in the country amid a global AI boom. The company, which went public in Hong Kong in January, announced that it would issue 153 million new shares at HK$46.2 each, representing a 9.9 per cent discount to the stock’s closing price of HK$51.3 last...",
+          "published": "2026-07-06T04:17:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -155,19 +157,19 @@
           "event_labels": []
         },
         {
-          "title": "India Tells Meta to Remove Child Abuse Content from Instagram",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-05/india-tells-meta-to-remove-child-abuse-content-from-instagram",
-          "summary": "India notified Meta Platforms Inc. that it needs to remove sexual content involving children from its platforms including Instagram, marking the latest regulatory headache for the US tech giant.",
-          "published": "2026-07-05T09:13:56+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "\"엔비디아 차세대 제품 카이버 출시 1년 이상 늦어질 듯\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CNlk3NHpYM2F0YU9LdS1XbGNZUHppSzhDTXR1YWZPUmZCSEw0aDhSd2Q4WFhVX19nR1g5NVEtbTlRTzE2X3pFU0RqRXp6UmRlNGlvbkxYQXpqTjV3Y09FaE40ZUpSSUxHNjdxaDBySkE?oc=5",
+          "summary": "\"엔비디아 차세대 제품 카이버 출시 1년 이상 늦어질 듯\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-06T04:41:27+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -175,38 +177,18 @@
           "event_labels": []
         },
         {
-          "title": "여름휴가, 10명 중 5명 \"국내여행\"...정보검색은 '포털' 이용",
-          "link": "https://zdnet.co.kr/view/?no=20260705104217",
-          "summary": "[지디넷코리아]올여름 휴가로 국내 여행을 택한 이들은 46.2%, 해외여행을 떠나겠다는 이들은 20.5%로 나타났다. 집에서 쉬겠다는 응답은 21.5%였다. 휴가 계획을 세울 때는 네이버와 구글 같은 검색 포털 사용률이 가장 컸다.SK텔레콤이 1073명을 대상으로 AI와 빅데이터 기술로 문항을 설계하고 응답을 분석하는 ‘돈 버는 설문’을 진행한 결과 국내 여행을 떠나겠다는 응답자가 가장 많았고, 집에서 휴식을 취하겠다는 21.5%에 이어 해외여행 답변이 뒤를 이었다. 11.8%의 응답자는 휴가 계획이 없다고 밝혔다.연령대에 따라 10~30대에서는 해외여행 선택 비중이 30%를 넘었으나 40~50대는 집에서 휴식을 취하겠다는 답변이 두드러지게 높게 나왔다.휴가 기간은 45.1%의 응답자가 3~4일이라고 답했다. 당일치기 또는 1박2일이 36.7%, 5일 이상이 13%로 뒤를 이었다. 5.2%의 응답자는 ‘짧게 여러 번 나눠서’라고 답변했다.해외여행을 계획하는 이들 가운데 62.7%가 ",
-          "published": "2026-07-05T03:12:00+00:00",
+          "title": "구글, 세계 최대 악성 주거용 프록시 '넷넛' 차단 조치",
+          "link": "https://zdnet.co.kr/view/?no=20260706164804",
+          "summary": "[지디넷코리아]구글TI그룹(Google Threat Intelligence Group, GTIG)은 미국 연방수사국(FBI) 및 업계 파트너들과의 공조로 세계 최대 규모 악성 주거용 프록시(residential proxy) 네트워크 중 하나인 ‘넷넛(NetNut)’을 차단하기 위한 조치를 취했다고 6일 밝혔다.프록시 네트워크 산업은 운영자들이 봇넷 자원을 지속적으로 사고 팔며 서로 긴밀히 연결된 구조를 갖고 있다. 일명 ‘포파(Popa)’로도 알려진 넷넛은 세계에서 가장 크고 대중적인 악성 주거용 프록시 네트워크 중 하나다. GTIG는 올해 초 중국 IPIDEA 프록시 네트워크를 무력화한 데 이어, 넷넛이 악용한 수백만 대의 기기를 차단했다. 이번 조치는 넷넛 운영 기반에 타격을 줄 뿐만 아니라 전 세계 프록시 봇넷 생태계를 해체하기 위한 GTIG의 성과를 한 단계 끌어올렸다고 회사는 밝혔다.GTIG 추산에 따르면, 넷넛은 프록시 플러그인을 삽입하는 ‘배드 박스(Badbox) 2.0",
+          "published": "2026-07-06T07:48:04+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "다음도 ‘AI 요약’ 참전…네이버·구글과 AI 검색 맞대결",
-          "link": "https://zdnet.co.kr/view/?no=20260703153932",
-          "summary": "[지디넷코리아]네이버와 구글에 이어 다음도 ‘인공지능(AI) 요약’ 서비스를 내놓으며, AI 검색 경쟁에서 맞붙게 됐다. 이들은 모두 자체 초거대 언어모델(LLM)을 서비스에 적용했으며, 각각 양질의 답변, 사용성, 정확성을 강점으로 시장 경쟁력을 확보한다.5일 IT업계에 따르면, 다음은 지난 1일 검색 결과를 자동으로 요약해주는 ‘AI 요약’ 베타 서비스를 공개한 바 있다. 해당 서비스는 검색창에 키워드를 입력하면 LLM이 웹 문서를 직접 분석해 검색 결과에 대한 종합적 답변을 제공한다.앞서 네이버와 구글도 유사 서비스를 내놓은 바 있다. 네이버와 구글은 ‘AI 브리핑’, ‘AI 오버뷰’를 선보였으며 각각 웹사이트 검색 시 요약된 답변 옆에 원본 콘텐츠를 표시해준다.세 서비스 모두 자체 LLM을 사용한 것이 특징이다. 네이버 AI 브리핑은 하이퍼클로바X를, 구글 AI 오버뷰는 제미나이를, 다음은 업스테이지의 ‘솔라’를 기반으로 개발됐다. 자체 LLM을 보유할 경우 워크플로우(작업 ",
-          "published": "2026-07-05T05:10:55+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -218,94 +200,117 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "Distressed Funds Explore Swap of Strategy Holdings Amid Rout",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-06/distressed-funds-explore-a-swap-of-strategy-holdings-after-rout",
+          "summary": "Distressed-debt funds that snapped up Strategy Inc.’s beaten-down preferred shares are in talks with one of the company’s bankers about swapping them for other securities, pitching it as a win-win as the relentless rout in crypto puts the Bitcoin accumulator in an increasingly tough spot.",
+          "published": "2026-07-06T19:04:36+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Tether’s Former CIO Plans Sale of Stake in Stablecoin Giant",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-06/tether-s-former-cio-plans-sale-of-stake-in-stablecoin-giant",
+          "summary": "Richard Heathcote, who until earlier this year oversaw stablecoin giant Tether Holdings SA’s investment portfolio, is planning to sell a small stake in the company, according to people familiar with the matter.",
+          "published": "2026-07-06T20:00:09+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "금감원 퇴직자 재취업 ‘좁아진 문’…로펌 늘고 가상자산업계는 사라졌다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fQkpIMW1kbEdkanRaZmowdjhHUjBRWkVuZkVwZ0FvcGRtSE9oY1BhZWx6T3IwVS1lcE5YR2lpaFdmLUJhN2VZVzdqMTBiMGk3X2hPaw?oc=5",
+          "summary": "금감원 퇴직자 재취업 ‘좁아진 문’…로펌 늘고 가상자산업계는 사라졌다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-06T21:29:23+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
-          "title": "트럼프 AI 정책 설계자 \"미국 AI 혁신 가로막는 규제 없을 것\"",
-          "link": "https://zdnet.co.kr/view/?no=20260705135236",
-          "summary": "[지디넷코리아]트럼프 2기 행정부에서 인공지능(AI) 정책 설계를 주도했던 스리람 크리슈난 전 백악관 AI 정책 고문이 미국 AI 산업이 과도한 규제 대신 혁신 중심 정책을 유지해야 한다고 밝혔다. 최근 미국 정부가 첨단 AI 모델에 대한 사전 보안 검증 제도를 도입했지만, 이를 상시 허가제로 확대하는 일은 없을 것이라는 입장도 드러냈다.스리람 크리슈난 전 백악관 AI 정책 고문은 4일(현지시간) 파이낸셜타임즈와의 인터뷰에서 \"AI를 대상으로 한 미국 식품의약국(FDA) 같은 규제기관은 생기지 않을 것\"이라며 \"트럼프 행정부는 첫날부터 과도한 관료주의와 규제를 반대해왔고 승자와 패자를 정부가 결정하는 방식은 추구하지 않는다\"고 밝혔다.크리슈난은 중앙집중형 규제기관이 AI 모델 출시마다 법률 검토와 행정 절차를 요구할 경우 미국 AI 경쟁력이 약화될 수 있다고 우려했다.이번 발언은 미국 정부가 최근 국가안보를 이유로 앤트로픽의 최상위 모델 '미토스' 공개를 일시 중단시키고 오픈AI의 ",
-          "published": "2026-07-05T07:03:00+00:00",
+          "title": "네이버파이낸셜·두나무 합병 재연기 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmR3NoZGJqSEpvdDVwTElkRDF1MlFic2gyUXBvUWZtOTI1MnV5TU90VHZtN3VVM1kxaEFMUkQ3N2hNa1ZuODJ2aEFkck1qT3RNcFE?oc=5",
+          "summary": "네이버파이낸셜·두나무 합병 재연기 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-06T07:30:02+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "네이버파이낸셜·두나무 주식교환 일정, 또 3개월 연기",
+          "link": "https://zdnet.co.kr/view/?no=20260706180146",
+          "summary": "[지디넷코리아]네이버 자회사 네이버파이낸셜과 두나무가 진행하는 주식교환 일정이 9월에서 12월로 또 다시 미뤄졌다.6일 금융감독원 전자공시시스템에 따르면, 네이버는 당초 9월 30일이던 네이버파이낸셜과 두나무 주식교환일을 12월 31일로 변경한다고 공지했다. 이에 따라 주주총회 예정일도 8월 18일에서 11월 19일로 변경됐다.주주들 반대의사표시 접수기간 역시 당초 7월 31일부터 8월 14일까지였으나, 11월 4일부터 11월 18일까지로 연기됐다.시장에서는 공정거래위원회 기업결합 심사가 이번 일정 지연에 영향을 미쳤을 것으로 보고 있다.지난달 공정위는 증권사 18곳을 대상으로 두 기업 합병 관련 의견을 수렴했다. 증권사들은 시장지배력을 가진 두 회사 결합을 우려하는 입장을 전한 것으로 알려졌다.두나무 측은 이번 주식교환 일정 변경 배경에 대해 “디지털금융 패러다임 전환기에 글로벌 경쟁력을 확보하기 위한 결합 취지를 성실히 설명하고 있다”고 밝혔다.두 회사가 주식교환 일정을 미룬 것",
+          "published": "2026-07-06T09:12:31+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 1,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "m_and_a"
           ]
-        },
-        {
-          "title": "네이버 \"이미지 중심 AI 검색으로 진화\"… 멀티모달 기술 고도화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jckRoSHpTWVBEWDIxNElEZlhKUWpTOUkzWDZPZlQwV0dvSGoxSUFvcWVDUkhheHNDSUEtSFZNRUxWdDRZa1kxVTJXUVYwWVFOVFlYcE84eThob1VmMlFudjZOUWx4VTcydGc?oc=5",
-          "summary": "네이버 \"이미지 중심 AI 검색으로 진화\"… 멀티모달 기술 고도화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-05T04:49:53+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오-기상청, 폭염 등 위험기상 대응 힘 모은다",
-          "link": "https://zdnet.co.kr/view/?no=20260705114906",
-          "summary": "[지디넷코리아]카카오(대표 정신아)가 기상청과 손잡고 폭염 등 위험기상 상황에 힘을 모은다.카카오는 지난 3일 기상청과 '위험기상 등 정보 확산 및 취약계층 지원을 위한 업무협약(MOU)'을 체결했다. 이 자리에는 이미선 기상청장과 권대열 카카오 지속가능경영 총괄리더가 참석했다.이번 협약에 따라 카카오는 카카오톡 채널과 비즈보드, 카카오같이가치 등 이용자 접점이 높은 플랫폼을 활용해 정보 확산부터 사회적 지원까지 아우르는 공익협력 체계를 가동한다.우선 카카오는 18년 만에 개편된 기상청 폭염특보 체계에 맞춰, 달라진 특보 기준과 상황별 대응 행동요령을 카카오톡 채널과 카카오 비즈보드로 안내한다. 이를 통해 이용자들이 변화된 체계를 빠르게 이해하고, 실제 폭염 상황이 발생했을 때 즉각 대응할 수 있도록 돕는다.이와 함께 취약계층을 위한 실질적인 지원도 진행된다. 카카오의 사회공헌 플랫폼인 '카카오같이가치'에서는 밥상공동체복지재단과 공동으로 폭염 취약계층을 돕기 위한 모금 캠페인을 진행",
-          "published": "2026-07-05T02:54:55+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"이미 팬덤 크니까\"…네이버웹툰 찾는 글로벌 애니 제작사들",
-          "link": "https://zdnet.co.kr/view/?no=20260705010511",
-          "summary": "[지디넷코리아]글로벌 온라인동영상서비스(OTT)를 중심으로 애니메이션 콘텐츠 수요가 커지면서 네이버웹툰이 글로벌 제작사들의 원천 지식재산권(IP) 파트너로 주목받고 있다. 이미 전 세계 독자를 통해 검증된 팬덤과 다양한 장르 경쟁력을 갖춘 웹툰이 애니메이션 시장의 새로운 성장 동력으로 떠오르는 모습이다.5일 글로벌 시장조사기관 데이터인텔로에 따르면 글로벌 애니메이션 시장 규모는 2025년 약 4200억 달러(약 642조6000억원)에서 연평균 약 9% 성장해 2034년 약 9500억 달러(1453조5000억원) 규모를 넘어설 것으로 전망된다.과거 서브컬처나 아동 콘텐츠로 여겨졌던 애니메이션은 글로벌 OTT 플랫폼의 투자 확대와 함께 핵심 콘텐츠 장르로 자리 잡고 있다. 이에 제작사들은 이미 독자 반응과 팬덤이 검증된 IP를 기반으로 흥행 리스크를 낮추고 글로벌 시장을 공략하는 전략을 강화하고 있다.네이버웹툰은 애니메이션 주요 시장인 일본과 미국, 유럽 등에서 글로벌 제작사와 협업을 ",
-          "published": "2026-07-05T05:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
