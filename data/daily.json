@@ -1,26 +1,130 @@
 {
-  "generated_at": "2026-07-06T22:16:06.305302+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-07-07T22:12:39.725818+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 6,
       "articles": [
         {
-          "title": "Global robotaxi market set to hit US$1t by 2040 as China tech costs plummet: Morgan Stanley",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3359602/global-robotaxi-market-set-hit-us1t-2040-china-tech-costs-plummet-morgan-stanley?utm_source=rss_feed",
-          "summary": "The global robotaxi sector is on track to become a US$1 trillion market by 2040, according to Morgan Stanley, with Chinese players like Baidu, Xpeng and WeRide primed to be regional front-runners alongside global leaders Tesla and Waymo. In a research note on Friday, the US investment bank forecast that falling manufacturing costs in China would act as a “major underappreciated accelerant” for the industry. Driven by cheaper supply chains, the cost of parts per vehicle for Chinese-made robotaxi.",
-          "published": "2026-07-06T10:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "Tech Rout Deepens as Chipmakers Fall; SpaceX Gets Bullish Calls",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/tech-rout-deepens-as-chipmakers-fall-spacex-gets-bullish-calls",
+          "summary": "US technology shares declined on Tuesday after earnings from Samsung Electronics Co. failed to satisfy investors, spurring worries over the durability of this year’s red-hot artificial intelligence trade.",
+          "published": "2026-07-07T20:39:35+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-s-biggest-bull-sees-valuation-soaring-above-10-trillion",
+          "summary": "SpaceX has no shortage of fans on Wall Street, but one analyst stands out among the rest as by far the most bullish: Raymond James’ Brian Gesuale.",
+          "published": "2026-07-07T15:39:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "xAI, '스페이스XAI' 브랜드로 새 출발…'그록 4.5' 출시도 임박 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IOGZVZlNjZmREanFORkFYdkd6OEs1bUZWX2NXM2hxSTU3U0RzQ0lQdng2NFJlVy15dXZ6SFh6U003dlRPU21FNTE2ejIzcnF0SXQwc0dpSlo3VU85ZWpFZkpYVzBtX3Q1MWc?oc=5",
+          "summary": "xAI, '스페이스XAI' 브랜드로 새 출발…'그록 4.5' 출시도 임박 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-07T05:09:07+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "테슬라, 이젠 ‘영포티·아재 車’ 됐다…20대보단 50대, 40~60대 앞다퉈 구입 [세상만車] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BbjY0ZWNPQURXQ0J1MmlZYUlOZ0lZLXhwMlQ2NklOLWNGdkFpQmliYXR0NFZFdEpXbFdjUm1HbV9lQ0tVUFJ1ZEJiN05LTFJVci1lUEdn?oc=5",
+          "summary": "테슬라, 이젠 ‘영포티·아재 車’ 됐다…20대보단 50대, 40~60대 앞다퉈 구입 [세상만車] &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-07T21:45:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Wall Street Unleashes Wave of Bullish SpaceX Ratings",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers",
+          "summary": "Wall Street’s biggest banks shopped SpaceX shares for $135 a pop during its record initial public offering. Just weeks later, sell-side analysts from many of those same banks are telling clients those shares should be worth $236 each on average.",
+          "published": "2026-07-07T06:28:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 7,
           "score_breakdown": {
             "keyword": 3,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X, 나스닥100 편입 앞두고 콜 베팅 '급증' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44SVdXeXdIMzRqVHlBSzlzSU9jY1NGTnFpbXd2aHFBT2l6TVMzdllMQXhqLXR3U2pOQ0JoRnZVOEktaFhiNjd6ZmlkRU5TeEdCenNNTV9xUkRfWko4VU8xNEVLcFJzNGhxVG5OUEpURTE?oc=5",
+          "summary": "스페이스X, 나스닥100 편입 앞두고 콜 베팅 '급증' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-06T23:05:47+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,62 +137,85 @@
       "count": 8,
       "articles": [
         {
-          "title": "앤트로픽, 페이블5 사이버 탈옥 신고 '해커원 버그바운티' 개설",
-          "link": "https://zdnet.co.kr/view/?no=20260706203507",
-          "summary": "[지디넷코리아]앤트로픽이 최신 모델 페이블5의 사이버 탈옥을 신고받는 버그바운티를 열었다. 해커원(HackerOne) 플랫폼에서 운영한다. 6월 페이블5를 다시 배포하며 미 정부와 맺은 합의의 일부다.방식은 이렇다. 검증된 보안 연구자가 페이블5의 사이버보안 분류기를 우회하는 기법을 찾아 신고한다. 성공한 신고에는 금전 보상을 준다. 적대적 공격이 아닌 책임 있는 공개로 처리한다. 신고 범위는 사이버 탈옥으로 한정된다. 시스템 프롬프트 추출 같은 비(非)사이버 문제는 앤트로픽이 이미 자체 공개하고 있어 제외된다.이 프로그램은 6월 12일 사태에 대한 대응이다. 당시 페이블5의 수출 통제를 부른 아마존발 탈옥은 내부 테스트로 발견됐다. 외부 신고가 아니었다. 공식 신고 창구가 없다 보니 보안 연구 커뮤니티가 찾은 문제를 앤트로픽에 전달할 길이 마땅치 않았다. 버그바운티는 그 통로를 만든 것이다.앤트로픽은 공동 프레임워크도 마련하고 있다. 아마존·마이크로소프트·구글과 함께 탈옥 심각도를",
-          "published": "2026-07-06T11:35:07+00:00",
+          "title": "이재용 회장, '선밸리 컨퍼런스' 출국… 글로벌 빅테크와 AI 공급망 논의",
+          "link": "https://zdnet.co.kr/view/?no=20260707173406",
+          "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자들의 여름캠프'로 불리는 미국 '선밸리 컨퍼런스'에 참석하기 위해 출국했다. 2분기 사상 최대 실적을 갈아치우며 세계 영업이익 1위를 달성한 직후 출장인 만큼, 빅테크 기업과 인공지능(AI) 반도체 공급망 협력 논의에 속도가 붙을 전망이다.7일 재계에 따르면 이 회장은 이날 오후 5시쯤 서울 강서구 김포비지니스항공센터(SGBAC)를 통해 미국 시애틀로 출국했다. 미국 아이다호주 선밸리 리조트에서 열리는 선밸리 컨퍼런스에 참석하기 위해서다. 미 투자은행 앨런앤드컴퍼니가 주최하는 이 행사는 7~11일(현지시간) 열린다. 선밸리 컨퍼런스는 애플과 구글, 메타, 아마존, 오픈AI 등 글로벌 IT·미디어 업계 최고경영자(CEO)들이 모이는 대표적인 비공개 네트워킹 행사다. 이 회장은 지난 2002년부터 꾸준히 이 행사를 찾아 글로벌 경영 네트워크를 구축해 왔다. 재계에서는 이 회장이 올해 선밸리에서 주목받는 인물이 될 것이란 관측이 나온다. AI",
+          "published": "2026-07-07T08:42:43+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 9,
+            "keyword": 10,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
+          "summary": "Microsoft Corp., looking to reduce AI costs, is starting to replace OpenAI and Anthropic with its own models in software products like Excel and Outlook.",
+          "published": "2026-07-07T16:19:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Your family’s $300 stake in OpenAI",
-          "link": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was in the news again last week. On Thursday, the Financial Times reported that Altman is in&#8230;",
-          "published": "2026-07-06T18:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Microsoft’s Xbox to Cut 3,200 Jobs, Divest Five Studios in Major Overhaul",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-06/microsoft-s-xbox-to-cut-3-200-jobs-divest-five-studios-in-major-overhaul",
-          "summary": "Compulsion and Double Fine studios will become independent; Undead Labs and Ninja Theory will be sold. Xbox will also look&nbsp;to sell or spin out Arkane Studios.",
-          "published": "2026-07-06T13:31:51+00:00",
+          "title": "Traders Dump Tech Bonds to Make Room for Amazon Debt Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/traders-are-dumping-tech-bonds-to-make-room-for-amazon-debt-deal",
+          "summary": "Amazon.com Inc.’s massive bond sale dragged down hyperscaler debt on Tuesday as investors sold existing securities to fund the new issue, signaling growing fatigue over the barrage of artificial intelligence financings.",
+          "published": "2026-07-07T17:02:41+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 12,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "AWS 손잡은 마키나락스, '국방 AI OS' 승부수",
+          "link": "https://zdnet.co.kr/view/?no=20260707162829",
+          "summary": "[지디넷코리아]마키나락스가 아마존웹서비스(AWS)와 손잡고 클라우드 인프라·보안 기술을 결합한 국방 특화 인공지능(AI) 개발에 나선다.마키나락스가 국방 인공지능(AI) 사업 확장을 위해 아마존웹서비스(AWS)와 업무 협력에 합의했다.마키나락스는 국방 AI 사업 확장을 위해 AWS와 협력한다고 7일 밝혔다. 이번 협력을 통해 마키나락스는 AWS의 클라우드 인프라와 보안 기술을 활용해 국방 환경에 특화된 AI 기술을 개발한다.AWS 클라우드 컴퓨팅 인프라를 기반으로 대규모 AI 모델을 학습·추론하며, 안정적이고 신속한 응답이 요구되는 작전 환경에 맞춘 고가용성·저지연 아키텍처를 설계할 예정이다. 보안 측면에서는 AWS의 보안 모범사례를 준수해 국내 국방·방산 사업의 엄격한 보안·규제 기준을 충족한다.이 과정에서 국방 데이터와 핵심 알고리즘의 개발·보유 주체는 마키나락스가 유지한다. 클라우드 인프라 보안은 AWS가, 그 위에서 운용되는 국방 데이터와 애플리케이션 보안은 마키나락스가 각각",
+          "published": "2026-07-07T07:28:29+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -97,141 +224,15 @@
           ]
         },
         {
-          "title": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kbDhXZ1ZjQzE2bVRPRU5SZzV2STRwZVNwc3JNNTNQcy1sWlk2dUxScXhpR2h4YkxacGU3MTJjWUpXcDhnaTZwbW5aeVpxUVJVeHc?oc=5",
-          "summary": "\"엔비디아, 차세대 AI서버 '카이버' 출시 1년 지연…제조 난관\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-06T16:44:32+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia Server Delay Report Sends Asian Tech Stocks Sliding",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-06/nvidia-ai-server-delay-report-sends-asian-pcb-stocks-sliding",
-          "summary": "Asian technology stocks slumped after a report that Nvidia Corp.’s next-generation AI server rack system has been delayed by more than a year due to manufacturing difficulties.",
-          "published": "2026-07-06T05:52:07+00:00",
+          "title": "BC Eyes Legal Action Against OpenAI in Wake of Mass Shooting",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/bc-eyes-legal-action-against-openai-in-wake-of-mass-shooting",
+          "summary": "British Columbia is exploring legal action against OpenAI for its failure to alert authorities to threats made on ChatGPT before the February mass shooting in the town of Tumbler Ridge.",
+          "published": "2026-07-07T18:48:56+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China’s Biren seeks US$900m to fund GPU push and challenge Nvidia amid AI boom",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3359528/chinas-biren-seeks-us900m-fund-gpu-push-and-challenge-nvidia-amid-ai-boom?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence chipmaking champion Shanghai Biren Technology is raising HK$7 billion (US$892.5 million) to boost production of its graphics processing units (GPUs), joining a fierce domestic battle to capture Nvidia’s market share in the country amid a global AI boom. The company, which went public in Hong Kong in January, announced that it would issue 153 million new shares at HK$46.2 each, representing a 9.9 per cent discount to the stock’s closing price of HK$51.3 last...",
-          "published": "2026-07-06T04:17:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"엔비디아 차세대 제품 카이버 출시 1년 이상 늦어질 듯\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CNlk3NHpYM2F0YU9LdS1XbGNZUHppSzhDTXR1YWZPUmZCSEw0aDhSd2Q4WFhVX19nR1g5NVEtbTlRTzE2X3pFU0RqRXp6UmRlNGlvbkxYQXpqTjV3Y09FaE40ZUpSSUxHNjdxaDBySkE?oc=5",
-          "summary": "\"엔비디아 차세대 제품 카이버 출시 1년 이상 늦어질 듯\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-06T04:41:27+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 세계 최대 악성 주거용 프록시 '넷넛' 차단 조치",
-          "link": "https://zdnet.co.kr/view/?no=20260706164804",
-          "summary": "[지디넷코리아]구글TI그룹(Google Threat Intelligence Group, GTIG)은 미국 연방수사국(FBI) 및 업계 파트너들과의 공조로 세계 최대 규모 악성 주거용 프록시(residential proxy) 네트워크 중 하나인 ‘넷넛(NetNut)’을 차단하기 위한 조치를 취했다고 6일 밝혔다.프록시 네트워크 산업은 운영자들이 봇넷 자원을 지속적으로 사고 팔며 서로 긴밀히 연결된 구조를 갖고 있다. 일명 ‘포파(Popa)’로도 알려진 넷넛은 세계에서 가장 크고 대중적인 악성 주거용 프록시 네트워크 중 하나다. GTIG는 올해 초 중국 IPIDEA 프록시 네트워크를 무력화한 데 이어, 넷넛이 악용한 수백만 대의 기기를 차단했다. 이번 조치는 넷넛 운영 기반에 타격을 줄 뿐만 아니라 전 세계 프록시 봇넷 생태계를 해체하기 위한 GTIG의 성과를 한 단계 끌어올렸다고 회사는 밝혔다.GTIG 추산에 따르면, 넷넛은 프록시 플러그인을 삽입하는 ‘배드 박스(Badbox) 2.0",
-          "published": "2026-07-06T07:48:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "Distressed Funds Explore Swap of Strategy Holdings Amid Rout",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-06/distressed-funds-explore-a-swap-of-strategy-holdings-after-rout",
-          "summary": "Distressed-debt funds that snapped up Strategy Inc.’s beaten-down preferred shares are in talks with one of the company’s bankers about swapping them for other securities, pitching it as a win-win as the relentless rout in crypto puts the Bitcoin accumulator in an increasingly tough spot.",
-          "published": "2026-07-06T19:04:36+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Tether’s Former CIO Plans Sale of Stake in Stablecoin Giant",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-06/tether-s-former-cio-plans-sale-of-stake-in-stablecoin-giant",
-          "summary": "Richard Heathcote, who until earlier this year oversaw stablecoin giant Tether Holdings SA’s investment portfolio, is planning to sell a small stake in the company, according to people familiar with the matter.",
-          "published": "2026-07-06T20:00:09+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
           "score": 11,
           "score_breakdown": {
             "keyword": 5,
@@ -243,74 +244,139 @@
           "event_labels": []
         },
         {
-          "title": "금감원 퇴직자 재취업 ‘좁아진 문’…로펌 늘고 가상자산업계는 사라졌다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fQkpIMW1kbEdkanRaZmowdjhHUjBRWkVuZkVwZ0FvcGRtSE9oY1BhZWx6T3IwVS1lcE5YR2lpaFdmLUJhN2VZVzdqMTBiMGk3X2hPaw?oc=5",
-          "summary": "금감원 퇴직자 재취업 ‘좁아진 문’…로펌 늘고 가상자산업계는 사라졌다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-06T21:29:23+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
+          "title": "Treasuries Slide as Oil Surges, Amazon Sets Jumbo Bond Sale",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-07/treasuries-fall-before-auction-as-oil-rebounds-amazon-to-borrow",
+          "summary": "Treasuries fell as oil prices surged on signs of renewed threats to Middle East supply and Amazon.com led the corporate new-issue with an offering expected to raise at least $25 billion.",
+          "published": "2026-07-07T14:35:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
           "score_breakdown": {
             "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+          "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
+          "published": "2026-07-07T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
+        },
         {
-          "title": "네이버파이낸셜·두나무 합병 재연기 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmR3NoZGJqSEpvdDVwTElkRDF1MlFic2gyUXBvUWZtOTI1MnV5TU90VHZtN3VVM1kxaEFMUkQ3N2hNa1ZuODJ2aEFkck1qT3RNcFE?oc=5",
-          "summary": "네이버파이낸셜·두나무 합병 재연기 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-06T07:30:02+00:00",
+          "title": "폼글, 美 아마존 안착…분기 평균 매출 65% 성장했다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TR0pGSDhZeU8zTnBBczhIYkZYRGxtYl9XX3YzQ0JVZXd3MWh4dlJIanhreEZkZ3JMZ3Z1UXc5Z0FOTFVTT3J6VEhSRWZBcTZYV0JYR2dn?oc=5",
+          "summary": "폼글, 美 아마존 안착…분기 평균 매출 65% 성장했다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-07T14:15:21+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 14,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "earnings"
           ]
-        },
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
         {
-          "title": "네이버파이낸셜·두나무 주식교환 일정, 또 3개월 연기",
-          "link": "https://zdnet.co.kr/view/?no=20260706180146",
-          "summary": "[지디넷코리아]네이버 자회사 네이버파이낸셜과 두나무가 진행하는 주식교환 일정이 9월에서 12월로 또 다시 미뤄졌다.6일 금융감독원 전자공시시스템에 따르면, 네이버는 당초 9월 30일이던 네이버파이낸셜과 두나무 주식교환일을 12월 31일로 변경한다고 공지했다. 이에 따라 주주총회 예정일도 8월 18일에서 11월 19일로 변경됐다.주주들 반대의사표시 접수기간 역시 당초 7월 31일부터 8월 14일까지였으나, 11월 4일부터 11월 18일까지로 연기됐다.시장에서는 공정거래위원회 기업결합 심사가 이번 일정 지연에 영향을 미쳤을 것으로 보고 있다.지난달 공정위는 증권사 18곳을 대상으로 두 기업 합병 관련 의견을 수렴했다. 증권사들은 시장지배력을 가진 두 회사 결합을 우려하는 입장을 전한 것으로 알려졌다.두나무 측은 이번 주식교환 일정 변경 배경에 대해 “디지털금융 패러다임 전환기에 글로벌 경쟁력을 확보하기 위한 결합 취지를 성실히 설명하고 있다”고 밝혔다.두 회사가 주식교환 일정을 미룬 것",
-          "published": "2026-07-06T09:12:31+00:00",
+          "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
+          "link": "https://zdnet.co.kr/view/?no=20260707135536",
+          "summary": "[지디넷코리아]네이버페이(네이버파이낸셜)가 스타트업 투자 활성화를 위한 플랫폼을 내놨다. 스타트업·벤처기업과 투자자를 연결하는 것이 골자로, 현 정부에서 강조하는 ‘생산적 금융’ 기조에 따른 것이다.네이버페이는 7일 경기도 성남시 네이버1784에서 금융감독원, 금융·벤처업계 주요 관계자들과 ‘보험자본 투자 플랫폼’ 출범식을 열었다.이날 이찬진 금융감독원장, 박상진 네이버페이 대표를 비롯해 금융 업계 회장단이 자리를 채웠다. 증권사, 신기술사업금융회사, 벤처캐피탈(VC), 벤처기업 대표 등 업계 관계자들도 참석했다.네이버페이는 모험자본 투자 플랫폼 ‘Npay 스타트업’ 시범 운영을 시작한다. 증권사 등 출자사와 VC·신기술사업금융회사 등 운용사, 스타트업·벤처기업을 연결한다. 각 주체별로 투자에 필요한 정보를 한 곳에서 확인할 수 있다는 것이 회사 측 설명이다.구체적으로 출자사는 해당 플랫폼에 출자 공고를 등록한 뒤 출자 제안서를 바탕으로 운용사를 체계적으로 비교·평가할 수 있다. 또",
+          "published": "2026-07-07T07:30:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
+        },
+        {
+          "title": "순천 공식 블로그, 네이버 메이트 국내여행 분야 선정 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MDZ5RWtwb2t6MHVuNWhGaEpCMm5WX05IZG9Uako4QkY0bFV4a0stYUx3YUVjc1dGSnp5cW1iSnlxaGF1VzRGZnFMNS1aYjVFRC1vT1oxekNfdzR5N0VhWXYtQ3p2c0hVUHc?oc=5",
+          "summary": "순천 공식 블로그, 네이버 메이트 국내여행 분야 선정 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-07T05:50:45+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYVGJoUEthRl95WlNMc0J2ajhvVzV1T1cxOXlIUzlrVXh2Q0o3X3JnQlE1Nk82VmI2aDdyN1FJTEF3eE5LRVg3U2VEdWFCWEd2R0xNcnNxTHluRlQtcVQyYXRwMWNFRnNGSkE?oc=5",
+          "summary": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-07T09:46:57+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
