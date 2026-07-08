@@ -1,47 +1,48 @@
 {
-  "generated_at": "2026-07-07T22:12:39.725818+00:00",
+  "generated_at": "2026-07-08T22:10:46.063147+00:00",
   "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 4,
       "articles": [
         {
-          "title": "Tech Rout Deepens as Chipmakers Fall; SpaceX Gets Bullish Calls",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/tech-rout-deepens-as-chipmakers-fall-spacex-gets-bullish-calls",
-          "summary": "US technology shares declined on Tuesday after earnings from Samsung Electronics Co. failed to satisfy investors, spurring worries over the durability of this year’s red-hot artificial intelligence trade.",
-          "published": "2026-07-07T20:39:35+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "SpaceX’s Biggest Bull Sees Valuation Soaring Above $10 Trillion",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-s-biggest-bull-sees-valuation-soaring-above-10-trillion",
-          "summary": "SpaceX has no shortage of fans on Wall Street, but one analyst stands out among the rest as by far the most bullish: Raymond James’ Brian Gesuale.",
-          "published": "2026-07-07T15:39:28+00:00",
+          "title": "US Judge Allows SEC-Musk Deal Despite ‘Significant Misgivings’",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/us-judge-allows-sec-musk-deal-despite-significant-misgivings",
+          "summary": "A US judge signed off on Elon Musk paying $1.5 million to end a Securities and Exchange Commission lawsuit that accused him of cheating Twitter Inc. investors when he missed a deadline in 2022 to disclose his growing stake in the company.",
+          "published": "2026-07-08T20:26:16+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
+            "recency": 3,
+            "event_bonus": 6,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "regulation"
+          ]
+        },
+        {
+          "title": "스페이스X, AI 스마트폰 시제품 시연…머스크는 부인",
+          "link": "https://zdnet.co.kr/view/?no=20260708215146",
+          "summary": "[지디넷코리아]일론 머스크의 스페이스X가 7월 1일 투자자들에게 얇은 스마트폰형 AI 디바이스 시제품을 선보였다고 월스트리트저널(WSJ)이 보도했다. 기록적 상장을 앞두고 투자자·이해관계자에게 시연했다는 것이다. 아이폰보다 얇고 자체 운영체제와 퀄컴 스냅드래곤 칩, 머스크의 AI 기업 xAI 기술을 담았다는 설명이다. 다만 머스크는 이 보도를 X에서 '완전히 거짓'이라며 반박했다. 어느 부분이 틀렸는지는 밝히지 않았고, 스페이스X도 공식 입장을 내지 않았다.WSJ에 따르면 스페이스X는 투자자들에게 이 프로젝트가 아직 극초기 단계이며 설계가 계속 바뀔 수 있다고 전했다. 실제 제품으로 이어질지는 불확실하다. 전용 운영체제와 xAI 연동을 앞세운 점에서 애플·구글이 장악한 모바일 생태계에 AI 네이티브 기기로 도전하려는 구상이 엿보인다. AI 네이티브 기기란 기존 앱을 얹은 스마트폰과 달리, 처음부터 AI 비서를 중심에 놓고 설계한 단말을 말한다.이런 시도가 처음은 아니다. 오픈AI는 ",
+          "published": "2026-07-08T12:51:46+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
             "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -51,38 +52,18 @@
           ]
         },
         {
-          "title": "xAI, '스페이스XAI' 브랜드로 새 출발…'그록 4.5' 출시도 임박 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IOGZVZlNjZmREanFORkFYdkd6OEs1bUZWX2NXM2hxSTU3U0RzQ0lQdng2NFJlVy15dXZ6SFh6U003dlRPU21FNTE2ejIzcnF0SXQwc0dpSlo3VU85ZWpFZkpYVzBtX3Q1MWc?oc=5",
-          "summary": "xAI, '스페이스XAI' 브랜드로 새 출발…'그록 4.5' 출시도 임박 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-07T05:09:07+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Elon Musk and the age of the corporate leviathan",
+          "link": "https://www.economist.com/business/2026/07/08/elon-musk-and-the-age-of-the-corporate-leviathan",
+          "summary": "For the world’s largest companies, the normal rules of corporate governance no longer apply",
+          "published": "2026-07-08T21:22:34+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "테슬라, 이젠 ‘영포티·아재 車’ 됐다…20대보단 50대, 40~60대 앞다퉈 구입 [세상만車] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BbjY0ZWNPQURXQ0J1MmlZYUlOZ0lZLXhwMlQ2NklOLWNGdkFpQmliYXR0NFZFdEpXbFdjUm1HbV9lQ0tVUFJ1ZEJiN05LTFJVci1lUEdn?oc=5",
-          "summary": "테슬라, 이젠 ‘영포티·아재 車’ 됐다…20대보단 50대, 40~60대 앞다퉈 구입 [세상만車] &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-07T21:45:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -91,39 +72,19 @@
           "event_labels": []
         },
         {
-          "title": "Wall Street Unleashes Wave of Bullish SpaceX Ratings",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/spacex-shares-win-early-bullish-calls-from-wall-street-brokers",
-          "summary": "Wall Street’s biggest banks shopped SpaceX shares for $135 a pop during its record initial public offering. Just weeks later, sell-side analysts from many of those same banks are telling clients those shares should be worth $236 each on average.",
-          "published": "2026-07-07T06:28:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "식스센스, 美 와이콤비네이터 배치 프로그램 선정...10억원 투자 유치",
+          "link": "https://zdnet.co.kr/view/?no=20260708183402",
+          "summary": "[지디넷코리아]식스센스가 와이콤비네이터의 2026년 여름 배치(S26) 프로그램에 선정돼 약 10억원 규모의 프리시드 투자를 유치했다고 8일 밝혔다.와이콤비네이터는 에어비앤비, 스트라이프, 드롭박스 등을 배출한 글로벌 초기 스타트업 액셀러레이터다. 식스센스는 하드웨어, 로보틱스, 대규모 AI 데이터 파이프라인 분야 전문성을 갖춘 4명의 공동창업진이 설립한 스타트업이다. 조지아공과대학교 출신 백종진 대표를 비롯해 아마존, 도어대시, 테슬라 등 글로벌 기업 출신 인재와 AI 연구 경험을 갖춘 창업진이 회사를 이끌고 있다. 특히 공동창업자인 매튜 울프는 테슬라에서 20인 규모의 비전 로보틱스 팀을 이끈 경험을 보유하고 있다. 현재는 촉각 장비 하드웨어 개발 관련 전문성을 바탕으로 핵심 제조 공정을 총괄하고 있다. 이들은 사람이 실제 작업을 수행하는 과정에서 발생하는 시각과 촉각 정보를 AI 학습 데이터로 구축하는 플랫폼을 개발하고 있다.식스센스는 자체 개발한 촉각 장갑과 1인칭 카메라 센",
+          "published": "2026-07-08T09:43:38+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, 나스닥100 편입 앞두고 콜 베팅 '급증' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44SVdXeXdIMzRqVHlBSzlzSU9jY1NGTnFpbXd2aHFBT2l6TVMzdllMQXhqLXR3U2pOQ0JoRnZVOEktaFhiNjd6ZmlkRU5TeEdCenNNTV9xUkRfWko4VU8xNEVLcFJzNGhxVG5OUEpURTE?oc=5",
-          "summary": "스페이스X, 나스닥100 편입 앞두고 콜 베팅 '급증' &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-06T23:05:47+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -137,33 +98,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "이재용 회장, '선밸리 컨퍼런스' 출국… 글로벌 빅테크와 AI 공급망 논의",
-          "link": "https://zdnet.co.kr/view/?no=20260707173406",
-          "summary": "[지디넷코리아]이재용 삼성전자 회장이 '억만장자들의 여름캠프'로 불리는 미국 '선밸리 컨퍼런스'에 참석하기 위해 출국했다. 2분기 사상 최대 실적을 갈아치우며 세계 영업이익 1위를 달성한 직후 출장인 만큼, 빅테크 기업과 인공지능(AI) 반도체 공급망 협력 논의에 속도가 붙을 전망이다.7일 재계에 따르면 이 회장은 이날 오후 5시쯤 서울 강서구 김포비지니스항공센터(SGBAC)를 통해 미국 시애틀로 출국했다. 미국 아이다호주 선밸리 리조트에서 열리는 선밸리 컨퍼런스에 참석하기 위해서다. 미 투자은행 앨런앤드컴퍼니가 주최하는 이 행사는 7~11일(현지시간) 열린다. 선밸리 컨퍼런스는 애플과 구글, 메타, 아마존, 오픈AI 등 글로벌 IT·미디어 업계 최고경영자(CEO)들이 모이는 대표적인 비공개 네트워킹 행사다. 이 회장은 지난 2002년부터 꾸준히 이 행사를 찾아 글로벌 경영 네트워크를 구축해 왔다. 재계에서는 이 회장이 올해 선밸리에서 주목받는 인물이 될 것이란 관측이 나온다. AI",
-          "published": "2026-07-07T08:42:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Microsoft Replaces OpenAI, Anthropic With Own AI in Some Apps",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/microsoft-replaces-openai-anthropic-with-own-ai-in-some-apps",
-          "summary": "Microsoft Corp., looking to reduce AI costs, is starting to replace OpenAI and Anthropic with its own models in software products like Excel and Outlook.",
-          "published": "2026-07-07T16:19:46+00:00",
+          "title": "SpaceXAI, Cursor Unveil Grok AI Model for Coding, Finance Tasks",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/spacexai-cursor-unveil-grok-ai-model-for-legal-finance-tasks",
+          "summary": "SpaceXAI has unveiled a new artificial intelligence model built in partnership with AI coding startup Cursor that’s meant to be more adept at finance, legal and coding tasks, in a bid by Elon Musk’s firm to gain ground on rivals like Anthropic PBC and OpenAI.",
+          "published": "2026-07-08T17:31:10+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -180,32 +118,32 @@
           "event_labels": []
         },
         {
-          "title": "Traders Dump Tech Bonds to Make Room for Amazon Debt Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/traders-are-dumping-tech-bonds-to-make-room-for-amazon-debt-deal",
-          "summary": "Amazon.com Inc.’s massive bond sale dragged down hyperscaler debt on Tuesday as investors sold existing securities to fund the new issue, signaling growing fatigue over the barrage of artificial intelligence financings.",
-          "published": "2026-07-07T17:02:41+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "이재용 회장, '선밸리'에 한진만 파운드리 사장 동행…빅테크 수주 노린다",
+          "link": "https://zdnet.co.kr/view/?no=20260708174855",
+          "summary": "[지디넷코리아]이재용 삼성전자 회장이 미국 선밸리 콘퍼런스에 한진만 파운드리사업부장(사장)을 동행시키며 빅테크 기업을 상대로 인공지능(AI) 반도체 수주전에 본격 드라이브를 걸었다. 글로벌 마케팅 책임자를 동행했던 지난해와 달리, 올해는 반도체 위탁생산(파운드리)의 수장을 전면에 내세워 빅테크 고객 확보에 집중하겠다는 의지로 풀이된다.8일 재계에 따르면 이 회장은 7~11일(현지시간) 미국 아이다호주 선밸리 리조트에서 개최되는 선밸리 콘퍼런스에 한 사장과 함께 모습을 드러냈다.미국 투자은행 앨런앤드컴퍼니가 주최하는 선밸리 콘퍼런스는 전 세계 미디어와 IT 업계 거물들이 모여 비공개로 전략적 방향을 논의하는 자리다. 일명 '억만장자들의 여름 캠프'로 통한다. 올해 행사 역시 팀 쿡 애플 최고경영자(CEO), 마크 저커버그 메타 CEO, 순다르 피차이 알파벳 CEO, 샘 올트먼 오픈AI CEO, 제프 베이조스 아마존 창업자 등 글로벌 AI 공급망의 지형도를 바꾸는 빅테크 수장들이 집결했",
+          "published": "2026-07-08T08:58:09+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "exec_change"
           ]
         },
         {
-          "title": "AWS 손잡은 마키나락스, '국방 AI OS' 승부수",
-          "link": "https://zdnet.co.kr/view/?no=20260707162829",
-          "summary": "[지디넷코리아]마키나락스가 아마존웹서비스(AWS)와 손잡고 클라우드 인프라·보안 기술을 결합한 국방 특화 인공지능(AI) 개발에 나선다.마키나락스가 국방 인공지능(AI) 사업 확장을 위해 아마존웹서비스(AWS)와 업무 협력에 합의했다.마키나락스는 국방 AI 사업 확장을 위해 AWS와 협력한다고 7일 밝혔다. 이번 협력을 통해 마키나락스는 AWS의 클라우드 인프라와 보안 기술을 활용해 국방 환경에 특화된 AI 기술을 개발한다.AWS 클라우드 컴퓨팅 인프라를 기반으로 대규모 AI 모델을 학습·추론하며, 안정적이고 신속한 응답이 요구되는 작전 환경에 맞춘 고가용성·저지연 아키텍처를 설계할 예정이다. 보안 측면에서는 AWS의 보안 모범사례를 준수해 국내 국방·방산 사업의 엄격한 보안·규제 기준을 충족한다.이 과정에서 국방 데이터와 핵심 알고리즘의 개발·보유 주체는 마키나락스가 유지한다. 클라우드 인프라 보안은 AWS가, 그 위에서 운용되는 국방 데이터와 애플리케이션 보안은 마키나락스가 각각",
-          "published": "2026-07-07T07:28:29+00:00",
+          "title": "가짜뉴스법 대상에 네카오·구글·메타·엑스·틱톡 등 8곳 지정",
+          "link": "https://zdnet.co.kr/view/?no=20260708175635",
+          "summary": "[지디넷코리아]허위조작정보 유통 방지를 위해 7일부터 시행된 개정 정보통신망법 대상 사업자로 국내외 8개 사업자가 이름을 올렸다. 지정 통보에 대한 별도 이의가 없다면 해당 회사가 불법정보와 허위조작정보 유통 방지 의무를 갖게 된다.신영규 방송미디어통신위원회 방송통신이용자정책국장은 8일 정부과천청사에서 열린 브리핑에서 “국내 사업자로 네이버, 카카오, 네이트, 디씨인사이드와, 해외 사업자는 구글, 메타, 엑스(X), 틱톡 등이 관련 법에 따라 해당 사업자로 판단돼 현재 규제 대상으로 지정 통보가 이뤄졌다”고 밝혔다.관련 법에서 불법정보 등의 유통 방지 의무가 있는 사업자는 방미통위가 매년 이용자 수에 따라 지정하게 되는데, 국내외 8개 회사에 대한 통보는 이날 이뤄졌다. 소명과 같은 이의 제기가 일주일 안에 이뤄지지 않으면 이들 회사가 의무 대상 사업자가 된다.유통방지 의무 대상 사업자는 자율 운영정책에 따라 불법정보나 허위조작정보에 대한 신고를 접수하고, 신고가 접수되면 게재자에 ",
+          "published": "2026-07-08T09:13:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -224,30 +162,10 @@
           ]
         },
         {
-          "title": "BC Eyes Legal Action Against OpenAI in Wake of Mass Shooting",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/bc-eyes-legal-action-against-openai-in-wake-of-mass-shooting",
-          "summary": "British Columbia is exploring legal action against OpenAI for its failure to alert authorities to threats made on ChatGPT before the February mass shooting in the town of Tumbler Ridge.",
-          "published": "2026-07-07T18:48:56+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Treasuries Slide as Oil Surges, Amazon Sets Jumbo Bond Sale",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-07/treasuries-fall-before-auction-as-oil-rebounds-amazon-to-borrow",
-          "summary": "Treasuries fell as oil prices surged on signs of renewed threats to Middle East supply and Amazon.com led the corporate new-issue with an offering expected to raise at least $25 billion.",
-          "published": "2026-07-07T14:35:46+00:00",
+          "title": "Apple’s Chip Deal With Broadcom Expected to Top $30 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/apple-aapl-chip-deal-with-broadcom-avgo-expected-to-exceed-30-billion",
+          "summary": "Apple Inc., following through on a pledge to boost spending on US-made components, said its expanded agreement with Broadcom Inc. is expected to top $30 billion.",
+          "published": "2026-07-08T10:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -257,28 +175,28 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "m_and_a"
           ]
         },
         {
-          "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-          "link": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth created by AI is back in the spotlight, with reports that he is discussing giving&#8230;",
-          "published": "2026-07-07T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "China to Let AI Firms Buy Nvidia H200s, Information Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/china-to-let-ai-firms-buy-nvidia-h200-chips-information-says",
+          "summary": "China plans to allow top artificial intelligence companies to buy a limited amount of H200 chips from Nvidia Corp., a sign the country is easing restrictions on the coveted US technology, according to the Information.",
+          "published": "2026-07-08T15:21:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -286,52 +204,19 @@
           "event_labels": []
         },
         {
-          "title": "폼글, 美 아마존 안착…분기 평균 매출 65% 성장했다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TR0pGSDhZeU8zTnBBczhIYkZYRGxtYl9XX3YzQ0JVZXd3MWh4dlJIanhreEZkZ3JMZ3Z1UXc5Z0FOTFVTT3J6VEhSRWZBcTZYV0JYR2dn?oc=5",
-          "summary": "폼글, 美 아마존 안착…분기 평균 매출 65% 성장했다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-07T14:15:21+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "방미통위 \"네이버·카카오·구글·메타 등에 허위정보법 적용\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XTTF2VW5hNFM2UW16SVNRVEJSMEhyTV9CN2xJZzExMDFEb1JDOFpPNmxSQUV3MDlXRXlSdGt6OFN5UVdvRGJtaWtlOS0xeGlVVzRSbW96VjFpNTY0djZpaW9lVGo3QzlSN1FVYk93c3A?oc=5",
+          "summary": "방미통위 \"네이버·카카오·구글·메타 등에 허위정보법 적용\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-08T08:46:53+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 3,
-      "articles": [
-        {
-          "title": "네이버페이, 투자사-스타트업·벤처 잇는 '생산적 금융' 나선다",
-          "link": "https://zdnet.co.kr/view/?no=20260707135536",
-          "summary": "[지디넷코리아]네이버페이(네이버파이낸셜)가 스타트업 투자 활성화를 위한 플랫폼을 내놨다. 스타트업·벤처기업과 투자자를 연결하는 것이 골자로, 현 정부에서 강조하는 ‘생산적 금융’ 기조에 따른 것이다.네이버페이는 7일 경기도 성남시 네이버1784에서 금융감독원, 금융·벤처업계 주요 관계자들과 ‘보험자본 투자 플랫폼’ 출범식을 열었다.이날 이찬진 금융감독원장, 박상진 네이버페이 대표를 비롯해 금융 업계 회장단이 자리를 채웠다. 증권사, 신기술사업금융회사, 벤처캐피탈(VC), 벤처기업 대표 등 업계 관계자들도 참석했다.네이버페이는 모험자본 투자 플랫폼 ‘Npay 스타트업’ 시범 운영을 시작한다. 증권사 등 출자사와 VC·신기술사업금융회사 등 운용사, 스타트업·벤처기업을 연결한다. 각 주체별로 투자에 필요한 정보를 한 곳에서 확인할 수 있다는 것이 회사 측 설명이다.구체적으로 출자사는 해당 플랫폼에 출자 공고를 등록한 뒤 출자 제안서를 바탕으로 운용사를 체계적으로 비교·평가할 수 있다. 또",
-          "published": "2026-07-07T07:30:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -339,10 +224,124 @@
           "event_labels": []
         },
         {
-          "title": "순천 공식 블로그, 네이버 메이트 국내여행 분야 선정 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82MDZ5RWtwb2t6MHVuNWhGaEpCMm5WX05IZG9Uako4QkY0bFV4a0stYUx3YUVjc1dGSnp5cW1iSnlxaGF1VzRGZnFMNS1aYjVFRC1vT1oxekNfdzR5N0VhWXYtQ3p2c0hVUHc?oc=5",
-          "summary": "순천 공식 블로그, 네이버 메이트 국내여행 분야 선정 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-07T05:50:45+00:00",
+          "title": "Microsoft’s Xbox to Shift Obsidian Studio to New ‘Fallout’ Video Game",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/microsoft-s-xbox-to-shift-obsidian-studio-to-new-fallout-video-game",
+          "summary": "The game maker&nbsp;is also canceling a planned sequel to last year’s ‘Avowed’",
+          "published": "2026-07-08T17:52:30+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meta to Build First Data Center in Canada, Expanding Global Fleet",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/meta-to-build-first-data-center-in-canada-expanding-global-fleet",
+          "summary": "Meta Platforms Inc. will invest around $10 billion to build its first data center in Canada as the company expands its infrastructure to support its artificial intelligence ambitions.",
+          "published": "2026-07-08T19:30:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
+      "articles": [
+        {
+          "title": "Crypto-Focused VC Firm Paradigm Raises $1.2 Billion for AI Bets",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-08/crypto-focused-vc-firm-paradigm-raises-1-2-billion-for-ai-bets",
+          "summary": "Paradigm, the venture firm founded to invest in cryptocurrency companies, has raised a new $1.2 billion fund to make more bets outside of the sector, including artificial intelligence and robotics.",
+          "published": "2026-07-08T14:00:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 4,
+      "articles": [
+        {
+          "title": "\"미토스 시대...보안, 항시 내재 'with' 개념 접근해야\"",
+          "link": "https://zdnet.co.kr/view/?no=20260708195336",
+          "summary": "[지디넷코리아]라온시큐어가 신뢰 가능한 인공지능(AI), 자율 진화형 보안 체계 구축을 통한 AI와 보안이 완전히 내재된 패러다임을 제시했다.윤원석 라온시큐어 부사장은 8일 개최한 '제15회 정보보호의 날 기념식'에서 '미토스 시대 AI와 시큐리티의 공존 전략'을 주제로 발표했다.앤트로픽의 AI 모델 '미토스(Mythos)'가 취약점을 찾아내고 익스플로잇(취약점 공격) 생성을 빠르게 수행하는 것으로 알려지면서, 쏟아지는 취약점을 대비해야 하는 시대가 됐다. 실제로 미공개 모델인 미토스는 1만개가 넘는 고위험·치명적인 취약점을 한 달여 만에 발견했다. 이로 인해 버그 발견 횟수도 10배 이상 늘어났다.이에 '미토스 시대'에서는 보다 진화한 AI 보안 패러다임이 필요하다는 것이 윤 부사장의 생각이다. 윤 부사장은 기존 AI 보안 패러다임인 'AI를 위한 보안(Security for AI), 보안을 위한 AI(AI for Security)'로는 부족하다고 판단했다. 필요 시에만 연결하는 ",
+          "published": "2026-07-08T13:44:26+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "네이버·카카오 2분기 실적도 광고, 커머스가 살렸다",
+          "link": "https://zdnet.co.kr/view/?no=20260708165303",
+          "summary": "[지디넷코리아]네이버와 카카오가 광고와 커머스 성장에 힘입어 올해 2분기에도 나란히 호실적을 거둘 것으로 전망된다. 양사 모두 역대 최대 실적 경신이 예상되는 가운데, 하반기에는 생성형 AI를 얼마나 새로운 수익원으로 연결할 수 있을지가 성장세를 좌우할 핵심 변수로 꼽힌다.8일 금융정보업체 에프엔가이드에 따르면 네이버의 올해 2분기 연결 기준 매출은 전년 동기(2조9151억원) 대비 15% 증가한 3조3539억원으로 추정된다. 예상 영업이익은 전년 동기(5216억원)보다 9.6% 늘어난 5717억원이다.카카오 역시 매출과 영업이익이 모두 증가했을 것으로 예상된다. 카카오의 올해 2분기 매출과 영업이익 컨센서스는 2조529억원, 2234억원이다. 각각 지난해 같은 기간(2조283억원, 1859억원)보다 1.2%, 20% 성장할 것으로 보인다.네이버와 카카오의 2분기 실적은 내달 초 발표될 것으로 예상된다.2분기에도 네이버와 카카오는 광고와 커머스 중심의 성장을 이어간다는데 무게가 실린",
+          "published": "2026-07-08T09:22:56+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": -3
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "네이버클라우드, 미스트랄 AI와 제조 AX 위한 '소버린 AI' 동맹 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OcmVnMGJrclp5WFZkSU1iSHFFTTQ5ZW9vY0l2NXQtdnJ2YVFhWjJKTVRReFhQdXlYNDEzdmVTajNjTFFSWkdSdlMxODZFblV6a2lxYy1COWl5MnNZb3VfbnZjZ2hHZHdtcmc?oc=5",
+          "summary": "네이버클라우드, 미스트랄 AI와 제조 AX 위한 '소버린 AI' 동맹 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-08T03:38:14+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -359,12 +358,12 @@
           "event_labels": []
         },
         {
-          "title": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYVGJoUEthRl95WlNMc0J2ajhvVzV1T1cxOXlIUzlrVXh2Q0o3X3JnQlE1Nk82VmI2aDdyN1FJTEF3eE5LRVg3U2VEdWFCWEd2R0xNcnNxTHluRlQtcVQyYXRwMWNFRnNGSkE?oc=5",
-          "summary": "네이버·KAI, 방산 특화 소버린 AI 개발…‘무기 자율화’ 피지컬 AI 조준 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-07T09:46:57+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "삼전닉스 빼곤 대부분 고점서 물려 … 카카오 투자자 모두 손실 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02d3N4dDdmaXZzMm10c2U4Nm9lbFVNTVkwUnZlZnpwaFdPT21wdEIxNmRyOHJJMjkxV3p1bHh2a0ZSNmFaR01RZlhJMlhXXzcxQ0E?oc=5",
+          "summary": "삼전닉스 빼곤 대부분 고점서 물려 … 카카오 투자자 모두 손실 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-08T09:00:04+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
