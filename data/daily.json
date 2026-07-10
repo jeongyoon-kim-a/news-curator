@@ -1,212 +1,29 @@
 {
-  "generated_at": "2026-07-09T22:25:37.871430+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-07-10T22:08:26.821750+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "JP모건 \"스페이스X·테슬라 합병, 전략적으로 타당\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yRnpFNjF2X0lDWkFUSFBtS3ZnR281ZjM0WHdPWWtsX1piRmU5WjRnaGJFMlJVajNSNHBZLXVGMEZrSVk1eFoyMmEyWU4tenl4VXVpS2tfM3MtQ2xURUFfZUpRTmRzekMzdEtuMWpFT08?oc=5",
-          "summary": "JP모건 \"스페이스X·테슬라 합병, 전략적으로 타당\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-08T22:39:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-09/wall-street-finds-a-new-way-to-help-investors-avoid-elon-musk",
-          "summary": "For every investor who wants more Elon Musk, Wall Street increasingly has an ETF. Now it’s planning some for investors who want less.",
-          "published": "2026-07-09T16:31:02+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Is SpaceX a Value Stock? Fidelity and FTSE Russell Think So",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-09/is-spacex-spcx-a-value-stock-felv-and-ftse-russell-rlv-think-so",
-          "summary": "SpaceX has made its way into several value-oriented indexes",
-          "published": "2026-07-09T19:33:03+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "KTL, 기후부 ‘환경분야 AI 응용제품 신속상용화 지원사업’ 선정",
-          "link": "https://zdnet.co.kr/view/?no=20260709174719",
-          "summary": "[지디넷코리아]한국산업기술시험원(KTL)은 기후에너지환경부와 한국환경산업기술원이 지원하는 ‘2026년 AI응용제품 신속상용화 지원사업(환경)’에 선정돼 협약을 체결했다고 9일 밝혔다.KTL은 레오테크·국민대학교·엑소텍과 협업해 스마트미터 계량 정확도부터 데이터·통신 신뢰성, 인공지능(AI) 모듈 성능까지 일관된 환경에서의 종합적 검증을 기반으로, 실측식 계량 정확도 시험과 AI 특화 성능평가를 동시에 수행할 수 있는 ‘AI 수도미터 성능평가 장치’를 구축할 계획이다.핵심 AI 모듈을 대상으로 정량 성능시험도 수행한다. 오결측 보정, 누수·과다요금 탐지, 책임소재 분류, 출동 우선순위 산정, 에이전틱 AI·챗봇 응답, 설명가능 AI(XAI) 등 주요 모듈을 국제적으로 통용되는 다양한 지표(F1-score, MAE 개선율, NDCG 등)로 평가한다.또 기업이 어려움을 겪고 있는 상용화 제품의 조달 등록과 공공시장 진입 애로를 해소하기 위해 시험 시나리오와 평가지표를 주관기관과 협의해 표",
-          "published": "2026-07-09T08:47:19+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI, Anthropic Hit New Speed Bump With US Government",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-09/openai-anthropic-hit-new-speed-bump-with-us-government",
-          "summary": "The Trump administration is taking a more active role in reviewing AI models.",
-          "published": "2026-07-09T20:03:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+          "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
+          "published": "2026-07-10T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 14,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Former Fed Chairman Ben Bernanke Joins Anthropic Oversight Trust",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-09/former-fed-chairman-ben-bernanke-joins-anthropic-oversight-trust",
-          "summary": "Former Federal Reserve Chairman Ben Bernanke has been appointed to Anthropic’s long-term benefit trust, an oversight body meant to keep the artificial intelligence company accountable to its public mission.",
-          "published": "2026-07-09T16:30:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Unveils ChatGPT Work Agent to Field Tasks for Hours",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-09/openai-unveils-chatgpt-work-agent-to-field-tasks-for-hours",
-          "summary": "OpenAI is introducing a new artificial intelligence agent that’s meant to field a wider range of complex tasks for hours at a time, bolstering its push to appeal to more business professionals.",
-          "published": "2026-07-09T17:00:30+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "삼성SDS, 정부 AI 연구용 컴퓨팅 공급 맡는다…AWS·엘리스 제쳐",
-          "link": "https://zdnet.co.kr/view/?no=20260709180315",
-          "summary": "[지디넷코리아]삼성SDS가 정부의 인공지능(AI) 연구용 컴퓨팅 인프라 사업을 수주하며 지난해 해당 사업을 맡았던 아마존웹서비스(AWS)에 이어 올해 공급사로 선정됐다. 국내 산학연에 AI 연구 환경을 제공하는 사업으로, 공공 AI 인프라 시장 경쟁에서 레퍼런스를 확대하게 됐다.9일 조달청 나라장터에 따르면 한국정보통신진흥협회(KAIT)가 발주한 '2026년 AI연구용 컴퓨팅 지원 프로젝트 그래픽처리장치(GPU) 자원 공급 및 유지보수' 사업 우선협상대상자로 삼성SDS가 선정됐다. 경쟁에는 엘리스그룹과 AWS코리아가 참여했다.이번 사업은 계약일부터 오는 12월 31일까지 클라우드 기반 GPU 자원을 공급·운영하는 프로젝트다. 연구기관이 초거대 AI 모델과 대규모언어모델(LLM) 등을 개발할 수 있도록 GPU 인프라와 운영 환경을 제공할 예정이다.제안요청서(RFP)에 따르면 선정 사업자는 엔비디아 H100급 이상 GPU를 포함한 AI 컴퓨팅 자원을 확보해 연구자에게 제공하게 된다.특히",
-          "published": "2026-07-09T09:37:19+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-          "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
-          "summary": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as they answer questions or carry out tasks. What they found ranges from the mundane to the unnerving. Researchers at the company built a tool called the Jacobian lens (or&#8230;",
-          "published": "2026-07-09T20:22:28+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-          "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Four nuclear reactors hit a big milestone in the US —Casey Crownhart I was really looking forward to July 4, and not just because I love a poolside barbecue. This year&#8230;",
-          "published": "2026-07-09T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -215,10 +32,30 @@
           "event_labels": []
         },
         {
-          "title": "Why China is finally letting AI firms buy the Nvidia H200",
-          "link": "https://www.scmp.com/tech/policy/article/3360027/game-changer-why-china-finally-letting-its-ai-firms-buy-nvidia-h200?utm_source=rss_feed",
-          "summary": "For months, the United States and China have been locked in an unusual stand-off over cutting-edge chips – the building blocks of the artificial intelligence industry. In early 2026, Washington took the rare step of approving Nvidia’s H200 graphics processing unit for export to China, but Beijing has deliberately restricted Chinese firms from purchasing them as it pursues a tech self-sufficiency drive. Now, however, China’s stance is beginning to change, as the government plans to let selected..",
-          "published": "2026-07-09T14:12:16+00:00",
+          "title": "[유미's 픽] 챗GPT, 회사 업무까지 맡는다…CRM·협업툴 주도권 흔드나",
+          "link": "https://zdnet.co.kr/view/?no=20260710160207",
+          "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 챗봇을 넘어 기업 업무 전반을 수행하는 플랫폼으로 영역을 넓힌다. 여러 업무 도구에 흩어진 정보를 모아 분석하고 후속 작업까지 처리하는 범용 AI 에이전트를 내놓으면서 고객관계관리(CRM), 협업툴, 전사적자원관리(ERP) 등 글로벌 기업용 소프트웨어 시장의 경쟁 구도도 달라질 전망이다.오픈AI는 GPT-5.6과 코덱스 기술을 기반으로 한 업무 에이전트 '챗GPT 워크'를 10일 공개했다. 이용자가 업무 목표와 참고 자료를 제공하면 필요한 정보를 조사하고 작업 계획을 세운 뒤 문서, 스프레드시트, 프레젠테이션, 웹 애플리케이션 등 완성된 결과물을 제작하는 서비스다.챗GPT 워크는 마이크로소프트(MS) 팀즈와 구글 드라이브, MS 셰어포인트, 이메일, 캘린더, CRM, 프로젝트 관리 도구 등과 연결된다. 또 내장 브라우저와 컴퓨터 사용 기능을 통해 화면을 클릭하거나 내용을 입력하고 파일을 옮기는 작업도 수행한다. 예약 작업을 설정하면 이용자가 ",
+          "published": "2026-07-10T07:45:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Chinese users praise OpenAI’s GPT-5.6  for efficiency, even at higher cost than local rivals",
+          "link": "https://www.scmp.com/tech/article/3360118/chinese-users-praise-openais-gpt-56-efficiency-even-higher-cost-local-rivals?utm_source=rss_feed",
+          "summary": "OpenAI’s latest GPT-5.6 release marks a growing emphasis on cost-efficiency, a move welcomed by some users in China who continue to access the blocked service via virtual private networks (VPNs) and third-party proxies, even as the artificial intelligence model remains more expensive than local rivals. The launch on Thursday introduced a trio of models tailored to different capabilities, speeds and price points: the flagship Sol, the balanced Terra and the lightweight Luna. According to OpenAI,.",
+          "published": "2026-07-10T13:30:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -235,83 +72,15 @@
           "event_labels": []
         },
         {
-          "title": "Meta’s Zuckerberg Says Exploring AI Cloud Business Makes Sense",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-09/meta-s-zuckerberg-says-exploring-ai-cloud-business-makes-sense",
-          "summary": "Meta Platforms Inc. needs all the computing power it can get, Chief Executive Officer Mark Zuckerberg said, but in a market starved for resources necessary to run and develop artificial intelligence products he’s also considering whether some of Meta’s AI infrastructure could be more valuable if rented to outsiders.",
-          "published": "2026-07-09T18:04:52+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
+          "link": "https://www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release?utm_source=rss_feed",
+          "summary": "China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is among select businesses that will be eligible to buy H200s, Nvidia’s second-best AI chip, the South China Morning Post reported, citing an unidentified source. TikTok developer ByteDance and AI start-up DeepSeek are also on the list, The Information said this week. Alibaba owns.",
+          "published": "2026-07-10T09:00:17+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "코빗 인수 승인 받은 미래에셋…디지털자산 협업, ‘제도’에 달려",
-          "link": "https://zdnet.co.kr/view/?no=20260709175227",
-          "summary": "[지디넷코리아]공정거래위원회(공정위)가 미래에셋컨설팅의 가상자산 거래소 코빗 인수를 승인하면서 미래에셋그룹의 디지털자산 전략에 속도가 붙을 전망이다. 특히 미래에셋증권과 코빗 간 전통금융·디지털자산 연계 사업에 관심이 쏠린다.미래에셋그룹은 9일 “코빗에 대한 공정위 기업결합심사가 완료됐다”며 “코빗이 축적한 디지털자산 거래 인프라와 미래에셋의 리스크 관리, 내부통제, 투자자 보호 역량을 결합하겠다”고 밝히며 디지털자산 시장 진출을 공언했다.이번 코빗 인수로 미래에셋그룹은 가상자산사업자(VASP)를 계열사로 두게 됐다. 앞서 그룹이 제시한 중장기 성장 전략 ‘미래에셋 3.0’에서 디지털금융을 핵심 축으로 제시한 만큼, 인수가 완료되는 대로 본격적으로 디지털자산 사업에 나설 것으로 보인다. 미래에셋그룹의 궁극적인 목표는 전통자산과 디지털자산을 아우르는 ‘슈퍼 플랫폼’ 구축이다.시장에서는 미래에셋증권과 코빗의 시너지를 주목한다. 미래에셋증권 모바일트레이딩서비스(MTS) 플랫폼을 기반으로 ",
-          "published": "2026-07-09T09:02:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Bitcoin-Backed Muni Bond Fails to Get New Hampshire Sign Off",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-09/bitcoin-backed-muni-bond-fails-to-get-new-hampshire-sign-off",
-          "summary": "New Hampshire’s executive council voted down a proposal to bring the first Bitcoin-backed bond to the municipal market.",
-          "published": "2026-07-09T15:47:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스테이블코인서 먼저 깨진 환율 1,500원…\"선반영보다 뉴스민감한 개인 매도\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MMmNraU1nWmZzbU9pMndVMldCRVJaejVkNEZuWmFpOVhTUW1XUHpmNDNkYjVyR2JkQkVySUVQb3NvdEhHOHpLR3hvamRGVWRydm5CVDV3bDJ1V0tEZnIwV1czZy1nTHhWNm5RbUlpa2k?oc=5",
-          "summary": "스테이블코인서 먼저 깨진 환율 1,500원…\"선반영보다 뉴스민감한 개인 매도\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-08T23:52:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -321,23 +90,77 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "네이버와 손잡은 미스트랄, 카메라 한 대로 구동하는 로봇 모델 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44bmlWcWtLalZ0V19LNVJndVZpa1FteXlrY2k5T25abzNkLTYzMzVZSmlTTWV2N01GQmVjMTZtdUo5TE5pX3h4WF9tamNvT2F2Z0Q5SlIwUHl1OU9GcUdJLTVUN0xyU0RjTWc?oc=5",
-          "summary": "네이버와 손잡은 미스트랄, 카메라 한 대로 구동하는 로봇 모델 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-09T06:27:27+00:00",
+          "title": "메타, 코딩·에이전트 특화 ‘뮤즈 스파크 1.1’ 출시…API 공개로 유료화 시동 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRmtOWVltT1ZsY2U0VWhIc0xyc05zbWpURWhQc0NHZnROTWYwOUhwYjVnVDV3bXZTeUFzSzZwZGVIUHhGZlNzQThxekdGd0UydFlzcGt1UGhRUWhOOFl0T3N1VWZBb0pUVXc?oc=5",
+          "summary": "메타, 코딩·에이전트 특화 ‘뮤즈 스파크 1.1’ 출시…API 공개로 유료화 시동 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-10T04:51:39+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“이 안경 썼다가 변태 몰리면 어쩌나요”…‘도촬’ 지적에 메타 “대책 마련해” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZnBLYnZvWFdCXzNES2Nuc1kyWXRaQ193OV9VTDhNclIzTDhTM2hvV2w2S253NzdPeWRCR1l4c29oRDhyUDBCSmQ2dDNIVVBEVFhBbVBR?oc=5",
+          "summary": "“이 안경 썼다가 변태 몰리면 어쩌나요”…‘도촬’ 지적에 메타 “대책 마련해” &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-10T05:26:46+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "저커버그 \"메타 AI 인프라 외부 임대 검토 타당\"...클라우드 사업 진출 시사 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YWNsTVZoaHB0ejdlVVVqbkJqWmZFVmpiSjMzN3FZeFhFT29jZUVsa2xvWUliQ0VGSjZheVEzbzA2Rk9xaFF4LXhmR0JUeF9hUGtaLW1LbzE2MXZtQVBfbVZXTnJQdHhqQmc?oc=5",
+          "summary": "저커버그 \"메타 AI 인프라 외부 임대 검토 타당\"...클라우드 사업 진출 시사 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-10T06:41:33+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 용량 14GW로 2배 확대 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaFNfV3hsREd2bEZLeFQ0b3pvbUNyY0FCUnVzeExRdmNWTzYtellHVTdkaGF0UHNLN1FFcXp6OXo4b1pDM2ZsVWt3WUZGRnp5VE1DT2RyYnNhYWVSZlJkSWVlY1k4SkZpQnc?oc=5",
+          "summary": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 용량 14GW로 2배 확대 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-10T06:55:40+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -350,46 +173,50 @@
         }
       ]
     },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 2,
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
       "articles": [
         {
-          "title": "공정위, 미래에셋컨설팅의 코빗 인수 건 승인 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZNlBwcENoNkZnQldqaVZIWnB0R3VvMU9NLS1SdlpGLXhpTVNIWmhTM1RrUllLOTRzdkM0X1dFbklJYS1TNEVRc2xITUJyQVNreFJHdHd0WnNQYld0N25Yb09TTjFMT1RwMHB6cjRxbXI?oc=5",
-          "summary": "공정위, 미래에셋컨설팅의 코빗 인수 건 승인 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-09T01:03:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "미래에셋운용 \"中반도체 성장 잠재력, 삼전닉스 웃돌아\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LUk1OeGlId3RTNW5XbGF1cGpyNEszM1lydHZLbDUxRE15MjNxY3dOVkw4SFdFXzJDbklGeEFkRjhuMDRzVzhRTjkxWkRfNTNucy10VW5IUF9kZFJ0VXBuUmF5c19sbmM0Z09GdWpEb08?oc=5",
-          "summary": "미래에셋운용 \"中반도체 성장 잠재력, 삼전닉스 웃돌아\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-09T02:30:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
+          "title": "Prediction Market Bets Surge on World Cup Mania",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-10/robinhood-backed-prediction-market-bets-surge-on-world-cup-mania",
+          "summary": "Rabid interest in the World Cup has helped to drive more than $3 billion of wagers on a prediction market backed by Robinhood Markets Inc. and Susquehanna International Group, which launched just a few months ago.",
+          "published": "2026-07-10T13:12:33+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
+        {
+          "title": "'국민앱' 된 챗GPT, 상반기 신규 설치 1위",
+          "link": "https://zdnet.co.kr/view/?no=20260710174010",
+          "summary": "[지디넷코리아]챗GPT가 올해 상반기 국내 모바일 앱 신규 설치 1위에 오르며 생성형 인공지능(AI) 서비스 대중화를 이끈 것으로 나타났다. 월간 활성 이용자(MAU)도 1500만 명을 넘어서는 등 AI 앱이 업무용 도구를 넘어 일상 플랫폼으로 자리 잡고 있는 모습이다.10일 아이지에이웍스 모바일인덱스에 따르면 올해 1~6월 챗GPT의 누적 신규 설치 수는 534만 건으로 전체 모바일 앱 가운데 1위를 기록했다. 인스타그램(505만건), 셋로그(477만건), 틱톡 라이트(470만건), 네이버플러스 스토어(438만건) 등을 모두 제쳤다.이용자 규모도 빠르게 커지고 있다. 챗GPT의 상반기 평균 MAU는 1544만 명으로 전체 앱 가운데 17위를 기록했다. 1월 대비 6월 MAU 증가율은 16.4%로 상위 30개 앱 중에서도 높은 성장세를 보였다. 넷플릭스(1557만 명)와 비슷한 수준이며 KB스타뱅킹, 티맵, 카카오T 등 주요 생활 플랫폼보다 많은 이용자를 확보했다.평균 MAU 순위에",
+          "published": "2026-07-10T08:44:12+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -397,6 +224,11 @@
           "event_labels": []
         }
       ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
