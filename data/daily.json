@@ -1,30 +1,25 @@
 {
-  "generated_at": "2026-07-10T22:08:26.821750+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-07-11T21:53:49.336793+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 3,
       "articles": [
         {
-          "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-          "link": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really going on inside large language models as they&#8230;",
-          "published": "2026-07-10T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
+          "title": "The World’s First Trillionaire and the Company He Won’t Let Go",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-11/the-world-s-first-trillionaire-and-the-company-he-won-t-let-go",
+          "summary": "Elon Musk made history last month.",
+          "published": "2026-07-11T12:00:01+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
+            "keyword": 5,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -32,19 +27,19 @@
           "event_labels": []
         },
         {
-          "title": "[유미's 픽] 챗GPT, 회사 업무까지 맡는다…CRM·협업툴 주도권 흔드나",
-          "link": "https://zdnet.co.kr/view/?no=20260710160207",
-          "summary": "[지디넷코리아]오픈AI가 인공지능(AI) 챗봇을 넘어 기업 업무 전반을 수행하는 플랫폼으로 영역을 넓힌다. 여러 업무 도구에 흩어진 정보를 모아 분석하고 후속 작업까지 처리하는 범용 AI 에이전트를 내놓으면서 고객관계관리(CRM), 협업툴, 전사적자원관리(ERP) 등 글로벌 기업용 소프트웨어 시장의 경쟁 구도도 달라질 전망이다.오픈AI는 GPT-5.6과 코덱스 기술을 기반으로 한 업무 에이전트 '챗GPT 워크'를 10일 공개했다. 이용자가 업무 목표와 참고 자료를 제공하면 필요한 정보를 조사하고 작업 계획을 세운 뒤 문서, 스프레드시트, 프레젠테이션, 웹 애플리케이션 등 완성된 결과물을 제작하는 서비스다.챗GPT 워크는 마이크로소프트(MS) 팀즈와 구글 드라이브, MS 셰어포인트, 이메일, 캘린더, CRM, 프로젝트 관리 도구 등과 연결된다. 또 내장 브라우저와 컴퓨터 사용 기능을 통해 화면을 클릭하거나 내용을 입력하고 파일을 옮기는 작업도 수행한다. 예약 작업을 설정하면 이용자가 ",
-          "published": "2026-07-10T07:45:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
+          "title": "AI, 이젠 일반 사무직 돕는다…앤트로픽·오픈AI·스페이스X 격돌 - mbn.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ0RsMnJBR2xtdXRQb250THJYTGNaZ0swTzFLV3hwLWNQeHE3UVhGUVlHdXlIa2lQVHRhMkg0dEpsWFBSdGRiUGhTcEhVNHlvY1hxc3lzSXhsUWNad1pJRGxwSjBBeVZmRGtQS1MxaS16V2tkbHpneGpneHNSaE43X200TEs4SnNm0gFMQVVfeXFMT1dORk9IMERLazNxSDVoM0VleTVuaVRpSlBJS1FlaDk5V1VkMFhBaE9NZ2hyOElQWld4UTY3SWNYZlJoNXVwdGJTSkVicQ?oc=5",
+          "summary": "AI, 이젠 일반 사무직 돕는다…앤트로픽·오픈AI·스페이스X 격돌 &nbsp;&nbsp; mbn.co.kr",
+          "published": "2026-07-11T07:58:09+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 9,
-            "source": 1,
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -52,19 +47,91 @@
           "event_labels": []
         },
         {
-          "title": "Chinese users praise OpenAI’s GPT-5.6  for efficiency, even at higher cost than local rivals",
-          "link": "https://www.scmp.com/tech/article/3360118/chinese-users-praise-openais-gpt-56-efficiency-even-higher-cost-local-rivals?utm_source=rss_feed",
-          "summary": "OpenAI’s latest GPT-5.6 release marks a growing emphasis on cost-efficiency, a move welcomed by some users in China who continue to access the blocked service via virtual private networks (VPNs) and third-party proxies, even as the artificial intelligence model remains more expensive than local rivals. The launch on Thursday introduced a trio of models tailored to different capabilities, speeds and price points: the flagship Sol, the balanced Terra and the lightweight Luna. According to OpenAI,.",
-          "published": "2026-07-10T13:30:06+00:00",
+          "title": "테슬라, FSD 구독제 전환…일시불 904만원→월 15만원",
+          "link": "https://zdnet.co.kr/view/?no=20260711140059",
+          "summary": "[지디넷코리아]테슬라가 국내에서 완전자율주행(FSD·감독형) 판매 방식을 일시불에서 월 구독제로 전환한다. 미국에서 생산된 차량은 향상된 오토파일럿(EAP) 신규 구매도 제한한다.11일 업계에 따르면 테슬라코리아는 오는 8월 10일부터 FSD 구매 방식을 월 구독제로 변경할 예정이다.현재 FSD는 904만3000원(VAT 포함)에 일시불로 구매할 수 있지만, 8월 10일부터는 월 15만원을 내고 이용해야 한다.FSD는 운전자의 지속적인 주의와 개입을 전제로 차량이 경로 탐색과 조향, 차선 변경, 주차 등을 수행하는 주행보조 기능이다. 테슬라도 해당 기능이 차량을 자율주행차로 전환하는 것은 아니며 운전자의 적극적인 감독이 필요하다고 안내하고 있다.기존에 FSD를 일시불로 구매한 고객은 현재와 동일하게 해당 기능을 계속 이용할 수 있다. 구매한 기능은 차량에 귀속되며 구독제로 전환되지 않는다.아직 차량을 주문하지 않았거나 차량을 운행 중이지만 FSD를 구매하지 않은 고객은 8월 9일까지",
+          "published": "2026-07-11T05:03:20+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Apple sues OpenAI for stealing trade secrets",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets?utm_source=rss_feed",
+          "summary": "Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker’s trade secrets as it tries to develop its own consumer hardware device. The lawsuit – filed in a federal court in San Jose, California – paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own device. The lawsuit marks a dramatic escalation in tensions between two companies that partnered in 2024",
+          "published": "2026-07-10T22:27:02+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+          "link": "https://zdnet.co.kr/view/?no=20260711084121",
+          "summary": "[지디넷코리아]애플은 영업비밀 침해 혐의로 오픈AI를 전격 제소했다고 10일(현지시간) 나인투파이브맥을 비롯한 주요 외신들이 일제히 보도했다.이번 소송에서 애플은 오픈AI가 핵심 인력을 빼가고 하드웨어 기밀과 지식재산권(IP)을 불법 도용했다고 주장했다.애플은 “(애플의) 전직 직원이 오픈AI를 위해 영업비밀을 훔쳐간 것이 이번 사건의 핵심”이라면서 “이 같은 행위를 막기 위해 소송을 제기하게 됐다”고 밝혔다.애플 이번 소송에서 제품 디자인 담당 부사장으로 아이폰·애플워치 디자인을 총괄했던 탕 탄과 8년 동안 선임 시스템 엔지니어로 일했던 창 리우를 영업비밀 유출 혐의자로 지목했다. 탕 탄은 2024년 2월, 창 리우는 지난 1월 각각 오픈AI로 이직했다.애플은 이들 외에도 오픈AI와 하드웨어 자회사인 io를 상대로도 함께 소송을 제기했다.io는 오픈AI가 지난 해 인수한 하드웨어 전문 스타트업이다. 이 회사는 애플 디자인 심장인 조너선 아이브가 설립한 회사다. 오픈AI는 이 회사를",
+          "published": "2026-07-10T23:53:17+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 8,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "regulation",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "메타, 남의 AI도 판다…앤트로픽 '클로드' 직접 서비스 추진",
+          "link": "https://zdnet.co.kr/view/?no=20260711220157",
+          "summary": "[지디넷코리아]메타가 앤트로픽의 AI 모델 클로드를 자체 데이터센터에서 직접 서비스하는 방안을 추진하는 것으로 전해졌다. IT 인프라 분석업체 세미애널리시스(SemiAnalysis)가 7월 3일(현지시간) 전했다. 메타가 클로드의 '프라이빗 인스턴스(Private Instance)' 접근 권한을 놓고 앤트로픽과 최종 협상 단계에 있다는 것이다.프라이빗 인스턴스는 API로 데이터를 주고받는 일반 방식과 다르다. 메타가 자사 데이터센터 안에 클로드 전용 독립 서버 환경을 격리해 구축하는 것을 말한다. 이렇게 하면 메타는 내부 작업과 최고급 서비스 개발에 클로드를 무제한·고성능으로 쓸 수 있다. 세미애널리시스는 메타가 앞으로 앤트로픽뿐 아니라 오픈AI 모델까지 같은 방식으로 서비스할 것으로 봤다.이는 마이크로소프트의 'AI 파운드리', 아마존웹서비스(AWS)의 '베드록', 구글의 '버텍스 AI'가 타사 모델을 자체 인프라에 얹어 파는 방식과 같다. 메타가 이렇게 움직이는 데는 '토큰 배급",
+          "published": "2026-07-11T13:01:57+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -72,10 +139,70 @@
           "event_labels": []
         },
         {
-          "title": "Nvidia gets China boost, Iran ceasefire breaks, GDP release",
-          "link": "https://www.scmp.com/plus/tech/tech-war/article/3360112/nvidia-gets-china-boost-iran-ceasefire-breaks-gdp-release?utm_source=rss_feed",
-          "summary": "China eased a boycott of higher-end Nvidia processors, seeking to balance concerns about chip shortages hurting local artificial intelligence (AI) developers against the risk of over-reliance on US technology. Alibaba is among select businesses that will be eligible to buy H200s, Nvidia’s second-best AI chip, the South China Morning Post reported, citing an unidentified source. TikTok developer ByteDance and AI start-up DeepSeek are also on the list, The Information said this week. Alibaba owns.",
-          "published": "2026-07-10T09:00:17+00:00",
+          "title": "OpenAI Engineer’s ‘LOL’ Moment Set Stage for Legal Fight With Apple",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-engineer-s-lol-moment-set-stage-for-legal-fight-with-apple",
+          "summary": "When iPhone engineer Chang Liu quit for a job at OpenAI’s nascent hardware division, Apple Inc. says he left with more than just years of experience.",
+          "published": "2026-07-11T13:59:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Safety Head Heidecke to Leave Firm After Reshuffle: Wired",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-11/openai-safety-head-heidecke-to-leave-firm-after-reshuffle-wired",
+          "summary": "OpenAI head of safety Johannes Heidecke is leaving the artificial intelligence company following a reorganization, according to Wired.",
+          "published": "2026-07-11T02:15:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, '반복 퍼즐' 기술로 추론 효율 극대화…\"운영 비용 절반으로\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VSHQ0U1hZZk9BSGh4c3lJcnM2dF9YSUFJY0gzTXVfWFNIOURmbU5iem9QX3VCY0tsa2F6NWZGSldhVmRQeE5TdXJTMFFxUmxBZl9iVlk2QnBhT0tSY2lZVzY0d2JHZWJIbkE?oc=5",
+          "summary": "엔비디아, '반복 퍼즐' 기술로 추론 효율 극대화…\"운영 비용 절반으로\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-11T02:36:34+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Beyond Claude Code: the Chinese AI tools poised to benefit after back-door alert",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3360148/beyond-claude-code-chinese-ai-tools-poised-benefit-after-back-door-alert?utm_source=rss_feed",
+          "summary": "Beijing’s recent cybersecurity warning against American artificial intelligence lab Anthropic is expected to accelerate a shift among Chinese developers towards domestic coding alternatives, according to analysts. China’s National Vulnerability Database (NVDB), overseen by the Ministry of Industry and Information Technology, issued an alert this week claiming multiple versions of Anthropic’s flagship Claude Code tool contained a security “back door”. According to the agency, the software could..",
+          "published": "2026-07-11T07:00:07+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -92,79 +219,19 @@
           "event_labels": []
         },
         {
-          "title": "메타, 코딩·에이전트 특화 ‘뮤즈 스파크 1.1’ 출시…API 공개로 유료화 시동 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIRmtOWVltT1ZsY2U0VWhIc0xyc05zbWpURWhQc0NHZnROTWYwOUhwYjVnVDV3bXZTeUFzSzZwZGVIUHhGZlNzQThxekdGd0UydFlzcGt1UGhRUWhOOFl0T3N1VWZBb0pUVXc?oc=5",
-          "summary": "메타, 코딩·에이전트 특화 ‘뮤즈 스파크 1.1’ 출시…API 공개로 유료화 시동 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-10T04:51:39+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "아이폰18 프로, 디자인 바뀐다…달라지는 3가지",
+          "link": "https://zdnet.co.kr/view/?no=20260710144452",
+          "summary": "[지디넷코리아]아이폰18 프로는 전작에 비해 크게 세 가지 디자인이 달라질 것이란 전망이 제기됐다. 애플이 오는 9월 플래그십 스마트폰 '아이폰18 프로'를 출시할 예정인 가운데, 구매자들의 호불호가 갈릴 수 있는 세 가지 디자인 변화가 적용될 것이라는 전망이 나왔다고 IT매체 나인투파이브맥이 최근 보도했다.1. 더 두꺼워지나아이폰18 프로와 아이폰18 프로 맥스는 전작보다 두꺼워질 것이라는 전망이 우세하다. 하지만 정확한 두께를 놓고는 분석가들의 의견이 엇갈리고 있다.IT 팁스터 픽스드포커스디지털은 최근 아이폰18 프로가 아이폰17 프로보다 약 2㎜ 더 두꺼워질 것이라고 주장했다. 아이폰17 프로와 아이폰17 프로 맥스의 두께는 8.75㎜인 만큼, 이 전망이 맞다면 아이폰18 프로 두께는 약 10.75㎜에 달하게 된다. 반면 IT 팁스터 아이스유니버스는 이번 주 아이폰18 프로 맥스의 두께가 약 9㎜ 수준이 될 것으로 내다봤다.이와 달리 전작과 두께 차이가 거의 없을 것이라는 전망",
+          "published": "2026-07-11T00:34:20+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“이 안경 썼다가 변태 몰리면 어쩌나요”…‘도촬’ 지적에 메타 “대책 마련해” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nZnBLYnZvWFdCXzNES2Nuc1kyWXRaQ193OV9VTDhNclIzTDhTM2hvV2w2S253NzdPeWRCR1l4c29oRDhyUDBCSmQ2dDNIVVBEVFhBbVBR?oc=5",
-          "summary": "“이 안경 썼다가 변태 몰리면 어쩌나요”…‘도촬’ 지적에 메타 “대책 마련해” &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-10T05:26:46+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "저커버그 \"메타 AI 인프라 외부 임대 검토 타당\"...클라우드 사업 진출 시사 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0YWNsTVZoaHB0ejdlVVVqbkJqWmZFVmpiSjMzN3FZeFhFT29jZUVsa2xvWUliQ0VGSjZheVEzbzA2Rk9xaFF4LXhmR0JUeF9hUGtaLW1LbzE2MXZtQVBfbVZXTnJQdHhqQmc?oc=5",
-          "summary": "저커버그 \"메타 AI 인프라 외부 임대 검토 타당\"...클라우드 사업 진출 시사 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-10T06:41:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 용량 14GW로 2배 확대 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XaFNfV3hsREd2bEZLeFQ0b3pvbUNyY0FCUnVzeExRdmNWTzYtellHVTdkaGF0UHNLN1FFcXp6OXo4b1pDM2ZsVWt3WUZGRnp5VE1DT2RyYnNhYWVSZlJkSWVlY1k4SkZpQnc?oc=5",
-          "summary": "메타, 9월 자체 AI 칩 '아이리스' 양산...내년 컴퓨팅 용량 14GW로 2배 확대 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-10T06:55:40+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -175,47 +242,26 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "Prediction Market Bets Surge on World Cup Mania",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-10/robinhood-backed-prediction-market-bets-surge-on-world-cup-mania",
-          "summary": "Rabid interest in the World Cup has helped to drive more than $3 billion of wagers on a prediction market backed by Robinhood Markets Inc. and Susquehanna International Group, which launched just a few months ago.",
-          "published": "2026-07-10T13:12:33+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "'국민앱' 된 챗GPT, 상반기 신규 설치 1위",
-          "link": "https://zdnet.co.kr/view/?no=20260710174010",
-          "summary": "[지디넷코리아]챗GPT가 올해 상반기 국내 모바일 앱 신규 설치 1위에 오르며 생성형 인공지능(AI) 서비스 대중화를 이끈 것으로 나타났다. 월간 활성 이용자(MAU)도 1500만 명을 넘어서는 등 AI 앱이 업무용 도구를 넘어 일상 플랫폼으로 자리 잡고 있는 모습이다.10일 아이지에이웍스 모바일인덱스에 따르면 올해 1~6월 챗GPT의 누적 신규 설치 수는 534만 건으로 전체 모바일 앱 가운데 1위를 기록했다. 인스타그램(505만건), 셋로그(477만건), 틱톡 라이트(470만건), 네이버플러스 스토어(438만건) 등을 모두 제쳤다.이용자 규모도 빠르게 커지고 있다. 챗GPT의 상반기 평균 MAU는 1544만 명으로 전체 앱 가운데 17위를 기록했다. 1월 대비 6월 MAU 증가율은 16.4%로 상위 30개 앱 중에서도 높은 성장세를 보였다. 넷플릭스(1557만 명)와 비슷한 수준이며 KB스타뱅킹, 티맵, 카카오T 등 주요 생활 플랫폼보다 많은 이용자를 확보했다.평균 MAU 순위에",
-          "published": "2026-07-10T08:44:12+00:00",
+          "title": "'엎친 데 덮친다'…대출 한도는 줄고 금리는 오르고",
+          "link": "https://zdnet.co.kr/view/?no=20260710135116",
+          "summary": "[지디넷코리아]주택 구입을 위한 담보 대출 하단도 5%까지 오르고, 주택 구입 한도는 줄어들고 있다. 11일 은행연합회가 공시한 16개 은행(한국산업은행·토스뱅크 제외)이 지난 5월 중 취급한 신규 취급액 기준 변동 금리 주택담보대출의 평균 금리는 4.57% 수준으로 집계됐다. 다만 이 금리는 신용평가 점수 별로 차이가 나는 금리를 평균한 수치다.평균 금리가 아닌 개별 은행이나 신용점수 별로 살펴보면 지난 3월(2월 취급분) 금리 대비 금리 하단이 큰 폭 올라온 상태다. 신용평가 점수 951~1000점 수준인 경우 지난 3월에는 5%대 금리를 찾을 수 없었지만, 6월(5월 취급분)에는 카카오뱅크 주택담보대출 금리는 5%로 공시됐다.중·고신용자인 851~900점의 6월 대출금리도 5%를 훌쩍 넘어섰다. ▲iM뱅크 5.31% ▲광주은행 5.04% ▲제주은행 5.12% ▲케이뱅크 5.14% ▲카카오뱅크 5.12%로 집계됐다. 신용점수가 낮을 수록 부담해야하는 이자가 높아져, 신용도가 낮은",
+          "published": "2026-07-11T01:00:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
