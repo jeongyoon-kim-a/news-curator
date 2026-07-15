@@ -1,47 +1,67 @@
 {
-  "generated_at": "2026-07-14T22:01:37.890221+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-07-15T22:04:39.020884+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 5,
       "articles": [
         {
-          "title": "\"국내 ICT기업들 위성데이터 활용 서비스 시장 선제 대응해야\"",
-          "link": "https://zdnet.co.kr/view/?no=20260714174410",
-          "summary": "[지디넷코리아]한국정보산업연합회(회장 양승욱)는 14일 서울 양재 엘타워에서 '제 25회 디지털 리더십 포럼’ 조찬강연회를 개최, 우주산업이 열어가는 새로운 경제적 기회른 논의했다.이번 포럼 강연은 한국항공우주연구원 위성활용연구팀장 김현옥 박사가 ‘스페이스X가 쏘아 올린 ‘우주경제’와 새로운 기회’를 주제로 진행했다. 김 박사는 K-우주시대가 맞이한 기회를 짚으며 \"국내 ICT 기업들이 위성 데이터 활용 서비스 시장에 선제적으로 대응해야 한다\"고 제언했다.국토교통부 국가공간정보전문위원회 위원인 김 박사는 ' International Charter Space and Major Disasters' 한국 실무간사로 '처음 읽는 인공위성 원격탐사 이야기'라는 책을 저술했다. 2023년 과학기술정보통신부 장관상을 받았다. 김 박사는 2021년 누리호 1차 발사 이후 2024년 4차 발사 성공에 이르기까지 축적된 국내 우주개발 성과를 하며 오는 9월 예정된 누리호 5차 발사를 통해 우리나라가 ",
-          "published": "2026-07-14T08:44:10+00:00",
+          "title": "애플의 오픈AI ‘영업비밀 절도’ 소송에 머스크·알트먼 또 충돌",
+          "link": "https://zdnet.co.kr/view/?no=20260715211420",
+          "summary": "[지디넷코리아]애플이 지난 7월 10일 미국 연방법원에 오픈AI(OpenAI)를 상대로 영업비밀 침해 소송을 제기하면서, 일론 머스크와 샘 올트먼 오픈AI 최고경영자(CEO)의 해묵은 갈등이 주말 사이 다시 불붙었다.24/7 월스트리트(24/7 Wall St.)에 따르면 애플은 소장에서 오픈AI와 하드웨어 협력사 io, 그리고 애플 출신 인사 두 명(전 최고하드웨어책임자 탕 유 탄과 기술직 창 리우)을 지목하며, 이들이 기밀 하드웨어 설계 파일과 공급망 데이터, 기술 사양을 빼돌렸다고 주장했다. 애플은 이 조직적 유출이 “모든 단계에서” 이뤄졌다고 표현한 것으로 전해졌다.소장에는 오픈AI로 이직한 다른 전직 직원들도 사내 기밀을 개인 이메일 계정으로 전송하거나, 애플의 영업비밀에 관한 지식을 활용해 오픈AI의 AI 하드웨어 기기 개발을 도왔다는 정황이 담겼다. 애플은 현재 오픈AI가 400명이 넘는 애플 출신 인력을 고용하고 있다고 밝혔다. 오픈AI가 협력사 io를 통해 전용 AI ",
+          "published": "2026-07-15T12:14:20+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 5,
+          "score": 18,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
+        },
         {
-          "title": "China’s StepFun claims it has unveiled the world’s first AI smartphone",
-          "link": "https://www.scmp.com/tech/big-tech/article/3360544/chinas-stepfun-claims-it-has-unveiled-worlds-first-ai-smartphone?utm_source=rss_feed",
-          "summary": "As Apple’s latest legal battle with OpenAI complicates the Silicon Valley race to reshape the consumer tech market, one Chinese start-up is taking a leap forward after unveiling what it claims to be the world’s first agentic smartphone. At a launch event in Shanghai on Monday, Tencent Holdings-backed StepFun introduced the StepX Neo. The device runs on Step AOS, an operating system designed specifically for artificial intelligence agents, and was launched under StepX – which the firm billed as..",
-          "published": "2026-07-14T12:30:11+00:00",
+          "title": "SpaceX IPO Lifts Wall Street ECM Revenue to Best Since 2021",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/record-ipos-spur-best-wall-street-share-sale-revenue-since-2021",
+          "summary": "Wall Street’s biggest investment banks hauled in the most revenue from advising on equity offerings in the second quarter since 2021, fueled by SpaceX’s record-setting IPO and a fundraising blitz for artificial intelligence infrastructure.",
+          "published": "2026-07-15T17:53:31+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "China completes world’s first commercial brain-computer interface implant",
+          "link": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant?utm_source=rss_feed",
+          "summary": "China has completed the world’s first commercial surgery using an invasive brain-computer interface (BCI) device approved in March, marking a leap in the country’s neurotechnology push to rival Elon Musk’s Neuralink. Chinese surgeons implanted a coin-sized brain chip on a patient with impaired hand mobility linked to a spinal cord injury from a car accident 10 years ago, according to a statement from the Science and Technology Commission of Shanghai Municipality on Wednesday. The procedure,...",
+          "published": "2026-07-15T14:00:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 12,
           "score_breakdown": {
             "keyword": 8,
@@ -53,40 +73,70 @@
           "event_labels": []
         },
         {
-          "title": "구글, '엔비디아 우군' 네오클라우드 상대로 TPU 공세 본격화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGakVoMzJsSmFPQ2RsWEltVFEyZTVQOXJSSGNyeHNqSVNMdmpFeWVQNk9mNGgzM3NoR0lUWDdyOHAzVDlCSUlucTZSWkU4aUZtb181VjVWNENVRnNhR0g1UFFvdWY5XzFaMHc?oc=5",
-          "summary": "구글, '엔비디아 우군' 네오클라우드 상대로 TPU 공세 본격화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-14T09:25:27+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "title": "SpaceX Shares Briefly Slip Below IPO Price for First Time",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades",
+          "summary": "SpaceX shares slumped to their lowest level since the rocket, satellite, and artificial intelligence company went public, briefly falling below their initial public offering price, as investor fanfare quickly evaporated in the month since its trading debut.",
+          "published": "2026-07-15T16:08:36+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "Chinese AI labs to challenge Thinking Machines Lab with new industry focus",
-          "link": "https://www.scmp.com/tech/big-tech/article/3360411/chinese-ai-labs-challenge-thinking-machines-lab-new-industry-focus?utm_source=rss_feed",
-          "summary": "Two former Chinese AI lab leaders said they aim to challenge Thinking Machines Lab, a US start-up founded by ex-OpenAI executive Mira Murati, and focus on building industry-specific artificial intelligence solutions and models following their exit from the fierce frontier AI race. “All models are relentlessly chasing the ceiling of general intelligence … but in many real-world scenarios, we don’t necessarily need an absolute all-rounder,” Zhang Fan, founder and CEO of Yoolee AI and previously a.",
-          "published": "2026-07-14T02:00:17+00:00",
+          "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/short-sellers-swarm-spacex-with-paper-profit-nearing-4-billion",
+          "summary": "SpaceX bears are minting billions on paper as the company’s stock price cracks ahead of a closely-watched rocket launch and upcoming earnings that will unlock a flood of shares.",
+          "published": "2026-07-15T19:48:23+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Sam Altman signals OpenAI price war as rivalry with Anthropic, China heats up",
+          "link": "https://www.scmp.com/tech/article/3360689/sam-altman-signals-openai-price-war-rivalry-anthropic-china-heats?utm_source=rss_feed",
+          "summary": "OpenAI founder and CEO Sam Altman has signalled that the company was prepared to slash the price of its latest artificial intelligence models, as competition intensifies with US rival Anthropic and a growing wave of cheaper, rapidly advancing Chinese alternatives. In a social media post on Tuesday, Altman noted that OpenAI’s flagship GPT-5.6 Sol was already “half the price” of Anthropic’s Claude Fable 5, adding that OpenAI would be “happy to deliver at one-quarter of the price”. OpenAI released.",
+          "published": "2026-07-15T12:30:15+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -95,19 +145,19 @@
           ]
         },
         {
-          "title": "The Download: Claude’s inner workings, and the future of world models",
-          "link": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O&#8217;Donnell When Anthropic announced last week that it had found a new window into its models’ “internal thoughts” as they reason through answers,&#8230;",
-          "published": "2026-07-14T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "Microsoft Gives Sellers Tips to Knock Down Anthropic, OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
+          "summary": "Microsoft Corp. is coaching its sales team on how to vigorously compete against Anthropic PBC and OpenAI, playing up shortcomings in products from the artificial intelligence firms.",
+          "published": "2026-07-15T14:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 10,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -115,39 +165,101 @@
           "event_labels": []
         },
         {
-          "title": "\"엔비디아 '쿠다' 철벽 깬다\"…K-NPU, 공공 마중물 타고 비상",
-          "link": "https://zdnet.co.kr/view/?no=20260714161639",
-          "summary": "[지디넷코리아]글로벌 인공지능(AI) 패권 경쟁이 격화되는 가운데, 빅테크 소프트웨어 생태계 벽에 막혀 있던 국산 AI 반도체가 공공 부문이라는 '테스트베드'를 발판으로 도약의 날개를 단다. 레퍼런스와 생태계 부재로 고전하던 K-팹리스 업계를 위해 정부와 기업이 밸류체인을 구축할 예정이다.퓨리오사AI가 14일 총판 시스원과 서울 중구 더 플라자 호텔에서 개최한 '2026 K-NPU 테크 웨이브'의 최대 화두는 생태계 자립이었다. 김은주 한국지능정보사회진흥원(NIA) 지능기술인프라본부장은 기조연설에서 한국 AI 반도체 현주소를 진단했다. 김 본부장은 \"한국은 고대역폭메모리(HBM) 등 메모리 반도체 세계 1위 경쟁력과 우수한 팹리스 기업을 보유하고 있지만, 엔비디아의 '쿠다(CUDA)'를 중심으로 한 글로벌 소프트웨어 생태계 종속이 치명적인 약점\"이라고 지적했다. 아무리 뛰어난 성능의 칩을 설계하더라도, 개발자들이 쉽게 쓸 수 있는 소프트웨어 환경과 이를 대규모로 운용해 본 실전 레퍼",
-          "published": "2026-07-14T08:46:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
+          "summary": "Anthropic PBC is seeking to meet with investors ahead of its potential mega-IPO, according to people familiar with the matter, as the company prepares to join the rush of artificial intelligence-driven stock market debuts.",
+          "published": "2026-07-15T15:28:50+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Google to Allow Third-Party Stores in Its App Store Next Week",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/google-to-allow-third-party-stores-in-its-app-store-next-week",
+          "summary": "Alphabet Inc.’s Google told a California federal court that it will begin allowing US users to download third-party app stores within its Google Play Store beginning next week.",
+          "published": "2026-07-15T16:25:55+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "메타, '하이페리온' 5GW로 확장…세계 최대 AI 데이터센터 구축 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9yMzE3TG12azdOS1ZHMmZEUmQzQTRWVTdPaHFRb1RDc2dOOU1UOWhmc1BjcTFqSUZTcnZSQ2d0aHRTbFJIRTVUeG5Ec1lXcl9OdTJFTnJuaDFWcHB1X29mYy1OWlN4QmcwS3c?oc=5",
-          "summary": "메타, '하이페리온' 5GW로 확장…세계 최대 AI 데이터센터 구축 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-14T04:49:39+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
+          "summary": "Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executive Mira Murati founded the artificial intelligence startup.",
+          "published": "2026-07-15T18:00:16+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+          "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
+          "published": "2026-07-15T17:09:37+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nokia, Nvidia Unveil AI-Powered Network, Doubling Data Loads",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/nokia-to-sell-nvidia-powered-ai-mobile-network-gear-from-2027",
+          "summary": "Nokia Oyj and Nvidia Corp. have developed network technology that uses artificial intelligence to double the amount of data that telecommunications companies can transmit, the first major announcement nine months into a partnership that also included Nvidia taking a stake in the Finnish network equipment maker.",
+          "published": "2026-07-15T07:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -155,39 +267,19 @@
           "event_labels": []
         },
         {
-          "title": "Demis Hassabis has a plan to harness AI safely",
-          "link": "https://www.economist.com/business/2026/07/14/demis-hassabis-has-a-plan-to-harness-ai-safely",
-          "summary": "The Google DeepMind co-founder sets out his vision in an exclusive interview",
-          "published": "2026-07-14T09:30:29+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
+          "title": "Nvidia’s Huang Says Vera Rubin on Track Despite Delay Talk",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-s-huang-declares-vera-rubin-on-track-despite-delay-talk",
+          "summary": "Nvidia Corp. co-founder Jensen Huang stressed that the US company’s next-generation AI accelerator systems were in production and on track for delivery to customers, responding to reports that manufacturing snags may delay their rollout.",
+          "published": "2026-07-15T09:11:05+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'몰카안경' 논란  메타 AI 글래스, 이통3사도 판다는데",
-          "link": "https://zdnet.co.kr/view/?no=20260714163725",
-          "summary": "[지디넷코리아]SK텔레콤, KT, LG유플러스 등 이동통신 3사가 곧 '메타 AI 글래스' 판매를 시작할 예정인 가운데 불법 촬영이나 시험 부정 행위 악용 사례가 잇따라 우려의 목소리가 커지고 있다.14일 통신 업계에 따르면, 이통3사는 오는 22일부터 안경에 카메라, 마이크, 스피커가 내장돼 눈앞의 풍경을 촬영하고 분석할 수 있는 메타 AI 글래스를 일부 대리점과 공식 온라인몰에서 판매할 계획이다. 이통사 관계자는 “온오프라인 판매 채널에서 AI 안경을 출시함으로써 가입자가 구매할 수 있는 상품 라인업을 확대해 더 많은 가입자를 모객하는 효과를 기대한다”며 “출시에 맞춰 할인, 멤버십 포인트 연계 이벤트, 악세서리 증정을 진행할 예정”이라고 밝혔다.그런 가운데 최근 부정 사용 사례가 수차례 적발되자 AI 글래스 안정성에 대한 비판이 제기되고 있다. AI 글래스로 풍경을 촬영할 때 전면 LED 표시등이 자동으로 깜빡이도록 설계됐지만, 그 부분을 테이프로 가리거나 자체 프로그래밍을 통",
-          "published": "2026-07-14T07:54:45+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "keyword": 5,
+            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -198,45 +290,22 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "재경부 \"디지털자산기본법 하반기 추진\"…원구성 '변수'",
-          "link": "https://zdnet.co.kr/view/?no=20260714165306",
-          "summary": "[지디넷코리아]정부가 주요 경제성장 전략 가운데 하나로 연내 디지털자산기본법 입법을 추진하겠다고 밝혔다. 다만 현재 원구성을 둘러싼 여야 갈등이 이어지는 만큼 입법까지는 난항이 예상된다.14일 재정경제부는 ‘2026년 하반기 경제성장전략’을 발표하고, 디지털자산업 세분화와 영업행위 규제, 스테이블코인 제도화를 담은 디지털자산기본법을 올 하반기 추진하겠다고 밝혔다.재경부는 입법과 함께 국경 간 스테이블코인 거래 등 제도화 방안을 마련하고, 가상자산 현물 상장지수펀드(ETF) 관련 자본시장법 개정안 입법도 지원할 계획이다.현재 디지털자산기본법 논의는 중단된 상태다. 올 상반기까지 여당인 더불어민주당 디지털자산 태스크포스(TF)를 중심으로 논의가 진행됐지만, 금융위원회가 제시한 ▲가상자산 거래소 대주주 지분 제한 ▲은행 중심(50%+1) 원화 스테이블코인 컨소시엄 구성 방안에 업계와 민주당 TF가 반대하면서 논의가 지연됐다.가상자산 업계에서는 하반기 원구성을 둘러싼 여야 대립이 이어지는 ",
-          "published": "2026-07-14T07:59:22+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Hinge Debuts Friend's Take Feature, Letting Inner Circle Leave Testimonials",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-15/hinge-debuts-friend-s-take-feature-letting-inner-circle-leave-testimonials",
+          "summary": "Hinge is introducing a new feature called Friend’s Take that lets daters recruit people they know to leave testimonials on their profiles for other singles to see.",
+          "published": "2026-07-15T11:55:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 17,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "funding"
-          ]
-        },
-        {
-          "title": "한컴위드, 금 RWA 도전...ADGT·캐스트홀딩스와 3자 업무협약",
-          "link": "https://zdnet.co.kr/view/?no=20260714212832",
-          "summary": "[지디넷코리아]한컴위드가 금 기반 실물자산 토큰화(Gold RWA) 사업에 나선다. RWA는 Real World Asset의 약자로 부동산과 금같은 실물자산을 말한다. 한컴위드는 한컴그룹의 실질적 지주회사다.14일 한컴위드는 아랍에미리트(UAE) 금 거래 기업 '알 다프라 알 가르비아 골드 트레이딩(Al Dhafra Al Gharbia Gold Trading, 이하 ADGT)' 및 글로벌 사업 개발 기업 '캐스트홀딩스(Cast Holdings)'와 Gold RWA 사업 추진을 위한 3자 업무협약(MOU)을 체결했다고 밝혔다.이번 협약은 ADGT가 추진 중인 탄자니아 금광 프로젝트와 UAE 현지 금 유통망을 활용해 실물 금 공급 체계를 구축하고, 한컴위드의 블록체인 사업 역량을 결합해 UAE 시장에 적합한 Gold RWA 사업 모델을 공동 개발하기 위해 마련됐다. RWA는 Real World Asset의 약자로 부동산과 금같은 실물자산을 말한다.3사는 UAE 현지 법률과 디지털자산 규",
-          "published": "2026-07-14T12:28:32+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
+            "keyword": 3,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -244,12 +313,12 @@
           "event_labels": []
         },
         {
-          "title": "[하반기 경제] KIC '종합형 국부펀드' 확대 개편…CBDC 연계 국채 토큰화 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1leGJDalRkTjNXSG9Bb1RvdE1ndmhaQk1HNjI1NDdYMlJOa2NFNmRVZlFtdDdPSmNYMURsSEk4SDUydWpXY3BCVUpXNTRpRVFubDBlTmF5UTY0cFp6Vzkzd3pVSlBrczJ5enJncU5UYTI?oc=5",
-          "summary": "[하반기 경제] KIC '종합형 국부펀드' 확대 개편…CBDC 연계 국채 토큰화 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-14T02:41:42+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "Hong Kong steps up to US crypto fund challenge with tokenised fund approval",
+          "link": "https://www.scmp.com/tech/blockchain/article/3360652/hong-kong-steps-us-crypto-fund-challenge-tokenised-fund-approval?utm_source=rss_feed",
+          "summary": "Hong Kong has approved its first “digitally native” tokenised fund, allowing professional investors to hold direct ownership of the underlying assets on a public blockchain, issuer Baillie Gifford says, as the city steps up its challenge to the US as a global crypto hub. The British fund manager said on Wednesday it had received approval from the Securities and Futures Commission to launch the Baillie Gifford Enhanced Yield Fund (BAGEY) – an actively managed portfolio of short-duration...",
+          "published": "2026-07-15T08:26:00+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
@@ -267,33 +336,13 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "“네이버 월급받고 카카오 위해서 일한다고?”…화섬노조의 황당한 교섭방식 [기자 24시] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9TeFhYbmZ5QVNpLWF3VFdpaTZFQV80ZTZJaDhPT0JfT1RJd3FucE1DeEItd0JteGVZXzgyX2h0eFc5cXpJSjZoaV9ndlVoZXhhTk1lVUx3?oc=5",
-          "summary": "“네이버 월급받고 카카오 위해서 일한다고?”…화섬노조의 황당한 교섭방식 [기자 24시] &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-14T01:42:32+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'모두의 AI' 사업에 카카오·이통사·스타트업 잇달아 출사표 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBVWV9ZeWxpVnNxSlpWQm5lV0tnZm02OGI5VmZsUVFzeU9KbkZlWHk1VHRfWGdxWVhUczVQOEVrb1VWOWdKR1NjdlM4dWpESF9VS0d4YU5RNzlib2JjUmlFNElyY2NxRTJRS3c?oc=5",
-          "summary": "'모두의 AI' 사업에 카카오·이통사·스타트업 잇달아 출사표 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-14T07:58:17+00:00",
+          "title": "카카오톡 PC 버전에서 '챗GPT' 쓴다... 대화 요약 등 기능 추가 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNdk5jVGFrOTUxa0V4RktVSmk3aGs5dVAtV1FNWjdUbHBDejIyMmxrRVJteTFFQ0xSWG96RVozYkZlRmZWWXZmS2FnLVpSWTFFMXc2OWdOenJ3TGswMkFlMXVrUTBxZWFOdmc?oc=5",
+          "summary": "카카오톡 PC 버전에서 '챗GPT' 쓴다... 대화 요약 등 기능 추가 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-15T03:29:45+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -303,6 +352,46 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "PC 카카오톡에서도 '챗GPT 포 카톡' 된다",
+          "link": "https://zdnet.co.kr/view/?no=20260715165219",
+          "summary": "[지디넷코리아]카카오가 6차 정기 업데이트를 진행함에 따라 이제는 챗GPT 포 카카오를 카카오톡에서도 사용할 수 있게 됐다. 채팅방 내 메시지 요약 기능도 추가해 밀린 메시지를 빠르게 파악하는 것도 가능해졌다. 카카오는 이용자 편의를 위한 다양한 기능을 담아 카카오톡 6차 정기 업데이트를 진행했다고 15일 밝혔다.이용자가 밀린 메시지를 빠르게 파악할 수 있도록 채팅방 내 메시지 요약 기능을 추가했다. 개별 채팅방 안에서 '대화 요약' 버튼을 누르면 쌓인 메시지의 핵심 내용을 한눈에 정리해 보여준다. 오랜만에 들어간 채팅방에서도 주요 내용을 살펴보고 바로 채팅에 참여할 수 있다는 것이 회사 측 설명이다.또한, 챗GPT 포 카카오의 이용 범위를 카카오톡 PC 버전으로 확대했다. 기존 설정을 다시 입력하거나 질문을 반복하지 않아도 모바일에서 사용하던 흐름이 그대로 PC에서도 이어진다. 채팅탭 상단의 '챗GPT' 칩을 통해 이용할 수 있다.채팅방에서 주고받은 사진을 챗GPT 이미지 2.0을",
+          "published": "2026-07-15T14:45:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[현장] 범용이냐 특화냐…국방 AI 개발 전략 놓고 업계 '격론'",
+          "link": "https://zdnet.co.kr/view/?no=20260715171216",
+          "summary": "[지디넷코리아]국방 인공지능(AI) 혁신을 위한 개발 방향을 두고 업계 안팎의 시각이 엇갈렸다. 범용 AI가 일정 수준 이상 고도화되면 국방 특화 모델의 필요성이 줄어든다는 주장과 미국 대비 자원이 제한적인 한국은 특화 전략으로 성능 격차를 메워야 한다는 의견이 맞서면서다.한국국방연구원(KIDA) 국방인공지능정책연구실과 바른 과학기술사회 실현을 위한 국민연합(과실연) AI미래포럼은 15일 경기도 성남시 경기스타트업캠퍼스에서 '26-7차 국방 AI 혁신 네트워크 세미나'를 개최했다.이날 종합토론에는 발제를 맡은 유경범 네이버클라우드 국방AX 총괄, 유정상 LG AI연구원 엑사원 사업개발리더, 김일환 삼성SDS 국방사업그룹장, 김성훈 업스테이지 공동창업자 겸 대표를 비롯해 이상혁 합동참모본부 전장체계발전과장, 전준범 국방부 국방인공지능기획관, 하윤철 한화시스템 상무, 최용환 LIG D&amp;A 기술위원 등이 참석했다.김성훈 대표는 범용 AI가 국방 분야를 별도로 학습하지 않아도 전장에",
+          "published": "2026-07-15T08:43:30+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
