@@ -1,120 +1,72 @@
 {
-  "generated_at": "2026-07-15T22:04:39.020884+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-07-16T22:05:32.570390+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 3,
       "articles": [
         {
-          "title": "애플의 오픈AI ‘영업비밀 절도’ 소송에 머스크·알트먼 또 충돌",
-          "link": "https://zdnet.co.kr/view/?no=20260715211420",
-          "summary": "[지디넷코리아]애플이 지난 7월 10일 미국 연방법원에 오픈AI(OpenAI)를 상대로 영업비밀 침해 소송을 제기하면서, 일론 머스크와 샘 올트먼 오픈AI 최고경영자(CEO)의 해묵은 갈등이 주말 사이 다시 불붙었다.24/7 월스트리트(24/7 Wall St.)에 따르면 애플은 소장에서 오픈AI와 하드웨어 협력사 io, 그리고 애플 출신 인사 두 명(전 최고하드웨어책임자 탕 유 탄과 기술직 창 리우)을 지목하며, 이들이 기밀 하드웨어 설계 파일과 공급망 데이터, 기술 사양을 빼돌렸다고 주장했다. 애플은 이 조직적 유출이 “모든 단계에서” 이뤄졌다고 표현한 것으로 전해졌다.소장에는 오픈AI로 이직한 다른 전직 직원들도 사내 기밀을 개인 이메일 계정으로 전송하거나, 애플의 영업비밀에 관한 지식을 활용해 오픈AI의 AI 하드웨어 기기 개발을 도왔다는 정황이 담겼다. 애플은 현재 오픈AI가 400명이 넘는 애플 출신 인력을 고용하고 있다고 밝혔다. 오픈AI가 협력사 io를 통해 전용 AI ",
-          "published": "2026-07-15T12:14:20+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 18,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "SpaceX IPO Lifts Wall Street ECM Revenue to Best Since 2021",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/record-ipos-spur-best-wall-street-share-sale-revenue-since-2021",
-          "summary": "Wall Street’s biggest investment banks hauled in the most revenue from advising on equity offerings in the second quarter since 2021, fueled by SpaceX’s record-setting IPO and a fundraising blitz for artificial intelligence infrastructure.",
-          "published": "2026-07-15T17:53:31+00:00",
+          "title": "SpaceX Post-Listing Collapse Threatens IPO Market’s AI Euphoria",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria",
+          "summary": "SpaceX’s fall from its post-listing peak to below its IPO price in just a month poured cold water on the market for newly public companies, dragging a key gauge of this year’s debuts down with it.",
+          "published": "2026-07-16T19:22:04+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
             "recency": 3,
-            "event_bonus": 4,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
             "funding"
           ]
         },
         {
-          "title": "China completes world’s first commercial brain-computer interface implant",
-          "link": "https://www.scmp.com/tech/big-tech/article/3360684/china-completes-worlds-first-commercial-brain-computer-interface-implant?utm_source=rss_feed",
-          "summary": "China has completed the world’s first commercial surgery using an invasive brain-computer interface (BCI) device approved in March, marking a leap in the country’s neurotechnology push to rival Elon Musk’s Neuralink. Chinese surgeons implanted a coin-sized brain chip on a patient with impaired hand mobility linked to a spinal cord injury from a car accident 10 years ago, according to a statement from the Science and Technology Commission of Shanghai Municipality on Wednesday. The procedure,...",
-          "published": "2026-07-15T14:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "스페이스XAI, '그록 빌드' 소스코드 공개…“개인정보 우려 털고 개방성 강화” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TTGZhcVZDeWxSRlhoWHRiUGFTdTJ3amlMU09lZUNzckZhOHN3akdJYlF4bDhZWXpXYkIzQ2tuczE2NVZDS2dMU0t4NTJQU1c4ckxqVWZJVzh2Q3ZuMUN3UVFwektObUVvaVE?oc=5",
+          "summary": "스페이스XAI, '그록 빌드' 소스코드 공개…“개인정보 우려 털고 개방성 강화” &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-16T08:26:57+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 12,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "SpaceX Shares Briefly Slip Below IPO Price for First Time",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/spacex-shares-fall-below-ipo-price-for-first-time-as-hype-fades",
-          "summary": "SpaceX shares slumped to their lowest level since the rocket, satellite, and artificial intelligence company went public, briefly falling below their initial public offering price, as investor fanfare quickly evaporated in the month since its trading debut.",
-          "published": "2026-07-15T16:08:36+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "스페이스X 품에 안긴 커서, 코딩 도구 넘어 \"세계 최고 AI 개발\" 선언 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JQ3Y5YUpfR0ZWRUdwNkVfandOcDFKdjFqUWxDdkZDek9Cakx6cXNCM25GY2tIMGF2X3BObEFva0V5N3QxQWpVTC1PblNfbHo3WDBnR2g3Zy12d3AtSEJkNHRBUC01cnBvT0E?oc=5",
+          "summary": "스페이스X 품에 안긴 커서, 코딩 도구 넘어 \"세계 최고 AI 개발\" 선언 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-16T09:20:32+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Short-Sellers Swarm SpaceX With Paper Profit Nearing $4 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/short-sellers-swarm-spacex-with-paper-profit-nearing-4-billion",
-          "summary": "SpaceX bears are minting billions on paper as the company’s stock price cracks ahead of a closely-watched rocket launch and upcoming earnings that will unlock a flood of shares.",
-          "published": "2026-07-15T19:48:23+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -123,74 +75,30 @@
       "count": 8,
       "articles": [
         {
-          "title": "Sam Altman signals OpenAI price war as rivalry with Anthropic, China heats up",
-          "link": "https://www.scmp.com/tech/article/3360689/sam-altman-signals-openai-price-war-rivalry-anthropic-china-heats?utm_source=rss_feed",
-          "summary": "OpenAI founder and CEO Sam Altman has signalled that the company was prepared to slash the price of its latest artificial intelligence models, as competition intensifies with US rival Anthropic and a growing wave of cheaper, rapidly advancing Chinese alternatives. In a social media post on Tuesday, Altman noted that OpenAI’s flagship GPT-5.6 Sol was already “half the price” of Anthropic’s Claude Fable 5, adding that OpenAI would be “happy to deliver at one-quarter of the price”. OpenAI released.",
-          "published": "2026-07-15T12:30:15+00:00",
+          "title": "As US AI costs soar, global businesses pivot to China’s low-cost, open-weight models",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3360659/us-ai-costs-soar-global-businesses-pivot-chinas-low-cost-open-weight-models?utm_source=rss_feed",
+          "summary": "Global businesses are increasingly switching from premium, closed-source US software – such as OpenAI’s GPT and Anthropic’s Claude – to cheaper Chinese open-weight models that offer near-frontier performance. Since mid-June, the daily token volume of Zhipu’s GLM-5.2, which operates at about one-fifth the cost of Anthropic’s Claude Opus 4.8, had surged 50-fold on Vercel, the San Francisco-based cloud platform for AI web development reported on Tuesday. Meanwhile, DeepSeek’s V4 Flash, a...",
+          "published": "2026-07-16T01:25:16+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 13,
           "score_breakdown": {
             "keyword": 10,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Microsoft Gives Sellers Tips to Knock Down Anthropic, OpenAI",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/microsoft-gives-salespeople-tips-to-knock-down-anthropic-openai",
-          "summary": "Microsoft Corp. is coaching its sales team on how to vigorously compete against Anthropic PBC and OpenAI, playing up shortcomings in products from the artificial intelligence firms.",
-          "published": "2026-07-15T14:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Anthropic Plans IPO Investor Meetings as Mega-Listing Nears",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/anthropic-is-said-to-plan-ipo-investor-meetings-as-listing-nears",
-          "summary": "Anthropic PBC is seeking to meet with investors ahead of its potential mega-IPO, according to people familiar with the matter, as the company prepares to join the rush of artificial intelligence-driven stock market debuts.",
-          "published": "2026-07-15T15:28:50+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Google to Allow Third-Party Stores in Its App Store Next Week",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/google-to-allow-third-party-stores-in-its-app-store-next-week",
-          "summary": "Alphabet Inc.’s Google told a California federal court that it will begin allowing US users to download third-party app stores within its Google Play Store beginning next week.",
-          "published": "2026-07-15T16:25:55+00:00",
+          "title": "Google Gemini Launch Delayed as Tech Falls Short of Internal Goals",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-16/google-gemini-launch-delayed-as-tech-falls-short-of-internal-goals",
+          "summary": "Alphabet Inc.’s Google is months behind schedule on delivering Gemini 3.5 Pro, its most powerful flagship AI model, because the company has been taking time to try to improve its capabilities, particularly in coding, according to people familiar with the matter.",
+          "published": "2026-07-16T18:07:15+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -207,10 +115,10 @@
           "event_labels": []
         },
         {
-          "title": "Murati’s Thinking Machines Releases First AI Model for Broad Use",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/murati-s-thinking-machines-releases-first-ai-model-for-broad-use",
-          "summary": "Thinking Machines Lab is releasing its first AI model, more than a year after former OpenAI executive Mira Murati founded the artificial intelligence startup.",
-          "published": "2026-07-15T18:00:16+00:00",
+          "title": "DeepMind CEO to Lobby Washington on Plan for Group to Vet AI Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-16/deepmind-ceo-to-lobby-washington-on-plan-for-group-to-vet-ai-models",
+          "summary": "Earlier this week, Google DeepMind Chief Executive Officer Demis Hassabis unveiled a proposal for a new international watchdog that would do “rigorous” tests and reviews of cutting-edge AI models before release.",
+          "published": "2026-07-16T20:17:36+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -218,48 +126,70 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "반년 만에 뒤집힌 AI 검색 왕좌…한국인, 챗GPT 대신 제미나이 택하기 시작했다",
+          "link": "https://zdnet.co.kr/view/?no=20260716210925",
+          "summary": "[지디넷코리아]챗GPT(ChatGPT)가 AI 검색의 절대 강자라고 믿었다면, 이 데이터를 보면 생각이 달라질 수 있다. 오픈서베이(Opensurvey)가 2026년 7월 검색 이용자 1,000명을 조사해 발표한 'AI 검색 트렌드 리포트 2026 하반기'에 따르면, 불과 반년 사이에 구글(Google)의 제미나이(Gemini)가 챗GPT를 만족도와 향후 유료 이용 의향에서 모두 앞질렀다. AI 검색이란 궁금한 것을 검색창에 키워드로 넣는 대신, 생성형 AI에게 문장으로 물어보고 정리된 답을 받는 새로운 검색 방식을 말한다. 이 방식이 이제 특정 서비스 하나의 이야기가 아니라 한국인의 검색 습관 전체를 바꾸고 있다는 점에서, 지금의 판세 변화는 눈여겨볼 만하다.검색 이용자 절반이 챗GPT와 제미나이를 쓰는 시대생성형 AI 검색은 이제 소수의 얼리어답터가 아니라 검색 이용자 절반 이상이 쓰는 주류 도구가 됐다. 오픈서베이 조사에서 최근 3개월 안에 챗GPT를 검색에 써봤다는 응답은 5",
+          "published": "2026-07-16T12:09:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-          "link": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-          "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against GPT-Red made the model its most robust release yet. GPT-Red automates&#8230;",
-          "published": "2026-07-15T17:09:37+00:00",
+          "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+          "link": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other&#8230;",
+          "published": "2026-07-16T12:10:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Nokia, Nvidia Unveil AI-Powered Network, Doubling Data Loads",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/nokia-to-sell-nvidia-powered-ai-mobile-network-gear-from-2027",
-          "summary": "Nokia Oyj and Nvidia Corp. have developed network technology that uses artificial intelligence to double the amount of data that telecommunications companies can transmit, the first major announcement nine months into a partnership that also included Nvidia taking a stake in the Finnish network equipment maker.",
-          "published": "2026-07-15T07:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "엔비디아, 도요타와 피지컬 AI 기술 협력 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PTE1WLXAwRUVwMzh6Z2haSTJsWXdsMmJGcURMMHJ5d1BmTVdWUUFOR2FQUEhWWmFHZEU5clJ4Z3FEbkNfRkVMNUVTUUpqMU1sUlhMZ2xhWEZkWmdEZmJwQzBQcWh1ejFDWmRqSlM5MTc?oc=5",
+          "summary": "엔비디아, 도요타와 피지컬 AI 기술 협력 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-16T01:58:14+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -267,20 +197,42 @@
           "event_labels": []
         },
         {
-          "title": "Nvidia’s Huang Says Vera Rubin on Track Despite Delay Talk",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/nvidia-s-huang-declares-vera-rubin-on-track-despite-delay-talk",
-          "summary": "Nvidia Corp. co-founder Jensen Huang stressed that the US company’s next-generation AI accelerator systems were in production and on track for delivery to customers, responding to reports that manufacturing snags may delay their rollout.",
-          "published": "2026-07-15T09:11:05+00:00",
+          "title": "일본 진출 나선 놀유니버스·여기어때…공략법은 어떻게 다른가",
+          "link": "https://zdnet.co.kr/view/?no=20260716170951",
+          "summary": "[지디넷코리아]국내 온라인여행플랫폼(OTA)들이 일본 시장 공략에 속도를 내고 있다. 놀유니버스와 여기어때는 각각 일본 현지 기업과 손잡고 한국과 일본을 잇는 여행 상품과 숙박 인프라를 확대 중이다. 다만 놀유니버스가 대규모 숙박 인벤토리 확보를 통한 외형 확장에 무게를 둔 반면, 여기어때는 프리미엄 숙소 경쟁력을 앞세워 일본 시장을 공략하는 차별화 전략을 택했다.16일 여행업계에 따르면 놀유니버스는 지난 13일 일본 호텔 유통 전문기업 ‘애플월드’와 전략적 협업을 체결했다. 놀유니버스는 이번 협력을 통해 자사가 보유한 국내 숙박 인벤토리 중 약 3만여 곳을 애플월드의 일본 여행사와 글로벌 판매 네트워크에 공급할 방침이다. 이들은 3분기 내 시스템 연동을 완료하고 일본 호텔 인벤토리도 NOL에 순차적으로 연계한다.앞서 여기어때는 지난 5월 일본 온라인 여행 플랫폼(OTA) 리럭스를 운영하는 일본 통신사업자 KDDI 산하 ‘로코 파트너스’의 지분 전체를 인수한 바 있다. 당시 여기어때",
+          "published": "2026-07-16T08:35:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Apple Nears Launch of OLED iPad Mini; New iPad Air and Base iPad in 2027",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-16/apple-nears-launch-of-oled-ipad-mini-new-ipad-air-and-base-ipad-in-2027",
+          "summary": "Apple Inc. is preparing to introduce its biggest overhaul to the iPad mini in half a decade, giving new life to a product that’s popular with travelers and technology enthusiasts.",
+          "published": "2026-07-16T13:22:13+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -293,18 +245,18 @@
       "count": 2,
       "articles": [
         {
-          "title": "Hinge Debuts Friend's Take Feature, Letting Inner Circle Leave Testimonials",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-15/hinge-debuts-friend-s-take-feature-letting-inner-circle-leave-testimonials",
-          "summary": "Hinge is introducing a new feature called Friend’s Take that lets daters recruit people they know to leave testimonials on their profiles for other singles to see.",
-          "published": "2026-07-15T11:55:20+00:00",
+          "title": "Visa Is Expanding Its Crypto Push With New Stablecoin Platform",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-16/visa-is-expanding-its-crypto-push-with-new-stablecoin-platform",
+          "summary": "Visa Inc. unveiled a platform that lets financial firms issue, move and manage stablecoins, broadening the payments giant’s crypto offerings as banks and fintechs prepare for wider adoption of the digital tokens.",
+          "published": "2026-07-16T15:35:09+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -313,12 +265,12 @@
           "event_labels": []
         },
         {
-          "title": "Hong Kong steps up to US crypto fund challenge with tokenised fund approval",
-          "link": "https://www.scmp.com/tech/blockchain/article/3360652/hong-kong-steps-us-crypto-fund-challenge-tokenised-fund-approval?utm_source=rss_feed",
-          "summary": "Hong Kong has approved its first “digitally native” tokenised fund, allowing professional investors to hold direct ownership of the underlying assets on a public blockchain, issuer Baillie Gifford says, as the city steps up its challenge to the US as a global crypto hub. The British fund manager said on Wednesday it had received approval from the Securities and Futures Commission to launch the Baillie Gifford Enhanced Yield Fund (BAGEY) – an actively managed portfolio of short-duration...",
-          "published": "2026-07-15T08:26:00+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "잠들지 않는 하이닉스 베팅…코인베이스도 파생상품 출시 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJVW9GQU9FbmV3clZQRTlrejkxVmEzTE9zRVJoUE9veFVHUGE1ODZSU2hreHFnTVVPbTNXQlB2bDZiTDdQNVdDNUNaQlhGa0ZScnJITjdaaFpqenpDM0dqZHI0aUVkYy1wTXlBeU84NS0?oc=5",
+          "summary": "잠들지 않는 하이닉스 베팅…코인베이스도 파생상품 출시 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-15T23:58:43+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
@@ -336,69 +288,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
-      "articles": [
-        {
-          "title": "카카오톡 PC 버전에서 '챗GPT' 쓴다... 대화 요약 등 기능 추가 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNdk5jVGFrOTUxa0V4RktVSmk3aGs5dVAtV1FNWjdUbHBDejIyMmxrRVJteTFFQ0xSWG96RVozYkZlRmZWWXZmS2FnLVpSWTFFMXc2OWdOenJ3TGswMkFlMXVrUTBxZWFOdmc?oc=5",
-          "summary": "카카오톡 PC 버전에서 '챗GPT' 쓴다... 대화 요약 등 기능 추가 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-15T03:29:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "PC 카카오톡에서도 '챗GPT 포 카톡' 된다",
-          "link": "https://zdnet.co.kr/view/?no=20260715165219",
-          "summary": "[지디넷코리아]카카오가 6차 정기 업데이트를 진행함에 따라 이제는 챗GPT 포 카카오를 카카오톡에서도 사용할 수 있게 됐다. 채팅방 내 메시지 요약 기능도 추가해 밀린 메시지를 빠르게 파악하는 것도 가능해졌다. 카카오는 이용자 편의를 위한 다양한 기능을 담아 카카오톡 6차 정기 업데이트를 진행했다고 15일 밝혔다.이용자가 밀린 메시지를 빠르게 파악할 수 있도록 채팅방 내 메시지 요약 기능을 추가했다. 개별 채팅방 안에서 '대화 요약' 버튼을 누르면 쌓인 메시지의 핵심 내용을 한눈에 정리해 보여준다. 오랜만에 들어간 채팅방에서도 주요 내용을 살펴보고 바로 채팅에 참여할 수 있다는 것이 회사 측 설명이다.또한, 챗GPT 포 카카오의 이용 범위를 카카오톡 PC 버전으로 확대했다. 기존 설정을 다시 입력하거나 질문을 반복하지 않아도 모바일에서 사용하던 흐름이 그대로 PC에서도 이어진다. 채팅탭 상단의 '챗GPT' 칩을 통해 이용할 수 있다.채팅방에서 주고받은 사진을 챗GPT 이미지 2.0을",
-          "published": "2026-07-15T14:45:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[현장] 범용이냐 특화냐…국방 AI 개발 전략 놓고 업계 '격론'",
-          "link": "https://zdnet.co.kr/view/?no=20260715171216",
-          "summary": "[지디넷코리아]국방 인공지능(AI) 혁신을 위한 개발 방향을 두고 업계 안팎의 시각이 엇갈렸다. 범용 AI가 일정 수준 이상 고도화되면 국방 특화 모델의 필요성이 줄어든다는 주장과 미국 대비 자원이 제한적인 한국은 특화 전략으로 성능 격차를 메워야 한다는 의견이 맞서면서다.한국국방연구원(KIDA) 국방인공지능정책연구실과 바른 과학기술사회 실현을 위한 국민연합(과실연) AI미래포럼은 15일 경기도 성남시 경기스타트업캠퍼스에서 '26-7차 국방 AI 혁신 네트워크 세미나'를 개최했다.이날 종합토론에는 발제를 맡은 유경범 네이버클라우드 국방AX 총괄, 유정상 LG AI연구원 엑사원 사업개발리더, 김일환 삼성SDS 국방사업그룹장, 김성훈 업스테이지 공동창업자 겸 대표를 비롯해 이상혁 합동참모본부 전장체계발전과장, 전준범 국방부 국방인공지능기획관, 하윤철 한화시스템 상무, 최용환 LIG D&amp;A 기술위원 등이 참석했다.김성훈 대표는 범용 AI가 국방 분야를 별도로 학습하지 않아도 전장에",
-          "published": "2026-07-15T08:43:30+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
