@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T21:56:22.813416+00:00",
+  "generated_at": "2026-07-18T21:54:36.097846+00:00",
   "total_articles": 11,
   "categories": {
     "elon_musk": {
@@ -7,30 +7,10 @@
       "count": 3,
       "articles": [
         {
-          "title": "SpaceX in Talks to Sell Computing Power to Pentagon, WSJ Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-17/spacex-in-talks-to-sell-computing-power-to-pentagon-wsj-says",
-          "summary": "SpaceX is in talks to sell computing power to the US Department of Defense, the Wall Street Journal reported on Friday, adding to a spate of infrastructure deals for Elon Musk’s rocket, satellite and artificial intelligence conglomerate.",
-          "published": "2026-07-17T19:16:20+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"화성 건설로봇 만든다\"...전 스페이스X 엔지니어, 1700억원 투자 유치",
-          "link": "https://zdnet.co.kr/view/?no=20260717060326",
-          "summary": "[지디넷코리아]전 스페이스X 엔지니어가 창업한 건설 기술 스타트업이 1억 1500만달러(약 1700억원) 규모 투자 유치에 성공했다.회사는 인공지능(AI)과 반자율 건설 로봇 기술을 기반으로 지구의 인프라 건설을 혁신하고 장기적으로는 달과 화성 건설 시장까지 진출하겠다는 구상이다.17일 테라퍼마는 벤처캐피털 클라이너 퍼킨스가 주도한 1억 달러 규모 시리즈A 투자를 포함해 총 약 1억 1500만 달러를 조달했다고 밝혔다.이번 투자에는 베인캐피털벤처스, 글레이드 브룩 캐피털 파트너스, 배너 VC, 사가 벤처스, 트러스트 벤처스, 데피니션, 피크6, 마그네타 캐피털, 라벨린 캐피털 등이 참여했다. 엔젤 투자자로는 스페이스X, 안두릴, 베이스 파워, 하드리안 등의 창업자와 엔지니어가 이름을 올렸다.2024년 설립된 테라퍼마는 스페이스X 출신 노아 쇼셋 최고경영자(CEO)와 노아 맥기니스 최고기술책임자(CTO)가 공동 창업했다. 두 사람은 스페이스X에서 스타링크, 스타실드, 스타십 프로젝트에",
-          "published": "2026-07-17T00:37:43+00:00",
+          "title": "\"돈 줄 테니 서버 좀\"…AI 품귀가 낳은 메타·앤트로픽의 '기묘한 공생'",
+          "link": "https://zdnet.co.kr/view/?no=20260718103237",
+          "summary": "[지디넷코리아]메타가 생성형 인공지능(AI) 경쟁업체인 앤트로픽에 대규모 컴퓨팅 파워(연산능력)를 판매하는 방안을 논의 중이라는 보도가 나왔다.뉴욕타임스는 17일(현지시간) 메타가 자사 데이터센터의 컴퓨팅 파워를 앤드로픽에 임대하는 방안을 놓고 협상을 진행하고 있다고 보도했다. 두 회사의 거래 규모는 2년 100억 달러(약 14조 9000억원) 수준에 이른다고 이 매체가 보도했다.이번 협상은 지난 6월 앤드로픽이 먼저 제안하면서 시작됐다. 거래가 성사될 경우 앤트로픽이 매년 일정 사용료를 메타에 지불하는 방식이 될 것으로 전망된다.하지만 현재 협상 초기 단계이기 때문에 두 회사 중 어떤 곳이든 협상 종료를 선언하고 손을 털고 나갈 수도 있다고 외신들이 전했다.앤트로픽이 메타에 제안한 금액은 지난 5월 일론 머스크의 스페이스X와 맺은 거래 규모의 3분의 1 수준이다. 당시 앤트로픽은 스페이스X에 3년 동안 매달 12억 5000만 달러를 지불하는 계약을 체결했다. 두 회사 총 계약 규모",
+          "published": "2026-07-18T01:32:51+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -38,32 +18,49 @@
           "category_display": "일론 머스크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 1,
             "recency": 1,
-            "event_bonus": 4,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change",
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "한 달 만에 주저앉은 스페이스X…시가총액 1천500조원 증발 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52Nzcxd05MRk0xNzlhMEJLQlFCcEpWNkNDbEY1aFVNQlQ4bEhPT0FkamZwUDUyRHhyRUVNUmZQWUJqVDNZclczTl9HdVFVNFZobEE?oc=5",
-          "summary": "한 달 만에 주저앉은 스페이스X…시가총액 1천500조원 증발 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-17T18:41:53+00:00",
+          "title": "낙관주의 꺼졌다? 한달만에 1500조원 증발…스페이스X에 무슨 일이 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rb0FjcWRrcnVxVFRmMGlOWlRhZDlkSUtzNWo2QXpTZjM2VVpSUWZrQ1hvSS1IQ2lETlhmd3VfYTY0cDBpNzdWaU96ekJFTm9hZHc?oc=5",
+          "summary": "낙관주의 꺼졌다? 한달만에 1500조원 증발…스페이스X에 무슨 일이 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-18T00:29:56+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다]",
+          "link": "https://zdnet.co.kr/view/?no=20260717185419",
+          "summary": "[지디넷코리아]소형 휴대용 엑스레이 장비로 우주비행사의 건강 관리 방식을 획기적으로 바꿀 가능성이 확인됐다.2025년 스페이스X 프램2(Fram2) 미션에 참여한 우주비행사들이 우주에서 세계 최초로 의료용 엑스레이 촬영에 성공했다고 우주과학매체 스페이스닷컴이 최근 보도했다. 이번 연구 결과는 14일(현지시간) 영상의학 분야 권위 학술지 ‘라디올로지(Radiology)’에 게재됐다.그 동안 우주비행사들은 부상 진단을 위해 주로 초음파 장비를 사용해 왔다. 초음파는 음파가 통과할 매질이 필요하지만, 엑스선은 진공 상태에서도 사용할 수 있다는 장점이 있다. 그러나 엑스레이 장비는 크고 무거우며 전력 소모가 많았고, 움직이는 물체를 선명하게 촬영하기 어려웠다. 우주선이 발사와 대기권 재진입하는 과정에 발생하는 강한 충격으로 장비가 손상될 가능성도 컸다.그런데 최근 소형 휴대용 엑스레이 기술이 발전하면서 우주에서도 의료용 엑스레이를 활용할 수 있는 가능성이 열렸다. 메이요 클리닉 항공우주의학",
+          "published": "2026-07-18T00:33:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -76,80 +73,64 @@
       "count": 8,
       "articles": [
         {
-          "title": "China’s Moonshot Unveils AI Model, Fueling Tech Rout",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals",
-          "summary": "Chinese AI pioneer Moonshot unveiled a new model that it claims performs on par with some of the top-tier platforms from OpenAI and Anthropic PBC, the latest sign that the Asian country’s artificial intelligence labs are closing a technology gap with the US.",
-          "published": "2026-07-17T07:01:58+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta in Talks to Sell Computing Power to Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-17/meta-in-talks-to-sell-computing-power-to-anthropic-nyt-reports",
-          "summary": "Meta Platforms Inc. is in early discussions to lease computing power from its data centers to Anthropic PBC, according to people familiar with the matter, an opportunity for the social media giant to build a new business around its heavy investment in AI infrastructure.",
-          "published": "2026-07-17T16:40:15+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Moonshot AI unveils world’s largest open-source AI model as China narrows gap with US rivals",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3360885/moonshot-ai-unveils-worlds-largest-open-source-ai-model-china-narrows-gap-us-rivals?utm_source=rss_feed",
-          "summary": "Chinese start-up Moonshot AI has launched the world’s largest open-source artificial intelligence model, claiming to outperform leading US systems from Anthropic and OpenAI in some capabilities, as domestic developers race to challenge American dominance. Beijing-based Moonshot said its Kimi K3, unveiled late on Thursday, had achieved “open frontier intelligence” with 2.8 trillion parameters, which was significantly larger than previous open models from Chinese competitors, including DeepSeek’s.",
-          "published": "2026-07-17T04:31:25+00:00",
+          "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
+          "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
+          "summary": "Alibaba Group Holding’s chip design unit, T-Head, has announced that it will open-source its proprietary software stack, marking its latest effort to streamline developer operations and challenge the dominance of American chip giant Nvidia’s CUDA ecosystem. At the World AI Conference (WAIC) in Shanghai on Saturday, T-Head announced that it was making the full technical stack of SAIL – the foundational software architecture for the unit’s Zhenwu series of AI chips – freely available to...",
+          "published": "2026-07-18T11:00:07+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "Apple in Early Settlement Talks With DOJ Over Antitrust Case",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-17/apple-in-early-settlement-talks-with-doj-over-antitrust-case",
-          "summary": "Apple Inc. and the US Justice Department are in early discussions about settling a 2024 lawsuit that alleges the iPhone maker violated antitrust laws.",
-          "published": "2026-07-17T16:51:40+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "젠슨 황 가죽 재킷, 14억원에 낙찰…판매가의 100배",
+          "link": "https://zdnet.co.kr/view/?no=20260718191342",
+          "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 입었던 가죽 재킷이 경매에서 14억원을 웃도는 가격에 낙찰돼 화제가 되고 있다.CNBC는 17일(현지시간) 젠슨 황이 실제로 착용하고 사인까지 한 가죽 재킷이 소더비 경매에서 96만 달러(약 14억 3000만원)에 낙찰됐다고 보도했다.검정색 가죽 재킷은 젠슨 황의 트레이드 마크다. 젠슨 황은 20년이 넘는 기간 동안 무역 박람회나 사내 행사에선 언제나 검정색 톰 포드 재킷을 입고 등장했다.보도에 따르면 이날 경매에서 젠슨 황의 재킷은 65차례에 걸친 응찰 경합 끝에 96만 달러에 낙찰됐다. 낙찰 예상 가격 4만~6만 달러에 비해 크게 높은 수준이었다. 또 제품 실제 판매 가격 1만 달러에 비해선 100배 가까이 비싼 가격에 팔렸다.이 같은 결과에 대해 CNBC는 “수집가들이 인공지능(AI) 붐과 관련된 유물이나 수집품에 입찰하려 한다는 사실을 잘 보여준다”고 평가했다.이번에 낙찰된 것은 젠슨 황이 2023년 대만 타이페이에서 열린",
+          "published": "2026-07-18T10:16:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "미 의회, 트럼프 행정부에 중국산 메모리 금지 촉구...애플 도입에 '제동' - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KdVhzbXFZWnhaWmhzdmQ5MmQ2N1pSQkpXUXNrQ2U2blhfVDhtdWRLbDBpOGNIanM0bXdBOXI2LWtJTnJnTXBWWjBELWJjYkFYdldubjhsakd4WWg2cVlaRlhVM3Y3R1g4Unc?oc=5",
+          "summary": "미 의회, 트럼프 행정부에 중국산 메모리 금지 촉구...애플 도입에 '제동' &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-18T02:32:10+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -158,32 +139,52 @@
           ]
         },
         {
-          "title": "Chinese Nvidia alternatives project massive sales as AI chip demand surges",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3360908/chinese-nvidia-alternatives-project-massive-sales-ai-chip-demand-surges?utm_source=rss_feed",
-          "summary": "Chinese chip designers Moore Threads Technology and Hygon Information Technology – both positioning themselves as home-grown alternatives to Nvidia – have projected double- to triple-digit revenue growth for the first half of the year, fuelled by surging domestic demand for AI computing power. Beijing-based Moore Threads, a graphics processing unit (GPU) developer, stated in a stock exchange filing on Thursday that it expected revenue for the period to jump 135.1 per cent to 149.4 per cent year.",
-          "published": "2026-07-17T06:16:40+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "인니, AI 규제 담은 저작권법 개정 추진…구글 \"혁신 저해\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Q3A1R0NPM1REeGFnUlNuUFFLYk9sYUh3a2N3MkNsb25qWWhYempMaWdrdHE3a3lMdzFYdWx0Wl9qbUxOR0I4SnVfT3VHVm1XeGc?oc=5",
+          "summary": "인니, AI 규제 담은 저작권법 개정 추진…구글 \"혁신 저해\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-18T02:50:23+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "regulation"
           ]
         },
         {
-          "title": "\"中원플러스, 미·유럽 시장서 짐 싼다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260716064938",
-          "summary": "[지디넷코리아]중국 스마트폰 브랜드 원플러스가 미국과 유럽 시장에서 철수하고, 이번 주부터 관련 절차를 시행한다고 블룸버그가 17일(현지시간) 보도했다. 블룸버그는 익명 관계자를 인용해 이번 결정이 원플러스 모회사 오포의 대대적인 구조조정 계획에 따른 것이라고 설명했다.구조조정 여파는 원플러스에 그치지 않는다. 오포의 또 다른 서브 브랜드 리얼미는 중국 시장에서 철수할 예정이다. 원플러스의 경우 모국인 중국 시장에서는 당분간 영업을 지속하지만, 브랜드 폐쇄는 2027년 중 인도 등 글로벌 지역으로 확대 적용할 계획이다. 오포와 원플러스 대변인은 철수설에 대한 입장을 밝히지 않았다. 업계는 오포의 이번 결정을 두고 스마트폰 사업의 누적된 재정적 어려움과 해외 시장 성장 정체 결과로 분석한다. 오포는 미국과 유럽, 인도 등에서 성장 모멘텀을 잃은 데다, 중국 브랜드의 미국 시장 진출을 둘러싼 지정학 갈등을 겪고 있다. 애플이 제기한 영업비밀 침해소송도 영향을 끼친 것으로 보인다. 앞서 ",
-          "published": "2026-07-17T02:00:01+00:00",
+          "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
+          "summary": "China brushed off allegations that the country distills foreign technology, after US firms including Anthropic PBC said Chinese rivals illicitly extract results from top American models to advance their own capabilities.",
+          "published": "2026-07-18T02:59:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, 美 법무부와 '슈퍼앱' 반독점 소송 합의 시도",
+          "link": "https://zdnet.co.kr/view/?no=20260718131548",
+          "summary": "[지디넷코리아]애플이 ‘슈퍼앱’을 비롯한 아이폰 관련 반독점 소송을 합의로 마무리하기 위해 미국 법무부와 협상을 진행하고 있다고 블룸버그가 17일(현지시간) 보도했다.이번 소송은 지난 2024년 미국 법무부 제소로 시작됐다. 당시 법무부 소송에서 제기한 쟁점은 크게 네 가지였다.첫째. '슈퍼 앱' 제한둘째. 폐쇄적인 메시징 서비스셋째. 클라우드 스트리밍 차단넷째. 타사 디지털 지갑 및 스마트워치 연동 제한법무부는 애플의 이 같은 행위가 미국 독점금지법 위반에 해당된다고 판단하고 있다. 슈퍼앱이란 중국 위챗처럼 하나의 앱 안에 메시징, 결제, 금융 등 다양한 미니 앱(기능)을 모아둔 통합 플랫폼을 의미한다. 애플이 슈퍼앱을 제한하는 것은 자사 앱스토어 영향력 저해를 우려한 때문이란 것이 법무부의 생각이다.또 법무부는 애플이 자사 서비스인 아이메시지 사용 독려를 위해 인스턴트 메신저 기능을 저하시켰다고 주장했다. 이와 함께 애플이 애플워치가 애플 이외 기기들과 호환되지 않도록 한 부분에",
+          "published": "2026-07-18T04:15:59+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -202,12 +203,12 @@
           ]
         },
         {
-          "title": "엔비디아, 4B 규모 월드 모델 ‘코스모스 3 엣지’ 공개...'온디바이스 피지컬 AI' 실현 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdFc0dWNkcnJOcnVLRGM4cUF0MThhRmpkNHh3Z0RNRE1xS0w0aDd1dW9yWG1nSkl5SnZINUw5U2kzV05XdkxHU1V6LU8wMzdYZldJaFJsTUJ6OU5TSnRNOE9KbDFzTTBYRnc?oc=5",
-          "summary": "엔비디아, 4B 규모 월드 모델 ‘코스모스 3 엣지’ 공개...'온디바이스 피지컬 AI' 실현 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-17T04:06:12+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Chinese chip start-up Biren bets on light-based ‘supernodes’ to match Nvidia",
+          "link": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia?utm_source=rss_feed",
+          "summary": "Chinese semiconductor design firm Biren Technology has unveiled its next-generation “supernode” solutions – systems designed to link thousands of AI chips across a single cluster – by using optical data transmission to bypass current hardware limits. The launch underscores how these highly connected server systems have become one of the latest battlegrounds for AI infrastructure companies. The industry is currently racing to scale up raw computing power as artificial intelligence models advance.",
+          "published": "2026-07-18T08:00:23+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -222,10 +223,10 @@
           "event_labels": []
         },
         {
-          "title": "기업 띄우기 전 주식부터 샀다…트럼프의 수상한 거래 타이밍 논란",
-          "link": "https://zdnet.co.kr/view/?no=20260717143927",
-          "summary": "[지디넷코리아]도널드 트럼프 미국 대통령이 기업 주식을 매입한 직후 해당 기업이나 제품을 소셜미디어에서 잇달아 호평한 것으로 나타났다. 트럼프 대통령 측은 외부 금융기관이 전권을 갖고 자산을 운용하기 때문에 대통령과 가족은 개별 거래에 관여하지 않는다고 반박했다. 그러나 역대 대통령들과 달리 자산을 백지신탁에 맡기지 않아 이해충돌을 차단할 장치가 부족하다는 지적이 나온다.16일(현지시간) CNN은 트럼프 대통령의 2025년 재산공개 자료에 담긴 금융거래 2만1000여 건과 트루스소셜 게시물을 인공지능으로 대조한 결과, 21개 기업 주식을 최소 44차례 매수한 뒤 일주일 안에 해당 기업이나 경영진, 제품을 긍정적으로 언급한 사례를 확인했다고 보도했다.대표적인 사례는 엔비디아다. 트럼프 대통령은 지난해 4월 엔비디아 주식을 20만~50만 달러어치 매입한 지 며칠 뒤 회사의 미국 인공지능(AI) 슈퍼컴퓨터 건설 계획을 \"매우 크고 흥미로운 소식\"이라고 평가했다. 엔비디아를 비롯한 관련 기",
-          "published": "2026-07-17T05:39:27+00:00",
+          "title": "올가을 애플워치12, 달라지는 4가지",
+          "link": "https://zdnet.co.kr/view/?no=20260718062848",
+          "summary": "[지디넷코리아]애플이 올 가을 공개할 예정인 차세대 스마트워치 애플워치 시리즈12에 새로운 프로세서와 배터리 성능 개선, 건강 기능 강화 등이 적용될 것으로 전망된다.IT매체 나인투파이브맥은 그 동안 나온 각종 전망과 유출 정보를 종합해 애플워치 시리즈12의 주요 변화 네 가지를 최근 소개했다.1. 새로운 칩애플워치 시리즈9·10·11은 기본적으로 동일한 칩을 사용했으나, 올해 출시될 애플워치 시리즈12에는 새로운 칩이 적용될 것으로 알려졌다.IT매체 맥월드는 2025년 여름 2026년형 애플워치가 하드웨어 측면에서 큰 도약이 이뤄질 것이라고 보도했다. 2026년 애플워치 제품군은 GPS 및 셀룰러 모델의 애플워치 시리즈12와 애플워치 울트라4(N237·N238·N240)로 구성되며, 새로운 T8320 프로세서를 탑재할 것으로 예상된다. 기존 S9·S10·S11 칩은 모두 동일한 T8310 프로세서를 사용한 만큼 차세대 모델은 완전히 재설계된 칩일 가능성이 높다는 게 해당 매체의 분",
+          "published": "2026-07-18T01:18:14+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -233,13 +234,15 @@
           "category_display": "빅테크",
           "score": 7,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
