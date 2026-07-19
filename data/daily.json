@@ -1,24 +1,131 @@
 {
-  "generated_at": "2026-07-18T21:54:36.097846+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-07-19T21:56:56.178487+00:00",
+  "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 0,
+      "articles": []
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 7,
       "articles": [
         {
-          "title": "\"돈 줄 테니 서버 좀\"…AI 품귀가 낳은 메타·앤트로픽의 '기묘한 공생'",
-          "link": "https://zdnet.co.kr/view/?no=20260718103237",
-          "summary": "[지디넷코리아]메타가 생성형 인공지능(AI) 경쟁업체인 앤트로픽에 대규모 컴퓨팅 파워(연산능력)를 판매하는 방안을 논의 중이라는 보도가 나왔다.뉴욕타임스는 17일(현지시간) 메타가 자사 데이터센터의 컴퓨팅 파워를 앤드로픽에 임대하는 방안을 놓고 협상을 진행하고 있다고 보도했다. 두 회사의 거래 규모는 2년 100억 달러(약 14조 9000억원) 수준에 이른다고 이 매체가 보도했다.이번 협상은 지난 6월 앤드로픽이 먼저 제안하면서 시작됐다. 거래가 성사될 경우 앤트로픽이 매년 일정 사용료를 메타에 지불하는 방식이 될 것으로 전망된다.하지만 현재 협상 초기 단계이기 때문에 두 회사 중 어떤 곳이든 협상 종료를 선언하고 손을 털고 나갈 수도 있다고 외신들이 전했다.앤트로픽이 메타에 제안한 금액은 지난 5월 일론 머스크의 스페이스X와 맺은 거래 규모의 3분의 1 수준이다. 당시 앤트로픽은 스페이스X에 3년 동안 매달 12억 5000만 달러를 지불하는 계약을 체결했다. 두 회사 총 계약 규모",
-          "published": "2026-07-18T01:32:51+00:00",
+          "title": "Why Apple’s OpenAI Lawsuit Doesn’t Mention Jony Ive; AI Recording at Genius Bar",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
+          "summary": "Also: The company tries out AI recording for Genius Bar appointments.",
+          "published": "2026-07-19T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Alibaba’s Qwen Unveils Preview of Flagship AI Model",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
+          "summary": "Alibaba Group Holding Ltd. launched a preview version of its flagship Qwen3.8 Max model, which it described as comparable to leading frontier AI models and second only to Anthropic PBC’s Fable 5.",
+          "published": "2026-07-19T11:02:09+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEelN1M29zOFRxcHhTYXJGMENBTHZTWUQyUUtHd2F3TXVUa1NGZDBScVJWLWNZQWlLek9zOFFMYVB1SmxRMUN3RmY0S2piNUFDamJYYXlFUGg1c0dhWmpHc1ZNc0s3bnJXeFE?oc=5",
+          "summary": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-19T21:38:21+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
+          "link": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed",
+          "summary": "Alibaba Group Holding has previewed its next-generation artificial intelligence model Qwen3.8, which the company says is “second only” to Anthropic’s Claude Fable 5. Qwen3.8-Max-Preview, the preview version of the strongest model of the Qwen family, had been made available on Alibaba’s Token Plan subscription service, as well as its Qoder and QoderWork agentic platforms, the Chinese tech giant said on an official X post on Sunday. With 2.4 trillion parameters, it was “one of the most powerful...",
+          "published": "2026-07-19T13:20:24+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Amazon Web Services bets on 'one-person unicorns' with new accelerator for Chinese founders",
+          "link": "https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3360886/amazon-web-services-bets-one-person-unicorns-new-accelerator-chinese-founders?utm_source=rss_feed",
+          "summary": "[The content of this article has been produced by our advertising partner.] Amazon Web Services (AWS) has launched a flagship accelerator programme aimed at Chinese-speaking entrepreneurs, betting that artificial intelligence has ushered in an era in which a single founder with a laptop can build a global company.The programme, called From Idea to Frontier, will select up to 100 early-stage teams from applicants across the mainland, Hong Kong and overseas Chinese communities, offering them AWS..",
+          "published": "2026-07-19T16:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "에이피알, 아마존 물류 사장단에 스마트팩토리 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260719103611",
+          "summary": "[지디넷코리아]에이피알이 아마존 글로벌 물류·공급망 부문 경영진에게 스마트팩토리와 물류 시스템을 공개했다. 글로벌 K뷰티 수요 확대에 대응하기 위한 생산 내재화와 물류 자동화 경쟁력을 소개하며 공급망 협력 기반을 강화한다는 취지다.에이피알은 최근 아마존 글로벌 물류 운영 및 공급망 전략(FBA) 부문 핵심 경영진이 경기 평택시 '에이피알팩토리 제2캠퍼스'를 방문했다고 19일 밝혔다.이번 방문에는 피유시 사라우기(Piyush Saraogi) 아마존 글로벌 FBA 총괄 사장을 비롯한 글로벌 공급망 전략 부문 사장단이 참석했다.아마존 경영진은 SMT(표면실장기술) 공정과 조립·검사 라인, 2개 층 규모의 물류센터를 둘러보며 생산 설비와 물류 자동화 시스템을 확인했다. 특히 메디큐브 뷰티 디바이스의 제조 공정과 스마트팩토리 기반 자동화 시스템, 생산부터 물류까지 직접 운영하는 통합 체계에 관심을 보였다고 회사 측은 설명했다.에이피알은 글로벌 K뷰티 수요 증가에 대응하기 위해 생산 내재화와 ",
+          "published": "2026-07-19T01:37:09+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -27,35 +134,15 @@
           "event_labels": []
         },
         {
-          "title": "낙관주의 꺼졌다? 한달만에 1500조원 증발…스페이스X에 무슨 일이 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rb0FjcWRrcnVxVFRmMGlOWlRhZDlkSUtzNWo2QXpTZjM2VVpSUWZrQ1hvSS1IQ2lETlhmd3VfYTY0cDBpNzdWaU96ekJFTm9hZHc?oc=5",
-          "summary": "낙관주의 꺼졌다? 한달만에 1500조원 증발…스페이스X에 무슨 일이 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-18T00:29:56+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "우주서 첫 엑스레이 촬영…\"우주인 건강관리 새 길 열렸다\" [우주로 간다]",
-          "link": "https://zdnet.co.kr/view/?no=20260717185419",
-          "summary": "[지디넷코리아]소형 휴대용 엑스레이 장비로 우주비행사의 건강 관리 방식을 획기적으로 바꿀 가능성이 확인됐다.2025년 스페이스X 프램2(Fram2) 미션에 참여한 우주비행사들이 우주에서 세계 최초로 의료용 엑스레이 촬영에 성공했다고 우주과학매체 스페이스닷컴이 최근 보도했다. 이번 연구 결과는 14일(현지시간) 영상의학 분야 권위 학술지 ‘라디올로지(Radiology)’에 게재됐다.그 동안 우주비행사들은 부상 진단을 위해 주로 초음파 장비를 사용해 왔다. 초음파는 음파가 통과할 매질이 필요하지만, 엑스선은 진공 상태에서도 사용할 수 있다는 장점이 있다. 그러나 엑스레이 장비는 크고 무거우며 전력 소모가 많았고, 움직이는 물체를 선명하게 촬영하기 어려웠다. 우주선이 발사와 대기권 재진입하는 과정에 발생하는 강한 충격으로 장비가 손상될 가능성도 컸다.그런데 최근 소형 휴대용 엑스레이 기술이 발전하면서 우주에서도 의료용 엑스레이를 활용할 수 있는 가능성이 열렸다. 메이요 클리닉 항공우주의학",
-          "published": "2026-07-18T00:33:05+00:00",
+          "title": "[ZD브리핑] 삼성 언팩, 여권형 폴드 공개...국민이 원하는 부동산 세제 개편은",
+          "link": "https://zdnet.co.kr/view/?no=20260719122204",
+          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]삼성전자가 22일(현지시간) 영국 런던에서 개최하는 '갤럭시 언팩'에서 폴더블폰 신제품 3종을 공개합니다. 한국시간으로는 22일 오후 10시입니다. 삼성전자 폴더블폰 신제품은 기존 북 타입 갤럭시Z폴드8, 클램셸 타입 Z플립8, 그리고 여권 형태 '와이드폴드' 등 3종으로 구성됩니다. 와이드폴드는 라인업에 추가된 모델입니다. 와이드폴드는 애플이 올해 처음 출시할 폴더블 제품과 유사한 형태로 예상됩니다. 폴더블 패널 화면 주름을 줄이기 위해 삼성전자는 새로운 기술도",
+          "published": "2026-07-19T03:41:07+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -68,193 +155,59 @@
         }
       ]
     },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
       "articles": [
         {
-          "title": "Alibaba targets Nvidia’s dominant software ecosystem with open-source AI stack",
-          "link": "https://www.scmp.com/tech/tech-war/article/3361048/alibaba-targets-nvidias-dominant-software-ecosystem-open-source-ai-stack?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding’s chip design unit, T-Head, has announced that it will open-source its proprietary software stack, marking its latest effort to streamline developer operations and challenge the dominance of American chip giant Nvidia’s CUDA ecosystem. At the World AI Conference (WAIC) in Shanghai on Saturday, T-Head announced that it was making the full technical stack of SAIL – the foundational software architecture for the unit’s Zhenwu series of AI chips – freely available to...",
-          "published": "2026-07-18T11:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "국회 문턱 못 넘은 디지털자산법…하반기 논의도 '험로' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INDREbTBDSEk3QUIwTkQwVzc1V1lOSTlFZ3d3Wm1YQ0xueEZSdWlzQ2RuTk55OXlZdkgydlgyQWV4dW90bVU3TVBGcTlHdGdoM0E?oc=5",
+          "summary": "국회 문턱 못 넘은 디지털자산법…하반기 논의도 '험로' &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-19T20:53:01+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
-        },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
         {
-          "title": "젠슨 황 가죽 재킷, 14억원에 낙찰…판매가의 100배",
-          "link": "https://zdnet.co.kr/view/?no=20260718191342",
-          "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO)가 입었던 가죽 재킷이 경매에서 14억원을 웃도는 가격에 낙찰돼 화제가 되고 있다.CNBC는 17일(현지시간) 젠슨 황이 실제로 착용하고 사인까지 한 가죽 재킷이 소더비 경매에서 96만 달러(약 14억 3000만원)에 낙찰됐다고 보도했다.검정색 가죽 재킷은 젠슨 황의 트레이드 마크다. 젠슨 황은 20년이 넘는 기간 동안 무역 박람회나 사내 행사에선 언제나 검정색 톰 포드 재킷을 입고 등장했다.보도에 따르면 이날 경매에서 젠슨 황의 재킷은 65차례에 걸친 응찰 경합 끝에 96만 달러에 낙찰됐다. 낙찰 예상 가격 4만~6만 달러에 비해 크게 높은 수준이었다. 또 제품 실제 판매 가격 1만 달러에 비해선 100배 가까이 비싼 가격에 팔렸다.이 같은 결과에 대해 CNBC는 “수집가들이 인공지능(AI) 붐과 관련된 유물이나 수집품에 입찰하려 한다는 사실을 잘 보여준다”고 평가했다.이번에 낙찰된 것은 젠슨 황이 2023년 대만 타이페이에서 열린",
-          "published": "2026-07-18T10:16:07+00:00",
+          "title": "美, AI 규제 상설 독립기구 만든다",
+          "link": "https://zdnet.co.kr/view/?no=20260719105523",
+          "summary": "[지디넷코리아]미국 정부가 인공지능(AI) 안전성 규제를 상설 독립기구 체제로 재편하는 방안을 검토한다.18일(현지시간) 블룸버그통신에 따르면 스콧 베선트 미국 재무장관이 초안 마련에 관여한 이 방안은 증권거래위원회(SEC)에 보고하는 독립 규제기구를 신설하는 내용이 핵심이다.미국 금융산업규제기구(FINRA)를 본뜬 구조로 현재 수지 와일스 백악관 비서실장이 검토하고 있다.이번 방안이 나온 건 최근 미국 정부의 사안별 규제 방식에 실리콘밸리가 반발하면서다. 앤트로픽은 지난달 수출통제로 '클로드 페이블5'와 '클로드 미토스5'를 일시 비활성화했고 오픈AI도 정부 요청에 따라 최신 모델 'GPT-5.6 솔'을 출시 전 대폭 수정했다. 두 회사는 이같은 조치가 당국이 지목한 안전성 문제에 비해 지나치다며 반발해 왔다.신설 기구는 정부와 업계가 안전 기준을 함께 만드는 방식이다. 사이버보안 위험을 줄이려는 월가와 일관된 규제를 바라는 실리콘밸리의 요구를 한꺼번에 풀겠다는 구상이다. 이는 앞",
+          "published": "2026-07-19T02:46:40+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 10,
           "score_breakdown": {
             "keyword": 5,
             "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "미 의회, 트럼프 행정부에 중국산 메모리 금지 촉구...애플 도입에 '제동' - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KdVhzbXFZWnhaWmhzdmQ5MmQ2N1pSQkpXUXNrQ2U2blhfVDhtdWRLbDBpOGNIanM0bXdBOXI2LWtJTnJnTXBWWjBELWJjYkFYdldubjhsakd4WWg2cVlaRlhVM3Y3R1g4Unc?oc=5",
-          "summary": "미 의회, 트럼프 행정부에 중국산 메모리 금지 촉구...애플 도입에 '제동' &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-18T02:32:10+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
             "regulation"
-          ]
-        },
-        {
-          "title": "인니, AI 규제 담은 저작권법 개정 추진…구글 \"혁신 저해\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11Q3A1R0NPM1REeGFnUlNuUFFLYk9sYUh3a2N3MkNsb25qWWhYempMaWdrdHE3a3lMdzFYdWx0Wl9qbUxOR0I4SnVfT3VHVm1XeGc?oc=5",
-          "summary": "인니, AI 규제 담은 저작권법 개정 추진…구글 \"혁신 저해\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-18T02:50:23+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "China Dismisses Claim that It Illicitly Extracts Foreign AI Tech",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-18/china-dismisses-claim-that-it-illicitly-extracts-foreign-ai-tech",
-          "summary": "China brushed off allegations that the country distills foreign technology, after US firms including Anthropic PBC said Chinese rivals illicitly extract results from top American models to advance their own capabilities.",
-          "published": "2026-07-18T02:59:20+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "애플, 美 법무부와 '슈퍼앱' 반독점 소송 합의 시도",
-          "link": "https://zdnet.co.kr/view/?no=20260718131548",
-          "summary": "[지디넷코리아]애플이 ‘슈퍼앱’을 비롯한 아이폰 관련 반독점 소송을 합의로 마무리하기 위해 미국 법무부와 협상을 진행하고 있다고 블룸버그가 17일(현지시간) 보도했다.이번 소송은 지난 2024년 미국 법무부 제소로 시작됐다. 당시 법무부 소송에서 제기한 쟁점은 크게 네 가지였다.첫째. '슈퍼 앱' 제한둘째. 폐쇄적인 메시징 서비스셋째. 클라우드 스트리밍 차단넷째. 타사 디지털 지갑 및 스마트워치 연동 제한법무부는 애플의 이 같은 행위가 미국 독점금지법 위반에 해당된다고 판단하고 있다. 슈퍼앱이란 중국 위챗처럼 하나의 앱 안에 메시징, 결제, 금융 등 다양한 미니 앱(기능)을 모아둔 통합 플랫폼을 의미한다. 애플이 슈퍼앱을 제한하는 것은 자사 앱스토어 영향력 저해를 우려한 때문이란 것이 법무부의 생각이다.또 법무부는 애플이 자사 서비스인 아이메시지 사용 독려를 위해 인스턴트 메신저 기능을 저하시켰다고 주장했다. 이와 함께 애플이 애플워치가 애플 이외 기기들과 호환되지 않도록 한 부분에",
-          "published": "2026-07-18T04:15:59+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Chinese chip start-up Biren bets on light-based ‘supernodes’ to match Nvidia",
-          "link": "https://www.scmp.com/tech/tech-war/article/3361040/chinese-chip-start-biren-bets-light-based-supernodes-match-nvidia?utm_source=rss_feed",
-          "summary": "Chinese semiconductor design firm Biren Technology has unveiled its next-generation “supernode” solutions – systems designed to link thousands of AI chips across a single cluster – by using optical data transmission to bypass current hardware limits. The launch underscores how these highly connected server systems have become one of the latest battlegrounds for AI infrastructure companies. The industry is currently racing to scale up raw computing power as artificial intelligence models advance.",
-          "published": "2026-07-18T08:00:23+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "올가을 애플워치12, 달라지는 4가지",
-          "link": "https://zdnet.co.kr/view/?no=20260718062848",
-          "summary": "[지디넷코리아]애플이 올 가을 공개할 예정인 차세대 스마트워치 애플워치 시리즈12에 새로운 프로세서와 배터리 성능 개선, 건강 기능 강화 등이 적용될 것으로 전망된다.IT매체 나인투파이브맥은 그 동안 나온 각종 전망과 유출 정보를 종합해 애플워치 시리즈12의 주요 변화 네 가지를 최근 소개했다.1. 새로운 칩애플워치 시리즈9·10·11은 기본적으로 동일한 칩을 사용했으나, 올해 출시될 애플워치 시리즈12에는 새로운 칩이 적용될 것으로 알려졌다.IT매체 맥월드는 2025년 여름 2026년형 애플워치가 하드웨어 측면에서 큰 도약이 이뤄질 것이라고 보도했다. 2026년 애플워치 제품군은 GPS 및 셀룰러 모델의 애플워치 시리즈12와 애플워치 울트라4(N237·N238·N240)로 구성되며, 새로운 T8320 프로세서를 탑재할 것으로 예상된다. 기존 S9·S10·S11 칩은 모두 동일한 T8310 프로세서를 사용한 만큼 차세대 모델은 완전히 재설계된 칩일 가능성이 높다는 게 해당 매체의 분",
-          "published": "2026-07-18T01:18:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
           ]
         }
       ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
