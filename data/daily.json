@@ -1,43 +1,146 @@
 {
-  "generated_at": "2026-07-19T21:56:56.178487+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-07-20T22:02:59.451522+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "S&P Slips as Apple, Tesla Keep Broader Chipmaker Gains in Check",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
+          "summary": "The S&amp;P 500 Index erased early gains to finish lower as a decline in Apple Inc. and Tesla Inc. offset advances elsewhere. Chipmakers rebounded ahead of a deluge of earnings reports that will test whether Big Tech’s profits can match high expectations.",
+          "published": "2026-07-20T13:41:52+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "\"스페이스X 공매도 투자자들, 50억 달러 수익\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laHR5N2ZUclI5N2ZRLTVWUjFQVnFEWE93VWpuZjc1Ni1iWUVFS1RuTG9fdUt5Tkg0ejYxem45QmVoSUN3NXdwaDFwU2IzZXUtTVZ0bmFWUEhyLWZmMGVjcDRVeDQzcm5obXY0eGN3Wmk?oc=5",
+          "summary": "\"스페이스X 공매도 투자자들, 50억 달러 수익\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-19T23:10:31+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "배 부총리 \"누리호 연 1회 발사로는 2035년 저궤도 위성 통신망 구축 어려워\"",
+          "link": "https://zdnet.co.kr/view/?no=20260720180814",
+          "summary": "[지디넷코리아]\"오는 2035년까지 저궤도위성(LEO) 통신 망을 구축하기 위해서는 누리호 연 1회 발사로는 어려울 것이다.\"취임 1년을 갓 넘긴 배경훈 부총리 겸 과학기술정보통신부장관은 20일 세종 과학기술정보통신부 4층 복합커뮤니티에서 열린 기자간담회에서 이같이 언급했다.이날 진행된 기자간담회는 전반적인 설명과 질문이 AI에 집중됐다. 과학기술 관련해서 김 부총리 설명과 기자단 질문 및 대답을 중심으로 정리했다.배 부총리는\"저궤도 위성 통신을 완성하기 위해서는 대략 200개 이상 위성을 쏘아 올려야하한다. 위성 자체적인 경쟁력 뿐 아니라 발사체 발사 횟수와 탑재 능력도 골고루 갖춰야 할 것\"이라며 \"그런 역량을 갖춰 나가고 있다\"고 언급했다.실제 지난해 우주항공청이 발사한 누리호 4차에서는 탑재위성이 총 13기의 주탑재 및 큐브위성이 올라갔다. 올해 하반기 발사될 누리호 5차에선 총 15기가 탑재된다. 무게로 보면 대략 1톤 정도다. 반면 미국 스페이스X 팰콘9은 저궤도에 위성 ",
+          "published": "2026-07-20T09:08:14+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 7,
+      "count": 8,
       "articles": [
         {
-          "title": "Why Apple’s OpenAI Lawsuit Doesn’t Mention Jony Ive; AI Recording at Genius Bar",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-19/why-apple-s-openai-lawsuit-doesn-t-mention-jony-ive-ai-recording-at-genius-bar-mrrv4mix",
-          "summary": "Also: The company tries out AI recording for Genius Bar appointments.",
-          "published": "2026-07-19T14:00:01+00:00",
+          "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
+          "summary": "Moonshot’s release is forcing Silicon Valley to reconsider long-held assumptions",
+          "published": "2026-07-20T10:30:02+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
             "source": 3,
             "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree",
+          "summary": "For Larry Fink, BlackRock Inc.’s more than $12 billion debt sale for a Meta Platforms Inc. data center is the result of years spent transforming a public investments giant into a heavy hitter in private markets too.",
+          "published": "2026-07-20T21:20:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "m_and_a"
           ]
         },
         {
-          "title": "Alibaba’s Qwen Unveils Preview of Flagship AI Model",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-19/alibaba-s-qwen-unveils-preview-of-flagship-ai-model",
-          "summary": "Alibaba Group Holding Ltd. launched a preview version of its flagship Qwen3.8 Max model, which it described as comparable to leading frontier AI models and second only to Anthropic PBC’s Fable 5.",
-          "published": "2026-07-19T11:02:09+00:00",
+          "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
+          "summary": "Shares of Google owner Alphabet Inc. gained on a report that the company is developing a server chip designed to optimize its Gemini artificial intelligence model.",
+          "published": "2026-07-20T13:22:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
+          "summary": "Z.AI has completed construction of a giant data center that houses only Chinese-made chips, a big step in Beijing’s efforts to replace restricted Nvidia Corp. silicon for future AI development.",
+          "published": "2026-07-20T15:02:36+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -54,19 +157,39 @@
           "event_labels": []
         },
         {
-          "title": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEelN1M29zOFRxcHhTYXJGMENBTHZTWUQyUUtHd2F3TXVUa1NGZDBScVJWLWNZQWlLek9zOFFMYVB1SmxRMUN3RmY0S2piNUFDamJYYXlFUGg1c0dhWmpHc1ZNc0s3bnJXeFE?oc=5",
-          "summary": "\"엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-19T21:38:21+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
+          "summary": "When DeepSeek’s R1 debuted in early 2025, almost $600 billion was wiped out from Nvidia Corp.’s market value in a single day on fears that artificial intelligence would require less computing power than previously expected. Moonshot AI’s release of Kimi K3 on Friday triggered a similar reaction, helping push semiconductor stocks sharply lower.",
+          "published": "2026-07-20T04:50:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Snap Nears Settlement of Addiction Case Ahead of Jury Trial",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/snap-nears-settlement-of-addiction-case-ahead-of-jury-trial",
+          "summary": "Snap Inc. said it has reached a tentative agreement to settle the second case set for trial over claims that the world’s largest social media platforms are addictive to minors, leaving only Meta Platforms Inc. to face a jury starting next week in Los Angeles.",
+          "published": "2026-07-20T19:27:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -74,32 +197,12 @@
           "event_labels": []
         },
         {
-          "title": "Alibaba says newest Qwen AI model is second only to Anthropic’s Claude Fable 5",
-          "link": "https://www.scmp.com/tech/article/3361119/alibaba-says-newest-qwen-ai-model-second-only-anthropics-claude-fable-5?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding has previewed its next-generation artificial intelligence model Qwen3.8, which the company says is “second only” to Anthropic’s Claude Fable 5. Qwen3.8-Max-Preview, the preview version of the strongest model of the Qwen family, had been made available on Alibaba’s Token Plan subscription service, as well as its Qoder and QoderWork agentic platforms, the Chinese tech giant said on an official X post on Sunday. With 2.4 trillion parameters, it was “one of the most powerful...",
-          "published": "2026-07-19T13:20:24+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Amazon Web Services bets on 'one-person unicorns' with new accelerator for Chinese founders",
-          "link": "https://www.scmp.com/presented/tech/topics/generative-ai-and-cloud-services/article/3360886/amazon-web-services-bets-one-person-unicorns-new-accelerator-chinese-founders?utm_source=rss_feed",
-          "summary": "[The content of this article has been produced by our advertising partner.] Amazon Web Services (AWS) has launched a flagship accelerator programme aimed at Chinese-speaking entrepreneurs, betting that artificial intelligence has ushered in an era in which a single founder with a laptop can build a global company.The programme, called From Idea to Frontier, will select up to 100 early-stage teams from applicants across the mainland, Hong Kong and overseas Chinese communities, offering them AWS..",
-          "published": "2026-07-19T16:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "반도체 사이클 가르는 분수령…구글 실적따라 주가 출렁일 듯 [동여의도 위클리] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BTnhxTlc4RTlfUHpxU1UzMlZVN3ZvZzhFWGVsTktvM0tWZWlPeUNMQWdjM053WUQtMmFCd0ROZjBhNjl2UzJmWjktQkZRakUtMVB3OHF3?oc=5",
+          "summary": "반도체 사이클 가르는 분수령…구글 실적따라 주가 출렁일 듯 [동여의도 위클리] &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-20T09:30:47+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -107,47 +210,29 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "에이피알, 아마존 물류 사장단에 스마트팩토리 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260719103611",
-          "summary": "[지디넷코리아]에이피알이 아마존 글로벌 물류·공급망 부문 경영진에게 스마트팩토리와 물류 시스템을 공개했다. 글로벌 K뷰티 수요 확대에 대응하기 위한 생산 내재화와 물류 자동화 경쟁력을 소개하며 공급망 협력 기반을 강화한다는 취지다.에이피알은 최근 아마존 글로벌 물류 운영 및 공급망 전략(FBA) 부문 핵심 경영진이 경기 평택시 '에이피알팩토리 제2캠퍼스'를 방문했다고 19일 밝혔다.이번 방문에는 피유시 사라우기(Piyush Saraogi) 아마존 글로벌 FBA 총괄 사장을 비롯한 글로벌 공급망 전략 부문 사장단이 참석했다.아마존 경영진은 SMT(표면실장기술) 공정과 조립·검사 라인, 2개 층 규모의 물류센터를 둘러보며 생산 설비와 물류 자동화 시스템을 확인했다. 특히 메디큐브 뷰티 디바이스의 제조 공정과 스마트팩토리 기반 자동화 시스템, 생산부터 물류까지 직접 운영하는 통합 체계에 관심을 보였다고 회사 측은 설명했다.에이피알은 글로벌 K뷰티 수요 증가에 대응하기 위해 생산 내재화와 ",
-          "published": "2026-07-19T01:37:09+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "BlackRock Eyes More Than $12 Billion Debt for Data Center",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-eyes-more-than-12-billion-debt-for-data-center",
+          "summary": "BlackRock Inc. is looking to sell more than $12 billion of bonds to help finance a Meta Platforms Inc. data center campus in El Paso, Texas, according to people with knowledge of the transaction, the latest in a string of debt deals fueling tech companies’ massive investments in artificial intelligence.",
+          "published": "2026-07-20T14:33:53+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[ZD브리핑] 삼성 언팩, 여권형 폴드 공개...국민이 원하는 부동산 세제 개편은",
-          "link": "https://zdnet.co.kr/view/?no=20260719122204",
-          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]삼성전자가 22일(현지시간) 영국 런던에서 개최하는 '갤럭시 언팩'에서 폴더블폰 신제품 3종을 공개합니다. 한국시간으로는 22일 오후 10시입니다. 삼성전자 폴더블폰 신제품은 기존 북 타입 갤럭시Z폴드8, 클램셸 타입 Z플립8, 그리고 여권 형태 '와이드폴드' 등 3종으로 구성됩니다. 와이드폴드는 라인업에 추가된 모델입니다. 와이드폴드는 애플이 올해 처음 출시할 폴더블 제품과 유사한 형태로 예상됩니다. 폴더블 패널 화면 주름을 줄이기 위해 삼성전자는 새로운 기술도",
-          "published": "2026-07-19T03:41:07+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -160,18 +245,18 @@
       "count": 1,
       "articles": [
         {
-          "title": "국회 문턱 못 넘은 디지털자산법…하반기 논의도 '험로' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9INDREbTBDSEk3QUIwTkQwVzc1V1lOSTlFZ3d3Wm1YQ0xueEZSdWlzQ2RuTk55OXlZdkgydlgyQWV4dW90bVU3TVBGcTlHdGdoM0E?oc=5",
-          "summary": "국회 문턱 못 넘은 디지털자산법…하반기 논의도 '험로' &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-19T20:53:01+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "China’s AI models have Trump’s AI world at war with itself",
+          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
+          "published": "2026-07-20T18:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -183,29 +268,87 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "美, AI 규제 상설 독립기구 만든다",
-          "link": "https://zdnet.co.kr/view/?no=20260719105523",
-          "summary": "[지디넷코리아]미국 정부가 인공지능(AI) 안전성 규제를 상설 독립기구 체제로 재편하는 방안을 검토한다.18일(현지시간) 블룸버그통신에 따르면 스콧 베선트 미국 재무장관이 초안 마련에 관여한 이 방안은 증권거래위원회(SEC)에 보고하는 독립 규제기구를 신설하는 내용이 핵심이다.미국 금융산업규제기구(FINRA)를 본뜬 구조로 현재 수지 와일스 백악관 비서실장이 검토하고 있다.이번 방안이 나온 건 최근 미국 정부의 사안별 규제 방식에 실리콘밸리가 반발하면서다. 앤트로픽은 지난달 수출통제로 '클로드 페이블5'와 '클로드 미토스5'를 일시 비활성화했고 오픈AI도 정부 요청에 따라 최신 모델 'GPT-5.6 솔'을 출시 전 대폭 수정했다. 두 회사는 이같은 조치가 당국이 지목한 안전성 문제에 비해 지나치다며 반발해 왔다.신설 기구는 정부와 업계가 안전 기준을 함께 만드는 방식이다. 사이버보안 위험을 줄이려는 월가와 일관된 규제를 바라는 실리콘밸리의 요구를 한꺼번에 풀겠다는 구상이다. 이는 앞",
-          "published": "2026-07-19T02:46:40+00:00",
+          "title": "지슨 \"AI 해킹 시대…보안 사각 '무선 백도어' 대응 필요\"",
+          "link": "https://zdnet.co.kr/view/?no=20260720173846",
+          "summary": "[지디넷코리아]무선 물리보안 전문 기업 지슨(대표 한동진)이 인공지능(AI)발 사이버 위협에 대응하기 위해 기존 보안 체계는 물론 보안 사각지대인 무선 전파 영역까지 철저히 통제하는 입체적 방어 체계의 필요성이 있다고 주장했다.지슨은 20일 앤트로픽의 프론티어 AI 모델 '미토스(Mythos)'의 등장에 따라 AI로 네트워크 및 소프트웨어의 취약점을 빠르게 찾아내고 실제 공격에 악용하는 속도가 빨라진 만큼, 비인가 무선 백도어 해킹에 대한 위협도 커질 것으로 경고했다. 기업 및 조직들이 AI발 공격에 대응하기 위해 네트워크 및 소프트웨어 보안 체계를 강화함에 따라 공격자들이 '빈틈'이 될 수 있는 무선 백도어 해킹 등 위협을 고도화할 가능성이 커졌기 때문이다.무선 백도어 해킹 공격은 기존 네트워크 방어선을 피해 스파이칩 등을 매개로 공격을 시도하는 공격을 말한다. 이는 기존 네트워크 보안 체계를 한순간에 무력화할 수 있으며, 공격자들이 네트워크 침투에 대한 난도가 높아짐에 따라 이같",
+          "published": "2026-07-20T12:20:14+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
+        },
+        {
+          "title": "브룩필드 찾는 네이버 이해진·최수연…AI 조단위 투자 유치하나",
+          "link": "https://zdnet.co.kr/view/?no=20260720172121",
+          "summary": "[지디넷코리아]이해진 창업자와 최수연 대표를 포함한 네이버 최고경영진이 글로벌 대체자산 운용사 브룩필드의 캐나다 본사를 방문한다. 이를 통해 네이버는 데이터센터 등 인공지능(AI) 팩토리 구축에 필요한 자금을 수혈할 것으로 보인다.20일 IT업계에 따르면 이 의장과 최 대표는 이번 주 초 캐나다 토론토에 있는 브룩필드 본사를 방문할 계획이다. 이번 방문에는 김희철 네이버 최고재무책임자(CFO)와 관련 계열사 주요 임원도 동행한다.이번 방문에서 네이버 경영진은 브룩필드 최고위급 인사들을 만나 데이터센터를 포함한 AI 팩토리 구축에 필요한 대규모 투자와 자금 조달 방안을 집중적으로 협의할 전망이다. 업계 내에서는 최소 조 단위의 투자가 이뤄질 것으로 보고 있다.AI 팩토리는 그래픽처리장치(GPU) 서버와 데이터센터, 전력·냉각 설비 등 물리적 기반 위에 AI 모델과 클라우드 기술을 통합해 대규모 연산 능력을 제공하는 시설을 뜻한다.브룩필드는 캐나다에 본사를 둔 운용사로 인프라와 재생에너",
+          "published": "2026-07-20T08:46:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"대학생팀 vs AI 금융보안 대결\"...금보원 캠프 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260720174652",
+          "summary": "[지디넷코리아]금융보안원(원장 박상원)이 20~22일 2박 3일간 경기도 용인 카카오 AI 캠퍼스에서 대학(원)생을 대상으로 '2026년 금융보안 AI 아카데미 캠프'를 개최한다.금융권 전반에 생성형AI 도입이 빠르게 확산하면서 AI 서비스 안전성, 신뢰성을 검증할 수 있는 ‘AI 레드티밍(Red Teaming)' 역량을 갖춘 전문 인재를 조기에 발굴 및 양성하기 위해 마련됐다. AI레드티밍은 공격자 관점에서 AI 모델의 취약점을 능동적으로 찾아내 안전성을 검증하는 활동을말한다.정보보호 및 AI 관련 학과 대학(원)생을 대상으로 참가자를 모집했고, 전국 27개 대학에서 높은 관심을 보이며 지원했다. AI 레드티밍 실전 대회를 중심으로 이론 및 실습 등 3일간의 밀도 높은 교육이 이뤄진다.캠프 1일차에서는 ▲AI 레드티밍 이해 ▲공격 기법과 실습 ▲금융특화 레드티밍 시나리오 등의 특강을 통해 다양한 공격 기법을 직접 실습하며 실전 감각을 익힌다. 2일차에서는 캠프 하이라이트인 ‘AI ",
+          "published": "2026-07-20T08:46:52+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다",
+          "link": "https://zdnet.co.kr/view/?no=20260720180732",
+          "summary": "[지디넷코리아]군 지휘통제 현장에 국방 특화 인공지능(AI)을 직접 투입하는 242억원 규모 국방 거대언어모델(LLM) 사업에 나설 민간 기업이 이르면 이달 가려진다. 20일 업계에 따르면 국방부가 발주한 '초거대 인공지능 기반 지휘통제체계 기술 개발 사업'은 LIG 디펜스&amp;에어로스페이스(D&amp;A)와 한화시스템을 각각 주축으로 한 두 컨소시엄이 지원했다. 제안서 평가가 진행 중인 가운데 LIG D&amp;A 컨소시엄에는 삼성SDS·SK텔레콤·LG AI연구원 등이, 한화시스템 컨소시엄에는 네이버클라우드 등이 참여 중인 것으로 알려졌다.주사업자인 LIG D&amp;A와 한화시스템이 사업 전반과 지휘통제체계 적용·통합을 이끌고 나머지 참여사들이 AI 모델과 데이터·클라우드 플랫폼 영역에서 역할을 나눠 맡는 구조다. 다만 두 컨소시엄 모두 모델 플랫폼을 구축하는 과정에서는 LG AI연구원의 '엑사원'을 활용할 것으로 전해졌다. 이번 사업은 오는 9월부터 2030년 2월까지 42",
+          "published": "2026-07-20T09:09:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
