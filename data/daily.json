@@ -1,68 +1,26 @@
 {
-  "generated_at": "2026-07-20T22:02:59.451522+00:00",
-  "total_articles": 16,
+  "generated_at": "2026-07-21T22:05:45.599287+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "S&P Slips as Apple, Tesla Keep Broader Chipmaker Gains in Check",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/us-stocks-rebound-from-selloff-as-nvidia-other-chipmakers-rise",
-          "summary": "The S&amp;P 500 Index erased early gains to finish lower as a decline in Apple Inc. and Tesla Inc. offset advances elsewhere. Chipmakers rebounded ahead of a deluge of earnings reports that will test whether Big Tech’s profits can match high expectations.",
-          "published": "2026-07-20T13:41:52+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
+          "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start putting its money where its mouth is.",
+          "published": "2026-07-21T10:32:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
             "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "\"스페이스X 공매도 투자자들, 50억 달러 수익\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laHR5N2ZUclI5N2ZRLTVWUjFQVnFEWE93VWpuZjc1Ni1iWUVFS1RuTG9fdUt5Tkg0ejYxem45QmVoSUN3NXdwaDFwU2IzZXUtTVZ0bmFWUEhyLWZmMGVjcDRVeDQzcm5obXY0eGN3Wmk?oc=5",
-          "summary": "\"스페이스X 공매도 투자자들, 50억 달러 수익\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-19T23:10:31+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "배 부총리 \"누리호 연 1회 발사로는 2035년 저궤도 위성 통신망 구축 어려워\"",
-          "link": "https://zdnet.co.kr/view/?no=20260720180814",
-          "summary": "[지디넷코리아]\"오는 2035년까지 저궤도위성(LEO) 통신 망을 구축하기 위해서는 누리호 연 1회 발사로는 어려울 것이다.\"취임 1년을 갓 넘긴 배경훈 부총리 겸 과학기술정보통신부장관은 20일 세종 과학기술정보통신부 4층 복합커뮤니티에서 열린 기자간담회에서 이같이 언급했다.이날 진행된 기자간담회는 전반적인 설명과 질문이 AI에 집중됐다. 과학기술 관련해서 김 부총리 설명과 기자단 질문 및 대답을 중심으로 정리했다.배 부총리는\"저궤도 위성 통신을 완성하기 위해서는 대략 200개 이상 위성을 쏘아 올려야하한다. 위성 자체적인 경쟁력 뿐 아니라 발사체 발사 횟수와 탑재 능력도 골고루 갖춰야 할 것\"이라며 \"그런 역량을 갖춰 나가고 있다\"고 언급했다.실제 지난해 우주항공청이 발사한 누리호 4차에서는 탑재위성이 총 13기의 주탑재 및 큐브위성이 올라갔다. 올해 하반기 발사될 누리호 5차에선 총 15기가 탑재된다. 무게로 보면 대략 1톤 정도다. 반면 미국 스페이스X 팰콘9은 저궤도에 위성 ",
-          "published": "2026-07-20T09:08:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -75,10 +33,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Moonshot AI’s Kimi K3 Stuns Investors, Challenges Anthropic, OpenAI Lead",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-20/moonshot-ai-s-kimi-k3-stuns-investors-challenges-anthropic-openai-lead",
-          "summary": "Moonshot’s release is forcing Silicon Valley to reconsider long-held assumptions",
-          "published": "2026-07-20T10:30:02+00:00",
+          "title": "OpenAI’s Agents Reach 10 Million Users After ChatGPT Work Debut",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
+          "summary": "OpenAI has seen a sharp uptick in demand for its artificial intelligence agents since its recent release of ChatGPT Work, providing new momentum in its bid to keep pace with rival Anthropic PBC.",
+          "published": "2026-07-21T12:55:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -95,32 +53,32 @@
           "event_labels": []
         },
         {
-          "title": "BlackRock’s Meta Deal to Show the Power of $25 Billion M&A Spree",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-s-meta-deal-to-show-the-power-of-25-billion-m-a-spree",
-          "summary": "For Larry Fink, BlackRock Inc.’s more than $12 billion debt sale for a Meta Platforms Inc. data center is the result of years spent transforming a public investments giant into a heavy hitter in private markets too.",
-          "published": "2026-07-20T21:20:46+00:00",
+          "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo",
+          "summary": "OpenAI has appointed two financial services executives to its board of directors, drawing on their experience as the company moves toward a Wall Street debut.",
+          "published": "2026-07-21T20:07:29+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "funding"
           ]
         },
         {
-          "title": "Google Shares Gain on Report of Chip to Boost AI Efficiency",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/google-plans-new-chip-to-boost-ai-efficiency-information-says",
-          "summary": "Shares of Google owner Alphabet Inc. gained on a report that the company is developing a server chip designed to optimize its Gemini artificial intelligence model.",
-          "published": "2026-07-20T13:22:04+00:00",
+          "title": "Google Expands in Miami After Its Billionaire Founders Buy Homes",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes",
+          "summary": "Alphabet Inc., has more than quadrupled its office space in Miami this year shortly after co-founders Larry Page and Sergey Brin bought homes in the area.",
+          "published": "2026-07-21T14:05:49+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -137,10 +95,52 @@
           "event_labels": []
         },
         {
-          "title": "Z.AI Completes Giant Data Center With Chinese Chips to Train AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/z-ai-completes-giant-data-center-with-chinese-chips-to-train-ai",
-          "summary": "Z.AI has completed construction of a giant data center that houses only Chinese-made chips, a big step in Beijing’s efforts to replace restricted Nvidia Corp. silicon for future AI development.",
-          "published": "2026-07-20T15:02:36+00:00",
+          "title": "OpenAI Says Its AI Caused Hugging Face Cyber Breach",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
+          "summary": "OpenAI said its artificial intelligence models were able to compromise the internal systems of startup Hugging Face Inc., offering an early glimpse of how AI systems could fuel new cybersecurity threats.",
+          "published": "2026-07-21T19:51:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Amazon’s Portal for Business Nears $60 Billion in Revenue",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/amazon-e-commerce-portal-for-business-nears-60-billion-in-sales",
+          "summary": "Amazon.com Inc.’s business sales unit was recently on track to sell $60 billion of merchandise over the course of a full year, up about 71% from 2023, evidence that the world’s largest online retailer is gaining ground in corporate sales.",
+          "published": "2026-07-21T13:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Nvidia Touts Progress Getting New Rubin Design to Customers",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
+          "summary": "Nvidia Corp., the semiconductor company at the heart of the artificial intelligence boom, said its latest chip designs are making their way to customers and will help solidify the chipmaker’s leadership in the industry.",
+          "published": "2026-07-21T15:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -157,81 +157,39 @@
           "event_labels": []
         },
         {
-          "title": "Moonshot’s Kimi K3 May Be More About Memory Than Compute",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/moonshot-s-kimi-k3-may-be-more-about-memory-than-compute",
-          "summary": "When DeepSeek’s R1 debuted in early 2025, almost $600 billion was wiped out from Nvidia Corp.’s market value in a single day on fears that artificial intelligence would require less computing power than previously expected. Moonshot AI’s release of Kimi K3 on Friday triggered a similar reaction, helping push semiconductor stocks sharply lower.",
-          "published": "2026-07-20T04:50:13+00:00",
+          "title": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
+          "summary": "OpenAI Chief Executive Officer Sam Altman plans to brief the Trump administration and US lawmakers next week on the upcoming generation of artificial intelligence models as the US works to create a process to review the safety of cutting-edge AI systems, according to a senior company executive.",
+          "published": "2026-07-21T15:35:53+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "China’s Kimi K3 fuels fears safety curbs are holding back US AI",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3361358/chinas-kimi-k3-fuels-fears-safety-curbs-are-holding-back-us-ai?utm_source=rss_feed",
+          "summary": "Chinese unicorn Moonshot AI’s new Kimi K3 model rivals top US systems in spotting cybersecurity flaws, according to early research, stoking fears in Washington that strict safety guard rails are putting American artificial intelligence firms at a competitive disadvantage. The 2.8 trillion-parameter open-weight model, released last week, offers cybersecurity performance “extremely close” to OpenAI’s flagship GPT-5.6 Sol at a fraction of the cost, Swiss firm Aikido Security said in a report on...",
+          "published": "2026-07-21T14:00:14+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Snap Nears Settlement of Addiction Case Ahead of Jury Trial",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/snap-nears-settlement-of-addiction-case-ahead-of-jury-trial",
-          "summary": "Snap Inc. said it has reached a tentative agreement to settle the second case set for trial over claims that the world’s largest social media platforms are addictive to minors, leaving only Meta Platforms Inc. to face a jury starting next week in Los Angeles.",
-          "published": "2026-07-20T19:27:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "반도체 사이클 가르는 분수령…구글 실적따라 주가 출렁일 듯 [동여의도 위클리] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BTnhxTlc4RTlfUHpxU1UzMlZVN3ZvZzhFWGVsTktvM0tWZWlPeUNMQWdjM053WUQtMmFCd0ROZjBhNjl2UzJmWjktQkZRakUtMVB3OHF3?oc=5",
-          "summary": "반도체 사이클 가르는 분수령…구글 실적따라 주가 출렁일 듯 [동여의도 위클리] &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-20T09:30:47+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "BlackRock Eyes More Than $12 Billion Debt for Data Center",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-20/blackrock-eyes-more-than-12-billion-debt-for-data-center",
-          "summary": "BlackRock Inc. is looking to sell more than $12 billion of bonds to help finance a Meta Platforms Inc. data center campus in El Paso, Texas, according to people with knowledge of the transaction, the latest in a string of debt deals fueling tech companies’ massive investments in artificial intelligence.",
-          "published": "2026-07-20T14:33:53+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -242,23 +200,68 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 3,
       "articles": [
         {
-          "title": "China’s AI models have Trump’s AI world at war with itself",
-          "link": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until&#8230;",
-          "published": "2026-07-20T18:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "Robinhood Prediction Market Revenue to Top Crypto: Analysts",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say",
+          "summary": "Trading platform Robinhood Markets Inc.’s revenue from prediction market is set to overshadow that from cryptocurrency trading, starting as soon as the second quarter, analysts at Bernstein and Piper Sandler said this week.",
+          "published": "2026-07-21T19:40:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 6,
+            "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "한화, 美 토큰화 기업 '시큐리타이즈' 최대주주였다…\"재무적 투자 목적\"",
+          "link": "https://zdnet.co.kr/view/?no=20260721165506",
+          "summary": "[지디넷코리아]한화그룹 계열사 세 곳이 미국 토큰화 인프라 기업 시큐리타이즈(Securitize)의 주요 주주인 것으로 확인됐다. 다만, 이번 지분 확보는 재무적 투자 성격으로 향후 지분 매각 가능성도 나온다. 21일 미국 증권거래위원회(SEC) 공시에 따르면, 한화그룹이 보유한 시큐리타이즈 주식은 총 1568만 9509주로 전체 지분의 9.6%를 차지한다.시큐리타이즈는 금융사가 주식·채권·펀드 등 실물연계자산(RWA)을 블록체인에서 발행·관리·유통할 수 있도록 지원하는 토큰화 인프라 기업이다. 블랙록의 토큰화 미국 국채 펀드인 비들(BUIDL)의 발행·운영 파트너로 잘 알려져 있다. 회사는 지난 2일(현지시간) 뉴욕증권거래소에 상장했다.한화그룹은 계열사를 통해 시큐리타이즈 지분을 분산 보유하고 있다. 한화자산운용의 사모펀드인 ‘한화 라이프스타일 프라이빗펀드2’가 5.90%, 싱가포르 투자법인 ‘H Foundation Pte. Ltd.’가 3.10%, 한화투자증권이 0.61%를 각각",
+          "published": "2026-07-21T08:01:39+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "funding"
+          ]
+        },
+        {
+          "title": "Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line",
+          "summary": "Crypto markets are stirring after months of listless trading on signs that Washington is moving toward a clearer rulebook for digital assets.",
+          "published": "2026-07-21T14:52:34+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -268,41 +271,21 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
-          "title": "지슨 \"AI 해킹 시대…보안 사각 '무선 백도어' 대응 필요\"",
-          "link": "https://zdnet.co.kr/view/?no=20260720173846",
-          "summary": "[지디넷코리아]무선 물리보안 전문 기업 지슨(대표 한동진)이 인공지능(AI)발 사이버 위협에 대응하기 위해 기존 보안 체계는 물론 보안 사각지대인 무선 전파 영역까지 철저히 통제하는 입체적 방어 체계의 필요성이 있다고 주장했다.지슨은 20일 앤트로픽의 프론티어 AI 모델 '미토스(Mythos)'의 등장에 따라 AI로 네트워크 및 소프트웨어의 취약점을 빠르게 찾아내고 실제 공격에 악용하는 속도가 빨라진 만큼, 비인가 무선 백도어 해킹에 대한 위협도 커질 것으로 경고했다. 기업 및 조직들이 AI발 공격에 대응하기 위해 네트워크 및 소프트웨어 보안 체계를 강화함에 따라 공격자들이 '빈틈'이 될 수 있는 무선 백도어 해킹 등 위협을 고도화할 가능성이 커졌기 때문이다.무선 백도어 해킹 공격은 기존 네트워크 방어선을 피해 스파이칩 등을 매개로 공격을 시도하는 공격을 말한다. 이는 기존 네트워크 보안 체계를 한순간에 무력화할 수 있으며, 공격자들이 네트워크 침투에 대한 난도가 높아짐에 따라 이같",
-          "published": "2026-07-20T12:20:14+00:00",
+          "title": "카카오엔터프라이즈, 노사 협상 타결⋯임금인상률 '5%대' 합의",
+          "link": "https://zdnet.co.kr/view/?no=20260721170714",
+          "summary": "[지디넷코리아]카카오엔터프라이즈 노사가 올해 임금·단체협약 교섭을 마무리했다. 임금 인상뿐 아니라 고용 불안 해소와 회사의 장기 비전과 관련한 협의도 진전을 이뤘다.21일 업계에 따르면 카카오엔터프라이즈 노사는 올해 임금을 5% 중반대로 인상하기로 합의했다. 전날 잠정 합의안이 조합원 투표를 거쳐 가결됐으며 이날 조인식을 열고 최종 협약을 체결했다.이번 교섭에선 임금 인상률과 함께 회사의 중장기 사업 방향과 고용 안정 방안 등이 주요 의제로 다뤄진 것으로 알려졌다. 구체적인 합의 내용과 임금 인상 적용 방식은 공개되지 않았다.카카오엔터프라이즈를 포함한 카카오 계열사 노사는 지난 5월 임금·단체협약 교섭이 결렬된 뒤 경기지방노동위원회의 조정 절차를 거쳤다. 조정 중지 결정 이후 노조는 지난 6월 카카오와 카카오페이 등 계열사 조합원들과 공동 단체행동에 나섰다.카카오엔터프라이즈가 합의에 도달하면서 공동 단체행동에 참여한 계열사 중 일부는 교섭을 마무리하는 단계에 들어갔다. 카카오페이 노",
+          "published": "2026-07-21T08:13:54+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "브룩필드 찾는 네이버 이해진·최수연…AI 조단위 투자 유치하나",
-          "link": "https://zdnet.co.kr/view/?no=20260720172121",
-          "summary": "[지디넷코리아]이해진 창업자와 최수연 대표를 포함한 네이버 최고경영진이 글로벌 대체자산 운용사 브룩필드의 캐나다 본사를 방문한다. 이를 통해 네이버는 데이터센터 등 인공지능(AI) 팩토리 구축에 필요한 자금을 수혈할 것으로 보인다.20일 IT업계에 따르면 이 의장과 최 대표는 이번 주 초 캐나다 토론토에 있는 브룩필드 본사를 방문할 계획이다. 이번 방문에는 김희철 네이버 최고재무책임자(CFO)와 관련 계열사 주요 임원도 동행한다.이번 방문에서 네이버 경영진은 브룩필드 최고위급 인사들을 만나 데이터센터를 포함한 AI 팩토리 구축에 필요한 대규모 투자와 자금 조달 방안을 집중적으로 협의할 전망이다. 업계 내에서는 최소 조 단위의 투자가 이뤄질 것으로 보고 있다.AI 팩토리는 그래픽처리장치(GPU) 서버와 데이터센터, 전력·냉각 설비 등 물리적 기반 위에 AI 모델과 클라우드 기술을 통합해 대규모 연산 능력을 제공하는 시설을 뜻한다.브룩필드는 캐나다에 본사를 둔 운용사로 인프라와 재생에너",
-          "published": "2026-07-20T08:46:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -311,39 +294,19 @@
           "event_labels": []
         },
         {
-          "title": "\"대학생팀 vs AI 금융보안 대결\"...금보원 캠프 개최",
-          "link": "https://zdnet.co.kr/view/?no=20260720174652",
-          "summary": "[지디넷코리아]금융보안원(원장 박상원)이 20~22일 2박 3일간 경기도 용인 카카오 AI 캠퍼스에서 대학(원)생을 대상으로 '2026년 금융보안 AI 아카데미 캠프'를 개최한다.금융권 전반에 생성형AI 도입이 빠르게 확산하면서 AI 서비스 안전성, 신뢰성을 검증할 수 있는 ‘AI 레드티밍(Red Teaming)' 역량을 갖춘 전문 인재를 조기에 발굴 및 양성하기 위해 마련됐다. AI레드티밍은 공격자 관점에서 AI 모델의 취약점을 능동적으로 찾아내 안전성을 검증하는 활동을말한다.정보보호 및 AI 관련 학과 대학(원)생을 대상으로 참가자를 모집했고, 전국 27개 대학에서 높은 관심을 보이며 지원했다. AI 레드티밍 실전 대회를 중심으로 이론 및 실습 등 3일간의 밀도 높은 교육이 이뤄진다.캠프 1일차에서는 ▲AI 레드티밍 이해 ▲공격 기법과 실습 ▲금융특화 레드티밍 시나리오 등의 특강을 통해 다양한 공격 기법을 직접 실습하며 실전 감각을 익힌다. 2일차에서는 캠프 하이라이트인 ‘AI ",
-          "published": "2026-07-20T08:46:52+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "네이버, '본업 성장'으로 AI 투자 버틴다…2분기 영업익 8%↑ 예상 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRFBmZUp1VDFQUlhDcTBZcTluZnZJNHNFQ0pUSzd5Sjl2ZThDcUJnSld6OGZnSDZjUTJKM2lKSDktSjVQeDZCMHVrQ1g1eVNHVnBXOEJfRkxzVmxJS1F4TWhDQkVtVzVBdkI5VmRKSFM?oc=5",
+          "summary": "네이버, '본업 성장'으로 AI 투자 버틴다…2분기 영업익 8%↑ 예상 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-20T22:59:13+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "국방 LLM 개발…LIG D&A·한화시스템 컨소시엄 맞붙는다",
-          "link": "https://zdnet.co.kr/view/?no=20260720180732",
-          "summary": "[지디넷코리아]군 지휘통제 현장에 국방 특화 인공지능(AI)을 직접 투입하는 242억원 규모 국방 거대언어모델(LLM) 사업에 나설 민간 기업이 이르면 이달 가려진다. 20일 업계에 따르면 국방부가 발주한 '초거대 인공지능 기반 지휘통제체계 기술 개발 사업'은 LIG 디펜스&amp;에어로스페이스(D&amp;A)와 한화시스템을 각각 주축으로 한 두 컨소시엄이 지원했다. 제안서 평가가 진행 중인 가운데 LIG D&amp;A 컨소시엄에는 삼성SDS·SK텔레콤·LG AI연구원 등이, 한화시스템 컨소시엄에는 네이버클라우드 등이 참여 중인 것으로 알려졌다.주사업자인 LIG D&amp;A와 한화시스템이 사업 전반과 지휘통제체계 적용·통합을 이끌고 나머지 참여사들이 AI 모델과 데이터·클라우드 플랫폼 영역에서 역할을 나눠 맡는 구조다. 다만 두 컨소시엄 모두 모델 플랫폼을 구축하는 과정에서는 LG AI연구원의 '엑사원'을 활용할 것으로 전해졌다. 이번 사업은 오는 9월부터 2030년 2월까지 42",
-          "published": "2026-07-20T09:09:35+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
