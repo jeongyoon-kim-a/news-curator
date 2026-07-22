@@ -1,26 +1,90 @@
 {
-  "generated_at": "2026-07-21T22:05:45.599287+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-07-22T22:06:26.594350+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "Tesla’s Problem Is Opposite of Big Tech: Not Enough AI Spending",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/tesla-s-problem-is-opposite-of-big-tech-not-enough-ai-spending",
-          "summary": "After hearing Tesla Inc.’s seemingly countless promises about artificial intelligence, autonomous driving and robotics, Wall Street wants the company to start putting its money where its mouth is.",
-          "published": "2026-07-21T10:32:23+00:00",
+          "title": "Tesla (TSLA) Earnings: Live Q2 2026 Results, Elon Musk Comments",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-07-22/tesla-second-quarter-earnings-live-updates",
+          "summary": "",
+          "published": "2026-07-22T18:54:31+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Tesla Stock at ‘Inflection Point’ as Traders Seek AI Credibility",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/tesla-stock-at-inflection-point-as-traders-seek-ai-credibility",
+          "summary": "As Tesla Inc. is set to report results that many expect will set the tone for the company’s artificial-intelligence ambitions, analysts are scouring charts for clues on where the stock is headed.",
+          "published": "2026-07-22T18:36:07+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "뉴럴링크, 시장서 기업가치 최대 420억달러 평가…1년 만에 5배 '껑충' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsVGs0SGNKbUtRTmdydHZScWZydkd6c2Rudy1KRWhzOHgtOTR5clRQMlotbHIwNHJtRkxoNzVObmV5a0pfdkRybHBpY25xdmZMNjdCRzMxUXZPd05oU2dETDZDTTM5ZzY1NTNxV0lSelk?oc=5",
+          "summary": "뉴럴링크, 시장서 기업가치 최대 420억달러 평가…1년 만에 5배 '껑충' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-22T04:50:57+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "머스크 \"차세대 모델은 매개변수 2조개...'키미' 능가할 것\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmdVpYRUt1SmExcDl3ZFRpWVhFQWtncFFBdlB4dWEwb1kwTHJ3VFo0cmhjSDI5QnpGOU1PQ0U2dlFSaHNlRkNVUy12TVRGaG9vOWlVVGJBb3RYWEZxN3BDc1NmbEZwMUJON3c?oc=5",
+          "summary": "머스크 \"차세대 모델은 매개변수 2조개...'키미' 능가할 것\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-22T09:37:40+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,81 +97,19 @@
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI’s Agents Reach 10 Million Users After ChatGPT Work Debut",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut",
-          "summary": "OpenAI has seen a sharp uptick in demand for its artificial intelligence agents since its recent release of ChatGPT Work, providing new momentum in its bid to keep pace with rival Anthropic PBC.",
-          "published": "2026-07-21T12:55:00+00:00",
+          "title": "OpenAI Models Breach Hugging Face, Sparking Cyber Alarms",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/openai-models-breach-hugging-face-sparking-cyber-alarms",
+          "summary": "Since April, when Anthropic PBC unveiled its Mythos model, cyber and national security experts have warned that the internet has entered a new era full of artificial intelligence-powered risks.",
+          "published": "2026-07-22T17:21:22+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 16,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Names BNY, Nubank CEOs to Board Ahead of IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-names-bny-nubank-ceos-to-board-ahead-of-ipo",
-          "summary": "OpenAI has appointed two financial services executives to its board of directors, drawing on their experience as the company moves toward a Wall Street debut.",
-          "published": "2026-07-21T20:07:29+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Google Expands in Miami After Its Billionaire Founders Buy Homes",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/google-expands-in-miami-after-its-billionaire-founders-buy-homes",
-          "summary": "Alphabet Inc., has more than quadrupled its office space in Miami this year shortly after co-founders Larry Page and Sergey Brin bought homes in the area.",
-          "published": "2026-07-21T14:05:49+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Says Its AI Caused Hugging Face Cyber Breach",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-says-its-ai-used-for-unprecedented-hugging-face-breach",
-          "summary": "OpenAI said its artificial intelligence models were able to compromise the internal systems of startup Hugging Face Inc., offering an early glimpse of how AI systems could fuel new cybersecurity threats.",
-          "published": "2026-07-21T19:51:28+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -115,103 +117,15 @@
           "event_labels": []
         },
         {
-          "title": "Amazon’s Portal for Business Nears $60 Billion in Revenue",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/amazon-e-commerce-portal-for-business-nears-60-billion-in-sales",
-          "summary": "Amazon.com Inc.’s business sales unit was recently on track to sell $60 billion of merchandise over the course of a full year, up about 71% from 2023, evidence that the world’s largest online retailer is gaining ground in corporate sales.",
-          "published": "2026-07-21T13:00:00+00:00",
+          "title": "Google Says Cloud Services Backlog Expands to $514 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/google-says-cloud-services-backlog-expands-to-514-billion",
+          "summary": "Alphabet Inc. said its cloud computing unit had a $514 billion backlog of contracted work that hasn’t been recorded as revenue yet, signaling robust demand for its services that underpin the artificial intelligence boom.",
+          "published": "2026-07-22T20:54:32+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Nvidia Touts Progress Getting New Rubin Design to Customers",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/nvidia-touts-progress-getting-new-rubin-design-to-customers",
-          "summary": "Nvidia Corp., the semiconductor company at the heart of the artificial intelligence boom, said its latest chip designs are making their way to customers and will help solidify the chipmaker’s leadership in the industry.",
-          "published": "2026-07-21T15:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI’s Altman to Brief US Officials on Next Wave of AI Models",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/openai-s-altman-to-brief-us-officials-on-next-wave-of-ai-models",
-          "summary": "OpenAI Chief Executive Officer Sam Altman plans to brief the Trump administration and US lawmakers next week on the upcoming generation of artificial intelligence models as the US works to create a process to review the safety of cutting-edge AI systems, according to a senior company executive.",
-          "published": "2026-07-21T15:35:53+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China’s Kimi K3 fuels fears safety curbs are holding back US AI",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3361358/chinas-kimi-k3-fuels-fears-safety-curbs-are-holding-back-us-ai?utm_source=rss_feed",
-          "summary": "Chinese unicorn Moonshot AI’s new Kimi K3 model rivals top US systems in spotting cybersecurity flaws, according to early research, stoking fears in Washington that strict safety guard rails are putting American artificial intelligence firms at a competitive disadvantage. The 2.8 trillion-parameter open-weight model, released last week, offers cybersecurity performance “extremely close” to OpenAI’s flagship GPT-5.6 Sol at a fraction of the cost, Swiss firm Aikido Security said in a report on...",
-          "published": "2026-07-21T14:00:14+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "Robinhood Prediction Market Revenue to Top Crypto: Analysts",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/robinhood-prediction-market-revenue-to-top-crypto-analysts-say",
-          "summary": "Trading platform Robinhood Markets Inc.’s revenue from prediction market is set to overshadow that from cryptocurrency trading, starting as soon as the second quarter, analysts at Bernstein and Piper Sandler said this week.",
-          "published": "2026-07-21T19:40:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
           "score": 14,
           "score_breakdown": {
             "keyword": 6,
@@ -225,41 +139,120 @@
           ]
         },
         {
-          "title": "한화, 美 토큰화 기업 '시큐리타이즈' 최대주주였다…\"재무적 투자 목적\"",
-          "link": "https://zdnet.co.kr/view/?no=20260721165506",
-          "summary": "[지디넷코리아]한화그룹 계열사 세 곳이 미국 토큰화 인프라 기업 시큐리타이즈(Securitize)의 주요 주주인 것으로 확인됐다. 다만, 이번 지분 확보는 재무적 투자 성격으로 향후 지분 매각 가능성도 나온다. 21일 미국 증권거래위원회(SEC) 공시에 따르면, 한화그룹이 보유한 시큐리타이즈 주식은 총 1568만 9509주로 전체 지분의 9.6%를 차지한다.시큐리타이즈는 금융사가 주식·채권·펀드 등 실물연계자산(RWA)을 블록체인에서 발행·관리·유통할 수 있도록 지원하는 토큰화 인프라 기업이다. 블랙록의 토큰화 미국 국채 펀드인 비들(BUIDL)의 발행·운영 파트너로 잘 알려져 있다. 회사는 지난 2일(현지시간) 뉴욕증권거래소에 상장했다.한화그룹은 계열사를 통해 시큐리타이즈 지분을 분산 보유하고 있다. 한화자산운용의 사모펀드인 ‘한화 라이프스타일 프라이빗펀드2’가 5.90%, 싱가포르 투자법인 ‘H Foundation Pte. Ltd.’가 3.10%, 한화투자증권이 0.61%를 각각",
-          "published": "2026-07-21T08:01:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
+          "title": "Google Boosts 2026 Spending Estimate to as Much as $205 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/google-boosts-2026-spending-estimate-to-as-much-as-205-billion",
+          "summary": "Alphabet Inc. projected full-year capital expenditures will be $195 billion to $205 billion in 2026, increasing its already sky-high spending estimate for the year as it works to secure an edge in the artificial intelligence race.",
+          "published": "2026-07-22T21:16:56+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
           "score_breakdown": {
             "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Models Escaped to Hack Hugging Face, Validating Cyber Warnings",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-models-escaped-to-hack-hugging-face-validating-cyber-warnings",
+          "summary": "“Sandbox” testing environments are meant to isolate risky cyber threats.",
+          "published": "2026-07-22T17:00:19+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI’s Brockman on New ChatGPT Era After ‘Tough’ Year of Cuts: Q&A",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-22/openai-s-brockman-on-new-chatgpt-era-after-tough-year-of-cuts-q-a",
+          "summary": "The AI startup has combined its products into a so-called super app.",
+          "published": "2026-07-22T19:05:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI President Says Kimi K3 ‘Pretty Good,’ Unsure If Distilled",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/openai-president-says-kimi-k3-pretty-good-unsure-if-distilled",
+          "summary": "OpenAI President Greg Brockman acknowledged that Moonshot AI had developed a competitive new artificial intelligence model and said he wasn’t sure whether the Chinese firm had piggybacked on the ChatGPT maker’s technology.",
+          "published": "2026-07-22T19:31:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Alphabet Posts $98 Billion in Second-Quarter Investment Gains",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-posts-98-billion-in-second-quarter-investment-gains",
+          "summary": "Alphabet Inc. on Wednesday reported investment gains of $98 billion as part of its second-quarter earnings results.",
+          "published": "2026-07-22T20:44:57+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
-            "funding"
+            "earnings"
           ]
         },
         {
-          "title": "Bitcoin Rallies After Bessent Says Clarity Act at ‘1-Yard Line’",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-21/bitcoin-rallies-after-bessent-says-clarity-act-at-1-yard-line",
-          "summary": "Crypto markets are stirring after months of listless trading on signs that Washington is moving toward a clearer rulebook for digital assets.",
-          "published": "2026-07-21T14:52:34+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "US Official Says Moonshot Accessed Banned Nvidia Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-22/white-house-official-says-moonshot-accessed-banned-nvidia-chips",
+          "summary": "A White House official accused China’s Moonshot of improperly using US artificial intelligence models and Nvidia Corp. chips to create the Kimi K3 system that stunned the tech industry last week with its advanced capabilities.",
+          "published": "2026-07-22T15:45:47+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 13,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -269,15 +262,41 @@
         }
       ]
     },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
       "articles": [
         {
-          "title": "카카오엔터프라이즈, 노사 협상 타결⋯임금인상률 '5%대' 합의",
-          "link": "https://zdnet.co.kr/view/?no=20260721170714",
-          "summary": "[지디넷코리아]카카오엔터프라이즈 노사가 올해 임금·단체협약 교섭을 마무리했다. 임금 인상뿐 아니라 고용 불안 해소와 회사의 장기 비전과 관련한 협의도 진전을 이뤘다.21일 업계에 따르면 카카오엔터프라이즈 노사는 올해 임금을 5% 중반대로 인상하기로 합의했다. 전날 잠정 합의안이 조합원 투표를 거쳐 가결됐으며 이날 조인식을 열고 최종 협약을 체결했다.이번 교섭에선 임금 인상률과 함께 회사의 중장기 사업 방향과 고용 안정 방안 등이 주요 의제로 다뤄진 것으로 알려졌다. 구체적인 합의 내용과 임금 인상 적용 방식은 공개되지 않았다.카카오엔터프라이즈를 포함한 카카오 계열사 노사는 지난 5월 임금·단체협약 교섭이 결렬된 뒤 경기지방노동위원회의 조정 절차를 거쳤다. 조정 중지 결정 이후 노조는 지난 6월 카카오와 카카오페이 등 계열사 조합원들과 공동 단체행동에 나섰다.카카오엔터프라이즈가 합의에 도달하면서 공동 단체행동에 참여한 계열사 중 일부는 교섭을 마무리하는 단계에 들어갔다. 카카오페이 노",
-          "published": "2026-07-21T08:13:54+00:00",
+          "title": "비트코인 1개월만에 최고치…코인관련주도 반등 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96U1dBMGlQTDBVS2NQVTVSSkxsTWhFOVc0UmQ1RTUwQ3N6U1pKaEZ0RHg2V3ZZU21TOFBNaTFkWVppT2VXSEd6QkFwZEsyLXRFTmFyVkg2Mmx6NUlrV3d0eTBVejEwV25xQlRYVW00UXnSAXRBVV95cUxQb1NhemtkQ0hRMF9peTNZLVBDLXU0SXFpSGR6dG5MM001aDBvc2U4VHhoaElUVUZRMzlMLVhpTmlqX3BmSjNkLWl6cmZSMGxZNF9XZ004ZWEteklHWGlyY2hTWmlTSTRmZ05FY0ptSTdVdEdVTg?oc=5",
+          "summary": "비트코인 1개월만에 최고치…코인관련주도 반등 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-21T23:54:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 4,
+      "articles": [
+        {
+          "title": "슈퍼플래닛, 인기 웹툰 IP 기반 '던전견문록' 글로벌 사전예약 개시",
+          "link": "https://zdnet.co.kr/view/?no=20260722183632",
+          "summary": "[지디넷코리아]모바일 게임 퍼블리셔 슈퍼플래닛(대표 박성은)이 인기 웹툰 지식재산권(IP)을 활용한 신작 방치형 RPG로 글로벌 시장 공략에 나선다.슈퍼플래닛은 재담미디어의 웹툰 IP를 기반으로 제작한 모바일 방치형 RPG '던전 견문록(영문명: Dungeon Odyssey)'의 글로벌 사전예약을 시작했다고 22일 밝혔다.던전 견문록은 카카오페이지와 카카오웹툰에서 합산 누적 조회수 2170만회 이상, 평점 9.9를 기록한 동명의 판타지 웹툰을 원작으로 한다. 원작은 북미 타파스, 일본 피코마, 대만 카카오웹툰 등 글로벌 플랫폼을 통해 연재되며 해외 독자층을 확보한 바 있다.게임은 지하 세계에서 자란 '던전 베이비' 주인공 김진우가 미궁의 왕으로 성장해나가는 원작의 세계관을 이식했다. 세로형 화면 기반의 간편한 조작감에 방치형 RPG의 성장 구조를 더한 하이브리드 장르로 개발됐다.원작 요소를 살린 시스템도 탑재됐다. 웹툰 스토리를 따라가며 저주에 걸린 동료를 해방시키는 '에피소드 기반",
+          "published": "2026-07-22T09:45:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -294,20 +313,62 @@
           "event_labels": []
         },
         {
-          "title": "네이버, '본업 성장'으로 AI 투자 버틴다…2분기 영업익 8%↑ 예상 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnRFBmZUp1VDFQUlhDcTBZcTluZnZJNHNFQ0pUSzd5Sjl2ZThDcUJnSld6OGZnSDZjUTJKM2lKSDktSjVQeDZCMHVrQ1g1eVNHVnBXOEJfRkxzVmxJS1F4TWhDQkVtVzVBdkI5VmRKSFM?oc=5",
-          "summary": "네이버, '본업 성장'으로 AI 투자 버틴다…2분기 영업익 8%↑ 예상 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-20T22:59:13+00:00",
+          "title": "\"연준, '미토스' 위험 경고하면서도 접근 못 해\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KamJoVmdXZXlXci1lV3pDa0dsOFp4NVRHY3hQdHRIZ0tVRUswSENONVlxcHZkR3NKQnhEOS1TdGs0RC1oVjN3dFFibGZjclFpRlBmeVVUNGQxV0NtUGV4b0F4Q1VQc1lRbVc4bnlSUlM?oc=5",
+          "summary": "\"연준, '미토스' 위험 경고하면서도 접근 못 해\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-22T02:30:51+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "김범수 카카오, SM엔터 시세 조종·공개매수 저지 의혹 재부인",
+          "link": "https://zdnet.co.kr/view/?no=20260722190317",
+          "summary": "[지디넷코리아]김범수 창업자를 포함한 카카오 전·현직 경영진들이 SM엔터테인먼트 인수 과정에서 인위적인 조작과 공개매수 저지 지시는 없었다며 부당함을 주장했다. 1심에 이어 또 다시 거론된 방시혁 하이브 의장은 증인으로 채택되지 못했다. 서울고법 형사4-1부(부장판사 김인경 성지용 전지원)은 22일 김 창업자를 포함한 카카오 전·현직 경영진들의 2심 변론을 진행했다.김 창업자 변호인 측은 “김 창업자는 카카오의 문어발식 기업 확장이 사회적 약탈 기업이라는 비난에 지속적으로 직면하고 국정감사에도 네 차례나 불려 나가면서 기본적으로 계열사 확장에 부정적인 입장을 가지고 있었다”고 말했다.이같은 그의 입장이 2023년까지 유지됐다며 김 창업자가 SM엔터를 두고 “기업 문화가 합쳐지기 어렵다”, “SM엔터에 카카오스러움을 입힐 수 없다”며 반대한 사실이 확인된다고 주장했다.김 창업자와 카카오 전·현직 경영진들은 2023년 2월 진행된 SM엔터 인수 과정에서 경쟁사인 하이브의 공개매수를 저지",
+          "published": "2026-07-22T10:26:42+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": -3
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "네이버웹툰·문피아, '지상최대 웹소설 공모전' 흥행…1만 편 몰렸다",
+          "link": "https://zdnet.co.kr/view/?no=20260722192727",
+          "summary": "[지디넷코리아]네이버웹툰과 문피아가 공동 주최한 '2026 지상최대 웹소설 공모전'에 1만 편이 넘는 작품이 접수되며 역대급 흥행을 기록했다. 참여 작가 10명 중 9명 가까이가 유료 연재 경험이 없는 신인이었으며, 대상을 포함한 수상작들은 웹툰 제작과 영상화 검토 등 후속 IP 확장 기회를 얻게 된다.네이버웹툰과 문피아는 공동 주최한 '2026 지상최대 웹소설 공모전'의 최종 수상작 37편을 22일 발표했다.'지상최대 웹소설 공모전'은 웹소설 창작 생태계 확대와 신인·기성 작가 발굴을 위해 마련된 업계 최대 규모 공모전이다. 올해는 지난 5월 13일부터 6월 21일까지 작품을 접수했으며, 약 한 달간의 심사를 거쳐 수상작을 선정했다.올해 공모전에는 1만 편 이상의 작품이 접수돼 지난해보다 약 35% 증가했다. 참여 작가 수는 7400명으로 집계됐으며, 이 가운데 유료 연재 경험이 없는 신인 작가는 6600명에 달했다. 참가자의 80% 이상은 10~30대로 나타났다.대상은 핏콩 작가",
+          "published": "2026-07-22T10:30:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
