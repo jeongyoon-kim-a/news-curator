@@ -1,104 +1,18 @@
 {
-  "generated_at": "2026-07-23T22:07:30.934379+00:00",
-  "total_articles": 17,
+  "generated_at": "2026-07-24T22:08:03.334985+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 2,
       "articles": [
         {
-          "title": "머스크, xAI '그록 4.6' 예고…2조 매개변수로 키미 K3보다 낫다고 주장",
-          "link": "https://zdnet.co.kr/view/?no=20260723220142",
-          "summary": "[지디넷코리아]일론 머스크(Elon Musk)가 xAI의 차세대 모델 '그록 4.6(Grok 4.6)'을 예고했다. 머스크는 7월 18일(현지시간) 엑스(X)에서 그록 4.6이 2조 매개변수(parameter) 규모로 최종 학습 단계에 들어갔다고 밝혔다.머스크에 따르면 그록 4.6은 이전 모델 그록 4.5와 비슷한 생성 속도와 토큰 효율을 유지하면서, 중국 문샷AI(Moonshot AI)의 키미 K3(Kimi K3) 성능을 넘어설 수 있다.이번 예고는 키미 K3 공개에 대한 대응 성격이 짙다. 문샷은 앞서 7월 중순 파라미터 2조 8,000억 개 규모의 키미 K3를 공개했고, 머스크는 이를 '인상적'이라고 평가한 다음 날 자사 모델 계획을 내놨다.키미 측은 머스크의 발언에 '2조+ 클럽에 온 것을 환영한다'고 응수했다. 문샷이 2조 8,000억 개 파라미터로 먼저 진입했다는 점을 부각한 것이다.xAI는 스페이스X(SpaceX)와 합병해 대규모 슈퍼컴퓨터 '콜로서스(Colossus)'",
-          "published": "2026-07-23T13:01:42+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "월가 전문가 \"스페이스X와 테슬라, 합병 가능성 커져\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5seC1rdGRwOGxHZlRYcE5DVk4zQkVEY3pIcGNXaXlKcUZYOTBXRHY3amFiUS1kdGtkM29QUGVkRnB3bW9xRmJEWnREZVhpQ09SLXIwdVdlNjJGZUJGckN4VjNlbkMyNm5WOXN4UTNIb20?oc=5",
-          "summary": "월가 전문가 \"스페이스X와 테슬라, 합병 가능성 커져\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-23T05:45:16+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "구글·테슬라, AI서버에 '영끌투자'… 머스크 \"250억弗 신속집행\" - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tbEpkUWVoUE9aRWtVanZValA4NVl5djVZZEMzaVNLX21hUFpfUHFyTmhpUzVHd3VUTkFqajRsYU05bnRqQnZYVGJjanJ4UQ?oc=5",
-          "summary": "구글·테슬라, AI서버에 '영끌투자'… 머스크 \"250억弗 신속집행\" &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-23T08:56:32+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SpaceX Delays Major Flight Test Again in Post-IPO Spotlight",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/spacex-attempts-major-flight-test-again-in-post-ipo-spotlight",
-          "summary": "SpaceX delayed to Friday the next major test of its massive Starship rocket after also abandoning takeoff last week, heightening the stakes for the critical milestone.",
-          "published": "2026-07-23T09:30:00+00:00",
+          "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
+          "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
+          "published": "2026-07-24T17:48:21+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Tesla Short Sellers Rake In $4 Billion as Shares Nosedive",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive",
-          "summary": "The deep plunge in Tesla Inc.’s stock on Thursday is turning into a major payday for its short sellers.",
-          "published": "2026-07-23T18:04:36+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -113,18 +27,18 @@
           "event_labels": []
         },
         {
-          "title": "Elon Musk’s vision of the future",
-          "link": "https://www.economist.com/business/2026/07/23/elon-musks-vision-of-the-future",
-          "summary": "The world’s richest man sits down with The Economist",
-          "published": "2026-07-23T09:51:46+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "스페이스X 반토막...공매도 세력은 ‘잭팟’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uQnFadEFQRk1weTlwdU5Qa1dDTVpXTDVoMVZHRzVua2N3dldreDdDa29ucGh3QU13Nm8zN191UTA3TEJ5MjVuZTFMS1p6cThIVnF0OQ?oc=5",
+          "summary": "스페이스X 반토막...공매도 세력은 ‘잭팟’ &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-24T05:46:51+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -139,141 +53,125 @@
       "count": 8,
       "articles": [
         {
-          "title": "Microsoft Replacing OpenAI Image AI Models in Powerpoint, Bing",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/microsoft-replacing-openai-image-ai-models-in-powerpoint-bing",
-          "summary": "Microsoft Corp. is replacing OpenAI’s image-generating models with its own technology in popular products like PowerPoint and Bing.",
-          "published": "2026-07-23T16:30:00+00:00",
+          "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
+          "summary": "Microsoft Corp., Meta Platforms Inc. and Amazon.com Inc. face renewed investor anxiety over their debt-fueled capital expenditure plans after Alphabet Inc. raised the upper end of its spending forecast this year by as much as $15 billion.",
+          "published": "2026-07-24T14:05:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Alphabet’s Anthropic Stake Jumps to Around $124 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-anthropic-stake-jumps-to-around-124-billion",
-          "summary": "The value of Alphabet Inc.’s stake in the artificial intelligence startup Anthropic PBC has soared to around $124 billion, making it one of the most lucrative bets in the company’s history.",
-          "published": "2026-07-23T19:53:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Khosla Ventures in Talks to Raise $5.5 Billion in New Funds",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/khosla-ventures-in-talks-to-raise-5-5-billion-in-new-funds",
-          "summary": "Early OpenAI backer Khosla Ventures is discussing raising as much as $5.5 billion for its latest set of venture investment funds, a haul that would amount to its largest fundraising event in its two-decade history, according to people familiar with the matter.",
-          "published": "2026-07-23T01:10:37+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "earnings"
           ]
         },
         {
-          "title": "AMD Unveils New Products in Pursuit of $2 Trillion Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/amd-unveils-new-products-in-pursuit-of-2-trillion-opportunity",
-          "summary": "Advanced Micro Devices Inc. announced a raft of new products for data centers that it said will outperform those from rival Nvidia Corp., aiming to make gains in a booming market for artificial intelligence computing.",
-          "published": "2026-07-23T16:56:05+00:00",
+          "title": "미국 5대 빅테크 '숨은 AI 부채' 2442조원…니케이 분석",
+          "link": "https://zdnet.co.kr/view/?no=20260724215525",
+          "summary": "[지디넷코리아]미국 5대 기술 기업의 회계장부 밖 AI 관련 부채가 약 2,442조원(1조 6,500억 달러)에 이른다고 니케이가 7월 23일 분석했다. 대상은 알파벳과 마이크로소프트, 아마존, 메타, 오라클이며, 대차대조표에 직접 드러나지 않는 방식으로 조달한 AI 인프라 자금이 급증했다는 내용이다.이 부채는 데이터센터와 전력, 반도체 확보에 들어가는 자금이 특수목적법인과 리스, 장기 공급 계약 등 다양한 경로로 조달되면서 회계상 부채로 명확히 잡히지 않는 데서 나온다. 투자 규모가 커질수록 이런 구조가 늘어나, 투자자가 기업의 실제 재무 부담을 파악하기 어렵다는 지적이 나온다.빅테크의 AI 설비 투자는 계속 확대되고 있다. 메타는 루이지애나 캠퍼스에 약 74조원(500억 달러)을 투입하기로 했고, 오픈AI는 조지아에 3.2기가와트 데이터센터를 발표했다. 이런 투자가 실적과 현금흐름에 어떤 부담으로 돌아오는지가 하반기 시장의 관심사로 떠올랐다.자세한 내용은 테크스타트업스에서 확인할",
+          "published": "2026-07-24T12:55:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
+          "summary": "A coalition of technology companies led by Nvidia Corp. and Microsoft Corp. called on policymakers to promote the development of open-weight artificial intelligence models, positioning it as key to ensuring the US maintains technological leadership.",
+          "published": "2026-07-24T14:59:51+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 3,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging",
-          "summary": "Nvidia Corp. signed a $1.5 billion agreement with Amkor Technology Inc. to help bolster the company’s chip packaging facilities, part of a broader push to expand semiconductor operations in the US.",
-          "published": "2026-07-23T21:27:05+00:00",
+          "title": "Google Ordered to Defend Robby Starbuck’s AI Defamation Suit",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit",
+          "summary": "Alphabet Inc.'s Google LLC lost its bid Friday to escape a court case dangling the specter of legal liability for false statements made by an artificial intelligence chatbot.",
+          "published": "2026-07-24T16:33:15+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google Fined €890 Million by EU Over Search, Play Store Breaches",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-23/google-fined-890-million-in-eu-over-search-app-store-breaches",
-          "summary": "Alphabet Inc.’s Google was fined a total of €890 million ($1 billion) by the European Union for violating the bloc’s Digital Markets Act, in a decision that has inflamed tensions with US President Donald Trump’s administration.",
-          "published": "2026-07-23T10:01:54+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
+          "score": 12,
           "score_breakdown": {
             "keyword": 6,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "구글에 화난 EU, 1조5000억원 추가 과징금 폭탄 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdDF5ZnREY1VvN2duMjV1eTdURVhHY1hEQU1sd3l0eHU1QVZJNThYQmpCaklxdjJWZWFBVmZTclFzTTBKZU92aXZkRE1uV1FLb0E?oc=5",
-          "summary": "구글에 화난 EU, 1조5000억원 추가 과징금 폭탄 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-23T12:44:22+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Getting Ditched by Amazon Revitalized One Game Studio",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio",
+          "summary": "Maverick Games, the maker of ‘Clutch,’ was ditched by Amazon but is doing just fine",
+          "published": "2026-07-24T18:01:59+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 12,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Meta Wins Dismissal of Suit Over WhatsApp Privacy",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-wins-dismissal-of-suit-over-whatsapp-privacy",
+          "summary": "A judge dismissed a lawsuit alleging that Meta Platforms Inc.’s WhatsApp is able to access users’ encrypted messages and has made false claims about the privacy and security of its chat service.",
+          "published": "2026-07-24T13:55:51+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
             "recency": 2,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -283,20 +181,40 @@
           ]
         },
         {
-          "title": "EU, 구글에 1조 5000억 과징금…\"검색서 자사 우대\"",
-          "link": "https://zdnet.co.kr/view/?no=20260723223652",
-          "summary": "[지디넷코리아]구글이 검색에서 쇼핑, 호텔 예약 등 자사 서비스를 우대한 혐의로 유럽연합(EU)에서 1조 5000억원에 이르는 거액의 벌금 폭탄을 맞았다.EU 행정부 격인 유럽연합집행위원회(EC)는 13일(현지시간) 디지털시장법(DMA)을 위반한 구글에 8억 9000만 유로(약 1조 4700억원) 과징금을 부과했다고 CNBC를 비롯한 외신들이 일제히 보도했다.EC는 이날 “구글이 쇼핑, 호델 예약 같은 자사 서비스를 검색 결과에서 좀 더 잘 보이게 표출했다”면서 “반면 비슷한 타사 서비스는 이런 우대를 받지 못했다”고 밝혔다.이런 지적과 함께 EC는 구글 검색에서 다른 회사 서비스도 ‘공정하고 비차별적인 방식’으로 표출하도록 수정하라고 명령했다.또 EC는 구글이 DMA의 ‘외부 결제 유도 금지(anti-steering)’ 조항도 위반했다고 밝혔다.DMA에 따르면 구글 플레이스토어에서 앱을 배포하는 회사나 개발자는 고객들에게 구글 자체 결제 서비스 외에 다른 선택을 할 수 있다는 사실",
-          "published": "2026-07-23T13:53:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
+          "summary": "Anthropic PBC is rolling out a new artificial intelligence model that is meant to handle workplace tasks adeptly and affordably, a key selling point as some customers grow more cost conscious and competition increases in China.",
+          "published": "2026-07-24T17:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "트럼프, EU ‘구글 과징금’에 “美기업 약탈…큰 대가 치르게 될 것” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZ3p5VDM5cUdSVWg3dXhxMnBQZlR1aW0xRWRBajZLQWRycEVhN05UbmwtdjRkeWowWjlvb1UzTUhuT3NxdWJXcEtyZjhPZ2x3NkE?oc=5",
+          "summary": "트럼프, EU ‘구글 과징금’에 “美기업 약탈…큰 대가 치르게 될 것” &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-24T21:52:25+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -311,19 +229,19 @@
       "count": 1,
       "articles": [
         {
-          "title": "토스, 서클과 스테이블코인 기반 결제 협력 위한 MOU 체결 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsOW45LVRlejNfRlBPQXVmdkxMVVpzZ3pPejVabWhzSERoa1BUS1dGLWxwUW1lTlNNVWhqdTA1RVdoZXB0M3Q0cXFJT2hQRmJock9sN2ROOWxEY0tFS1BLMFRKczlCd2VPTFVKRkJsNXc?oc=5",
-          "summary": "토스, 서클과 스테이블코인 기반 결제 협력 위한 MOU 체결 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-23T01:40:50+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "조승래 의원, 제22대 국회 전반기 '대한민국 헌정대상' 수상",
+          "link": "https://zdnet.co.kr/view/?no=20260724184658",
+          "summary": "[지디넷코리아]조승래 더불어민주당 의원(대전 유성구갑)이 제22대 국회 전반기 의정활동 종합평가에서 '대한민국 헌정대상' 수상자로 선정됐다.조승래 의원실은 법률소비자연맹이 주관하는 제22대 국회 전반기 대한민국 헌정대상을 수상하게 됐다고 24일 밝혔다. 조 의원은 이번 수상으로 통산 9번째 헌정대상 수상을 기록하게 됐다.헌정대상을 주관하는 법률소비자연맹은 본회의 및 상임위원회 출석률, 법안표결 참여도, 통과된 대표발의 법안 성적, 국정감사 평가 등 12개 객관적 지표를 계량화해 우수의원을 선정한다. 조 의원은 제22대 국회 개원 이후 총 43건의 법안을 대표발의해 이 중 13건을 본회의에서 통과시키는 등 의정 성과를 거두었다.특히 공연 및 스포츠 경기의 암표 거래를 근절하기 위한 '공연법' 개정안과 가상자산 활용 보이스피싱 피해 구제를 위한 '전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법' 개정안 등을 대표발의해 처리하며 민생 문제 해결에 기여했다는 평가를 받았다.조승래 ",
+          "published": "2026-07-24T10:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -339,47 +257,29 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "미래에셋증권, 5천24억원 자사주 소각…\"역대 최대 규모\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yeXpsM3FDMm5kcDB5dUpsME9rN3pWTmtPQmhOd0lkS0luS2plN3NlMmU5eG14TXBBS3FMSkZhUWtWSDVaYVcteFV4THM0b1V0UWc?oc=5",
-          "summary": "미래에셋증권, 5천24억원 자사주 소각…\"역대 최대 규모\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-23T09:38:19+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "풍산홀딩스, 47억원 규모 자사주 매입…연내 전량 소각",
-          "link": "https://zdnet.co.kr/view/?no=20260723182951",
-          "summary": "[지디넷코리아]풍산홀딩스가 주가 안정과 주주가치 제고를 위해 자사주 취득에 나선다.풍산홀딩스는 23일 이사회를 열고 보통주 14만 1566주를 장내 매수 방식으로 취득하기로 결정했다고 공시했다. 취득 예정 금액은 47억원이다.취득 기간은 24일부터 오는 10월 23일까지다. 회사는 유가증권시장을 통한 장내 매수 방식으로 자사주를 취득하며, 미래에셋증권이 위탁 증권사를 맡는다.취득 예정 주식 수는 이사회 결의일 직전 거래일인 22일 종가 3만 3200원을 기준으로 산정했다. 향후 주가 변동에 따라 실제 취득 주식 수와 금액은 달라질 수 있다.회사는 이번에 취득하는 자사주를 올해 말까지 전량 소각할 계획이다. 공시일 기준 풍산홀딩스의 자기주식 보유 수량은 보통주 81만 1911주로, 발행주식의 5.6% 수준이다. 이번 결정은 최근 주주환원 확대 요구가 이어지는 상황과 맞물린 조치로 해석된다. 앞서 소액주주 플랫폼 ‘액트’를 통해 결집한 소액주주연대는 회사 측에 자사주 매입·소각과 배당성",
-          "published": "2026-07-23T09:29:51+00:00",
+          "title": "[현장] 한국 상륙한 AI 플랫폼 '젠스파크'…3년간 1억 달러 투자",
+          "link": "https://zdnet.co.kr/view/?no=20260724171937",
+          "summary": "[지디넷코리아]글로벌 인공지능(AI) 워크스페이스 플랫폼 스타트업 젠스파크가 한국 시장에 공식 진출하며 공격적인 투자에 나선다. 향후 3년간 1억 달러(약 1475억원)를 투입해 조직과 파트너 생태계를 확대하는 동시에, 한국 기업과 협력해 소버린 AI 구축도 지원한다는 목표다.웬 상 젠스파크 공동창업자 겸 최고운영책임자(COO)는 24일 서울 광진구 본다빈치뮤지엄 능동에서 열린 '젠스파크 AI 워크스페이스 6.0 미디어데이'에서 \"한국은 전 세계에서 가장 중요한 시장 가운데 하나\"라며 \"3년간 1억 달러(약 1475억원)를 투자해 팀과 파트너십, 사업을 확대하고 가장 최신 AI 기술을 한국 고객에게 제공하겠다\"고 밝혔다.이날 행사에는 에릭 징 공동창업자 겸 최고경영자(CEO), 케이 주 공동창업자 겸 최고기술책임자(CTO), 제이미슨 파월 최고수익책임자(CRO) 등 핵심 경영진이 모두 자리했다. 투자사 미래에셋과 파트너사 LG유플러스, 마이크로소프트(MS) 실무진들도 참석해 한국 시",
+          "published": "2026-07-24T08:34:28+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "mirae_asset",
           "category_display": "미래에셋",
-          "score": 5,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 1,
             "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": -2
+            "event_bonus": 2,
+            "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     }
