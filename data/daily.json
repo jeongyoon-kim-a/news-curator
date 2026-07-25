@@ -1,46 +1,48 @@
 {
-  "generated_at": "2026-07-24T22:08:03.334985+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-07-25T21:59:05.702927+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "SpaceX at $100 Would Imply Zero AI Value, Morgan Stanley Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-at-100-would-imply-zero-ai-value-says-morgan-stanley",
-          "summary": "The selloff in SpaceX shares has driven the stock near a level that would imply investors are assigning no value to its artificial intelligence business, according to analysts at Morgan Stanley.",
-          "published": "2026-07-24T17:48:21+00:00",
+          "title": "SpaceX Starship Deploys Starlink Craft During Post-IPO Test",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight",
+          "summary": "SpaceX’s Starship deployed upgraded Starlink satellites and returned to Earth largely unscathed, advancing Elon Musk’s IPO-fueled plans to scale his dominant rocket business into an artificial intelligence and satellite communications empire.",
+          "published": "2026-07-24T22:51:38+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 9,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "스페이스X 반토막...공매도 세력은 ‘잭팟’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9uQnFadEFQRk1weTlwdU5Qa1dDTVpXTDVoMVZHRzVua2N3dldreDdDa29ucGh3QU13Nm8zN191UTA3TEJ5MjVuZTFMS1p6cThIVnF0OQ?oc=5",
-          "summary": "스페이스X 반토막...공매도 세력은 ‘잭팟’ &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-24T05:46:51+00:00",
+          "title": "머스크 터널굴착업체 보링컴퍼니, 29조원 가치로 자금조달 추진 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sQzRNNDloYUdzWEk2Mk15bXRQTGJpR2FlaGh4YTZjdEo4UlZpZHBBVm95UVZCa2tzdlFqZTY3Y0E2di1acWFZRGl2TmFORzdwWGc?oc=5",
+          "summary": "머스크 터널굴착업체 보링컴퍼니, 29조원 가치로 자금조달 추진 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-25T17:15:49+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -53,222 +55,165 @@
       "count": 8,
       "articles": [
         {
-          "title": "Meta, Microsoft Face Renewed Unease Over AI Spending: US Earnings Week Ahead",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-microsoft-face-renewed-unease-over-ai-spending-us-earnings-week-ahead",
-          "summary": "Microsoft Corp., Meta Platforms Inc. and Amazon.com Inc. face renewed investor anxiety over their debt-fueled capital expenditure plans after Alphabet Inc. raised the upper end of its spending forecast this year by as much as $15 billion.",
-          "published": "2026-07-24T14:05:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "\"AI 통제 안된다\"…빅테크, '오픈웨이트 규제' 집단 반발",
+          "link": "https://zdnet.co.kr/view/?no=20260725084504",
+          "summary": "[지디넷코리아]엔비디아를 비롯한 20개 이상 테크기업들이 미국 정부에 ‘오픈웨이트’ 인공지능(AI) 모델에 대한 성급한 규제를 재고해달라는 공개서한을 보냈다고 CNBC를 비롯한 주요 외신들이 24일(현지시간) 보도했다.젠슨 황 엔비디아 최고경영자(CEO)와 사티아 나델라 마이크로소프트 CEO 등이 주도한 이번 서한에는 두 회사 외에도 메타, 팔란티어, IBM 등 주요 테크기업들이 동참했다.오픈웨이트 모델은 최근 중국업체 문샷AI의 ‘키미 K3’를 계기로 관심을 끌고 있다.오픈소스는 모델의 구조를 비롯한 학습 코드, 데이터셋 정보, 파라미터 등 전 요소를 투명하게 공개하는 방식이다. 사용자는 모델 작동 원리를 분석하고 수정할 수 있다. 반면 오픈웨이트는 말 그대로 학습 가중치만 외부에 제공하는 식이다. 제한적 공개 모델이라고 부르기도 한다. 공개 범위에 모델의 설계 코드나 학습 데이터는 포함되지 않는다. 사용자들도 모델 파인튜닝이나 추론은 가능하지만 구조 변경이나 재학습을 할 수는 없",
+          "published": "2026-07-24T23:53:14+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 17,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "regulation",
+            "exec_change"
           ]
         },
         {
-          "title": "미국 5대 빅테크 '숨은 AI 부채' 2442조원…니케이 분석",
-          "link": "https://zdnet.co.kr/view/?no=20260724215525",
-          "summary": "[지디넷코리아]미국 5대 기술 기업의 회계장부 밖 AI 관련 부채가 약 2,442조원(1조 6,500억 달러)에 이른다고 니케이가 7월 23일 분석했다. 대상은 알파벳과 마이크로소프트, 아마존, 메타, 오라클이며, 대차대조표에 직접 드러나지 않는 방식으로 조달한 AI 인프라 자금이 급증했다는 내용이다.이 부채는 데이터센터와 전력, 반도체 확보에 들어가는 자금이 특수목적법인과 리스, 장기 공급 계약 등 다양한 경로로 조달되면서 회계상 부채로 명확히 잡히지 않는 데서 나온다. 투자 규모가 커질수록 이런 구조가 늘어나, 투자자가 기업의 실제 재무 부담을 파악하기 어렵다는 지적이 나온다.빅테크의 AI 설비 투자는 계속 확대되고 있다. 메타는 루이지애나 캠퍼스에 약 74조원(500억 달러)을 투입하기로 했고, 오픈AI는 조지아에 3.2기가와트 데이터센터를 발표했다. 이런 투자가 실적과 현금흐름에 어떤 부담으로 돌아오는지가 하반기 시장의 관심사로 떠올랐다.자세한 내용은 테크스타트업스에서 확인할",
-          "published": "2026-07-24T12:55:25+00:00",
+          "title": "OTT도 소버린...유럽서 독자 플랫폼 구성 움직임",
+          "link": "https://zdnet.co.kr/view/?no=20260724221639",
+          "summary": "[지디넷코리아]유럽 방송사·미디어 기업이 미국 클라우드 대신 쓸 수 있는 유럽 자체 기술 기반 OTT 플랫폼 솔루션 개발에 뜻을 모았다. 큐베스트, 아템, 스케일웨이는 OTT 서버 구축, 콘텐츠 송출, 플랫폼 운영을 한 번에 해결하겠다는 전략이다.24일(현지시간) 브로드밴드TV에 따르면, 큐베스트·아템·스케일웨이는 유럽 미디어 기업 자체 OTT 플랫폼 구축을 위한 솔루션을 개발했다.유럽 미디어 기업은 아마존웹서비스, 마이크로소프트 애저, 구글 클라우드 등 미국 클라우드를 사용해 OTT 서비스를 제공해 왔다. 유럽연합(EU)은 OTT 이용자 개인정보와 데이터가 미국으로 유출되는 것을 막고자 자국민 데이터 보호 규제를 강화하고 클라우드 주권 가이드라인을 정립했다.유럽 방송사는 미국 클라우드를 계속 이용하면 규제 위반으로 벌금을 물거나 공공 사업 입찰 참여가 제한될 가능성이 있기에, 미국 클라우드 사용을 줄여야 한다. 3사 개발 OTT 솔루션은 EU 자체 클라우드와 기술이 적용돼 가이드라",
+          "published": "2026-07-24T23:40:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 9,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "정의선 회장 \"현대차그룹, 자동차 넘어 피지컬 AI 기업으로\"",
+          "link": "https://zdnet.co.kr/view/?no=20260725160202",
+          "summary": "[지디넷코리아]현대자동차그룹이 자동차 제조기업을 넘어 인공지능(AI)이 실제 자율주행과 로보틱스, 공장에 작동하는 '피지컬 AI' 솔루션 기업으로 전환한다. 엔비디아와 웨이모, 구글 딥마인드 등 글로벌 빅테크와 협력해 자동차와 로봇의 지능화를 넘어 공장과 도시 인프라까지 연결하는 AI 생태계를 구축한다는 전략이다.정의선 현대차그룹 회장은 24일(현지시간) 미국 샌프란시스코에서 열린 '샌프란시스코 AI 서밋'에서 \"현대차그룹은 전통적인 자동차 제조의 경계를 넘어 현재 자율주행과 로보틱스, AI 팩토리 등의 피지컬 AI 솔루션 기업으로 전환을 추진하고 있다\"고 밝혔다.이날 행사에는 이재명 대통령과 배경훈 부총리 겸 과학기술정보통신부 장관, 김용범 대통령실 정책실장을 비롯해 이재용 삼성전자 회장, 최태원 SK그룹 회장, 이해진 네이버 이사회 의장, 젠슨 황 엔비디아 CEO, 샘 올트먼 오픈AI CEO 등 국내외 주요 기업인이 참석했다. 참석자는 약 150명이다.현대차그룹이 구상하는 피지컬",
+          "published": "2026-07-25T07:38:26+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "exec_change"
           ]
         },
         {
-          "title": "Nvidia, Microsoft Lead Call for Open-Weight AI Models After Kimi",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi",
-          "summary": "A coalition of technology companies led by Nvidia Corp. and Microsoft Corp. called on policymakers to promote the development of open-weight artificial intelligence models, positioning it as key to ensuring the US maintains technological leadership.",
-          "published": "2026-07-24T14:59:51+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google Ordered to Defend Robby Starbuck’s AI Defamation Suit",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/google-must-face-conservative-activist-s-ai-defamation-lawsuit",
-          "summary": "Alphabet Inc.'s Google LLC lost its bid Friday to escape a court case dangling the specter of legal liability for false statements made by an artificial intelligence chatbot.",
-          "published": "2026-07-24T16:33:15+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Getting Ditched by Amazon Revitalized One Game Studio",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-24/getting-ditched-by-amazon-revitalized-one-game-studio",
-          "summary": "Maverick Games, the maker of ‘Clutch,’ was ditched by Amazon but is doing just fine",
-          "published": "2026-07-24T18:01:59+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Meta Wins Dismissal of Suit Over WhatsApp Privacy",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/meta-wins-dismissal-of-suit-over-whatsapp-privacy",
-          "summary": "A judge dismissed a lawsuit alleging that Meta Platforms Inc.’s WhatsApp is able to access users’ encrypted messages and has made false claims about the privacy and security of its chat service.",
-          "published": "2026-07-24T13:55:51+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Anthropic Unveils More Cost-Efficient Model for Everyday Tasks",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks",
-          "summary": "Anthropic PBC is rolling out a new artificial intelligence model that is meant to handle workplace tasks adeptly and affordably, a key selling point as some customers grow more cost conscious and competition increases in China.",
-          "published": "2026-07-24T17:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "트럼프, EU ‘구글 과징금’에 “美기업 약탈…큰 대가 치르게 될 것” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYZ3p5VDM5cUdSVWg3dXhxMnBQZlR1aW0xRWRBajZLQWRycEVhN05UbmwtdjRkeWowWjlvb1UzTUhuT3NxdWJXcEtyZjhPZ2x3NkE?oc=5",
-          "summary": "트럼프, EU ‘구글 과징금’에 “美기업 약탈…큰 대가 치르게 될 것” &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-24T21:52:25+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "엔비디아·MS·메타 \"오픈소스 막지 마라\"...미국 정부에 공동 서한 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UYzl5NFZWTE9pTUU0OE5tcjJXa0ZCeTJLZkVoZU9rMndXLWF6ZXIxTDBTTzluYzIyY1pkVXBqaUM2cTY0bHZOM1pDcWZzSWowNmFxem0wRVZ5WUZsbUZ6b2ZQRnAxVlJFTnc?oc=5",
+          "summary": "엔비디아·MS·메타 \"오픈소스 막지 마라\"...미국 정부에 공동 서한 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-25T01:08:43+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "조승래 의원, 제22대 국회 전반기 '대한민국 헌정대상' 수상",
-          "link": "https://zdnet.co.kr/view/?no=20260724184658",
-          "summary": "[지디넷코리아]조승래 더불어민주당 의원(대전 유성구갑)이 제22대 국회 전반기 의정활동 종합평가에서 '대한민국 헌정대상' 수상자로 선정됐다.조승래 의원실은 법률소비자연맹이 주관하는 제22대 국회 전반기 대한민국 헌정대상을 수상하게 됐다고 24일 밝혔다. 조 의원은 이번 수상으로 통산 9번째 헌정대상 수상을 기록하게 됐다.헌정대상을 주관하는 법률소비자연맹은 본회의 및 상임위원회 출석률, 법안표결 참여도, 통과된 대표발의 법안 성적, 국정감사 평가 등 12개 객관적 지표를 계량화해 우수의원을 선정한다. 조 의원은 제22대 국회 개원 이후 총 43건의 법안을 대표발의해 이 중 13건을 본회의에서 통과시키는 등 의정 성과를 거두었다.특히 공연 및 스포츠 경기의 암표 거래를 근절하기 위한 '공연법' 개정안과 가상자산 활용 보이스피싱 피해 구제를 위한 '전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법' 개정안 등을 대표발의해 처리하며 민생 문제 해결에 기여했다는 평가를 받았다.조승래 ",
-          "published": "2026-07-24T10:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "[현장] 한국 상륙한 AI 플랫폼 '젠스파크'…3년간 1억 달러 투자",
-          "link": "https://zdnet.co.kr/view/?no=20260724171937",
-          "summary": "[지디넷코리아]글로벌 인공지능(AI) 워크스페이스 플랫폼 스타트업 젠스파크가 한국 시장에 공식 진출하며 공격적인 투자에 나선다. 향후 3년간 1억 달러(약 1475억원)를 투입해 조직과 파트너 생태계를 확대하는 동시에, 한국 기업과 협력해 소버린 AI 구축도 지원한다는 목표다.웬 상 젠스파크 공동창업자 겸 최고운영책임자(COO)는 24일 서울 광진구 본다빈치뮤지엄 능동에서 열린 '젠스파크 AI 워크스페이스 6.0 미디어데이'에서 \"한국은 전 세계에서 가장 중요한 시장 가운데 하나\"라며 \"3년간 1억 달러(약 1475억원)를 투자해 팀과 파트너십, 사업을 확대하고 가장 최신 AI 기술을 한국 고객에게 제공하겠다\"고 밝혔다.이날 행사에는 에릭 징 공동창업자 겸 최고경영자(CEO), 케이 주 공동창업자 겸 최고기술책임자(CTO), 제이미슨 파월 최고수익책임자(CRO) 등 핵심 경영진이 모두 자리했다. 투자사 미래에셋과 파트너사 LG유플러스, 마이크로소프트(MS) 실무진들도 참석해 한국 시",
-          "published": "2026-07-24T08:34:28+00:00",
+          "title": "버라이즌, 구글과 10억 달러 데이터센터 통신 계약 따냈다",
+          "link": "https://zdnet.co.kr/view/?no=20260725083545",
+          "summary": "[지디넷코리아]버라이즌이 구글과 10억 달러(약 1조 4600억원) 규모의 데이터센터 연결 계약을 체결했다는 소식이다. 연내 추가 계약도 발표할 예정이다.댄 슐만 버라이즌 CEO는 24일(현지시간) 2분기 실적발표 컨퍼런스콜에서 “구글 데이터센터에 (미사용 광 네트워크를 제공하는) 다크파이버 연결 서비스를 제공할 것”이라며 “향후 수십억 달러 규모의 매출을 창출할 추가 계약도 연내 발표할 것으로 기대한다”고 밝혔다.그는 또 “핵심 연결(Connectivity) 사업이 탄력을 받고 있고 AI 인프라 관련 매출이 새로운 성장 동력으로 자리 잡기 시작했다”고 덧붙였다.지난해 회사 실적 부진으로 급하게 투입된 슐만 CEO 체제에서 기존 사업 실적의 개선도 이뤄낸 모습이다.버라이즌은 요금제 단순화 개편과 고객 충성 프로그램으로 지난 2분기 후불 요금제 모바일 가입자 18만 4000 순증을 기록했다. 최근 5년간 최대 수치다. 모바일을 비롯해 초고속인터넷 전체 순증 가입자는 55만으로 전년 동",
+          "published": "2026-07-24T23:50:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
+          "summary": "Nvidia Corp. will invest $1 billion in Naver Corp. to help finance an AI data center under construction in South Korea, adding to a frenzy of deals by the world’s most valuable company.",
+          "published": "2026-07-24T23:58:05+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
+          "summary": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
+          "published": "2026-07-25T00:44:09+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아 본사 찾은 정의선, 젠슨 황과 AI 동맹 후속 논의",
+          "link": "https://zdnet.co.kr/view/?no=20260725105642",
+          "summary": "[지디넷코리아]정의선 현대자동차그룹 회장이 미국 엔비디아 본사를 찾아 젠슨 황 최고경영자(CEO)와 다시 만났다. 지난달 서울에서 열린 회동 이후 한 달여 만에 이뤄진 후속 만남으로, 자율주행과 로봇, 제조 인공지능(AI) 등 미래 사업 협력에 본격 속도를 내기 위한 행보로 풀이된다.엔비디아는 24일(현지시간) X(옛 트위터)를 통해 정의선 회장이 미국 캘리포니아주 산타클라라에 위치한 엔비디아 본사를 방문해 젠슨 황 CEO와 만난 사진을 공개했다.양측은 이번 면담에서 자율주행과 로봇, 제조 AI를 비롯해 지난 6월 젠슨 황 CEO의 한국 방문 당시 논의했던 협력 방안의 후속 내용을 협의한 것으로 알려졌다.앞서 젠슨 황 CEO는 지난달 8일 서울 양재동 현대차그룹 본사를 방문해 정의선 회장과 회동했다. 당시 양사는 자율주행, 로봇, AI 팩토리(제조 AI), 데이터센터 등 미래 모빌리티와 AI 인프라 전반으로 협력 범위를 확대하기로 뜻을 모았다.당시 젠슨 황 CEO는 \"모빌리티부터 로",
+          "published": "2026-07-25T02:00:57+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
@@ -282,6 +227,44 @@
           ]
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
+        {
+          "title": "이 대통령 만난 젠슨 황 \"SK그룹과 730조원 파트너십 발표\"",
+          "link": "https://zdnet.co.kr/view/?no=20260725102352",
+          "summary": "[지디넷코리아]젠슨 황 엔디비아 최고경영자(CEO)가 SK그룹과 5000억 달러(한화 약 730조원) 규모에 이르는 대규모 파트너십을 발표한다. 네이버, 현대자동차, LG 등과도 협력을 강화할 예정이다.24일(현지시간) 이재명 대통령은 미국 샌프란시스코 소재 한 호텔에서 젠슨 황 CEO와 면담했다.이날 이 대통령은 \"대한민국이 AI 황금시대로 진입하는 데 앞으로 더 중심적인 역할을 해주실 것으로 기대한다\"고 말했다.이에 젠슨 황은 \"SK그룹과 오늘 양사 간의 비즈니스 파트너십을 발표할 것\"이라며 \"그 규모는 5000억 달러에 달한다\"고 답했다. 네이버, 현대자동차 등과도 협력을 약속했다. 젠슨 황은 \"네이버는 한국의 선도적인 클라우드 회사로, 네이버에 대한 대규모 투자도 단행할 것\"이라며 \"이번 파트너십으로 한국뿐만이 아니라 전 세계적인 확장을 지원하겠다\"고 강조했다. 그는 이어 현대차그룹과의 파트너십을 통해 자율주행 제네시스 차량을 함께 개발하고, 로보틱스도 같이 진행을 할 계획\"",
+          "published": "2026-07-25T01:57:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
