@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-25T21:59:05.702927+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-07-26T22:01:32.900138+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "SpaceX Starship Deploys Starlink Craft During Post-IPO Test",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/spacex-launches-major-starship-flight-test-in-post-ipo-spotlight",
-          "summary": "SpaceX’s Starship deployed upgraded Starlink satellites and returned to Earth largely unscathed, advancing Elon Musk’s IPO-fueled plans to scale his dominant rocket business into an artificial intelligence and satellite communications empire.",
-          "published": "2026-07-24T22:51:38+00:00",
+          "title": "European SpaceX Rival in Talks to Raise $300 Million, FT Reports",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-26/european-spacex-rival-in-talks-to-raise-300-million-ft-reports",
+          "summary": "The Exploration Company Gmbh, a potential European rival to Elon Musk’s SpaceX, is in talks to raise at least $300 million, in part from the European Union’s Scaleup Europe Fund, bumping the company’s valuation to more than $2 billion, the Financial Times reported.",
+          "published": "2026-07-26T17:49:40+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -18,9 +18,9 @@
           "category_display": "일론 머스크",
           "score": 16,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -29,20 +29,20 @@
           ]
         },
         {
-          "title": "머스크 터널굴착업체 보링컴퍼니, 29조원 가치로 자금조달 추진 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sQzRNNDloYUdzWEk2Mk15bXRQTGJpR2FlaGh4YTZjdEo4UlZpZHBBVm95UVZCa2tzdlFqZTY3Y0E2di1acWFZRGl2TmFORzdwWGc?oc=5",
-          "summary": "머스크 터널굴착업체 보링컴퍼니, 29조원 가치로 자금조달 추진 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-25T17:15:49+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "머스크 \"첨단 AI, 배포 전 경쟁사가 2주간 '동료 평가' 해야\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9sZkpCMS1nemtjZzhUNHdiek9vaHo1RDBaVkN3ZEtkME45bnFtYmg4M1NicTdmZlVZbmhXTnhndldwbnVHRmpjWS13QmFINUtqUlJsdER3Z0dKUnZ3UW9YUmxiaEozSUpKSGc?oc=5",
+          "summary": "머스크 \"첨단 AI, 배포 전 경쟁사가 2주간 '동료 평가' 해야\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-26T02:25:20+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -55,42 +55,79 @@
       "count": 8,
       "articles": [
         {
-          "title": "\"AI 통제 안된다\"…빅테크, '오픈웨이트 규제' 집단 반발",
-          "link": "https://zdnet.co.kr/view/?no=20260725084504",
-          "summary": "[지디넷코리아]엔비디아를 비롯한 20개 이상 테크기업들이 미국 정부에 ‘오픈웨이트’ 인공지능(AI) 모델에 대한 성급한 규제를 재고해달라는 공개서한을 보냈다고 CNBC를 비롯한 주요 외신들이 24일(현지시간) 보도했다.젠슨 황 엔비디아 최고경영자(CEO)와 사티아 나델라 마이크로소프트 CEO 등이 주도한 이번 서한에는 두 회사 외에도 메타, 팔란티어, IBM 등 주요 테크기업들이 동참했다.오픈웨이트 모델은 최근 중국업체 문샷AI의 ‘키미 K3’를 계기로 관심을 끌고 있다.오픈소스는 모델의 구조를 비롯한 학습 코드, 데이터셋 정보, 파라미터 등 전 요소를 투명하게 공개하는 방식이다. 사용자는 모델 작동 원리를 분석하고 수정할 수 있다. 반면 오픈웨이트는 말 그대로 학습 가중치만 외부에 제공하는 식이다. 제한적 공개 모델이라고 부르기도 한다. 공개 범위에 모델의 설계 코드나 학습 데이터는 포함되지 않는다. 사용자들도 모델 파인튜닝이나 추론은 가능하지만 구조 변경이나 재학습을 할 수는 없",
-          "published": "2026-07-24T23:53:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Apple Glasses May Debut at WWDC 2027: Privacy, Camera Features Versus Meta",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-07-26/apple-glasses-may-debut-at-wwdc-2027-privacy-camera-features-versus-meta-ms1v7lta",
+          "summary": "Company debated whether glasses will be able to record video.",
+          "published": "2026-07-26T14:00:02+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 17,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "OTT도 소버린...유럽서 독자 플랫폼 구성 움직임",
-          "link": "https://zdnet.co.kr/view/?no=20260724221639",
-          "summary": "[지디넷코리아]유럽 방송사·미디어 기업이 미국 클라우드 대신 쓸 수 있는 유럽 자체 기술 기반 OTT 플랫폼 솔루션 개발에 뜻을 모았다. 큐베스트, 아템, 스케일웨이는 OTT 서버 구축, 콘텐츠 송출, 플랫폼 운영을 한 번에 해결하겠다는 전략이다.24일(현지시간) 브로드밴드TV에 따르면, 큐베스트·아템·스케일웨이는 유럽 미디어 기업 자체 OTT 플랫폼 구축을 위한 솔루션을 개발했다.유럽 미디어 기업은 아마존웹서비스, 마이크로소프트 애저, 구글 클라우드 등 미국 클라우드를 사용해 OTT 서비스를 제공해 왔다. 유럽연합(EU)은 OTT 이용자 개인정보와 데이터가 미국으로 유출되는 것을 막고자 자국민 데이터 보호 규제를 강화하고 클라우드 주권 가이드라인을 정립했다.유럽 방송사는 미국 클라우드를 계속 이용하면 규제 위반으로 벌금을 물거나 공공 사업 입찰 참여가 제한될 가능성이 있기에, 미국 클라우드 사용을 줄여야 한다. 3사 개발 OTT 솔루션은 EU 자체 클라우드와 기술이 적용돼 가이드라",
-          "published": "2026-07-24T23:40:01+00:00",
+          "title": "피지컬 AI 기업 선언한 현대차그룹…실리콘밸리 혁신거점 키운다",
+          "link": "https://zdnet.co.kr/view/?no=20260726133355",
+          "summary": "[지디넷코리아]최근 정의선 현대자동차그룹 회장이 '피지컬 AI' 비전을 공개한 가운데 그룹이 미국 실리콘밸리 혁신 생태계와 협력을 강화한다. 연구개발(R&amp;D) 거점 구축과 글로벌 인재 확보, 스타트업·과학 분야 협업을 확대해 AI와 자율주행, 로보틱스 경쟁력 강화에 나선다.26일 업계에 따르면 정의선 현대차그룹 회장은 최근 미국 샌프란시스코에서 열린 '샌프란시스코 AI 서밋'에서 자동차와 로봇 등 개별 디바이스의 지능화를 넘어 공장과 도시까지 연결하는 '피지컬 AI' 비전을 발표했다.이를 구현하기 위해 엔비디아, 웨이모, 구글 딥마인드 등 글로벌 빅테크와 협력을 확대하고 로봇 레퍼런스 플랫폼 구축, 새만금 AI 밸리 투자 등도 추진하고 있다.현대차그룹은 이러한 비전을 뒷받침하기 위해 샌프란시스코 혁신 생태계와의 협력을 지속적으로 강화해 왔다.대표적인 거점은 실리콘밸리 오픈 이노베이션 조직인 '현대 크래들'이다. 현대차그룹은 2011년 설립한 현대 벤처스를 2017년 현대 크래",
+          "published": "2026-07-26T04:33:55+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 9,
+            "keyword": 8,
             "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
+          "summary": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.",
+          "published": "2026-07-26T14:00:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글 과징금에 뿔난 美, EU에 보복관세 경고 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTF6RXZJOUEwOG4tN3ZsUndqYmYxSDlPU1g1azVOSHEwNU5YYzZGV3NYcnBfWUdqTXZiWXhBNmhrZzNzSF9FY3lEUFlNQ2Q2ZTkwX2hIdFhnVm9VTjE4cVJsTFhLNDFldnk2RmRIX2UyYVNpNFRVbkY3TUtTcktwelBMU2ZWQnVh?oc=5",
+          "summary": "구글 과징금에 뿔난 美, EU에 보복관세 경고 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-26T08:19:36+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -100,40 +137,18 @@
           ]
         },
         {
-          "title": "정의선 회장 \"현대차그룹, 자동차 넘어 피지컬 AI 기업으로\"",
-          "link": "https://zdnet.co.kr/view/?no=20260725160202",
-          "summary": "[지디넷코리아]현대자동차그룹이 자동차 제조기업을 넘어 인공지능(AI)이 실제 자율주행과 로보틱스, 공장에 작동하는 '피지컬 AI' 솔루션 기업으로 전환한다. 엔비디아와 웨이모, 구글 딥마인드 등 글로벌 빅테크와 협력해 자동차와 로봇의 지능화를 넘어 공장과 도시 인프라까지 연결하는 AI 생태계를 구축한다는 전략이다.정의선 현대차그룹 회장은 24일(현지시간) 미국 샌프란시스코에서 열린 '샌프란시스코 AI 서밋'에서 \"현대차그룹은 전통적인 자동차 제조의 경계를 넘어 현재 자율주행과 로보틱스, AI 팩토리 등의 피지컬 AI 솔루션 기업으로 전환을 추진하고 있다\"고 밝혔다.이날 행사에는 이재명 대통령과 배경훈 부총리 겸 과학기술정보통신부 장관, 김용범 대통령실 정책실장을 비롯해 이재용 삼성전자 회장, 최태원 SK그룹 회장, 이해진 네이버 이사회 의장, 젠슨 황 엔비디아 CEO, 샘 올트먼 오픈AI CEO 등 국내외 주요 기업인이 참석했다. 참석자는 약 150명이다.현대차그룹이 구상하는 피지컬",
-          "published": "2026-07-25T07:38:26+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "엔비디아·MS·메타 \"오픈소스 막지 마라\"...미국 정부에 공동 서한 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UYzl5NFZWTE9pTUU0OE5tcjJXa0ZCeTJLZkVoZU9rMndXLWF6ZXIxTDBTTzluYzIyY1pkVXBqaUM2cTY0bHZOM1pDcWZzSWowNmFxem0wRVZ5WUZsbUZ6b2ZQRnAxVlJFTnc?oc=5",
-          "summary": "엔비디아·MS·메타 \"오픈소스 막지 마라\"...미국 정부에 공동 서한 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-25T01:08:43+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "아마존·구글도 멈추게 할 ‘이 회사’…韓 ETF로 쉽게 담으세요 [이번주 찜할 ETF] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LMzMxWTBVTVNCOEtwbXRvdWxjNE9qTVlZc2pSOTYxZVgtVnNjZF9zOFQ3Q2dZZVhCT0VXRTZDZkhRUmRIck42WUhpY1gzd0ZKU1E?oc=5",
+          "summary": "아마존·구글도 멈추게 할 ‘이 회사’…韓 ETF로 쉽게 담으세요 [이번주 찜할 ETF] &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-26T09:43:55+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -142,42 +157,19 @@
           "event_labels": []
         },
         {
-          "title": "버라이즌, 구글과 10억 달러 데이터센터 통신 계약 따냈다",
-          "link": "https://zdnet.co.kr/view/?no=20260725083545",
-          "summary": "[지디넷코리아]버라이즌이 구글과 10억 달러(약 1조 4600억원) 규모의 데이터센터 연결 계약을 체결했다는 소식이다. 연내 추가 계약도 발표할 예정이다.댄 슐만 버라이즌 CEO는 24일(현지시간) 2분기 실적발표 컨퍼런스콜에서 “구글 데이터센터에 (미사용 광 네트워크를 제공하는) 다크파이버 연결 서비스를 제공할 것”이라며 “향후 수십억 달러 규모의 매출을 창출할 추가 계약도 연내 발표할 것으로 기대한다”고 밝혔다.그는 또 “핵심 연결(Connectivity) 사업이 탄력을 받고 있고 AI 인프라 관련 매출이 새로운 성장 동력으로 자리 잡기 시작했다”고 덧붙였다.지난해 회사 실적 부진으로 급하게 투입된 슐만 CEO 체제에서 기존 사업 실적의 개선도 이뤄낸 모습이다.버라이즌은 요금제 단순화 개편과 고객 충성 프로그램으로 지난 2분기 후불 요금제 모바일 가입자 18만 4000 순증을 기록했다. 최근 5년간 최대 수치다. 모바일을 비롯해 초고속인터넷 전체 순증 가입자는 55만으로 전년 동",
-          "published": "2026-07-24T23:50:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oT2dqeUl5T2VFUFpRRzlXNktvaFVXbHpERWVWcU40dkptd3hCZWJlSF9QMzZqZXVDMERxX3ZMWmExZGh5b29UWks0VTBnMlNaUFBGOWlWR1NPNHVOQWFIMnNrNHBlbmJ0NFE?oc=5",
+          "summary": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-26T03:19:54+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Nvidia to Invest $1 Billion in Naver and Expand SK Group Accord",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-24/nvidia-to-invest-1-billion-in-naver-and-expand-sk-group-accord",
-          "summary": "Nvidia Corp. will invest $1 billion in Naver Corp. to help finance an AI data center under construction in South Korea, adding to a frenzy of deals by the world’s most valuable company.",
-          "published": "2026-07-24T23:58:05+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -185,19 +177,19 @@
           "event_labels": []
         },
         {
-          "title": "SK Chair Says Anthropic Asked for Supplies to Make Its Own Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-25/sk-chair-says-anthropic-asked-for-supplies-to-make-its-own-chips",
-          "summary": "AI developer Anthropic PBC has asked SK Hynix Inc., one of the world’s biggest manufacturers of memory chips, for supplies to make its own semiconductors, SK Group Chairman Chey Tae Won said.",
-          "published": "2026-07-25T00:44:09+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "현대차그룹, 엔비디아 손잡고 '휴머노이드 로봇 생태계' 만든다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxNGdqOVgzZW5Ga3RBeHlJaHJxOGNfLUlpa1RhR3VHTmF2S01CUlN3UTFBZVE3RG8wZnR3b0lPMkN0bDBYMnJpYl96ektVeldhZ0w3RA?oc=5",
+          "summary": "현대차그룹, 엔비디아 손잡고 '휴머노이드 로봇 생태계' 만든다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-26T08:12:39+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -205,26 +197,24 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아 본사 찾은 정의선, 젠슨 황과 AI 동맹 후속 논의",
-          "link": "https://zdnet.co.kr/view/?no=20260725105642",
-          "summary": "[지디넷코리아]정의선 현대자동차그룹 회장이 미국 엔비디아 본사를 찾아 젠슨 황 최고경영자(CEO)와 다시 만났다. 지난달 서울에서 열린 회동 이후 한 달여 만에 이뤄진 후속 만남으로, 자율주행과 로봇, 제조 인공지능(AI) 등 미래 사업 협력에 본격 속도를 내기 위한 행보로 풀이된다.엔비디아는 24일(현지시간) X(옛 트위터)를 통해 정의선 회장이 미국 캘리포니아주 산타클라라에 위치한 엔비디아 본사를 방문해 젠슨 황 CEO와 만난 사진을 공개했다.양측은 이번 면담에서 자율주행과 로봇, 제조 AI를 비롯해 지난 6월 젠슨 황 CEO의 한국 방문 당시 논의했던 협력 방안의 후속 내용을 협의한 것으로 알려졌다.앞서 젠슨 황 CEO는 지난달 8일 서울 양재동 현대차그룹 본사를 방문해 정의선 회장과 회동했다. 당시 양사는 자율주행, 로봇, AI 팩토리(제조 AI), 데이터센터 등 미래 모빌리티와 AI 인프라 전반으로 협력 범위를 확대하기로 뜻을 모았다.당시 젠슨 황 CEO는 \"모빌리티부터 로",
-          "published": "2026-07-25T02:00:57+00:00",
+          "title": "KAIST-엔비디아, \"인체동작 파운데이션 모델 개발\"",
+          "link": "https://zdnet.co.kr/view/?no=20260726190346",
+          "summary": "[지디넷코리아]KAIST가 엔비디아와 KAIST 내에 '인간물리지능 테크놀로지센터(휴먼 피지컬 AI NVAITC)’를 설립하기로 했다.26일 정진용 KAIST 기계공학과 초빙교수는 \"사전논의를 어느정도 끝내고, 양자간 온라인으로 협약도 체결했다. 협약 행사는 하반기에 할 예정\"이라며 \"구체적으로 어떤 분야를 협업할지 연구진끼리 논의에 들어갈 것\"이라고 말했다.정 교수는 \"예산이 오가는 건 아니다. 각자가 알아서 펀딩하고 연구한다. 공동 운영위원회를 구성, 연구 계획이나 일정, 목표 등을 지속 논의할 계획\"이라고 보충 설명했다.향후 엔비디아 연구팀은 5~6명 정도 구성될 것으로 정 교수는 예상했다.KAIST 측은 엔비디아와 협력해 인간 움직임과 물리지능을 학습하는 ‘인체 동작 파운데이션 모델'을 개발할 계획이다. KAIST 인간 중심 로봇 기술 및 실제 동작 데이터에 엔비디아 AI 기술과 글로벌 연구 네트워크를 결합, 차세대 피지컬 AI 원천기술을 확보해보겠다는 것.KAIST 인간물리",
+          "published": "2026-07-26T10:03:46+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -235,31 +225,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "이 대통령 만난 젠슨 황 \"SK그룹과 730조원 파트너십 발표\"",
-          "link": "https://zdnet.co.kr/view/?no=20260725102352",
-          "summary": "[지디넷코리아]젠슨 황 엔디비아 최고경영자(CEO)가 SK그룹과 5000억 달러(한화 약 730조원) 규모에 이르는 대규모 파트너십을 발표한다. 네이버, 현대자동차, LG 등과도 협력을 강화할 예정이다.24일(현지시간) 이재명 대통령은 미국 샌프란시스코 소재 한 호텔에서 젠슨 황 CEO와 면담했다.이날 이 대통령은 \"대한민국이 AI 황금시대로 진입하는 데 앞으로 더 중심적인 역할을 해주실 것으로 기대한다\"고 말했다.이에 젠슨 황은 \"SK그룹과 오늘 양사 간의 비즈니스 파트너십을 발표할 것\"이라며 \"그 규모는 5000억 달러에 달한다\"고 답했다. 네이버, 현대자동차 등과도 협력을 약속했다. 젠슨 황은 \"네이버는 한국의 선도적인 클라우드 회사로, 네이버에 대한 대규모 투자도 단행할 것\"이라며 \"이번 파트너십으로 한국뿐만이 아니라 전 세계적인 확장을 지원하겠다\"고 강조했다. 그는 이어 현대차그룹과의 파트너십을 통해 자율주행 제네시스 차량을 함께 개발하고, 로보틱스도 같이 진행을 할 계획\"",
-          "published": "2026-07-25T01:57:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
