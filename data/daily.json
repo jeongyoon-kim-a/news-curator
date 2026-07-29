@@ -1,67 +1,21 @@
 {
-  "generated_at": "2026-07-28T22:07:16.075398+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-07-29T22:03:44.708721+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "SpaceX Rebounds After Briefly Plunging 20% Below IPO Price",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-28/spacex-falls-20-below-ipo-price-erasing-1-2-trillion-value",
-          "summary": "SpaceX shares bounced back after temporarily erasing one-fifth of their value from the record setting debut of Elon Musk’s rocket, satellite and artificial intelligence company, as investors shunned riskier technology firms.",
-          "published": "2026-07-28T13:41:29+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic CEO urges Washington to tighten China chip export bans",
-          "link": "https://www.scmp.com/tech/big-tech/article/3362105/anthropic-ceo-amodei-urges-washington-tighten-china-chip-export-bans?utm_source=rss_feed",
-          "summary": "Anthropic co-founder and CEO Dario Amodei is urging Washington to tighten chip export bans and clamp down on Chinese “distillation”, framing it as critical for preserving the US lead in artificial intelligence. In a blog post on Monday, Amodei called a chip ban “the most efficient and direct way” of preventing Beijing from building frontier AI models for military use and domestic surveillance, which he said was his primary concern. The US “should not sell powerful chips or chipmaking equipment..",
-          "published": "2026-07-28T07:10:57+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "China DUV Chipmaking: How Machine Advances Could Reduce Reliance on ASML, Nvidia",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-28/china-duv-chipmaking-how-machine-advances-could-reduce-reliance-on-asml-nvidia",
-          "summary": "China’s semiconductor industry may have achieved a breakthrough in building chipmaking machines that have long been dominated by the Netherlands’ ASML Holding NV. A state-backed firm in Shanghai has found a way to make so-called immersion deep ultraviolet lithography tools that are capable of manufacturing the most widely used chips, according to the Information.",
-          "published": "2026-07-28T17:38:33+00:00",
+          "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
+          "summary": "A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the center of OpenAI’s accidental hack into the startup Hugging Face Inc.",
+          "published": "2026-07-29T18:41:55+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -78,72 +32,54 @@
           "event_labels": []
         },
         {
-          "title": "사티아 나델라 MS CEO \"특정 AI 모델 의존하는 기업, 살아남기 어렵다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260728165704",
-          "summary": "[지디넷코리아]사티아 나델라 마이크로소프트(MS) 최고경영자(CEO)가 기업이 특정 인공지능(AI) 모델이나 AI 기업에 업무 전반을 의존하는 구조는 장기적으로 경쟁력을 잃을 수 있다고 경고했다. 데이터와 프롬프트, AI 활용 과정에서 생성되는 메타데이터까지 기업이 직접 통제하는 구조를 갖춰야 향후 자체 AI 경쟁력을 확보할 수 있다는 제언이다.나델라 CEO는 27일(현지시간) CNN 프로그램 '파리드 자카리아 GPS' 인터뷰에서 \"기업들이 AI 모델 제공업체와 얼마나 많은 정보를 공유하는지 신중하게 살펴봐야 한다\"며 \"데이터와 프롬프트뿐 아니라 모델을 사용할 때 생성되는 메타데이터도 기업이 직접 보유해야 한다\"고 밝혔다.그는 AI 도입 과정에서 가장 중요한 것은 특정 모델 성능보다 데이터 주권을 확보하는 것이라고 강조했다. AI를 활용하며 축적되는 정보가 향후 기업의 자체 모델 개발과 경쟁력을 좌우할 핵심 자산이 될 수 있다는 설명이다.그러면서 AI 기업이 제공하는 폐쇄형 모델이나",
-          "published": "2026-07-28T08:16:29+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Meta Gives Lackluster Quarterly Sales Forecast; Shares Drop",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast",
+          "summary": "Meta Platforms Inc. gave a disappointing revenue forecast for the current quarter, intensifying investor concerns that the social media giant isn’t swiftly benefiting from its massive outlay on artificial intelligence.",
+          "published": "2026-07-29T20:11:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "earnings"
           ]
         },
         {
-          "title": "AI’s Circular Financing Is Back With Nvidia’s Latest Deals",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-07-28/ai-s-circular-financing-is-back-with-nvidia-s-latest-deals",
-          "summary": "Investors worry that increasingly circular deals might artificially inflate demand and magnify losses if AI fails to turn profits in the future.",
-          "published": "2026-07-28T10:30:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "메타, 2분기 실적 ‘적당’, AI 투자 부담에 발목…시간외 10% 급락 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YbzRJWXhsX1R4NUU4aXhETXEyWVg3TDU4d1lZVkxScUU4QU8wVkNnakZyVnNnQVpDTGZHOHNmTVV4N01MaXJZSGlIZjYyZw?oc=5",
+          "summary": "메타, 2분기 실적 ‘적당’, AI 투자 부담에 발목…시간외 10% 급락 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-29T21:50:43+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "Moonshot Seeks More Nvidia Chips for Next AI Model, Report Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-28/moonshot-seeks-more-nvidia-chips-for-next-ai-model-report-says",
-          "summary": "Chinese startup Moonshot AI is seeking access to more of Nvidia Corp.’s advanced Blackwell chips to train the next version of its model, Kimi K4, The Information reported, citing sources it didn’t name.",
-          "published": "2026-07-28T13:27:50+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Moonshot’s Kimi K3 triggers Silicon Valley debate over bans on Chinese open source models",
-          "link": "https://www.scmp.com/tech/article/3362143/moonshots-kimi-k3-triggers-silicon-valley-debate-over-bans-chinese-open-source-models?utm_source=rss_feed",
-          "summary": "China’s Moonshot AI has made its latest artificial intelligence model Kimi K3 available for public download, as its open-source strategy and more support for non-Nvidia ecosystems trigger heated debates across Silicon Valley. On Monday, the Chinese AI start-up not only released the model’s “weights” – the underlying parameters that encode its intelligence – but also made available key infrastructure, including tools to improve efficiency and stability. The move has allowed developers around the.",
-          "published": "2026-07-28T12:00:13+00:00",
+          "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
+          "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares?utm_source=rss_feed",
+          "summary": "China’s increasing clout in the global semiconductor supply chain is accelerating the unravelling of the artificial-intelligence trade, as expectations grow that the Asian nation will challenge foreign tech juggernauts by supplying the world with cheaper alternative products. The US$9.8 billion stock offering of ChangXin Memory Technologies (CXMT) in Shanghai provided the Chinese maker of dynamic random access memory (DRAM) chips with equity funding to finance its expansion of market share home.",
+          "published": "2026-07-29T11:00:16+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -160,19 +96,19 @@
           "event_labels": []
         },
         {
-          "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-          "link": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.&#160; —Will Douglas Heaven, senior AI editor Reading OpenAI’s account last week of how some of its models broke their&#8230;",
-          "published": "2026-07-28T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "[카드뉴스] AI 안경, 폰을 이길 수 있을까",
+          "link": "https://zdnet.co.kr/view/?no=20260729095619",
+          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 요즘 화제인 AI 안경 이야기를 준비해봤어요. \"AI 안경이 폰을 이길 수 있을까?\"라는 질문으로 시작하는데, 결론부터 말씀드리면 폰을 없애는 게 아니라 폰을 도와주는 든든한 짝꿍으로 자리 잡고 있다는 거예요. 수치로 보면 성장세가 정말 놀라운데요, AI 안경 판매량이 1년 만에 무려 167%나 늘었대요. 그야말로 쑥쑥 크고 있는 시장이죠. 그런데 이 시장, 지금은 메타가 거의 독차지하고 있어요. 10명 중 7명이 메타 안경을 쓸 정도로, 메타가 69%의 점유율을 가져가고 다른 회사들은 31%에 그치고 있답니다.사실 AI 안경이 처음부터 잘 나간 건 아니에요. 첫 시도는 실패했고, 음성 안경 단계를 거쳐 AI를 만나면서 비로소 똑똑해졌다고 해요. 삼성, 애플, 메타 세 회사가 각자 다른 전략으로 도전 중인데요, 메타는 이미 판매 중이고, 삼성은 폰과 짝을 이루는 방식을, 애플은 2027년 출시를 목표로 준비하고 있대요. 흥미로",
+          "published": "2026-07-29T12:05:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -180,20 +116,60 @@
           "event_labels": []
         },
         {
-          "title": "설치 수월해진 엔비디아 '베라 루빈', 클라우드 업계 초기 호평 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53NnBOckhDZ0tnOG84bVB0b3VxWWNwSXZKemNIbTZ6MUd4ZVdaUjZwaXRLM3V2ZElhSWE0RThvRW1ac0JnbDNuZnlRNTAzTEtxclRfQjZ6LWhISGZ1RzJjSWtzQkxCLV84TGc?oc=5",
-          "summary": "설치 수월해진 엔비디아 '베라 루빈', 클라우드 업계 초기 호평 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-28T08:41:13+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "애플 \"코딩 에이전트, 개발 생태계에 깊이 통합\"",
+          "link": "https://zdnet.co.kr/view/?no=20260729213034",
+          "summary": "[지디넷코리아]애플이 자사 앱 개발 생태계에 인공지능(AI) 코딩을 통합해 국내 개발자를 지원하고 있다고 29일 밝혔다. 애플은 이날 서울 강남 애플코리아 사무실에서 국내 미디어 대상 '개발자 생태계 브리핑'을 열고 이러한 내용을 소개했다.엔웨이 시에 애플 디벨로퍼 릴레이션 총괄은 \"한국 개발자들이 최고의 기술을 활용할 수 있도록 코딩 에이전트 역량을 애플 개발 생태계에 깊이 통합하고 있다\"며 \"올해 세계개발자회의(WWDC)에서 공개한 '엑스코드'에는 코딩 에이전트 기능을 추가했다\"고 밝혔다. 이어 \"개발자들은 앤트로픽, 구글, 오픈AI 등 AI 모델 중 원하는 것을 선택해 사용할 수 있다\"고 설명했다. 엑스코드는 애플이 만든 앱 개발 통합개발환경(IDE)이다. 앤웨이 시에 총괄은 애플의 한국 개발자 지원 프로그램도 소개했다. 애플은 지난 2022년부터 한국에서 무료 개발자 교육 프로그램 '디벨로퍼 아카데미'를 열고 있다. 지난 4년 동안 1000명 이상이 아카데미를 수료했다. 동문",
+          "published": "2026-07-29T14:03:39+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Goldman Pitches $5.4 Billion Debt for Microsoft-Tied Data Center",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/goldman-pitches-5-4-billion-debt-for-microsoft-tied-data-center",
+          "summary": "Goldman Sachs Group Inc. is gauging investor appetite for a potential $5.4 billion debt offering to help fund a Blackstone-backed QTS data center tied to Microsoft Corp., as bubble concerns push up costs for artificial intelligence infrastructure financings.",
+          "published": "2026-07-29T20:41:17+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meta’s Free Cash Flow Dwindles to Lowest in Nearly Four Years",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-s-free-cash-flow-dwindles-to-lowest-in-nearly-four-years",
+          "summary": "Meta Platforms Inc.’s free cash flow has fallen to the lowest level since the third quarter of 2022, a result of its transformation from a social media app maker into an AI company.",
+          "published": "2026-07-29T20:53:31+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -203,91 +179,48 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "Retail investors should beware perpetual futures",
-          "link": "https://www.economist.com/finance-and-economics/2026/07/28/retail-investors-should-beware-perpetual-futures",
-          "summary": "These peculiar products, popular in the crypto world, are hitting the mainstream",
-          "published": "2026-07-28T18:48:27+00:00",
-          "source_key": "economist_finance",
-          "source_name": "The Economist - Finance",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "카카오, '카나나' 경량 언어모델 4종 오픈소스 공개…스마트폰서 구동 가능",
-          "link": "https://zdnet.co.kr/view/?no=20260728172730",
-          "summary": "[지디넷코리아]카카오는 자체 개발한 AI 모델 '카나나'의 경량 언어모델(SLM) 4종을 오픈소스로 공개한다고 28일 밝혔다. 이번에 공개한 것은 카나나-2 경량 언어모델 시리즈로, ▲카나나-2-1.3B-base ▲카나나-2-1.3B-instruct ▲카나나-2-3B-base ▲카나나-2-3B-instruct다.카카오는 스마트폰이나 개인 PC 등의 환경에서 직접 구동할 수 있는 경량 언어모델의 중요성이 부각되는 흐름 속에서 크기가 작더라도 실제 서비스에 적용 가능한 수준의 성능을 갖춘 경량 언어모델을 지속적으로 연구해왔다. 이번에 공개한 모델도 다양한 모델 개발 과정에서 축적한 기술과 경험을 바탕으로 개발됐다. 현재 ▲카나나 인 카카오톡 ▲카카오톡 대화요약 및 통화요약 ▲AI 국민비서 등 다양한 서비스에서 카카오의 경량 모델들이 활용되고 있다.이번에 공개한 모델들은 작은 크기에도 한국어와 영어 모두에서 글로벌 수준의 성능을 구현한 것이 특징이다. 유사 크기의 최신(SOTA) 오픈소스",
-          "published": "2026-07-28T08:38:31+00:00",
+          "title": "\"미토스급 AI모델 공격자 손에 들어가는 건 시간문제\"",
+          "link": "https://zdnet.co.kr/view/?no=20260729171251",
+          "summary": "[지디넷코리아] \"미토스 급의 프론티어 AI 모델이 공격자의 손에 들어가는 것은 시간 문제입니다.\"이상준 지란지교시큐리티 최고기술책임자(CTO) 겸 연구소장은 최근 지디넷코리아와 인터뷰에서 공격자들 위협이 기업이나 기관을 노리는 것에서 나아가 보안업체까지도 타깃으로 삼고 있다며 이 같이 밝혔다.이 CTO는 1966년생으로 삼성전자 컴퓨터 시스템사업부에서 사회생활을 시작했다. 90년대 초반 국산 유닉스 시스템 개발 및 사업을 담당했고, 삼성SDS 설립 당시 삼성SDS로 합류해 조달 EDI 중계 시스템 구축 프로젝트 등을 수행했다. 2000년에는 시큐아이에서 공개 키 기반 구조(PKI) 개발 팀장을 역임했다. 2002년 유넷시스템즈로 합류해 연구소장으로 약 15년 근무했다. 지란지교시큐리티에는 2017년 1월 합류, 현재 9년째 CTO를 맡고 있다그는 \"지란지교시큐리티는 AI발 보안 위협에 대비해 AI 기반 취약점 분석을 개발 단계에 적극 활용해 보안성을 높이고 있다. KISA 등 외부",
+          "published": "2026-07-29T13:24:16+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "카카오, 온디바이스용 '카나나-2' 경량 모델 4종 오픈소스 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WOGtGSUc0M1FGUXVUbTZJRGwwQTZzdjg5SnZxcVhHMUp5TDhiaEJsTHp6dWs5ckVkWlJOM1hqQ3RESE9tNkllbFFHS0hDaGlHMmkzOGZKLUtqYzJzTVZJNUFuUlpsY0thYWc?oc=5",
-          "summary": "카카오, 온디바이스용 '카나나-2' 경량 모델 4종 오픈소스 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-28T04:08:46+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "주병기 공정위 \"쿠팡만 겨냥한 것 아냐…배민·네이버도 같은 잣대\"",
-          "link": "https://zdnet.co.kr/view/?no=20260728193252",
-          "summary": "[지디넷코리아]주병기 공정거래위원장이 쿠팡에 대한 정부 조사가 미국 기업을 겨냥한 차별적 법 집행이라는 미국 측 주장에 선을 그었다. 쿠팡 관련 사건 상당수가 지난해 개인정보 유출 사태 이전부터 조사가 진행돼 왔으며, 배달의민족과 네이버 등 다른 플랫폼 사업자에도 같은 기준을 적용하고 있다는 설명이다.28일 주 위원장은 국회 정무위원회 전체회의에 출석해 쿠팡에 대한 공정위 조사와 관련해 지난해 발생한 개인정보 유출 사고와 관계없이 그 이전부터 조사해 온 사건들이 많다고 강조했다.이어 공정위가 쿠팡뿐 아니라 배달의민족과 네이버 등 플랫폼 사업자에도 같은 기준으로 법을 집행하고 있다며, 기업 소유자의 국적에 관계없이 차별 없이 엄정하게 법을 집행하겠다고 밝혔다.이날 민병덕 더불어민주당 의원은 미국 하원 법제사법위원회가 최근 쿠팡을 포함한 미국 기업이 한국에서 차별받고 있다는 취지의 보고서를 낸 데 대한 공정위의 대응을 질의했다.미 하원 법사위는 지난 1일(현지시간) '경쟁 차단: 미국인",
-          "published": "2026-07-28T10:35:39+00:00",
+          "title": "카카오임팩트, AI·교육 전문가 협의체 구성…추진 과제 논의",
+          "link": "https://zdnet.co.kr/view/?no=20260729172527",
+          "summary": "[지디넷코리아]카카오 임팩트재단은 미래세대를 위해 인공지능(AI)·교육 전문가 협의체를 출범시키고, 관련 체계 구축에 나섰다고 29일 밝혔다. 재단은 지난 28일 카카오 AI 캠퍼스에서 AI 시민성 교육 체계 구축을 위한 전문가 협의체 '사이좋은 AI 네트워크'의 출범 기념 라운드테이블을 열고, AI 시대 미래 세대 교육의 방향과 향후 추진 과제 등을 논의했다.카카오 임팩트재단은 2015년부터 11년간 운영해 온 청소년 디지털 시민성 교육 프로그램 '사이좋은 디지털 세상'을 AI 영역으로 전격 확대한다. 이를 통해 청소년이 AI를 주체적이고 책임감 있게 활용하는데 필요한 역량을 기를 수 있도록 'AI 시민성 교육' 모델을 새롭게 구축한다는 방침이다. 이번 전문가 협의체 출범은 지난 2월 '사이좋은 AI 포럼'에서 제시한 AI 시민성 교육의 청사진을 구체화하고, 관련 커리큘럼 및 교육 모델 연구를 본격화하기 위한 후속 조치다.새롭게 도입되는 AI 시민성 교육 모델은 기존의 디지털 시민",
+          "published": "2026-07-29T09:08:14+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
