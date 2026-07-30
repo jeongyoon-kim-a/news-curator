@@ -1,29 +1,93 @@
 {
-  "generated_at": "2026-07-29T22:03:44.708721+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-07-30T22:09:09.845028+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "xAI, 美 미네소타주 상대 소송…\"딥페이크 금지법은 위헌\"",
+          "link": "https://zdnet.co.kr/view/?no=20260730222507",
+          "summary": "[지디넷코리아]일론 머스크가 이끄는 xAI가 현지 시각 7월 27일 미네소타 연방지방법원에 소송을 제기했다. 피고는 키스 엘리슨 미네소타주 법무장관이며, 사건번호는 0:26-cv-03425다. 소장을 낸 법인은 X.AI LLC다. xAI는 2026년 2월 스페이스X에 인수된 뒤 공식 사이트에서 '스페이스XAI'로 브랜드를 통합했다.대상은 미네소타주가 제정한 법안 HF 1606이다. 이 법은 동의 없이 특정인의 신체를 합성한 성적인 이미지, 이른바 '누디파이(nudification)' 이미지를 만드는 앱과 웹사이트를 금지하며 8월 1일 시행을 앞두고 있다. AI 서비스 제공자에게 건당 최대 50만 달러(약 7억2,000만 원)의 민사 제재금을 부과하고, 피해자에게는 3배 손해배상과 징벌적 손해배상을 청구할 권리를 준다.xAI는 소장에서 이 법이 \"지식·의도·목적 요건이 없는 무과실책임 법률\"이며 \"누디피케이션을 금지하려는 어설픈 시도로 표현의 자유와 시각적 표현 도구에 과도하고 내용 ",
+          "published": "2026-07-30T13:25:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 19,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 6,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "regulation"
+          ]
+        },
+        {
+          "title": "How many people are dying as a result of USAID’s demise?",
+          "link": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
+          "summary": "Fewer than academics imagine, but more than Elon Musk will admit",
+          "published": "2026-07-30T09:38:15+00:00",
+          "source_key": "economist_finance",
+          "source_name": "The Economist - Finance",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hbzc0V1pEVzM4R19ubHBwNHlaRi12ZURIMGFwMzZZd08zWFJkUldFYTQyMi1nR2dHdkRUS283V1p2bEZTVVR3MWxWOEJNakM5enZCNHhqRGZzSV8tTWkzYlZ2TllIeG9ZckE?oc=5",
+          "summary": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-30T08:07:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Creator of Test That OpenAI Models Tried to Cheat Sounds Alarm",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-29/creator-of-test-that-openai-models-tried-to-cheat-sounds-alarm",
-          "summary": "A group of university researchers that developed benchmarks to test the cybersecurity capabilities of AI systems have unexpectedly landed themselves at the center of OpenAI’s accidental hack into the startup Hugging Face Inc.",
-          "published": "2026-07-29T18:41:55+00:00",
+          "title": "Banks Line Up $15 Billion of Debt for Anthropic With Google Aid",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
+          "summary": "Banks led by Morgan Stanley are in talks to line up $15 billion of debt for an Anthropic PBC data-center project in Texas, backstopped by Alphabet Inc.’s Google, according to people familiar with the matter.",
+          "published": "2026-07-30T19:20:22+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -32,10 +96,32 @@
           "event_labels": []
         },
         {
-          "title": "Meta Gives Lackluster Quarterly Sales Forecast; Shares Drop",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-gives-lackluster-third-quarter-revenue-forecast",
-          "summary": "Meta Platforms Inc. gave a disappointing revenue forecast for the current quarter, intensifying investor concerns that the social media giant isn’t swiftly benefiting from its massive outlay on artificial intelligence.",
-          "published": "2026-07-29T20:11:49+00:00",
+          "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
+          "summary": "A judge said the Trump administration has not presented enough evidence “really justifying” its decision to ban the federal government from using artificial intelligence technology from Anthropic PBC by designating the company as a threat to the supply chain.",
+          "published": "2026-07-30T18:04:34+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Apple (AAPL) Earnings: Live Q3 2026 Results From iPhone Maker",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-07-30/apple-third-quarter-earnings-live-updates",
+          "summary": "",
+          "published": "2026-07-30T19:23:22+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -54,10 +140,76 @@
           ]
         },
         {
-          "title": "메타, 2분기 실적 ‘적당’, AI 투자 부담에 발목…시간외 10% 급락 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5YbzRJWXhsX1R4NUU4aXhETXEyWVg3TDU4d1lZVkxScUU4QU8wVkNnakZyVnNnQVpDTGZHOHNmTVV4N01MaXJZSGlIZjYyZw?oc=5",
-          "summary": "메타, 2분기 실적 ‘적당’, AI 투자 부담에 발목…시간외 10% 급락 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-29T21:50:43+00:00",
+          "title": "Amazon Reports Fifth Straight Quarter of Cloud Sales Growth",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
+          "summary": "Amazon.com Inc. reported cloud-computing revenue that accelerated for the fifth straight quarter, easing investors’ concerns that the company won’t produce a return on its spending to meet booming demand for artificial intelligence.",
+          "published": "2026-07-30T20:16:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "그록부터 헤일로까지…해외 AI 칩 스타트업 'M&A 도미노' 왜",
+          "link": "https://zdnet.co.kr/view/?no=20260729162837",
+          "summary": "[지디넷코리아]글로벌 인공지능(AI) 반도체 스타트업들의 독자 생존이 위협받고 있다. 막대한 칩 개발비와 양산 후 급증하는 소프트웨어(SDK) 유지보수 비용의 벽에 부딪혀 거대 반도체 기업에 잇따라 흡수되고 있다. 30일 반도체 업계에 따르면 글로벌 엣지 AI 칩 1위 업체 이스라엘 헤일로가 최근 미국 마이크로칩에 인수됐다. 헤일로의 누적 투자금은 3억 4000만달러(약 4880억원)에 달했지만, 칩 설계부터 제조, 소프트웨어 관리까지 전 과정에 발생하는 비용을 감당하지 못하고 매각을 택했다. 인수합병(M&amp;A)은 글로벌 AI 반도체 생태계 전반으로 퍼지고 있다. 한때 엔비디아 대항마로 불렸던 영국 그래프코어는 수조원대 적자를 기록한 끝에 올해 일본 소프트뱅크에 넘어갔다. 이스라엘 하바나랩스는 2019년 20억달러에 인텔에 인수됐다. 언어처리장치(LPU)로 주목받은 그록은 지난해 12월 엔비디아에 흡수됐다. 반도체 전설 짐 켈러가 이끄는 텐스토렌트마저 최근 퀄컴 피인수설이 제기",
+          "published": "2026-07-30T07:48:39+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "US Stocks Rally on Microsoft’s Best Day Since 2008; Chips Jump",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth",
+          "summary": "A rally in tech stocks propelled US indexes on Thursday, with Microsoft Corp. soaring 16% after posting strong earnings, its best day since October 2008.",
+          "published": "2026-07-30T11:32:29+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "아마존, 분기 매출 20% 늘어난 2천억 달러…시장전망치 상회 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1S20zZ2FXU1dmeDhVRkJGeXBGcXcxSzJnU1JNc3l5UDB3UlBGMTg1Q04tUk1RYnJ6dDB5dkUwanpDZjlfdUE2TmREaGU0SjZaSmc?oc=5",
+          "summary": "아마존, 분기 매출 20% 늘어난 2천억 달러…시장전망치 상회 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-30T20:23:57+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -76,78 +228,47 @@
           ]
         },
         {
-          "title": "The CXMT shock: how China’s viable alternatives punch Nvidia, Micron, SK Hynix shares",
-          "link": "https://www.scmp.com/business/china-business/article/3362256/cxmt-shock-how-chinas-viable-alternatives-punch-nvidia-micron-sk-hynix-shares?utm_source=rss_feed",
-          "summary": "China’s increasing clout in the global semiconductor supply chain is accelerating the unravelling of the artificial-intelligence trade, as expectations grow that the Asian nation will challenge foreign tech juggernauts by supplying the world with cheaper alternative products. The US$9.8 billion stock offering of ChangXin Memory Technologies (CXMT) in Shanghai provided the Chinese maker of dynamic random access memory (DRAM) chips with equity funding to finance its expansion of market share home.",
-          "published": "2026-07-29T11:00:16+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[카드뉴스] AI 안경, 폰을 이길 수 있을까",
-          "link": "https://zdnet.co.kr/view/?no=20260729095619",
-          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 요즘 화제인 AI 안경 이야기를 준비해봤어요. \"AI 안경이 폰을 이길 수 있을까?\"라는 질문으로 시작하는데, 결론부터 말씀드리면 폰을 없애는 게 아니라 폰을 도와주는 든든한 짝꿍으로 자리 잡고 있다는 거예요. 수치로 보면 성장세가 정말 놀라운데요, AI 안경 판매량이 1년 만에 무려 167%나 늘었대요. 그야말로 쑥쑥 크고 있는 시장이죠. 그런데 이 시장, 지금은 메타가 거의 독차지하고 있어요. 10명 중 7명이 메타 안경을 쓸 정도로, 메타가 69%의 점유율을 가져가고 다른 회사들은 31%에 그치고 있답니다.사실 AI 안경이 처음부터 잘 나간 건 아니에요. 첫 시도는 실패했고, 음성 안경 단계를 거쳐 AI를 만나면서 비로소 똑똑해졌다고 해요. 삼성, 애플, 메타 세 회사가 각자 다른 전략으로 도전 중인데요, 메타는 이미 판매 중이고, 삼성은 폰과 짝을 이루는 방식을, 애플은 2027년 출시를 목표로 준비하고 있대요. 흥미로",
-          "published": "2026-07-29T12:05:53+00:00",
+          "title": "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
+          "link": "https://zdnet.co.kr/view/?no=20260730164809",
+          "summary": "[지디넷코리아]생성형 AI가 질문에 답하는 수준을 넘어 사용자를 대신해 일을 수행하는 'AI 에이전트' 경쟁으로 확대되는 가운데, 마크 저커버그 메타 최고경영자(CEO)가 향후 5년 안에 수십억 명이 개인 AI 에이전트를 보유하게 될 것이라고 전망했다. 메타는 이를 차세대 핵심 사업으로 육성하기 위해 AI 인프라 투자도 지속 확대한다는 계획이다.저커버그 CEO는 29일(현지시간) 2분기 실적발표 컨퍼런스콜에서 \"5년 후를 내다봤을 때 수십억 명이 자신의 목표를 이해하고 24시간 사용자를 대신해 일하는 개인 AI 에이전트를 갖지 않는 미래는 상상하기 어렵다\"고 말했다.그는 이러한 AI 에이전트가 금융과 건강관리, 인간관계, 가사관리 등 다양한 영역에서 개인을 지원하게 될 것으로 내다봤다.저커버그 CEO는 여러 AI 에이전트와 상호작용하는 시대가 오면 메타의 메시징 플랫폼 역할도 커질 것으로 전망했다.그는 \"우리가 여러 AI 에이전트와 상호작용하는 미래로 나아갈수록 왓츠앱과 다른 메신저",
+          "published": "2026-07-30T08:03:43+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "애플 \"코딩 에이전트, 개발 생태계에 깊이 통합\"",
-          "link": "https://zdnet.co.kr/view/?no=20260729213034",
-          "summary": "[지디넷코리아]애플이 자사 앱 개발 생태계에 인공지능(AI) 코딩을 통합해 국내 개발자를 지원하고 있다고 29일 밝혔다. 애플은 이날 서울 강남 애플코리아 사무실에서 국내 미디어 대상 '개발자 생태계 브리핑'을 열고 이러한 내용을 소개했다.엔웨이 시에 애플 디벨로퍼 릴레이션 총괄은 \"한국 개발자들이 최고의 기술을 활용할 수 있도록 코딩 에이전트 역량을 애플 개발 생태계에 깊이 통합하고 있다\"며 \"올해 세계개발자회의(WWDC)에서 공개한 '엑스코드'에는 코딩 에이전트 기능을 추가했다\"고 밝혔다. 이어 \"개발자들은 앤트로픽, 구글, 오픈AI 등 AI 모델 중 원하는 것을 선택해 사용할 수 있다\"고 설명했다. 엑스코드는 애플이 만든 앱 개발 통합개발환경(IDE)이다. 앤웨이 시에 총괄은 애플의 한국 개발자 지원 프로그램도 소개했다. 애플은 지난 2022년부터 한국에서 무료 개발자 교육 프로그램 '디벨로퍼 아카데미'를 열고 있다. 지난 4년 동안 1000명 이상이 아카데미를 수료했다. 동문",
-          "published": "2026-07-29T14:03:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Goldman Pitches $5.4 Billion Debt for Microsoft-Tied Data Center",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-29/goldman-pitches-5-4-billion-debt-for-microsoft-tied-data-center",
-          "summary": "Goldman Sachs Group Inc. is gauging investor appetite for a potential $5.4 billion debt offering to help fund a Blackstone-backed QTS data center tied to Microsoft Corp., as bubble concerns push up costs for artificial intelligence infrastructure financings.",
-          "published": "2026-07-29T20:41:17+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 3,
+      "articles": [
+        {
+          "title": "Strategy Shores Up Liquidity as Faithful Wait on Rebound",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-faithful-wait-on-rebound",
+          "summary": "After roiling crypto markets with a sweeping overhaul of the financing model underpinning Strategy Inc.’s Bitcoin buying blueprint, Michael Saylor has investors wondering what’s next while reporting another multibillion loss tied to the declining value of the cryptocurrency accumulator’s holdings.",
+          "published": "2026-07-30T20:24:28+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -156,20 +277,42 @@
           "event_labels": []
         },
         {
-          "title": "Meta’s Free Cash Flow Dwindles to Lowest in Nearly Four Years",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-29/meta-s-free-cash-flow-dwindles-to-lowest-in-nearly-four-years",
-          "summary": "Meta Platforms Inc.’s free cash flow has fallen to the lowest level since the third quarter of 2022, a result of its transformation from a social media app maker into an AI company.",
-          "published": "2026-07-29T20:53:31+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Coinbase Posts Loss as Revenue Drops for Another Quarter",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-30/coinbase-posts-loss-as-revenue-drops-for-third-straight-quarter",
+          "summary": "Coinbase Global Inc. reported a third consecutive quarterly decline in revenue, showing once again how a cooling crypto market can pressure even one of the industry’s most diversified exchanges.",
+          "published": "2026-07-30T20:43:33+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "한국은행, 프로젝트 아고라 테스트 완료…토큰화 지급준비금 발행부터 상환까지",
+          "link": "https://zdnet.co.kr/view/?no=20260730163359",
+          "summary": "[지디넷코리아]한국은행이 8개국 중앙은행이 참여하는 국가간 실시간 지급결제 시스템 ‘프로젝트 아고라’의 실거래 테스트를 성공적으로 마쳤다.한국은행은 “아고라 플랫폼 주요 기능과 업무 과정이 실제 운영과 유사한 환경에서 안정적으로 가동될 수 있는 것을 확인했다”고 30일 밝혔다.프로젝트 아고라는 토큰화된 중앙은행 지급준비금과 은행예금을 활용해 국간 지급결제 효율성을 높이는 것을 목표로 하고 있다. 이를 위해 지난 5월에는 핵심 아키텍처, 업무 프로세스를 검증하기 위한 아고라 플랫폼을 구축했다.이번 테스트에는 한국은행 등 각 국 중앙은행과 민간 금융기관 등 28개 기관이 참여했다. 국내에선 국민, 농협, 신한, 우리, 하나은행이 참여했다.한국은행은 농협은행, 신한은행과 토큰화 지급준비금을 활용한 은행간 원화 이체거래 테스트를 했다. 한국은행이 농협·신한은행의 지급지시 요청을 받아 아고라 플랫폼에서 토큰화 지급준비금을 발행·이전·상환했다. 이 과정에서 한국은행의 디지털화폐(CBDC) 한강",
+          "published": "2026-07-30T09:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -177,49 +320,24 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "\"미토스급 AI모델 공격자 손에 들어가는 건 시간문제\"",
-          "link": "https://zdnet.co.kr/view/?no=20260729171251",
-          "summary": "[지디넷코리아] \"미토스 급의 프론티어 AI 모델이 공격자의 손에 들어가는 것은 시간 문제입니다.\"이상준 지란지교시큐리티 최고기술책임자(CTO) 겸 연구소장은 최근 지디넷코리아와 인터뷰에서 공격자들 위협이 기업이나 기관을 노리는 것에서 나아가 보안업체까지도 타깃으로 삼고 있다며 이 같이 밝혔다.이 CTO는 1966년생으로 삼성전자 컴퓨터 시스템사업부에서 사회생활을 시작했다. 90년대 초반 국산 유닉스 시스템 개발 및 사업을 담당했고, 삼성SDS 설립 당시 삼성SDS로 합류해 조달 EDI 중계 시스템 구축 프로젝트 등을 수행했다. 2000년에는 시큐아이에서 공개 키 기반 구조(PKI) 개발 팀장을 역임했다. 2002년 유넷시스템즈로 합류해 연구소장으로 약 15년 근무했다. 지란지교시큐리티에는 2017년 1월 합류, 현재 9년째 CTO를 맡고 있다그는 \"지란지교시큐리티는 AI발 보안 위협에 대비해 AI 기반 취약점 분석을 개발 단계에 적극 활용해 보안성을 높이고 있다. KISA 등 외부",
-          "published": "2026-07-29T13:24:16+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "팀스파르타, AX 자회사에 카카오·배민 출신 손현태 CTO 영입 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82d3pHZE1TSjJkd00xbW5CeEdNbXBxLVZlY3hpSkNmS056d0thRFhVYTlkUkg3RVpEb05fWnpCbkxPbjZyWjd1MW5MZmVlaDlqejJoaXZHU25uQWoydGtCU3JjWW9UdHpjR1E?oc=5",
+          "summary": "팀스파르타, AX 자회사에 카카오·배민 출신 손현태 CTO 영입 &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-30T06:44:50+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오임팩트, AI·교육 전문가 협의체 구성…추진 과제 논의",
-          "link": "https://zdnet.co.kr/view/?no=20260729172527",
-          "summary": "[지디넷코리아]카카오 임팩트재단은 미래세대를 위해 인공지능(AI)·교육 전문가 협의체를 출범시키고, 관련 체계 구축에 나섰다고 29일 밝혔다. 재단은 지난 28일 카카오 AI 캠퍼스에서 AI 시민성 교육 체계 구축을 위한 전문가 협의체 '사이좋은 AI 네트워크'의 출범 기념 라운드테이블을 열고, AI 시대 미래 세대 교육의 방향과 향후 추진 과제 등을 논의했다.카카오 임팩트재단은 2015년부터 11년간 운영해 온 청소년 디지털 시민성 교육 프로그램 '사이좋은 디지털 세상'을 AI 영역으로 전격 확대한다. 이를 통해 청소년이 AI를 주체적이고 책임감 있게 활용하는데 필요한 역량을 기를 수 있도록 'AI 시민성 교육' 모델을 새롭게 구축한다는 방침이다. 이번 전문가 협의체 출범은 지난 2월 '사이좋은 AI 포럼'에서 제시한 AI 시민성 교육의 청사진을 구체화하고, 관련 커리큘럼 및 교육 모델 연구를 본격화하기 위한 후속 조치다.새롭게 도입되는 AI 시민성 교육 모델은 기존의 디지털 시민",
-          "published": "2026-07-29T09:08:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
