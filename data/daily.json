@@ -1,73 +1,74 @@
 {
-  "generated_at": "2026-07-30T22:09:09.845028+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-07-31T22:08:20.709399+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 3,
       "articles": [
         {
-          "title": "xAI, 美 미네소타주 상대 소송…\"딥페이크 금지법은 위헌\"",
-          "link": "https://zdnet.co.kr/view/?no=20260730222507",
-          "summary": "[지디넷코리아]일론 머스크가 이끄는 xAI가 현지 시각 7월 27일 미네소타 연방지방법원에 소송을 제기했다. 피고는 키스 엘리슨 미네소타주 법무장관이며, 사건번호는 0:26-cv-03425다. 소장을 낸 법인은 X.AI LLC다. xAI는 2026년 2월 스페이스X에 인수된 뒤 공식 사이트에서 '스페이스XAI'로 브랜드를 통합했다.대상은 미네소타주가 제정한 법안 HF 1606이다. 이 법은 동의 없이 특정인의 신체를 합성한 성적인 이미지, 이른바 '누디파이(nudification)' 이미지를 만드는 앱과 웹사이트를 금지하며 8월 1일 시행을 앞두고 있다. AI 서비스 제공자에게 건당 최대 50만 달러(약 7억2,000만 원)의 민사 제재금을 부과하고, 피해자에게는 3배 손해배상과 징벌적 손해배상을 청구할 권리를 준다.xAI는 소장에서 이 법이 \"지식·의도·목적 요건이 없는 무과실책임 법률\"이며 \"누디피케이션을 금지하려는 어설픈 시도로 표현의 자유와 시각적 표현 도구에 과도하고 내용 ",
-          "published": "2026-07-30T13:25:07+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "[속보] 테슬라, 중국사업 분리 매각 검토…스페이스X와 합병 시동 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yZnFlXzdCMHR0N3NEWld3LXo2eWxMY2V0Z1hiM0J1R0Y3VktkM29jT3N6YUxBQkFKSXdhNldLbWFrWjJkQWlaQ0xEVHNlSkFNcVE?oc=5",
+          "summary": "[속보] 테슬라, 중국사업 분리 매각 검토…스페이스X와 합병 시동 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-31T01:44:17+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 6,
+            "keyword": 6,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a",
-            "regulation"
+            "m_and_a"
           ]
         },
         {
-          "title": "How many people are dying as a result of USAID’s demise?",
-          "link": "https://www.economist.com/finance-and-economics/2026/07/30/how-many-people-are-dying-as-a-result-of-usaids-demise",
-          "summary": "Fewer than academics imagine, but more than Elon Musk will admit",
-          "published": "2026-07-30T09:38:15+00:00",
-          "source_key": "economist_finance",
-          "source_name": "The Economist - Finance",
+          "title": "“테슬라, 중국 사업부 매각 검토” 보도에…머스크 “가짜뉴스” 발끈 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTE5aUkJsZG9HbHBBSzQ0Vk95S0stYk9JRlUzSE83eXl2RzF5bWkzTksxbkFIUzZuajgxVlU1XzlZa3lDZ2psU1RhRGZqWnhwZmc?oc=5",
+          "summary": "“테슬라, 중국 사업부 매각 검토” 보도에…머스크 “가짜뉴스” 발끈 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-31T13:38:04+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Hbzc0V1pEVzM4R19ubHBwNHlaRi12ZURIMGFwMzZZd08zWFJkUldFYTQyMi1nR2dHdkRUS283V1p2bEZTVVR3MWxWOEJNakM5enZCNHhqRGZzSV8tTWkzYlZ2TllIeG9ZckE?oc=5",
-          "summary": "스페이스XAI, 차세대 음성 모델 '그록 보이스 싱크 패스트 2.0' 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-30T08:07:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
+          "summary": "Short sellers have piled into SpaceX at a rapid pace ahead of two major milestones next week: the company’s first earnings report as a public company and the release of hundreds of millions of locked-up shares.",
+          "published": "2026-07-31T17:08:12+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
@@ -76,10 +77,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Banks Line Up $15 Billion of Debt for Anthropic With Google Aid",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
-          "summary": "Banks led by Morgan Stanley are in talks to line up $15 billion of debt for an Anthropic PBC data-center project in Texas, backstopped by Alphabet Inc.’s Google, according to people familiar with the matter.",
-          "published": "2026-07-30T19:20:22+00:00",
+          "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
+          "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
+          "published": "2026-07-31T19:46:30+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -96,107 +97,63 @@
           "event_labels": []
         },
         {
-          "title": "Judge Voices Doubt US Has Justified Its Ban on Anthropic AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/judge-voices-doubt-us-has-justified-its-ban-on-anthropic-ai",
-          "summary": "A judge said the Trump administration has not presented enough evidence “really justifying” its decision to ban the federal government from using artificial intelligence technology from Anthropic PBC by designating the company as a threat to the supply chain.",
-          "published": "2026-07-30T18:04:34+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Apple (AAPL) Earnings: Live Q3 2026 Results From iPhone Maker",
-          "link": "https://www.bloomberg.com/news/live-blog/2026-07-30/apple-third-quarter-earnings-live-updates",
-          "summary": "",
-          "published": "2026-07-30T19:23:22+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Amazon Reports Fifth Straight Quarter of Cloud Sales Growth",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/amazon-reports-fifth-straight-quarter-of-cloud-sales-growth",
-          "summary": "Amazon.com Inc. reported cloud-computing revenue that accelerated for the fifth straight quarter, easing investors’ concerns that the company won’t produce a return on its spending to meet booming demand for artificial intelligence.",
-          "published": "2026-07-30T20:16:21+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "그록부터 헤일로까지…해외 AI 칩 스타트업 'M&A 도미노' 왜",
-          "link": "https://zdnet.co.kr/view/?no=20260729162837",
-          "summary": "[지디넷코리아]글로벌 인공지능(AI) 반도체 스타트업들의 독자 생존이 위협받고 있다. 막대한 칩 개발비와 양산 후 급증하는 소프트웨어(SDK) 유지보수 비용의 벽에 부딪혀 거대 반도체 기업에 잇따라 흡수되고 있다. 30일 반도체 업계에 따르면 글로벌 엣지 AI 칩 1위 업체 이스라엘 헤일로가 최근 미국 마이크로칩에 인수됐다. 헤일로의 누적 투자금은 3억 4000만달러(약 4880억원)에 달했지만, 칩 설계부터 제조, 소프트웨어 관리까지 전 과정에 발생하는 비용을 감당하지 못하고 매각을 택했다. 인수합병(M&amp;A)은 글로벌 AI 반도체 생태계 전반으로 퍼지고 있다. 한때 엔비디아 대항마로 불렸던 영국 그래프코어는 수조원대 적자를 기록한 끝에 올해 일본 소프트뱅크에 넘어갔다. 이스라엘 하바나랩스는 2019년 20억달러에 인텔에 인수됐다. 언어처리장치(LPU)로 주목받은 그록은 지난해 12월 엔비디아에 흡수됐다. 반도체 전설 짐 켈러가 이끄는 텐스토렌트마저 최근 퀄컴 피인수설이 제기",
-          "published": "2026-07-30T07:48:39+00:00",
+          "title": "美빅테크 AI 투자 1500조원 돌파…수익성 시험대",
+          "link": "https://zdnet.co.kr/view/?no=20260731170830",
+          "summary": "[지디넷코리아]구글·아마존·마이크로소프트(MS)·메타 등 미국 빅테크 4사가 생성형 인공지능(AI) 주도권 확보를 위해 막대한 인프라 투자를 단행하면서, 실제 수익으로 연결할 수 있을지 시장 관심이 쏠리고 있다.31일(현지시간) 파이낸셜타임즈에 따르면 최근 발표된 구글·아마존·MS·메타의 실적 보고서를 분석한 결과, AI 경쟁이 본격화된 2023년 초부터 올해 6월 말까지 4개사의 누적 자본지출(CAPEX)이 1조 1000억 달러(약 1573조원)를 기록했다.이는 미국 빅테크들이 AI 시대 들어 데이터센터와 첨단 반도체, 전력 등에 대규모 자금을 투입하면서 인프라 기업으로 빠르게 전환되고 있는 것으로 평가된다.투자 확대는 당분간 지속될 전망이다. 구글과 아마존이 최근 실적 발표에서 AI 투자 계획을 상향하면서 올해 4개 기업의 자본지출은 총 7450억 달러(약 1065조원)에 이를 것으로 예상된다. 자금 대부분은 AI 데이터센터 건설과 최신 그래픽처리장치(GPU) 확보, 전력 인프라",
+          "published": "2026-07-31T08:09:33+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "earnings"
           ]
         },
         {
-          "title": "US Stocks Rally on Microsoft’s Best Day Since 2008; Chips Jump",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/futures-climb-with-boost-from-microsoft-s-surging-cloud-growth",
-          "summary": "A rally in tech stocks propelled US indexes on Thursday, with Microsoft Corp. soaring 16% after posting strong earnings, its best day since October 2008.",
-          "published": "2026-07-30T11:32:29+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
+          "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up by up to 80 per cent. In a post on social media platform X on Thursday, OpenAI CEO Sam Altman announced an 80 per cent drop in developer pricing for its lightweight GPT-5.6 Luna model, bringing application programming interface (API) costs down to US$0.20 per million input tokens",
+          "published": "2026-07-31T11:00:25+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XU2E5SlFPeVEtbXNpLU5kZWEtY01mR3B3MXNVLWRYT3NNbHNieGxYbEJHcVkyVGZRS3lTV1Q5WkJQT1ZGcUtxc0lURlNfYTA4RFE?oc=5",
+          "summary": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-07-31T14:12:26+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -206,20 +163,42 @@
           ]
         },
         {
-          "title": "아마존, 분기 매출 20% 늘어난 2천억 달러…시장전망치 상회 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1S20zZ2FXU1dmeDhVRkJGeXBGcXcxSzJnU1JNc3l5UDB3UlBGMTg1Q04tUk1RYnJ6dDB5dkUwanpDZjlfdUE2TmREaGU0SjZaSmc?oc=5",
-          "summary": "아마존, 분기 매출 20% 늘어난 2천억 달러…시장전망치 상회 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-30T20:23:57+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Tim Cook warns of slow Siri AI roll-out in China, worsening memory crisis",
+          "link": "https://www.scmp.com/tech/big-tech/article/3362464/tim-cook-warns-slow-siri-ai-roll-out-china-worsening-memory-crisis?utm_source=rss_feed",
+          "summary": "Apple is taking its first concrete steps to roll out initial artificial intelligence (AI) features in China, but CEO Tim Cook warned that a full integration of a revamped Siri AI there would take longer. Mainland Chinese consumers would first get a targeted suite of original Apple Intelligence capabilities, including the Clean Up photo-editing tool, which allows users to erase unwanted objects in photos, according to Cook. “We are working now through the roll-out of those, and there will be more",
+          "published": "2026-07-31T02:31:02+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "S&P500 선물, 아마존 호실적에 상승…美 국채금리 혼조 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXUmwyay1RSWZ6NXJCVU9TalFpWkpqek9sLXpxbFd4YWgyWDFGbUJwT0RfcVFyOTFnUXVUOVVxeUc4YnpkaXB3VWlkZ0tiZk04UmZxREREeW0yM0VKRGY1MEFBaXI0bFpEYWdZYXJPRGQ?oc=5",
+          "summary": "S&amp;P500 선물, 아마존 호실적에 상승…美 국채금리 혼조 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-07-31T02:35:42+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -228,121 +207,99 @@
           ]
         },
         {
-          "title": "저커버그 \"5년 안에 수십억명 개인 AI 에이전트 갖게 될 것\"",
-          "link": "https://zdnet.co.kr/view/?no=20260730164809",
-          "summary": "[지디넷코리아]생성형 AI가 질문에 답하는 수준을 넘어 사용자를 대신해 일을 수행하는 'AI 에이전트' 경쟁으로 확대되는 가운데, 마크 저커버그 메타 최고경영자(CEO)가 향후 5년 안에 수십억 명이 개인 AI 에이전트를 보유하게 될 것이라고 전망했다. 메타는 이를 차세대 핵심 사업으로 육성하기 위해 AI 인프라 투자도 지속 확대한다는 계획이다.저커버그 CEO는 29일(현지시간) 2분기 실적발표 컨퍼런스콜에서 \"5년 후를 내다봤을 때 수십억 명이 자신의 목표를 이해하고 24시간 사용자를 대신해 일하는 개인 AI 에이전트를 갖지 않는 미래는 상상하기 어렵다\"고 말했다.그는 이러한 AI 에이전트가 금융과 건강관리, 인간관계, 가사관리 등 다양한 영역에서 개인을 지원하게 될 것으로 내다봤다.저커버그 CEO는 여러 AI 에이전트와 상호작용하는 시대가 오면 메타의 메시징 플랫폼 역할도 커질 것으로 전망했다.그는 \"우리가 여러 AI 에이전트와 상호작용하는 미래로 나아갈수록 왓츠앱과 다른 메신저",
-          "published": "2026-07-30T08:03:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVlB2VGl6d25NZlZ6UC11d1FCZ2JSVF9CV2NvSW1VczdTanpnUlUtZW5HR293QkZOX043UHdpclNqUEp6ZWFWaXRMYVJMUG9PRC1acXQ4UVBUVnBDeEM4MkRJamZiQ3F2WXc?oc=5",
+          "summary": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-07-31T03:48:02+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
-            "event_bonus": 4,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
-            "exec_change"
+            "earnings"
           ]
+        },
+        {
+          "title": "Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model",
+          "link": "https://www.scmp.com/tech/article/3362540/video-ai-minimax-challenges-bytedance-low-price-open-weights-new-h3-model?utm_source=rss_feed",
+          "summary": "Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video editing, according to benchmark platform Artificial Analysis. However, it trailed Google’s Gemini Omni Flash in text-to-video tasks, and ranked behind both ByteDance’s Seedance 2.0 and Gemini Omni...",
+          "published": "2026-07-31T10:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
       "articles": [
         {
-          "title": "Strategy Shores Up Liquidity as Faithful Wait on Rebound",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/strategy-shores-up-liquidity-as-faithful-wait-on-rebound",
-          "summary": "After roiling crypto markets with a sweeping overhaul of the financing model underpinning Strategy Inc.’s Bitcoin buying blueprint, Michael Saylor has investors wondering what’s next while reporting another multibillion loss tied to the declining value of the cryptocurrency accumulator’s holdings.",
-          "published": "2026-07-30T20:24:28+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Coinbase Posts Loss as Revenue Drops for Another Quarter",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-30/coinbase-posts-loss-as-revenue-drops-for-third-straight-quarter",
-          "summary": "Coinbase Global Inc. reported a third consecutive quarterly decline in revenue, showing once again how a cooling crypto market can pressure even one of the industry’s most diversified exchanges.",
-          "published": "2026-07-30T20:43:33+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "한국은행, 프로젝트 아고라 테스트 완료…토큰화 지급준비금 발행부터 상환까지",
-          "link": "https://zdnet.co.kr/view/?no=20260730163359",
-          "summary": "[지디넷코리아]한국은행이 8개국 중앙은행이 참여하는 국가간 실시간 지급결제 시스템 ‘프로젝트 아고라’의 실거래 테스트를 성공적으로 마쳤다.한국은행은 “아고라 플랫폼 주요 기능과 업무 과정이 실제 운영과 유사한 환경에서 안정적으로 가동될 수 있는 것을 확인했다”고 30일 밝혔다.프로젝트 아고라는 토큰화된 중앙은행 지급준비금과 은행예금을 활용해 국간 지급결제 효율성을 높이는 것을 목표로 하고 있다. 이를 위해 지난 5월에는 핵심 아키텍처, 업무 프로세스를 검증하기 위한 아고라 플랫폼을 구축했다.이번 테스트에는 한국은행 등 각 국 중앙은행과 민간 금융기관 등 28개 기관이 참여했다. 국내에선 국민, 농협, 신한, 우리, 하나은행이 참여했다.한국은행은 농협은행, 신한은행과 토큰화 지급준비금을 활용한 은행간 원화 이체거래 테스트를 했다. 한국은행이 농협·신한은행의 지급지시 요청을 받아 아고라 플랫폼에서 토큰화 지급준비금을 발행·이전·상환했다. 이 과정에서 한국은행의 디지털화폐(CBDC) 한강",
-          "published": "2026-07-30T09:00:03+00:00",
+          "title": "[AI는 지금] 오픈AI 이어 앤트로픽도 '실제 해킹'…AI 통제 비상",
+          "link": "https://zdnet.co.kr/view/?no=20260731162848",
+          "summary": "[지디넷코리아]오픈AI에 이어 앤트로픽의 인공지능(AI) 모델도 사이버보안 시험 도중 외부 기관의 실제 시스템을 침해한 것으로 나타났다. 고성능 AI의 공격 능력을 확인하기 위해 안전장치를 낮춘 평가가 잇따라 보안 사고로 이어지면서 AI 모델의 인터넷 접근과 실행 권한을 통제하는 체계를 강화해야 한다는 요구가 커지고 있다.31일 테크크런치에 따르면 앤트로픽은 최근 사이버보안 평가 기록 14만1006건을 자체 조사한 결과 '클로드' 모델이 3곳의 운영 시스템에 무단 접근한 사례 3건을 확인했다.이번 사고는 앤트로픽이 외부 평가업체 이레귤러와 클로드의 사이버 공격 능력을 시험하는 과정에서 발생했다. 양사는 모델이 인터넷에 접속할 수 없는 격리 환경에서 평가가 진행되는 것으로 이해했지만 실제 환경에는 외부 연결 경로가 열려 있었다.클로드는 인터넷에 접근할 수 없다는 지시를 받았지만 외부에서 발견한 실제 시스템을 시험 대상으로 판단해 공격을 이어갔다. 사고에는 클로드 오퍼스 4.7과 미토스",
+          "published": "2026-07-31T07:53:09+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "팀스파르타, AX 자회사에 카카오·배민 출신 손현태 CTO 영입 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82d3pHZE1TSjJkd00xbW5CeEdNbXBxLVZlY3hpSkNmS056d0thRFhVYTlkUkg3RVpEb05fWnpCbkxPbjZyWjd1MW5MZmVlaDlqejJoaXZHU25uQWoydGtCU3JjWW9UdHpjR1E?oc=5",
-          "summary": "팀스파르타, AX 자회사에 카카오·배민 출신 손현태 CTO 영입 &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-30T06:44:50+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"플랫폼 역량 더 강화\"…SOOP, 하반기 ‘체질 개선’ 힘 준다",
+          "link": "https://zdnet.co.kr/view/?no=20260731172801",
+          "summary": "[지디넷코리아]네이버 치지직과 치열해진 경쟁 환경 속에서 SOOP은 경쟁사의 움직임에 대응하기 보다는 자사 경쟁력을 강화하는 데 초점을 맞춘다. 하반기에는 성장 프로그램 도입을 통해 신규 스트리머의 진입을 돕고, 그룹 전체 마케팅 역량을 한 데 모은 컨설팅 브랜드도 공개한다.이민원 SOOP 대표는 31일 열린 2분기 실적발표 컨퍼런스콜에서 “플랫폼 사업에서 경쟁 자체는 새로운 일이 아니”라며 “특정 경쟁사의 움직임에 대응하는 것보다 자사가 가진 경쟁력을 얼마나 잘 강화하느냐가 중요하다”고 말했다.그는 SOOP의 경쟁력으로 오랜 기간 형성된 스트리머와 이용자의 관계, 라이브 콘텐츠 경험과 이를 기반으로 형성된 생태계를 꼽았다.이를 위해 SOOP은 하반기 세 가지 계획을 통해 사업과 서비스의 도약을 꾀한다. 우선, 신규 스트리머 유입을 위해 기존 스트리머가 이들을 발굴하고 육성할 수 있는 ‘성과 인증 제도’를 도입한다. 이 제도를 통해 기존 스트리머의 활동성과 동기부여를 높이고, 기부경",
+          "published": "2026-07-31T08:45:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
