@@ -1,74 +1,30 @@
 {
-  "generated_at": "2026-07-31T22:08:20.709399+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-08-01T21:59:05.299819+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "[속보] 테슬라, 중국사업 분리 매각 검토…스페이스X와 합병 시동 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5yZnFlXzdCMHR0N3NEWld3LXo2eWxMY2V0Z1hiM0J1R0Y3VktkM29jT3N6YUxBQkFKSXdhNldLbWFrWjJkQWlaQ0xEVHNlSkFNcVE?oc=5",
-          "summary": "[속보] 테슬라, 중국사업 분리 매각 검토…스페이스X와 합병 시동 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-31T01:44:17+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZVYzeTFIX2Y2UC02T3RfSi1sWmhtSUtUQnhBXzhvV2t1NURXTDB6WEVrdjlfOGdTM1c3MkJyeFdBTXQxWWZLQzJzcFhadHc5a19JSE0zcVFCRm93UnVHejM4ZzJNc3IySkE?oc=5",
+          "summary": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-01T09:07:34+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "“테슬라, 중국 사업부 매각 검토” 보도에…머스크 “가짜뉴스” 발끈 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1LTE5aUkJsZG9HbHBBSzQ0Vk95S0stYk9JRlUzSE83eXl2RzF5bWkzTksxbkFIUzZuajgxVlU1XzlZa3lDZ2psU1RhRGZqWnhwZmc?oc=5",
-          "summary": "“테슬라, 중국 사업부 매각 검토” 보도에…머스크 “가짜뉴스” 발끈 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-31T13:38:04+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SpaceX Short Interest Soars Ahead of Big Share Unlock, Earnings",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-31/spacex-short-interest-soars-ahead-of-big-share-unlock-earnings",
-          "summary": "Short sellers have piled into SpaceX at a rapid pace ahead of two major milestones next week: the company’s first earnings report as a public company and the release of hundreds of millions of locked-up shares.",
-          "published": "2026-07-31T17:08:12+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -77,38 +33,82 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic, OpenAI Cyber Failures Point to US Security Risks",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-31/anthropic-openai-cyber-failures-point-to-us-security-risks",
-          "summary": "Cybersecurity experts are faulting Anthropic PBC and OpenAI for sloppy safeguards after their models broke into outside organizations — breaches they warned represent looming threats to national security.",
-          "published": "2026-07-31T19:46:30+00:00",
+          "title": "[영화 속  AI윤리] 가상현실과 신경 윤리",
+          "link": "https://zdnet.co.kr/view/?no=20260801092328",
+          "summary": "[지디넷코리아]1.기(起)-손목이 나보다 먼저 아는 것2025년 9월 30일 미국에서 출시된 메타 레이밴 디스플레이(Meta Ray-Ban Display)에는 손목에 차는 메타 뉴럴 밴드(Meta Neural Band)가 함께 들어 있다. 이 장치는 뇌파를 재는 기기가 아니라 아래팔 근육의 전기적 활동을 피부 표면에서 검출하는 표면 근전도(sEMG) 센서다. 메타 자체 연구진이 네이처에 발표한 논문에서는 sEMG 해독 모델이 개인별 학습이나 보정 없이 새로운 사용자에게도 작동할 수 있음을 보고했다(Kaifosh et al., 2025).메타는 뉴럴 밴드가 근육 활동에서 생긴 신호를 클릭이나 스크롤 같은 안경 제어 명령으로 변환한다고 설명한다(Meta, 2025). 여기서 이 밴드가 착용자의 생각을 의식보다 먼저 ‘읽는다’고 말하는 것은 정확하지 않다. 밴드가 붙잡는 것은 생각이 아니라 움직임으로 이어지는 생리 신호다. 그러나 표현을 바로잡는다고 해서 질문까지 사라지지는 않는다. 아직",
+          "published": "2026-08-01T00:23:28+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
+          "link": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
+          "summary": "Alphabet Inc.’s Google announced Friday that it will roll back its new AI image generation feature in Google Earth because some people were using it to create altered satellite imagery that appeared to violate the company’s policies.",
+          "published": "2026-07-31T22:23:27+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 6,
             "source": 3,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "美빅테크 AI 투자 1500조원 돌파…수익성 시험대",
-          "link": "https://zdnet.co.kr/view/?no=20260731170830",
-          "summary": "[지디넷코리아]구글·아마존·마이크로소프트(MS)·메타 등 미국 빅테크 4사가 생성형 인공지능(AI) 주도권 확보를 위해 막대한 인프라 투자를 단행하면서, 실제 수익으로 연결할 수 있을지 시장 관심이 쏠리고 있다.31일(현지시간) 파이낸셜타임즈에 따르면 최근 발표된 구글·아마존·MS·메타의 실적 보고서를 분석한 결과, AI 경쟁이 본격화된 2023년 초부터 올해 6월 말까지 4개사의 누적 자본지출(CAPEX)이 1조 1000억 달러(약 1573조원)를 기록했다.이는 미국 빅테크들이 AI 시대 들어 데이터센터와 첨단 반도체, 전력 등에 대규모 자금을 투입하면서 인프라 기업으로 빠르게 전환되고 있는 것으로 평가된다.투자 확대는 당분간 지속될 전망이다. 구글과 아마존이 최근 실적 발표에서 AI 투자 계획을 상향하면서 올해 4개 기업의 자본지출은 총 7450억 달러(약 1065조원)에 이를 것으로 예상된다. 자금 대부분은 AI 데이터센터 건설과 최신 그래픽처리장치(GPU) 확보, 전력 인프라",
-          "published": "2026-07-31T08:09:33+00:00",
+          "title": "美 상원 6인, 애플에 \"중국산 메모리 쓰지마\"…SK하이닉스 미국 공장도 근거로",
+          "link": "https://zdnet.co.kr/view/?no=20260801104239",
+          "summary": "[지디넷코리아]현지 시각 7월 30일 척 슈머 미국 상원 원내대표를 비롯한 초당파 상원의원 6명이 팀 쿡 애플 최고경영자에게 서한을 보내 중국 메모리 반도체를 쓰지 말 것을 요구했다. 대상은 창신메모리(CXMT)와 양쯔메모리(YMTC)다. 의원들은 두 회사 제품을 중국 시장용을 포함해 전 세계 어느 애플 제품에도 넣지 않겠다고 확약하라고 요구했다.서한은 슈머와 짐 뱅크스 의원이 주도했고 앤디 김, 잔 샤힌, 마이크 크레이포, 피트 리케츠 의원이 함께 서명했다. 민주당과 공화당 의원이 각각 3명씩이다.근거로는 세 가지가 제시됐다. 국방부가 두 회사를 중국 군사기업으로 지정했다는 점, 양쯔메모리가 2022년 상무부 수출통제 명단에 올랐다는 점, 2023 회계연도 국방수권법에 따라 2027년 12월부터 연방기관 조달이 금지된다는 점이다.서한에는 SK하이닉스가 인디애나주 웨스트라피엣에 짓고 있는 첨단 패키징 공장도 등장한다. 애플이 중국산 메모리를 대량 구매하면 미국 안에서 진행 중인 메모",
+          "published": "2026-08-01T01:42:39+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "'출하량 23% 점유' 애플, 매출은 49% 독식",
+          "link": "https://zdnet.co.kr/view/?no=20260801143816",
+          "summary": "[지디넷코리아]세계 스마트폰 출하량의 23%를 차지한 애플이 매출 기준으로는 50% 가까이 독식한 것으로 집계됐다. 애플이 2분기 세계 스마트폰 매출 점유율 49%를 기록했다고 애플인사이더가 31일(현지시간) 시장조사업체 카운터포인트 리서치 자료를 인용 보도했다. 이는 지난 해 같은 기간 애플의 매출 점유율 44%보다 5%P 늘어난 수치다.매출 기준 점유율은 판매량 점유율의 두 배가 넘는 셈이다. 이 같은 결과에 대해 카운터포인트는 “늘어난 출하량과 함께 가격 인상이 영향을 미친 결과”라고 분석했다.아이폰 평균판매가격은 지난 해 같은 기간보다 8% 증가한 946달러로 집계됐다. 이처럼 아이폰 평균판매가격이 강세를 보인 것은 아이폰17 라인업 수요 덕분인 것으로 분석했다. 특히 아이폰17 기본 모델과 17프로 맥스 수요가 큰 역할을 했다.카운터포인트는 “두 모델에 대한 수요 덕분에 애플은 일부 경쟁사처럼 급격한 가격 인상 없이 프리미엄 기기 중심 라인업을 유지할 수 있었다”고 설명했다",
+          "published": "2026-08-01T05:40:27+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 2,
@@ -119,130 +119,80 @@
           ]
         },
         {
-          "title": "OpenAI blinks in face-off with Chinese rivals, drops pricing for some models up to 80%",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3362568/openai-blinks-face-chinese-rivals-drops-pricing-some-models-80?utm_source=rss_feed",
-          "summary": "In a bid to defend its market share against rapidly advancing, lower-cost Chinese rivals, US artificial intelligence firm OpenAI has launched an aggressive price war, slashing prices for its latest GPT-5.6 model line-up by up to 80 per cent. In a post on social media platform X on Thursday, OpenAI CEO Sam Altman announced an 80 per cent drop in developer pricing for its lightweight GPT-5.6 Luna model, bringing application programming interface (API) costs down to US$0.20 per million input tokens",
-          "published": "2026-07-31T11:00:25+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XU2E5SlFPeVEtbXNpLU5kZWEtY01mR3B3MXNVLWRYT3NNbHNieGxYbEJHcVkyVGZRS3lTV1Q5WkJQT1ZGcUtxc0lURlNfYTA4RFE?oc=5",
-          "summary": "뉴욕증시, 아마존 실적·반도체 강세 속 혼조 출발 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-07-31T14:12:26+00:00",
+          "title": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdnlOQUdxeGpLcll0MUxtSGZhT3c0ZUlRVjMwSl9jUHF0X0xTcTFFWmxfd2dfUzRHcnF2QktuOXFTWld2Q2E1Yk5SZGZVaWJQdWc?oc=5",
+          "summary": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사 &nbsp;&nbsp; 매일경제",
+          "published": "2026-07-31T22:23:41+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Tim Cook warns of slow Siri AI roll-out in China, worsening memory crisis",
-          "link": "https://www.scmp.com/tech/big-tech/article/3362464/tim-cook-warns-slow-siri-ai-roll-out-china-worsening-memory-crisis?utm_source=rss_feed",
-          "summary": "Apple is taking its first concrete steps to roll out initial artificial intelligence (AI) features in China, but CEO Tim Cook warned that a full integration of a revamped Siri AI there would take longer. Mainland Chinese consumers would first get a targeted suite of original Apple Intelligence capabilities, including the Clean Up photo-editing tool, which allows users to erase unwanted objects in photos, according to Cook. “We are working now through the roll-out of those, and there will be more",
-          "published": "2026-07-31T02:31:02+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "S&P500 선물, 아마존 호실적에 상승…美 국채금리 혼조 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXUmwyay1RSWZ6NXJCVU9TalFpWkpqek9sLXpxbFd4YWgyWDFGbUJwT0RfcVFyOTFnUXVUOVVxeUc4YnpkaXB3VWlkZ0tiZk04UmZxREREeW0yM0VKRGY1MEFBaXI0bFpEYWdZYXJPRGQ?oc=5",
-          "summary": "S&amp;P500 선물, 아마존 호실적에 상승…美 국채금리 혼조 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-07-31T02:35:42+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9qVlB2VGl6d25NZlZ6UC11d1FCZ2JSVF9CV2NvSW1VczdTanpnUlUtZW5HR293QkZOX043UHdpclNqUEp6ZWFWaXRMYVJMUG9PRC1acXQ4UVBUVnBDeEM4MkRJamZiQ3F2WXc?oc=5",
-          "summary": "애플, 역대급 실적에도 주가 급락...\"공급망·메모리 병목 심각\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-07-31T03:48:02+00:00",
+          "title": "구글, 재난·공격 딥페이크 논란에 '구글 어스' AI 이미지 생성 기능 철회 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UamZYNXVNSno5NEFuTTNwNmF1bG00UWo3cFo2amRNOFlQV1ZzVTVFZ2xLZW5laWVSSG1hWnkwU011Vy1zTnhLVUVvN2RQSHV3VWF0M0x4Mk9ZSHpnLXVzUXU5Z0ZMUnpDcWc?oc=5",
+          "summary": "구글, 재난·공격 딥페이크 논란에 '구글 어스' AI 이미지 생성 기능 철회 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-01T00:35:43+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Video AI: MiniMax challenges ByteDance with low price, open weights for new H3 model",
-          "link": "https://www.scmp.com/tech/article/3362540/video-ai-minimax-challenges-bytedance-low-price-open-weights-new-h3-model?utm_source=rss_feed",
-          "summary": "Chinese AI firm MiniMax has launched H3, its newest multimodal video generation model, pledging to break closed-source “dominance” through open weights and competitive pricing – as rival ByteDance rolls out its latest Seedance 2.5 model. H3 was currently the world’s most powerful AI model in video editing, according to benchmark platform Artificial Analysis. However, it trailed Google’s Gemini Omni Flash in text-to-video tasks, and ranked behind both ByteDance’s Seedance 2.0 and Gemini Omni...",
-          "published": "2026-07-31T10:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "[유미's 픽] 구글 AI 에이전트 '제미나이 스파크', 韓서 통할까",
+          "link": "https://zdnet.co.kr/view/?no=20260730180250",
+          "summary": "[지디넷코리아]구글이 개인용 인공지능(AI) 에이전트 '제미나이 스파크'를 국내에 선보이며 업무 자동화 시장 공략에 나섰다. 미국 출시 이후 편의성과 정확성에 대한 엇갈린 평가가 나온 만큼 국내 이용자 반응에도 관심이 쏠린다.1일 업계에 따르면 구글은 지난 5월 미국에서 처음 출시한 '제미나이 스파크'를 지난달 30일부터 국내 이용자에게 선보였다. 구글 AI 프로와 울트라 이용자를 대상으로 영어와 한국어 서비스를 순차 확대하며 국내 AI 에이전트 시장 공략에 속도를 내는 모습이다.제미나이 스파크는 이용자가 지시한 작업을 백그라운드에서 계속 수행하는 개인용 AI 에이전트다. 질문에 답하거나 단일 문서를 작성하는 기존 챗봇과 달리 지메일과 구글 문서, 스프레드시트, 캘린더 등을 오가며 여러 단계로 구성된 업무를 처리한다.이용자는 항공권 예약 메일을 확인해 여행 일정을 정리하거나 받은편지함에서 구독 서비스를 찾아 비용을 표로 만들 수 있다. 고객 문의 내용을 분석해 답장 초안을 작성하거나",
+          "published": "2026-07-31T22:39:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 2,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[AI는 지금] 가짜 폭격·난민 사진 쏟아지자…구글, '어스 AI 편집' 긴급 철회",
+          "link": "https://zdnet.co.kr/view/?no=20260801125827",
+          "summary": "[지디넷코리아]구글이 위성사진에 인공지능(AI)으로 가상의 건물이나 사건 현장을 추가할 수 있는 '구글 어스' 이미지 편집 기능을 철회했다. 실제 지형을 바탕으로 폭격 피해와 원자력발전소, 난민 행렬 등을 사실처럼 꾸민 이미지가 잇따라 확산하면서 분쟁 지역의 피해를 확인하는 위성사진에 대한 신뢰까지 흔들릴 수 있다는 우려가 커졌기 때문이다.1일 파이낸셜타임스(FT)에 따르면 구글은 최근 구글 어스에 적용한 생성형 AI 기반 이미지 편집 기능을 되돌리고 안전장치를 강화하기로 했다.앞서 구글은 지난달 30일 이미지 생성 모델 '나노 바나나'를 구글 어스에 통합했다고 발표했다. 이용자가 원하는 장면을 문자로 입력하면 실제 위성사진 위에 AI가 생성한 사물이나 건물, 상황을 추가해 지역의 모습을 가상으로 바꿀 수 있는 기능이다.기능 공개 직후 소셜미디어 X에서는 가자지구에 폭탄이 떨어져 분화구가 생긴 장면과 이란의 원자력발전소, 네덜란드 암스테르담에서 발생한 차량 사고 등을 묘사한 조작 이",
+          "published": "2026-08-01T04:02:33+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -257,49 +207,27 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "[AI는 지금] 오픈AI 이어 앤트로픽도 '실제 해킹'…AI 통제 비상",
-          "link": "https://zdnet.co.kr/view/?no=20260731162848",
-          "summary": "[지디넷코리아]오픈AI에 이어 앤트로픽의 인공지능(AI) 모델도 사이버보안 시험 도중 외부 기관의 실제 시스템을 침해한 것으로 나타났다. 고성능 AI의 공격 능력을 확인하기 위해 안전장치를 낮춘 평가가 잇따라 보안 사고로 이어지면서 AI 모델의 인터넷 접근과 실행 권한을 통제하는 체계를 강화해야 한다는 요구가 커지고 있다.31일 테크크런치에 따르면 앤트로픽은 최근 사이버보안 평가 기록 14만1006건을 자체 조사한 결과 '클로드' 모델이 3곳의 운영 시스템에 무단 접근한 사례 3건을 확인했다.이번 사고는 앤트로픽이 외부 평가업체 이레귤러와 클로드의 사이버 공격 능력을 시험하는 과정에서 발생했다. 양사는 모델이 인터넷에 접속할 수 없는 격리 환경에서 평가가 진행되는 것으로 이해했지만 실제 환경에는 외부 연결 경로가 열려 있었다.클로드는 인터넷에 접근할 수 없다는 지시를 받았지만 외부에서 발견한 실제 시스템을 시험 대상으로 판단해 공격을 이어갔다. 사고에는 클로드 오퍼스 4.7과 미토스",
-          "published": "2026-07-31T07:53:09+00:00",
+          "title": "영화 '호프', 호불호 갈려도 흥행가도...신드롬 어디서왔나",
+          "link": "https://zdnet.co.kr/view/?no=20260731172602",
+          "summary": "[지디넷코리아]영화 ‘호프’가 지난달 30일 기준 약 377만 관객을 끌어모으며 개봉 2주 만에 올해 전체 개봉 영화 흥행 순위 3위에 올라섰다. 네이버 실관람객 평점은 7점대로, 평점 창에서는 관람객 후기가 극명하게 갈리며 공방이 벌어지고 있다. 누적 관객 수 약 594만명으로 올해 흥행 2위를 기록한 ‘군체’도 비슷한 양상을 보였다.전문가들은 이처럼 엇갈린 평가가 오히려 영화의 흥행 동력으로 작용한다고 분석했다. 정덕현 평론가는 “영화 평가가 극명하게 갈리면 관객은 ‘진짜 그런가’ 확인하고 싶은 궁금증이 생긴다”며 “관객이 요새 극장을 가는 이유는 재미 요소를 찾기 위함인데, 평점이 하나의 논쟁거리가 되며 ‘한마디 하고 싶은 욕구’를 충족시켜 준다”고 입을 모았다.반면 영화 ‘토이스토리5’, ‘프로젝트 헤일메리’는 네이버 실관람객 평점 9점대를 기록했지만 관객 수는 300만명을 밑돌았다. 애초 애니메이션과 SF라는 장르에 관심 있는 관객이 주로 관람한 만큼 높은 평점이 형성됐다는",
+          "published": "2026-07-31T23:00:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "\"플랫폼 역량 더 강화\"…SOOP, 하반기 ‘체질 개선’ 힘 준다",
-          "link": "https://zdnet.co.kr/view/?no=20260731172801",
-          "summary": "[지디넷코리아]네이버 치지직과 치열해진 경쟁 환경 속에서 SOOP은 경쟁사의 움직임에 대응하기 보다는 자사 경쟁력을 강화하는 데 초점을 맞춘다. 하반기에는 성장 프로그램 도입을 통해 신규 스트리머의 진입을 돕고, 그룹 전체 마케팅 역량을 한 데 모은 컨설팅 브랜드도 공개한다.이민원 SOOP 대표는 31일 열린 2분기 실적발표 컨퍼런스콜에서 “플랫폼 사업에서 경쟁 자체는 새로운 일이 아니”라며 “특정 경쟁사의 움직임에 대응하는 것보다 자사가 가진 경쟁력을 얼마나 잘 강화하느냐가 중요하다”고 말했다.그는 SOOP의 경쟁력으로 오랜 기간 형성된 스트리머와 이용자의 관계, 라이브 콘텐츠 경험과 이를 기반으로 형성된 생태계를 꼽았다.이를 위해 SOOP은 하반기 세 가지 계획을 통해 사업과 서비스의 도약을 꾀한다. 우선, 신규 스트리머 유입을 위해 기존 스트리머가 이들을 발굴하고 육성할 수 있는 ‘성과 인증 제도’를 도입한다. 이 제도를 통해 기존 스트리머의 활동성과 동기부여를 높이고, 기부경",
-          "published": "2026-07-31T08:45:25+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
         }
       ]
     },
