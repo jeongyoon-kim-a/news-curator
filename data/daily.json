@@ -1,26 +1,48 @@
 {
-  "generated_at": "2026-08-01T21:59:05.299819+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-08-02T21:58:23.613759+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1ZVYzeTFIX2Y2UC02T3RfSi1sWmhtSUtUQnhBXzhvV2t1NURXTDB6WEVrdjlfOGdTM1c3MkJyeFdBTXQxWWZLQzJzcFhadHc5a19JSE0zcVFCRm93UnVHejM4ZzJNc3IySkE?oc=5",
-          "summary": "테슬라, 지정학 리스크에 중국 사업 분리 추진설… 머스크 \"터무니 없는 가짜 뉴스\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-01T09:07:34+00:00",
+          "title": "미네소타, 미국 최초 'AI 누드 이미지 금지법' 효력 유지...xAI 가처분 기각 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhbHY5MGVONDFlQlhGSHJVcVQyZG9ScGtHblFEVmVMaS1qR1p0ZHZLcWZjQ2o5WnVjOU9uYVk4N2xyaDd6LUZzXzNyd2ZoUUdaX2VGZDdpTGtQcE1zZURLLS1JeFd3aV9lb1E?oc=5",
+          "summary": "미네소타, 미국 최초 'AI 누드 이미지 금지법' 효력 유지...xAI 가처분 기각 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-02T01:45:52+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Jefferies Analyst Slams Simple-Minded Criticism of SpaceX Governance",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-02/jefferies-analyst-slams-simple-minded-criticism-of-spacex-governance",
+          "summary": "Investors who blacklist Space Exploration Technologies Corp. out of governance qualms are too hung up on box-checking and risk depriving themselves of long-term financial gains, according to Aniket Shah of Jefferies.",
+          "published": "2026-08-02T12:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -30,77 +52,56 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "[영화 속  AI윤리] 가상현실과 신경 윤리",
-          "link": "https://zdnet.co.kr/view/?no=20260801092328",
-          "summary": "[지디넷코리아]1.기(起)-손목이 나보다 먼저 아는 것2025년 9월 30일 미국에서 출시된 메타 레이밴 디스플레이(Meta Ray-Ban Display)에는 손목에 차는 메타 뉴럴 밴드(Meta Neural Band)가 함께 들어 있다. 이 장치는 뇌파를 재는 기기가 아니라 아래팔 근육의 전기적 활동을 피부 표면에서 검출하는 표면 근전도(sEMG) 센서다. 메타 자체 연구진이 네이처에 발표한 논문에서는 sEMG 해독 모델이 개인별 학습이나 보정 없이 새로운 사용자에게도 작동할 수 있음을 보고했다(Kaifosh et al., 2025).메타는 뉴럴 밴드가 근육 활동에서 생긴 신호를 클릭이나 스크롤 같은 안경 제어 명령으로 변환한다고 설명한다(Meta, 2025). 여기서 이 밴드가 착용자의 생각을 의식보다 먼저 ‘읽는다’고 말하는 것은 정확하지 않다. 밴드가 붙잡는 것은 생각이 아니라 움직임으로 이어지는 생리 신호다. 그러나 표현을 바로잡는다고 해서 질문까지 사라지지는 않는다. 아직",
-          "published": "2026-08-01T00:23:28+00:00",
+          "title": "아마존, 오픈AI에 72조원 투자 완료…지분 5% 확보",
+          "link": "https://zdnet.co.kr/view/?no=20260802100202",
+          "summary": "[지디넷코리아]아마존이 내년 상장이 예상되는 오픈AI에 총 500억 달러(약 72조 3000억원)를 투자하며, 지분 약 5%를 확보했다.1일(현지시간) 파이낸셜타임스 등 외신에 따르면 아마존은 지난 2월 오픈AI에 150억 달러를 투자했다. 당시 양사는 포괄적인 사업 협력 일환으로 계약을 체결했다. 기업공개(IPO)나 AI 분야의 획기적 성과 등 일정 조건이 충족될 경우 아마존이 추가로 350억 달러(약 50조 6100억원)를 투자하기로 했다.그러나 아마존은 이같은 조건이 충족되지 않았음에도 총 500억 달러 전액 투자를 완료했다. 회사가 지난 1일 공개한 실적 보고서에 따르면 이번 투자로 적자를 이어가고 있는 오픈AI는 대규모 신규 자금을 확보하게 됐다.이번 투자는 반도체와 컴퓨팅 자원, 클라우드 서비스 등 기존 사업 협력에 대규모 지분 투자까지 더해 양사의 관계를 긴밀하게 만들었다는 평가다.또 오픈AI는 막대한 비용이 드는 차세대 AI 모델 학습에 필요한 자금을 확보하게 됐다. ",
+          "published": "2026-08-02T01:31:17+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 4,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "earnings",
+            "funding"
           ]
         },
         {
-          "title": "Google Rolls Back Earth AI Tool Over Concern About Fake Images",
-          "link": "https://www.bloomberg.com/news/articles/2026-07-31/google-rolls-back-earth-ai-tool-over-concern-about-fake-images",
-          "summary": "Alphabet Inc.’s Google announced Friday that it will roll back its new AI image generation feature in Google Earth because some people were using it to create altered satellite imagery that appeared to violate the company’s policies.",
-          "published": "2026-07-31T22:23:27+00:00",
+          "title": "Apple Subscriptions; MacBook Air Shortages; Apple to Make Glasses Health Device",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-08-02/apple-subscriptions-macbook-air-shortages-apple-to-make-glasses-health-device-msbvajjp",
+          "summary": "Also: MacBook Air runs into major shortages.",
+          "published": "2026-08-02T14:00:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "美 상원 6인, 애플에 \"중국산 메모리 쓰지마\"…SK하이닉스 미국 공장도 근거로",
-          "link": "https://zdnet.co.kr/view/?no=20260801104239",
-          "summary": "[지디넷코리아]현지 시각 7월 30일 척 슈머 미국 상원 원내대표를 비롯한 초당파 상원의원 6명이 팀 쿡 애플 최고경영자에게 서한을 보내 중국 메모리 반도체를 쓰지 말 것을 요구했다. 대상은 창신메모리(CXMT)와 양쯔메모리(YMTC)다. 의원들은 두 회사 제품을 중국 시장용을 포함해 전 세계 어느 애플 제품에도 넣지 않겠다고 확약하라고 요구했다.서한은 슈머와 짐 뱅크스 의원이 주도했고 앤디 김, 잔 샤힌, 마이크 크레이포, 피트 리케츠 의원이 함께 서명했다. 민주당과 공화당 의원이 각각 3명씩이다.근거로는 세 가지가 제시됐다. 국방부가 두 회사를 중국 군사기업으로 지정했다는 점, 양쯔메모리가 2022년 상무부 수출통제 명단에 올랐다는 점, 2023 회계연도 국방수권법에 따라 2027년 12월부터 연방기관 조달이 금지된다는 점이다.서한에는 SK하이닉스가 인디애나주 웨스트라피엣에 짓고 있는 첨단 패키징 공장도 등장한다. 애플이 중국산 메모리를 대량 구매하면 미국 안에서 진행 중인 메모",
-          "published": "2026-08-01T01:42:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "'출하량 23% 점유' 애플, 매출은 49% 독식",
-          "link": "https://zdnet.co.kr/view/?no=20260801143816",
-          "summary": "[지디넷코리아]세계 스마트폰 출하량의 23%를 차지한 애플이 매출 기준으로는 50% 가까이 독식한 것으로 집계됐다. 애플이 2분기 세계 스마트폰 매출 점유율 49%를 기록했다고 애플인사이더가 31일(현지시간) 시장조사업체 카운터포인트 리서치 자료를 인용 보도했다. 이는 지난 해 같은 기간 애플의 매출 점유율 44%보다 5%P 늘어난 수치다.매출 기준 점유율은 판매량 점유율의 두 배가 넘는 셈이다. 이 같은 결과에 대해 카운터포인트는 “늘어난 출하량과 함께 가격 인상이 영향을 미친 결과”라고 분석했다.아이폰 평균판매가격은 지난 해 같은 기간보다 8% 증가한 946달러로 집계됐다. 이처럼 아이폰 평균판매가격이 강세를 보인 것은 아이폰17 라인업 수요 덕분인 것으로 분석했다. 특히 아이폰17 기본 모델과 17프로 맥스 수요가 큰 역할을 했다.카운터포인트는 “두 모델에 대한 수요 덕분에 애플은 일부 경쟁사처럼 급격한 가격 인상 없이 프리미엄 기기 중심 라인업을 유지할 수 있었다”고 설명했다",
-          "published": "2026-08-01T05:40:27+00:00",
+          "title": "상반기 스마트폰 AP 출하량 15% 감소…메모리값 폭등 직격탄",
+          "link": "https://zdnet.co.kr/view/?no=20260801120346",
+          "summary": "[지디넷코리아]올해 상반기 스마트폰 '두뇌' AP 시장이 축소됐다. 메모리 반도체 가격 폭등으로 스마트폰 판매량이 감소한 영향이다. 2일 시장조사업체 카운터포인트에 따르면 올해 상반기 글로벌 스마트폰 AP 출하량이 전년 동기보다 15% 줄었다. 카운터포인트는 '글로벌 스마트폰 시스템온칩(SoC) 출하량 전망 보고서'에서 메모리 가격 급등, 스마트폰 제조사의 보수적 재고 관리, 교체주기 장기화 등으로 스마트폰 출하량이 감소했다고 분석했다. 2026년 상반기 미디어텍과 퀄컴의 AP 출하량은 각각 전년 동기 대비 25% 이상 감소했다. 반면 애플, 삼성전자, 유니SOC는 출하량이 증가했다.상반기 전 세계 스마트폰 AP 시장에서 퀄컴 점유율 22%로 지난해 상반기 26%보다 4%포인트 감소했다. 같은 기간 미디어텍은 37%에서 32%로 줄었다. 퀄컴은 삼성전자 갤럭시 S26 시리즈에 스냅드래곤 8 엘리트 젠5와 삼성전자의 엑시노스 2600이 함께 채용되면서 프리미엄 부문 성장세가 제한됐다.",
+          "published": "2026-08-02T01:00:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -115,23 +116,23 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "funding"
           ]
         },
         {
-          "title": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1GdnlOQUdxeGpLcll0MUxtSGZhT3c0ZUlRVjMwSl9jUHF0X0xTcTFFWmxfd2dfUzRHcnF2QktuOXFTWld2Q2E1Yk5SZGZVaWJQdWc?oc=5",
-          "summary": "“나흘만에 되찾았다”…애플 폭락에 시가총액 1위 복귀한 이 회사 &nbsp;&nbsp; 매일경제",
-          "published": "2026-07-31T22:23:41+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "[AI 고속도로] 엔비디아·AMD 손잡은 韓…AI 인프라 생태계 다변화",
+          "link": "https://zdnet.co.kr/view/?no=20260802083652",
+          "summary": "[지디넷코리아]정부가 엔비디아에 이어 AMD와도 인공지능(AI) 컴퓨팅 협력을 확대하면서 국내 AI 인프라 생태계가 다변화하고 있다.특정 그래픽처리장치(GPU) 중심 구조에서 벗어나 중앙처리장치(CPU)·GPU·신경망처리장치(NPU)를 함께 활용하는 개방형 인프라 구축이 본격화되면서 데이터센터와 클라우드, AI 반도체, 시스템 소프트웨어(SW) 기업까지 참여하는 생태계 확장이 빨라질 것이란 전망이 나온다.2일 업계에 따르면 최근 정부는 엔비디아와 GPU 협력에 이어 AMD와 AI 반도체 생태계 구축을 위한 협력을 본격화하고 있다. AI 컴퓨팅 경쟁의 중심이 단일 GPU 확보를 넘어 다양한 연산 자원을 효율적으로 조합하는 구조로 이동하면서 국내 AI 인프라 전략 역시 생태계 중심으로 확대되는 모습이다.최근 정부가 AMD와 체결한 양해각서(MOU)의 핵심도 개방형 AI 컴퓨팅 생태계 구축이다. AMD CPU·GPU와 국산 NPU를 연계한 이기종 AI 컴퓨팅 인프라를 구축하고 메모리와 데",
+          "published": "2026-08-02T01:25:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 5,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -139,10 +140,10 @@
           "event_labels": []
         },
         {
-          "title": "구글, 재난·공격 딥페이크 논란에 '구글 어스' AI 이미지 생성 기능 철회 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UamZYNXVNSno5NEFuTTNwNmF1bG00UWo3cFo2amRNOFlQV1ZzVTVFZ2xLZW5laWVSSG1hWnkwU011Vy1zTnhLVUVvN2RQSHV3VWF0M0x4Mk9ZSHpnLXVzUXU5Z0ZMUnpDcWc?oc=5",
-          "summary": "구글, 재난·공격 딥페이크 논란에 '구글 어스' AI 이미지 생성 기능 철회 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-01T00:35:43+00:00",
+          "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oRXZXMl9kQzhpMHFDZ2xHV1Y2eXdidThYd181Q0piOURMdWRUQzR5S0RJdDU5TVdCZE80VU9QMFc4UF9WQWRueFZDUHczbTJ1Zm1KRkx5S1FhU1lMWUNuc1R5SmQ3Njl3b0E?oc=5",
+          "summary": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-02T02:44:08+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -159,39 +160,19 @@
           "event_labels": []
         },
         {
-          "title": "[유미's 픽] 구글 AI 에이전트 '제미나이 스파크', 韓서 통할까",
-          "link": "https://zdnet.co.kr/view/?no=20260730180250",
-          "summary": "[지디넷코리아]구글이 개인용 인공지능(AI) 에이전트 '제미나이 스파크'를 국내에 선보이며 업무 자동화 시장 공략에 나섰다. 미국 출시 이후 편의성과 정확성에 대한 엇갈린 평가가 나온 만큼 국내 이용자 반응에도 관심이 쏠린다.1일 업계에 따르면 구글은 지난 5월 미국에서 처음 출시한 '제미나이 스파크'를 지난달 30일부터 국내 이용자에게 선보였다. 구글 AI 프로와 울트라 이용자를 대상으로 영어와 한국어 서비스를 순차 확대하며 국내 AI 에이전트 시장 공략에 속도를 내는 모습이다.제미나이 스파크는 이용자가 지시한 작업을 백그라운드에서 계속 수행하는 개인용 AI 에이전트다. 질문에 답하거나 단일 문서를 작성하는 기존 챗봇과 달리 지메일과 구글 문서, 스프레드시트, 캘린더 등을 오가며 여러 단계로 구성된 업무를 처리한다.이용자는 항공권 예약 메일을 확인해 여행 일정을 정리하거나 받은편지함에서 구독 서비스를 찾아 비용을 표로 만들 수 있다. 고객 문의 내용을 분석해 답장 초안을 작성하거나",
-          "published": "2026-07-31T22:39:22+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMXB4R3RlVEpJZmpadks2VmVtVEZ6OVJZamxHd2RoaVpXb2dwM2Z6ZjFwbm1mdlAzcDZkc3FJNUhHemFHZWU2Qlk3S25aZ2RWZm9FUnM1WlpvbDl6UF9acklkUjFtZ1VaRWc?oc=5",
+          "summary": "구글, 크롬에 '제미나이 스파크' 통합...웹 브라우징 자동화 지원 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-02T03:00:01+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[AI는 지금] 가짜 폭격·난민 사진 쏟아지자…구글, '어스 AI 편집' 긴급 철회",
-          "link": "https://zdnet.co.kr/view/?no=20260801125827",
-          "summary": "[지디넷코리아]구글이 위성사진에 인공지능(AI)으로 가상의 건물이나 사건 현장을 추가할 수 있는 '구글 어스' 이미지 편집 기능을 철회했다. 실제 지형을 바탕으로 폭격 피해와 원자력발전소, 난민 행렬 등을 사실처럼 꾸민 이미지가 잇따라 확산하면서 분쟁 지역의 피해를 확인하는 위성사진에 대한 신뢰까지 흔들릴 수 있다는 우려가 커졌기 때문이다.1일 파이낸셜타임스(FT)에 따르면 구글은 최근 구글 어스에 적용한 생성형 AI 기반 이미지 편집 기능을 되돌리고 안전장치를 강화하기로 했다.앞서 구글은 지난달 30일 이미지 생성 모델 '나노 바나나'를 구글 어스에 통합했다고 발표했다. 이용자가 원하는 장면을 문자로 입력하면 실제 위성사진 위에 AI가 생성한 사물이나 건물, 상황을 추가해 지역의 모습을 가상으로 바꿀 수 있는 기능이다.기능 공개 직후 소셜미디어 X에서는 가자지구에 폭탄이 떨어져 분화구가 생긴 장면과 이란의 원자력발전소, 네덜란드 암스테르담에서 발생한 차량 사고 등을 묘사한 조작 이",
-          "published": "2026-08-01T04:02:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -202,18 +183,84 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "영화 '호프', 호불호 갈려도 흥행가도...신드롬 어디서왔나",
-          "link": "https://zdnet.co.kr/view/?no=20260731172602",
-          "summary": "[지디넷코리아]영화 ‘호프’가 지난달 30일 기준 약 377만 관객을 끌어모으며 개봉 2주 만에 올해 전체 개봉 영화 흥행 순위 3위에 올라섰다. 네이버 실관람객 평점은 7점대로, 평점 창에서는 관람객 후기가 극명하게 갈리며 공방이 벌어지고 있다. 누적 관객 수 약 594만명으로 올해 흥행 2위를 기록한 ‘군체’도 비슷한 양상을 보였다.전문가들은 이처럼 엇갈린 평가가 오히려 영화의 흥행 동력으로 작용한다고 분석했다. 정덕현 평론가는 “영화 평가가 극명하게 갈리면 관객은 ‘진짜 그런가’ 확인하고 싶은 궁금증이 생긴다”며 “관객이 요새 극장을 가는 이유는 재미 요소를 찾기 위함인데, 평점이 하나의 논쟁거리가 되며 ‘한마디 하고 싶은 욕구’를 충족시켜 준다”고 입을 모았다.반면 영화 ‘토이스토리5’, ‘프로젝트 헤일메리’는 네이버 실관람객 평점 9점대를 기록했지만 관객 수는 300만명을 밑돌았다. 애초 애니메이션과 SF라는 장르에 관심 있는 관객이 주로 관람한 만큼 높은 평점이 형성됐다는",
-          "published": "2026-07-31T23:00:02+00:00",
+          "title": "클래리티법 막판 변수 '윤리조항'…절충안 마련에도 美상원 통과 안갯속",
+          "link": "https://zdnet.co.kr/view/?no=20260801202951",
+          "summary": "[지디넷코리아]미국 디지털자산 시장 구조 법안 클래리티법이 고위 공직자의 가상자산 이해관계를 제한하는 ‘윤리조항’을 둘러싼 갈등으로 입법이 지연되고 있다. 최근 상원에서 절충안을 마련했으나 통과까지 여전히 넘어야 할 산이 많다는 평가가 나온다.2일 가상자산 전문매체 코인데스크에 따르면, 최근 미국 공화당 소속 톰 틸리스 상원의원과 민주당의 루벤 가예고 상원의원은 클래리티법 윤리조항에 대한 절충안을 마련했다. 다만 구체적인 내용은 공개되지 않았다.법안 처리 일정도 불투명한 상황이다. 미 상원은 오는 8일 여름 휴회를 앞두고 러시아 제재 법안과 연방정부 인사 임명안 처리에 우선순위를 두고 있다. 이에 따라 클래리티법은 우선순위에서 밀렸다. 존 튠 상원 공화당 원내대표는 “여름 휴회 전 상원 절차를 모두 마치기는 사실상 어렵다”며 “클래리티법이 아직 민주당과 공화당 모두를 만족시킬 수준에는 이르지 못했다”고 평가했다.업계에서는 다음주 안에 법안 토론을 종료하기 위한 '종결동의(clotur",
+          "published": "2026-08-02T00:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
+        {
+          "title": "[ZD브리핑] '애플 맞대결' 삼성 갤Z8 예약판매 물량 4일 개통...네이버·카카오 2Q 실적 발표",
+          "link": "https://zdnet.co.kr/view/?no=20260802142528",
+          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주] 삼성전자 폴더블폰 갤럭시Z8 시리즈 예약판매 물량이 4일부터 본격 개통됩니다. 메모리 반도체 부족 여파로 스마트폰 구입가 부담이 커진 가운데, 이동통신 3사는 대대적 프로모션으로 할인 정책을 내놓고 있습니다. 예판 물량 사전 개통이 시작되면서 국내 인기 모델과 저장용량, 색상을 비롯해 주요 구입 연령대에 대한 분석도 나올 것으로 보입니다. 갤럭시Z8 시리즈 본격 출시는 7일부터입니다.삼성전자가 지난달 22일(현지시간) 공개한 갤럭시Z8 시리즈 3종 중에선, 올해",
+          "published": "2026-08-02T05:29:07+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "스튜디오N, 청룡시리즈어워즈 4관왕...\"웹툰 IP 영상화 성공\"",
+          "link": "https://zdnet.co.kr/view/?no=20260802095720",
+          "summary": "[지디넷코리아]스튜디오N 작품이 제5회 청룡시리즈어워즈에서 4관왕에 오르는 영예를 안았다. 스튜디오N은 2018년 8월 네이버웹툰이 웹툰과 영상을 잇는 IP 브릿지 컴퍼니로 설립한 영상 제작사다.스튜디오N이 제작한 '취사병 전설이 되다'는 지난 달 31일 열린 제5회 청룡시리즈어워즈에서 드라마 부문 최우수작품상을 수상했다. 취사병 전설이 되다는 '유미의 세포들 시즌3'와 함께 드라마 부문 최우수작품상 후보에 나란히 오른 뒤, 최종 수상까지 거머쥐었다. 스튜디오N은 지난해 열린 제4회 청룡시리즈어워즈에서 '중증외상센터'로 최우수작품상을 수상한 데 이어, 2년 연속 제작한 작품이 최우수작품상을 받게 됐다.출연 배우들의 성과도 이어졌다. 취사병 전설이 되다의 윤경호는 남우조연상을, 유미의 세포들 시즌3의 김재원은 신인남우상을 수상했다. 스튜디오N 제작작에 출연한 배우들이 주요 부문에서도 두각을 나타냈다. 여기에 그룹 아이브의 안유진이 취사병 전설이 되다 OST ‘슬픈 짠맛’으로 OST 인",
+          "published": "2026-08-02T01:09:50+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "네이버 AI 출신 곽동현, 크래프톤 합류 후 퇴사…\"로보틱스 분야 새 도전\"",
+          "link": "https://zdnet.co.kr/view/?no=20260801130104",
+          "summary": "[지디넷코리아]네이버클라우드에서 생성형 인공지능(AI) 추론 모델 개발을 이끌다 크래프톤으로 합류했던 곽동현 피지컬 AI 리드가 최근 퇴사했다.곽 리더는 지난 1일 자신의 사회관계망서비스(SNS)를 통해 \"지난 월요일을 마지막으로 크래프톤을 퇴사했다\"고 밝혔다.이어 그는 \"앞으로는 로보틱스 분야에서 새로운 도전을 시작해 보려 한다\"고 덧붙였다.곽 리더는 지난 2017년부터 2025년 11월까지 8년 4개월간 네이버클라우드에서 멀티모달 AI 에이전트 기술인 '하이퍼클로바X 씽크' 개발을 담당했다.이후 2025년 12월 크래프톤으로 적을 옮겨, 최근까지 약 8개월간 AI 본부 산하 피지컬 AI 팀을 총괄하며 휴머노이드 로보틱스 관련 기술 연구를 이끌어 왔다.",
+          "published": "2026-08-02T02:00:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
