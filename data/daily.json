@@ -1,26 +1,88 @@
 {
-  "generated_at": "2026-08-07T01:00:59.857837+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-07T21:41:47.455674+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "다누리, 팰컨9 달 분화구 충돌 이미지 8회 촬영…해상도 5m 수준",
-          "link": "https://zdnet.co.kr/view/?no=20260806200416",
-          "summary": "[지디넷코리아]우주항공청이 스페이스X 팰컨9 로켓 상단부의 달 분화구 '아인슈타인' 인근 충돌 전후를 촬영한 이미지를 공개했다.이미지는 달 궤도선 다누리((KPLO)에 탑재된 고해상도 카메라(LUTI)로 이루어졌다. 촬영 시간은 지난 5일 충돌 30분전인 15시 01분부터 6일 오전 7시께까지 총 8회 진행됐다. 충돌전 촬영 1회와 충돌이후 7회 촬영했다.LUTI는 가로, 세로 5m 크기 물체를 한 개의 픽셀(점)로 나타내는 정밀도다. 10m건물이 점 2개로 나타난다.우주청은 \"촬영은 서울 상공 150km에서 초속 1.5km로 비행하며 부산에서 벌어진 충돌을 촬영한 것과 비슷한 상황\"이라며 \"광시야 편광카메라(PolCam)도 같은 지역을 병행 촬영해 표면 편광 특성 변화를 함께 관측했다\"고 설명했다.폴캠은 1024×1024 CCD로 6개 파장/편광 채널(320, 430, 750nm 등)을 촬영하는 편광 카메라다. 시야각은 9.9도. 현재 달 전역 편광지도를 제작 중이다.다누리에서 충",
-          "published": "2026-08-06T11:04:16+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "머스크와 틀어진 '헐크' 러팔로 \"테슬라보다 기아가 좋아\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Wb1h3UXppbHkxT1NwUFRpbkpsVWo1SENHanZhMHE2dW9VRDdNU2hMU2pMUC0yaVY5Q3hjUzgzMnBIZHhobi1LdUxtUXdRcGlDOFhLQUtkU0JVbktoU25XbVNmRmhiOW5RMExnM1lCSlQ?oc=5",
+          "summary": "머스크와 틀어진 '헐크' 러팔로 \"테슬라보다 기아가 좋아\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-07T01:14:07+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 5,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SpaceX Nears IPO Price Again After Staging $327 Billion Rally",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/spacex-nears-ipo-price-again-after-staging-327-billion-rally",
+          "summary": "SpaceX shares jumped for a second straight day bringing them close to breaking back above the company’s $135 initial public offering price for the first time since falling below the key level last month.",
+          "published": "2026-08-07T20:29:47+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "스페이스X·테슬라, 텍사스에 24조 규모 반도체 '테라팹' 건설 본격화 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hZkYydUJvaXJIN0JFU2RXRjd4d09rS0N5dG1jYk5USlR1ZzVXVWxDNzVULUVMbUV4SF9LbFd3NDM5cTFMOGM4QVA2S3NCWWVnbzRXUVBoNHNQRjVpb2RCVm1JUGFzMmVpb2c?oc=5",
+          "summary": "스페이스X·테슬라, 텍사스에 24조 규모 반도체 '테라팹' 건설 본격화 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-07T04:56:26+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
             "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government Efficiency had been cutting a wide swath through&#8230;",
+          "published": "2026-08-07T14:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,30 +95,30 @@
       "count": 8,
       "articles": [
         {
-          "title": "Google’s Shakeup Complicates Race With OpenAI, Anthropic",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-06/google-s-shakeup-complicates-race-with-openai-anthropic",
-          "summary": "The tech giant is entering a new period of transition.",
-          "published": "2026-08-06T21:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "China’s Kimi K3 AI model escapes isolated sandbox during security test: researchers",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3363271/chinas-kimi-k3-ai-model-escapes-isolated-sandbox-during-security-test-researchers?utm_source=rss_feed",
+          "summary": "China’s top open-weight AI model Kimi K3 broke out of its isolated test environment during a cybersecurity evaluation, according to US security researchers, following similar high-profile incidents involving closed frontier models from OpenAI and Anthropic that highlight the growing challenge of constraining AI behaviour. Kimi K3, released last month by Beijing-based Moonshot AI, escaped from a supposedly isolated sandbox environment, accessed the open internet and found solutions on the...",
+          "published": "2026-08-07T08:00:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 13,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "What Is OpenAI’s Device? A Doughnut-Shaped Speaker That Costs Over $300",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-06/what-is-openai-s-device-a-doughnut-shaped-speaker-that-costs-over-300",
-          "summary": "A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality, and likely cost more than $300, according to people familiar with the matter.",
-          "published": "2026-08-06T19:59:38+00:00",
+          "title": "OpenAI Pauses Some Work on New Astra Model Over Cyber Concerns",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/openai-pauses-some-work-on-new-astra-model-over-cyber-concerns",
+          "summary": "OpenAI is pausing some internal work around one of its upcoming artificial intelligence models to implement stricter safeguards after the system was found to be significantly more adept at cybersecurity tasks.",
+          "published": "2026-08-07T17:15:04+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -73,18 +135,38 @@
           "event_labels": []
         },
         {
-          "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-          "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
-          "published": "2026-08-06T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBMb1RiMHVoZkZFbC0wNVBHNlNmbUtUZFZqN0tiS2o3YnN1OWtZV09oaGFSdlY3alR3M2FMVDdwMHNGR1Z6NldpVkRGSVlVVzEzQUJIS1RrSGFubzFtYkVlc0VOejdGa1RUYlE?oc=5",
+          "summary": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-07T09:47:02+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "‘엔비디아♥네이버’ 내년이 승부수…AI 팩토리 로드맵 봤더니 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBWdnUyT2FLbDZVWVdSVERyWjRDcEx0MXJHdEJNNXhVY21IUnQyVk1ZTE1DWGk2NFRCaVRBeTVGX2lVajB1VmlTV2VBeWRBUQ?oc=5",
+          "summary": "‘엔비디아♥네이버’ 내년이 승부수…AI 팩토리 로드맵 봤더니 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T02:23:33+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -93,30 +175,10 @@
           "event_labels": []
         },
         {
-          "title": "Google Grapples With Exit of AI Pioneer and ‘Most Google Person’",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-06/google-grapples-with-exit-of-ai-pioneer-and-most-google-person",
-          "summary": "Days after Google unveiled its first Gemini chatbot in 2023 to compete with ChatGPT, Jeff Dean went to an AI conference where he was promptly swarmed by attendees. Suddenly, the Google executive looked at his watch and realized he was due to give a talk minutes later, spurring a rush to take selfies with the influential tech leader before he left.Now, it’s the employees at Google who are bracing for the AI pioneer’s exit. Dean, who started at the company more than two decades ago, said Wednesday",
-          "published": "2026-08-06T19:55:56+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "오픈AI, 美 법무부에 46억원 낸다…\"미국인 대신 비자 소지자 우대\"",
-          "link": "https://zdnet.co.kr/view/?no=20260806203633",
-          "summary": "[지디넷코리아]오픈AI가 미국 근로자를 차별했다는 혐의와 관련해 미국 법무부(DOJ)에 320만 달러(약 46억 원)를 내고 합의했다. 법무부가 현지 시각 8월 4일 공개한 내용이다.합의 당사자는 오픈AI 옵코(OpenAI OpCo LLC)와 자회사인 소프트웨어 개발 기업 스탯시그(Statsig)다. 법무부는 두 회사가 영주권 노동인증(PERM) 절차에서 미국 근로자를 배제하고 임시 취업비자 소지자를 우대해 이민국적법(INA)을 위반했다고 판단했다. PERM은 미국 기업이 외국인 근로자에게 영주권을 주려 할 때, 그 자리에 지원할 미국인이 없다는 것을 노동부에 증명하는 절차다.법무부는 채용 공고를 문제 삼았다. 오픈AI는 다른 직무를 자사 채용 사이트에 올리는 것이 관행이었는데, PERM으로 채우려는 자리는 올리지 않았다.합의 금액 가운데 민사 벌금이 120만 달러(약 17억 원)이고, 차별을 당한 것으로 지목된 이들에 대한 보상이 200만 달러(약 29억 원)다. 오픈AI는 앞으로",
-          "published": "2026-08-06T11:36:33+00:00",
+          "title": "리얼월드, 국내 스타트업 3사와 휴머노이드 손재주 벤치마크 고도화",
+          "link": "https://zdnet.co.kr/view/?no=20260807152853",
+          "summary": "[지디넷코리아]로봇 파운데이션 모델(RFM) 개발업체 리얼월드가 국내 시뮬레이션·로보틱스 스타트업 3사와 함께 휴머노이드 생태계를 구축한다고 7일 밝혔다. 로봇 파운데이션 모델은 범용 로봇 두뇌를 뜻한다. 리얼월드는 최근 엔닷라이트, 피직스심랩, 스페이스에이아이와 각각 업무협약(MOU)을 체결했다. 리얼월드는 이번 협력을 통해 엔비디아와 공동 개발 중인 휴머노이드 정밀 손재주 평가 벤치마크 '덱스벤치(DexBench)'를 고도화할 방침이다.덱스벤치는 엔비디아의 '아이작 랩 아레나(Isaac Lab-Arena)' 환경과 통합되는 오픈소스 프로젝트다. 18개 핵심 과제와 80개 케이스를 바탕으로 로봇이 실제 산업 현장에서 사람처럼 손을 사용할 수 있는지 시뮬레이션 및 실물 환경에서 정량적으로 검증한다. 현재 롯데, SK텔레콤, CJ대한통운, HL만도, 후지, 미쓰이화학 등 글로벌 기업들이 파트너로 참여하고 있다.협약에 따라 기술 전문성을 갖춘 스타트업이 덱스벤치 개발에 합류한다. 엔닷라",
+          "published": "2026-08-07T07:58:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -133,60 +195,60 @@
           "event_labels": []
         },
         {
-          "title": "\"애플의 '중국 메모리 카드' 실패…삼성·SK하이닉스만 웃었다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260807082728",
-          "summary": "[지디넷코리아]애플이 중국 반도체 업체 창신메모리테크놀로지(CXMT)를 활용해 삼성전자와 SK하이닉스를 압박하려던 전략이 오히려 역효과를 낳았다는 보도가 나왔다.대만 매체 디지타임스는 6일(현지시간) 중국 현지 매체와 국내 매체를 인용해 애플의 중국 메모리 조달 시도가 결과적으로 삼성전자와 SK하이닉스의 가격 결정력을 강화하는 결과를 가져왔다고 보도했다.보도에 따르면 애플은 올해 CXMT와 또 다른 중국 메모리 업체 양쯔메모리(YMTC)로부터 D램을 공급받는 방안을 검토했다. 메모리 공급 부족으로 부품 가격이 오르자 CXMT D램 테스트 작업까지 진행한 것으로 알려졌다.애플은 중국산 메모리를 협상 카드로 활용해 삼성전자와 SK하이닉스에 가격 인하 압박을 가하려 했으며, 이는 과거 OLED 패널 공급업체나 위탁생산업체를 상대로 사용했던 전략과 유사한 방식이었다.하지만 글로벌 투자분석업체 모닝스타의 웨이 징지에 분석가는 비용 구조상 CXMT가 가격 경쟁력을 확보하기 어렵다고 분석했다. ",
-          "published": "2026-08-07T00:08:32+00:00",
+          "title": "구글, 허리케인 예측 AI '웨더넥스트' 공개...\"골든타임 하루 더 벌었다\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5veG02NlVfOUxCT3dSRDMyUk1DUWh5cWNacUZLNVYxVFZkLTk5MXExXzRhbTNOYWZvX2xDNTJkSllua0NDcVJJNkIwMHExOFlzV0psVk5zRHNJNTRrWnRxNXRkQUVvTXhrdUE?oc=5",
+          "summary": "구글, 허리케인 예측 AI '웨더넥스트' 공개...\"골든타임 하루 더 벌었다\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-07T08:23:33+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "AI경쟁 다급한 구글 … 공동창업자에 구원투수 맡긴다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmNMT2lTczZpMWJINlVNdjUyTzEzdmUyT05hcmlvVXhyb2ZmeE9EclMydnpHT1F1VVhONFluc0pOUXBpVjNhYkdnR3Jmb05hM3FQN0RoZVRQX2dtQ3VkNHZFd2ZFbnhfUGhwUDB3OUZ1X0xWd2NyeDEyVjl5VERtVW14RGV4Q2VT?oc=5",
+          "summary": "AI경쟁 다급한 구글 … 공동창업자에 구원투수 맡긴다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T08:45:25+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[카드뉴스] AI세상, 진짜 승자는 누구",
+          "link": "https://zdnet.co.kr/view/?no=20260807091939",
+          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 오늘은 AI 시대에 진짜 승자가 누구인지 짚어보는 카드뉴스를 준비했어요. 요즘 지식은 AI 덕분에 누구나 공짜로 얻을 수 있게 됐지만, 그걸 실제로 사람들에게 전달하는 '가게'와 '물건'은 아무나 만들 수 없다는 게 핵심 메시지인데요. 그 대표 사례로 애플이 등장해요. 애플은 이미 전 세계에 22억 대가 넘는 아이폰을 뿌려놓았고, 고급 스마트폰 시장에서는 수익의 무려 85%를 독차지하고 있다고 해요. 이게 가능했던 이유는 애플이 AI 기술 자체보다는 오랫동안 '물건을 잘 만들고 잘 파는 힘'을 꾸준히 키워왔기 때문인데요.그 결과 회사 가치는 4.5조 달러, 이익률은 32.6%, 자기자본이익률(ROE)은 무려 148.8%에 달하는 놀라운 성적표를 받아들었어요. 다만 전문가 6명의 의견을 들어보면 애플의 이런 전략에 찬성하는 목소리가 많은 한편, 위험 신호를 지적하는 시선도 존재한다고 하니 마냥 안심할 수만은 없는 상황이에요. 결국 아무",
+          "published": "2026-08-07T13:56:27+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zcW9ycXNPSTZaUTRuSWJraHc1TUJsTlpEQ2wtaHdJUmdzUVlRZV9qV1ZIVDg0cWItek1FaWlXeHQ3MUhrcXc1bWswZWFXSlpMakFwVTU3QzNEVkc0RlBtSjVCTGdXaV9DYkE?oc=5",
-          "summary": "메타, 코딩 에이전트 '뮤즈 코드' 공개...백그라운드 비동기로 차별화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-06T03:04:16+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...\"RSI 구축 목표\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05NjEtY2k3ejRib0NCNVhaYTZFeDl2OERIQUdWMjJ3OG5oaWxHZ0M2YjZWM20xWURTb2c3cS1xZlcwN1RpZFI3MlpQZWpESlJWZnA5T09SOHVYUWhHU29RX00xM21RWThqNGc?oc=5",
-          "summary": "구글 떠난 제프 딘, 과학 연구 자동화 스타트업 설립...\"RSI 구축 목표\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-06T04:03:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -196,40 +258,123 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "네이버, 2분기 매출 두자릿수 성장…AI 투자로 영업익은 0.2%↓",
-          "link": "https://zdnet.co.kr/view/?no=20260807084015",
-          "summary": "[지디넷코리아]광고, 커머스를 포함한 플랫폼과 금융, 해외 사업 등 전 부문의 고른 성장으로 네이버가 올해 2분기 두 자릿수가 넘는 매출 성장세를 기록했다. 다만, 인공지능(AI)에 대한 투자로 영업이익은 소폭 하락했다. 네이버는 7일 2분기 매출액 3조 3888억원, 영업이익 5203억원을 기록했다고 공시했다. 2분기 연결 매출액은 AI 접목 강화를 통한 광고, 커머스 등 핵심 사업의 견조한 실적과 글로벌 개인 간 거래(C2C) 사업 성장에 힘입어 전년 동기 대비 16.2% 늘었다. AI 인프라 투자 등의 영향으로 연결 영업이익은 전년 동기 대비 0.2% 감소했다.사업 부문별 매출액은 ▲네이버 플랫폼 1조 9022억원 ▲파이낸셜 플랫폼 4707억원 ▲글로벌 도전 1조 159억원이다.네이버 플랫폼 매출은 전년 동기 대비 12.3% 증가 1조 9022억원을 기록했다. 광고 매출은 AI 기반 지면 최적화 및 타겟팅 고도화 등에 힘입어 AI의 매출 성장 기여도가 60% 이상을 기록하며 전",
-          "published": "2026-08-06T23:46:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "title": "US Sanctions Iranian Crypto Exchanges As Talks Continue",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-07/us-sanctions-iranian-digital-exchanges-as-trump-promises-deal",
+          "summary": "The US ramped up economic pressure on Iran with more sanctions targeting digital asset exchanges and networks connected to the country’s shadow-banking system, as Washington seeks leverage amid ongoing negotiations over the war.",
+          "published": "2026-08-07T18:03:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "알리움 “스테이블코인 ‘큰 손’된 韓, 온체인 모르면 외환관리 어려워” [매일코인] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ONnhXVDU2eFZHMGNVb3lMS25SQ3hJNFlpdG5Ucm5CLWNEZXNnd2FhbFp4cGJBby03VFhhMTk5R0RDeFhiejhCeEpMaTNIR0UwM0E?oc=5",
+          "summary": "알리움 “스테이블코인 ‘큰 손’된 韓, 온체인 모르면 외환관리 어려워” [매일코인] &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T00:30:58+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 4,
+      "articles": [
+        {
+          "title": "“반려주식된 네이버, 내년엔 다를까요”…사상최대 매출 찍었다는데 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tV0VVLThQdzE5aEx3WG10YV9xdnVzaGx4VnlCX09zR1RGYVN2dEZjcG4wZVJOZlI2emVPRld3NXFaTHpUZmpMc3ppS1llQXV0ZEJrQzhn?oc=5",
+          "summary": "“반려주식된 네이버, 내년엔 다를까요”…사상최대 매출 찍었다는데 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T21:05:15+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 3,
             "event_bonus": 2,
-            "noise_penalty": -3
+            "noise_penalty": 0
           },
           "event_labels": [
             "earnings"
           ]
         },
         {
-          "title": "크래프톤 '배그 모바일', 국제 대회 '2026 PMWC' 개막…전 세계 32개팀 격돌",
-          "link": "https://zdnet.co.kr/view/?no=20260806183327",
-          "summary": "[지디넷코리아]크래프톤의 모바일 배틀로얄 '배틀그라운드 모바일' 최상위 글로벌 이스포츠 대회인 '2026 배틀그라운드 모바일 월드컵(PMWC)'이 개최된다.크래프톤은 '2026 PMWC'가 프랑스 파리에서 개막한다고 6일 밝혔다. 지난해에 이어 '이스포츠 월드컵(EWC)'과 연계해 열리는 이번 대회는 총상금 300만 달러 규모로 전 세계 32개 팀이 참가한다.대회는 그룹 스테이지(8월 6~9일)와 서바이벌 스테이지(8월 11~12일)를 거쳐 오는 14일부터 16일까지 3일간 최종 그랜드 파이널을 진행한다.이번 그랜드 파이널에는 일정 기준 포인트를 넘긴 뒤 매치 승리(치킨)를 따내야 최종 우승하는 '스매시 룰'이 새로 적용된다.한국 대표로는 지난 6월 열린 국제 대회 'PMMI 2026'에서 각각 우승과 5위를 기록한 농심 레드포스와 키움 DRX가 출전해 글로벌 강팀들과 우승컵을 두고 경쟁한다. 이번 대회 전 경기는 네이버 치지직을 통해 단독 생중계된다.",
-          "published": "2026-08-06T10:00:01+00:00",
+          "title": "네이버 2분기 실적 '선방'… 매출 3.4조원 사상최대 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11VlBORkFzOHNXRHY3Vk1na0I2b1ZYeDFoQWpLZC1MYjdkWV9Jc2F3RGFvYS1jTXVJUDdQWE5Wc0NDZHJZbUIxSkhCdHVwV29VT2RsRHFR?oc=5",
+          "summary": "네이버 2분기 실적 '선방'… 매출 3.4조원 사상최대 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T09:01:51+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "[속보] 카카오 임금협약 타결…연봉 6.3% 인상·격려금 300만원 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52dV9iQjFQQXZnd0ZUTkVhay1qSEtyaHB1ajU5WEUxRWo5QkJtSXZQc0FKWjNMR3VoUFhlXzlVRTU0VXZiWW5YU0p6djlOVDl2aXE1dg?oc=5",
+          "summary": "[속보] 카카오 임금협약 타결…연봉 6.3% 인상·격려금 300만원 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-07T07:23:07+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오 노사, 임금협약 타결…연봉 6.3% 인상·격려금 300만원",
+          "link": "https://zdnet.co.kr/view/?no=20260807170150",
+          "summary": "[지디넷코리아]카카오 노사가 연봉을 6.3% 인상하고, 격려금 300만원을 지급하는 방식으로 올해 임금협약을 최종 타결했다.카카오는 7일 연봉총액 인상률 재원 기준 6.3%를 적용하고, 특별격려금 300만원을 지급하기로 했다고 밝혔다. 다만, 승진 등에 따라 일부 구성원들에게 적용되는 스테이지업 재원은 별도다.이번 협약 타결로 인해 카카오 노사는 두 달 넘게 이어온 갈등을 봉합하게 됐다. 이들은 임금 인상률과 보상 체계, 경영진 책임 소재 등을 두고 충돌해왔다. 이로 인해 카카오 노동조합은 지난 5월 20일 판교역 결의대회를 시작으로, 6월 10일 파업 집회에 이어 같은달 29일 ‘로그아웃데이’를 통해 투쟁을 지속해왔다.당시 노사는 지난해 영업이익의 13~15%를 성과급으로 보상하는 방안과 500만원 규모의 양도제한조건부주식(RSU)을 성과급에 산입할 것인지를 두고 대립을 이어온 것으로 알려졌다.카카오는 “이번 교섭을 통해 마련된 합의를 충실히 이행하고, 지속 가능한 성장과 구성원들",
+          "published": "2026-08-07T08:16:22+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
