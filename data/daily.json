@@ -1,94 +1,94 @@
 {
-  "generated_at": "2026-08-08T21:33:27.030648+00:00",
-  "total_articles": 8,
+  "generated_at": "2026-08-09T21:35:37.278390+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 5,
+      "count": 3,
       "articles": [
         {
-          "title": "AI인프라에 주목하는 엔비디아…전력업체 랜시엄에 4조원 투자 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaWUR3a1NTM3NvSGM1TmFlZVBmRWY5MlBWRFZSU0dRbjd2cTRZM20zc1FFVVNnY1hWb1NCbUZMVDV4WjNpVTZPbTV2RlFoN0FDUGc?oc=5",
-          "summary": "AI인프라에 주목하는 엔비디아…전력업체 랜시엄에 4조원 투자 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-08T18:22:29+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
+          "link": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
+          "summary": "Chinese start-ups and researchers are racing to bring brain-computer interfaces (BCIs) to market that can be implanted in just a few minutes, as Beijing pushes to nurture home-grown players in the sector to compete with Elon Musk’s Neuralink. The Chinese devices – which enable patients to control digital technology using their thoughts alone – can be inserted via a vein like a stent, unlike conventional BCIs that require patients to undergo brain surgery. StairMed Technology – one of the...",
+          "published": "2026-08-09T09:50:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"애플, 프리미엄 폰 65% 점유…아이폰17 강세 덕분\"",
-          "link": "https://zdnet.co.kr/view/?no=20260808100943",
-          "summary": "[지디넷코리아]세계 스마트폰 시장이 올 상반기 29% 성장한 가운데 애플이 프리미엄 폰 시장의 65%를 점유한 것으로 집계됐다.애플의 상반기 프리미엄 폰 매출이 9% 증가하면서 점유율 65%를 기록했다고 맥루머스가 7일(현지시간) 카운터포인트 리서치 자료를 인용 보도했다. 카운터포인트는 평균판매가격 600달러 이상 제품을 프리미엄 폰으로 분류하고 있다.이 같은 점유율은 지난 해 같은 기간 63%에 비해 2%P 늘어난 것이다. 카운터포인트는 애플의 프리미엄 폰 시장 점유율이 늘어난 것은 특히 아이폰17 기본 모델 판매가 강세를 보인 덕분이라고 분석했다.하지만 이 같은 점유율은 애플이 2022년 상반기 기록한 74%에는 크게 못 미치는 수준이다. 이는 애플이 프리미엄 스마트폰 최대 시장인 중국에서 화웨이, 샤오미, 오포, 비보 등 현지 업체들에게 밀린 때문이라고 카운터포인트가 설명했다.애플의 뒤를 이어 삼성이 19%로 프리미엄 폰 점유율 2위를 기록했다. 삼성은 갤럭시S26 시리즈 출시",
-          "published": "2026-08-08T01:10:10+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "미 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ySUtwb0JDQlpZNmF1cVNQLWZVWG9ZdHFzT0xsRF9MRWtVQ1hTVDJYeTVpc0pNc05RWFBTZXcxZ2V4QVFIUUlQcHRZSVZVVHlkeTU1ai1hUG5JM1pmM0VtX2dCUHdWWmhEMHc?oc=5",
-          "summary": "미 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-07T23:55:48+00:00",
+          "title": "'커서' 이름 사라지나...스페이스X 인수 후 '그록'으로 브랜드 개편 예정 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTEhmd1VDcUlPYUFqeW4wNmwwbVNZelAzUmNHX0FOYm1TMnJhQ0J0d1hBd2Y3YUE3YnZhUVdFeVAzVWFRcVNocWFmbnFqa3ZQd1NnNUt2cUZQOGVuNDRFMnhLMDRSbW9QeWc?oc=5",
+          "summary": "'커서' 이름 사라지나...스페이스X 인수 후 '그록'으로 브랜드 개편 예정 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-09T02:33:24+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hY3BuUWxrdEtkN056bEdOdjFtVzdYelc2RTloZGtEeVg5a1dmZlpCRjVjMDlVR0hrVmJNS2JickczNWVTWHBBb0J0em1NNndvU3pHT3JmWkRBVHh3alZoS2RiSzI1UkMxeUE?oc=5",
+          "summary": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-09T03:31:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 7,
+      "articles": [
         {
-          "title": "통제에서 조율로...조직을 궤도에 올리는 'ORBIT' 리더십",
-          "link": "https://zdnet.co.kr/view/?no=20260807173951",
-          "summary": "[지디넷코리아]매년 연말연시가 되면 수많은 기업이 \"올해부터는 낡은 평가 방식을 버리고 새로운 제도를 도입하겠다\"며 혁신을 선언한다. 앞선 4편에서 다룬 'GDR(Goal·Direction·Role &amp; Responsibility)'과 같은 성장 관리 프레임워크나 애자일 조직 문화, 구글의 성공 사례로 널리 알려진 OKR 등을 앞다퉈 도입한다.하지만 불과 몇 개월이 지나지 않아 현장의 실무자들은 \"이름만 바뀌었을 뿐, 결국 예전 KPI 시절과 똑같이 숨 막히는 통제와 실적 압박의 반복\"이라며 냉소 섞인 불만을 터뜨리곤 한다. 프레임워크 자체의 논리적 완결성이 보장됨에도 치열한 실무 현장에서 번번이 겉도는 근본적인 이유는 무엇일까.정보기술(IT) 산업에 빗대어 보면 쉽게 이해할 수 있다. 조직의 평가 및 관리 제도(GDR 등)를 바꾸는 것은 최고급 사양의 최신형 하드웨어를 새로 구매하는 것과 같다. 하지만 정작 그 하드웨어를 구동해야 할 운영체제(OS)—즉, 현장에서 구성원들과 ",
-          "published": "2026-08-07T23:30:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a 147 per cent jump in first-half revenue, as the Nvidia challenger seeks fresh capital amid booming demand for home-grown computing power. The Shanghai-listed company said on Sunday that its board had approved a plan to issue H shares and list on the main board of the Hong Kong stock exchange, a move designed to deepen the firm’s “international strategic footprint”, attract and",
+          "published": "2026-08-09T11:20:44+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -97,10 +97,94 @@
           ]
         },
         {
-          "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jLVZVZDZJM0FweFIzLUxYei1UUVpzU2txY0ZobUVFMmpTbHdzU1hVVWllbVVjb1hUam5BbUh0eE1xYlgybUpKU2I3a0FvYVZ5d3RKS3dVS1pzR2V1cmdiSEhEUUtQdnl1Vnc?oc=5",
-          "summary": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-07T22:00:00+00:00",
+          "title": "엔비디아, 전력망 투자 확대…美 랜시엄에 4.2조원 베팅",
+          "link": "https://zdnet.co.kr/view/?no=20260809132821",
+          "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 데이터센터 운영에 필수적인 전력 인프라에 최대 30억 달러(약 4조 2330억원)를 투자한다. AI 가속기 공급을 넘어 데이터센터와 전력망까지 직접 확보하며 급증하는 AI 컴퓨팅 수요에 대응하기 위한 인프라 투자에 속도를 내는 모습이다.8일(현지시간) 디인포메이션에 따르면 엔비디아는 미국 전력 인프라 개발업체 랜시엄에 최대 30억 달러(약 4조 2330억원)를 투자할 계획이다.우선 20억 달러(약 2조 8220억원)를 투입해 랜시엄 지분 약 20%를 확보하고 향후 일정 조건을 충족할 경우 10억 달러(약 1조 4110억원)를 추가 투자하는 방식이다. 추가 투자는 랜시엄이 전력망 연결 등 사전에 정해진 조건을 달성하는지에 따라 이뤄질 것으로 알려졌다.이번 거래에서 랜시엄과 회사가 보유한 토지·전력망 연결 포트폴리오의 기업가치는 약 100억 달러(약 14조원)로 평가됐다. 랜시엄은 투자금을 사업 확대에 활용하는 한편 내년 기업공개(IPO)도 검토",
+          "published": "2026-08-09T04:35:36+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNGcxRC1QUGVYZDlPWXpHNnRfVEt0c2JDY3NNNTBDbzdZTDBxZ3NTQmNlSzdqSFZUYldiYll4ZXlMUXdxYjlRdzFSWTRLYm1Rc05GY2FxRFEzX0lBUkVJc3d2MkpJNy02Mnc?oc=5",
+          "summary": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-09T00:21:46+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Apple Explores Apple Watch Shake-Up; Company Prepares for September iPhone Event",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
+          "summary": "Also: The company’s big iPhone event approaches.",
+          "published": "2026-08-09T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DTm9URlpVTmhvQ2JSa3BSSjJZbXViaUpBZWV3NHFCMEw5a2ZBd1liMUY1cmc4ODZWUG5EVHJTX0xWenF6ejBKb1B3cU43THBaV0JuaTJBREtrbnNzZG1nVzNCYlgzR2ZXUGc?oc=5",
+          "summary": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-09T21:22:29+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hTUx1TzBLLVZSaGRDYU5qM096WFo2R2VBVllZMUxKTEEtRTBnZ0U1WDdrYVk5VE5WV0docFB6MXJIVWhZbms2S3Q0YkpsS1JFSUJNQjVPSWkxMzh4dGRLZkNqQ281NEZXZGc?oc=5",
+          "summary": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-09T03:01:45+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -115,73 +199,17 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "Fintech That Soared on Trump Sells Core Business for $12 Million",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-08/fintech-that-soared-on-trump-sells-core-business-for-12-million",
-          "summary": "A virtually unknown fintech that catapulted into the headlines and cracked a $1 billion market value after signing a deal with the Trump family’s crypto platform last year has sold its core business for about $12 million.",
-          "published": "2026-08-08T11:58:13+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "네카오 'AI 수익화' 시점 변했다...네이버는 시작, 카카오는 내년",
-          "link": "https://zdnet.co.kr/view/?no=20260807181357",
-          "summary": "[지디넷코리아]네이버와 카카오가 연초만 해도 올해 하반기를 인공지능(AI) 수익화 시점으로 전망했으나, 실제 성과 시점은 갈라졌다. 네이버는 이미 일부 수익화를 달성한 반면, 카카오는 목표 시점을 내년으로 미룬 것으로 확인됐다. 카카오는 성급한 수익화보다 안정적이고 연결성 있는 에이전트 생태계 구축에 방점을 두면서 상대적으로 보수적인 로드맵을 제시했다.신종환 카카오 최고재무책임자(CFO)는 지난 6일 올 2분기 실적 발표 컨퍼런스 콜에서 “현재 AI는 매출 기여에 앞서 투자가 선행되는 단계”라고 말했다. 같은 날 정신아 카카오 대표도 “현재 카카오의 AI 전략 방향성과 실행 속도를 고려했을 때 올해 말까지 AI 대중화의 기반이 마련되고 내년부터 본격적인 수익화를 시작할 수 있을 것”이라고 예상했다.지난 2월 2025년 4분기 실적 발표 당시 “올해(2026년)를 AI 수익화의 원년으로 삼아 사업 기반을 구축하겠다”고 밝힌 것과 비교하면, 실질적인 ‘돈 버는 AI’로 나아가는 시점이 ",
-          "published": "2026-08-07T23:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
         },
         {
-          "title": "웹툰만 보는 시대 끝…네이버웹툰, 애니·AI 캐릭터로 '체류시간' 늘린다",
-          "link": "https://zdnet.co.kr/view/?no=20260806164941",
-          "summary": "[지디넷코리아]네이버웹툰이 웹툰 감상을 넘어 애니메이션 시청, AI 캐릭터와의 대화, 2차 창작까지 이용자 경험을 확대하며 콘텐츠 생태계 확장에 속도를 내고 있다. 이용자의 콘텐츠 소비 시간이 짧아지고 선택지가 다양해지는 환경에서 하나의 IP를 다양한 방식으로 소비하도록 유도해 플랫폼 체류시간과 콘텐츠 생명력을 함께 늘리겠다는 전략이다.이 같은 움직임은 김용수 웹툰엔터테인먼트 프레지던트가 올해 초 기자간담회에서 공개한 '플라이휠 확장 전략'의 연장선이다. 창작자와 콘텐츠, 이용자가 선순환하는 생태계를 강화하기 위해 콘텐츠 포맷을 넓히고 소비 방식을 다각화하는 데 초점을 맞추고 있다.8일 관련업계에 따르면 네이버웹툰 일본어 서비스 라인망가는 최근 일본 최대 애니메이션 OTT인 'd아니메 스토어'와 협업해 약 4천 편의 애니메이션을 플랫폼 안에서 함께 제공할 예정이라고 공개했다. 일본 만화 플랫폼이 애니메이션 콘텐츠를 함께 제공하는 것은 처음이다. 이용자는 웹툰을 감상한 뒤 별도 서비스",
-          "published": "2026-08-07T23:30:02+00:00",
+          "title": "\"혼자보다 함께…융합에서 답을 찾다\"",
+          "link": "https://zdnet.co.kr/view/?no=20260809120049",
+          "summary": "[지디넷코리아]광주과학기술원(GIST) AI+나노융합 이노코어(AI-ACE InnoCORE) 연구단(단장 이은지)이 지난 6~7일 이틀간 GIST 오룡관에서 ‘2026년 성과공유회 및 역량강화 워크숍’을 개최했다.4대 과기원 및 참여기관 멘토 교수진 35명, 박사후연구원(펠로우) 50명, 외부 연사 등 90여 명이 참석한 가운데 지난 1년 간 연구 성과를 점검하고, 멀티멘토링에 따른 공동연구(Co-Lab) 협력 체계 및 연구 역량 강화를 위해 마련됐다.첫 날인 6일에는 ▲이재영 신소재공학과 교수 ▲이현주 AI학과 교수 ▲정현호 전기전자컴퓨터공학과 교수가 분야별 연구 성과와 추진 현황을 발표했다.이에 앞서, 서울대학교 백민경 생명과학부 교수와 이승재 의과대학 교수가 각각 초청연사로 나서 AI를 활용한 단백질 구조 예측 기술과 바이오 분야 활용 가능성과 뇌 염증이 퇴행성 뇌질환을 유발하는 분자 기전을 소개했다.둘째 날에는 김용훈 지식재산처 변리사와 김현민 아마존웹서비스(AWS) 강사가 ",
+          "published": "2026-08-09T03:01:43+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -191,6 +219,39 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
+        {
+          "title": "\"이번 역은 토스·무신사역입니다\"…K유니콘, 지하철 노선도 점령",
+          "link": "https://zdnet.co.kr/view/?no=20260809102707",
+          "summary": "[지디넷코리아]서울 지하철 주요 역명판에 국내 대표 유니콘 기업들의 이름이 잇따라 등장하고 있다. 패션 플랫폼 무신사가 2호선 성수역 역명병기 사업을 따낸 데 이어 핀테크 플랫폼 토스를 운영하는 비바리퍼블리카가 9호선 신논현역 역명병기권을 확보했다.토스와 무신사 모두 기업공개(IPO)를 통한 외형 확장을 준비하는 대표적인 유니콘이라는 점에서 대기업과 금융사 등이 주로 차지했던 지하철 역명판까지 영역을 넓히며 대중적 인지도를 끌어올리고 있다는 평가가 나온다.9일 관련 업계에 따르면 핀테크 서비스 '토스'를 운영하는 비바리퍼블리카는 최근 진행된 서울 지하철 9호선 신논현역 유상 역명병기 사업 입찰에서 최종 낙찰자로 선정됐다. 3년간 역명을 병기하는 조건으로 낙찰 금액은 약 3억원 수준으로 알려졌다.스타트업으로 출발한 핀테크 기업이 지하철 역명병기 사업을 따낸 것은 이번이 처음이다.역명병기는 지하철역의 기존 이름에 기업이나 기관 등의 이름을 부역명으로 추가하는 사업이다. 이번 낙찰에 따라",
+          "published": "2026-08-09T01:54:58+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
