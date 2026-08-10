@@ -1,58 +1,16 @@
 {
-  "generated_at": "2026-08-09T21:35:37.278390+00:00",
+  "generated_at": "2026-08-10T21:45:04.480399+00:00",
   "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "China races to develop brain-computer interfaces that can be inserted in 10 minutes",
-          "link": "https://www.scmp.com/business/companies/article/3363443/china-races-develop-brain-computer-interfaces-can-be-inserted-10-minutes?utm_source=rss_feed",
-          "summary": "Chinese start-ups and researchers are racing to bring brain-computer interfaces (BCIs) to market that can be implanted in just a few minutes, as Beijing pushes to nurture home-grown players in the sector to compete with Elon Musk’s Neuralink. The Chinese devices – which enable patients to control digital technology using their thoughts alone – can be inserted via a vein like a stent, unlike conventional BCIs that require patients to undergo brain surgery. StairMed Technology – one of the...",
-          "published": "2026-08-09T09:50:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'커서' 이름 사라지나...스페이스X 인수 후 '그록'으로 브랜드 개편 예정 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5CTEhmd1VDcUlPYUFqeW4wNmwwbVNZelAzUmNHX0FOYm1TMnJhQ0J0d1hBd2Y3YUE3YnZhUVdFeVAzVWFRcVNocWFmbnFqa3ZQd1NnNUt2cUZQOGVuNDRFMnhLMDRSbW9QeWc?oc=5",
-          "summary": "'커서' 이름 사라지나...스페이스X 인수 후 '그록'으로 브랜드 개편 예정 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-09T02:33:24+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9hY3BuUWxrdEtkN056bEdOdjFtVzdYelc2RTloZGtEeVg5a1dmZlpCRjVjMDlVR0hrVmJNS2JickczNWVTWHBBb0J0em1NNndvU3pHT3JmWkRBVHh3alZoS2RiSzI1UkMxeUE?oc=5",
-          "summary": "스페이스XAI, ‘이매진 이미지 2.0’ 공개...생성 넘어 정밀 편집·일관성 집중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-09T03:31:09+00:00",
+          "title": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KTVZmTGU4XzQ4ZUQtTWNieVRsS2cybFNvYUREVVowRjBSczBGOHpzYVdzNUVGRUhHMjEzcUJfbERYWGpiOHRhWUVGWEZ0S1IwY01CZ0xuSTB6OXBnV3lNWEJsWDBOOVdQR1E?oc=5",
+          "summary": "스페이스X '테라팹', 지구상 최대 공장 건설…자체 천연가스 발전소 구축 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-10T06:47:45+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -72,67 +30,107 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 7,
+      "count": 8,
       "articles": [
         {
-          "title": "Moore Threads plans Hong Kong listing after posting 147% jump in first-half revenue",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3363448/moore-threads-plans-hong-kong-listing-after-posting-147-jump-first-half-revenue?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence (AI) chip developer Moore Threads plans to seek a listing in Hong Kong after reporting a 147 per cent jump in first-half revenue, as the Nvidia challenger seeks fresh capital amid booming demand for home-grown computing power. The Shanghai-listed company said on Sunday that its board had approved a plan to issue H shares and list on the main board of the Hong Kong stock exchange, a move designed to deepen the firm’s “international strategic footprint”, attract and",
-          "published": "2026-08-09T11:20:44+00:00",
+          "title": "OpenAI Buys Back $7 Billion of Employee Shares in Tender Offer",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-10/openai-buys-back-7-billion-of-employee-shares-in-tender-offer",
+          "summary": "OpenAI has completed a deal to help employees sell roughly $7 billion worth of shares in the company ahead of a possible Wall Street debut, according to a person familiar with the matter.",
+          "published": "2026-08-10T20:26:08+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia to team with Wall Street on US$500 billion package for AI infrastructure projects",
+          "link": "https://www.scmp.com/news/article/3363577/nvidia-team-wall-street-us500-billion-package-ai-infrastructure-projects?utm_source=rss_feed",
+          "summary": "A group of US investment giants are partnering with Nvidia on US$500 billion in funding for AI infrastructure projects, the Financial Times reported. Apollo Global Management, Blackstone, BlackRock’s Global Infrastructure Partners, Brookfield Asset Management, Goldman Sachs and KKR are among the firms in talks with Nvidia on a deal to invest in the AI buildout, the Financial Times reported, citing unidentified sources. The deal may be announced as soon as Monday, the Times said. The named firms.",
+          "published": "2026-08-10T18:18:48+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "m_and_a"
           ]
         },
         {
-          "title": "엔비디아, 전력망 투자 확대…美 랜시엄에 4.2조원 베팅",
-          "link": "https://zdnet.co.kr/view/?no=20260809132821",
-          "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 데이터센터 운영에 필수적인 전력 인프라에 최대 30억 달러(약 4조 2330억원)를 투자한다. AI 가속기 공급을 넘어 데이터센터와 전력망까지 직접 확보하며 급증하는 AI 컴퓨팅 수요에 대응하기 위한 인프라 투자에 속도를 내는 모습이다.8일(현지시간) 디인포메이션에 따르면 엔비디아는 미국 전력 인프라 개발업체 랜시엄에 최대 30억 달러(약 4조 2330억원)를 투자할 계획이다.우선 20억 달러(약 2조 8220억원)를 투입해 랜시엄 지분 약 20%를 확보하고 향후 일정 조건을 충족할 경우 10억 달러(약 1조 4110억원)를 추가 투자하는 방식이다. 추가 투자는 랜시엄이 전력망 연결 등 사전에 정해진 조건을 달성하는지에 따라 이뤄질 것으로 알려졌다.이번 거래에서 랜시엄과 회사가 보유한 토지·전력망 연결 포트폴리오의 기업가치는 약 100억 달러(약 14조원)로 평가됐다. 랜시엄은 투자금을 사업 확대에 활용하는 한편 내년 기업공개(IPO)도 검토",
-          "published": "2026-08-09T04:35:36+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Nvidia to Team With Wall Street on $500 Billion Funding Package",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-10/nvidia-to-team-with-wall-street-on-500-billion-package-ft-says",
+          "summary": "US investment giants including Apollo Global Management Inc., Blackstone Inc., BlackRock Inc. and Brookfield Asset Management are partnering with Nvidia Corp. to invest $500 billion in artificial intelligence infrastructure.",
+          "published": "2026-08-10T16:56:57+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Is Hiring a Power-Trading Lead for Its Data Center Portfolio",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-10/openai-is-hiring-a-power-trading-lead-for-its-data-center-portfolio",
+          "summary": "OpenAI is hiring a power-trading lead to help manage the expanding energy needs of the electricity-intensive data centers running its artificial intelligence models.",
+          "published": "2026-08-10T18:38:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+          "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the cofounder of Schmidt Sciences, and Suhas Mahesh, who leads the AI for science work&#8230;",
+          "published": "2026-08-10T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNGcxRC1QUGVYZDlPWXpHNnRfVEt0c2JDY3NNNTBDbzdZTDBxZ3NTQmNlSzdqSFZUYldiYll4ZXlMUXdxYjlRdzFSWTRLYm1Rc05GY2FxRFEzX0lBUkVJc3d2MkpJNy02Mnc?oc=5",
-          "summary": "허사비스, 사임 의사 밝혔으나 구글 만류로 승진…사실상 퇴임 수순 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-09T00:21:46+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -141,18 +139,86 @@
           ]
         },
         {
-          "title": "Apple Explores Apple Watch Shake-Up; Company Prepares for September iPhone Event",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-09/apple-explores-apple-watch-shake-up-company-prepares-for-september-iphone-event",
-          "summary": "Also: The company’s big iPhone event approaches.",
-          "published": "2026-08-09T14:00:01+00:00",
+          "title": "Five Takeaways From Zuckerberg’s 6,500-Word Manifesto on AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-10/five-takeaways-from-zuckerberg-s-6-500-word-manifesto-on-ai",
+          "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg touted his views on artificial intelligence in a 6,500-word essay published Monday, emphasizing his belief that wider access to AI models is key to the industry’s future.",
+          "published": "2026-08-10T20:40:23+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "China’s top AI is still trained on Nvidia chips. What is delaying a switch to local tech?",
+          "link": "https://www.scmp.com/tech/big-tech/article/3363491/chinas-top-ai-still-trained-nvidia-chips-what-delaying-switch-local-tech?utm_source=rss_feed",
+          "summary": "China’s most advanced artificial intelligence models are still being trained on Nvidia chips, sources at major Chinese large language model (LLM) developers say, as the prohibitively high cost of switching to local semiconductors continues to hamper Beijing’s push for self-sufficiency. While domestic hardware continues to advance, changing chip architecture presents a steep engineering bottleneck. “Training LLMs on Nvidia chips for now remains the norm among Chinese AI developers,” said a person",
+          "published": "2026-08-10T05:00:23+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "These startups are chasing the next big thing in LLMs",
+          "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
+          "summary": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them&#160;here. Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new&#8230;",
+          "published": "2026-08-10T09:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "Strategy Sells More Bitcoin, Stock to Bolster Cash Stockpile",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-10/strategy-sells-more-bitcoin-stock-to-bolster-cash-stockpile",
+          "summary": "Michael Saylor’s Strategy Inc. spent another week revising the company’s capital structure by selling more Bitcoin and common shares to bolster its cash reserve.",
+          "published": "2026-08-10T13:02:43+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -161,35 +227,15 @@
           "event_labels": []
         },
         {
-          "title": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DTm9URlpVTmhvQ2JSa3BSSjJZbXViaUpBZWV3NHFCMEw5a2ZBd1liMUY1cmc4ODZWUG5EVHJTX0xWenF6ejBKb1B3cU43THBaV0JuaTJBREtrbnNzZG1nVzNCYlgzR2ZXUGc?oc=5",
-          "summary": "구글, 인터넷 없이 작동하는 AI 번역기 ‘젬마 트랜슬레이터’ 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-09T21:22:29+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "트럼프 미디어, 암호화폐 확장 '속도조절' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vNGxxNDYxSXRGZ2UtX3Q0ZHYtUExxc2loV1Z1NC1XYkYzdW5oYjFwSkN2Q0lmMEx2SlA0RVUxenE2Tmh5Zk1odzJFR2NvYk4zemRBZ3VIOUVQeE1kOXgxUThPTWVKQ1cwY2FLeWRWZUQ?oc=5",
+          "summary": "트럼프 미디어, 암호화폐 확장 '속도조절' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-10T04:20:32+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hTUx1TzBLLVZSaGRDYU5qM096WFo2R2VBVllZMUxKTEEtRTBnZ0U1WDdrYVk5VE5WV0docFB6MXJIVWhZbms2S3Q0YkpsS1JFSUJNQjVPSWkxMzh4dGRLZkNqQ281NEZXZGc?oc=5",
-          "summary": "메타, 맥용 '메타 AI' 데스크톱 앱 개발 정황 포착...'슈퍼 앱' 경쟁 예고 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-09T03:01:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -199,61 +245,13 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "\"혼자보다 함께…융합에서 답을 찾다\"",
-          "link": "https://zdnet.co.kr/view/?no=20260809120049",
-          "summary": "[지디넷코리아]광주과학기술원(GIST) AI+나노융합 이노코어(AI-ACE InnoCORE) 연구단(단장 이은지)이 지난 6~7일 이틀간 GIST 오룡관에서 ‘2026년 성과공유회 및 역량강화 워크숍’을 개최했다.4대 과기원 및 참여기관 멘토 교수진 35명, 박사후연구원(펠로우) 50명, 외부 연사 등 90여 명이 참석한 가운데 지난 1년 간 연구 성과를 점검하고, 멀티멘토링에 따른 공동연구(Co-Lab) 협력 체계 및 연구 역량 강화를 위해 마련됐다.첫 날인 6일에는 ▲이재영 신소재공학과 교수 ▲이현주 AI학과 교수 ▲정현호 전기전자컴퓨터공학과 교수가 분야별 연구 성과와 추진 현황을 발표했다.이에 앞서, 서울대학교 백민경 생명과학부 교수와 이승재 의과대학 교수가 각각 초청연사로 나서 AI를 활용한 단백질 구조 예측 기술과 바이오 분야 활용 가능성과 뇌 염증이 퇴행성 뇌질환을 유발하는 분자 기전을 소개했다.둘째 날에는 김용훈 지식재산처 변리사와 김현민 아마존웹서비스(AWS) 강사가 ",
-          "published": "2026-08-09T03:01:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "\"이번 역은 토스·무신사역입니다\"…K유니콘, 지하철 노선도 점령",
-          "link": "https://zdnet.co.kr/view/?no=20260809102707",
-          "summary": "[지디넷코리아]서울 지하철 주요 역명판에 국내 대표 유니콘 기업들의 이름이 잇따라 등장하고 있다. 패션 플랫폼 무신사가 2호선 성수역 역명병기 사업을 따낸 데 이어 핀테크 플랫폼 토스를 운영하는 비바리퍼블리카가 9호선 신논현역 역명병기권을 확보했다.토스와 무신사 모두 기업공개(IPO)를 통한 외형 확장을 준비하는 대표적인 유니콘이라는 점에서 대기업과 금융사 등이 주로 차지했던 지하철 역명판까지 영역을 넓히며 대중적 인지도를 끌어올리고 있다는 평가가 나온다.9일 관련 업계에 따르면 핀테크 서비스 '토스'를 운영하는 비바리퍼블리카는 최근 진행된 서울 지하철 9호선 신논현역 유상 역명병기 사업 입찰에서 최종 낙찰자로 선정됐다. 3년간 역명을 병기하는 조건으로 낙찰 금액은 약 3억원 수준으로 알려졌다.스타트업으로 출발한 핀테크 기업이 지하철 역명병기 사업을 따낸 것은 이번이 처음이다.역명병기는 지하철역의 기존 이름에 기업이나 기관 등의 이름을 부역명으로 추가하는 사업이다. 이번 낙찰에 따라",
-          "published": "2026-08-09T01:54:58+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
