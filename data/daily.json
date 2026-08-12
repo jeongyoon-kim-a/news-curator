@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:52:14.691412+00:00",
+  "generated_at": "2026-08-12T21:50:30.325206+00:00",
   "total_articles": 12,
   "categories": {
     "elon_musk": {
@@ -7,26 +7,24 @@
       "count": 1,
       "articles": [
         {
-          "title": "쏘카, 올해 2분기 영업이익 68억원…전년比 271%↑",
-          "link": "https://zdnet.co.kr/view/?no=20260811174329",
-          "summary": "[지디넷코리아]쏘카가 올해 2분기 매출과 영업이익 모두 호실적을 달성했다. 전기차 중심의 가격 변동 최소화와 '블랙라벨' 등 프리미엄 서비스가 신규 수요로 이어졌다는 평가다. 이를 기반으로 쏘카는 하반기 인공지능(AI)·풀스택 모빌리티·자율주행으로 대표되는 성장 전략을 본격 가동한다. 쏘카는 2분기 연결 기준 매출액 1210억원, 영업이익 68억원을 기록했다고 11일 공시했다. 매출과 영업이익은 전년 동기 대비 각각 23%, 271% 증가했다. 별도기준으로는 매출액 1152억원, 영업이익 88억원, 당기순이익 90억원을 거뒀다. 쏘카는 '과감한 이용자 중심 서비스 투자 전략'을 통한 신규 수요 확보를 실적 배경으로 꼽았다. 중동 정세 불안으로 인한 유가 변동 속에서도 전기차 중심으로 가격 변동을 최소화하면서 테슬라 FSD를 누구나 이용해볼 수 있도록 한 '블랙라벨' 등 프리미엄 서비스를 출시했다. 회사는 이같은 서비스가 카셰어링 이용시간과 가동률, 신규 고객 유입으로 이어져 이번 실",
-          "published": "2026-08-11T09:23:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "머스크 \"스페이스X 직원이 AI 부모…그록이 생각 물려받을 것\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR01mVzdMY3JqV0I1UXNyamRyYzFsaVVlTHAtU1FBTTRNVGRkNHJyZTIyTG55TGpxeHFOelBQT3dtekVHN0xYamo4QXpjcWhmQ0E?oc=5",
+          "summary": "머스크 \"스페이스X 직원이 AI 부모…그록이 생각 물려받을 것\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-12T21:29:53+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "keyword": 8,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -35,39 +33,19 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia’s Show of Financial Force Soothes Jittery Credit Markets",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-11/nvidia-s-show-of-financial-force-soothes-jittery-credit-markets",
-          "summary": "Nvidia Corp.’s commitments to backstop the artificial intelligence boom seemed to be swelling by the day. There was the reported $250 billion to help kickstart a massive data center for OpenAI in Ohio, the latest in a string of big financings it was involved with.",
-          "published": "2026-08-11T20:38:08+00:00",
+          "title": "AI Cloud Provider Lambda Prices Loan for Nvidia-Tied Chip Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-12/ai-cloud-provider-lambda-prices-loan-for-nvidia-tied-chip-deal",
+          "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., wrapped up a $926 million leveraged-loan deal as that market becomes a new front in the borrowing binge to finance the artificial intelligence buildout.",
+          "published": "2026-08-12T20:36:56+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia’s great silicon showdown",
-          "link": "https://www.economist.com/business/2026/08/11/nvidias-great-silicon-showdown",
-          "summary": "The chipmaker’s biggest customers want a piece of its business. It is fighting back with a $500bn deal",
-          "published": "2026-08-11T19:12:35+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -77,10 +55,32 @@
           ]
         },
         {
-          "title": "Google to Add Three Subsea Cable Systems Across the Americas",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-11/google-to-add-three-subsea-cable-systems-across-the-americas",
-          "summary": "Alphabet Inc.’s Google announced new cable links in the Americas on Tuesday, including one between Panama, the Dominican Republic and Chile, which is trying to establish itself as a regional digital hub.",
-          "published": "2026-08-11T21:10:38+00:00",
+          "title": "방미통위, 인앱결제 강제 제재 논의 시동",
+          "link": "https://zdnet.co.kr/view/?no=20260812192259",
+          "summary": "[지디넷코리아]방송미디어통신위원회가 구글과 애플 등 앱마켓 사업자에 대해 인앱결제 관련 제재 논의를 시작했다. 세계 최초로 인앱결제 강제 금지법이 통과된 이후 사실조사가 시작됐으나 방송통신위원회 파행 운영으로 실제 제재를 위한 공식 논의가 수년간 미뤄졌다.방미통위는 12일 전체회의를 열어 구글과 애플 등 앱마켓 사업자의 인앱결제 강제에 따른 처분 필요성 논의를 시작했다.이날 회의에서는 사무처에서 그간의 경과를 보고한 뒤 저녁 늦은 시간까지 구글과 애플 본사 임원에 대한 의견 청취가 이어졌다. 제재 대상 사업자 소명을 바탕으로 추가 논의를 진행한 뒤 최종 처분 수위가 정해질 전망이다.구글과 애플이 자사 결제방식을 강제하고 앱 심사를 지연한 행위 등이 관련 법에 위반된다는 게 사무처의 의견이다. 애플에는 부당한 수수료 차별 행위가 추가적인 위반 사항으로 꼽힌다. 그런 가운데 구글의 경우 일부 자진 시정으로 읽히는 부분에 대한 내용이 처분에 참고될지 이목을 끈다.김미정 방미통위 시장조사심",
+          "published": "2026-08-12T10:22:59+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Apple App Store Rate Proceeding Halted by Supreme Court for Now",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-12/apple-app-store-rate-proceeding-halted-by-supreme-court-for-now",
+          "summary": "Apple Inc. won a one-day reprieve from the Supreme Court Wednesday as Justice Elena Kagan paused proceedings before a California trial court in the iPhone maker’s long-running antitrust feud with Fortnite-maker Epic Games Inc.",
+          "published": "2026-08-12T20:35:22+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -88,7 +88,29 @@
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips",
+          "summary": "CoreWeave Inc. is warning investors of the time and money it may take to shift from its exclusive use of Nvidia Corp. artificial intelligence chips.",
+          "published": "2026-08-12T20:35:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -97,30 +119,10 @@
           "event_labels": []
         },
         {
-          "title": "Google Team Tells Applicants Its HR Filters Are Unreliable",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-10/google-s-ai-team-tells-job-seekers-its-hr-filters-are-unreliable",
-          "summary": "Alphabet Inc.’s Google pitches its artificial intelligence tools to corporate clients as a way to more quickly sift through a mountain of job applications to find the most promising candidates. Some of its own AI researchers don’t want to rely on these tools when recruiting.",
-          "published": "2026-08-10T22:29:29+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'개방형 옹호' 엔비디아, 자체 AI 출시…초대형 모델도 준비중 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nUkw4MjJpc0swZThMQzVwNl9OaHFNOUhHa2l2aU9KTUZoWlZrcHlrWWpTRG41R2JBMkxDMGcyUTh6TW1USGYzU1ZMaEpUU1FuZnc?oc=5",
-          "summary": "'개방형 옹호' 엔비디아, 자체 AI 출시…초대형 모델도 준비중 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-11T18:16:42+00:00",
+          "title": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USVpjUW1EODFrbFFXanRyaWhJNEFUM01lLUI2MG0yeFlVWFp1Y0MtNUd0NW52TUxDWXI1dHZiNGhFQi1OR21sTU4yOVRlMzF4SXc?oc=5",
+          "summary": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-12T19:18:00+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -128,8 +130,50 @@
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiVUVYMDh4aGIxQTVUNUlDeWR5b1lONVIydVJ5Rml4cE9RSEJSejJwWDBaQWItY3RZbmpfODZiNWJwbVEwMFoxRUQ3TEtudWxVWm1tdkRPM0lURHI4UFNWcU1sRjg3U01GbGc?oc=5",
+          "summary": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-12T10:26:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
             "keyword": 5,
             "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple Taps American Airlines Veteran as Government Affairs Head",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-12/apple-taps-american-airlines-veteran-as-government-affairs-head",
+          "summary": "Apple Inc. hired Nate Gatten as its new head of government affairs, tapping a longtime American Airlines Group Inc. executive with Republican ties to handle a delicate role at the company.",
+          "published": "2026-08-12T16:36:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -137,12 +181,12 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 전이중 음성 AI에 도구 호출 이식... '네모트론랩스 보이스챗 11B' 오픈 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56OGt4eXYtRHJSOWFHSjB4UkFod0lLRE5vSGo3bHQ0Slg3NW5LVUdqOVpWOGtscmxDRnJVakJHcXlXbUllbl9PTUV6RVh6YTRmS2xOc1NxUlhJUW8wT2NGc1UtclNmWTg5cUE?oc=5",
-          "summary": "엔비디아, 전이중 음성 AI에 도구 호출 이식... '네모트론랩스 보이스챗 11B' 오픈 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-11T01:53:58+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxY0VLQ19mRnZGTzk1MVBYNWtZMHpTUFI0X1dxRkRFUHp2dnVqN0U5RElwUkItQUpWTXlkT29Ncm1HYkprS08zdm5JSW1WclRpTER2T3ZhU3RJM3JUeURadXJuajR3Umh0MXUwdHBkWmw?oc=5",
+          "summary": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-11T22:00:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -155,17 +199,49 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
+      "articles": [
         {
-          "title": "한기대 앵커사업단, '피지컬 AI 실무교육' 마무리",
-          "link": "https://zdnet.co.kr/view/?no=20260811171339",
-          "summary": "[지디넷코리아]한국기술교육대학교(한기대) 앵커사업단이 로봇 시뮬레이션과 디지털 트윈, 실물 로봇을 연계한 피지컬 AI(Physical AI) 교육 과정을 마무리했다고 11일 밝혔다. 교육대상은 공학계열 학부생과 대학원생이었다. 앵커사업단은 교육부의 지역성장 인재양성체계 사업을 수행하며 지역과 산업 수요 기반 인재 양성을 추진하는 조직이다.이번 교육은 7월 13~23일 8일간 운영했다. 기본 피지컬 AI 교육 6일, 경진대회 1일, 현장학습 1일로 구성됐다. 오전 이론과 오후 실습을 병행했다. 기계·메카트로닉스·전기전자통신·컴퓨터공학부 소속 학생 28명이 참여했다.커리큘럼은 가상환경 내 시뮬레이션부터 물리 검증, 실시간 시각화까지 다뤘다. 엔비디아의 '아이작 심(Isaac Sim)'을 활용한 강화학습 실습을 시작으로, ANSYS 기반 CAE 해석을 통한 물리 검증, '옴니버스(Omniverse)'를 통한 디지털 트윈 시각화 순으로 진행했다. 교육 전 과정은 클라우드 실습 환경(Virt",
-          "published": "2026-08-11T12:35:55+00:00",
+          "title": "[금융가 사람들] 신한證 디지털자산부서장 \"믿고 쓰는 STO 환경 만들겠다\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KdmlwUXlmSWh4Y1ZJdnNxUGtsdzNLdm54TDFHUlA3M0RPQlJMcDNhd1RHZ0V5V0xHOVBHU19adkRFQTlnMDk1RWIxVi0xcWNFRVVQNWl0djZaNE9tbEkxNFRVMlJFcTRqdnRWRnl1NHg?oc=5",
+          "summary": "[금융가 사람들] 신한證 디지털자산부서장 \"믿고 쓰는 STO 환경 만들겠다\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-12T00:28:32+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
+      "articles": [
+        {
+          "title": "위드네트웍스, 'ISEC 2026'서 새 자산·취약점 통합 관리 플랫폼 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260812220647",
+          "summary": "[지디넷코리아]AI 기반 사이버 보안 및 IT 인프라 통합 플랫폼 기업 위드네트웍스(대표 안종업)가 11~12일 서울 코엑스에서 열린 'ISEC 2026(제20회 국제 시큐리티 콘퍼런스)'에 참가, AI 기반 자산·취약점 통합 관리 플랫폼 'withVTM' 신규 버전을 처음 공개했다. 이 제품은 실제 인프라를 3D 가상 공간에 그대로 재현하는 '보안 디지털 트윈'을 적용했다.12일 회사에 따르면, 'AI로 구현하는 자율보안의 미래'를 주제로 열린 이번 행사에서 'AI가 취약점을 쏟아내는 미토스 시대'를 화두로 제시하고, N2SF·ISMS-P 대응을 위한 지속적 위협 노출 관리(CTEM) 체계와 이를 구현한 'withVTM'을 전면에 내세웠다.AI가 스스로 취약점을 탐지하는 '미토스 쇼크' 이후 공격 표면 관리의 기준이 근본적으로 달라졌다. 또 AI 기술 확산으로 공격은 빠르고 정교해지는 동시에 공격 범위도 확대되고 있으나, 이에 대응할 보안 인력과 예산은 한정돼 있다. 위드네트웍스는",
+          "published": "2026-08-12T13:06:47+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -177,61 +253,10 @@
           "event_labels": []
         },
         {
-          "title": "Alibaba tests paid AI appetite with US$30 annual office-assistant subscription",
-          "link": "https://www.scmp.com/tech/big-tech/article/3363656/alibaba-tests-paid-ai-appetite-us30-annual-qwenwork-subscription?utm_source=rss_feed",
-          "summary": "Alibaba Group Holding is asking app users to open their wallets for its artificial intelligence office assistant, as the Chinese technology giant tests whether businesses and consumers are ready to pay for its digital assistant. The e-commerce giant’s Qwen app now offers three membership tiers for the assistant, with annual plans ranging from 200 yuan (US$29.60) to 1,499 yuan for its flagship version, according to the listing on Apple’s App Store. Users can also buy extra video generation...",
-          "published": "2026-08-11T11:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "한국 정부가 차별?...주병기 “쿠팡이든 네이버든 다 똑같이 법 집행” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41YWVHc2RrdmVXWnhvREZXS2dvc2RWNEVtTDBEV0gtQkpZSzJEaVZlUTY4Wjc5amFEYl90UjZ6QWd3RnI0VUZaLXdaNVZlVi1nbXlicA?oc=5",
-          "summary": "한국 정부가 차별?...주병기 “쿠팡이든 네이버든 다 똑같이 법 집행” &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-11T13:04:45+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버의 ‘검색 왕국’ 시대 끝나나…‘이곳’에 처음으로 추월 당해 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RVTJzV1gtX1BZWVFXeGhFeUY3NFNQNDF6VTk1V0pLZlZZQm9yeFR4N2txemh3UzJycmIzYUJuS2R1M2hNTDdTQXM5RE1tUQ?oc=5",
-          "summary": "네이버의 ‘검색 왕국’ 시대 끝나나…‘이곳’에 처음으로 추월 당해 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-11T04:43:39+00:00",
+          "title": "[단독] “노조가 뭔 요구할지 모르겠습니다”...네이버 IT업계 최초 경총 가입 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mak41MUVfYjVINWJLRkJGZTBWcEs5bHVRRjQ0QzBvc051VmNvRVdGSzltY3l1M2hSbm9iTm9DeWxVSkVsVzVsUXpFSklqQ0RRUHpjekNB?oc=5",
+          "summary": "[단독] “노조가 뭔 요구할지 모르겠습니다”...네이버 IT업계 최초 경총 가입 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-12T02:04:04+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -251,29 +276,8 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "미래에셋 품에 안긴 코빗, 사명 '디지털엑스'로 변경",
-          "link": "https://zdnet.co.kr/view/?no=20260811184153",
-          "summary": "[지디넷코리아]가상자산 거래소 코빗이 미래에셋그룹 계열사로 편입되면서 사명을 변경했다. 코빗은 11일 '디지털엑스 주식회사'로 상호 변경 등기를 완료했다고 밝혔다.추후 서비스명 '코빗(Korbit)'도 변경할 예정이다.다만 앱·웹사이트·고객 안내 등의 서비스 명칭과 운영 방식에는 변경이 없다. 또 이용자 자산 보관 방식과 개인정보 처리 주체 역시 기존과 동일하다.디지털엑스는 \"이번 법인명 변경을 이유로 이용자의 비밀번호·OTP 인증번호·자산 전송 등을 요구하는 일은 없다\"며 \"법인명 변경을 사칭한 피 시도에도 각별히 유의할 것\"이라고 당부했다.",
-          "published": "2026-08-11T09:41:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
