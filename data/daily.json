@@ -1,26 +1,46 @@
 {
-  "generated_at": "2026-08-12T21:50:30.325206+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-08-13T21:50:32.390517+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "머스크 \"스페이스X 직원이 AI 부모…그록이 생각 물려받을 것\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nR01mVzdMY3JqV0I1UXNyamRyYzFsaVVlTHAtU1FBTTRNVGRkNHJyZTIyTG55TGpxeHFOelBQT3dtekVHN0xYamo4QXpjcWhmQ0E?oc=5",
-          "summary": "머스크 \"스페이스X 직원이 AI 부모…그록이 생각 물려받을 것\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-12T21:29:53+00:00",
+          "title": "China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives",
+          "link": "https://www.scmp.com/business/china-business/article/3363799/chinas-brain-chip-drive-accelerates-slew-state-backed-initiatives?utm_source=rss_feed",
+          "summary": "For years, Elon Musk has dreamed of conquering a range of chronic health conditions by inserting computer chips into the human brain. But that vision could become reality fastest in China, where state authorities are launching a coordinated effort to accelerate the nascent industry’s development. The past few days have seen a string of initiatives related to brain-computer interfaces (BCIs) announced in China, involving parties ranging from state insurance companies to investment banks and local",
+          "published": "2026-08-13T04:00:11+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSFRCQTA5TkliZEtrY0NKNzdiYldqR3RycHhQaTdNcWVLN2FGVVpadWZNQ3kyVGFkV2JWTnRzRkdmbVhmVlN2Q1Iyc1g4LThyenc?oc=5",
+          "summary": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-13T15:14:59+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,84 +53,18 @@
       "count": 8,
       "articles": [
         {
-          "title": "AI Cloud Provider Lambda Prices Loan for Nvidia-Tied Chip Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-12/ai-cloud-provider-lambda-prices-loan-for-nvidia-tied-chip-deal",
-          "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., wrapped up a $926 million leveraged-loan deal as that market becomes a new front in the borrowing binge to finance the artificial intelligence buildout.",
-          "published": "2026-08-12T20:36:56+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "방미통위, 인앱결제 강제 제재 논의 시동",
-          "link": "https://zdnet.co.kr/view/?no=20260812192259",
-          "summary": "[지디넷코리아]방송미디어통신위원회가 구글과 애플 등 앱마켓 사업자에 대해 인앱결제 관련 제재 논의를 시작했다. 세계 최초로 인앱결제 강제 금지법이 통과된 이후 사실조사가 시작됐으나 방송통신위원회 파행 운영으로 실제 제재를 위한 공식 논의가 수년간 미뤄졌다.방미통위는 12일 전체회의를 열어 구글과 애플 등 앱마켓 사업자의 인앱결제 강제에 따른 처분 필요성 논의를 시작했다.이날 회의에서는 사무처에서 그간의 경과를 보고한 뒤 저녁 늦은 시간까지 구글과 애플 본사 임원에 대한 의견 청취가 이어졌다. 제재 대상 사업자 소명을 바탕으로 추가 논의를 진행한 뒤 최종 처분 수위가 정해질 전망이다.구글과 애플이 자사 결제방식을 강제하고 앱 심사를 지연한 행위 등이 관련 법에 위반된다는 게 사무처의 의견이다. 애플에는 부당한 수수료 차별 행위가 추가적인 위반 사항으로 꼽힌다. 그런 가운데 구글의 경우 일부 자진 시정으로 읽히는 부분에 대한 내용이 처분에 참고될지 이목을 끈다.김미정 방미통위 시장조사심",
-          "published": "2026-08-12T10:22:59+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Apple App Store Rate Proceeding Halted by Supreme Court for Now",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-12/apple-app-store-rate-proceeding-halted-by-supreme-court-for-now",
-          "summary": "Apple Inc. won a one-day reprieve from the Supreme Court Wednesday as Justice Elena Kagan paused proceedings before a California trial court in the iPhone maker’s long-running antitrust feud with Fortnite-maker Epic Games Inc.",
-          "published": "2026-08-12T20:35:22+00:00",
+          "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/openai-anthropic-tout-new-metric-to-better-gauge-ai-s-cost",
+          "summary": "The AI firms want customers to rethink the price of using their models.",
+          "published": "2026-08-13T20:07:19+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "CoreWeave Warns of Difficulty If It Must Shift From Nvidia Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-12/coreweave-warns-of-difficulty-if-it-must-shift-from-nvidia-chips",
-          "summary": "CoreWeave Inc. is warning investors of the time and money it may take to shift from its exclusive use of Nvidia Corp. artificial intelligence chips.",
-          "published": "2026-08-12T20:35:45+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -119,20 +73,63 @@
           "event_labels": []
         },
         {
-          "title": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1USVpjUW1EODFrbFFXanRyaWhJNEFUM01lLUI2MG0yeFlVWFp1Y0MtNUd0NW52TUxDWXI1dHZiNGhFQi1OR21sTU4yOVRlMzF4SXc?oc=5",
-          "summary": "'AI올인' 구글, 딥마인드 일부조직 본사흡수…\"자율성보다 매출\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-12T19:18:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+          "summary": "OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.",
+          "published": "2026-08-13T21:36:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "Google Debuts New Gemini Flash While Top AI Model Still Delayed",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed",
+          "summary": "Alphabet Inc.’s Google released another installment of its workhorse Gemini Flash artificial intelligence model, but didn’t say when it would release its most powerful AI model, Gemini 3.5 Pro, which has been hampered by delays.",
+          "published": "2026-08-13T17:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "코어위브·네비우스 호실적이 재점화한 AI낙관론…엔비디아 실적 주목 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVnE4NUJnMy0zQS1jZzhtd3VlQk00bWNaai1HMnFQVmQ5LWVPeEZNNVFYTTgyS3lqeFdwUTJuYW4tdGMwQ1VEaFExYlFOT3JoUndSMHF6bmV0aG9kWWtnVEkyLVh4eTdoWmtyQkljRVQ?oc=5",
+          "summary": "코어위브·네비우스 호실적이 재점화한 AI낙관론…엔비디아 실적 주목 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-12T23:06:08+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -141,30 +138,10 @@
           ]
         },
         {
-          "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiVUVYMDh4aGIxQTVUNUlDeWR5b1lONVIydVJ5Rml4cE9RSEJSejJwWDBaQWItY3RZbmpfODZiNWJwbVEwMFoxRUQ3TEtudWxVWm1tdkRPM0lURHI4UFNWcU1sRjg3U01GbGc?oc=5",
-          "summary": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-12T10:26:51+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple Taps American Airlines Veteran as Government Affairs Head",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-12/apple-taps-american-airlines-veteran-as-government-affairs-head",
-          "summary": "Apple Inc. hired Nate Gatten as its new head of government affairs, tapping a longtime American Airlines Group Inc. executive with Republican ties to handle a delicate role at the company.",
-          "published": "2026-08-12T16:36:13+00:00",
+          "title": "Apple App Store Commission-Rate Proceedings Can Move Forward",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/apple-app-store-commission-rate-proceedings-can-move-forward",
+          "summary": "Apple Inc. must take part in a lower court proceeding over the rate it charges developers for sales outside its App Store after the Supreme Court rejected a bid by the iPhone-maker to pause all further action in the case.",
+          "published": "2026-08-13T21:00:52+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -181,18 +158,58 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxY0VLQ19mRnZGTzk1MVBYNWtZMHpTUFI0X1dxRkRFUHp2dnVqN0U5RElwUkItQUpWTXlkT29Ncm1HYkprS08zdm5JSW1WclRpTER2T3ZhU3RJM3JUeURadXJuajR3Umh0MXUwdHBkWmw?oc=5",
-          "summary": "엔비디아, 칩 넘어 'AI 금융'까지 손대는 이유는 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-11T22:00:00+00:00",
+          "title": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다” - aitimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94S2NyRWJBMGl5bDQ1R3pUVmZQajZwUzRkWTI3azdYcDBNUndrMTJSLU1FTWplZjNTZnJveTQybThJaDEwajdpN2o0WWxjcjdmTlQ1RFBaRTV0cXR6QnA5QjVEM3pYU1JWSWc?oc=5",
+          "summary": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다” &nbsp;&nbsp; aitimes.com",
+          "published": "2026-08-12T22:00:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "20주년 신제품도 '취소 엔딩' 월가 \"애플 당장 팔아라\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nZ2lVRUpNUFdCOExMU3B4UXBnWXZRTVlkaEF1VS02LTEySU5jYV94MjdNcFJscklxYlJ6bGNmZDA3VmV5Q3RrVzlkb0ZuaXFUTTNGRUNqX2lJN25DS0hXdUNMRlZraUJxZ3doVGt2SjU?oc=5",
+          "summary": "20주년 신제품도 '취소 엔딩' 월가 \"애플 당장 팔아라\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-13T00:02:36+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"알트먼이 사망했다?\"...구글 검색 오류 해프닝, 원인은 '위키피디아 훼손' - aitimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jMEpqRVBsNDAxS3Y1ZXlFMGJpWi1INkpFVXBaWFBkdUQ0WEtwMm9tNFJkS2xBN3l0VktoOUdxYWVHWHB2QXpDazdhUjNlZTdCR1l3djVnblVTOXByU05aTC1qZUpqaFpLcHc?oc=5",
+          "summary": "\"알트먼이 사망했다?\"...구글 검색 오류 해프닝, 원인은 '위키피디아 훼손' &nbsp;&nbsp; aitimes.com",
+          "published": "2026-08-13T04:34:48+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -204,13 +221,36 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "[금융가 사람들] 신한證 디지털자산부서장 \"믿고 쓰는 STO 환경 만들겠다\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KdmlwUXlmSWh4Y1ZJdnNxUGtsdzNLdm54TDFHUlA3M0RPQlJMcDNhd1RHZ0V5V0xHOVBHU19adkRFQTlnMDk1RWIxVi0xcWNFRVVQNWl0djZaNE9tbEkxNFRVMlJFcTRqdnRWRnl1NHg?oc=5",
-          "summary": "[금융가 사람들] 신한證 디지털자산부서장 \"믿고 쓰는 STO 환경 만들겠다\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-12T00:28:32+00:00",
+          "title": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+          "summary": "Gemini Space Station Inc., the digital-asset platform led by the billionaires Tyler and Cameron Winklevoss that went public last year just before the crypto market tumbled from record highs, posted a fourth consecutive quarterly loss since the IPO.",
+          "published": "2026-08-13T21:01:19+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "'디지털자산기본법' 불씨 살린다…금융위·與 비공개 회동 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWLVBKRVB6ZlhHVjRMdGpXd29SUmJuMlh6SFlyMUk3czJiSnNHUWV2UWswVi0xWDExTE85TFNEa0Y1WURSNXE5Q1JaZmdnQjFiYUc3OUxITmJQQmxqSG5sOW0xeU5GT1pOdW5JRW9nSnU?oc=5",
+          "summary": "'디지털자산기본법' 불씨 살린다…금융위·與 비공개 회동 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-13T00:26:56+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -230,47 +270,29 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "위드네트웍스, 'ISEC 2026'서 새 자산·취약점 통합 관리 플랫폼 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260812220647",
-          "summary": "[지디넷코리아]AI 기반 사이버 보안 및 IT 인프라 통합 플랫폼 기업 위드네트웍스(대표 안종업)가 11~12일 서울 코엑스에서 열린 'ISEC 2026(제20회 국제 시큐리티 콘퍼런스)'에 참가, AI 기반 자산·취약점 통합 관리 플랫폼 'withVTM' 신규 버전을 처음 공개했다. 이 제품은 실제 인프라를 3D 가상 공간에 그대로 재현하는 '보안 디지털 트윈'을 적용했다.12일 회사에 따르면, 'AI로 구현하는 자율보안의 미래'를 주제로 열린 이번 행사에서 'AI가 취약점을 쏟아내는 미토스 시대'를 화두로 제시하고, N2SF·ISMS-P 대응을 위한 지속적 위협 노출 관리(CTEM) 체계와 이를 구현한 'withVTM'을 전면에 내세웠다.AI가 스스로 취약점을 탐지하는 '미토스 쇼크' 이후 공격 표면 관리의 기준이 근본적으로 달라졌다. 또 AI 기술 확산으로 공격은 빠르고 정교해지는 동시에 공격 범위도 확대되고 있으나, 이에 대응할 보안 인력과 예산은 한정돼 있다. 위드네트웍스는",
-          "published": "2026-08-12T13:06:47+00:00",
+          "title": "[유미's 픽] 공무원 AI 플랫폼 경쟁 2라운드…삼성SDS·네이버, 28개 기관 놓고 맞붙는다",
+          "link": "https://zdnet.co.kr/view/?no=20260813175310",
+          "summary": "[지디넷코리아]정부의 인공지능(AI) 업무 플랫폼 '온AI' 확산을 앞두고 삼성SDS와 네이버클라우드가 공공 AX 시장 공략에 힘을 싣고 있다. 지난 7월까지 19개 중앙행정기관이 '온AI' 도입을 대부분 완료한 데 이어 9월과 11월 28개 기관의 추가 도입이 예정되면서 양사가 신규 기능과 도입 실적을 앞세워 후속 수요 확보에 나선 모습이다.13일 업계에 따르면 네이버클라우드는 전날 AI 업무 협업툴 '네이버웍스' 신규 기능을 공개한 데 이어 이날 서울 용산구 서울드래곤시티에서 중앙부처와 지방자치단체 관계자를 대상으로 '공공 AX 전략 세미나'를 열었다.새롭게 내놓은 기능은 ▲행정망 내 '네이버 AI 검색' ▲문서 협업·지식관리 서비스 '페이지' ▲AI 에이전트 구축 솔루션 '이지(EASY)' 등 3종이다. 행정망에서 외부 최신 정보를 검색하고 이를 부처 내부 문서와 함께 활용한 뒤 축적된 지식을 기반으로 업무를 수행하는 AI 에이전트까지 구축하는 구조다. 네이버클라우드의 움직임에",
+          "published": "2026-08-13T08:54:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[단독] “노조가 뭔 요구할지 모르겠습니다”...네이버 IT업계 최초 경총 가입 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mak41MUVfYjVINWJLRkJGZTBWcEs5bHVRRjQ0QzBvc051VmNvRVdGSzltY3l1M2hSbm9iTm9DeWxVSkVsVzVsUXpFSklqQ0RRUHpjekNB?oc=5",
-          "summary": "[단독] “노조가 뭔 요구할지 모르겠습니다”...네이버 IT업계 최초 경총 가입 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-12T02:04:04+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
