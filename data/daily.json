@@ -1,36 +1,38 @@
 {
-  "generated_at": "2026-08-13T21:50:32.390517+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-08-14T21:28:01.198320+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "China’s ‘brain chip’ drive accelerates with slew of state-backed initiatives",
-          "link": "https://www.scmp.com/business/china-business/article/3363799/chinas-brain-chip-drive-accelerates-slew-state-backed-initiatives?utm_source=rss_feed",
-          "summary": "For years, Elon Musk has dreamed of conquering a range of chronic health conditions by inserting computer chips into the human brain. But that vision could become reality fastest in China, where state authorities are launching a coordinated effort to accelerate the nascent industry’s development. The past few days have seen a string of initiatives related to brain-computer interfaces (BCIs) announced in China, involving parties ranging from state insurance companies to investment banks and local",
-          "published": "2026-08-13T04:00:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "스페이스X, 코딩 스타트업 '커서' 85조원에 인수 완료 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWazJLRVFhNzh5MU9PdjJqVXEybE5wQ1FSeVF3cFhLZWxkZ1RwUTAyNjdhUEpYcGdBZkU0NjdpU044ejFTblU1NGRxSUxwQmxaOXc?oc=5",
+          "summary": "스페이스X, 코딩 스타트업 '커서' 85조원에 인수 완료 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-14T17:46:46+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 3,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUSFRCQTA5TkliZEtrY0NKNzdiYldqR3RycHhQaTdNcWVLN2FGVVpadWZNQ3kyVGFkV2JWTnRzRkdmbVhmVlN2Q1Iyc1g4LThyenc?oc=5",
-          "summary": "스웨덴서 '무노조' 테슬라 상대 파업 3년 만에 중단 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-13T15:14:59+00:00",
+          "title": "“스페이스X 들어갔습니다”…국민연금이 픽한 2분기 미국 성장주는? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZNGhoY1d1N3BwOWY2c01taW1VNlVlb0xHdHNRbFp1cFBZTl8tVFhaQWJBWllqWm42ZmxhOTB2Vk9rWVlOOXNQaXpoLWZmLU1CaXc?oc=5",
+          "summary": "“스페이스X 들어갔습니다”…국민연금이 픽한 2분기 미국 성장주는? &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-14T12:44:15+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -45,6 +47,26 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "Rich Chinese embrace domestic high-end EVs as tech and driving experience eclipse prestige",
+          "link": "https://www.scmp.com/economy/article/3363993/rich-chinese-embrace-domestic-high-end-evs-tech-and-driving-experience-eclipse-prestige?utm_source=rss_feed",
+          "summary": "For Eric Huang, a Guangdong-based healthcare entrepreneur who owns a Lamborghini Aventador and a Tesla Model S Plaid, the appeal of Chinese premium electric vehicles (EVs) has grown as their technology has caught up with his expectations. “I hold electric cars to strict safety standards, so I used to stick to Tesla,” Huang said. But he added that domestic brands had now met his standards. His next purchase, he said, would be a six-seat premium electric minivan equivalent from a Chinese brand,...",
+          "published": "2026-08-14T07:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
@@ -53,30 +75,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI, Anthropic Tout New Metric to Better Gauge AI’s Cost",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-13/openai-anthropic-tout-new-metric-to-better-gauge-ai-s-cost",
-          "summary": "The AI firms want customers to rethink the price of using their models.",
-          "published": "2026-08-13T20:07:19+00:00",
+          "title": "SpaceX Completes $60 Billion Acquisition of AI Startup Cursor",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/spacex-completes-its-60-billion-cursor-acquisition",
+          "summary": "SpaceX has completed a $60 billion acquisition of artificial intelligence coding startup Cursor, a key part of Elon Musk’s bid to gain ground on rivals Anthropic PBC and OpenAI.",
+          "published": "2026-08-14T12:55:33+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 18,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "OpenAI’s Revenue Run Rate Tops $40 Billion Ahead of IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
-          "summary": "OpenAI is on track to generate annualized revenue of more than $40 billion based on its current performance, according to people familiar with the matter, roughly doubling its run rate from the end of 2025 and bolstering the company’s plans for a Wall Street debut.",
-          "published": "2026-08-13T21:36:04+00:00",
+          "title": "Anthropic Revenue Ahead of IPO Surges Over 14-Fold in Second Quarter",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter",
+          "summary": "Anthropic PBC is telling prospective investors its second-quarter revenue jumped at least 14-fold versus the same period a year ago, according to documents seen by Bloomberg News.",
+          "published": "2026-08-14T21:08:57+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -96,12 +120,32 @@
           ]
         },
         {
-          "title": "Google Debuts New Gemini Flash While Top AI Model Still Delayed",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-13/google-debuts-new-gemini-flash-while-top-ai-model-still-delayed",
-          "summary": "Alphabet Inc.’s Google released another installment of its workhorse Gemini Flash artificial intelligence model, but didn’t say when it would release its most powerful AI model, Gemini 3.5 Pro, which has been hampered by delays.",
-          "published": "2026-08-13T17:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Zhipu launches flagship model GLM-5.3 as China seeks Mythos-level edge in cyber defence",
+          "link": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence firm Zhipu, also known as Z.ai, has unveiled its flagship GLM-5.3 model, saying it beat Anthropic’s frontier Mythos 5 model in a key cybersecurity test, as China races to counter Western advances in AI defence. Beijing-based Zhipu said GLM-5.3 achieved a success rate of 84.5 per cent on CyberGym, a benchmark that measures whether models can identify and validate security flaws from source code. That was above Anthropic’s Mythos at 83.8 per cent and OpenAI’s...",
+          "published": "2026-08-14T11:03:30+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Berkshire Pads Delta, Alphabet Stakes as Abel Taps Cash Pile",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/berkshire-boosts-delta-alphabet-stakes-as-abel-taps-cash-pile",
+          "summary": "Berkshire Hathaway Inc. increased its holdings in Delta Air Lines Inc. and Google parent Alphabet Inc. as Greg Abel began tapping into the company’s massive cash hoard.",
+          "published": "2026-08-14T20:37:45+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -116,10 +160,10 @@
           "event_labels": []
         },
         {
-          "title": "코어위브·네비우스 호실적이 재점화한 AI낙관론…엔비디아 실적 주목 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PVnE4NUJnMy0zQS1jZzhtd3VlQk00bWNaai1HMnFQVmQ5LWVPeEZNNVFYTTgyS3lqeFdwUTJuYW4tdGMwQ1VEaFExYlFOT3JoUndSMHF6bmV0aG9kWWtnVEkyLVh4eTdoWmtyQkljRVQ?oc=5",
-          "summary": "코어위브·네비우스 호실적이 재점화한 AI낙관론…엔비디아 실적 주목 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-12T23:06:08+00:00",
+          "title": "엔비디아, 실적 발표 앞두고 높아진 눈높이 부담…'뉴스에 팔라 될라' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qejdFUEd0eXcwekhPdmFYbS02aUdPQldxR2hrOTlpdTN0V3h6d2tGTGdwZzFuZEV3RDlQUGFpOG96NHJzNzBaTUlvRjFLNXBmazI2RzFlNFoxZ2loWUFrRDk1SGtKLXRyU0w1QUl2ZUg?oc=5",
+          "summary": "엔비디아, 실적 발표 앞두고 높아진 눈높이 부담…'뉴스에 팔라 될라' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-14T00:22:07+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -138,10 +182,10 @@
           ]
         },
         {
-          "title": "Apple App Store Commission-Rate Proceedings Can Move Forward",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-13/apple-app-store-commission-rate-proceedings-can-move-forward",
-          "summary": "Apple Inc. must take part in a lower court proceeding over the rate it charges developers for sales outside its App Store after the Supreme Court rejected a bid by the iPhone-maker to pause all further action in the case.",
-          "published": "2026-08-13T21:00:52+00:00",
+          "title": "Amazon’s New User Agreement Seeks to Curb Class-Action Suits",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-14/amazon-s-new-user-agreement-seeks-to-curb-class-action-suits",
+          "summary": "Amazon.com Inc. reintroduced a clause in its user agreement that seeks to prevent shoppers from filing class-action lawsuits against the online retailer, inserting a legal buffer between itself and plaintiffs attorneys that it removed five years ago.",
+          "published": "2026-08-14T20:43:50+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -158,18 +202,18 @@
           "event_labels": []
         },
         {
-          "title": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다” - aitimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94S2NyRWJBMGl5bDQ1R3pUVmZQajZwUzRkWTI3azdYcDBNUndrMTJSLU1FTWplZjNTZnJveTQybThJaDEwajdpN2o0WWxjcjdmTlQ1RFBaRTV0cXR6QnA5QjVEM3pYU1JWSWc?oc=5",
-          "summary": "[8월12일] 저커버그, 폐쇄형 AI 비판했지만…“메타도 오픈소스는 아니다” &nbsp;&nbsp; aitimes.com",
-          "published": "2026-08-12T22:00:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Chinese doctor stuns maths world by cracking decades-old problem using ChatGPT",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3363966/chinese-doctor-stuns-maths-world-cracking-decades-old-problem-using-chatgpt?utm_source=rss_feed",
+          "summary": "When Beijing-based neurosurgeon Jin Shanmu pulled up a chair at his computer, he was not looking to make mathematical history. He was simply trying to crack a problem related to brain ultrasounds. Instead, the self-taught maths enthusiast, with help from OpenAI’s latest flagship artificial intelligence (AI) model, solved a two-decade-old mathematical puzzle that had frustrated experts around the world since 2004. Jin, a postdoctoral researcher and resident at the Peking Union Medical College...",
+          "published": "2026-08-14T02:00:12+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -178,38 +222,18 @@
           "event_labels": []
         },
         {
-          "title": "20주년 신제품도 '취소 엔딩' 월가 \"애플 당장 팔아라\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nZ2lVRUpNUFdCOExMU3B4UXBnWXZRTVlkaEF1VS02LTEySU5jYV94MjdNcFJscklxYlJ6bGNmZDA3VmV5Q3RrVzlkb0ZuaXFUTTNGRUNqX2lJN25DS0hXdUNMRlZraUJxZ3doVGt2SjU?oc=5",
-          "summary": "20주년 신제품도 '취소 엔딩' 월가 \"애플 당장 팔아라\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-13T00:02:36+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"알트먼이 사망했다?\"...구글 검색 오류 해프닝, 원인은 '위키피디아 훼손' - aitimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jMEpqRVBsNDAxS3Y1ZXlFMGJpWi1INkpFVXBaWFBkdUQ0WEtwMm9tNFJkS2xBN3l0VktoOUdxYWVHWHB2QXpDazdhUjNlZTdCR1l3djVnblVTOXByU05aTC1qZUpqaFpLcHc?oc=5",
-          "summary": "\"알트먼이 사망했다?\"...구글 검색 오류 해프닝, 원인은 '위키피디아 훼손' &nbsp;&nbsp; aitimes.com",
-          "published": "2026-08-13T04:34:48+00:00",
+          "title": "LG, 내년 1분기 엔비디아 '아이작 그루트' 기반 휴머노이드 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9odXo2RnktMWd5bllKVjd2djBnSDE2dkpfVWh5NE9FUXhHOVEySzdjWHJ2cGF5eUV5TFNXM2hoUzVhRWdOLVpUM2FpeGMzbElSZ2NfVkpYeDFKS3lySXYzdnAyZnozdFdVQlE?oc=5",
+          "summary": "LG, 내년 1분기 엔비디아 '아이작 그루트' 기반 휴머노이드 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-14T03:12:20+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -221,44 +245,65 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
-          "summary": "Gemini Space Station Inc., the digital-asset platform led by the billionaires Tyler and Cameron Winklevoss that went public last year just before the crypto market tumbled from record highs, posted a fourth consecutive quarterly loss since the IPO.",
-          "published": "2026-08-13T21:01:19+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "두나무, 상반기 매출액 4081억원…전년비 반토막",
+          "link": "https://zdnet.co.kr/view/?no=20260814174216",
+          "summary": "[지디넷코리아]가상자산 거래소 업비트 운영사 두나무가 거래대금 감소로 인해 올 2분기 매출액과 영업이익이 큰 폭으로 줄었다.14일 금융감독원 전자공시시스템에 따르면 두나무의 올해 상반기 연결 기준 매출액은 4081억원으로 전년 동기 대비 49.1% 감소했다.같은 기간 영업이익은 1115억원으로 전년 동기 대비 79.7% 감소했고, 당기순이익은 74.1% 감소한 1084억원으로 집계됐다.올 2분기 기준 매출액은 1735억원으로 전년 동기 대비 26% 줄었다. 같은 기간 영업이익과 당기순이익은 각각 235억원, 390억원으로 마찬가지로 73%, 44% 감소했다.이번 실적 하락에 대해 두나무는 “글로벌 디지털자산 시장 전반의 유동성 축소에 따른 투자 심리 위축이 영향을 미친 것”이라고 설명했다.한편 두나무는 증권별 소유자수 500인 이상 외부감사 대상법인에 포함되면서 2022년부터 사업보고서와 분기, 반기 보고서를 의무적으로 공시하고 있다.",
+          "published": "2026-08-14T08:42:16+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 4,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
+            "earnings"
+          ]
+        },
+        {
+          "title": "중국 AI에서 글로벌 ETF까지: 스타트레이더(STARTRADER), 7개 시장 테마를 아우르는 45종의 신규 24/7 주식 및 ETF CFD 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260814181003",
+          "summary": "[지디넷코리아]2026년 8월 13일부터 이용 가능하며, 거래 시간 제한 없이 7개 시장 테마를 포괄합니다. 아랍에미리트 두바이, 2026년 8월 14일 /PRNewswire/ -- 스타트레이더(STARTRADER)는 오늘 월요일부터 일요일까지 00:00–24:00(GMT+3 플랫폼 시간) 거래가 가능한 45종의 신규 24/7 주식 및 ETF CFD 출시를 발표했습니다. From Chinese AI to Global ETFs: STARTRADER Launches 45 New 24/7 Stock and ETF CFDs Spanning Seven Market Themes 이전의 24/7 상품 확대가 특정 테마를 중심으로 이루어졌던 것과 달리, 이번 출시는 그 폭넓은 범위로 차별화됩니다. 신규 상품은 중국 AI, AI 인프라, 기술, 암호화폐 및 디지털 자산, 에너지, 기타 주식, ETF 등 7개 영역에 걸쳐 있습니다 신규 추가 종목에는 2026년 1월 홍콩거래소(HKEX)에 상장한 두 ",
+          "published": "2026-08-14T09:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
             "funding"
           ]
         },
         {
-          "title": "'디지털자산기본법' 불씨 살린다…금융위·與 비공개 회동 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWLVBKRVB6ZlhHVjRMdGpXd29SUmJuMlh6SFlyMUk3czJiSnNHUWV2UWswVi0xWDExTE85TFNEa0Y1WURSNXE5Q1JaZmdnQjFiYUc3OUxITmJQQmxqSG5sOW0xeU5GT1pOdW5JRW9nSnU?oc=5",
-          "summary": "'디지털자산기본법' 불씨 살린다…금융위·與 비공개 회동 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-13T00:26:56+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "‘코인 한파’ 두나무, 2분기 영업익 작년 대비 84% 급감 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYaDVqOE1ES0EyZkdXNE90Wnc0MVA1YXI4MnNaZnZJcWxUTE4tX0FrQTU3VGhEWDlDbEc3aEdCUVJmaVFOU09rMVVicjhmY0ZOMUE?oc=5",
+          "summary": "‘코인 한파’ 두나무, 2분기 영업익 작년 대비 84% 급감 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-14T09:02:59+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -273,26 +318,24 @@
       "count": 1,
       "articles": [
         {
-          "title": "[유미's 픽] 공무원 AI 플랫폼 경쟁 2라운드…삼성SDS·네이버, 28개 기관 놓고 맞붙는다",
-          "link": "https://zdnet.co.kr/view/?no=20260813175310",
-          "summary": "[지디넷코리아]정부의 인공지능(AI) 업무 플랫폼 '온AI' 확산을 앞두고 삼성SDS와 네이버클라우드가 공공 AX 시장 공략에 힘을 싣고 있다. 지난 7월까지 19개 중앙행정기관이 '온AI' 도입을 대부분 완료한 데 이어 9월과 11월 28개 기관의 추가 도입이 예정되면서 양사가 신규 기능과 도입 실적을 앞세워 후속 수요 확보에 나선 모습이다.13일 업계에 따르면 네이버클라우드는 전날 AI 업무 협업툴 '네이버웍스' 신규 기능을 공개한 데 이어 이날 서울 용산구 서울드래곤시티에서 중앙부처와 지방자치단체 관계자를 대상으로 '공공 AX 전략 세미나'를 열었다.새롭게 내놓은 기능은 ▲행정망 내 '네이버 AI 검색' ▲문서 협업·지식관리 서비스 '페이지' ▲AI 에이전트 구축 솔루션 '이지(EASY)' 등 3종이다. 행정망에서 외부 최신 정보를 검색하고 이를 부처 내부 문서와 함께 활용한 뒤 축적된 지식을 기반으로 업무를 수행하는 AI 에이전트까지 구축하는 구조다. 네이버클라우드의 움직임에",
-          "published": "2026-08-13T08:54:41+00:00",
+          "title": "[카드뉴스] AI, 문 열어줘야 할까",
+          "link": "https://zdnet.co.kr/view/?no=20260814100111",
+          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 요즘 AI 로봇 친구가 플랫폼 문 앞에 서 있다면 어떻게 해야 할까요? 열어줄지 막을지를 두고 플랫폼들의 고민이 깊어지고 있는데요, 정작 AI패널 5명에게 물어보니 5명 전원이 \"문을 열자\"는 같은 답을 내놨다고 해요. 반면 네이버와 카카오 같은 두 대형 회사는 여전히 문을 꽁꽁 잠가둔 상태라고 하네요. 이 '문'의 역사를 살펴보면 재미있는 흐름이 보이는데요, 처음엔 활짝 열려 있다가 한때 꽁꽁 닫혔고, 지금은 다시 조금씩 열리는 중이라고 합니다. 그렇다면 안전하게 여는 방법은 없을까요?AI패널들은 이름표 확인(등록)→허락(권한)→기록→삭제까지 4단계를 거치면 안전하게 문을 열 수 있다고 설명하는데요, 문을 닫는다고 완벽히 안전해지는 것도 아니고, 오히려 '외톨이'가 될 뿐이라는 점도 짚어줬어요. 문을 열었을 때는 친구가 늘어나지만, 닫았을 때는 혼자 남는다고 하네요. 결국 AI 시대에는 문을 꽁꽁 닫는 것보다 똑똑하게 여는 쪽이 이",
+          "published": "2026-08-14T10:48:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
