@@ -1,39 +1,16 @@
 {
-  "generated_at": "2026-08-15T21:23:40.339248+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-16T21:23:01.555755+00:00",
+  "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "엔비디아, 스페이스X 210억 달러·인텔 300억 달러 지분 보유",
-          "link": "https://zdnet.co.kr/view/?no=20260815145938",
-          "summary": "[지디넷코리아]글로벌 인공지능(AI) 반도체 기업 엔비디아가 일론 머스크의 우주 기업 스페이스X와 미국 반도체 기업 인텔에 각각 수백억 달러 규모 지분을 보유하고 있다고 공시했다.엔비디아가 스페이스X 주식 1억2280만 주(약 210억 달러)와 인텔 주식 2억 1480만 주(약 300억 달러)를 보유하고 있다고 블룸버그를 비롯한 주요 외신들이 14일(현지시간) 보도했다. 이 같은 사실은 엔비디아가 이날 미국 증권거래위원회(SEC) 제출 보고서를 통해 공시하면서 알려지게 됐다. 엔비디아가 구체적인 스페이스X 지분 규모를 공개한 것은 이번이 처음이다. 앞서 엔비디아는 2025년 일론 머스크의 AI 스타트업 xAI에 특수목적법인(SPV)을 통한 지분·부채 투자 형태로 최대 20억 달러를 투입한 바 있다. 이후 xAI가 스페이스X로 흡수 합병되면서 스페이스X 지분을 대량 확보하게 됐다.인텔 지분 가치 역시 가파르게 치솟았다. 불과 3개월 전 약 95억 달러 수준으로 평가받던 인텔 지분 가치",
-          "published": "2026-08-15T09:55:51+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 19,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 6,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "regulation"
-          ]
-        },
-        {
-          "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1kMV9BQkQtaVVxWE1UNWdaRGVTVTRqVi1DSzV5TnROQVBjaHlKX0t0UWR1Vjk0dGp4NnVrU2JHRUZfUzJrczgtY2ZrSFRzUTRCWWx5YWtCQk50TU5hRks0ZTY3SFhUWXhyZnc?oc=5",
-          "summary": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-15T05:18:41+00:00",
+          "title": "테슬라, ‘공중 부양’ 로드스터 이달 시연 예정…스페이스X 기술 결합 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41V0pyVkMtT0xrYlUwREsxUE9SOFgtdGxQeVpHLV9wZ3VxMk9jX2pNNDZJU0oyWE5zVnEwaTlnclE5LVVjNDN6NXBhaTh2Y0w4bFVhOVBvRXBoZ2lWNzBuRVRUeUYtRFJSYWc?oc=5",
+          "summary": "테슬라, ‘공중 부양’ 로드스터 이달 시연 예정…스페이스X 기술 결합 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-16T03:03:10+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -41,8 +18,28 @@
           "category_display": "일론 머스크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X, '커서' 공식 인수 완료…개발용 AI 경쟁 본격화",
+          "link": "https://zdnet.co.kr/view/?no=20260816031105",
+          "summary": "[지디넷코리아]스페이스X가 인공지능(AI) 코딩 도구 기업 커서 인수를 완료했다.커서는 16일 공식 홈페이지를 통해 지난 4월부터 진행된 인수 절차가 마무리됐다고 밝혔다. 이번 거래는 당시 스페이스XAI와 커서가 발표한 협력 계획의 연장선에서 추진된 인수 절차의 최종 단계다.커서는 이번 합병을 통해 대규모 연산 인프라를 확보하고, 더 강력하면서도 비용 효율적인 AI 모델 개발에 속도를 낼 수 있게 됐다고 설명했다.커서는 그동안 AI 모델 성능 고도화에 맞춰 제품 영역을 빠르게 확장해왔다. 초기에는 코드의 다음 몇 줄을 추천하는 보조 도구에 가까웠지만 최근에는 실제 개발 업무 단위를 위임할 수 있는 AI 에이전트형 도구로 진화했다는 평가다. 특히 스페이스X 편입을 계기로 이러한 방향성을 한층 강화하겠다는 입장이다.가장 큰 변화는 컴퓨팅 자원이다. 커서는 스페이스X와의 결합으로 대규모 GPU 인프라에 접근할 수 있게 됐으며 이를 바탕으로 성능은 높이고 운영 비용은 낮춘 모델을 구축할 수",
+          "published": "2026-08-16T00:35:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -50,98 +47,102 @@
           "event_labels": [
             "m_and_a"
           ]
+        },
+        {
+          "title": "GM 전기차, 테슬라 슈퍼차저로 충전 가능해진다",
+          "link": "https://zdnet.co.kr/view/?no=20260816113031",
+          "summary": "[지디넷코리아]제너럴모터스(GM)가 2027년형 전기차 전 차종에 테슬라가 개발한 북미충전표준(NACS) 충전포트를 기본 탑재한다. 이에 따라 GM 전기차 이용자는 별도의 어댑터 없이 호환되는 테슬라 슈퍼차저를 이용할 수 있게 된다.14일(현지시간) 일렉트렉 보도에 따르면 GM은 쉐보레와 캐딜락, GMC 브랜드의 모든 2027년형 전기차를 NACS 포트로 전환하는 작업을 진행 중이다. NACS는 테슬라가 자체 개발한 충전 규격으로 현재는 SAE J3400으로 표준화됐다. 기존 GM 전기차 상당수는 CCS1 방식 충전포트를 사용하고 있어 테슬라 슈퍼차저 등 NACS 충전기를 이용하려면 별도의 어댑터가 필요했다.GM이 NACS 포트를 차량에 직접 적용하면서 2027년형 모델부터는 이 같은 불편이 줄어든다. 다만 모든 테슬라 슈퍼차저를 이용할 수 있다는 의미는 아니며, GM 차량 이용이 허용된 호환 슈퍼차저와 NACS 급속충전기에서 어댑터 없이 충전할 수 있다.적용 대상에는 캐딜락 에스컬",
+          "published": "2026-08-16T03:01:54+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "Alibaba AI Models Hit 3 Billion Downloads, Passing Meta, Google",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-15/alibaba-ai-models-hit-3-billion-downloads-passing-meta-google",
-          "summary": "Alibaba Group Holding’s open-weight models have accumulated more than 3 billion global downloads in the past six months, eclipsing Meta Platforms Inc., Alphabet Inc. and domestic peers to become the world’s No. 1 artificial-intelligence model.",
-          "published": "2026-08-15T09:16:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[AI 고속도로] 빅테크 AI 투자 1200조원…패권 경쟁 승부처는 인프라",
+          "link": "https://zdnet.co.kr/view/?no=20260816075443",
+          "summary": "[지디넷코리아]구글·아마존·마이크로소프트(MS)·메타 등 글로벌 빅테크 기업들이 인공지능(AI) 경쟁력 확보를 목표로 천문학적인 투자에 나서고 있다.AI 모델 개발을 넘어 데이터센터·클라우드·반도체·로보틱스까지 투자 영역이 확대되면서 AI 패권 경쟁의 승부처가 인프라로 이동하고 있다는 분석이 나온다.16일 한국지능정보사회진흥원(NIA)이 발간한 '글로벌 빅테크 및 프론티어 AI 기업의 투자 동향' 연구 보고서에 따르면 주요 글로벌 빅테크와 프론티어 AI 기업들은 대규모 자본 지출(CAPEX)과 전략적 지분 투자, 인수합병(M&amp;A)을 동시에 확대하고 있는 것으로 확인됐다.이번 보고서는 엔비디아·구글·애플·MS·아마존·테슬라·메타·오라클·오픈AI·앤트로픽 등 10개 기업을 대상으로. 최근 3년간 AI 투자 현황과 올해 투자 전략을 분석한 것이 특징이다.먼저 이들 기업의 올해 CAPEX를 합산하면 총 8730억 달러(약 1200조원)에 이를 것으로 집계됐다.기업별 투자 규모를 살펴",
+          "published": "2026-08-16T00:44:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 9,
-            "source": 3,
+            "keyword": 10,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "Bond Traders Agonize Over AI Companies’ $70 Billion of Shadow Credit Backstops",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-15/bond-traders-agonize-over-ai-companies-70-billion-of-shadow-credit-backstops",
-          "summary": "Even before Nvidia Corp.’s splashy $500 billion financing partnership this week, investors were starting to fret over the roughly $70 billion in phantom liabilities that don’t appear on major AI companies’ balance sheets, but could materialize at the worst possible time.",
-          "published": "2026-08-15T19:00:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "LG이노텍, 상반기 카메라모듈 이익률 4.5%...반도체기판은 10.6%",
+          "link": "https://zdnet.co.kr/view/?no=20260816234233",
+          "summary": "[지디넷코리아]LG이노텍이 상반기 카메라 모듈 사업 이익률을 4.5%까지 회복했다. 최근 애플 카메라 모듈 시장 경쟁 심화와 설비투자 등으로 LG이노텍의 해당 카메라 모듈 사업 이익률은 2023~2025년 3% 전후로 떨어진 바 있다. 상반기 반도체 기판 사업 이익률도 전년 동기보다 높은 10.6%를 기록했다. 반면 차량부품 사업 이익률은 감소했다. LG이노텍이 지난 14일 반기보고서에서 공개한 사업부별 실적은 ▲광학솔루션 매출 9조 1285억원, 영업이익 4099억원 ▲패키지솔루션 매출 9356억원, 영업이익 996억원 ▲모빌리티솔루션 매출 9980억원, 영업이익 316억원 등이다. 전사 상반기 실적은 매출 11조 621억원, 영업이익 5411억원이다. 영업이익률은 4.9%다. 상반기 광학솔루션 매출(9조 1285억원)은 전년 동기(7조 1911억원)보다 27% 늘었다. 영업이익(4099억원)은 전년 동기(398억원)보다 3701억원 뛰었다. 영업이익률은 같은 기간 0.6%에서 4",
+          "published": "2026-08-16T16:12:34+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
+            "keyword": 3,
+            "source": 1,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "2분기 美저가폰 출하량 64% 급감...메모리값 상승 여파",
-          "link": "https://zdnet.co.kr/view/?no=20260814162850",
-          "summary": "[지디넷코리아]메모리 반도체 가격 급등으로 미국 저가 스마트폰 시장이 크게 위축됐다. 올해 2분기 100달러 미만 스마트폰 판매량은 전년 동기의 3분의 1 수준으로 급감했다. 15일 시장조사기관 카운터포인트리서치에 따르면 2분기 미국 시장에서 100달러 미만 스마트폰 판매량이 전년 동기 대비 64% 감소했다. 스마트폰 제조사들이 메모리 반도체 가격 상승으로 제품 출하량을 줄이거나 가격을 올렸기 때문이다.같은 기간 애플과 삼성전자, 모토로라, 구글 등 주요 업체 4곳의 합산 판매량은 4% 감소했다. 이들 업체를 제외한 나머지 업체의 스마트폰 판매량은 45% 감소했다. 전체로는 5% 줄었다. 카운터포인트는 \"대형 제조사들이 규모의 경제를 바탕으로 군소 브랜드가 적절한 가격에서 조달하기 어려운 수준의 부품 재고를 확보했다\"고 설명했다. 지난해 미국 정부의 관세 부과 우려와 선불폰 시장 부진으로 HMD 등 이미 일부 군소 브랜드가 미국 시장에서 철수하거나 사업 규모를 축소했다. 여기에 메모",
-          "published": "2026-08-14T23:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "“대통령보다 중국이 더 무서워요”…애플, 알리바바 손잡고 AI개발 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91NVl4eHRVZjVpRm5yeFh2dFQ3R0dWd2wxUUZ4OWFNRW9FZm1xOUhfY1BVUGc4TFFPOTJlN1l5MEtNS1VuRTdsRWhwVzFWQ3dZekE?oc=5",
+          "summary": "“대통령보다 중국이 더 무서워요”…애플, 알리바바 손잡고 AI개발 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-16T12:21:55+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "\"병원 급여·청구·심사 업무 간편히\"...크립토랩, '클릭' 선보여",
-          "link": "https://zdnet.co.kr/view/?no=20260815172825",
-          "summary": "[지디넷코리아]동형암호 기술기업 크립토랩(대표 천정희)이 병원의 급여·청구·심사 업무를 지원하는 AI 서비스 ‘CLIC(클릭)’을 공개했다. 첫 서비스 ‘CLIC-Off-Label(클릭 오프라벨)’을 애플 앱스토어와 구글 플레이스토어에 출시했다. 오는 19일부터 21일까지 코엑스에서 열리는 병원 및 의료산업 분야 국내 최대 규모 B2B 헬스테크 박람회‘ KHF 2026’에서 'CLIC'을 처음 선보인다.14일 회사에 따르면, 항암 치료 현장에서 특정 약제의 보험 급여 여부나 허가 범위를 벗어난 사용 기준을 확인하는 일은 필수적이지만 쉽지 않다. 관련 기준이 여러 공고와 목록으로 나눠져 있고 PDF•엑셀 형태로 제공되는 경우가 많아 필요한 조항을 찾기 어렵다. 일반적인 생성형 AI 역시 해당 자료의 원문 근거를 정확히 제시하는 데 한계가 있다.이러한 현장의 문제점을 해결하기 위해 출시하는 ‘CLIC-Off-Label’은 공개된 급여 관련 자료에서 필요한 기준을 찾아 공고 번호와 원문 ",
-          "published": "2026-08-15T08:28:25+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "트럼프 행정부, ‘中메모리 검토’ 애플에 “다른 해결책 찾아라” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1PVHh5ODh2a0Fxd3JyZ2pmbzBWZ2xJVUxZOHByWTVlRWU3NTZyUlo5bUZhN2NGLTdTR1B5Q3dEWm9paFhLUTJDMU5fSXRaU2xENll4VDV3?oc=5",
-          "summary": "트럼프 행정부, ‘中메모리 검토’ 애플에 “다른 해결책 찾아라” &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-15T05:52:13+00:00",
+          "title": "“샘 올트먼 사망” 검색 결과에 망신살…구글 신뢰도 바닥친 이유 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zSG1lZ0hfam9KNDRBSjZTbklSSktKaFRUN3k3dENNWTFQdWthVDJBbUxLQ0hfbngybmxOeVJxQWFTYklMb29vMnYxZURjNGZSaHc?oc=5",
+          "summary": "“샘 올트먼 사망” 검색 결과에 망신살…구글 신뢰도 바닥친 이유 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-16T03:47:37+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -158,10 +159,10 @@
           "event_labels": []
         },
         {
-          "title": "구글, AI 생성물 '보이는 워터마크' 제거 허용...비가시성 ‘신스ID’는 유지 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdzhodERoalh6RG00MlZBRHZuWU0wdmUteElWSFRzVGZ5bnJyZElNQkM2alRjR1J1Qk93Q0VobVFQazZCQnBvRU9GT0tQbU5hU2syM2haUFZhQlQteVpJZ095NjdlRUlIN2c?oc=5",
-          "summary": "구글, AI 생성물 '보이는 워터마크' 제거 허용...비가시성 ‘신스ID’는 유지 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-15T06:08:55+00:00",
+          "title": "미 상무장관, 애플에 직격탄...\"중국산 메모리 칩 사지 마라\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HaVNFcENhOWlOamdSeUdRVXlCWlhoRVlJbmNIYk1BR3psd0hYdTRURFFfcTl3UFZMX19pa29LMXN2N3dheVB3aUFvWGQwZGR6elVacUNIYmFmMS1pRVI5cTVIeTN4YWtLamc?oc=5",
+          "summary": "미 상무장관, 애플에 직격탄...\"중국산 메모리 칩 사지 마라\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-16T08:16:26+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -178,30 +179,10 @@
           "event_labels": []
         },
         {
-          "title": "MS, 소비자·기업용 '코파일럿' 통합 개시…'슈퍼 앱' 전략 본격화",
-          "link": "https://zdnet.co.kr/view/?no=20260815015013",
-          "summary": "[지디넷코리아]마이크로소프트가 소비자용과 기업용 '코파일럿' 앱 통합에 착수했다.15일 마이크로소프트는 기존 '코파일럿' 앱과 '마이크로소프트 365 코파일럿' 앱을 하나의 인터페이스로 묶어 연내 출시를 예고한 '코파일럿' '슈퍼 앱' 전략의 기반을 마련하겠다고 공식 홈페이지를 통해 밝혔다.슈퍼 앱은 전략 채팅과 검색, 문서 작업, 일정, 파일, 이미지 생성, 협업 기능을 하나의 앱 안에 통합하는 구상이다. 코파일럿을 개인용 AI 비서이면서 동시에 업무용 생산성 허브로 키워 이용자가 여러 서비스를 오가지 않아도 되도록 만드는 것이 핵심이다.새 통합 앱은 '마이크로소프트 코파일럿' 명칭을 유지하되, 새로운 아이콘과 개편된 사용자 경험(UI/UX)을 적용한다. 이에 따라 개인용 계정과 업무용 계정 사용자는 하나의 앱 안에서 각기 다른 '코파일럿' 환경에 접근할 수 있게 된다. 윈도우 작업표시줄이나 시스템 트레이에 중복으로 나타나던 '코파일럿' 아이콘도 하나로 정리된다.마이크로소프트는 업",
-          "published": "2026-08-15T00:10:49+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "넥써쓰 '프로스트 킹덤', 국내 애플 앱스토어 인기 1위 기록",
-          "link": "https://zdnet.co.kr/view/?no=20260815110724",
-          "summary": "[지디넷코리아]모바일 전략 시뮬레이션 게임 '프로스트 킹덤'이 국내 애플 앱스토어 게임 인기 순위 정상을 차지했다.넥써쓰(대표 장현국)는 전략 시뮬레이션 게임(SLG) '프로스트 킹덤'이 국내 애플 앱스토어 게임 부문 인기 순위 1위를 기록했다고 15일 밝혔다.지난달 24일 출시된 프로스트 킹덤은 넥써쓰가 단독 퍼블리싱하는 첫 번째 타이틀로, 중세 세계관에 건물과 병력을 합성해 성장시키는 머지(Merge) 방식을 접목한 웹3 기반 SLG다. 출시 이후 일본어 지원을 추가하는 등 현지화 작업을 진행하고 신규 건물을 비롯한 콘텐츠를 순차적으로 선보이며 서비스 품질을 강화해 왔다.넥써쓰는 이번 성과를 바탕으로 신규 서버를 증설하고 기념 이벤트를 전개한다. 오는 31일 정기 점검 전까지 신규 서버 글로벌 이용자를 대상으로 연맹 랭킹 이벤트를 열고 전투력 상위 5개 연맹에 원($ONE) 토큰을 차등 지급할 계획이다.아울러 전체 서버 신규 캐릭터 생성 이용자 전원에게 최상위(SSR) 등급 영웅",
-          "published": "2026-08-15T02:10:01+00:00",
+          "title": "\"피지컬 AI 실험장\"…서울AI허브, 해커톤 '토이톤' 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260816105251",
+          "summary": "[지디넷코리아]서울AI허브가 생성형 인공지능(AI)으로 작성한 코드를 센서와 개발보드 등 실제 하드웨어(HW)에 연결하는 실험에 나선다. 서울AI허브는 오는 22일 서울 양재동 서울 AI 허브 메인센터에서 피지컬 AI 해커톤 '토이톤'을 개최한다고 16일 밝혔다. 팀휴먼과 누코드, 한국투자액셀러레이터 등이 행사를 함께하며 챗GPT 개발사 오픈AI는 공식 후원사로 참여한다.참가자들은 AI 개발 도구와 누코드 개발보드를 활용해 아이디어 기획부터 코드 개발과 HW 연결까지 전 과정을 수행한다. 약 5시간 안에 실제로 움직이고 반응하는 프로토타입을 완성하는 식이다.이번 행사는 지난 6월 열린 '커서 해커톤 서울 볼륨3' 후속 버전이다. 당시 행사가 생성형 AI로 웹과 애플리케이션 서비스를 빠르게 구현하는 '바이브 코딩'에 초점 맞췄다면 이번에는 센서와 버튼, 발광다이오드(LED), 디스플레이 등 HW로 영역을 확장한다.참가자들은 누코드의 'NU40 DK'와 'NU87 타이니 DK' 개발보드",
+          "published": "2026-08-16T01:52:51+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -221,29 +202,8 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "업비트·빗썸 위탁 코인 수 늘었는데…평가액은 반년 만에 26조↓",
-          "link": "https://zdnet.co.kr/view/?no=20260814210349",
-          "summary": "[지디넷코리아]올 상반기 가상자산 거래소 업비트(두나무)와 빗썸에 위탁한 투자자의 가상자산 규모는 늘었지만, 평가액은 반년 만에 대폭 줄어든 것으로 나타났다.15일 두나무 반기보고서에 따르면 업비트가 보관하고 있는 이용자 위탁 가상자산의 평가액은 지난해 말 62조 2335억원에서 올해 상반기 6월 말 41조 9324억원으로 감소했다. 반년 만에 32.6%나 줄어든 것이다.빗썸에서도 비슷한 흐름을 보였다. 빗썸 회원이 맡긴 가상자산 평가액은 지난해 말 17조 9021억원에서 12조 501억원으로 5조 8519억원 감소했다. 감소율은 32.7%다.두 거래소를 단순 합산하면 위탁 가상자산 평가액은 80조 1356억원에서 53조9825억원으로 약 26조1529억원 줄었다.눈에 띄는 점은 평가액 감소가 이용자의 대규모 가상자산 인출로만 설명되지는 않는다는 것이다. 업비트 회원이 맡긴 비트코인은 지난해 말 16만 2214개에서 올해 6월 말 17만 3911개로 7.2% 증가했다. 이더리움도 2",
-          "published": "2026-08-15T01:42:38+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
