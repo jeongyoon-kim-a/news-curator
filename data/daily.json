@@ -1,46 +1,44 @@
 {
-  "generated_at": "2026-08-17T21:28:27.777027+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-18T21:27:36.120530+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "Chokepoints and the cost of cutting off access",
-          "link": "https://www.scmp.com/opinion/world-opinion/article/3363772/chokepoints-and-cost-cutting-access?utm_source=rss_feed",
-          "summary": "In 2022, Ukraine asked SpaceX CEO Elon Musk to activate Starlink coverage around Sevastopol to support an attack on Russia’s Black Sea Fleet. He refused, saying SpaceX would become “explicitly complicit in a major act of war”; he later also cited US sanctions covering Crimea. At the moment that mattered, one private actor had the final say. It exposed a question hidden inside every chokepoint. We usually ask where dependence is concentrated: a strait, mineral, technology, network. But three...",
-          "published": "2026-08-16T21:30:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "한국인만 한국차 무시?…“테슬라 모델Y보다 뛰어나” 해외서 극찬받은 기아 [최기성의 허브車] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBZcFZXMWRxY1hRX2pRMjl6cG1jNnZFSG1DWHRGd21UUDU2NmFJLVRYaHlaV05iZUtOX3VVaHNDZlhQeWs2bHd5bWVleVgza3ZYTk5qcDBR?oc=5",
+          "summary": "한국인만 한국차 무시?…“테슬라 모델Y보다 뛰어나” 해외서 극찬받은 기아 [최기성의 허브車] &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-18T12:09:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 15,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Chinese robots on the march despite tech war hurdles",
-          "link": "https://www.scmp.com/plus/tech/tech-war/article/3364234/chinese-robots-march-despite-tech-war-hurdles?utm_source=rss_feed",
-          "summary": "Did the stair-climbing Chinese robot vacuum or flying robovac prototypes that wowed visitors at the 2026 Consumer Electronics Show in Las Vegas go into production? American consumers will probably not find out. Nor will US businesses and households get to buy Iron, Xpeng’s humanoid robot, so lifelike it had to be unzipped on stage to convince onlookers it was a machine. Even Elon Musk, whose Tesla is developing Optimus, praised his Chinese competitor’s model. The next generation of the dancing..",
-          "published": "2026-08-17T04:15:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "운전대·페달 없는 테슬라 ‘사이버캡’, 이달 말 오스틴서 시범 운행 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VSlFBSzc2a3cwTzNhZUdLLVJyNFhVYzBxR0k0RVA2cG53emlpLXFoZzJuMWxHS081S3BVcndBNlktQ25QanFIYUZjeEtobVBzS2lfZ1VPeVpQSHZQV2dWSC1DUFU5b0ctU1E?oc=5",
+          "summary": "운전대·페달 없는 테슬라 ‘사이버캡’, 이달 말 오스틴서 시범 운행 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-18T07:37:54+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -55,20 +53,20 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia to provide up to US$105 billion guarantee for OpenAI’s Ohio data centre",
-          "link": "https://www.scmp.com/tech/big-tech/article/3364341/nvidia-provide-us105-billion-guarantee-openais-ohio-data-centre?utm_source=rss_feed",
-          "summary": "Nvidia has agreed to provide a ⁠guarantee of up to US$105 billion ⁠to help ⁠OpenAI lease a sprawling data centre in Ohio being developed by SoftBank-backed SB Energy, in one of the chipmaker’s largest infrastructure financing commitments. The Jensen Huang-led firm said on Monday it will also invest US$1.5 billion in SB Energy, months after a US$1 billion investment from OpenAI and SoftBank to expand data centre infrastructure. The new deal is the latest example of Nvidia financing the...",
-          "published": "2026-08-17T17:30:11+00:00",
+          "title": "Meet the Chinese AI star who splashed a reported US$70m on a California mansion",
+          "link": "https://www.scmp.com/tech/big-tech/article/3364380/meet-chinese-ai-star-who-splashed-reported-us70m-california-mansion?utm_source=rss_feed",
+          "summary": "Tony Wu Yuhuai, the China-born co-founder of Elon Musk’s artificial intelligence lab, sparked discussions across Chinese social media after reportedly spending US$70 million on a six-bedroom Californian mega-mansion. The property deal, the largest so far this year in the Bay Area, pushed the thirty-something AI star under the spotlight, alongside other Silicon Valley-based Chinese talent that has contributed to frontier AI labs from OpenAI to Meta Platforms. Wu appeared to be the buyer of a...",
+          "published": "2026-08-18T14:00:05+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 18,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -77,19 +75,19 @@
           ]
         },
         {
-          "title": "Nvidia Will Back First Phase of OpenAI Ohio Project With as Much as $105 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-17/nvidia-to-invest-up-to-105-billion-for-openai-data-center-in-ohio",
-          "summary": "Nvidia Corp. has agreed to spend as much as $105 billion to support a massive new data center campus in Ohio set to be leased by OpenAI, marking the latest tie-up between two dominant forces driving the AI boom.",
-          "published": "2026-08-17T14:11:51+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "We still don’t know how people are really using AI",
+          "link": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/",
+          "summary": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say.&#160; “There is no independent source to corroborate it,” says Anka Reuel, a computer science PhD candidate at the Stanford Trustworthy AI Research&#8230;",
+          "published": "2026-08-18T10:06:43+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 14,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -97,123 +95,128 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic Revenue Run Rate Surpasses $65 Billion Ahead of IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo",
-          "summary": "Anthropic PBC is on track to generate annualized revenue of more than $65 billion based on its current performance, according to people familiar with the matter, up more than sevenfold from its pace at the end of last year.",
-          "published": "2026-08-17T19:37:45+00:00",
+          "title": "The Download: how people really use AI, and Flock’s design choices",
+          "link": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly publish reports on how people are using their products. But they only release the&#8230;",
+          "published": "2026-08-18T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Anthropic Plans to Give CEO Extra Voting Power, Information Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/anthropic-plans-to-give-ceo-extra-voting-power-information-says",
+          "summary": "Anthropic PBC plans to give Chief Executive Officer Dario Amodei and other co-founders shares with extra voting power as the firm prepares to make its Wall Street debut, The Information reported, citing people familiar with the matter.",
+          "published": "2026-08-18T20:53:30+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 4,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
-            "funding"
+            "exec_change"
           ]
         },
         {
-          "title": "\"액체냉각, AI칩 적용비중 올해 첫 50% 돌파\"",
-          "link": "https://zdnet.co.kr/view/?no=20260817161731",
-          "summary": "[지디넷코리아]글로벌 빅테크 주도로 인공지능(AI) 반도체와 AI 인프라 성능이 빠르게 고도화되면서, 첨단 냉각 기술 도입도 빨라질 것이란 전망이 나왔다. 17일 시장조사업체 트렌드포스는 전 세계 AI 칩에 액체냉각 기술을 적용하는 비중이 지난해 33%에서 올해 53%로 뛰고, 내년에는 59%까지 성장할 것이라고 전망했다.액체 냉각은 냉각수를 순환해 칩에서 발생하는 열을 낮추는 기술이다. 차가운 공기를 활용했던 기존 공랭식 대비 방열 성능이 월등하다. 특히 AI 데이터센터 고성능화로 발열도 크게 증가하면서, 액체 냉각 수요도 빠르게 증가하는 추세다.트렌드포스는 \"엔비디아, AMD, 구글 등의 AI 칩 개발 가속으로 열설계전력(TDP)이 1kW(킬로와트)를 넘어섰다\"며 \"랙 규모 AI 서버 솔루션도 수백 kW 전력을 소비하기 때문에, 액체 냉각 방식은 고성능 AI 인프라에서 표준으로 자리잡고 있다\"고 설명했다.올해 엔비디아는 자사 첨단 AI 서버 랙 스케일 솔루션 출하량을 전년비 2배",
-          "published": "2026-08-17T12:28:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Alibaba’s lightweight Qwen model takes on larger AI systems from OpenAI, DeepSeek, Zhipu",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3364404/alibabas-lightweight-qwen-model-takes-larger-ai-systems-openai-deepseek-zhipu?utm_source=rss_feed",
+          "summary": "Alibaba Group Holding’s new lightweight AI model Qwen3.8-27B has matched much larger near-frontier rivals while being able to run on everyday hardware, impressing developers as local AI gains momentum. The Qwen3.8-27B, a small model with 27 billion parameters, performed on par with OpenAI’s GPT-5.6 Luna, which was billed as the most cost-efficient model in the US lab’s latest flagship series, benchmark firm Artificial Analysis said on Monday. It nearly matched leading open-weight models from...",
+          "published": "2026-08-18T12:00:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "삼성만 접는 시대 끝…구글 이어 애플까지, 폴더블 전쟁 불붙었다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5JdlVPalZ5MVhzYTdHVGp4SzZLNExaMzY5a2xkNGtZYk9STkZaZXFlNHE5YjM2WGtDLXFqaTlRa2EyUnc4cEtZYm9rTUdxZw?oc=5",
-          "summary": "삼성만 접는 시대 끝…구글 이어 애플까지, 폴더블 전쟁 불붙었다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-16T22:01:08+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "UNIST, 세계 최우수 보안학회서 메타 후원 우수상 국내 기관 첫 수상",
-          "link": "https://zdnet.co.kr/view/?no=20260817123514",
-          "summary": "[지디넷코리아]UNIST가 컴퓨터 보안분야 최고 권위 학회인 유즈닉스 시큐리티(USENIX Security)에서 '인터넷 디펜스 프라이즈(Internet Defense Prize)'를 수상했다. 글로벌 기업 메타(Meta)가 후원하는 우수 논문상이다. 올해는 단 3편만이 수상의 영예를 안았다. 2014년 이 상이 제정된 이후 국내 기관에서 수상작을 배출한 것은 이번이 처음이라고 UNIST는17일 밝혔다.주인공은 UNIST 컴퓨터공학과 위성일 교수팀이다. 웹 브라우저 보안 취약점을 찾아내는 기술을 다룬 논문이 ‘제35회 유즈닉스 시큐리티 심포지엄’에서 ‘인터넷 디펜스 프라이즈’ 수상작으로 선정됐다.'유즈닉스 시큐리티'는 미국 비영리 학술단체 유즈닉스 협회(USENIX Association)가 주최하는 컴퓨터 보안 분야 최우수 국제학술대회다. 올해는 총 3028편의 논문이 제출돼 362편만 채택됐다. 채택률은 약 12%다. 컴퓨터 분야 주요 국제학회의 채택률이 통상 20% 안팎인 점을 ",
-          "published": "2026-08-17T03:35:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Bond Traders Bite at Microsoft-Tied Data Center Junk-Like Yields",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/blackstone-backed-qts-kicks-off-data-center-bond-at-hefty-cost",
+          "summary": "Blackstone Inc.-backed QTS Realty Trust Inc. offered junk-like yields on a $3.9 billion high-grade bond to fund the construction of a Microsoft Corp.-linked data center in Georgia. It looks to have worked as the deal racked up demand of about six times that amount.",
+          "published": "2026-08-18T14:06:18+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "[SW키트] 美 빅테크, 'AI 워터마크' 정책 구체화…주요 내용은",
-          "link": "https://zdnet.co.kr/view/?no=20260817101437",
-          "summary": "[지디넷코리아]미국 IT 기업들이 인공지능(AI) 생성물 표시 정책을 구체화하고 있다. 눈에 보이는 워터마크는 줄이면서도 콘텐츠 내부에 식별 신호를 삽입해 출처를 추적하는 방식으로 전환 중이다. 17일 IT 업계에 따르면 구글을 비롯한 앤트로픽, 오픈AI 등은 이미지·영상·음성·텍스트에 가시 또는 비가시 워터마크와 출처 메타데이터를 적용하는 방안을 잇달아 공개했다.기업들이 워터마크 적용 대상과 검증 절차를 구체화한 배경에는 지난 2일부터 시행된 유럽연합(EU) AI법 제50조가 있다. EU가 AI 생성물에 기계 판독이 가능한 표시를 요구하면서 콘텐츠 종류별 식별 기술 마련에도 속도가 붙었다.구글은 지난 14일 이미지·영상·음악 등 AI 생성물의 워터마크 표시 여부를 사용자가 선택할 수 있도록 한다고 밝혔다. 적용 대상은 이미지 생성 모델 '나노 바나나'와 영상 모델 '옴니', 음악 생성 모델 '리리아'다.해당 기능은 제미나이와 AI 영상 제작 도구 '플로우'에 우선 적용된다. 검색 ",
-          "published": "2026-08-17T03:47:49+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Meta Exploits Kids on Social Media, States Allege at Trial",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/meta-exploits-youths-on-social-media-states-allege-at-trial",
+          "summary": "Meta Platforms Inc. has deceived the public for years by targeting children on Facebook and Instagram with technology designed to turn them into compulsive users and drive up advertising revenue, a lawyer at the California attorney general’s office told a jury.",
+          "published": "2026-08-18T17:19:58+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "[ZD브리핑] 제네시스 첫 대형 전기 SUV ‘GV90’ 공개 임박…삼성전자 노조도 집회",
-          "link": "https://zdnet.co.kr/view/?no=20260817124847",
-          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]한국정보디스플레이학회(KIDS)가 18~21일 부산 벡스코에서 국제정보디스플레이 학술대회(IMID)를 개최합니다. 19일 기조연설 연사는 삼성디스플레이 조성찬 부사장, 구글 버나드 크레스 XR 엔지니어링 디렉터, 메타 제이콥 최 디스플레이 하드웨어 디렉터 등입니다.한편, LG디스플레이는 IMID에서 차세대 OLED 기술 중 하나인 '플립'(FLiPP) 시제품을 전시하는 방안을 검토 중입니다. 플립은 FMM을 사용하지 않는 RGB OLED 기술입니다. LG디스플레이",
-          "published": "2026-08-17T04:11:57+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "OpenAI Makes AI Safety Changes in Wake of Hugging Face Breach",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/openai-makes-ai-safety-changes-in-wake-of-hugging-face-breach",
+          "summary": "OpenAI said it’s implementing more aggressive systems to monitor and safeguard artificial intelligence models under development after recent cybersecurity incidents ignited concerns about AI tools running amok.",
+          "published": "2026-08-18T18:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -223,23 +226,65 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 3,
       "articles": [
         {
-          "title": "Saylor’s Strategy Sells More Stock to Repurchase Preferred",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-17/saylor-s-strategy-sells-more-stock-to-repurchase-preferred",
-          "summary": "Michael Saylor continues to run his Bitcoin accumulation flywheel in reverse.",
-          "published": "2026-08-17T13:38:23+00:00",
+          "title": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-18/sec-proposes-some-registration-exemptions-for-crypto-offerings",
+          "summary": "The Securities and Exchange Commission unveiled a proposal to exempt certain digital asset offerings from securities registration statements, as the regulator moves ahead with crypto plans after landmark legislation stalled in Congress.",
+          "published": "2026-08-18T18:55:41+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 10,
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "“비트코인 부자? 옛날에야 잘 나갔지”...스트래티지, MSCI 지수서 퇴출 위기 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmTmdmbXJFdmVBZ0J0c0xuQzk3aHA4ei1WSmU1X1ZZWHRkbkltMF9IMWVneGwyRnU2N29tdFhQaVZSZi0zdkQ3V2hXSmdGWTg4X0E?oc=5",
+          "summary": "“비트코인 부자? 옛날에야 잘 나갔지”...스트래티지, MSCI 지수서 퇴출 위기 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-18T00:13:13+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
-            "recency": 2,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "美 재무부, 스테이블코인 발행·판매 세부 규정 공개 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1TjVUc3d4TVZvNjN6eFZabEhXdDdieXNyaDl4eFdZaTd2SjFLNURsejgxYVNhbFZzQmdkUnRrWDdGdzRrMDdYSURRZGFRc2EwNXc?oc=5",
+          "summary": "美 재무부, 스테이블코인 발행·판매 세부 규정 공개 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-18T01:39:57+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -249,13 +294,97 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "SKT·카카오·KT, 모두의 AI 프로젝트 참여한다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BUERYXzVONEgtd3FRT3BwQTVkWUpEMkFQMnhhOEJocjFYUjBkb3BmbnVfdEZLNzZiM1BwQUhvRmRqRmVUT1dzcVJqNUVzN0tvdkUzenE1WENBRW1KbWxrNHBtVGhab0NLM0ZueU5ub2o?oc=5",
+          "summary": "SKT·카카오·KT, 모두의 AI 프로젝트 참여한다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-18T10:42:42+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "모두의 AI, 6개 컨소시엄 출사표…SKT·카카오·KT 맞대결",
+          "link": "https://zdnet.co.kr/view/?no=20260818192950",
+          "summary": "[지디넷코리아]SK텔레콤(SKT), 카카오, KT를 비롯한 국내 주요 인공지능(AI) 기업이 정부의 '모두의 AI' 프로젝트 수주 경쟁에 본격적으로 뛰어들었다.과학기술정보통신부는 '모두의 AI' 프로젝트 참여 사업자 공모 접수 결과 총 6개 사업자(컨소시엄)가 제안서를 제출했다고 18일 밝혔다.모두의 AI 프로젝트는 국내 AI 모델을 기반으로 국민 누구나 활용할 수 있는 대국민 AI 서비스를 구축하는 사업이다. 정부는 이를 통해 국내 AI 생태계 활성화와 AI 서비스 대중화를 추진한다는 계획이다.공모에는 SK텔레콤, 엠케이디, 이스트소프트, 제논, 카카오, KT 등 6개 사업자가 참여했다.SK텔레콤은 굿닥, 노타, 라이너, 신한카드, 티맵모빌리티, 하나카드, 해빗팩토리 등 19개 기관과 컨소시엄을 구성했다. 의료·금융·모빌리티·세무 등 다양한 생활 밀착형 서비스 기업들이 참여해 활용 범위를 넓혔다.카카오는 루닛, 서울대학교병원, 신한은행, LG AI연구원, LG CNS, LG유플러스",
+          "published": "2026-08-18T10:30:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "풀스택부터 대규모 연합까지…'모두의 AI' 6개 진영 강점과 전략은",
+          "link": "https://zdnet.co.kr/view/?no=20260818202735",
+          "summary": "[지디넷코리아]'모두의 AI' 프로젝트에 도전장을 낸 6개 사업자가 저마다의 강점을 앞세워 수주 의지를 드러냈다.SK텔레콤은 인공지능(AI) 풀스택 역량을 카카오는 검증된 파트너와의 협력을 KT는 국내 대표 AI 기업 연합을 내세우며 국민 일상에 스며드는 AI 서비스를 만들겠다는 포부를 밝혔다.과학기술정보통신부는 '모두의 AI' 프로젝트 참여 사업자 공모 접수 결과 총 6개 사업자(컨소시엄)가 제안서를 제출했다고 18일 밝혔다.'모두의 AI' 프로젝트는 국내 AI 모델을 기반으로 국민 누구나 활용할 수 있는 대국민 AI 서비스를 구축하는 사업이다. 정부는 이를 통해 국내 AI 생태계 활성화와 AI 서비스 대중화를 추진한다는 계획이다.공모에는 SK텔레콤, 엠케이디, 이스트소프트, 제논, 카카오, KT 등 6개 사업자가 참여했다. 이 가운데 엠케이디와 제논은 단독으로 제안서를 제출했다.가장 눈길을 끄는 것은 통신 3강 가운데 SK텔레콤과 KT, 그리고 플랫폼 강자인 카카오가 정면 승부에",
+          "published": "2026-08-18T11:36:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "현산, 미래에셋 494억 소송 누락…반기보고서 '정정공시' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10SV8teXZhazRBV0gwdTFLNE41b0Q1bTNMN0xwSkRKMXRuQWRXdmtNazFncGx5YVpmdGlRZHZKd1lmbUJ4TE4yMDhZWTkzWEVfbl9xcHhJNFN1Zm9paWthaE5vZ3hmaEx3YlROejZnRWY?oc=5",
+          "summary": "현산, 미래에셋 494억 소송 누락…반기보고서 '정정공시' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-18T05:03:58+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        }
+      ]
     }
   }
 }
