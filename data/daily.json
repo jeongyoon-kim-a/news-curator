@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:28:11.743531+00:00",
+  "generated_at": "2026-08-20T21:31:22.900016+00:00",
   "total_articles": 14,
   "categories": {
     "elon_musk": {
@@ -7,25 +7,25 @@
       "count": 1,
       "articles": [
         {
-          "title": "SpaceX Attempted to Acquire AI Coding Startup Cognition",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/spacex-attempted-to-acquire-ai-coding-startup-cognition",
-          "summary": "SpaceX approached artificial intelligence coding startup Cognition AI Inc. about a potential acquisition, according to people familiar with the matter, in what would have been its second large takeover in recent months to gain ground in the AI race.",
-          "published": "2026-08-19T19:07:05+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
+          "link": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
+          "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project. Known officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Monday, according to a notice published on the website of the Shanghai United Assets and Equity...",
+          "published": "2026-08-20T06:00:29+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 12,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "funding"
           ]
         }
       ]
@@ -35,12 +35,12 @@
       "count": 8,
       "articles": [
         {
-          "title": "AI Chip Startup Fractile in Talks for $6.5 Billion Value After Anthropic Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/ai-chip-startup-fractile-in-talks-for-6-5-billion-value-after-anthropic-deal",
-          "summary": "Fractile, a startup developing chips tailored for artificial intelligence use that has a deal to supply Anthropic PBC, is in advanced talks to notch a valuation more than six times higher than the price it landed in May.",
-          "published": "2026-08-19T18:31:58+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
+          "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
+          "published": "2026-08-20T20:08:40+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -58,38 +58,40 @@
           ]
         },
         {
-          "title": "Marvell Gives Client Google Right to Buy $12.2 Billion Stock",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/marvell-gives-google-right-to-buy-up-to-12-2-billion-in-shares",
-          "summary": "Marvell Technology Inc. has agreed to give Alphabet Inc.’s Google rights to buy as much as $12.2 billion of its shares in exchange for purchasing chips.",
-          "published": "2026-08-19T12:52:12+00:00",
+          "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
+          "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
+          "published": "2026-08-20T20:56:33+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 8,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "OpenAI to Enhance Safety Processes for Paid Tool Customers",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/openai-to-enhance-safety-processes-for-paid-tool-customers",
-          "summary": "OpenAI said it will enhance safety processes for paying users who have access to its most advanced artificial intelligence models, stepping up its safeguards at a time when customers are entrusting AI with more complex tasks and sensitive information.",
-          "published": "2026-08-19T17:52:30+00:00",
+          "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
+          "summary": "Tech firms are trying to quell growing opposition to their AI plans",
+          "published": "2026-08-20T20:00:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -98,18 +100,18 @@
           "event_labels": []
         },
         {
-          "title": "구글 실험작 '믹스보드', 9월 28일 종료",
-          "link": "https://zdnet.co.kr/view/?no=20260819195535",
-          "summary": "[지디넷코리아]구글(Google)이 실험적 창작 도구 '믹스보드(Mixboard)'를 오는 9월 28일 종료한다. 믹스보드팀은 이용자에게 보낸 공지에서 \"믹스보드는 새로운 창작 표현 방식을 시험하기 위해 만든 구글 랩스(Google Labs)의 실험 프로젝트였다\"며 종료 사실을 알렸다.믹스보드는 이미지 생성과 편집, 아이디어 확장을 시도할 수 있는 실험형 도구다. 구글은 \"이번 실험에서 많은 것을 배웠으며, 그 결과를 향후 구글 랩스의 새로운 탐색과 창작 도구 개발에 반영할 계획\"이라고 밝혔다.이용자는 종료일인 9월 28일까지 기존과 동일하게 믹스보드에서 콘텐츠를 제작하고 편집할 수 있다. 다만 이후에는 웹사이트가 완전히 폐쇄되며, 이용자가 제작한 보드와 생성 이미지, 프롬프트 등 모든 데이터에 접근할 수 없게 된다.작업물을 보관하려면 종료 전에 직접 내려받아야 한다. 구글이 안내한 절차는 다음과 같다. 먼저 프로젝트 페이지에서 원하는 프로젝트를 연 뒤, 캔버스 좌측 상단의 프로젝트",
-          "published": "2026-08-19T10:55:35+00:00",
+          "title": "애플, 이미지 처리 결함 긴급 패치…스파이웨어 악용 우려",
+          "link": "https://zdnet.co.kr/view/?no=20260820204853",
+          "summary": "[지디넷코리아]애플(Apple)이 아이폰과 아이패드, 맥에 영향을 주는 심각한 이미지 처리 취약점을 긴급 패치했다. 애플에 따르면 8월 17일 배포된 이번 보안 업데이트는 이미지 처리 프레임워크 이미지IO(ImageIO)의 결함(CVE-2026-65346)을 바로잡은 것으로, 악의적으로 조작된 이미지를 처리할 때 임의 코드가 실행될 수 있는 문제였다.이 결함은 정수 오버플로(integer overflow) 유형으로, 프로그램이 처리할 수 있는 범위를 넘는 값을 계산하도록 유도해 메모리를 오작동시키는 방식이다. 공격자는 이를 악용해 악성 프로그램을 실행하거나 권한을 탈취할 수 있다. 애플은 입력값 검증을 강화해 문제를 해결했다고 밝혔다.취약점은 메타(Meta)의 레드팀이 찾아낸 것으로, 최근 출시된 아이폰과 아이패드, 맥이 영향권에 들었다. 애플은 이용자들에게 8월 17일 업데이트를 즉시 설치할 것을 당부했다.보안 전문가들이 이 결함을 특히 눈여겨보는 이유는, 이미지를 해석하는 구성 ",
+          "published": "2026-08-20T11:48:53+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 1,
             "recency": 2,
             "event_bonus": 0,
@@ -118,80 +120,86 @@
           "event_labels": []
         },
         {
-          "title": "Ex-Meta Staffer Says Daughter, 14, Was Prey on Instagram",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/ex-meta-staffer-testifies-daughter-14-was-prey-on-instagram",
-          "summary": "Arturo Béjar spent six years working on child safety tools at Meta Platforms Inc.’s Facebook, but told a jury he did not fully understand the threats posed to young users on the platform until his 14-year-old daughter signed up for an Instagram account.",
-          "published": "2026-08-19T16:37:23+00:00",
+          "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
+          "summary": "Anthropic PBC expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom.",
+          "published": "2026-08-20T17:56:02+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "\"엔비디아 순환금융 우려 불식하려면 주주환원 높여야\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wcUc3YlYteEZtTnZYdFc1c2FWN3ZrWERCdng4Y05jSkNBVE5qT3ZGRG01MHZpN0xWRVBFTnk2LTAtOGx6T1k4cW9ZYi1hSU9TTGZ6NW5aUUY1SmJxUmZValBUbmp0T2NwNE1oTUZreVI?oc=5",
-          "summary": "\"엔비디아 순환금융 우려 불식하려면 주주환원 높여야\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-19T00:21:45+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "포티넷, 버추AI 인수...\"에이전틱AI 보안 강화\"",
+          "link": "https://zdnet.co.kr/view/?no=20260820172809",
+          "summary": "[지디넷코리아]글로벌 네트워크 보안 융합솔루션 리더 포티넷(CEO 켄 지)이 AI 런타임 보호, 자동화된 AI 검증, AI 에이전트 보안 기능을 제공하는 AI 보안 기업 버추 AI(Virtue AI)를 인수했다고 발표했다. 인수액은 공개하지 않았다. 2024년 설립한 버추 AI는 샌프란시스코에 본사가 있는 비상장 보안기업이다. 이번 인수는 포티게이트 하이퍼스케일 방화벽(FortiGate Hyperscale Firewall) 등 기존 AI 보안 제품군에 버추AI 기술을 더해, 기업들이 AI를 안전하게 도입 및 운영할 수 있게 지원하기 위한 것이다. 외신은 \"이번 인수는 포티넷이 LLM 보안에서 ‘에이전틱 AI(Agentic AI) 보안’으로 영역을 확장하려는 것\"이라고 해석했다.확장되는 공격 표면…AI 도입 기업의 새로운 과제기업들이 AI 애플리케이션과 자율 에이전트를 빠르게 도입하면서 공격 표면이 네트워크, 사용자, 엔드포인트, 애플리케이션, 클라우드를 넘어 프롬프트, 모델, 에이전",
+          "published": "2026-08-20T08:28:09+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "세레브라스 신제품 출시…엔비디아와 경쟁 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5Ni1HanhBZUQtbTFpNTcxdlhvM3I4VS14RVVEci0xZnA3cENMNUlMeEZSdWp3bXhyU3BZaHF4aXhfM3BnTXU0NG5MR1FyZ29lZGFZQ25SQ1BPdnhFVUdTLVMwVGpNSVAzUDdtTWVwdFQ?oc=5",
-          "summary": "세레브라스 신제품 출시…엔비디아와 경쟁 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-19T02:10:14+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 안드로이드용 크롬에 ‘제미나이’ 탑재...모바일·실생활로 생태계 확장 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RTDI5LUo3dEpFd0hqV0Fja192Q0xTbEJ4WTc1ZXlienF4R1FVZEhvbFBYSFpyVUowcUd3RVlRa2VLWlYySjRoRFhRcUNDcWU0R29oaG42ckUxY3VOZ1d2bTR2X081blF4WWc?oc=5",
-          "summary": "구글, 안드로이드용 크롬에 ‘제미나이’ 탑재...모바일·실생활로 생태계 확장 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-19T10:03:48+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
+          "score": 12,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 7,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "exec_change",
+            "funding"
+          ]
+        },
+        {
+          "title": "Muon Space Raises $250 Million in Round Backed by Google",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/muon-space-raises-250-million-with-google-salesforce-backing",
+          "summary": "Satellite startup Muon Space Inc. closed a $250 million funding round, raising capital from Alphabet Inc.’s Google and Salesforce Ventures LLC after launching 11 satellites into orbit and opening a manufacturing facility in California.",
+          "published": "2026-08-20T10:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
             "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
+          "summary": "Anthropic PBC plans to allow business customers to keep greater control of their data when using its most capable artificial intelligence models, a stark change from an earlier data retention policy intended to mitigate potential cyberattacks.The Claude chatbot maker expects to roll out a new safety system later this year that will still require enterprise customers to retain data for 30 days but with the option to do so on their own cloud computing infrastructure rather than Anthropic’s, accord",
+          "published": "2026-08-20T17:51:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -201,23 +209,43 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Trump Opens Door to Hyperliquid as US Pulls Crypto Trade Onshore",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-19/trump-opens-door-to-hyperliquid-as-us-pulls-crypto-trade-onshore",
-          "summary": "President Donald Trump said US regulators are working to bring Hyperliquid, a fast-growing crypto platform, into the country, offering one of the clearest signals yet that the White House wants to pull a major piece of the industry’s offshore market infrastructure onshore.",
-          "published": "2026-08-19T20:20:54+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "트럼프 '가상자산 법안' 압박 … 비트코인 7만弗 돌파 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hOE1WZzBMb2NFb0FiWDU2VG9sTHc3dUpvOXd3LTlhMDBmMmxxLXNnZGlva1p6eU9sd0dmdHROMjFMSDNoTWtQS0xCTE03TlAya3c?oc=5",
+          "summary": "트럼프 '가상자산 법안' 압박 … 비트코인 7만弗 돌파 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-20T09:02:10+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 9,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "금감원, AI로 '가상자산 불공정거래' 실시간 추적한다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZ2tOaW1hR2R0WmliVld3ZXExT1JqYmRLZURsajFLc0lIWnE2MUh6NldidFVGMll2T0ZfWE5fNTF3TXhBY294R1FnMjViQzRyX1hPSmI4VjUtQkFQWnNmMFRQLTI1bnM5OHYzeVByWEM?oc=5",
+          "summary": "금감원, AI로 '가상자산 불공정거래' 실시간 추적한다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-20T03:00:24+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -227,90 +255,45 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
-          "title": "카카오모빌리티, 美 IPO 추진 본격화…SEC에 비공개 서류 제출",
-          "link": "https://zdnet.co.kr/view/?no=20260819174413",
-          "summary": "[지디넷코리아]카카오모빌리티가 미국 증권거래위원회(SEC)에 기업공개(IPO) 관련 서류를 비공개 제출한 것으로 알려졌다.19일(현지시간) 미국 IPO 전문기관 IPOX가 공개한 자료에 따르면 카카오모빌리티는 약 10억 달러(약 1조 3949억원) 조달을 목표로 미국 IPO를 추진, 이를 위해 SEC에 관련 서류를 비공개 제출했다.IPOX는 카카오모빌리티를 카카오가 보유한 국내 택시 호출·모빌리티 플랫폼으로 소개하며, 카카오T 이용자 수가 3000만 명을 넘는다고 설명했다. 상장 주관사로는 뱅크오브아메리카(BofA), 모건스탠리, UBS 등이 거론됐다.SEC 비공개 제출은 기업이 정식 등록신고서를 공개하기 전 사전 심사를 받을 수 있는 절차다. 비공개 심사가 진행되는 동안에는 제출 여부와 신고서 내용이 SEC 전자공시시스템인 EDGAR에 공개되지 않는다. 향후 공개 제출이 이뤄져야 공모 물량과 희망 가격, 신주·구주 비중 등 구체적인 상장 구조를 확인할 수 있다.IPOX는 카카오모빌",
-          "published": "2026-08-19T08:58:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "funding"
-          ]
-        },
-        {
-          "title": "카카오, 몸집 줄인다더니 경영진은 돈잔치…노조 '성과 독점' 비판 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0b1dGU2pxRjlSV2VSbnVhaGlJRlVYY0NsTnlIWnVJdEplc0hrUkxMZjliMnEyNDFpXzZQYWR3N2F6ZHFjUWNUM0ozVHNPWUZaUGhoV0k1RmZlZ3VKb2NuMkswRi1BZVV5ZGlFQVQ1TDQ?oc=5",
-          "summary": "카카오, 몸집 줄인다더니 경영진은 돈잔치…노조 '성과 독점' 비판 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-19T01:22:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "카카오, 지주사로 전환하고 … '국민메신저' 카톡 떼어낸다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LcTJ2XzdBckZhWkRXWmFJMEJ4ZEpQaUdWQlM0YlRFVnBIZ0xLNEMwbVFqeXhtYWRiQkpQWWZsOHJKeS1GRlVEWXJyOV90Zw?oc=5",
+          "summary": "카카오, 지주사로 전환하고 … '국민메신저' 카톡 떼어낸다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-20T13:58:48+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 9,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "엠브이아이, 한·일 디지털 접근성 협력...시각장애인 전용 AI 단말기 경험 공유",
-          "link": "https://zdnet.co.kr/view/?no=20260819171814",
-          "summary": "[지디넷코리아]엠브이아이(MVI)가 시각장애인 접근성 분야에서 축적한 현장 경험을 바탕으로, AI 기술을 활용한 디지털 정보 접근 문제의 해결 가능성을 한·일 접근성 전문가들과 공유했다. 엠브이아이(대표 김용태)는 서울 여의도 이룸센터에서 열린 ‘디지털 접근성 제고 협력을 위한 한·일 국제 워크숍’에 설립자인 김용태 대표가 발표자로 참석했다고 19일 밝혔다. 이번 워크숍은 한·일 양국의 민·관·학 접근성 전문가 및 장애인 당사자 단체가 모인 최초의 교류 자리로, 양국의 디지털 접근성 현황을 공유하고 실질적인 협력 방안을 모색하고자 마련됐다. 한·일 디지털 접근성 전문가 30여 명이 참여했으며, 국내에서는 삼성전자·LG전자·카카오 등 기업과 학계 전문가들이 발표에 나섰다. 일본에서는 지원기술개발기구(ATDO)와 시각·청각 장애인 단체, 접근성 전문기관 관계자들이 참여해 논의를 이어갔다.김용태 엠브이아이 대표는 이날 시각장애인 전용 AI 스마트 단말기 엠블루(M-BLUE)의 개발·보급 ",
-          "published": "2026-08-19T08:18:21+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "K-미토스 만들자…보안 특화 AI 사업 공모 5일 연장",
-          "link": "https://zdnet.co.kr/view/?no=20260819171332",
-          "summary": "[지디넷코리아]이른바 '미토스 충격'이라 불리는 인공지능(AI) 사이버 공격 위협에 대응하기 위한 정부의 사이버 보안 특화 AI 개발 사업 공모 접수 기한이 5일 연장됐다. 19일 업계에 따르면 과학기술정보통신부와 정보통신산업진흥원(NIPA)은 지난 달 말 '사이버 보안 특화 AI 파운데이션 모델 개발 사업' 공모 마감일을 8월 21일 오후 2시에서 8월 26일 오후 2시로 5일 연장하는 내용으로 재공고했다.이번 사업의 목적은 국내 독자 AI 기술과 모델 기반의 사이버 보안 특화 AI 파운데이션 모델을 개발하는 데 있다. 우리나라 사이버 보안 분야에 AI 기술을 적용헤 국내 자체 보안 AI 기술 역량 축적과 보안 산업의 AI 전환(AX) 혁신 가속화 등을 제고하겠다는 취지다. 국내 AI 및 사이버 보안 관련 기업, 대학, 연구기관이 지원 대상이며 평가를 거쳐 총 1개 팀을 선정한다. 최종 선발된 팀에게는 보안 특화 AI 개발에 투입할 그래픽처리장치(GPU) B200 256장(32 노",
-          "published": "2026-08-19T08:33:13+00:00",
+          "title": "카카오, 21일 긴급 오픈톡…지주사 전환·카카오톡 분사 발표하나",
+          "link": "https://zdnet.co.kr/view/?no=20260820235630",
+          "summary": "[지디넷코리아]카카오가 지주회사 전환과 카카오톡 사업 분사 등을 포함한 대대적인 지배구조 개편에 나설 것으로 전망된다. 21일 관련업계에 따르면 카카오는 전날인 20일 오후 6시 사내 공지를 통해 다음날 오전 10시 임직원 대상 타운홀 미팅 '오픈톡'을 개최한다고 알렸다.카카오는 오픈톡을 정기적으로 개최해왔지만 이번처럼 개최 직전 임직원에게 긴급 공지한 것은 이례적이다. 이번 오픈톡 내용은 참석자에게만 관련 내용을 전달할 예정인 것으로 알려졌다.최근 직장인 익명 커뮤니티 블라인드에도 카카오가 외부 투자 유치를 위해 지주사 전환을 준비하고 있다는 글도 올라온 것으로 전해졌다. 카카오 소식에 정통한 관계자는 \"지주사 전환과 카카오톡 분사에 대한 얘기가 나온 것은 맞다\"고 말했다. 사업을 독립법인으로 분리하면 외부 투자 유치나 합작법인 설립, 지분 교환 등 자금 조달 선택지를 확대할 수 있다.노조 또한 오픈톡 공지 이후 대응에 나섰다. 분할 대상 법인을 중심으로 오는 24일 조합원 대상 ",
+          "published": "2026-08-20T15:08:44+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
-            "noise_penalty": -2
+            "noise_penalty": 0
           },
           "event_labels": []
         }
@@ -318,8 +301,29 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "미래에셋, 1천억 규모 IMA 4호 출시…선착순 마감 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYT1RBeEloUVhtdkdlV280ZU9uWWRLTE1yMlZTRFgzM3RGM2tray1ENVVuU3pmODlkcnQ5RFpfODRIei1EdTVaOVI3VWFpSjJqQWh6bDZTSWNYYXdTUHRtcjdCaHZOVWU1eXFaTVNMdHY?oc=5",
+          "summary": "미래에셋, 1천억 규모 IMA 4호 출시…선착순 마감 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-20T01:50:17+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": -2
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
