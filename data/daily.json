@@ -1,94 +1,21 @@
 {
-  "generated_at": "2026-08-20T21:31:22.900016+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-08-21T21:27:46.686551+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "Armed with funding boost, SpaceSail accelerates China’s push to rival Elon Musk’s Starlink",
-          "link": "https://www.scmp.com/tech/article/3364654/armed-funding-boost-spacesail-accelerates-chinas-push-rival-elon-musks-starlink?utm_source=rss_feed",
-          "summary": "In a record funding round for China’s satellite internet sector, domestic start-up SpaceSail has raised around 7 billion yuan (US$1 billion) to accelerate the buildout of a low-Earth-orbit (LEO) network designed to compete with Elon Musk’s Starlink project. Known officially as Shanghai Spacecom Satellite Technology, the operator of China’s Qianfan constellation completed its Series B round on Monday, according to a notice published on the website of the Shanghai United Assets and Equity...",
-          "published": "2026-08-20T06:00:29+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "SpaceX Is Hiring in Natural Gas Trading for Energy Needs",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-21/spacex-is-hiring-for-natural-gas-trading-to-support-energy-needs",
+          "summary": "Elon Musk’s SpaceX is hiring a trader to build and lead a natural gas trading team to support the space flight company’s growing fuel and power needs.",
+          "published": "2026-08-21T19:53:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
-        {
-          "title": "Broadcom Seeks More Than $60 Billion in Latest AI Debt Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/broadcom-seeks-more-than-60-billion-in-latest-ai-debt-deal",
-          "summary": "Broadcom Inc. is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit Anthropic PBC and other companies, according to people with knowledge of the matter.",
-          "published": "2026-08-20T20:08:40+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "funding"
-          ]
-        },
-        {
-          "title": "ChatGPT Can Now Control iMessage, Potentially Raising Apple Privacy Concerns",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/chatgpt-can-now-control-imessage-potentially-raising-apple-privacy-concerns",
-          "summary": "OpenAI rolled out support on Thursday for controlling Apple Inc.’s iMessage service via ChatGPT, a move with the potential to raise privacy concerns for the iPhone maker.",
-          "published": "2026-08-20T20:56:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "OpenAI, Meta Seek Help to Combat Data Center PR Problem",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-20/openai-meta-seek-help-to-combat-data-center-pr-problem",
-          "summary": "Tech firms are trying to quell growing opposition to their AI plans",
-          "published": "2026-08-20T20:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
           "score": 14,
           "score_breakdown": {
             "keyword": 8,
@@ -98,21 +25,67 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
         {
-          "title": "애플, 이미지 처리 결함 긴급 패치…스파이웨어 악용 우려",
-          "link": "https://zdnet.co.kr/view/?no=20260820204853",
-          "summary": "[지디넷코리아]애플(Apple)이 아이폰과 아이패드, 맥에 영향을 주는 심각한 이미지 처리 취약점을 긴급 패치했다. 애플에 따르면 8월 17일 배포된 이번 보안 업데이트는 이미지 처리 프레임워크 이미지IO(ImageIO)의 결함(CVE-2026-65346)을 바로잡은 것으로, 악의적으로 조작된 이미지를 처리할 때 임의 코드가 실행될 수 있는 문제였다.이 결함은 정수 오버플로(integer overflow) 유형으로, 프로그램이 처리할 수 있는 범위를 넘는 값을 계산하도록 유도해 메모리를 오작동시키는 방식이다. 공격자는 이를 악용해 악성 프로그램을 실행하거나 권한을 탈취할 수 있다. 애플은 입력값 검증을 강화해 문제를 해결했다고 밝혔다.취약점은 메타(Meta)의 레드팀이 찾아낸 것으로, 최근 출시된 아이폰과 아이패드, 맥이 영향권에 들었다. 애플은 이용자들에게 8월 17일 업데이트를 즉시 설치할 것을 당부했다.보안 전문가들이 이 결함을 특히 눈여겨보는 이유는, 이미지를 해석하는 구성 ",
-          "published": "2026-08-20T11:48:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
+          "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
+          "published": "2026-08-21T19:59:55+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 16,
           "score_breakdown": {
             "keyword": 10,
-            "source": 1,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia to Pay AI Startup Poolside a $6 Billion License, Newcomer Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
+          "summary": "Nvidia Corp. has agreed to pay $6 billion to license artificial intelligence models from Poolside and will extend job offers to more than 100 employees, according to people familiar with the situation.",
+          "published": "2026-08-20T22:24:07+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
+          "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs. San Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base. The company said",
+          "published": "2026-08-21T14:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -120,86 +93,100 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic Expects to Match or Top SpaceX’s Record IPO Size",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-expects-to-match-spacex-s-record-ipo-size-or-top-it",
-          "summary": "Anthropic PBC expects to match or beat the size of SpaceX’s record-setting initial public offering, according to people familiar with the matter, in the latest sign of overwhelming demand from investors looking to profit from the artificial intelligence boom.",
-          "published": "2026-08-20T17:56:02+00:00",
+          "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
+          "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
+          "published": "2026-08-21T18:45:32+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "포티넷, 버추AI 인수...\"에이전틱AI 보안 강화\"",
-          "link": "https://zdnet.co.kr/view/?no=20260820172809",
-          "summary": "[지디넷코리아]글로벌 네트워크 보안 융합솔루션 리더 포티넷(CEO 켄 지)이 AI 런타임 보호, 자동화된 AI 검증, AI 에이전트 보안 기능을 제공하는 AI 보안 기업 버추 AI(Virtue AI)를 인수했다고 발표했다. 인수액은 공개하지 않았다. 2024년 설립한 버추 AI는 샌프란시스코에 본사가 있는 비상장 보안기업이다. 이번 인수는 포티게이트 하이퍼스케일 방화벽(FortiGate Hyperscale Firewall) 등 기존 AI 보안 제품군에 버추AI 기술을 더해, 기업들이 AI를 안전하게 도입 및 운영할 수 있게 지원하기 위한 것이다. 외신은 \"이번 인수는 포티넷이 LLM 보안에서 ‘에이전틱 AI(Agentic AI) 보안’으로 영역을 확장하려는 것\"이라고 해석했다.확장되는 공격 표면…AI 도입 기업의 새로운 과제기업들이 AI 애플리케이션과 자율 에이전트를 빠르게 도입하면서 공격 표면이 네트워크, 사용자, 엔드포인트, 애플리케이션, 클라우드를 넘어 프롬프트, 모델, 에이전",
-          "published": "2026-08-20T08:28:09+00:00",
+          "title": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keTc5ZFVqTXMtdnZNVS1sdlpaQmd1aVhaMWpBTmptNGVGU2NzcG9VdDY1a1ZGZE9tREQ5eU51aUNLZm1RQ09nSmx3bTNOQUw3UXZyMzRDWURCNWJLRXdNYkFxSlhSUDFOcnc?oc=5",
+          "summary": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-21T04:10:37+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMlBYU3lyQ3pzYmNLZ1J1OThrQnRGWXU3eW1GRTk4b1N2UEdFeFF3UDU5bUtXeFdfbXM5LTdmUW9VdnVSSHY2Zk9LRGktSFEyR2xfV1NnbnhSVzN4c2w0NXVSMmFjNDlvWGc?oc=5",
+          "summary": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-21T06:09:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FVFY4a1hlZ2FhdFJRS2tPZ1ByV1E3RENsNHVHUTZXeXB2ekVzYTh5OHFSN1NzbkpydENoVTRJNTI1Y1RJV2c2bDhqQ01STUxSM1JqRzNGN3ROWXJWZzFwd3JfMzdmVDlvTWc?oc=5",
+          "summary": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-21T07:15:20+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[기고] AI 시대, 국외반출의 대상은 ‘지도’가 아니라 ‘공간지능’이다",
+          "link": "https://zdnet.co.kr/view/?no=20260821171649",
+          "summary": "[지디넷코리아]구글의 고정밀 지도 국외반출이 결정 단계를 넘어 실제 이행을 준비하는 단계로 접어들었다.지난 13일 한 매체는 국내 한 지도정보 가공업체가 국토교통부에 구글 스트리트뷰 정보 처리방식을 문의했다고 보도했다. 국토지리정보원은 앞서 구글에 반출 조건을 실제로 어떻게 이행할 것인지 구체적인 방안을 제출하도록 요구한 것으로 알려졌다.정부는 지난 2월 조건부 허가 당시 국내 제휴기업의 국내 서버에서 원본 데이터를 가공하고, 보안 처리와 좌표 노출 제한 등 조건 충족 여부를 확인한 뒤 필요한 범위의 데이터만 반출하도록 했다. 이제 논의의 중심은 ‘허가할 것인가’에서 ‘허가 조건을 실제로 어떻게 구현하고 검증할 것인가’로 이동했다.겉으로 보면 조건부 허가 후 자연스러운 절차다. 지금 확인해야 할 것은 이미 정해진 조건을 어떻게 이행할 것인가 만이 아니다. 조건 자체가 GeoAI 시대에 발생하는 새로운 위험까지 충분히 다룰 수 있는지도 다시 물어야 한다.정부가 공개한 반출 조건은 과거",
+          "published": "2026-08-21T08:16:49+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 7,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "exec_change",
-            "funding"
-          ]
-        },
-        {
-          "title": "Muon Space Raises $250 Million in Round Backed by Google",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/muon-space-raises-250-million-with-google-salesforce-backing",
-          "summary": "Satellite startup Muon Space Inc. closed a $250 million funding round, raising capital from Alphabet Inc.’s Google and Salesforce Ventures LLC after launching 11 satellites into orbit and opening a manufacturing facility in California.",
-          "published": "2026-08-20T10:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic Plans to Change Data Retention Policy for Advanced AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/anthropic-plans-to-change-data-retention-policy-for-advanced-ai",
-          "summary": "Anthropic PBC plans to allow business customers to keep greater control of their data when using its most capable artificial intelligence models, a stark change from an earlier data retention policy intended to mitigate potential cyberattacks.The Claude chatbot maker expects to roll out a new safety system later this year that will still require enterprise customers to retain data for 30 days but with the option to do so on their own cloud computing infrastructure rather than Anthropic’s, accord",
-          "published": "2026-08-20T17:51:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -209,21 +196,61 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "트럼프 '가상자산 법안' 압박 … 비트코인 7만弗 돌파 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hOE1WZzBMb2NFb0FiWDU2VG9sTHc3dUpvOXd3LTlhMDBmMmxxLXNnZGlva1p6eU9sd0dmdHROMjFMSDNoTWtQS0xCTE03TlAya3c?oc=5",
-          "summary": "트럼프 '가상자산 법안' 압박 … 비트코인 7만弗 돌파 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-20T09:02:10+00:00",
+          "title": "Bessent’s Bond Maneuvers Giving Global Debasement Trade New Life",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-21/bessent-s-bond-maneuvers-giving-global-debasement-trade-new-life",
+          "summary": "Scott Bessent’s bid to tame US borrowing costs knocked down long-term yields for barely a day. The more lasting market signal: the dollar weakened while gold and Bitcoin rallied, reinforcing a debasement trade fueled by swelling US deficits and concerns over the direction of US economic policy.",
+          "published": "2026-08-21T20:14:06+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "US Stocks End Week on Up Note, Nasdaq 100 Snaps Five-Day Slump",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
+          "summary": "US stocks rose on Friday, finishing the week on an upbeat note that saw the Nasdaq 100 end a five-day losing streak as data revealed bustling business activity and Bitcoin soared.",
+          "published": "2026-08-21T11:20:42+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“정산지연 해소로 연 1.7조 절감”…원화 스테이블코인, B2B·무역금융이 우선 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56c05XZDE3S2g0d1U0Z0ZhV1hVUUVsQjYyR0t0b1J0bFloeFNCOEU1V3ZpeldLNVRyNFFxQXlRWlJMX05ycjVCY3l6eVFyemE3RlE?oc=5",
+          "summary": "“정산지연 해소로 연 1.7조 절감”…원화 스테이블코인, B2B·무역금융이 우선 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-21T06:31:54+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 11,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -232,10 +259,10 @@
           "event_labels": []
         },
         {
-          "title": "금감원, AI로 '가상자산 불공정거래' 실시간 추적한다 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kZ2tOaW1hR2R0WmliVld3ZXExT1JqYmRLZURsajFLc0lIWnE2MUh6NldidFVGMll2T0ZfWE5fNTF3TXhBY294R1FnMjViQzRyX1hPSmI4VjUtQkFQWnNmMFRQLTI1bnM5OHYzeVByWEM?oc=5",
-          "summary": "금감원, AI로 '가상자산 불공정거래' 실시간 추적한다 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-20T03:00:24+00:00",
+          "title": "이더리움 공동 창립자 루빈, 비트마인 톰 리 의장과 다음달 나란히 방한 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nc0dabWtRc3ViNzZTUUN1bVFYeHV4OFphaWJXVkZkWW9zOXNpRlFtNlRPUzhuNnZ0dHBWeGtreFhDVjEzWTlrUzZjRzRfZi00TTNZVzllUFJ2bGxVazAxTjV5V2tkU2s3d0lLRUN5UGo?oc=5",
+          "summary": "이더리움 공동 창립자 루빈, 비트마인 톰 리 의장과 다음달 나란히 방한 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-21T07:12:10+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -255,43 +282,85 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "카카오, 지주사로 전환하고 … '국민메신저' 카톡 떼어낸다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LcTJ2XzdBckZhWkRXWmFJMEJ4ZEpQaUdWQlM0YlRFVnBIZ0xLNEMwbVFqeXhtYWRiQkpQWWZsOHJKeS1GRlVEWXJyOV90Zw?oc=5",
-          "summary": "카카오, 지주사로 전환하고 … '국민메신저' 카톡 떼어낸다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-20T13:58:48+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "카카오 \"34조 가치 제대로 평가받겠다…지주사 전환은 없어\"",
+          "link": "https://zdnet.co.kr/view/?no=20260821155452",
+          "summary": "[지디넷코리아]카카오가 인적분할을 통해 복합기업 할인 문제를 해소하고, 기업가치를 극대화하겠다는 비전을 제시했다. '카카오AI'와 '카카오X'로 재편되는 지배구조를 기반으로 사업별 전문성을 강화한다는 계획이다. 투자 전문 회사를 표방하는 카카오X의 지주회사 전환 가능성에 대해서는 명확히 선을 그었다.김도영 카카오X 대표 내정자 겸 카카오인베스트먼트 대표는 21일 카카오 인적분할 미디어 설명회에서 “카카오X를 지주회사로 전환할 계획은 전혀 없다고 확실히 말씀드릴 수 있다”고 주주들 우려를 일축했다.이날 설명회는 카카오가 카카오AI와 카카오X로 인적분할을 결의한 데 따른 궁금증을 해소하기 위해 마련된 자리다. 카카오는 오늘 오전 회사를 카카오톡·AI 중심의 플랫폼 사업을 전개하는 ‘카카오AI’와 테크핀·콘텐츠·모빌리티 등 미래가치 투자를 담당하는 ‘카카오X’로 인적분할하겠다고 발표한 바 있다.분할 비율은 순자산 장부가액 기준으로 카카오AI 0.36, 카카오X 0.64로 결정됐다.회사는 ",
+          "published": "2026-08-21T07:25:40+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 7,
           "score_breakdown": {
             "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "[속보] 카카오AI·카카오X로 분할…카카오 지배구조 전면개편 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ORkE2WVBvMHZ0aVZqYmxrcW9yak1ZS3N3eC1ic0I2UGNELW1pTE5nMU9wQjNHaGliOEdKUWFXZnU2YmFvY3dzRlVxWG1zUVAtX1RzMmdB?oc=5",
+          "summary": "[속보] 카카오AI·카카오X로 분할…카카오 지배구조 전면개편 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-21T01:12:48+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "카카오, 21일 긴급 오픈톡…지주사 전환·카카오톡 분사 발표하나",
-          "link": "https://zdnet.co.kr/view/?no=20260820235630",
-          "summary": "[지디넷코리아]카카오가 지주회사 전환과 카카오톡 사업 분사 등을 포함한 대대적인 지배구조 개편에 나설 것으로 전망된다. 21일 관련업계에 따르면 카카오는 전날인 20일 오후 6시 사내 공지를 통해 다음날 오전 10시 임직원 대상 타운홀 미팅 '오픈톡'을 개최한다고 알렸다.카카오는 오픈톡을 정기적으로 개최해왔지만 이번처럼 개최 직전 임직원에게 긴급 공지한 것은 이례적이다. 이번 오픈톡 내용은 참석자에게만 관련 내용을 전달할 예정인 것으로 알려졌다.최근 직장인 익명 커뮤니티 블라인드에도 카카오가 외부 투자 유치를 위해 지주사 전환을 준비하고 있다는 글도 올라온 것으로 전해졌다. 카카오 소식에 정통한 관계자는 \"지주사 전환과 카카오톡 분사에 대한 얘기가 나온 것은 맞다\"고 말했다. 사업을 독립법인으로 분리하면 외부 투자 유치나 합작법인 설립, 지분 교환 등 자금 조달 선택지를 확대할 수 있다.노조 또한 오픈톡 공지 이후 대응에 나섰다. 분할 대상 법인을 중심으로 오는 24일 조합원 대상 ",
-          "published": "2026-08-20T15:08:44+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "카카오, 카카오톡 분할하기로 결정…\"AI 서비스 선도\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mTVRNc2VBYk9sVlgzQnFHUmVVazB4aTRJZ1J0WElPY0tfZUU4dXowRFA2akdfZjNSb1NFZnFPQTVuMkc4d25zUGJ6Nkk2N1RnYm85YkwxR3dWSV9EM3JDbDkzX1ZGRHktOWlhalVEQzU?oc=5",
+          "summary": "카카오, 카카오톡 분할하기로 결정…\"AI 서비스 선도\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-21T01:13:49+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpODA4LTB2Y2ZCME5pTnFBbDBuSVBXd2xFTU5oejFNZjE5OU1TQUxwRnV4bHA3N3dJTm0wZnhTTlk5MnkwUlVkNVkxRTNKTlV2QWFFeUQ1ODczaWI1LUE4T0V1RWZMVmN3Vmc?oc=5",
+          "summary": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속” &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-21T02:56:11+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -301,29 +370,8 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "미래에셋, 1천억 규모 IMA 4호 출시…선착순 마감 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYT1RBeEloUVhtdkdlV280ZU9uWWRLTE1yMlZTRFgzM3RGM2tray1ENVVuU3pmODlkcnQ5RFpfODRIei1EdTVaOVI3VWFpSjJqQWh6bDZTSWNYYXdTUHRtcjdCaHZOVWU1eXFaTVNMdHY?oc=5",
-          "summary": "미래에셋, 1천억 규모 IMA 4호 출시…선착순 마감 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-20T01:50:17+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": -2
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
