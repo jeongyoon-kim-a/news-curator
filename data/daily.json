@@ -1,127 +1,21 @@
 {
-  "generated_at": "2026-08-21T21:27:46.686551+00:00",
-  "total_articles": 17,
+  "generated_at": "2026-08-22T21:24:44.294161+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "SpaceX Is Hiring in Natural Gas Trading for Energy Needs",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-21/spacex-is-hiring-for-natural-gas-trading-to-support-energy-needs",
-          "summary": "Elon Musk’s SpaceX is hiring a trader to build and lead a natural gas trading team to support the space flight company’s growing fuel and power needs.",
-          "published": "2026-08-21T19:53:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "‘위험하다’ 경고에도 고집부리더니…중국서 사고 친 테슬라, 무슨 일이 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXck9VRUY4Z2JRZzA3NncxZERlWWh5bGhhZ2J2RVhyTS1vWkRmN2pyV3hWbldvVFY1bThoX3BrdkVleFlwcDNjNm81MHZKVWktd2c?oc=5",
+          "summary": "‘위험하다’ 경고에도 고집부리더니…중국서 사고 친 테슬라, 무슨 일이 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-22T00:23:57+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
-        {
-          "title": "Anthropic Taps Google Chip Veteran as Part of Push Into Hardware",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-21/anthropic-taps-google-chip-veteran-as-part-of-push-into-hardware",
-          "summary": "Anthropic PBC has hired Amir Salek, a founder of the custom chip program at Alphabet Inc.’s Google, as the AI lab lays the groundwork for a push into making its own semiconductors.",
-          "published": "2026-08-21T19:59:55+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia to Pay AI Startup Poolside a $6 Billion License, Newcomer Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-20/nvidia-to-pay-ai-startup-poolside-a-6-billion-license-newcomer-says",
-          "summary": "Nvidia Corp. has agreed to pay $6 billion to license artificial intelligence models from Poolside and will extend job offers to more than 100 employees, according to people familiar with the situation.",
-          "published": "2026-08-20T22:24:07+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI-backed legal tech firm pivots to Chinese Kimi K3 open-weight model",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3364827/openai-backed-legal-tech-firm-pivots-chinese-kimi-k3-open-weight-model?utm_source=rss_feed",
-          "summary": "A US artificial intelligence start-up backed by OpenAI has built its first in-house model on Chinese lab Moonshot AI’s Kimi K3, highlighting a growing shift by Western tech firms towards Chinese open-weight systems amid soaring development costs. San Francisco-based legal tech provider Harvey, whose high-profile backers also include Sequoia Capital and Andreessen Horowitz, said on Thursday that its new model, Harvey Tenet, was post-trained on top of the open-weight Kimi K3 base. The company said",
-          "published": "2026-08-21T14:00:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple Cuts Jobs in Siri, Vision Pro Immersive Video and Gaming Teams",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-21/apple-cuts-jobs-in-siri-vision-pro-immersive-video-and-gaming-teams",
-          "summary": "Apple Inc. is cutting jobs across teams responsible for the Siri digital assistant and the Vision Pro headset, part of an effort to focus on new devices and artificial intelligence.",
-          "published": "2026-08-21T18:45:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1keTc5ZFVqTXMtdnZNVS1sdlpaQmd1aVhaMWpBTmptNGVGU2NzcG9VdDY1a1ZGZE9tREQ5eU51aUNLZm1RQ09nSmx3bTNOQUw3UXZyMzRDWURCNWJLRXdNYkFxSlhSUDFOcnc?oc=5",
-          "summary": "메타, '뮤즈 비디오' 테스트 착수…오디오 동시 생성 10초 영상 선보여 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-21T04:10:37+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -133,55 +27,15 @@
           "event_labels": []
         },
         {
-          "title": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5EMlBYU3lyQ3pzYmNLZ1J1OThrQnRGWXU3eW1GRTk4b1N2UEdFeFF3UDU5bUtXeFdfbXM5LTdmUW9VdnVSSHY2Zk9LRGktSFEyR2xfV1NnbnhSVzN4c2w0NXVSMmFjNDlvWGc?oc=5",
-          "summary": "메타, 미국서 '바이브 코딩' 게임 앱 '포켓' 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-21T06:09:51+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FVFY4a1hlZ2FhdFJRS2tPZ1ByV1E3RENsNHVHUTZXeXB2ekVzYTh5OHFSN1NzbkpydENoVTRJNTI1Y1RJV2c2bDhqQ01STUxSM1JqRzNGN3ROWXJWZzFwd3JfMzdmVDlvTWc?oc=5",
-          "summary": "구글, '젬마' 누적 다운로드 10억회 돌파…'어썸 젬마' 저장소 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-21T07:15:20+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[기고] AI 시대, 국외반출의 대상은 ‘지도’가 아니라 ‘공간지능’이다",
-          "link": "https://zdnet.co.kr/view/?no=20260821171649",
-          "summary": "[지디넷코리아]구글의 고정밀 지도 국외반출이 결정 단계를 넘어 실제 이행을 준비하는 단계로 접어들었다.지난 13일 한 매체는 국내 한 지도정보 가공업체가 국토교통부에 구글 스트리트뷰 정보 처리방식을 문의했다고 보도했다. 국토지리정보원은 앞서 구글에 반출 조건을 실제로 어떻게 이행할 것인지 구체적인 방안을 제출하도록 요구한 것으로 알려졌다.정부는 지난 2월 조건부 허가 당시 국내 제휴기업의 국내 서버에서 원본 데이터를 가공하고, 보안 처리와 좌표 노출 제한 등 조건 충족 여부를 확인한 뒤 필요한 범위의 데이터만 반출하도록 했다. 이제 논의의 중심은 ‘허가할 것인가’에서 ‘허가 조건을 실제로 어떻게 구현하고 검증할 것인가’로 이동했다.겉으로 보면 조건부 허가 후 자연스러운 절차다. 지금 확인해야 할 것은 이미 정해진 조건을 어떻게 이행할 것인가 만이 아니다. 조건 자체가 GeoAI 시대에 발생하는 새로운 위험까지 충분히 다룰 수 있는지도 다시 물어야 한다.정부가 공개한 반출 조건은 과거",
-          "published": "2026-08-21T08:16:49+00:00",
+          "title": "비상시 문 안 열릴수도…테슬라, 중국서 298만대 리콜",
+          "link": "https://zdnet.co.kr/view/?no=20260822165253",
+          "summary": "[지디넷코리아]테슬라가 중국에서 298만대에 달하는 대규모 차량 리콜에 나선다. 비상 상황에서 차량 문을 열기 어려울 수 있다는 우려에 따른 조치로, 이번 중국 자동차 업계 리콜 대상 430만대 가운데 약 70%를 테슬라가 차지한다.로이터통신은 21일(현지시간) 테슬라가 오는 9월 25일부터 중국에서 생산하거나 수입한 모델3, 모델Y, 모델S, 모델X 총 298만대를 리콜한다고 보도했다. 중국 국가시장감독관리총국(SAMR)에 신고된 이번 리콜은 비상용 기계식 도어 개방장치와 관련된 안전 우려가 핵심이다.SAMR은 심각한 충돌 뒤 전원 공급이 끊기면 차량 내부의 기계식 비상 도어 개방장치 위치를 찾기 어려울 수 있다고 설명했다. 이 경우 탑승자의 탈출이나 외부 구조 인력의 차량 진입이 지연될 가능성이 있다.테슬라는 비상 도어 개방장치 위치를 알리는 경고 라벨을 부착하고, 충돌이 발생하면 차량 창문이 자동으로 내려가도록 하는 무선 소프트웨어 업데이트를 제공할 계획이다.테슬라를 포함한 완",
+          "published": "2026-08-22T07:52:53+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -194,20 +48,62 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 4,
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
       "articles": [
         {
-          "title": "Bessent’s Bond Maneuvers Giving Global Debasement Trade New Life",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-21/bessent-s-bond-maneuvers-giving-global-debasement-trade-new-life",
-          "summary": "Scott Bessent’s bid to tame US borrowing costs knocked down long-term yields for barely a day. The more lasting market signal: the dollar weakened while gold and Bitcoin rallied, reinforcing a debasement trade fueled by swelling US deficits and concerns over the direction of US economic policy.",
-          "published": "2026-08-21T20:14:06+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "구글, 마벨에 17조원 지분 옵션…맞춤형 AI 칩 대반격",
+          "link": "https://zdnet.co.kr/view/?no=20260822083738",
+          "summary": "[지디넷코리아]구글(Google)이 맞춤형 AI 반도체 확보에 승부를 걸었다. 야후 파이낸스(Yahoo Finance)에 따르면 8월 20일 구글은 반도체 기업 마벨(Marvell)과 맞춤형 칩 협력을 확대하면서, 마벨 주식을 대량으로 사들일 수 있는 워런트(주식매수권)를 받았다. 전량 행사 시 지분 가치는 최대 122억 달러, 원화로 약 17조원에 이른다.워런트는 마벨 보통주 약 5,897만 주를 주당 206.58달러에 살 수 있는 권리로, 2033년 8월까지 유효하다. 구글은 칩 주문이 5억 달러어치씩 채워질 때마다 매수권의 다음 구간이 열리는 구조로 권리를 확보한다.이번 워런트의 바탕이 된 상업 계약은 7월 29일 체결됐다. 구글의 텐서처리장치(TPU) 생태계에 맞춘 AI 추론 가속기와 스토리지 컨트롤러, 네트워크 인터페이스 컨트롤러, 메모리 인터페이스 컨트롤러 등 데이터센터용 반도체가 대상이다.이번 계약이 주목받는 이유는 구글이 자체 칩 생태계를 넓히며 엔비디아(Nvidia)",
+          "published": "2026-08-21T23:37:38+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15a0o4aDdRNGViNlVoMjFDTjJxeEFBSV9nTmJvRmlDUlJGN2MxUTU3NnZjQV9vMDZSbGtfODF1RDd5MEtRd2E3d1JqajJEbkpNUkJ2RERUTVJWOXhjQnh5MDk4b1FLQzBFRlE?oc=5",
+          "summary": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-22T01:56:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia Customers Notified About AI-Related Price Hikes Above 15%",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-22/nvidia-customers-notified-about-ai-related-price-hikes-above-15",
+          "summary": "Some of Nvidia Corp.’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15% in many cases with memory chip costs soaring.",
+          "published": "2026-08-22T18:42:34+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
             "keyword": 5,
@@ -219,32 +115,118 @@
           "event_labels": []
         },
         {
-          "title": "US Stocks End Week on Up Note, Nasdaq 100 Snaps Five-Day Slump",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
-          "summary": "US stocks rose on Friday, finishing the week on an upbeat note that saw the Nasdaq 100 end a five-day losing streak as data revealed bustling business activity and Bitcoin soared.",
-          "published": "2026-08-21T11:20:42+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
+          "title": "테이크투, 'GTA6' 플레이 영상 유출에 MS·디스코드 소환장 발부",
+          "link": "https://zdnet.co.kr/view/?no=20260822020532",
+          "summary": "[지디넷코리아]테이크투 인터랙티브가 최근 온라인에 유출된 'GTA6' 게임플레이 영상의 유포자를 특정하기 위해 마이크로소프트(MS)와 디스코드에 소환장을 발부했다고 게임스팟이 21일(현지시간) 보도했다.보도에 따르면 테이크투는 뉴욕 남부지방법원에 소환장을 제출하고 저작권을 침해한 유출자의 신원 정보 확인을 요청했다. 테이크투가 소환장에서 해당 콘텐츠를 '저작권 보호를 받는 저작물'로 명시함에 따라, 유출된 영상이 조작이 아닌 실제 게임 빌드 영상임이 확인됐다.온라인상에서 '사이버리크'라는 닉네임으로 활동하는 유출자는 벽면에 총탄 자국으로 자신의 이름을 새기는 등 실제 플레이 가능한 빌드를 확보한 것으로 파악된다. 테이크투는 오는 9월 4일까지 관련 디스코드 서버 이용자들의 계정 ID, 이메일, IP 주소, 전화번호 및 연동된 엑스박스·구글 프로필 등의 정보를 제출할 것을 MS 측에 요구했다.한편, 락스타 게임즈는 유출 사태와 별개로 오는 27일 넷플릭스를 통해 'GTA6'의 상세 내",
+          "published": "2026-08-21T23:15:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "“정산지연 해소로 연 1.7조 절감”…원화 스테이블코인, B2B·무역금융이 우선 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56c05XZDE3S2g0d1U0Z0ZhV1hVUUVsQjYyR0t0b1J0bFloeFNCOEU1V3ZpeldLNVRyNFFxQXlRWlJMX05ycjVCY3l6eVFyemE3RlE?oc=5",
-          "summary": "“정산지연 해소로 연 1.7조 절감”…원화 스테이블코인, B2B·무역금융이 우선 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-21T06:31:54+00:00",
+          "title": "“AI 빚 내가 보증설께”…엔비디아 통큰 약속에 서학개미 DRAM에 1천억 베팅 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5OTWJHMzEzMzNrZ1dVdHNybWFQUGNJdHVFVHRycEd1WlJFYUE1VF8zRTBBcVlrdWJjUTJtRFlRQWxhNDV6cEg0Mm1scFViR2RZUnI0VWhn?oc=5",
+          "summary": "“AI 빚 내가 보증설께”…엔비디아 통큰 약속에 서학개미 DRAM에 1천억 베팅 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-22T02:03:59+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GRXA1TEUwellZVEE3QnZxSmsyV2RJT3FHd3BwaEVDZHlfY3BCakRLS243dzczWVVSOFZGcU9SbXVHcGZEUHVsN09HZDYtajVuYk1NZGRNa254S3IyRGxOcWhIZkV5dzRiLUE?oc=5",
+          "summary": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… \"전력·부지부터 잡는다\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-22T02:28:05+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52TkRyaFcxSlRLZFBpbVpnR2NodGp5V0RLaG0xRi1aLVBIS2VpQ3diUWYzTDNYUDRMZTE5czdvS0ZpMFlCQ2xVNnNJWFg1NUgxVUE?oc=5",
+          "summary": "앤트로픽, 구글 출신 반도체 전문가 영입…자체 칩 개발 본격화 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-21T23:21:55+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "'비전 프로' 대신 AI·스마트 안경에 올인…애플, 200명 구조조정 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uc3p0dUZIZWFhOThPYXIzdkxjUGMycEdlVWh5ZGdSQ2pZRl96QjJJUkVMdnhxa2Y2VnBSdy1oT21VbXVOdWJpdVBwZkFjellIc3JEUmcxNlpvcW8yQmw0b3ZMRnFKQUVZTkE?oc=5",
+          "summary": "'비전 프로' 대신 AI·스마트 안경에 올인…애플, 200명 구조조정 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-22T01:34:58+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓ - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ybDJGQUh2OWZqeGZKcnBBYVdBNmtZd21sY2JiUEpfRFkzd09vYV8yNWFaMElST1ptZmtvOXNlQzZsZFpNckZvS3kzQU1oTmFpN2pYczZyRzNnY1V3MkNnNEVWcFFTbFIwUHlIV0dOZzA?oc=5",
+          "summary": "[뉴욕마켓워치] 베선트가 촉발한 비트코인·금 랠리…주식↑채권·달러↓ &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-21T23:18:56+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
@@ -259,10 +241,10 @@
           "event_labels": []
         },
         {
-          "title": "이더리움 공동 창립자 루빈, 비트마인 톰 리 의장과 다음달 나란히 방한 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nc0dabWtRc3ViNzZTUUN1bVFYeHV4OFphaWJXVkZkWW9zOXNpRlFtNlRPUzhuNnZ0dHBWeGtreFhDVjEzWTlrUzZjRzRfZi00TTNZVzllUFJ2bGxVazAxTjV5V2tkU2s3d0lLRUN5UGo?oc=5",
-          "summary": "이더리움 공동 창립자 루빈, 비트마인 톰 리 의장과 다음달 나란히 방한 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-21T07:12:10+00:00",
+          "title": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kQmptb3c4Vk5VQXIzOThBV3pjY1BhNXpwdkJnWjJLdVB1ODQ2WDVWV2tWSlN2eS1WaW9jYzJib1J1MFJqZE56X2E2N1dKRjVEZmRqTllTN1JTOTlONUdjWnNwUXQ3ZFN3cXNZT09PemY?oc=5",
+          "summary": "\"트럼프 정책 기대에 비트코인·이더리움 동반 강세\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-21T23:05:05+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -270,11 +252,11 @@
           "category_display": "디지털 자산",
           "score": 6,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -5
           },
           "event_labels": []
         }
@@ -282,91 +264,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "카카오 \"34조 가치 제대로 평가받겠다…지주사 전환은 없어\"",
-          "link": "https://zdnet.co.kr/view/?no=20260821155452",
-          "summary": "[지디넷코리아]카카오가 인적분할을 통해 복합기업 할인 문제를 해소하고, 기업가치를 극대화하겠다는 비전을 제시했다. '카카오AI'와 '카카오X'로 재편되는 지배구조를 기반으로 사업별 전문성을 강화한다는 계획이다. 투자 전문 회사를 표방하는 카카오X의 지주회사 전환 가능성에 대해서는 명확히 선을 그었다.김도영 카카오X 대표 내정자 겸 카카오인베스트먼트 대표는 21일 카카오 인적분할 미디어 설명회에서 “카카오X를 지주회사로 전환할 계획은 전혀 없다고 확실히 말씀드릴 수 있다”고 주주들 우려를 일축했다.이날 설명회는 카카오가 카카오AI와 카카오X로 인적분할을 결의한 데 따른 궁금증을 해소하기 위해 마련된 자리다. 카카오는 오늘 오전 회사를 카카오톡·AI 중심의 플랫폼 사업을 전개하는 ‘카카오AI’와 테크핀·콘텐츠·모빌리티 등 미래가치 투자를 담당하는 ‘카카오X’로 인적분할하겠다고 발표한 바 있다.분할 비율은 순자산 장부가액 기준으로 카카오AI 0.36, 카카오X 0.64로 결정됐다.회사는 ",
-          "published": "2026-08-21T07:25:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "[속보] 카카오AI·카카오X로 분할…카카오 지배구조 전면개편 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ORkE2WVBvMHZ0aVZqYmxrcW9yak1ZS3N3eC1ic0I2UGNELW1pTE5nMU9wQjNHaGliOEdKUWFXZnU2YmFvY3dzRlVxWG1zUVAtX1RzMmdB?oc=5",
-          "summary": "[속보] 카카오AI·카카오X로 분할…카카오 지배구조 전면개편 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-21T01:12:48+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오, 카카오톡 분할하기로 결정…\"AI 서비스 선도\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mTVRNc2VBYk9sVlgzQnFHUmVVazB4aTRJZ1J0WElPY0tfZUU4dXowRFA2akdfZjNSb1NFZnFPQTVuMkc4d25zUGJ6Nkk2N1RnYm85YkwxR3dWSV9EM3JDbDkzX1ZGRHktOWlhalVEQzU?oc=5",
-          "summary": "카카오, 카카오톡 분할하기로 결정…\"AI 서비스 선도\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-21T01:13:49+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpODA4LTB2Y2ZCME5pTnFBbDBuSVBXd2xFTU5oejFNZjE5OU1TQUxwRnV4bHA3N3dJTm0wZnhTTlk5MnkwUlVkNVkxRTNKTlV2QWFFeUQ1ODczaWI1LUE4T0V1RWZMVmN3Vmc?oc=5",
-          "summary": "카카오, 두 개로 나뉜다…“카카오AI·카카오X로 인적분할해 AI 혁신 가속” &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-21T02:56:11+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
