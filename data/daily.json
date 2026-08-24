@@ -1,21 +1,245 @@
 {
-  "generated_at": "2026-08-23T21:24:40.902182+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-08-24T21:32:44.918864+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fTXJid2ZnbnJwS3dlejMxN3MzZWpTbi13T3NDanRuYmtSeFkyTnhnYTZWS2k0Njk2d3RTM3R2V2RXQ0Y2Q29yQlJjc1lmOUUtWnc?oc=5",
-          "summary": "“몸값 2760조, 역대급 IPO 온다”…앤트로픽, 스페이스X 뛰어넘을까 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-23T00:39:10+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m",
+          "link": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m?utm_source=rss_feed",
+          "summary": "Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of financing, which valued it at US$6.3 billion, Xpeng said in a statement on Monday, adding that the fundraising marked the biggest single private-equity deal involving a Chinese robotics maker. The...",
+          "published": "2026-08-24T13:29:25+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 7,
+      "articles": [
+        {
+          "title": "Tech Leads US Stocks Lower as Nvidia Earnings, Jackson Hole Loom",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+          "summary": "Technology names led a decline in US stocks on Monday as investors geared up for a busy week of economic data and earnings from Nvidia Corp.",
+          "published": "2026-08-24T12:23:19+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
+          "summary": "Taiwanese prosecutors indicted a senior Nvidia Corp. manager as part of a group that allegedly smuggled advanced AI chips into China, according to people familiar with the matter, advancing the island democracy’s first known crackdown on the black-market trade of such accelerators.",
+          "published": "2026-08-24T14:12:24+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 강화로 전면전 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DczA1bEFRZE5BQlF0ZmtvR2paRWRnZl9GR19SUGhzTzFnX1FHRWFybGVfQmFVYjZ6RmVCN1k4WWlZOFFpZ3NXUS1mTFd3NUs4YXgzR3dpMHpFdC1sSkNITXRETWxZbEVYRFE?oc=5",
+          "summary": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 강화로 전면전 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-24T02:41:55+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OG9uNHV0RVNPNFZ1VEdkSjlGX0dURWFlTmVLYXdFUXNGanlmY3NGamd2LXFRU2ZFajA0VHZOUk9VRGFHRHJwU3FYWTRhaXgzS1FBajI4NTE5c25IYnl4eXA0WF9TMV92d3c?oc=5",
+          "summary": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-24T09:00:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdmFEMUpPbF9jUlMwYXd4Mjh6TE9ReUdwN0RKano0NEJWb3RFbWZHUERNbnZKMW1Kb0JZdG9xTGR2c3d0dW90QXF5elRlaXpJSGEyTjZta2VkUWlCYjVWN1hnakoybFhEQkE?oc=5",
+          "summary": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-24T09:07:44+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "삼성전자, 올해 스마트폰 출하량 세계 1위 탈환 전망",
+          "link": "https://zdnet.co.kr/view/?no=20260824170523",
+          "summary": "[지디넷코리아]삼성전자가 올해 글로벌 스마트폰 시장에서 애플을 제치고 연간 출하량 기준 세계 1위 자리를 되찾을 것이라는 전망이 나왔다.24일 시장조사업체 카운터포인트리서치에 따르면 올해 삼성전자의 글로벌 스마트폰 출하량은 전년 대비 약 0.8% 증가할 것으로 추산됐다. 반면 경쟁사인 애플은 출하량이 2.1% 감소할 것으로 예상돼 삼성전자가 지난해 애플에 내줬던 연간 출하량 1위 타이틀을 다시 탈환할 것으로 보인다.카운터포인트리서치는 글로벌 공급망 불확실성 속에서도 삼성전자의 다변화된 제품 포트폴리오, 자체 부품 조달 능력, 탄탄한 글로벌 유통망 등이 방어벽 역할을 했다고 분석했다.애플의 경우 차기 아이폰18 시리즈의 가격 인상 가능성과 모델별 출시 일정 변화가 수요 변수로 꼽혔다. 애플이 3분기 첫 폴더블 아이폰을 선보일 것으로 보이나, 초기 출하량이 수백만 대 수준에 그쳐 연간 전체 판세를 뒤집기는 어려울 것이라는 관측이다.한편 올해 전체 글로벌 스마트폰 출하량은 부품 원가 상승",
+          "published": "2026-08-24T08:15:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "20년 연구 뚝심이 애플 뚫었다 … 코오롱, 폴더블 필름 납품앞둬 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMTVHV3BHeGtqd2Q4eHJ2aUx6UHE0TTNBTUNRcDJtdmhuMm94ZkxwaC14djVqVVhuVm5CQjNlNGZHWS1YVTJzQ1ppVmNfb1ZfMG1CUVRB?oc=5",
+          "summary": "20년 연구 뚝심이 애플 뚫었다 … 코오롱, 폴더블 필름 납품앞둬 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-24T08:45:28+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin",
+          "summary": "Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.",
+          "published": "2026-08-24T12:26:14+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“3년 뒤 빚 폭탄 온다”…헤지펀드 대부의 경고, 금·비트코인 늘리라는데 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IQ0VObWVxakVBSFBLTWNJSlpxTVhObzlsQ28xY21lTGFDYWI2TU1VZGRENU9mVWdIalVVcFhXemppbGU1dnp1dUhVNVZ1VjFtOFE?oc=5",
+          "summary": "“3년 뒤 빚 폭탄 온다”…헤지펀드 대부의 경고, 금·비트코인 늘리라는데 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-24T12:22:55+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 4,
+      "articles": [
+        {
+          "title": "[Up&Down] 카카오엔터 IPO 불발 가능성에 매각설까지 솔솔 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VQWdpemprS05MWkxzT1VseWljSzJMVUc1cDdYdnFPZ0JVMnp2UDljWWZwMm50TU0yN3IwYmFGWDUxYWlkNzR0UU1hNHBoejl6dVBfU2JR?oc=5",
+          "summary": "[Up&amp;Down] 카카오엔터 IPO 불발 가능성에 매각설까지 솔솔 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-24T05:47:58+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
@@ -29,44 +253,18 @@
           ]
         },
         {
-          "title": "“솔직히 테슬라 버리고 가는게 빠르죠”…M6 ETF 나온다는데 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1uSlpSenRtR2duUDJUWmxOZzE3VmYweURNZk1pZkoxRDFYcEN3RGRTbnYxak1KT1dvU0dibU5tNEZTZUZnQ2VLTTdacXhzeWlrQkE?oc=5",
-          "summary": "“솔직히 테슬라 버리고 가는게 빠르죠”…M6 ETF 나온다는데 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-23T13:01:57+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
+          "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'",
+          "link": "https://zdnet.co.kr/view/?no=20260824162913",
+          "summary": "[지디넷코리아]앤트로픽 인공지능(AI) 서비스 '클로드'가 여러 모델과 주요 제품에서 동시에 장애를 일으킨 정황이 포착됐다. 일반 이용자용 챗봇부터 개발자용 코딩 서비스까지 영향 받으면서 클로드 서비스 전반의 요청 처리에 차질이 생겼다. 24일 앤트로픽 공식 서비스 상태 페이지에 따르면 이날 한국시간 오후 2시6분부터 클로드 미토스 5와 페이블 5·오푸스 5·오푸스 4.8에서 요청 오류가 증가하는 현상이 발생했다.앤트로픽은 장애 발생 21분 뒤인 오후 2시27분 원인을 파악하고 수정 작업에 들어갔다. 구체적인 장애 원인과 정상화 예상 시점은 미정이라고 밝혔다. 오후 3시42분에도 복구 작업은 계속된 것으로 확인됐다. 앤트로픽은 \"여러 모델에 영향을 미치는 오류를 해결하고 있다\"며 \"추가 상황을 안내할 예정\"이라고 설명했다. 이번 장애로 일반 이용자가 접속하는 클로드닷에이아이와 개발자용 응용프로그램인터페이스(API)가 부분 장애 상태를 겪고 있는 것으로 전해졌다. AI 코딩 서비스 '",
+          "published": "2026-08-24T08:09:49+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 7,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
-        {
-          "title": "앤트로픽, 구글 TPU 핵심 인재 영입…자체 AI 반도체 개발 속도",
-          "link": "https://zdnet.co.kr/view/?no=20260822230826",
-          "summary": "[지디넷코리아]앤트로픽이 구글의 맞춤형 반도체 개발을 이끌었던 핵심 인재를 영입하며 자체 프로세서 사업 확대에 본격적으로 나섰다.23일 블룸버그 등 외신에 따르면 앤트로픽은 구글의 텐서처리장치(TPU) 프로그램 창립 멤버인 아미르 살렉을 컴퓨트 팀에 영입했다고 밝혔다.아미르 살렉은 구글에서 2022년까지 TPU 사업을 총괄하며 1세대부터 7세대까지의 칩 개발을 이끈 인물이다. 앤트로픽에서는 제임스 브래드버리(James Bradbury)에게 보고하는 체계로 합류한다.그는 구글을 떠난 뒤 스티븐 파인버그 미국 국방부 부장관이 공동 설립한 사모펀드 세르베루스 캐피털 매니지먼트에서 수석 전무로 재직해 왔다.이번 영입은 앤트로픽이 자체 반도체 개발 역량을 강화하려는 전략의 연장선으로 해석된다. 클로드(Claude) 플랫폼 개발사인 앤트로픽은 현재 엔비디아, 구글, 아마존 등 다양한 공급처로부터 AI 칩을 조달하고 있지만, 최근에는 내부적으로 실리콘 사업 구축을 위한 채용과 조직 정비에 나선 ",
-          "published": "2026-08-23T02:30:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
+            "keyword": 5,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -75,173 +273,40 @@
           "event_labels": []
         },
         {
-          "title": "\"엔비디아, AI 서버 가격 15% 이상 인상\"",
-          "link": "https://zdnet.co.kr/view/?no=20260823124959",
-          "summary": "[지디넷코리아]엔비디아가 최근 주요 고객사에 인공지능(AI) 칩을 탑재한 서버 가격을 내년에 15% 이상 인상할 것이라고 통보했다고 블룸버그가 22일(현지시간) 보도했다. 메모리 반도체 가격 상승 영향이다. 블룸버그에 따르면 엔비디아는 최근 마이크로소프트(MS)와 구글, 오라클 등에 내년 초 출하하는 시스템부터 가격 인상을 적용한다고 통보했다. 베라 루빈과 그레이스 블랙웰을 탑재한 시스템도 적용대상이다. 제품별 가격 인상폭은 엔비디아 칩 세대와 메모리 구성에 따라 다르다. 블룸버그는 엔비디아의 가격 인상 예고가 삼성전자와 SK하이닉스, 마이크론 등 메모리 반도체 업체 협상력 강화를 보여준다고 평가했다. 엔비디아의 AI 가속기는 고대역폭메모리(HBM) 등 D램과 함께 구성된다. AI 칩 연산에 필요한 데이터를 HBM 등이 신속하게 공급한다. 삼성전자와 SK하이닉스, 마이크론 등 세 업체는 전 세계 D램 시장을 과점하고 있다. 이들 업체는 메모리 생산량을 늘리고 있지만, AI 확산에 따",
-          "published": "2026-08-23T04:13:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta Trial: How Social Media Lawsuits Threaten Big Tech",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-23/meta-trial-how-social-media-lawsuits-threaten-big-tech",
-          "summary": "A flood of lawsuits against social media giants claim that by engineering their platforms to be hard to resist, the companies are causing serious harm to young users. In the first personal injury case to go to trial, a Los Angeles jury in March found Meta Platforms Inc. and Google negligent in the design and operation of their platforms — awarding $6 million to a 20-year-old woman in a landmark verdict.",
-          "published": "2026-08-23T14:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia customers notified of AI-related price rises above 15%",
-          "link": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
-          "summary": "Some of Nvidia’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15 per cent in many cases with memory chip costs soaring. The price rises will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips, according to people familiar with the process, who asked not to be identified commenting on communications that have not yet been.",
-          "published": "2026-08-22T21:54:25+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NWWNvY2VqLXJMYlJmbzZ3MXFzRVBpT1QzR2hEZVROd0twWGVHLUgyWVBJMGRMZzM3UkxBS01Bd2YxMk5adXBsdGRzcFo3SjBRSHMyUzZWcDZ3WjVzdTB5Q3lFOFp2MVBfc3c?oc=5",
-          "summary": "메모리 폭등에 엔비디아 서버 최대 15% 인상...빅테크 부담 가중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-22T23:36:05+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'사우스 오브 미드나잇' 개발사 컴펄션 게임즈, MS 엑스박스서 독립",
-          "link": "https://zdnet.co.kr/view/?no=20260822021238",
-          "summary": "[지디넷코리아]컴펄션 게임즈가 모회사 마이크로소프트(MS) 엑스박스로부터 독립해 독자 스튜디오로 전환했다고 게임인더스트리비즈가 21일(현지시간) 보도했다. 이번 독립은 경영진이 스튜디오 지분과 소속 인력을 직접 인수하는 방식으로 진행됐다.보도에 따르면 기욤 프로보 컴펄션 게임즈 CEO는 \"팀을 지키기 위해 이번 인수를 추진했다\"라며 \"팀원들 역시 뿔뿔이 흩어지기보다 함께 남겠다는 의지가 확고했다\"고 밝혔다. 이어 \"7월 대규모 인력 감축 속에서 해고 위기에 놓였던 것과 비교하면 매우 긍정적인 결과이며, MS 측도 원만한 퇴로를 열어줬다\"라고 덧붙였다.이번 독립을 통해 컴펄션 게임즈는 2013년작 '콘트라스트', 2018년작 '위 해피 퓨', 2025년작 '사우스 오브 미드나잇' 등 기존 자사 타이틀의 IP(지식재산권) 및 퍼블리싱 권리를 모두 되찾았다. 퍼블리싱 권한은 플랫폼별 전환 기간을 거쳐 컴펄션 게임즈로 완전히 이전될 예정이다.컴펄션 게임즈는 향후 자생력 확보를 위해 다양한 ",
-          "published": "2026-08-23T01:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qRHR4ZDhNeS14eThmWFpRaUZfNW90ejRVeTgxZTBrRWplbF93eG1KaTBrUHdtREpDNkN1d1o2eFpVSHhuQWdmMjd1cDVjcld0cVhEQTI0c01kRlMwcFFFQTFSNFBIWFp3Tnc?oc=5",
-          "summary": "\"LLM보다 하네스가 핵심\"…엔비디아 AVO, 장기 에이전트 가능성 입증 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-23T01:55:48+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple’s Foldable iPhone Details; Retail Store Changes for New Home Products",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-23/apple-s-foldable-iphone-details-retail-store-changes-for-new-home-products-mt5vjf61",
-          "summary": "Also: Get ready for iPhone price hikes.",
-          "published": "2026-08-23T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "“어차피 안보잖아?”…토스증권, 해외옵션 교육영상 ‘숨김재생’ 논란 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ybFRmdkdPRzRhUVptQ29ES0pUaXVWdVZHMHplM2ozeTJnYlNKZ1ZwNGFCbVFQUVk5V1ItVFJkY3VRaHRYM2RfZ0NwdUFRbEswcENGSg?oc=5",
-          "summary": "“어차피 안보잖아?”…토스증권, 해외옵션 교육영상 ‘숨김재생’ 논란 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-23T06:20:27+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "\"카카오톡 없는\" 카카오 탄생 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySWlWRVFkUFRvY3JqdWloNUdvb1lWNmk5dkExY1ctVmRBU29TcUwxb0lITVZDS3hWbGZPOGduVkt6SlF6WmxBM0JIS3F0VUxKdDhOLW0xbVY5QVJUSjhza0VDa0ZxbHV1WVh0Q2ZpRW4?oc=5",
+          "summary": "\"카카오톡 없는\" 카카오 탄생 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-23T23:43:09+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "한진, 네이버 통합반품센터 수거 전담…반품 물류 일원화",
+          "link": "https://zdnet.co.kr/view/?no=20260824153127",
+          "summary": "[지디넷코리아]한진이 네이버 통합반품센터로 들어오는 상품의 반품 수거를 전담한다. 기존 배송사별로 나뉘어 있던 반품 물류를 한진으로 일원화해 소비자 편의와 판매자 물류 효율을 높인다는 계획이다.한진은 지난 21일부터 네이버 통합반품센터로 입고되는 상품의 반품 수거 서비스를 전담하고 있다고 24일 밝혔다.이에 따라 상품을 처음 배송한 택배사가 어디인지와 관계없이 통합반품센터로 들어오는 반품 상품은 한진이 수거한다.기존에는 각 택배사가 자신이 배송한 상품을 개별적으로 회수했다. 이 때문에 배송사에 따라 반품 회수 방식이나 절차가 달라질 수 있었다. 한진은 반품 수거를 단일 운영 체계로 전환해 서비스 품질을 표준화하고 소비자 혼선을 줄일 방침이다.반품 처리 속도를 높여 판매자의 재고 운영 효율도 개선한다. 한진은 전국 단위 택배 네트워크를 활용해 상품 회수부터 통합반품센터 입고까지 과정을 표준화하고 물류 동선을 최적화할 계획이다.이를 통해 반품 상품이 판매자 재고로 다시 확보되는 시간을 ",
+          "published": "2026-08-24T13:05:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
