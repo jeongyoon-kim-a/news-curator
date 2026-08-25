@@ -1,46 +1,66 @@
 {
-  "generated_at": "2026-08-24T21:32:44.918864+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-08-25T21:31:27.755053+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "EV maker Xpeng set to challenge Tesla in embodied AI after robotics unit raises US$900m",
-          "link": "https://www.scmp.com/business/china-evs/article/3365096/ev-maker-xpeng-set-challenge-tesla-embodied-ai-after-robotics-unit-raises-us900m?utm_source=rss_feed",
-          "summary": "Chinese electric vehicle (EV) maker Xpeng has secured US$900 million in funding from high-profile investors including Alibaba Group Holding and IDG Capital to spur its robotics unit, despite a widening second-quarter loss. Dogotix, a subsidiary of Xpeng, raised US$900 million in the latest round of financing, which valued it at US$6.3 billion, Xpeng said in a statement on Monday, adding that the fundraising marked the biggest single private-equity deal involving a Chinese robotics maker. The...",
-          "published": "2026-08-24T13:29:25+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVFBieFNHakVOal90RVpENGVSRzd3V0lvVmVPTzlCOFNfRW9lS0cydXk5QktWTE5KOG9oNHZRTDluZG44MnRxWlN1dV93WWV1NU9ISUpNVHBfbWtWaFVDQjBLNzJPdVlfYmc?oc=5",
+          "summary": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-25T09:18:02+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
             "m_and_a"
           ]
+        },
+        {
+          "title": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYVJROUxjVUN6X3kzRUp4UjE4OVczdTBhdVVJbVBud1kweE10SGUzZnhYMWxLcU1OR1ljXzFkMVJHSUFGdWhaTWVxc3FUdHRLRThISHZPeHNzRVpMbzNqalhhRGZ4NmlPQTdxQzRMX18?oc=5",
+          "summary": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-25T01:58:17+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 7,
+      "count": 8,
       "articles": [
         {
-          "title": "Tech Leads US Stocks Lower as Nvidia Earnings, Jackson Hole Loom",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
-          "summary": "Technology names led a decline in US stocks on Monday as investors geared up for a busy week of economic data and earnings from Nvidia Corp.",
-          "published": "2026-08-24T12:23:19+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "US Stocks Finish Higher as Investors Prepare for Nvidia Earnings",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-25/tech-rally-helps-lift-us-futures-ahead-of-nvidia-earnings",
+          "summary": "US stocks advanced Tuesday as technology shares rallied and investors look ahead to Nvidia Corp. earnings on Wednesday.",
+          "published": "2026-08-25T11:58:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -57,99 +77,19 @@
           ]
         },
         {
-          "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
-          "summary": "Taiwanese prosecutors indicted a senior Nvidia Corp. manager as part of a group that allegedly smuggled advanced AI chips into China, according to people familiar with the matter, advancing the island democracy’s first known crackdown on the black-market trade of such accelerators.",
-          "published": "2026-08-24T14:12:24+00:00",
+          "title": "AI Cloud Firm Lambda in Talks for $3 Billion Pre-IPO Round",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
+          "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., is in talks to raise as much as $3 billion in a round that could tee it up to go public next year, according to people familiar with the efforts.",
+          "published": "2026-08-24T23:36:55+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 강화로 전면전 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DczA1bEFRZE5BQlF0ZmtvR2paRWRnZl9GR19SUGhzTzFnX1FHRWFybGVfQmFVYjZ6RmVCN1k4WWlZOFFpZ3NXUS1mTFd3NUs4YXgzR3dpMHpFdC1sSkNITXRETWxZbEVYRFE?oc=5",
-          "summary": "엔비디아, 중국 '오픈 모델' 독주 막는다...자체 모델 강화로 전면전 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-24T02:41:55+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12OG9uNHV0RVNPNFZ1VEdkSjlGX0dURWFlTmVLYXdFUXNGanlmY3NGamd2LXFRU2ZFajA0VHZOUk9VRGFHRHJwU3FYWTRhaXgzS1FBajI4NTE5c25IYnl4eXA0WF9TMV92d3c?oc=5",
-          "summary": "맥북에서 돌리는 '무삭제 큐원 3.8' 등장...엔비디아 GPU·클라우드 없이 구동 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-24T09:00:13+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdmFEMUpPbF9jUlMwYXd4Mjh6TE9ReUdwN0RKano0NEJWb3RFbWZHUERNbnZKMW1Kb0JZdG9xTGR2c3d0dW90QXF5elRlaXpJSGEyTjZta2VkUWlCYjVWN1hnakoybFhEQkE?oc=5",
-          "summary": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-24T09:07:44+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "삼성전자, 올해 스마트폰 출하량 세계 1위 탈환 전망",
-          "link": "https://zdnet.co.kr/view/?no=20260824170523",
-          "summary": "[지디넷코리아]삼성전자가 올해 글로벌 스마트폰 시장에서 애플을 제치고 연간 출하량 기준 세계 1위 자리를 되찾을 것이라는 전망이 나왔다.24일 시장조사업체 카운터포인트리서치에 따르면 올해 삼성전자의 글로벌 스마트폰 출하량은 전년 대비 약 0.8% 증가할 것으로 추산됐다. 반면 경쟁사인 애플은 출하량이 2.1% 감소할 것으로 예상돼 삼성전자가 지난해 애플에 내줬던 연간 출하량 1위 타이틀을 다시 탈환할 것으로 보인다.카운터포인트리서치는 글로벌 공급망 불확실성 속에서도 삼성전자의 다변화된 제품 포트폴리오, 자체 부품 조달 능력, 탄탄한 글로벌 유통망 등이 방어벽 역할을 했다고 분석했다.애플의 경우 차기 아이폰18 시리즈의 가격 인상 가능성과 모델별 출시 일정 변화가 수요 변수로 꼽혔다. 애플이 3분기 첫 폴더블 아이폰을 선보일 것으로 보이나, 초기 출하량이 수백만 대 수준에 그쳐 연간 전체 판세를 뒤집기는 어려울 것이라는 관측이다.한편 올해 전체 글로벌 스마트폰 출하량은 부품 원가 상승",
-          "published": "2026-08-24T08:15:25+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -159,10 +99,114 @@
           ]
         },
         {
-          "title": "20년 연구 뚝심이 애플 뚫었다 … 코오롱, 폴더블 필름 납품앞둬 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9iMTVHV3BHeGtqd2Q4eHJ2aUx6UHE0TTNBTUNRcDJtdmhuMm94ZkxwaC14djVqVVhuVm5CQjNlNGZHWS1YVTJzQ1ppVmNfb1ZfMG1CUVRB?oc=5",
-          "summary": "20년 연구 뚝심이 애플 뚫었다 … 코오롱, 폴더블 필름 납품앞둬 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-24T08:45:28+00:00",
+          "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-25/openai-data-center-executive-chris-malone-departs-the-ai-startup",
+          "summary": "An OpenAI executive helping to oversee the AI developer’s data center buildout, Chris Malone, has left the company.",
+          "published": "2026-08-25T19:43:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "DeepSeek leads surge in low-cost Chinese open-weight models on US platform",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3365204/deepseek-leads-surge-low-cost-chinese-open-weight-models-us-platform?utm_source=rss_feed",
+          "summary": "The usage of open-weight AI models from China hit a record high on a popular US web development platform, driven largely by DeepSeek’s latest lightweight model, as business demand for Anthropic’s cutting-edge Fable 5 stalls due to high costs. Open-weight models accounted for 54 per cent of token volume on Vercel’s AI Gateway on Tuesday, surpassing the 46 per cent consumed by proprietary models, according to data on its website. Open models reached a record share of 62 per cent on the platform on",
+          "published": "2026-08-25T10:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Divergent results for Apple suppliers highlight memory price squeeze ahead of new iPhone",
+          "link": "https://www.scmp.com/tech/big-tech/article/3365236/divergent-results-apple-suppliers-highlight-memory-price-squeeze-ahead-new-iphone?utm_source=rss_feed",
+          "summary": "Two major Chinese suppliers to Apple posted divergent first-half results, underscoring how soaring memory prices are squeezing profits even as component makers pin their hopes on upcoming iPhone releases for a second-half rebound. Lens Technology, a Shenzhen- and Hong Kong-listed maker of smartphone glass screens, saw its net income nearly halve to 577 million yuan (US$85.8 million) in the six months through June, as revenue dropped 12.4 per cent to 28.9 billion yuan. The company blamed the...",
+          "published": "2026-08-25T13:30:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "\"AI발 보안리스크 관리 이렇게\"...에임인텔리전스, 내달 7일 컨퍼런스",
+          "link": "https://zdnet.co.kr/view/?no=20260825225001",
+          "summary": "[지디넷코리아]AI보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 내달 7일 삼성금융캠퍼스에서 ‘AI 리스크 컨퍼런스 서울 2026’을 개최한다.삼성화재가 후원하는 이번 컨퍼런스는 100명 이상의 국내외 기업 관계자들이 참여할 예정이다. 금융보안원, 오픈AI, 마이크로소프트(MS) 등 국내외 AI보안 선도 기관과 기업이 연사로 참여한다.25일 회사에 따르면, 이번 컨퍼런스 주제는 ‘다가온 AI 시대, 기업은 어떤 리스크를 어떻게 대비해야 하는가’다. 기존에는 기업의 주요 AI 아젠다가 업무 생산성과 효율을 높이는데 국한됐다면, 다가올 미래에는 AI 운영 중 발생하는 책임과 비용의 관리로 탈바꿈되는 것이 핵심 논지다. 이번 컨퍼런스를 통해 규제의 사각지대나 법적 책임, 재무적 손실 등 각종 AI 리스크를 정의하고, 효과적인 관리를 위한 이정표를 제시할 계획이다.컨퍼런스는 주관사인 에임인텔리전스 기조연설과 후원사인 삼성화재 환영사로 시작한다. AI 리스크를 ",
+          "published": "2026-08-25T13:50:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약",
+          "link": "https://zdnet.co.kr/view/?no=20260825190348",
+          "summary": "[지디넷코리아]AI인프라 전문기업 디에스앤지가 네이버클라우드와 엔비디아의 차세대 고성능 GPU인 B300 기반 AI GPU 서버 공급 계약을 체결했다.이번 계약을 통해 디에스앤지는 네이버클라우드에 엔비디아 B300 GPU 3112장이 탑재되는 GPU 서버 총 389대를 공급한다. 정부가 추진하는 대규모 AI 컴퓨팅 인프라 확충 사업과 연계된 공급으로, 국내 AI 연구개발 및 산업계의 급증하는 고성능 컴퓨팅 수요에 대응하기 위한 대규모 AI 인프라 구축 일환이다.앞서 과학기술정보통신부는 ‘AI 고속도로 구축’ 사업을 통해 총 2조800억 원 규모의 첨단 GPU 인프라를 확보한다고 밝혔다. 네이버클라우드는 삼성SDS, 엘리스그룹과 함께 해당 사업의 최종 수행기관으로 선정돼 엔비디아 B300 GPU 3112장과 차세대 베라루빈(Vera Rubin) GPU 1008장 등 총 4120장 규모의 첨단 GPU 인프라를 구축할 예정이다.디에스앤지는 네이버클라우드의 B300 GPU 서버 최종 공급사",
+          "published": "2026-08-25T10:03:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“배송기사 직고용해라” 맘다니 저격에…“창고 옮긴다?” 반격한 아마존 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12NUR0VmNDV2ZDSmlidnRRM1pBNy1ialZNX3pLc0xSaFpoWUw0aGtyYkotUGJnSm1BYTBlTE9sWG84QXpRaWp1RzJVRDAzOVFtUWc?oc=5",
+          "summary": "“배송기사 직고용해라” 맘다니 저격에…“창고 옮긴다?” 반격한 아마존 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-25T01:51:29+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -182,43 +226,83 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "Strategy Sets Up Reserve That Can Be Used to Buy Bitcoin",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-24/strategy-sets-up-new-reserve-that-can-be-used-to-buy-bitcoin",
-          "summary": "Michael Saylor’s Strategy Inc. is adding a new pool of cash to its balance-sheet toolkit, part of an effort to preserve flexibility as its once-powerful financing model remains under pressure.",
-          "published": "2026-08-24T12:26:14+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "Bitcoin tops US$80,000 for first time since May as US moves boost crypto",
+          "link": "https://www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto?utm_source=rss_feed",
+          "summary": "Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signalling an early recovery from a prolonged market slump. While bitcoin remains nearly 36 per cent below its record high of US$126,000 set in October, the sharp rebound has prompted observers to predict.",
+          "published": "2026-08-25T04:46:28+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "“3년 뒤 빚 폭탄 온다”…헤지펀드 대부의 경고, 금·비트코인 늘리라는데 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IQ0VObWVxakVBSFBLTWNJSlpxTVhObzlsQ28xY21lTGFDYWI2TU1VZGRENU9mVWdIalVVcFhXemppbGU1dnp1dUhVNVZ1VjFtOFE?oc=5",
-          "summary": "“3년 뒤 빚 폭탄 온다”…헤지펀드 대부의 경고, 금·비트코인 늘리라는데 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-24T12:22:55+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Binance Hires Two Senior Compliance Executives From Crypto.com",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-25/binance-hires-two-senior-compliance-executives-from-crypto-com",
+          "summary": "Binance Holdings Ltd. has hired two senior compliance executives from Crypto.com as the exchange bolsters ranks in that department after a number of staff departures and ongoing regulatory scrutiny.",
+          "published": "2026-08-25T18:56:09+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
           "score": 9,
           "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"비트코인, 80,000달러 돌파 후 조정 양상 지켜봐야\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMFFfSlFKbkZLQk1SdDUwRERfc1hEUFJhbFVScXd5UVRWNWlqakNnU3JmOVR5U1FWWmFDd0VRMGdsdXJnTGRZR0dTdGlLRVc2bGdVOVpIWFdzUjVqOTVuZkFSREd3QVVtcE1mNVhxUlg?oc=5",
+          "summary": "\"비트코인, 80,000달러 돌파 후 조정 양상 지켜봐야\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-25T05:27:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "비트마인, 이더리움 7월 이후 최대 순매수 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wckVtTnZkdlFGa1lzMmlUSU84ZkhWNkxPZDY0NHJuUlZHTEUzMmZqRUlOaURUdGdfTXRPM2trSVhfaFJXREJ3ZTY2T3hfSHhnV1NWVFRMdmRkTFBmT0Zuc1JrOXZxWThmZW1DU0Z3MzQ?oc=5",
+          "summary": "비트마인, 이더리움 7월 이후 최대 순매수 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-25T00:17:31+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -228,85 +312,23 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "[Up&Down] 카카오엔터 IPO 불발 가능성에 매각설까지 솔솔 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VQWdpemprS05MWkxzT1VseWljSzJMVUc1cDdYdnFPZ0JVMnp2UDljWWZwMm50TU0yN3IwYmFGWDUxYWlkNzR0UU1hNHBoejl6dVBfU2JR?oc=5",
-          "summary": "[Up&amp;Down] 카카오엔터 IPO 불발 가능성에 매각설까지 솔솔 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-24T05:47:58+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "앤트로픽, 클로드 챗봇·코딩 서비스 장애…정상화 시점 '미정'",
-          "link": "https://zdnet.co.kr/view/?no=20260824162913",
-          "summary": "[지디넷코리아]앤트로픽 인공지능(AI) 서비스 '클로드'가 여러 모델과 주요 제품에서 동시에 장애를 일으킨 정황이 포착됐다. 일반 이용자용 챗봇부터 개발자용 코딩 서비스까지 영향 받으면서 클로드 서비스 전반의 요청 처리에 차질이 생겼다. 24일 앤트로픽 공식 서비스 상태 페이지에 따르면 이날 한국시간 오후 2시6분부터 클로드 미토스 5와 페이블 5·오푸스 5·오푸스 4.8에서 요청 오류가 증가하는 현상이 발생했다.앤트로픽은 장애 발생 21분 뒤인 오후 2시27분 원인을 파악하고 수정 작업에 들어갔다. 구체적인 장애 원인과 정상화 예상 시점은 미정이라고 밝혔다. 오후 3시42분에도 복구 작업은 계속된 것으로 확인됐다. 앤트로픽은 \"여러 모델에 영향을 미치는 오류를 해결하고 있다\"며 \"추가 상황을 안내할 예정\"이라고 설명했다. 이번 장애로 일반 이용자가 접속하는 클로드닷에이아이와 개발자용 응용프로그램인터페이스(API)가 부분 장애 상태를 겪고 있는 것으로 전해졌다. AI 코딩 서비스 '",
-          "published": "2026-08-24T08:09:49+00:00",
+          "title": "카카오 '단골가게', 강원 12곳 선정…관련 서밋도 개최",
+          "link": "https://zdnet.co.kr/view/?no=20260825093837",
+          "summary": "[지디넷코리아]카카오는 '단골가게 강원 F&amp;B편'에 참여할 강원 지역 가게 12곳을 최종 선정하고, 카카오 판교 아지트에서 '단골가게 서밋'을 열었다고 25일 밝혔다.'단골가게'는 카카오의 상생 프로그램 '프로젝트 단골'의 일환으로, 올해 강원 지역 F&amp;B(식음료) 소상공인을 대상으로 처음 선보였다. 지역 가게들이 전국구 브랜드로 발돋움할 수 있도록 브랜드 경쟁력을 강화하고, 온·오프라인 판로 확대를 지원하는 것이 목적이다.'단골가게 강원 F&amp;B편'은 지난달 8일부터 28일까지 참여 가게를 공개 모집했으며, 총 312곳이 지원해 26대 1의 경쟁률을 기록했다. 카카오는 서류 심사와 함께 강원 지역의 매장을 직접 찾아 ▲지역성 ▲브랜드 스토리 ▲성장 가능성 등을 종합적으로 평가하고 최종 12곳을 선정했다.서밋에는 최종 선정된 12곳의 사장님을 비롯해 ▲카카오 ▲강원특별자치도 ▲소상공인시장진흥공단 ▲(사)함께만드는세상 ▲카카오 로컬파트너스 관계자 등이 참석했다. 행",
+          "published": "2026-08-25T09:08:07+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"카카오톡 없는\" 카카오 탄생 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8ySWlWRVFkUFRvY3JqdWloNUdvb1lWNmk5dkExY1ctVmRBU29TcUwxb0lITVZDS3hWbGZPOGduVkt6SlF6WmxBM0JIS3F0VUxKdDhOLW0xbVY5QVJUSjhza0VDa0ZxbHV1WVh0Q2ZpRW4?oc=5",
-          "summary": "\"카카오톡 없는\" 카카오 탄생 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-23T23:43:09+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "한진, 네이버 통합반품센터 수거 전담…반품 물류 일원화",
-          "link": "https://zdnet.co.kr/view/?no=20260824153127",
-          "summary": "[지디넷코리아]한진이 네이버 통합반품센터로 들어오는 상품의 반품 수거를 전담한다. 기존 배송사별로 나뉘어 있던 반품 물류를 한진으로 일원화해 소비자 편의와 판매자 물류 효율을 높인다는 계획이다.한진은 지난 21일부터 네이버 통합반품센터로 입고되는 상품의 반품 수거 서비스를 전담하고 있다고 24일 밝혔다.이에 따라 상품을 처음 배송한 택배사가 어디인지와 관계없이 통합반품센터로 들어오는 반품 상품은 한진이 수거한다.기존에는 각 택배사가 자신이 배송한 상품을 개별적으로 회수했다. 이 때문에 배송사에 따라 반품 회수 방식이나 절차가 달라질 수 있었다. 한진은 반품 수거를 단일 운영 체계로 전환해 서비스 품질을 표준화하고 소비자 혼선을 줄일 방침이다.반품 처리 속도를 높여 판매자의 재고 운영 효율도 개선한다. 한진은 전국 단위 택배 네트워크를 활용해 상품 회수부터 통합반품센터 입고까지 과정을 표준화하고 물류 동선을 최적화할 계획이다.이를 통해 반품 상품이 판매자 재고로 다시 확보되는 시간을 ",
-          "published": "2026-08-24T13:05:35+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -316,8 +338,51 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 2,
+      "articles": [
+        {
+          "title": "AI 영상 플랫폼 힉스필드, 5600억 유치… 미래에셋·NTT도코모가 아시아 축 맡는다",
+          "link": "https://zdnet.co.kr/view/?no=20260825222327",
+          "summary": "[지디넷코리아]힉스필드(Higgsfield)가 약 7조 5000억 원의 기업가치를 인정받으며 4억 달러, 약 5600억 원 규모의 시리즈 B 투자를 유치했다. 전문 크리에이터와 브랜드, 스튜디오를 위한 AI 영상·이미지 제작 플랫폼을 운영하는 힉스필드가 8월 24일(현지시간) 이같이 발표했다.이번 라운드에는 미래에셋캐피탈(Mirae Asset Capital)과 NTT 도코모 벤처스(NTT DOCOMO Ventures)가 전략적 투자자로 참여했다. 각각 국내 대표 금융그룹 계열 투자사와 일본 NTT 그룹의 벤처 투자 부문으로, 힉스필드의 아시아·태평양(APAC) 시장 확장을 뒷받침하는 축이 됐다. 투자는 DST 글로벌(DST Global)이 주도했으며 트라이브 캐피털(Tribe Capital), 골드만삭스 얼터너티브의 그로스 에쿼티, 인텔 캐피털(Intel Capital) 등이 신규 투자자로 합류했다.힉스필드에 따르면 한국과 일본은 현재 힉스필드의 글로벌 사용자 기준 상위 5개 시장에",
+          "published": "2026-08-25T13:23:27+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "특징주, 미래에셋생명-생명보험 테마 상승세에 12.45% ↑ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxODJZalBqbXBBNGJ6dWdNMVJRLUI2ejFTaUpCZGtaSmE4X2ZobzRoODJTcG15NnAyV1VNQ09FcWNRZ0s1NTJVUnpYY0s4ZXA0cFE?oc=5",
+          "summary": "특징주, 미래에셋생명-생명보험 테마 상승세에 12.45% ↑ &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-25T04:45:11+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
