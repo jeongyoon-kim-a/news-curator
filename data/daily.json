@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-25T21:31:27.755053+00:00",
-  "total_articles": 17,
+  "generated_at": "2026-08-27T00:33:27.007276+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1OVFBieFNHakVOal90RVpENGVSRzd3V0lvVmVPTzlCOFNfRW9lS0cydXk5QktWTE5KOG9oNHZRTDluZG44MnRxWlN1dV93WWV1NU9ISUpNVHBfbWtWaFVDQjBLNzJPdVlfYmc?oc=5",
-          "summary": "머스크 \"그록, 앤트로픽에 뒤처져\"...'83조원 인수' 커서에 코딩 격차 극복 당부 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-25T09:18:02+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "Musk’s X Suit Against New York Over Hate-Speech Data Dismissed",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-26/musk-s-x-suit-against-new-york-over-hate-speech-data-dismissed",
+          "summary": "A judge dismissed a suit by Elon Musk’s X Corp. that sought to block a New York law requiring social media companies to disclose how they deal with hate speech, extremism and disinformation, ruling that “the First Amendment poses no obstacle” to the law.",
+          "published": "2026-08-26T23:02:15+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -29,12 +29,12 @@
           ]
         },
         {
-          "title": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mYVJROUxjVUN6X3kzRUp4UjE4OVczdTBhdVVJbVBud1kweE10SGUzZnhYMWxLcU1OR1ljXzFkMVJHSUFGdWhaTWVxc3FUdHRLRThISHZPeHNzRVpMbzNqalhhRGZ4NmlPQTdxQzRMX18?oc=5",
-          "summary": "테슬라, 로보택시 사이버캡 양산형 모델 9월 3일 공개 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-25T01:58:17+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "\"FSD 켜고 숙면\"… 테슬라 운전자들 '위험천만한 낮잠' 논란 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWV90RWVydktYRWlGcFFuTU5hTlZUT3hkSmx2Xzl3bnNSbE00cFJWRXIwMWJDRFAwYmFMOUpBUnNWM0tsLWNQRWlFTWhUNm9sVkw0RFhraE5vUURuRDRTX2E3UWxhekQwMHc?oc=5",
+          "summary": "\"FSD 켜고 숙면\"… 테슬라 운전자들 '위험천만한 낮잠' 논란 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-26T07:46:49+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -55,20 +55,20 @@
       "count": 8,
       "articles": [
         {
-          "title": "US Stocks Finish Higher as Investors Prepare for Nvidia Earnings",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-25/tech-rally-helps-lift-us-futures-ahead-of-nvidia-earnings",
-          "summary": "US stocks advanced Tuesday as technology shares rallied and investors look ahead to Nvidia Corp. earnings on Wednesday.",
-          "published": "2026-08-25T11:58:45+00:00",
+          "title": "Salesforce Gains on Growth Outlook, Anthropic Partnership",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-26/salesforce-projects-strong-growth-in-sales-and-bookings",
+          "summary": "Salesforce Inc. jumped in extended trading after the software company gave an outlook for strong revenue expansion and deepened its partnership with Anthropic PBC, reassuring investors that it can compete successfully in the AI era.",
+          "published": "2026-08-26T20:07:18+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -77,20 +77,108 @@
           ]
         },
         {
-          "title": "AI Cloud Firm Lambda in Talks for $3 Billion Pre-IPO Round",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-24/ai-cloud-provider-lambda-in-talks-for-3-billion-pre-ipo-round",
-          "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., is in talks to raise as much as $3 billion in a round that could tee it up to go public next year, according to people familiar with the efforts.",
-          "published": "2026-08-24T23:36:55+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "엔비디아 실적 호조 속 \"차기 연도 매출 70%↑\"…시간외 주가 급등(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMU5lVE1JR3lDT3VMUDBuQXdOVXpBYWFTYW1WOFZyUWt4bUwzRm5nc1hEektHWUJVVGxpYnhURy1HX2hIQS1OejdXQXhVc3FYTTZvY2Jjb0JSM3VYenBqbUZBNHhKSTRzbktNVkF1VHY?oc=5",
+          "summary": "엔비디아 실적 호조 속 \"차기 연도 매출 70%↑\"…시간외 주가 급등(종합) &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-26T21:18:51+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대 매출 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSnZnTHBQMFJEcERCcTljcE1Fa1BadHI4WUpyYWt6VjFyRl94Wm5SZjIwMElfUlBTQVBkRUxFblhpWGE3cVBYUUJhOWNzZw?oc=5",
+          "summary": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대 매출 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-26T22:09:18+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "美 AI 관련주, 엔비디아 실적 발표 후 일제히 상승 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSDh3blBvQzhpMHp0MkNzUV9LOE56VW9YcnV0ci0wNlV5cDY2WDB4bkxOSVdkQ0tVQTVpcmdBbDRCQVp3aDgtNjBCazhiaDh3UnNJVUh2WDlqd19XT1JQVDl4YS1IUmpEMktZWXktUXo?oc=5",
+          "summary": "美 AI 관련주, 엔비디아 실적 발표 후 일제히 상승 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-26T23:21:05+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "다가온 엔비디아 실적발표 우린 '이렇게' 대응하겠습니다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaGdwejZqOXBaYld2N1Z5cVhFTThwNFZBMnRIX29EWllreEliTzVUdjBXZmNKN21SMi1SU2o0VEkxWnVlaUFqN3ZjdzZ3M2M5RVk1TXBrZ1VkMmZ2dFAzeXlmclpuSlBveGQ5S1Y3N1HSAXRBVV95cUxPWWZNbk5NNUpqR2pFdG5iakd5OGdVMEdoSGRtcHl0ZkI1bktuSXh3U0laQUNyZHVIMC1vMGRzWUhlUm0xR01rRnBtN0NreWtYazNCaXRSYWdURFNyajRkY0lXd0ttdDlYV21NMENrd3cyb2lrSg?oc=5",
+          "summary": "다가온 엔비디아 실적발표 우린 '이렇게' 대응하겠습니다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-26T23:51:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "\"LG디스플레이, 상반기 아이폰 OLED 3150만대 출하...21.6% 상승\"",
+          "link": "https://zdnet.co.kr/view/?no=20260826235456",
+          "summary": "[지디넷코리아]LG디스플레이가 올해 상반기 출하한 애플 아이폰 유기발광다이오드(OLED) 물량이 3150만대였다고 시장조사업체 시그마인텔이 최근 밝혔다. 전년 동기(2590만대)보다 21.6% 많다.시그마인텔은 \"지난해 상반기 LG디스플레이의 아이폰 OLED 출하량은 전년비 19.9% 늘어난 2590만대였다\"며 \"올해 상반기에는 이보다 21.6% 늘었다\"고 설명했다. LG디스플레이의 스마트폰 OLED 고객사는 애플 1곳이다. 애플 아이폰은 플렉시블 OLED를 사용한다. 상반기 삼성디스플레이의 스마트폰 OLED 출하량은 1억 7300만대였다. 지난해 상반기 1억 7200만대와 비슷했다. 삼성디스플레이는 스마트폰 OLED를 애플과 삼성전자, 오포, 비보, 샤오미, 구글 등에 납품한다.삼성디스플레이가 양산하는 스마트폰 OLED는 애플 아이폰과 삼성전자 갤럭시S 시리즈 등 플래그십 제품에 적용하는 플렉시블 OLED, 그리고 삼성전자 중저가폰과 중국 업체에 주로 납품하는 리지드 OLED로 나",
+          "published": "2026-08-26T15:13:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -99,10 +187,32 @@
           ]
         },
         {
-          "title": "OpenAI Data Center Executive Chris Malone Departs the AI Startup",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-25/openai-data-center-executive-chris-malone-departs-the-ai-startup",
-          "summary": "An OpenAI executive helping to oversee the AI developer’s data center buildout, Chris Malone, has left the company.",
-          "published": "2026-08-25T19:43:42+00:00",
+          "title": "메타, 세기의 소송 합의...청소년 SNS 하루 2시간 제한 “소셜미디어 설계 바뀐다” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05QldudkUyQVozYmRPeGRaZU9TeURmNmJLbGhlbnBOX2Z6OEZoaTI4Vm9Jd1lJTW9IWmFYNVljbmR5a1Z1NERlWTNoWDlmQQ?oc=5",
+          "summary": "메타, 세기의 소송 합의...청소년 SNS 하루 2시간 제한 “소셜미디어 설계 바뀐다” &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-26T19:45:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Nvidia Steps Back Into China Market With First H200 Chip Sales",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-steps-back-into-china-market-with-first-h200-chip-sales",
+          "summary": "Nvidia Corp. said it sold a small number of its H200 chips to customers in China during the most recent quarter, though shipments of the artificial intelligence processors to the world’s second-largest economy fell short of the total permitted with the blessing of US President Donald Trump.",
+          "published": "2026-08-26T23:04:10+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -113,110 +223,6 @@
             "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "DeepSeek leads surge in low-cost Chinese open-weight models on US platform",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3365204/deepseek-leads-surge-low-cost-chinese-open-weight-models-us-platform?utm_source=rss_feed",
-          "summary": "The usage of open-weight AI models from China hit a record high on a popular US web development platform, driven largely by DeepSeek’s latest lightweight model, as business demand for Anthropic’s cutting-edge Fable 5 stalls due to high costs. Open-weight models accounted for 54 per cent of token volume on Vercel’s AI Gateway on Tuesday, surpassing the 46 per cent consumed by proprietary models, according to data on its website. Open models reached a record share of 62 per cent on the platform on",
-          "published": "2026-08-25T10:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Divergent results for Apple suppliers highlight memory price squeeze ahead of new iPhone",
-          "link": "https://www.scmp.com/tech/big-tech/article/3365236/divergent-results-apple-suppliers-highlight-memory-price-squeeze-ahead-new-iphone?utm_source=rss_feed",
-          "summary": "Two major Chinese suppliers to Apple posted divergent first-half results, underscoring how soaring memory prices are squeezing profits even as component makers pin their hopes on upcoming iPhone releases for a second-half rebound. Lens Technology, a Shenzhen- and Hong Kong-listed maker of smartphone glass screens, saw its net income nearly halve to 577 million yuan (US$85.8 million) in the six months through June, as revenue dropped 12.4 per cent to 28.9 billion yuan. The company blamed the...",
-          "published": "2026-08-25T13:30:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "\"AI발 보안리스크 관리 이렇게\"...에임인텔리전스, 내달 7일 컨퍼런스",
-          "link": "https://zdnet.co.kr/view/?no=20260825225001",
-          "summary": "[지디넷코리아]AI보안 전문기업 에임인텔리전스(AIM Intelligence, 대표 유상윤)가 내달 7일 삼성금융캠퍼스에서 ‘AI 리스크 컨퍼런스 서울 2026’을 개최한다.삼성화재가 후원하는 이번 컨퍼런스는 100명 이상의 국내외 기업 관계자들이 참여할 예정이다. 금융보안원, 오픈AI, 마이크로소프트(MS) 등 국내외 AI보안 선도 기관과 기업이 연사로 참여한다.25일 회사에 따르면, 이번 컨퍼런스 주제는 ‘다가온 AI 시대, 기업은 어떤 리스크를 어떻게 대비해야 하는가’다. 기존에는 기업의 주요 AI 아젠다가 업무 생산성과 효율을 높이는데 국한됐다면, 다가올 미래에는 AI 운영 중 발생하는 책임과 비용의 관리로 탈바꿈되는 것이 핵심 논지다. 이번 컨퍼런스를 통해 규제의 사각지대나 법적 책임, 재무적 손실 등 각종 AI 리스크를 정의하고, 효과적인 관리를 위한 이정표를 제시할 계획이다.컨퍼런스는 주관사인 에임인텔리전스 기조연설과 후원사인 삼성화재 환영사로 시작한다. AI 리스크를 ",
-          "published": "2026-08-25T13:50:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "디에스앤지, 네이버클라우드에 엔비디아 B300 GPU서버 389대 공급 계약",
-          "link": "https://zdnet.co.kr/view/?no=20260825190348",
-          "summary": "[지디넷코리아]AI인프라 전문기업 디에스앤지가 네이버클라우드와 엔비디아의 차세대 고성능 GPU인 B300 기반 AI GPU 서버 공급 계약을 체결했다.이번 계약을 통해 디에스앤지는 네이버클라우드에 엔비디아 B300 GPU 3112장이 탑재되는 GPU 서버 총 389대를 공급한다. 정부가 추진하는 대규모 AI 컴퓨팅 인프라 확충 사업과 연계된 공급으로, 국내 AI 연구개발 및 산업계의 급증하는 고성능 컴퓨팅 수요에 대응하기 위한 대규모 AI 인프라 구축 일환이다.앞서 과학기술정보통신부는 ‘AI 고속도로 구축’ 사업을 통해 총 2조800억 원 규모의 첨단 GPU 인프라를 확보한다고 밝혔다. 네이버클라우드는 삼성SDS, 엘리스그룹과 함께 해당 사업의 최종 수행기관으로 선정돼 엔비디아 B300 GPU 3112장과 차세대 베라루빈(Vera Rubin) GPU 1008장 등 총 4120장 규모의 첨단 GPU 인프라를 구축할 예정이다.디에스앤지는 네이버클라우드의 B300 GPU 서버 최종 공급사",
-          "published": "2026-08-25T10:03:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“배송기사 직고용해라” 맘다니 저격에…“창고 옮긴다?” 반격한 아마존 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12NUR0VmNDV2ZDSmlidnRRM1pBNy1ialZNX3pLc0xSaFpoWUw0aGtyYkotUGJnSm1BYTBlTE9sWG84QXpRaWp1RzJVRDAzOVFtUWc?oc=5",
-          "summary": "“배송기사 직고용해라” 맘다니 저격에…“창고 옮긴다?” 반격한 아마존 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-25T01:51:29+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -226,81 +232,21 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "Bitcoin tops US$80,000 for first time since May as US moves boost crypto",
-          "link": "https://www.scmp.com/tech/blockchain/article/3365147/bitcoin-tops-us80000-first-time-may-us-moves-boost-crypto?utm_source=rss_feed",
-          "summary": "Bitcoin has broken above US$80,000 for the first time in three months, riding a broader rally in alternative assets triggered by Washington’s efforts to tame US bond yields. The world’s largest cryptocurrency traded above US$80,900 on Tuesday, jumping roughly 25 per cent over the past week and signalling an early recovery from a prolonged market slump. While bitcoin remains nearly 36 per cent below its record high of US$126,000 set in October, the sharp rebound has prompted observers to predict.",
-          "published": "2026-08-25T04:46:28+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Binance Hires Two Senior Compliance Executives From Crypto.com",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-25/binance-hires-two-senior-compliance-executives-from-crypto-com",
-          "summary": "Binance Holdings Ltd. has hired two senior compliance executives from Crypto.com as the exchange bolsters ranks in that department after a number of staff departures and ongoing regulatory scrutiny.",
-          "published": "2026-08-25T18:56:09+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"비트코인, 80,000달러 돌파 후 조정 양상 지켜봐야\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMFFfSlFKbkZLQk1SdDUwRERfc1hEUFJhbFVScXd5UVRWNWlqakNnU3JmOVR5U1FWWmFDd0VRMGdsdXJnTGRZR0dTdGlLRVc2bGdVOVpIWFdzUjVqOTVuZkFSREd3QVVtcE1mNVhxUlg?oc=5",
-          "summary": "\"비트코인, 80,000달러 돌파 후 조정 양상 지켜봐야\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-25T05:27:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR3FLQ21TaXZ3YmtESDdFVElTTEZ5aGJNODlMdFN3WjVMazFOUHZEZnhKWVpQcVV0X1JCRGFHZ2F4dzBkRHJ1OHhtOUFid1lmcUE?oc=5",
+          "summary": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-26T00:34:37+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "비트마인, 이더리움 7월 이후 최대 순매수 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wckVtTnZkdlFGa1lzMmlUSU84ZkhWNkxPZDY0NHJuUlZHTEUzMmZqRUlOaURUdGdfTXRPM2trSVhfaFJXREJ3ZTY2T3hfSHhnV1NWVFRMdmRkTFBmT0Zuc1JrOXZxWThmZW1DU0Z3MzQ?oc=5",
-          "summary": "비트마인, 이더리움 7월 이후 최대 순매수 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-25T00:17:31+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -312,13 +258,33 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "카카오 '단골가게', 강원 12곳 선정…관련 서밋도 개최",
-          "link": "https://zdnet.co.kr/view/?no=20260825093837",
-          "summary": "[지디넷코리아]카카오는 '단골가게 강원 F&amp;B편'에 참여할 강원 지역 가게 12곳을 최종 선정하고, 카카오 판교 아지트에서 '단골가게 서밋'을 열었다고 25일 밝혔다.'단골가게'는 카카오의 상생 프로그램 '프로젝트 단골'의 일환으로, 올해 강원 지역 F&amp;B(식음료) 소상공인을 대상으로 처음 선보였다. 지역 가게들이 전국구 브랜드로 발돋움할 수 있도록 브랜드 경쟁력을 강화하고, 온·오프라인 판로 확대를 지원하는 것이 목적이다.'단골가게 강원 F&amp;B편'은 지난달 8일부터 28일까지 참여 가게를 공개 모집했으며, 총 312곳이 지원해 26대 1의 경쟁률을 기록했다. 카카오는 서류 심사와 함께 강원 지역의 매장을 직접 찾아 ▲지역성 ▲브랜드 스토리 ▲성장 가능성 등을 종합적으로 평가하고 최종 12곳을 선정했다.서밋에는 최종 선정된 12곳의 사장님을 비롯해 ▲카카오 ▲강원특별자치도 ▲소상공인시장진흥공단 ▲(사)함께만드는세상 ▲카카오 로컬파트너스 관계자 등이 참석했다. 행",
-          "published": "2026-08-25T09:08:07+00:00",
+          "title": "금감원, 전산장애 잦은 토스증권 '현장 점검' - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SREZrRGwwRGJ1bF91UGh1Qnd2SFJaZ3M5S0ZGLVpSZkhRTkFzbVdKU2VFMjY4d2hYTjh4UDkzRkpJU2M1eTBGV01rSnZJN1plbDAtbnRoZE1kRVJLZkVrR0ZYbWlqRnpsNGl4eXdhVXQ?oc=5",
+          "summary": "금감원, 전산장애 잦은 토스증권 '현장 점검' &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-26T23:24:13+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "컴투스홀딩스 '스타 세일러', 네이버웹툰 '아카데미에서 살아남기'와 협업",
+          "link": "https://zdnet.co.kr/view/?no=20260826173340",
+          "summary": "[지디넷코리아]컴투스홀딩스가 수집형 RPG '스타 세일러'에 네이버웹툰의 인기작 '아카데미에서 살아남기'와의 컬래버레이션 콘텐츠를 선보이며 즐길 거리 확대에 나섰다.컴투스홀딩스(대표 정철호)는 웰메이드 수집형 RPG ‘스타 세일러’에서 네이버웹툰 인기작 ‘아카데미에서 살아남기’와 협업을 진행한다고 26일 밝혔다. 이번 협업을 통해 웹툰 속 인기 캐릭터 ‘루시 메이릴’이 번개 마법을 구사하는 3성 동료로 합류하며, 전용 SSR 메모리피스 ‘삶의 이유’와 천재 정령사 ‘예니카 페일로버’ 모티브 스킨, 신규 스토리 이벤트가 함께 공개됐다.신규 장비 시스템인 ‘아티팩트’도 도입됐다. 신규 ‘유적 시스템’을 통해 얻을 수 있는 아티팩트는 능력치를 올리는 공명과 깎는 반동이 동시 적용돼 전략적인 덱 구성을 돕는다. 컴투스홀딩스는 협업을 기념해 출석 이벤트를 진행하며, 접속만으로 신규 동료 루시를 확정 영입할 수 있고 금빛·은빛 나침반 등 다양한 성장 재화도 지급한다.",
+          "published": "2026-08-26T08:33:40+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -338,51 +304,8 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 2,
-      "articles": [
-        {
-          "title": "AI 영상 플랫폼 힉스필드, 5600억 유치… 미래에셋·NTT도코모가 아시아 축 맡는다",
-          "link": "https://zdnet.co.kr/view/?no=20260825222327",
-          "summary": "[지디넷코리아]힉스필드(Higgsfield)가 약 7조 5000억 원의 기업가치를 인정받으며 4억 달러, 약 5600억 원 규모의 시리즈 B 투자를 유치했다. 전문 크리에이터와 브랜드, 스튜디오를 위한 AI 영상·이미지 제작 플랫폼을 운영하는 힉스필드가 8월 24일(현지시간) 이같이 발표했다.이번 라운드에는 미래에셋캐피탈(Mirae Asset Capital)과 NTT 도코모 벤처스(NTT DOCOMO Ventures)가 전략적 투자자로 참여했다. 각각 국내 대표 금융그룹 계열 투자사와 일본 NTT 그룹의 벤처 투자 부문으로, 힉스필드의 아시아·태평양(APAC) 시장 확장을 뒷받침하는 축이 됐다. 투자는 DST 글로벌(DST Global)이 주도했으며 트라이브 캐피털(Tribe Capital), 골드만삭스 얼터너티브의 그로스 에쿼티, 인텔 캐피털(Intel Capital) 등이 신규 투자자로 합류했다.힉스필드에 따르면 한국과 일본은 현재 힉스필드의 글로벌 사용자 기준 상위 5개 시장에",
-          "published": "2026-08-25T13:23:27+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "특징주, 미래에셋생명-생명보험 테마 상승세에 12.45% ↑ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxODJZalBqbXBBNGJ6dWdNMVJRLUI2ejFTaUpCZGtaSmE4X2ZobzRoODJTcG15NnAyV1VNQ09FcWNRZ0s1NTJVUnpYY0s4ZXA0cFE?oc=5",
-          "summary": "특징주, 미래에셋생명-생명보험 테마 상승세에 12.45% ↑ &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-25T04:45:11+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
