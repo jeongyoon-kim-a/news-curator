@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-08-27T00:33:27.007276+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-08-28T05:09:19.008037+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "Musk’s X Suit Against New York Over Hate-Speech Data Dismissed",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-26/musk-s-x-suit-against-new-york-over-hate-speech-data-dismissed",
-          "summary": "A judge dismissed a suit by Elon Musk’s X Corp. that sought to block a New York law requiring social media companies to disclose how they deal with hate speech, extremism and disinformation, ruling that “the First Amendment poses no obstacle” to the law.",
-          "published": "2026-08-26T23:02:15+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "China’s commercial space sector expands global footprint with Thailand deal",
+          "link": "https://www.scmp.com/tech/article/3365534/chinas-commercial-space-sector-expands-global-footprint-thailand-deal?utm_source=rss_feed",
+          "summary": "Beijing-based GalaxySpace’s deployment this week of what it called China’s first turnkey satellite export to Southeast Asia underscores how the country is boosting its space influence overseas amid competition with Elon Musk’s SpaceX. GalaxySpace said it launched the Lingzhi-09 Thailand CubeSat aboard a Long March-6C rocket – alongside six other satellites – from the Taiyuan Satellite Launch Centre in Shanxi province on Tuesday. Developed for Thailand’s Geo-Informatics and Space Technology...",
+          "published": "2026-08-28T05:00:12+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
+            "keyword": 8,
+            "source": 2,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -29,24 +29,46 @@
           ]
         },
         {
-          "title": "\"FSD 켜고 숙면\"… 테슬라 운전자들 '위험천만한 낮잠' 논란 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hWV90RWVydktYRWlGcFFuTU5hTlZUT3hkSmx2Xzl3bnNSbE00cFJWRXIwMWJDRFAwYmFMOUpBUnNWM0tsLWNQRWlFTWhUNm9sVkw0RFhraE5vUURuRDRTX2E3UWxhekQwMHc?oc=5",
-          "summary": "\"FSD 켜고 숙면\"… 테슬라 운전자들 '위험천만한 낮잠' 논란 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-26T07:46:49+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "China thinks big on brain-computer interfaces after world-first surgery",
+          "link": "https://www.scmp.com/plus/tech/big-tech/article/3365525/china-thinks-big-brain-computer-interfaces-after-world-first-surgery?utm_source=rss_feed",
+          "summary": "Chinese surgeons last month completed the world’s first commercial surgery to implant an invasive brain-computer interface (BCI) device in a patient with a spinal cord injury, a milestone in the neurotechnology development race with US companies like Elon Musk’s Neuralink. This month a Chinese company, state-owned PICC Property and Casualty, launched the world’s first commercial insurance policy covering BCI implantation surgery. September will see the first undergraduates in China to major in..",
+          "published": "2026-08-28T03:17:36+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "모건스탠리 \"스페이스X, 상장 이후 독특한 매수 기회\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbGtpeDhsT0VWWTB1OUpZaHI4b0dUMEtueTBmV1lJbWJPOEh3VHhzZGl5WURSb3JHckhlUzhmU3VQZFplN3doSjZMcy1rby05NlpPenBuVVFacGNiYlhreTRrWkcwUm5NeDJudkFLRkk?oc=5",
+          "summary": "모건스탠리 \"스페이스X, 상장 이후 독특한 매수 기회\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-27T22:41:43+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
@@ -55,151 +77,41 @@
       "count": 8,
       "articles": [
         {
-          "title": "Salesforce Gains on Growth Outlook, Anthropic Partnership",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-26/salesforce-projects-strong-growth-in-sales-and-bookings",
-          "summary": "Salesforce Inc. jumped in extended trading after the software company gave an outlook for strong revenue expansion and deepened its partnership with Anthropic PBC, reassuring investors that it can compete successfully in the AI era.",
-          "published": "2026-08-26T20:07:18+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "엔비디아 실적 호조 속 \"차기 연도 매출 70%↑\"…시간외 주가 급등(종합) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fMU5lVE1JR3lDT3VMUDBuQXdOVXpBYWFTYW1WOFZyUWt4bUwzRm5nc1hEektHWUJVVGxpYnhURy1HX2hIQS1OejdXQXhVc3FYTTZvY2Jjb0JSM3VYenBqbUZBNHhKSTRzbktNVkF1VHY?oc=5",
-          "summary": "엔비디아 실적 호조 속 \"차기 연도 매출 70%↑\"…시간외 주가 급등(종합) &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-26T21:18:51+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대 매출 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5pSnZnTHBQMFJEcERCcTljcE1Fa1BadHI4WUpyYWt6VjFyRl94Wm5SZjIwMElfUlBTQVBkRUxFblhpWGE3cVBYUUJhOWNzZw?oc=5",
-          "summary": "엔비디아 “AI 붐 2028년까지 간다”…13분기 연속 최대 매출 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-26T22:09:18+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "美 AI 관련주, 엔비디아 실적 발표 후 일제히 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkSDh3blBvQzhpMHp0MkNzUV9LOE56VW9YcnV0ci0wNlV5cDY2WDB4bkxOSVdkQ0tVQTVpcmdBbDRCQVp3aDgtNjBCazhiaDh3UnNJVUh2WDlqd19XT1JQVDl4YS1IUmpEMktZWXktUXo?oc=5",
-          "summary": "美 AI 관련주, 엔비디아 실적 발표 후 일제히 상승 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-26T23:21:05+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "다가온 엔비디아 실적발표 우린 '이렇게' 대응하겠습니다 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaGdwejZqOXBaYld2N1Z5cVhFTThwNFZBMnRIX29EWllreEliTzVUdjBXZmNKN21SMi1SU2o0VEkxWnVlaUFqN3ZjdzZ3M2M5RVk1TXBrZ1VkMmZ2dFAzeXlmclpuSlBveGQ5S1Y3N1HSAXRBVV95cUxPWWZNbk5NNUpqR2pFdG5iakd5OGdVMEdoSGRtcHl0ZkI1bktuSXh3U0laQUNyZHVIMC1vMGRzWUhlUm0xR01rRnBtN0NreWtYazNCaXRSYWdURFNyajRkY0lXd0ttdDlYV21NMENrd3cyb2lrSg?oc=5",
-          "summary": "다가온 엔비디아 실적발표 우린 '이렇게' 대응하겠습니다 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-26T23:51:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "\"LG디스플레이, 상반기 아이폰 OLED 3150만대 출하...21.6% 상승\"",
-          "link": "https://zdnet.co.kr/view/?no=20260826235456",
-          "summary": "[지디넷코리아]LG디스플레이가 올해 상반기 출하한 애플 아이폰 유기발광다이오드(OLED) 물량이 3150만대였다고 시장조사업체 시그마인텔이 최근 밝혔다. 전년 동기(2590만대)보다 21.6% 많다.시그마인텔은 \"지난해 상반기 LG디스플레이의 아이폰 OLED 출하량은 전년비 19.9% 늘어난 2590만대였다\"며 \"올해 상반기에는 이보다 21.6% 늘었다\"고 설명했다. LG디스플레이의 스마트폰 OLED 고객사는 애플 1곳이다. 애플 아이폰은 플렉시블 OLED를 사용한다. 상반기 삼성디스플레이의 스마트폰 OLED 출하량은 1억 7300만대였다. 지난해 상반기 1억 7200만대와 비슷했다. 삼성디스플레이는 스마트폰 OLED를 애플과 삼성전자, 오포, 비보, 샤오미, 구글 등에 납품한다.삼성디스플레이가 양산하는 스마트폰 OLED는 애플 아이폰과 삼성전자 갤럭시S 시리즈 등 플래그십 제품에 적용하는 플렉시블 OLED, 그리고 삼성전자 중저가폰과 중국 업체에 주로 납품하는 리지드 OLED로 나",
-          "published": "2026-08-26T15:13:02+00:00",
+          "title": "씨이랩, 하반기 전략 발표...\"AI 데이터센터·피지컬 AI 집중\"",
+          "link": "https://zdnet.co.kr/view/?no=20260828102703",
+          "summary": "[지디넷코리아]AI인프라 전문기업 씨이랩(대표 윤세혁·채정환)이 27일 '2026년 사업현황 및 향후 전략발표'를 주제로 기업설명회(IR)를 열었다. 상반기 실적과 하반기 사업 계획을 발표했다.상반기 매출액은 31억3000만원으로 전년 동기 대비 108% 증가했다. 또 상반기에 엔비디아(NVIDIA)로부터 소프트웨어 부문 최고 등급인 '엘리트 파트너(Elite Partner)'로 승격하는 성과도 거뒀다. 학습과 추론을 동시 지원하는 GPU 운영 플랫폼 ' AstraGo 2.1'을 출시했으며, XAIVA는 GS인증 1등급을 획득했다. 디지털 트윈(Digital Twin) 사업 역시 글로벌 반도체 기업 대상 프로젝트를 4년 연속 확대 수행하며 입지를 다졌다.하반기 사업 전략도 구체화했다. AI 데이터센터와 피지컬 AI를 두 축으로 삼는다는 것이 골자다. AI 데이터센터 구축이 확대되면 대규모 GPU를 배분하고 운영하는 소프트웨어 수요가 함께 늘어난다. 이렇게 구축된 인프라는 다시 피지컬",
+          "published": "2026-08-28T01:27:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 1,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "earnings"
           ]
         },
         {
-          "title": "메타, 세기의 소송 합의...청소년 SNS 하루 2시간 제한 “소셜미디어 설계 바뀐다” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05QldudkUyQVozYmRPeGRaZU9TeURmNmJLbGhlbnBOX2Z6OEZoaTI4Vm9Jd1lJTW9IWmFYNVljbmR5a1Z1NERlWTNoWDlmQQ?oc=5",
-          "summary": "메타, 세기의 소송 합의...청소년 SNS 하루 2시간 제한 “소셜미디어 설계 바뀐다” &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-26T19:45:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
+          "summary": "The Trump administration must lift its ban on Anthropic PBC’s artificial intelligence technology for federal agencies, a US judge ruled.",
+          "published": "2026-08-28T01:12:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -209,10 +121,52 @@
           ]
         },
         {
-          "title": "Nvidia Steps Back Into China Market With First H200 Chip Sales",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-steps-back-into-china-market-with-first-h200-chip-sales",
-          "summary": "Nvidia Corp. said it sold a small number of its H200 chips to customers in China during the most recent quarter, though shipments of the artificial intelligence processors to the world’s second-largest economy fell short of the total permitted with the blessing of US President Donald Trump.",
-          "published": "2026-08-26T23:04:10+00:00",
+          "title": "애플 투자자, 엔비디아 때문에 다시 놀란 이유는 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OQ2UtRnJWdHZqbEE2X09XakZpbnBQU3BZZXFnNFh1a1Y0OXA2VWwzSHdqNVhrN21nWVZVOURSUU80M2FtejAwN1owcUNkejh3Szk3bFd6R2N1ZGdIb1dWbHhxamxRWnRVVWthc0x3RjI?oc=5",
+          "summary": "애플 투자자, 엔비디아 때문에 다시 놀란 이유는 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-27T23:43:47+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBma0NJSm9QRGw3bzlyNWFzTXg4ZHRVM05FejJIdnd6VVI5QWVPSTBwV1dhTnpWQkFEUkRuQncwek02dlRlTWVISXhJZWFMcGV1YjQ1NF9uVVF2d2Q4OURMWGN4ZGZsUjVoX2c?oc=5",
+          "summary": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-27T09:05:53+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Meta Deal Quietly Resolves Claims Over 2016 Election Data, Cambridge Analytica",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-27/meta-deal-quietly-resolves-claims-over-2016-election-data-cambridge-analytica",
+          "summary": "Nestled into Meta Platforms Inc.’s landmark $18 billion settlement with US states to address social media harms to children was a seemingly unrelated agreement to resolve a different controversy that rocked Facebook after the 2016 presidential election.",
+          "published": "2026-08-27T18:24:31+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -220,8 +174,74 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "US FTC Probing YouTube Over Social Media Policies",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-27/us-ftc-probing-youtube-over-social-media-policies",
+          "summary": "The US Federal Trade Commission has been investigating whether Alphabet Inc.’s YouTube violated consumer protection laws when it suspended the accounts of users, according to people familiar with the probe.",
+          "published": "2026-08-27T21:59:57+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "뉴욕증시, 엔비디아 호실적에 상승 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBibWV2ZkNUUU53RXJUUFY0NVZrMDBRWmRZSmtCNEY1TWdvTnRXc2VUelV3UDZxb3VUMEdoRTBjUk11MEsxTWJLODh6TVc3ZGNBVkFFQTBZck5sZC1HaVBOOER1eWU2aU8ydFR5a0lNVTY?oc=5",
+          "summary": "뉴욕증시, 엔비디아 호실적에 상승 출발 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-27T13:48:28+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "“AI 열풍 안 끝났다”…엔비디아 폭주에 반도체주 ‘훈훈’ [뉴욕증시] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52d1dPMXVBX3VKZExVbmZuMW1YdGUzbklHZE9nbHRRUHlQNnJPT3FyVzJrRGUwYTM0bmVTamhWa0lZSWRmZXBxTHJobDAxZ1FHX2c?oc=5",
+          "summary": "“AI 열풍 안 끝났다”…엔비디아 폭주에 반도체주 ‘훈훈’ [뉴욕증시] &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-28T00:15:20+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -232,15 +252,35 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pR3FLQ21TaXZ3YmtESDdFVElTTEZ5aGJNODlMdFN3WjVMazFOUHZEZnhKWVpQcVV0X1JCRGFHZ2F4dzBkRHJ1OHhtOUFid1lmcUE?oc=5",
-          "summary": "“8만달러 찍었다” 다시 출렁이는 비트코인…오늘 밤 분수령이라는데 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-26T00:34:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Crypto slump, AI boom overshadow CZ’s bullish pitch at Hong Kong’s Bitcoin Asia",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3365484/crypto-slump-ai-boom-overshadow-czs-bullish-pitch-hong-kongs-bitcoin-asia?utm_source=rss_feed",
+          "summary": "Anxiety over the booming AI trade and bitcoin’s uncertain future is overshadowing this year’s Bitcoin Asia conference in Hong Kong, as a lingering crypto slump dampens enthusiasm despite a star appearance by Binance founder Zhao Changpeng. Zhao, known in the industry as “CZ”, struck a bullish tone during his highly anticipated appearance on Thursday. Speaking to a large crowd, the 48-year-old billionaire entrepreneur drew applause and cheers by declaring that bitcoin “will for sure become more..",
+          "published": "2026-08-27T12:30:11+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스트래티지, 비트코인 가격 반등에 주가 11% 상승 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyOUJzSDV6dXF1TkRTbGZpb2U0SEFTUnlCVlUtNEQyR3NBam1hLTB2M18yYmJTRi1XWGNFZXhoYWJFNWhRVlNXSXBOTUcxYmxEazNHWXB6Z1E5Qzl2N3A2YmVvY2ZiUnllaGFpUHJlTVo?oc=5",
+          "summary": "스트래티지, 비트코인 가격 반등에 주가 11% 상승 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-28T00:05:55+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
@@ -248,9 +288,9 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -2
           },
           "event_labels": []
         }
@@ -258,21 +298,21 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "금감원, 전산장애 잦은 토스증권 '현장 점검' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SREZrRGwwRGJ1bF91UGh1Qnd2SFJaZ3M5S0ZGLVpSZkhRTkFzbVdKU2VFMjY4d2hYTjh4UDkzRkpJU2M1eTBGV01rSnZJN1plbDAtbnRoZE1kRVJLZkVrR0ZYbWlqRnpsNGl4eXdhVXQ?oc=5",
-          "summary": "금감원, 전산장애 잦은 토스증권 '현장 점검' &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-26T23:24:13+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "전 국민이 쓰는 ‘모두의 AI’…SKT·카카오·KT가 만든다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56ejY1b0pIblFfWkhzQmtKZzd4RG96V0tfRjFkNzlnTFhBY21tV0JpOGVFRHp2U1FHdU9SdGZmbDFBU2VaaE0wekJHQktwQQ?oc=5",
+          "summary": "전 국민이 쓰는 ‘모두의 AI’…SKT·카카오·KT가 만든다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-08-28T01:34:37+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -281,20 +321,60 @@
           "event_labels": []
         },
         {
-          "title": "컴투스홀딩스 '스타 세일러', 네이버웹툰 '아카데미에서 살아남기'와 협업",
-          "link": "https://zdnet.co.kr/view/?no=20260826173340",
-          "summary": "[지디넷코리아]컴투스홀딩스가 수집형 RPG '스타 세일러'에 네이버웹툰의 인기작 '아카데미에서 살아남기'와의 컬래버레이션 콘텐츠를 선보이며 즐길 거리 확대에 나섰다.컴투스홀딩스(대표 정철호)는 웰메이드 수집형 RPG ‘스타 세일러’에서 네이버웹툰 인기작 ‘아카데미에서 살아남기’와 협업을 진행한다고 26일 밝혔다. 이번 협업을 통해 웹툰 속 인기 캐릭터 ‘루시 메이릴’이 번개 마법을 구사하는 3성 동료로 합류하며, 전용 SSR 메모리피스 ‘삶의 이유’와 천재 정령사 ‘예니카 페일로버’ 모티브 스킨, 신규 스토리 이벤트가 함께 공개됐다.신규 장비 시스템인 ‘아티팩트’도 도입됐다. 신규 ‘유적 시스템’을 통해 얻을 수 있는 아티팩트는 능력치를 올리는 공명과 깎는 반동이 동시 적용돼 전략적인 덱 구성을 돕는다. 컴투스홀딩스는 협업을 기념해 출석 이벤트를 진행하며, 접속만으로 신규 동료 루시를 확정 영입할 수 있고 금빛·은빛 나침반 등 다양한 성장 재화도 지급한다.",
-          "published": "2026-08-26T08:33:40+00:00",
+          "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaV2M2bE9FRkVzTHE5WjJ0b24xbTV5anZmeEM3RGRlQ19CU1hEaXd2SFFhVF9uXzJ4Z25YWEdFWFJIcGRqR1FwMTkxRWxSRURWQTVKbEludUtnQ1E3Q2dQRERJWkEzT2FQVlE?oc=5",
+          "summary": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시” &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-28T02:00:47+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오, 모티프3 개발한 모티프 AI그룹장 영입 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BTWJQaGc2dlNxbW1FSm1IVHpLWWdPcWlodng5LUJPY2wwRXZDRUs5WWRwTUxYay1iQ1VpT0Zod2hLdnZKeE5QanZESDR2aWxJTnlmSmd0MXM3aFQ3TXZ4M05sT0ZRRHBUc3NlM1ZWVjg?oc=5",
+          "summary": "카카오, 모티프3 개발한 모티프 AI그룹장 영입 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-28T04:29:13+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[모두의 AI] 카카오 \"익숙한 메신저로 국민 AI 장벽 낮춘다…외부 에이전트 결합\"",
+          "link": "https://zdnet.co.kr/view/?no=20260828094550",
+          "summary": "[지디넷코리아]카카오가 범용 챗봇과 인공지능(AI) 에이전트를 한곳서 이용할 수 있는 대국민 AI 서비스 구축에 나선다. 기존 이용자 접점을 활용해 AI 사용 장벽을 낮추고, 외부 기업이 참여할 수 있는 에이전트 생태계까지 확보한다는 전략이다.과학기술정보통신부는 '모두의 AI' 프로젝트 수행기관으로 SK텔레콤과 카카오, KT 컨소시엄을 선정했다고 28일 밝혔다. 과기정통부는 공모에 참여한 6개 사업자를 대상으로 서면평가와 발표평가를 진행해 카카오와 SK텔레콤, KT 컨소시엄 등 3곳을 최종 선정했다.카카오 전략 핵심은 국민이 일상적으로 사용하는 메신저를 AI 서비스 관문으로 활용하는 것이다. 별도 새로운 서비스에 이용자를 모으기보다, 익숙한 접점에서 범용 AI 챗봇과 다양한 AI 에이전트를 통합해 이용할 수 있도록 한다는 구상이다.카카오 컨소시엄은 전화 기반 AI 서비스를 확대한다. 카카오는 LG유플러스와 연내 범용 전화 AI 서비스 라이트 버전을 출시한 뒤 적용 범위를 단계적으로 ",
+          "published": "2026-08-28T01:21:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
