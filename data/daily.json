@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-08-28T05:09:19.008037+00:00",
-  "total_articles": 17,
+  "generated_at": "2026-08-29T03:06:21.275288+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
           "title": "China’s commercial space sector expands global footprint with Thailand deal",
           "link": "https://www.scmp.com/tech/article/3365534/chinas-commercial-space-sector-expands-global-footprint-thailand-deal?utm_source=rss_feed",
-          "summary": "Beijing-based GalaxySpace’s deployment this week of what it called China’s first turnkey satellite export to Southeast Asia underscores how the country is boosting its space influence overseas amid competition with Elon Musk’s SpaceX. GalaxySpace said it launched the Lingzhi-09 Thailand CubeSat aboard a Long March-6C rocket – alongside six other satellites – from the Taiyuan Satellite Launch Centre in Shanxi province on Tuesday. Developed for Thailand’s Geo-Informatics and Space Technology...",
+          "summary": "Beijing-based GalaxySpace’s deployed what it called China’s first turnkey satellite export to Southeast Asia this week, underscoring the country’s efforts to boost its influence in the space industry overseas amid competition with Elon Musk’s SpaceX. GalaxySpace said it launched the Lingzhi-09 Thailand CubeSat aboard a Long March-6C rocket – alongside six other satellites – from the Taiyuan Satellite Launch Centre in Shanxi province on Tuesday. Developed for Thailand’s Geo-Informatics and Space.",
           "published": "2026-08-28T05:00:12+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 14,
           "score_breakdown": {
             "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -38,37 +38,15 @@
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
             "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "모건스탠리 \"스페이스X, 상장 이후 독특한 매수 기회\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WbGtpeDhsT0VWWTB1OUpZaHI4b0dUMEtueTBmV1lJbWJPOEh3VHhzZGl5WURSb3JHckhlUzhmU3VQZFplN3doSjZMcy1rby05NlpPenBuVVFacGNiYlhreTRrWkcwUm5NeDJudkFLRkk?oc=5",
-          "summary": "모건스탠리 \"스페이스X, 상장 이후 독특한 매수 기회\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-27T22:41:43+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
         }
       ]
     },
@@ -77,32 +55,54 @@
       "count": 8,
       "articles": [
         {
-          "title": "씨이랩, 하반기 전략 발표...\"AI 데이터센터·피지컬 AI 집중\"",
-          "link": "https://zdnet.co.kr/view/?no=20260828102703",
-          "summary": "[지디넷코리아]AI인프라 전문기업 씨이랩(대표 윤세혁·채정환)이 27일 '2026년 사업현황 및 향후 전략발표'를 주제로 기업설명회(IR)를 열었다. 상반기 실적과 하반기 사업 계획을 발표했다.상반기 매출액은 31억3000만원으로 전년 동기 대비 108% 증가했다. 또 상반기에 엔비디아(NVIDIA)로부터 소프트웨어 부문 최고 등급인 '엘리트 파트너(Elite Partner)'로 승격하는 성과도 거뒀다. 학습과 추론을 동시 지원하는 GPU 운영 플랫폼 ' AstraGo 2.1'을 출시했으며, XAIVA는 GS인증 1등급을 획득했다. 디지털 트윈(Digital Twin) 사업 역시 글로벌 반도체 기업 대상 프로젝트를 4년 연속 확대 수행하며 입지를 다졌다.하반기 사업 전략도 구체화했다. AI 데이터센터와 피지컬 AI를 두 축으로 삼는다는 것이 골자다. AI 데이터센터 구축이 확대되면 대규모 GPU를 배분하고 운영하는 소프트웨어 수요가 함께 늘어난다. 이렇게 구축된 인프라는 다시 피지컬",
-          "published": "2026-08-28T01:27:03+00:00",
+          "title": "Nvidia-Backed Lambda Inks $1 Billion Private Debt for Chip Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-28/nvidia-backed-lambda-inks-1-billion-private-debt-for-chip-deal",
+          "summary": "Lambda Inc., an AI cloud-computing provider backed by Nvidia Corp., has raised about $1 billion of private short-dated debt for computing chips tied to its collaboration with Microsoft Corp.",
+          "published": "2026-08-28T16:37:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "기가바이트, 엔비디아와 협력해 GeForce RTX™ 50 시리즈 및 &apos;컨트롤 : 레조넌트&apos; 번들로 게이밍 경험 강화",
+          "link": "https://zdnet.co.kr/view/?no=20260829011002",
+          "summary": "[지디넷코리아]타이베이, 2026년 8월 28일 /PRNewswire/ -- 세계적인 컴퓨터 브랜드 기가바이트(GIGABYTE)가 엔비디아(NVIDIA)와 협력해 NVIDIA&reg; GeForce RTX™ 5070 이상의 GPU와 노트북용 GPU를 탑재한 이벤트 대상 그래픽카드, 노트북 및 게이밍 데스크톱을 대상으로 컨트롤 : 레조넌트(CONTROL Resonant) 게임 번들을 발표했다. 패스 트레이싱과 DLSS 4.5를 포함한 최신 엔비디아 기술과 기가바이트의 첨단 쿨링 솔루션이 결합된 이번 번들을 통해 게이머들은 다양한 게이밍 플랫폼에서 최상의 그래픽 품질과 성능으로 신작 타이틀을 경험할 수 있다. 기가바이트, 엔비디아와 협력해 GeForce RTX™ 50 시리즈 및 '컨트롤 : 레조넌트' 번들로 게이밍 경험 강화 그래픽카드의 경우 AORUS GeForce RTX™ 50 INFINITY 시리즈를 비롯한 GeForce RTX™ 5090, 5080, 5070 Ti, 5070 모델",
+          "published": "2026-08-28T16:10:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 15,
           "score_breakdown": {
             "keyword": 10,
             "source": 1,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "funding"
           ]
         },
         {
-          "title": "Anthropic Wins Court Challenge to US Supply-Chain Risk Label",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-28/anthropic-wins-court-challenge-to-us-supply-chain-risk-label",
-          "summary": "The Trump administration must lift its ban on Anthropic PBC’s artificial intelligence technology for federal agencies, a US judge ruled.",
-          "published": "2026-08-28T01:12:46+00:00",
+          "title": "OpenAI to End Partnership With Cursor After SpaceX Acquisition",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-29/openai-to-end-partnership-with-cursor-after-spacex-acquisition",
+          "summary": "OpenAI said it will end its partnership with Cursor after the AI-coding agent’s acquisition by SpaceX, according to a post on X.",
+          "published": "2026-08-29T02:16:53+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -117,132 +117,108 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "m_and_a"
           ]
         },
         {
-          "title": "애플 투자자, 엔비디아 때문에 다시 놀란 이유는 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OQ2UtRnJWdHZqbEE2X09XakZpbnBQU3BZZXFnNFh1a1Y0OXA2VWwzSHdqNVhrN21nWVZVOURSUU80M2FtejAwN1owcUNkejh3Szk3bFd6R2N1ZGdIb1dWbHhxamxRWnRVVWthc0x3RjI?oc=5",
-          "summary": "애플 투자자, 엔비디아 때문에 다시 놀란 이유는 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-27T23:43:47+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "[8월28일] 엔비디아는 왜 허깅페이스를 인수할까…\"오픈 모델 다운에서 배포로\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDZFVydGdXTHNQTkM0UGVzVWI0OXFEMDU3SjRuRjZMcXc4S1NCTnlaRnFVYTJ3eWlaQ1pYWVA2TXlRRTJEcHdxS2RWMkZta0lGZ3MwelBkWTlIdk5IMmtHOHM4RWRwZEd5Q3c?oc=5",
+          "summary": "[8월28일] 엔비디아는 왜 허깅페이스를 인수할까…\"오픈 모델 다운에서 배포로\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-28T22:00:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
             "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "美 트럼프 행정부, 中 AI '원격 연산 우회' 차단 추진…태국·싱가포르 정조준",
+          "link": "https://zdnet.co.kr/view/?no=20260829014347",
+          "summary": "[지디넷코리아]미국 트럼프 행정부가 중국 기업들이 제3국에 위치한 원격 서버를 통해 최첨단 인공지능(AI) 반도체 연산 자원에 접근하는 '규제 허점'을 원천 차단하기 위한 새로운 수출 통제 조치를 검토 중이다.미국 IT 전문 매체 디인포메이션은 미 정부가 중국 대비 수출 규제 강도가 낮은 태국, 싱가포르 등의 데이터센터를 통한 중국 기업의 원격 연산 접근을 제한하는 신규 규제안을 준비하고 있다고 현지시간 28 보도했다. 미 상무부는 이르면 오는 9월 업계 관계자 및 무역 단체들과 초안을 공유하고 의견 수렴에 나설 것으로 전해졌다.이번 규제 추진의 핵심 기폭제로는 중국 AI 스타트업 문샷이 최근 공개한 오픈소스 모델 '키미 K3(Kimi K3)'가 지목된다. 앞서 마이클 크라시오스 백악관 과학기술정책실장은 \"문샷이 태국에 위치한 엔비디아 서버를 통해 미국의 최신 AI 모델을 증류 및 학습시켜 키미 K3를 개발했다\"고 지적한 바 있다.현재 미국의 대중국 반도체 수출 통제는 2022년 제",
+          "published": "2026-08-29T00:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Microsoft Seeks to Reassure Employees About Data Centers Impact",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-28/microsoft-seeks-to-reassure-employees-about-data-centers-impact",
+          "summary": "Microsoft Corp. is trying to reassure its own workers that its data centers are having a positive impact on society.",
+          "published": "2026-08-28T15:49:37+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBma0NJSm9QRGw3bzlyNWFzTXg4ZHRVM05FejJIdnd6VVI5QWVPSTBwV1dhTnpWQkFEUkRuQncwek02dlRlTWVISXhJZWFMcGV1YjQ1NF9uVVF2d2Q4OURMWGN4ZGZsUjVoX2c?oc=5",
-          "summary": "엔비디아, '오픈소스' 허깅페이스 18조에 인수...AI 생태계 수직통합 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-27T09:05:53+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Meta Deal Quietly Resolves Claims Over 2016 Election Data, Cambridge Analytica",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-27/meta-deal-quietly-resolves-claims-over-2016-election-data-cambridge-analytica",
-          "summary": "Nestled into Meta Platforms Inc.’s landmark $18 billion settlement with US states to address social media harms to children was a seemingly unrelated agreement to resolve a different controversy that rocked Facebook after the 2016 presidential election.",
-          "published": "2026-08-27T18:24:31+00:00",
+          "title": "Meta’s Newspaper Ad Blitz Ups Pressure on Social Media Rivals",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-28/meta-s-newspaper-ad-blitz-ups-pressure-on-social-media-rivals",
+          "summary": "Meta Platforms Inc. is intensifying its public pressure campaign on TikTok and YouTube, running full-page advertisements in top newspapers across the US demanding its rivals make comparable efforts to strengthen social media protections for teens.",
+          "published": "2026-08-28T16:20:17+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
             "recency": 2,
-            "event_bonus": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         },
         {
-          "title": "US FTC Probing YouTube Over Social Media Policies",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-27/us-ftc-probing-youtube-over-social-media-policies",
-          "summary": "The US Federal Trade Commission has been investigating whether Alphabet Inc.’s YouTube violated consumer protection laws when it suspended the accounts of users, according to people familiar with the probe.",
-          "published": "2026-08-27T21:59:57+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "신약개발 'K-폴드' 소스코드 깃허브에 9월 8일 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260828151252",
+          "summary": "[지디넷코리아]단백질 3차원 구조를 예측하고, 어떤 물질을 결합해 신약를 만들지 설계하는 한국형 바이오 AI 특화 파운데이션 모델(특파모) 'K-폴드'가 개발됐다. 소스코드 공개는 9월 8일이다.이 모델 개발은 과학기술정보통신부 'AI 특화 파운데이션 모델 개발 프로젝트' 일환으로 총 6개 기관 및 기업이 참여했다. 정부는 이 프로젝트를 위해 엔비디아 B200 GPU 256장을 지원했다. 총 예산 규모는 170억원이 넘는다.사업 주관은 KAIST가 맡았다. 과제총괄은 김우연 화학과 교수, AI 모델 개발은 황성주· 안성수 김재철 AI대학원 교수가 맡고, 오병하·김호민·이규리 생명과학과 교수가 바이오 데이터 구축 및 검증을 맡았다.KAIST 스핀오프 기업인 히즈(HITS)는 K-폴드 상용화 및 사스(SaaS) 플랫폼 하이퍼 랩과의 연계를 진행했다. 히츠의 멀티에이전트 플랫폼 ‘하이퍼랩(HyperLab)’에 K-폴드를 탑재한 것. 별도 고성능 컴퓨터를 직접 구축하거나 복잡한 AI 프로그",
+          "published": "2026-08-28T08:09:21+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "뉴욕증시, 엔비디아 호실적에 상승 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBibWV2ZkNUUU53RXJUUFY0NVZrMDBRWmRZSmtCNEY1TWdvTnRXc2VUelV3UDZxb3VUMEdoRTBjUk11MEsxTWJLODh6TVc3ZGNBVkFFQTBZck5sZC1HaVBOOER1eWU2aU8ydFR5a0lNVTY?oc=5",
-          "summary": "뉴욕증시, 엔비디아 호실적에 상승 출발 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-27T13:48:28+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
+          "score": 7,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "“AI 열풍 안 끝났다”…엔비디아 폭주에 반도체주 ‘훈훈’ [뉴욕증시] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52d1dPMXVBX3VKZExVbmZuMW1YdGUzbklHZE9nbHRRUHlQNnJPT3FyVzJrRGUwYTM0bmVTamhWa0lZSWRmZXBxTHJobDAxZ1FHX2c?oc=5",
-          "summary": "“AI 열풍 안 끝났다”…엔비디아 폭주에 반도체주 ‘훈훈’ [뉴욕증시] &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-28T00:15:20+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -252,45 +228,25 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "Crypto slump, AI boom overshadow CZ’s bullish pitch at Hong Kong’s Bitcoin Asia",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3365484/crypto-slump-ai-boom-overshadow-czs-bullish-pitch-hong-kongs-bitcoin-asia?utm_source=rss_feed",
-          "summary": "Anxiety over the booming AI trade and bitcoin’s uncertain future is overshadowing this year’s Bitcoin Asia conference in Hong Kong, as a lingering crypto slump dampens enthusiasm despite a star appearance by Binance founder Zhao Changpeng. Zhao, known in the industry as “CZ”, struck a bullish tone during his highly anticipated appearance on Thursday. Speaking to a large crowd, the 48-year-old billionaire entrepreneur drew applause and cheers by declaring that bitcoin “will for sure become more..",
-          "published": "2026-08-27T12:30:11+00:00",
+          "title": "Shares in Chinese MLCC makers rise as AI lifts sales and profits",
+          "link": "https://www.scmp.com/tech/article/3365571/shares-chinese-mlcc-makers-rise-ai-lifts-sales-and-profits?utm_source=rss_feed",
+          "summary": "China’s top makers of multilayer ceramic capacitors (MLCCs) – ubiquitous components known as the “rice of the electronics industry” – saw their shares rise on Friday after reporting ballooning first-half sales and profits amid soaring demand linked to AI. Shenzhen-listed shares of Chaozhou Three-Circle Company (CCTC) and Guangdong Fenghua Advanced Technology, two of the country’s largest MLCC makers, gained nearly 1 per cent and 3 per cent, respectively, in morning trading. CCTC’s Hong...",
+          "published": "2026-08-28T07:31:48+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 11,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스트래티지, 비트코인 가격 반등에 주가 11% 상승 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyOUJzSDV6dXF1TkRTbGZpb2U0SEFTUnlCVlUtNEQyR3NBam1hLTB2M18yYmJTRi1XWGNFZXhoYWJFNWhRVlNXSXBOTUcxYmxEazNHWXB6Z1E5Qzl2N3A2YmVvY2ZiUnllaGFpUHJlTVo?oc=5",
-          "summary": "스트래티지, 비트코인 가격 반등에 주가 11% 상승 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-28T00:05:55+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": -2
           },
           "event_labels": []
         }
@@ -298,48 +254,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 3,
       "articles": [
-        {
-          "title": "전 국민이 쓰는 ‘모두의 AI’…SKT·카카오·KT가 만든다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE56ejY1b0pIblFfWkhzQmtKZzd4RG96V0tfRjFkNzlnTFhBY21tV0JpOGVFRHp2U1FHdU9SdGZmbDFBU2VaaE0wekJHQktwQQ?oc=5",
-          "summary": "전 국민이 쓰는 ‘모두의 AI’…SKT·카카오·KT가 만든다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-28T01:34:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaV2M2bE9FRkVzTHE5WjJ0b24xbTV5anZmeEM3RGRlQ19CU1hEaXd2SFFhVF9uXzJ4Z25YWEdFWFJIcGRqR1FwMTkxRWxSRURWQTVKbEludUtnQ1E3Q2dQRERJWkEzT2FQVlE?oc=5",
-          "summary": "SKT·카카오·KT, 모두의 AI 사업자 선정…“연내 전 국민 서비스 개시” &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-28T02:00:47+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
         {
           "title": "카카오, 모티프3 개발한 모티프 AI그룹장 영입 - 연합인포맥스",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BTWJQaGc2dlNxbW1FSm1IVHpLWWdPcWlodng5LUJPY2wwRXZDRUs5WWRwTUxYay1iQ1VpT0Zod2hLdnZKeE5QanZESDR2aWxJTnlmSmd0MXM3aFQ3TXZ4M05sT0ZRRHBUc3NlM1ZWVjg?oc=5",
@@ -350,31 +266,51 @@
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "[모두의 AI] 카카오 \"익숙한 메신저로 국민 AI 장벽 낮춘다…외부 에이전트 결합\"",
-          "link": "https://zdnet.co.kr/view/?no=20260828094550",
-          "summary": "[지디넷코리아]카카오가 범용 챗봇과 인공지능(AI) 에이전트를 한곳서 이용할 수 있는 대국민 AI 서비스 구축에 나선다. 기존 이용자 접점을 활용해 AI 사용 장벽을 낮추고, 외부 기업이 참여할 수 있는 에이전트 생태계까지 확보한다는 전략이다.과학기술정보통신부는 '모두의 AI' 프로젝트 수행기관으로 SK텔레콤과 카카오, KT 컨소시엄을 선정했다고 28일 밝혔다. 과기정통부는 공모에 참여한 6개 사업자를 대상으로 서면평가와 발표평가를 진행해 카카오와 SK텔레콤, KT 컨소시엄 등 3곳을 최종 선정했다.카카오 전략 핵심은 국민이 일상적으로 사용하는 메신저를 AI 서비스 관문으로 활용하는 것이다. 별도 새로운 서비스에 이용자를 모으기보다, 익숙한 접점에서 범용 AI 챗봇과 다양한 AI 에이전트를 통합해 이용할 수 있도록 한다는 구상이다.카카오 컨소시엄은 전화 기반 AI 서비스를 확대한다. 카카오는 LG유플러스와 연내 범용 전화 AI 서비스 라이트 버전을 출시한 뒤 적용 범위를 단계적으로 ",
-          "published": "2026-08-28T01:21:41+00:00",
+          "title": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 전략은 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FVWtLdTZNbHpFbDNiRGZZYWRtZ3JxbHUtYmxxQnJITHliTHFXeXBtMXlpaG8tZjZVZFNlZVRoYUw1Z3hBR29qRndLemtjbG5kcnR2TmJLZXlLSmZoYk41WlcwT01PTUFtVmc?oc=5",
+          "summary": "SKT는 '행동형 비서', 카카오는 '카톡', KT는 '다음'…'모두의 AI' 전략은 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-28T06:49:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오 이어 SSG닷컴도 쪼갠다…플랫폼 업계 ‘인적분할’ 왜",
+          "link": "https://zdnet.co.kr/view/?no=20260828170244",
+          "summary": "[지디넷코리아]사업 전문성 강화와 속도감 있는 사업 추진을 위해 카카오와 SSG닷컴이 인적분할에 나섰다. 플랫폼 이용 과정은 이전과 다르지 않지만, 지분 구조는 변화한다. 특히, SSG닷컴은 이마트와 신세계 간 계열분리의 초석이라는 평가에 힘이 실린다.28일 SSG닷컴에 따르면 회사는 전날 이사회를 열고 라이프스타일 사업 부문의 인적 분할을 승인했다고 발표했다. 이에 따라 인적 분할이 마무리되면 존속법인은 SSG닷컴, 신설법인은 신세계몰(가칭)로 변경된다.플랫폼업계에서 최근 인적분할을 결정한 곳은 SSG닷컴뿐만이 아니다. 카카오도 지난 21일 존속법인 카카오X와, 신설법인 카카오AI로 인적분할을 결의했다. 이를 통해 복합기업 할인 문제를 해소하겠다는 목표다.인적 분할은 기업을 분리하는 하나의 방식으로, 주주들은 존속법인 지분율 그대로 신설법인의 지분을 배정받게 된다. 존속법인이 지분 전부를 가지게 되는 물적분할과 달리 수평적으로 여겨진다. 또 사업부문별로 전문성과 책임경영을 강화할 ",
+          "published": "2026-08-28T08:10:19+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
