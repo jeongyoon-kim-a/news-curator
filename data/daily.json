@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-01T00:27:35.747588+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-09-01T23:08:35.456468+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZmg4OEJJWU5hNU94STZ0VXBEOWtqY21nWFdXbTFrY3p2M1VIZ0F6M0NFNVdid1NuSHRqLUQ3R1lhX2RXc2NySTV2SDVMZ2JlLTJKVVZPWXFjblpEMk81bnJscGt0RDFhb2c?oc=5",
-          "summary": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-31T03:06:57+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
+          "link": "https://www.scmp.com/tech/big-tech/article/3365964/pallas-1-sees-chinas-galactic-energy-join-reusable-launch-push-closing-spacex?utm_source=rss_feed",
+          "summary": "Chinese rocket maker Galactic Energy has successfully sent its Pallas-1 medium-to-large reusable rocket into orbit, marking the latest milestone in Beijing’s drive to develop reusable launch capabilities and narrow the gap with Elon Musk’s SpaceX. The two-stage, liquid-propellant rocket lifted off at 10am on Tuesday from a self-built launch pad at the Jiuquan Satellite Launch Centre’s commercial pilot zone in northwestern China’s Gansu province before entering its designated orbit, according to.",
+          "published": "2026-09-01T08:30:09+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -33,20 +33,60 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
-          "summary": "Anthropic PBC agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia Corp., part of an effort to quickly expand its AI capacity, according to a person familiar with the matter.",
-          "published": "2026-08-31T23:54:04+00:00",
+          "title": "Apple Maps Renames Lake Ontario ‘Lake America’ After Trump Order",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order",
+          "summary": "Apple Inc. renamed Lake Ontario “Lake America” on its maps service, following a similar move by Alphabet Inc.’s Google, in the wake of an order from US President Donald Trump.",
+          "published": "2026-09-01T20:11:08+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 19,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 9,
             "source": 3,
             "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Will Limit Access to New Astra Model’s Cybersecurity Features",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-01/openai-will-limit-access-to-new-astra-model-s-cybersecurity-features",
+          "summary": "OpenAI plans to soon roll out a powerful new artificial intelligence model called Astra, but said it will limit who can use the software’s most cutting-edge cybersecurity capabilities.",
+          "published": "2026-09-01T20:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Manus resumes solo operations after collapse of US$2 billion Meta deal",
+          "link": "https://www.scmp.com/tech/big-tech/article/3365986/manus-resumes-solo-operations-after-collapse-us2-billion-meta-deal?utm_source=rss_feed",
+          "summary": "The Chinese-founded artificial intelligence start-up Manus announced on Tuesday that it had formally resumed independent operations, more than four months after Beijing blocked its US$2 billion acquisition by Meta Platforms. The company’s founding team would continue to lead Manus as an “independent agent lab”, the firm said in a blog post on its website, as it sought to move on from a months-long saga that has sent ripples through the Chinese and global technology sectors. The announcement came",
+          "published": "2026-09-01T10:30:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -55,97 +95,12 @@
           ]
         },
         {
-          "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
-          "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
-          "published": "2026-08-31T21:03:52+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "바이트랩, ‘포브스 아시아 100대 유망기업’ 선정…\"K-뷰티 성과 인정\"",
-          "link": "https://zdnet.co.kr/view/?no=20260901083103",
-          "summary": "[지디넷코리아]헤어케어 브랜드 '릴리이브'를 운영하는 K-뷰티 기업 바이트랩이 글로벌 경제 전문지 포브스 아시아가 발표한 '포브스 아시아 100대 유망기업'에 선정됐다.1일 회사에 따르면, 포브스 아시아는 최근 아시아·태평양 지역 16개국 비상장기업 중 성장 가능성이 높은 스타트업 100곳을 발표했다. 국내 기업은 바이트랩을 비롯해 총 9개사가 포함됐다. 포브스는 바이트랩의 대표 브랜드 릴리이브가 CJ올리브영 인기 상품에 오른 데 이어 미국 아마존 헤어케어 카테고리 1위를 기록한 성과를 주요 사례로 조명했다.2020년 설립된 바이트랩은 릴리이브를 비롯해 스킨케어 브랜드 '색동서울', 라이프스타일 브랜드 '바르너' 등을 기획·운영하는 브랜드 커머스 기업이다. 외부 투자 없이 사업을 키워오며 매출액을 2021년 40억원에서 2025년 약 600억원으로 4년 만에 15배가량 확대했다. 올해는 연매출 1000억원 이상을 달성할 것으로 기대하고 있다.북미와 아시아, 중동 등 20여 개국에 진",
-          "published": "2026-08-31T23:31:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdTNwVmh3TEtYY0NxRFhnWVFjTkM0Vm50NXdLU1k2ejBlY2F0YmxBeTBKNVhQWm5KdFRsVE13dU5xbk5DMUJ5Sy1IcWVYb3FKQzBRRHdqTlZvOUdRSFgwdXRxeVMxQzRkbVE?oc=5",
-          "summary": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-31T22:00:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "팀쿡 \"우린 우주에 흔적\" 애플 CEO 은퇴…신임 터너스엔 AI숙제 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBON3QzZE9KN2hLRDlodWRJRU53X002cXR2NUFVaEwtN0dBbHhzZjhiTVdQblNsUVhPcDhpUFNNaXR6SC1DSkk4ZW13YXl3bjM1b1E?oc=5",
-          "summary": "팀쿡 \"우린 우주에 흔적\" 애플 CEO 은퇴…신임 터너스엔 AI숙제 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-08-31T23:11:24+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "엔비디아, 대만 반도체 기업 '미디어텍'에 35억弗 투자…AI 생태계 강화 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGbFN6cUs2QWFHY3JQSjN5M3VMX09xYXowQURzeXpDV0prb1pkQmNQRUtnWlNJUWE4Nm5nSUxlMWhkeEFtblVEUk96ZzdBbFA1cnF3Ui1kdUU1Z0taQ3ZiRTBhelNrS3dZTGFnZVJLMnM?oc=5",
-          "summary": "엔비디아, 대만 반도체 기업 '미디어텍'에 35억弗 투자…AI 생태계 강화 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-31T12:55:04+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "Call for Trump-Xi AI safety talks comes as state media slams US AI governance",
+          "link": "https://www.scmp.com/tech/policy/article/3365980/call-trump-xi-ai-safety-talks-comes-state-media-slams-us-ai-governance?utm_source=rss_feed",
+          "summary": "An OpenAI executive and former White House adviser is calling for AI safety cooperation between Washington and Beijing ahead of a summit between US President Donald Trump and Chinese leader Xi Jinping, even as Chinese state media launch a scathing attack on American frontier governance in artificial intelligence. “I have always believed US/China AI safety collaboration would be desirable but thought it was unlikely to happen,” Dean Ball, OpenAI’s head of strategic futures, wrote on X on Tuesday.",
+          "published": "2026-09-01T12:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -160,10 +115,10 @@
           "event_labels": []
         },
         {
-          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-          "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
-          "published": "2026-08-31T18:00:00+00:00",
+          "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+          "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
+          "published": "2026-09-01T12:10:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
           "source_weight": 2,
@@ -180,51 +135,134 @@
           "event_labels": []
         },
         {
-          "title": "Huawei and Apple bend to a tougher market with foldable phones as memory crunch bites",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3365598/huawei-and-apple-bend-tougher-market-foldable-phones-memory-crunch-bites?utm_source=rss_feed",
-          "summary": "Highly anticipated foldable launches from Apple and Huawei Technologies next week are expected to offer a much-needed lifeline to a subdued global smartphone market, which is bracing for an estimated 17 per cent decline in 2026. Apple’s September 9 event has the industry watching closely, with expectations building for its first foldable iPhone to take centre stage alongside standard model refreshes and the keynote debut of new CEO John Ternus. The US tech giant’s biggest product showcase of the",
-          "published": "2026-08-31T01:30:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고",
+          "link": "https://zdnet.co.kr/view/?no=20260901225713",
+          "summary": "[지디넷코리아]가트너(Gartner)가 내년 AI보안 시장 규모를 47억 8300만 달러(약 6조 6천억 원)로 성장할 것으로 추정했다. 올해보다 약 69% 증가한 수치다. 2028년에는 약 77억 달러(약 10조 6천억 원)로 성장할 전망이다. 가트너가 말하는 AI 보안 시장은 ▲AI 애플리케이션 보안 ▲AI 사용 통제 ▲AI 거버넌스 플랫폼 ▲AI 게이트웨이 ▲기타 AI보안 등 다섯 가지다. 기업이 AI를 안전하고 책임감 있게 사용하고 관련 규제를 준수할 수 있도록 지원하는 다양한 소프트웨어와 플랫폼을 말한다. AI 애플리케이션 보안이 내년에 가장 큰 지출 규모를 유지하며 약 8억 5100만 달러(약 1조 2천억 원)에 달하고, AI 사용 통제는 약 7억 4900만 달러(약 1조 320억 원)로 뒤를 이을 것으로 예상했다. 하지만 성장률은 다르다. AI 사용 통제 분야가 73%로 가장 높고, AI 게이트웨이가 70.9%로 뒤를 이었다. 우파디야이 가트너 애널리스트는 “AI 런타임",
+          "published": "2026-09-01T13:57:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Apple Sets Pay Targets at $58 Million for Ternus, $47 Million for Cook",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook",
+          "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027, while Tim Cook’s role as executive chairman will pay around $47 million.",
+          "published": "2026-09-01T20:52:44+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "FTC, 아마존 고소…\"광고 경매시스템 조작해 200억 달러 부당이득\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSjFWNHhDVzRXUjFiamxjQkZmTldUajdNNDRzc2QwT0l2SW5jWVhuZm1wS2JOZWIxM3U4eklMWEFlYUlzckN0Mmp3OG5mUkN4Ym1xRHNpVmdFN3BzUmJxU3VsYTBBVTVxUW1YU2x4VUTSAXRBVV95cUxPSFFOSmtLS1lqdHU4dTZDd21qeUJaSk5uZk1vLWFvMTNweVNEU0tYVm1Jbm13ZHhzWjg1NnpjMUs3LV9xQllDeGEwUGNMbGhxbUx5Z0t5N2JJZUpoN1pHdGlhVGhOdjVRNmstX0k1amg1ZjNYZw?oc=5",
+          "summary": "FTC, 아마존 고소…\"광고 경매시스템 조작해 200억 달러 부당이득\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-01T01:08:22+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
+            "event_bonus": 3,
+            "noise_penalty": -3
           },
           "event_labels": [
-            "exec_change"
+            "regulation"
           ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"",
-          "link": "https://zdnet.co.kr/view/?no=20260831231056",
-          "summary": "[지디넷코리아]종합 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카(Viva Republica)가 작년 2분기 외산 보안솔루션 사용을 종료, 현재 자체 개발한 보안 솔루션 '타이탄(Titan)'을 사용하고 있다. '토스'는 금융업 분류상 전자금융에 속한다. 전자금융회사 중 토스처럼 중요 보안 솔루션을 국산을 사용, 외산을 대체한 건 이례적이다.'토스'가 개발한 '타이탄'은 보안 솔루션 종류 중 SASE(Se­cure Access Service Edge)에 속한다. SASE는 네트워크와 보안 기능을 하나로 통합해 사용자랑 기기의 접근을 제어하는 제품(솔루션)이다. '타이탄'은 글로벌 보안기업 지스케일러의 제품을 대체했다.향후 비바리퍼블리카는 '타이탄' 사용을 전체 계열사(10곳)로 확대할 예정이다. 현재는 비바리퍼블리카 직원 2000명 정도가 사용하고 있다. 지디넷코리아는 지난 27일 비바리퍼블리카 지정호 CISO를 만나 '타이탄'과 관련한 이야기를 들어봤다. 지 CISO는 2024년 ",
-          "published": "2026-08-31T14:10:56+00:00",
+          "title": "Bitcoin ETF Buyers Return as $80,000 Level Tests Market Rally",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-etf-buyers-return-as-80-000-level-tests-market-rally",
+          "summary": "The investors who helped propel Bitcoin into its Wall Street era are showing signs of coming back, offering a crucial test of whether its latest rally can turn into something bigger.",
+          "published": "2026-09-01T18:56:27+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스트래티지, 10주 만에 비트코인 매입 재개…5천억원어치 또 샀다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45U1I4dm4zQ3FXOEY2c2VGNzd0RV9aNi1LdnVVU0NHMXJWNWlLbnNfWFI0enRGNGtEeDRsVlZRV0tGMjhCQ29QRm92YVV0N0hPbHc?oc=5",
+          "summary": "스트래티지, 10주 만에 비트코인 매입 재개…5천억원어치 또 샀다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-01T01:55:37+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
+        {
+          "title": "국정원 \"위성정보, 더 이상 전문가 영역 아냐\"",
+          "link": "https://zdnet.co.kr/view/?no=20260901211903",
+          "summary": "[지디넷코리아]국가정보원과 우주항공청은 2일부터 3일까지 대전컨벤션센터(제1전시장)에서 '위성활용 콘퍼런스 2026'을 공동으로 개최한다.올해가 5회째다. 위성활용 콘퍼런스는 위성정보와 우주기술 활용이 점차 확대됨에 따라, 국내 산학연 및 정부기관간 협력 생태계를 구축하고 시너지 효과를 발휘하기 위해 지난 2022년부터 매년 개최하고 있다.올해는 ‘New Space, New Insight – 위성정보로 만드는 새로운 통찰’이란 주제로 국내외 위성 활용 기업과 대학, 연구소, 정부 관계자 등 1300여명이 참여한다. 한국항공우주연구원이 행사를 주관한다.1일차는 네이버랩스, Airbus D&amp;S, Planet Labs, ICEYE 임원의 기조연설을 시작으로 △Vantor·텔레픽스 등 기업 세션 △차세대 중형위성 활용 △ 위성기반 재난재해 모니터링 세션을 운영한다.2일차에는 에스아이에이·메이사·AWS 등 국내외 기업 발표와 함께, 경기도·제주도 등 지자체의 위성 활용 및 국내 기업·",
+          "published": "2026-09-01T12:19:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 13,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 1,
             "recency": 2,
             "event_bonus": 0,
@@ -233,10 +271,30 @@
           "event_labels": []
         },
         {
-          "title": "17g 초경량에 14일 배터리…화웨이 ‘밴드11’ 출시",
-          "link": "https://zdnet.co.kr/view/?no=20260831181933",
-          "summary": "[지디넷코리아]화웨이코리아는 초경량 스마트 밴드 ‘화웨이 밴드 11’과 ‘화웨이 밴드11프로’를 출시했다고 31일 밝혔다.밴드11 정가는 7만 4900원, 밴드11프로는 9만 8900원이며, 출시 기념 이벤트가는 각각 7만 900원과 9만 3900원이다. 밴드11은 베이지, 블랙, 그린, 화이트, 퍼플, 밴드11프로는 블랙, 블루, 그린 색상이 마련됐다.네이버브랜드스토어, G마켓, 11번가 등에서 판매한다.밴드11과 밴드11프로는 스트랩 제외 무게가 각각 약 17g과 18g, 두께는 8.99mm의 초경량 디자인을 갖췄다. 전작보다 27% 넓어진 1.62형 아몰레드 디스플레이와 최대 14일 사용 가능한 배터리를 탑재했다.공통 기능으로 종일 심박변이도(HRV) 측정, 낮잠이 추가된 수면 분석, 휠체어 모드, 5ATM 방수, 안드로이드 9.0과 iOS 13.0 이상에서 크로스 플랫폼 호환을 지원한다.밴드11프로는 독립형 위성 측위(GNSS) 시스템을 탑재해 스마트폰 없이도 야외 운동 경로",
-          "published": "2026-08-31T09:23:00+00:00",
+          "title": "슈퍼패스트, '슈퍼패스트 넥스트' 2개사 선정…트라이펄·키메이커게임즈 투자 유치",
+          "link": "https://zdnet.co.kr/view/?no=20260901171139",
+          "summary": "[지디넷코리아]차세대 게임 발굴 및 육성 프로그램 '슈퍼패스트 넥스트'의 최종 선정 개발사 2곳이 확정됐다.슈퍼패스트는 게임 발굴·투자 프로그램인 '슈퍼패스트 넥스트'의 최종 선정사로 트라이펄게임즈와 키메이커게임즈를 확정했다고 1일 밝혔다.총 100개 팀이 지원한 이번 프로그램에서는 서류 심사를 통과한 20개 팀의 피칭데이를 거쳐 완성도와 개발 역량, 성장 가능성을 종합 평가해 최종 2개사를 선발했다.선정된 트라이펄게임즈는 카카오엔터테인먼트 웹툰 지식재산권(IP)을 활용한 로그라이트 액션 '레벨업 못하는 플레이어'와 소울라이크 'V.E.D.A'를 개발 중인 PC·콘솔 액션 전문 개발사다.누적 1000만 다운로드를 기록한 1인 개발사 키메이커게임즈는 최근 스팀 데모를 선보인 신작 '아이언 섀도우: 서바이벌 프로토콜'을 개발하고 있다.슈퍼패스트는 두 개발사의 신작 '레벨업 못하는 플레이어'와 '아이언 섀도우: 서바이벌 프로토콜'을 스팀 전문 자체 퍼블리싱 레이블 '오프문'을 통해 202",
+          "published": "2026-09-01T08:20:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "웹젠, 신작 전략 RPG '디펜스 게임의 폭군이 되었다: 라스트 스테이지' BI 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260901181306",
+          "summary": "[지디넷코리아]네이버웹툰 인기 IP를 기반으로 개발 중인 지휘 전략 RPG 신작의 공식 명칭과 BI가 확정됐다.웹젠은 자체 개발 신작 '디펜스 게임의 폭군이 되었다: 라스트 스테이지(이하 디겜폭)'의 브랜드 아이덴티티(BI)를 공개했다고 1일 밝혔다.이번 신작은 자회사 웹젠크레빅스가 네이버웹툰의 동명 인기 웹툰 IP를 활용해 개발 중인 지휘 전략 RPG로, 2027년 정식 출시를 목표로 하고 있다.부제 '라스트 스테이지'는 원작에서 확장되는 마지막 이야기를 게임을 통해 선보인다는 의미를 담았다. 게임은 원작 세계관을 기반으로 등장인물들의 신규 에피소드와 관계 설정을 추가해 차별화된 서사를 풀어낼 계획이다. 시각적으로는 언리얼 엔진 5 기반의 3D 배경에 수작업 픽셀아트를 더한 디오라마 픽셀아트 기법을 적용해 도트 그래픽 특유의 감성을 입체적으로 구현한다.원작의 핵심 흐름인 '탐사-방어전-영지경영' 구조는 파티 조합과 전술 중심의 플레이 시스템으로 재구성된다. 이용자는 캐릭터의 역할군",
+          "published": "2026-09-01T09:20:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
