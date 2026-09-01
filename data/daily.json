@@ -1,78 +1,16 @@
 {
-  "generated_at": "2026-08-30T23:17:56.213036+00:00",
-  "total_articles": 16,
+  "generated_at": "2026-09-01T00:27:35.747588+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 1,
       "articles": [
         {
-          "title": "오픈AI, 스페이스X 인수 '커서'에 모델 제공 중단...머스크와 갈등 격화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE56S2JuaFg3Y2ZqVTBJQzhaSmsyd3k4NG9Xc0xxSTJJelE1SEZNRFFlSmNxQnhFMDJUbi1mMHRDckJoQlZQVDZYY2VmU1JzaEJqREYyNHpqYlpjMlIwcFEzSTJtN1BKRDNKTWc?oc=5",
-          "summary": "오픈AI, 스페이스X 인수 '커서'에 모델 제공 중단...머스크와 갈등 격화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-29T23:37:25+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "머스크도 ‘손’이 가장 어렵다는데…핀셋으로 나사 집는 中로봇, 가격은 5분의1 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83UE81OEJZRGdncHNYbU1hQzV4dlEyY2loczVGMklVXzFQZW4yRFNYU25KdTFyVTBvTXgxSmRYRDdIY3B2SjNzUlJHMGY2SzBrcEE?oc=5",
-          "summary": "머스크도 ‘손’이 가장 어렵다는데…핀셋으로 나사 집는 中로봇, 가격은 5분의1 &nbsp;&nbsp; 매일경제",
-          "published": "2026-08-30T04:39:27+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"한국판 스페이스X 필요\"…한화그룹, 우주 컨퍼런스 개최 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SkZMRFhXOC1rbkhnck9vVWhnc0thaW5fVmE3bUUtN0Y1RmdveGdZM2l6ZU9INVVvbG93WHRiaE13MlU3ZkJZalBXRTRYRzJCRGRBcnV1LUFRb0h1YWFmLWFvckI2OGlMcnFFUk1uS2w?oc=5",
-          "summary": "\"한국판 스페이스X 필요\"…한화그룹, 우주 컨퍼런스 개최 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-30T03:00:42+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9kdHhkemVRajhQcGxzdS1JQXR0d2hSWHFsdUg0d2VPUlZadC1WMnBGQTNWWVB3b0xjUFN5NVVVb2JmTHNIcXNnU0Q0TWxaNVR3S09YWFdDRHpqakNHWU14alEyWGRHS1dKSUE?oc=5",
-          "summary": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계” &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-30T08:26:32+00:00",
+          "title": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5SZmg4OEJJWU5hNU94STZ0VXBEOWtqY21nWFdXbTFrY3p2M1VIZ0F6M0NFNVdid1NuSHRqLUQ3R1lhX2RXc2NySTV2SDVMZ2JlLTJKVVZPWXFjblpEMk81bnJscGt0RDFhb2c?oc=5",
+          "summary": "스페이스X, 가스 터빈 부품 직접 생산…데이터센터 전력난 정면 돌파 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-31T03:06:57+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -82,26 +20,6 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "웨이모 \"자율주행, 카메라만으론 역부족\"…테슬라 방식 비판",
-          "link": "https://zdnet.co.kr/view/?no=20260830100232",
-          "summary": "[지디넷코리아]구글 자율주행 기업 웨이모가 카메라만으로는 안전한 자율주행을 실현하기 어렵다고 주장했다. 업계 선도 기업인 테슬라가 대표적으로 이런 방식을 택했는데, 비판적 입장을 보인 것이다.웨이모는 최근 자율주행 거리 2억 마일을 달성하면서, 자율주행 인공지능(AI)에 대한 의견을 담은 글을 자사 블로그에 게재했다.이 글에서 웨이모는 카메라와 더불어 라이다, 레이더, GPS 등 여러 센서들을 동시 활용하는 멀티모달 센서 기반 데이터 수집이 필수적이며, 카메라만으론 충분치 않다고 주장했다. 서로 다른 센서가 상호 보완해 안전성을 강화한다는 것이다. 카메라가 도로 표지판이나 신호등 색상 등을 파악한다면, 레이더가 폭우나 안개, 먼지 등 카메라 시야를 가리는 상황에서도 도로를 파악할 수 있게 지원하는 점을 예로 들었다.고정밀(HD) 지도 데이터도 자율주행에 있어 중요한 사전 정보로 기능한다고 평가했다. 이 주장도 테슬라와 상반된 입장을 취한 것이다. 웨이모는 지도 데이터를 지속 업데이트",
-          "published": "2026-08-30T03:25:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -115,105 +33,83 @@
       "count": 8,
       "articles": [
         {
-          "title": "Sony Music, Warner accuse Anthropic of ‘blatant theft’ in major new lawsuit",
-          "link": "https://www.scmp.com/tech/big-tech/article/3365770/sony-music-warner-accuse-anthropic-blatant-theft-major-new-lawsuit?utm_source=rss_feed",
-          "summary": "Some of the world’s biggest music publishers have launched a fresh lawsuit against Anthropic, accusing the artificial intelligence giant of conducting “one of the largest and most blatant ongoing thefts of intellectual property in history”. The case adds to the legal challenges facing Anthropic as the firm eyes a potential blockbuster initial public offering, as the AI industry confronts growing pushback over its use of human-made material to train its models. Sony Music Publishing, Warner...",
-          "published": "2026-08-30T13:44:43+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Google Maps Changes Lake Ontario Label to Lake America in US",
-          "link": "https://www.bloomberg.com/news/articles/2026-08-30/google-maps-changes-lake-ontario-label-to-lake-america-in-us",
-          "summary": "Google Maps relabeled Lake Ontario as “Lake America” for users in the US, Alphabet Inc. announced, after President Donald Trump said he would rename the lake amid a trade spat with Canada.",
-          "published": "2026-08-30T14:24:39+00:00",
+          "title": "Anthropic Seals $35 Billion Cloud Deal With Nvidia-Backed Lambda",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-31/anthropic-seals-35-billion-cloud-deal-with-nvidia-backed-lambda",
+          "summary": "Anthropic PBC agreed to a $35 billion computing deal with Lambda, a cloud provider backed by Nvidia Corp., part of an effort to quickly expand its AI capacity, according to a person familiar with the matter.",
+          "published": "2026-08-31T23:54:04+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 19,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Apple Says OpenAI Is Destroying Evidence in Trade Secrets Case",
+          "link": "https://www.bloomberg.com/news/articles/2026-08-31/apple-says-openai-is-destroying-evidence-in-trade-secrets-case",
+          "summary": "Apple Inc. escalated its legal battle against OpenAI, claiming in a new court filing that OpenAI is actively destroying crucial evidence and that former iPhone engineer Chang Liu “not only downloaded a confidential Apple circuit schematic but also used it in his work” at the AI company.",
+          "published": "2026-08-31T21:03:52+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "John Ternus Management Team; Apple Watch Series 12; Foldable iPhone Apple Pencil",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-08-30/john-ternus-management-team-apple-watch-series-12-foldable-iphone-apple-pencil-mtfvmdyu",
-          "summary": "Also: Apple experimented with a Pencil for the coming foldable iPhone.",
-          "published": "2026-08-30T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "[ZD브리핑] 애플 새 CEO 출범·브로드컴 실적·AI 행사...배터리 수주전·노조 파업 주목",
-          "link": "https://zdnet.co.kr/view/?no=20260830133506",
-          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]1일(현지시간) 애플 존 터너스 하드웨어 엔지니어링 부문 수석 부사장이 신임 CEO에 취임합니다. 15년 동안 애플을 이끌었던 팀 쿡 CEO는 이사회 의장을 맡습니다. 애플은 앞서 지난 4월 존 터너스가 차기 CEO에 취임할 것이라고 밝힌 바 있습니다. 존 터너스 신임 CEO의 주요 과제는 온디바이스 AI와 AI 하드웨어 시장 진출, 생태계 고도화, 하드웨어와 소프트웨어 통합 설계 강화 등이 꼽힙니다. 이후 9일 애플 이벤트는 터너스 체제 아래 첫 번째 이벤트가 ",
-          "published": "2026-08-30T04:35:06+00:00",
+          "title": "바이트랩, ‘포브스 아시아 100대 유망기업’ 선정…\"K-뷰티 성과 인정\"",
+          "link": "https://zdnet.co.kr/view/?no=20260901083103",
+          "summary": "[지디넷코리아]헤어케어 브랜드 '릴리이브'를 운영하는 K-뷰티 기업 바이트랩이 글로벌 경제 전문지 포브스 아시아가 발표한 '포브스 아시아 100대 유망기업'에 선정됐다.1일 회사에 따르면, 포브스 아시아는 최근 아시아·태평양 지역 16개국 비상장기업 중 성장 가능성이 높은 스타트업 100곳을 발표했다. 국내 기업은 바이트랩을 비롯해 총 9개사가 포함됐다. 포브스는 바이트랩의 대표 브랜드 릴리이브가 CJ올리브영 인기 상품에 오른 데 이어 미국 아마존 헤어케어 카테고리 1위를 기록한 성과를 주요 사례로 조명했다.2020년 설립된 바이트랩은 릴리이브를 비롯해 스킨케어 브랜드 '색동서울', 라이프스타일 브랜드 '바르너' 등을 기획·운영하는 브랜드 커머스 기업이다. 외부 투자 없이 사업을 키워오며 매출액을 2021년 40억원에서 2025년 약 600억원으로 4년 만에 15배가량 확대했다. 올해는 연매출 1000억원 이상을 달성할 것으로 기대하고 있다.북미와 아시아, 중동 등 20여 개국에 진",
+          "published": "2026-08-31T23:31:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 4,
             "noise_penalty": 0
           },
           "event_labels": [
             "earnings",
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "에버코어 ISI, \"에이전트 AI, 아마존 쇼핑 가속화\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EMS1LTjFqSWtmcmRpVnhKdFFNczJmY2pNMGVrY0VqNG54UnlKc1RXbnQ2cHJOXzJRb05vdHV1QUY4eFpnRzIxOU9MV1RqQ0hrclNjdFRQRlBLUW1tRGg1ZlpheHdieEhDOVE1SDd4b1bSAXRBVV95cUxNa3dhY1ZWVWVnV1ViRkVFUHdPa1kxUHdocTVuT3pObWFONm5HcHk4M0JvWUVVNE5KR2xVNGQxUmJ6Z1J1RWFQM0doWjA3Q2QzZk44SUotTUd4NHM2VHJmMTlnN2tCZUQzTVZOTkdyalQ4enI5eA?oc=5",
-          "summary": "에버코어 ISI, \"에이전트 AI, 아마존 쇼핑 가속화\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-08-30T22:47:05+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FdTNwVmh3TEtYY0NxRFhnWVFjTkM0Vm50NXdLU1k2ejBlY2F0YmxBeTBKNVhQWm5KdFRsVE13dU5xbk5DMUJ5Sy1IcWVYb3FKQzBRRHdqTlZvOUdRSFgwdXRxeVMxQzRkbVE?oc=5",
+          "summary": "[8월31일] 엔비디아 피지컬 AI, ‘미래 전략’에서 사업으로…중국이 핵심 시장 &nbsp;&nbsp; AI타임스",
+          "published": "2026-08-31T22:00:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -222,20 +118,20 @@
           "event_labels": []
         },
         {
-          "title": "[속보] 李대통령, AI미래기획수석에 이해민 조국혁신당 의원 발탁",
-          "link": "https://zdnet.co.kr/view/?no=20260830114110",
-          "summary": "[지디넷코리아]이재명 대통령이 신임 대통령실 인공지능(AI)미래기획수석비서관에 이해민 조국혁신당 의원을 발탁했다.30일 청와대는 이 의원은 대통령실 AI미래기획수석으로 선임했다. 이 의원은 제22대 국회 비례대표 의원으로 국회에서 AI와 과학기술 정책을 집중적으로 다뤄왔다. 조국혁신당 AI특별위원장과 과학기술혁신특별위원장을 맡고 있으며 과학기술정보방송통신위원회 위원을 거쳐 현재 정무위원회에서 활동하고 있다. 그는 한국교육학술정보원 연구원을 거쳐 구글에서 시니어 프로덕트 매니저로 근무했으며 오픈서베이 최고제품책임자(CPO)를 지냈다. 서강대 전자계산학과를 졸업하고 같은 대학 대학원에서 컴퓨터공학 석사 학위를 받았다.",
-          "published": "2026-08-30T02:41:59+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "팀쿡 \"우린 우주에 흔적\" 애플 CEO 은퇴…신임 터너스엔 AI숙제 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBON3QzZE9KN2hLRDlodWRJRU53X002cXR2NUFVaEwtN0dBbHhzZjhiTVdQblNsUVhPcDhpUFNNaXR6SC1DSkk4ZW13YXl3bjM1b1E?oc=5",
+          "summary": "팀쿡 \"우린 우주에 흔적\" 애플 CEO 은퇴…신임 터너스엔 AI숙제 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-08-31T23:11:24+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 10,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -244,46 +140,66 @@
           ]
         },
         {
-          "title": "MS 차세대 엑스박스 '프로젝트 헬릭스', 복수 기기 라인업 출시 가능성 제기",
-          "link": "https://zdnet.co.kr/view/?no=20260829221318",
-          "summary": "[지디넷코리아]마이크로소프트(MS)의 차세대 엑스박스 콘솔 '프로젝트 헬릭스'가 단일 기기가 아닌 여러 기기로 구성된 라인업 형태로 출시될 가능성이 제기됐다고 IGN이 29일(현지시간) 보도했다.보도에 따르면 아샤 샤르마 엑스박스 CEO는 '게임스컴 2026' 기간 중 프로젝트 헬릭스의 디스크 드라이브 미탑재 여부에 대한 질문에 \"구체적인 정보를 공개할 수는 없다\"면서도 \"헬릭스를 위해 훌륭한 차세대 기기 패밀리(family of devices)를 준비 중이며 곧 더 많은 소식을 전할 것\"이라고 밝혔다.외신은 샤르마 CEO의 발언을 토대로 MS가 현세대 엑스박스 시리즈 X&brvbar;S와 유사하게 다변화된 하드웨어 전략을 취할 가능성을 제기했다. MS는 이전 세대에서도 고성능 디스크 드라이브 모델인 시리즈 X와 디지털 전용 보급형 모델인 시리즈 S를 동시에 선보인 바 있다.프로젝트 헬릭스는 지난 3월 PC 게임 구동 기능을 지원하는 형태로 처음 발표됐으며, 2027년 연말 홀리데이",
-          "published": "2026-08-30T07:35:36+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "엔비디아, 대만 반도체 기업 '미디어텍'에 35억弗 투자…AI 생태계 강화 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGbFN6cUs2QWFHY3JQSjN5M3VMX09xYXowQURzeXpDV0prb1pkQmNQRUtnWlNJUWE4Nm5nSUxlMWhkeEFtblVEUk96ZzdBbFA1cnF3Ui1kdUU1Z0taQ3ZiRTBhelNrS3dZTGFnZVJLMnM?oc=5",
+          "summary": "엔비디아, 대만 반도체 기업 '미디어텍'에 35억弗 투자…AI 생태계 강화 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-08-31T12:55:04+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+          "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on&#8230;",
+          "published": "2026-08-31T18:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Huawei and Apple bend to a tougher market with foldable phones as memory crunch bites",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3365598/huawei-and-apple-bend-tougher-market-foldable-phones-memory-crunch-bites?utm_source=rss_feed",
+          "summary": "Highly anticipated foldable launches from Apple and Huawei Technologies next week are expected to offer a much-needed lifeline to a subdued global smartphone market, which is bracing for an estimated 17 per cent decline in 2026. Apple’s September 9 event has the industry watching closely, with expectations building for its first foldable iPhone to take centre stage alongside standard model refreshes and the keynote debut of new CEO John Ternus. The US tech giant’s biggest product showcase of the",
+          "published": "2026-08-31T01:30:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "exec_change"
           ]
-        },
-        {
-          "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4Y0IwSnRuZkNoZll6UE1zVGtnbDhsb1RWNG9EUFgtYmhUWGxUWF9jOHdVTHdQNXp4bGJMWEJDMTQzYjVFRlY1Z3ozSXp4TE5MZXBaUmFLRzQwTFVDNVkzT281QjE5aGRvUnc?oc=5",
-          "summary": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류 &nbsp;&nbsp; AI타임스",
-          "published": "2026-08-30T08:02:07+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -294,63 +210,41 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "'위치주권' 확보 위한 국가위치인프라협회 출범",
-          "link": "https://zdnet.co.kr/view/?no=20260830114922",
-          "summary": "[지디넷코리아]자율주행과 로봇, 스마트시티, 물류, 재난안전 등 AI 기반 산업에서 사람과 차량, 사물의 정확한 위치를 파악하는 기술이 산업 전반의 공통 인프라로 주목받는 가운데, 위치 데이터 주권 확보와 관련 산업 생태계 구축을 위한 국가위치인프라협회가 출범한다.국가위치인프라협회 출범은 한동수 KAIST 전산학부 교수가 주도했다. 우선은 민간 협의체 형태로 구성했다. 창립 총회는 오는 9월 2일 국회의원회관 제3세미나실에서 개최한다. 총회에 이어 관련 현안을 논의할 ‘AI시대 국가위치인프라 주권과 대한민국 대응전략-데이터 주권 수호를 위한 방안 의견 수렴 세미나’도 개최될 예정이다.국회 세미나는 박희승·황정아 더불어민주당 의원이 주최하고, KAIST와 한국전자통신연구원(ETRI)이 주관한다.국가위치인프라협회는 국내 5,000대 1 축척 고정밀 지도 데이터의 구글 반출이 조건부 허용되면서 네이버와 카카오 등 국내 플랫폼 기업이 추진해온 지도 서비스와 자율주행, 로보틱스 등 미래 기술",
-          "published": "2026-08-30T02:49:22+00:00",
+          "title": "토스 \"외산 SASE 대신 자체 개발…'타이탄' 2000명 사용\"",
+          "link": "https://zdnet.co.kr/view/?no=20260831231056",
+          "summary": "[지디넷코리아]종합 금융 플랫폼 '토스'를 운영하는 비바리퍼블리카(Viva Republica)가 작년 2분기 외산 보안솔루션 사용을 종료, 현재 자체 개발한 보안 솔루션 '타이탄(Titan)'을 사용하고 있다. '토스'는 금융업 분류상 전자금융에 속한다. 전자금융회사 중 토스처럼 중요 보안 솔루션을 국산을 사용, 외산을 대체한 건 이례적이다.'토스'가 개발한 '타이탄'은 보안 솔루션 종류 중 SASE(Se­cure Access Service Edge)에 속한다. SASE는 네트워크와 보안 기능을 하나로 통합해 사용자랑 기기의 접근을 제어하는 제품(솔루션)이다. '타이탄'은 글로벌 보안기업 지스케일러의 제품을 대체했다.향후 비바리퍼블리카는 '타이탄' 사용을 전체 계열사(10곳)로 확대할 예정이다. 현재는 비바리퍼블리카 직원 2000명 정도가 사용하고 있다. 지디넷코리아는 지난 27일 비바리퍼블리카 지정호 CISO를 만나 '타이탄'과 관련한 이야기를 들어봤다. 지 CISO는 2024년 ",
+          "published": "2026-08-31T14:10:56+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 10,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "[속보] 李대통령, 국가 AI 전략委 부위원장에 하정우 전 AI수석 지명",
-          "link": "https://zdnet.co.kr/view/?no=20260830114551",
-          "summary": "[지디넷코리아]이재명 대통령이 대통령 직속 국가인공지능(AI)전략위원회 신임 상근부위원장에 하정우 전 대통령실 AI미래기획수석비서관을 지명했다.30일 청와대는 하 전 수석을 국가인공지능전략위원회 상근부위원장으로 선임했다. 임문영 전 상근부위원장이 지난 5월 초 광주 광산을 국회의원 보궐선거 출마를 위해 물러난 지 약 4개월 만에 공백이 채워졌다.하 신임 상근부위원장은 2025년 6월 이재명 정부 초대 대통령비서실 AI미래기획수석비서관에 발탁돼 국가인공지능전략위 간사를 맡으며 위원회 출범과 초기 정책 설계를 주도했다. 이후 올해 4월 부산 북구갑 국회의원 보궐선거 출마를 위해 수석직에서 물러났고, 낙선 후 6월 더불어민주당 북구갑 지역위원장을 맡았다.민간에서는 네이버 클로바 AI랩 연구소장, 네이버클라우드 AI이노베이션센터장, 네이버 퓨처AI센터장을 거치며 한국형 거대언어모델(LLM) '하이퍼클로바'와 '하이퍼클로바X' 개발을 이끌었다. AI미래포럼 공동의장도 맡았다.그는 1977년 ",
-          "published": "2026-08-30T02:51:47+00:00",
+          "title": "17g 초경량에 14일 배터리…화웨이 ‘밴드11’ 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260831181933",
+          "summary": "[지디넷코리아]화웨이코리아는 초경량 스마트 밴드 ‘화웨이 밴드 11’과 ‘화웨이 밴드11프로’를 출시했다고 31일 밝혔다.밴드11 정가는 7만 4900원, 밴드11프로는 9만 8900원이며, 출시 기념 이벤트가는 각각 7만 900원과 9만 3900원이다. 밴드11은 베이지, 블랙, 그린, 화이트, 퍼플, 밴드11프로는 블랙, 블루, 그린 색상이 마련됐다.네이버브랜드스토어, G마켓, 11번가 등에서 판매한다.밴드11과 밴드11프로는 스트랩 제외 무게가 각각 약 17g과 18g, 두께는 8.99mm의 초경량 디자인을 갖췄다. 전작보다 27% 넓어진 1.62형 아몰레드 디스플레이와 최대 14일 사용 가능한 배터리를 탑재했다.공통 기능으로 종일 심박변이도(HRV) 측정, 낮잠이 추가된 수면 분석, 휠체어 모드, 5ATM 방수, 안드로이드 9.0과 iOS 13.0 이상에서 크로스 플랫폼 호환을 지원한다.밴드11프로는 독립형 위성 측위(GNSS) 시스템을 탑재해 스마트폰 없이도 야외 운동 경로",
+          "published": "2026-08-31T09:23:00+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "하정우 \"AI 3강 넘어 '대체불가 대한민국' 만들 것\"",
-          "link": "https://zdnet.co.kr/view/?no=20260830144641",
-          "summary": "[지디넷코리아]하정우 신임 국가인공지능전략위원회 상근부위원장 내정자가 \"AI 3대 강국(G3)을 넘어 글로벌 AI 핵심 공급망에서 없어서는 안 될 '대체불가 국가 대한민국'을 만들겠다\"는 구상을 내놨다.하 내정자는 30일 청와대 지명 발표 직후 페이스북에 소회와 정책 방향을 담은 글을 올리며 AI 강국 대한민국 실현에 매진하겠다는 각오를 밝혔다.그는 챗GPT 공개 이후 AI 경쟁이 단순한 기술 경쟁을 넘어 국가 간 기술·안보 경쟁으로 확대되고 있다고 진단했다. 앤트로픽 최상위 모델 미토스5·페이블5에 대한 미국 정부의 수출통제, 오픈AI가 아스트라의 사이버보안 위험을 이유로 개발을 일시 중단한 사례 등을 들며 \"그만큼 앞으로 우리가 해야 할 일이 많다\"고 했다.하 내정자는 글로벌 경쟁 속에서도 한국에 분명한 기회가 있다고 봤다. 메모리 반도체 분야의 독보적 경쟁력, 미국·중국을 추격할 수 있는 프론티어 AI 3위권 역량, 세계 최고 수준의 제조 기반을 앞세운 피지컬 AI 도약 잠재력",
-          "published": "2026-08-30T07:09:41+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
