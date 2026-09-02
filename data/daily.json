@@ -1,24 +1,44 @@
 {
-  "generated_at": "2026-09-01T23:08:35.456468+00:00",
+  "generated_at": "2026-09-02T23:07:52.699989+00:00",
   "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Pallas-1 sees China’s Galactic Energy join reusable launch push, closing in on SpaceX",
-          "link": "https://www.scmp.com/tech/big-tech/article/3365964/pallas-1-sees-chinas-galactic-energy-join-reusable-launch-push-closing-spacex?utm_source=rss_feed",
-          "summary": "Chinese rocket maker Galactic Energy has successfully sent its Pallas-1 medium-to-large reusable rocket into orbit, marking the latest milestone in Beijing’s drive to develop reusable launch capabilities and narrow the gap with Elon Musk’s SpaceX. The two-stage, liquid-propellant rocket lifted off at 10am on Tuesday from a self-built launch pad at the Jiuquan Satellite Launch Centre’s commercial pilot zone in northwestern China’s Gansu province before entering its designated orbit, according to.",
-          "published": "2026-09-01T08:30:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Musk Ally Anthony Armstrong Joins Coinbase’s Board of Directors",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/musk-ally-anthony-armstrong-joins-coinbase-s-board-of-directors",
+          "summary": "Coinbase Global Inc. is adding Anthony Armstrong, an Elon Musk ally and former Morgan Stanley banker, to its board of directors.",
+          "published": "2026-09-02T20:10:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcXhMU3NDZlBMLTZRbTNRTldrVzd4SU02YzI0V2FWRlZReGswbEkzdDJ4UjF5a21xc2tRZ01nVERGYTVla3ZkRHZQSE1jSWtWZ09TZzAzWThqZ1lBWU12ejRtcHFKRmdaZ2c?oc=5",
+          "summary": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-02T08:38:43+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -33,30 +53,52 @@
       "count": 8,
       "articles": [
         {
-          "title": "Apple Maps Renames Lake Ontario ‘Lake America’ After Trump Order",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-maps-renames-lake-ontario-lake-america-after-trump-order",
-          "summary": "Apple Inc. renamed Lake Ontario “Lake America” on its maps service, following a similar move by Alphabet Inc.’s Google, in the wake of an order from US President Donald Trump.",
-          "published": "2026-09-01T20:11:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "궁극의 선명함: AGON by AOC, 세계 최초 5K NVIDIA G-SYNC® Pulsar 게이밍 모니터 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260902191003",
+          "summary": "[지디넷코리아]AGP327KG, 5K 초고해상도와 NVIDIA G-SYNC Pulsar 기술을 결합해 탁월한 모션 선명도와 부드럽고 화면 찢어짐 없는 가변 주사율 게이밍 경험 제공 타이베이, 2026년 9월 2일 / -- 2025 IDC 보고서 기준 7년 연속 세계 1위 게이밍 모니터 브랜드로 선정된 AGON by AOC가 9월 1일 엔비디아 지싱크 펄사(NVIDIA G-SYNC Pulsar) 기술을 탑재한 세계 최초의 5K 게이밍 모니터 AGON AGP327KG를 공개했다. 5K(5120&times;2880) 초고해상도와 첨단 모션 선명도 기술을 결합한 AGP327KG는 고성능 PC 게이밍 환경에서 뛰어난 이미지 디테일과 빠른 반응성, 정밀한 화면 표현을 제공한다. AGON by AOC AGP327KG — the world’s first 5K gaming monitor featuring NVIDIA G-SYNC&reg; Pulsar technology. 엔비디아 지포스(GeForc",
+          "published": "2026-09-02T10:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 9,
-            "source": 3,
-            "recency": 3,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "OpenAI Will Limit Access to New Astra Model’s Cybersecurity Features",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-01/openai-will-limit-access-to-new-astra-model-s-cybersecurity-features",
-          "summary": "OpenAI plans to soon roll out a powerful new artificial intelligence model called Astra, but said it will limit who can use the software’s most cutting-edge cybersecurity capabilities.",
-          "published": "2026-09-01T20:00:00+00:00",
+          "title": "Apple: CEO John Ternus recibirá US$58 millones en 2027, Cook US$47 millones",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/apple-ceo-john-ternus-recibira-us-58-millones-en-2027-cook-us-47-millones",
+          "summary": "Cook deja el cargo de CEO tras 15 años al frente de Apple.",
+          "published": "2026-09-02T18:08:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Lutnick Says Anthropic Has Patched Relations With US Government",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/lutnick-says-anthropic-has-patched-relations-with-us-government",
+          "summary": "US Commerce Secretary Howard Lutnick said that Anthropic PBC has patched its relationship with the Trump administration, signaling a possible end to months of sharp differences over security between the US and the artificial intelligence developer.",
+          "published": "2026-09-02T20:13:27+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -73,32 +115,30 @@
           "event_labels": []
         },
         {
-          "title": "Manus resumes solo operations after collapse of US$2 billion Meta deal",
-          "link": "https://www.scmp.com/tech/big-tech/article/3365986/manus-resumes-solo-operations-after-collapse-us2-billion-meta-deal?utm_source=rss_feed",
-          "summary": "The Chinese-founded artificial intelligence start-up Manus announced on Tuesday that it had formally resumed independent operations, more than four months after Beijing blocked its US$2 billion acquisition by Meta Platforms. The company’s founding team would continue to lead Manus as an “independent agent lab”, the firm said in a blog post on its website, as it sought to move on from a months-long saga that has sent ripples through the Chinese and global technology sectors. The announcement came",
-          "published": "2026-09-01T10:30:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
+          "summary": "Broadcom Inc. predicted a boom in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia Corp.’s dominance in the lucrative market.",
+          "published": "2026-09-02T20:19:59+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Call for Trump-Xi AI safety talks comes as state media slams US AI governance",
-          "link": "https://www.scmp.com/tech/policy/article/3365980/call-trump-xi-ai-safety-talks-comes-state-media-slams-us-ai-governance?utm_source=rss_feed",
-          "summary": "An OpenAI executive and former White House adviser is calling for AI safety cooperation between Washington and Beijing ahead of a summit between US President Donald Trump and Chinese leader Xi Jinping, even as Chinese state media launch a scathing attack on American frontier governance in artificial intelligence. “I have always believed US/China AI safety collaboration would be desirable but thought it was unlikely to happen,” Dean Ball, OpenAI’s head of strategic futures, wrote on X on Tuesday.",
-          "published": "2026-09-01T12:00:10+00:00",
+          "title": "Frontier AI at a cost: what Anthropic’s Fable 5.1 means for the US-China model race",
+          "link": "https://www.scmp.com/tech/big-tech/article/3366125/frontier-ai-cost-what-anthropics-fable-51-means-us-china-model-race?utm_source=rss_feed",
+          "summary": "Anthropic’s powerful new Claude Fable 5.1 model has widened its lead in performance benchmarks over Chinese rivals, even as budget-friendly open-weight models from China continue to gain commercial traction globally. The American company said on Wednesday that Fable 5.1, along with a restricted-access version called Mythos 5.1, was the world’s most advanced model for software coding and complex knowledge work. The standard version scored 66 on Artificial Analysis’ Intelligence Index, taking the.",
+          "published": "2026-09-02T11:30:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -115,52 +155,10 @@
           "event_labels": []
         },
         {
-          "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-          "link": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How engineered microbes could help feed the world’s crops Fertilizer is crucial for the global food supply, but making it uses a lot of energy and produces a lot of emissions.&#8230;",
-          "published": "2026-09-01T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "가트너, 내년 AI보안 시장 69% 성장…'사용 통제' 73%로 최고",
-          "link": "https://zdnet.co.kr/view/?no=20260901225713",
-          "summary": "[지디넷코리아]가트너(Gartner)가 내년 AI보안 시장 규모를 47억 8300만 달러(약 6조 6천억 원)로 성장할 것으로 추정했다. 올해보다 약 69% 증가한 수치다. 2028년에는 약 77억 달러(약 10조 6천억 원)로 성장할 전망이다. 가트너가 말하는 AI 보안 시장은 ▲AI 애플리케이션 보안 ▲AI 사용 통제 ▲AI 거버넌스 플랫폼 ▲AI 게이트웨이 ▲기타 AI보안 등 다섯 가지다. 기업이 AI를 안전하고 책임감 있게 사용하고 관련 규제를 준수할 수 있도록 지원하는 다양한 소프트웨어와 플랫폼을 말한다. AI 애플리케이션 보안이 내년에 가장 큰 지출 규모를 유지하며 약 8억 5100만 달러(약 1조 2천억 원)에 달하고, AI 사용 통제는 약 7억 4900만 달러(약 1조 320억 원)로 뒤를 이을 것으로 예상했다. 하지만 성장률은 다르다. AI 사용 통제 분야가 73%로 가장 높고, AI 게이트웨이가 70.9%로 뒤를 이었다. 우파디야이 가트너 애널리스트는 “AI 런타임",
-          "published": "2026-09-01T13:57:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Apple Sets Pay Targets at $58 Million for Ternus, $47 Million for Cook",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-01/apple-sets-pay-targets-at-58-million-for-ternus-47-million-for-cook",
-          "summary": "Apple Inc. said that new Chief Executive Officer John Ternus will get a compensation package worth about $58 million in fiscal 2027, while Tim Cook’s role as executive chairman will pay around $47 million.",
-          "published": "2026-09-01T20:52:44+00:00",
+          "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+          "summary": "Meta Platforms Inc. released its most powerful artificial intelligence model yet, with its chief AI officer saying its capabilities are edging closer to top competitors.",
+          "published": "2026-09-02T19:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -177,25 +175,45 @@
           "event_labels": []
         },
         {
-          "title": "FTC, 아마존 고소…\"광고 경매시스템 조작해 200억 달러 부당이득\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4tSjFWNHhDVzRXUjFiamxjQkZmTldUajdNNDRzc2QwT0l2SW5jWVhuZm1wS2JOZWIxM3U4eklMWEFlYUlzckN0Mmp3OG5mUkN4Ym1xRHNpVmdFN3BzUmJxU3VsYTBBVTVxUW1YU2x4VUTSAXRBVV95cUxPSFFOSmtLS1lqdHU4dTZDd21qeUJaSk5uZk1vLWFvMTNweVNEU0tYVm1Jbm13ZHhzWjg1NnpjMUs3LV9xQllDeGEwUGNMbGhxbUx5Z0t5N2JJZUpoN1pHdGlhVGhOdjVRNmstX0k1amg1ZjNYZw?oc=5",
-          "summary": "FTC, 아마존 고소…\"광고 경매시스템 조작해 200억 달러 부당이득\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-01T01:08:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "Microsoft to Disclose Azure Sales After Investor Gripes",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-02/microsoft-to-disclose-azure-sales-after-years-of-investor-gripes",
+          "summary": "Microsoft Corp. will begin disclosing quarterly sales for its Azure cloud unit, reversing course after years of criticism from Wall Street regarding a lack of information about the company’s most important growth engine.",
+          "published": "2026-09-02T20:33:47+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "존 터너스 애플 신임 CEO 출사표… \"경이로운 차세대 혁신 보여줄 것\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X3V5Yk1uQ0Z1bm9KTExyX2FGeUh6UXhUc0haYmZsQmpTMXJ2UFBaLVJZdmthVEtsdWJxNnRsbDFkekxla0hwN0dfN0J6dDRuXzB4MmE0UnNkSGplSGVZeHhDTFJWQzlRVWc?oc=5",
+          "summary": "존 터너스 애플 신임 CEO 출사표… \"경이로운 차세대 혁신 보여줄 것\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-02T05:24:29+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": -3
+            "event_bonus": 2,
+            "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "exec_change"
           ]
         }
       ]
@@ -205,35 +223,88 @@
       "count": 2,
       "articles": [
         {
-          "title": "Bitcoin ETF Buyers Return as $80,000 Level Tests Market Rally",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-01/bitcoin-etf-buyers-return-as-80-000-level-tests-market-rally",
-          "summary": "The investors who helped propel Bitcoin into its Wall Street era are showing signs of coming back, offering a crucial test of whether its latest rally can turn into something bigger.",
-          "published": "2026-09-01T18:56:27+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "스테이킹된 가상자산도 압류 대상…10월부터 적용",
+          "link": "https://zdnet.co.kr/view/?no=20260902181535",
+          "summary": "[지디넷코리아]올해 10월부터 채무자의 가상자산을 압류하고 매각해 현금화하는 제도가 시행된다. 법원의 압류명령에 따라 스테이킹된 가상자산도 압류 대상에 포함된다.2일 가상자산 거래소 업비트는 다음달부터 시행되는 ‘민사집행규칙 일부개정규칙안’에 따라 이러한 내용의 이용약관 개정을 지난 1일 안내했다.업비트는 법원 결정이나 명령에 따라 사용자의 가상자산반환청구권을 양도하고, 해당 가상자산에 대한 강제집행에 필요한 조치를 취할 수 있다는 이용제한 조항을 신설했다.사용자가 스테이킹한 가상자산에 대해서도 이를 해지하는 언스테이킹 절차를 진행할 수 있다는 조항도 새로 마련했다.스테이킹은 블록체인에 가상자산을 일정 기간 예치해 네트워크 검증에 참여하고 그 대가로 보상을 받는 것을 말한다. 법원의 명령이나 결정에 따라 이용자가 예치한 가상자산의 스테이킹을 해지하고 보상 지급을 제한할 수 있다는 설명이다.이같은 조치는 지난 7월 2일 대법원이 ‘민사집행규칙 일부개정규칙안’을 입법예고한 데 따른 것이",
+          "published": "2026-09-02T09:25:36+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "스트래티지, 10주 만에 비트코인 매입 재개…5천억원어치 또 샀다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45U1I4dm4zQ3FXOEY2c2VGNzd0RV9aNi1LdnVVU0NHMXJWNWlLbnNfWFI0enRGNGtEeDRsVlZRV0tGMjhCQ29QRm92YVV0N0hPbHc?oc=5",
-          "summary": "스트래티지, 10주 만에 비트코인 매입 재개…5천억원어치 또 샀다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-01T01:55:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "사기범을 붙잡아 두는 AI, 112억 원 조달…호주 아파테AI 미국 법인 전환",
+          "link": "https://zdnet.co.kr/view/?no=20260902222034",
+          "summary": "[지디넷코리아]사기 전화범을 상대로 대화하는 AI를 개발하는 호주 스타트업 아파테AI가 현지 시각 8월 31일 시드 라운드로 815만 달러(약 112억 원)를 조달했다고 발표했다. 실리콘밸리 벤처캐피털 로비 캐피털이 이끌었고 OIF 벤처스와 인베스터블, 콘셉트 벤처스, 바오밥 벤처스가 참여했다. 회사는 라운드가 초과 청약됐다고 밝혔다.아파테AI가 개발한 제품은 사기범을 상대로 대화하는 AI 에이전트다. 회사 설명에 따르면 실제 피해자를 흉내 내도록 만든 음성·문자 에이전트 수천 개가 사기범과 한 번에 최대 두 시간까지 대화를 이어 가며 시간과 자원을 소모시키고, 그 사이 사칭 수법과 피싱 URL, 대포 통장, 암호화폐 지갑 주소 같은 정보를 뽑아낸다. 아파테AI는 자사 방식을 \"탐지, 우회, 교란, 해독\"으로 정리한다. 기존 시스템에는 인터넷 전화 규격을 통해 연결되며 하루 안에 배치할 수 있다고 설명한다.아파테AI는 지금까지 위협 행위자와 250만 건이 넘는 자율 대화를 진행했고 ",
+          "published": "2026-09-02T13:20:34+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 2,
+      "articles": [
+        {
+          "title": "미래에셋, 디지털X CEO 안 바꾼다…'오세진 체제' 유지 가닥 - news.einfomax.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UczVGaE9GMV9PV1FaUUNBVDFTaUtrNnhMcEp3Y1hGS0pWYzE0WlZ2U01JMjVMOEdURmVrRGJBQzZVdDNZV2ZKVUphZHdxM3oxRDRUOV9xUUo0QzloWTJWakR0MjVocXVJc09ielFXb0E?oc=5",
+          "summary": "미래에셋, 디지털X CEO 안 바꾼다…'오세진 체제' 유지 가닥 &nbsp;&nbsp; news.einfomax.co.kr",
+          "published": "2026-09-02T22:42:29+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "미래에셋운용, S&P500 커버드콜 ETF 월중 분배 전환 - news.einfomax.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wUUdhdVRRZnQyaERGMUVETkwxTlQ4V1M5Qmt3VTVFeDFzS2cwRkdvQVllRFFjRmFrRHdsUXVqWmZuV1FuSmlYc0ppOGVuOFdfZVdoYUU5T2htY21iMTBxTm1vOUVMWnZBTmFicWRLT0s?oc=5",
+          "summary": "미래에셋운용, S&amp;P500 커버드콜 ETF 월중 분배 전환 &nbsp;&nbsp; news.einfomax.co.kr",
+          "published": "2026-09-02T01:17:23+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -245,77 +316,6 @@
           "event_labels": []
         }
       ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 3,
-      "articles": [
-        {
-          "title": "국정원 \"위성정보, 더 이상 전문가 영역 아냐\"",
-          "link": "https://zdnet.co.kr/view/?no=20260901211903",
-          "summary": "[지디넷코리아]국가정보원과 우주항공청은 2일부터 3일까지 대전컨벤션센터(제1전시장)에서 '위성활용 콘퍼런스 2026'을 공동으로 개최한다.올해가 5회째다. 위성활용 콘퍼런스는 위성정보와 우주기술 활용이 점차 확대됨에 따라, 국내 산학연 및 정부기관간 협력 생태계를 구축하고 시너지 효과를 발휘하기 위해 지난 2022년부터 매년 개최하고 있다.올해는 ‘New Space, New Insight – 위성정보로 만드는 새로운 통찰’이란 주제로 국내외 위성 활용 기업과 대학, 연구소, 정부 관계자 등 1300여명이 참여한다. 한국항공우주연구원이 행사를 주관한다.1일차는 네이버랩스, Airbus D&amp;S, Planet Labs, ICEYE 임원의 기조연설을 시작으로 △Vantor·텔레픽스 등 기업 세션 △차세대 중형위성 활용 △ 위성기반 재난재해 모니터링 세션을 운영한다.2일차에는 에스아이에이·메이사·AWS 등 국내외 기업 발표와 함께, 경기도·제주도 등 지자체의 위성 활용 및 국내 기업·",
-          "published": "2026-09-01T12:19:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "슈퍼패스트, '슈퍼패스트 넥스트' 2개사 선정…트라이펄·키메이커게임즈 투자 유치",
-          "link": "https://zdnet.co.kr/view/?no=20260901171139",
-          "summary": "[지디넷코리아]차세대 게임 발굴 및 육성 프로그램 '슈퍼패스트 넥스트'의 최종 선정 개발사 2곳이 확정됐다.슈퍼패스트는 게임 발굴·투자 프로그램인 '슈퍼패스트 넥스트'의 최종 선정사로 트라이펄게임즈와 키메이커게임즈를 확정했다고 1일 밝혔다.총 100개 팀이 지원한 이번 프로그램에서는 서류 심사를 통과한 20개 팀의 피칭데이를 거쳐 완성도와 개발 역량, 성장 가능성을 종합 평가해 최종 2개사를 선발했다.선정된 트라이펄게임즈는 카카오엔터테인먼트 웹툰 지식재산권(IP)을 활용한 로그라이트 액션 '레벨업 못하는 플레이어'와 소울라이크 'V.E.D.A'를 개발 중인 PC·콘솔 액션 전문 개발사다.누적 1000만 다운로드를 기록한 1인 개발사 키메이커게임즈는 최근 스팀 데모를 선보인 신작 '아이언 섀도우: 서바이벌 프로토콜'을 개발하고 있다.슈퍼패스트는 두 개발사의 신작 '레벨업 못하는 플레이어'와 '아이언 섀도우: 서바이벌 프로토콜'을 스팀 전문 자체 퍼블리싱 레이블 '오프문'을 통해 202",
-          "published": "2026-09-01T08:20:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "웹젠, 신작 전략 RPG '디펜스 게임의 폭군이 되었다: 라스트 스테이지' BI 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260901181306",
-          "summary": "[지디넷코리아]네이버웹툰 인기 IP를 기반으로 개발 중인 지휘 전략 RPG 신작의 공식 명칭과 BI가 확정됐다.웹젠은 자체 개발 신작 '디펜스 게임의 폭군이 되었다: 라스트 스테이지(이하 디겜폭)'의 브랜드 아이덴티티(BI)를 공개했다고 1일 밝혔다.이번 신작은 자회사 웹젠크레빅스가 네이버웹툰의 동명 인기 웹툰 IP를 활용해 개발 중인 지휘 전략 RPG로, 2027년 정식 출시를 목표로 하고 있다.부제 '라스트 스테이지'는 원작에서 확장되는 마지막 이야기를 게임을 통해 선보인다는 의미를 담았다. 게임은 원작 세계관을 기반으로 등장인물들의 신규 에피소드와 관계 설정을 추가해 차별화된 서사를 풀어낼 계획이다. 시각적으로는 언리얼 엔진 5 기반의 3D 배경에 수작업 픽셀아트를 더한 디오라마 픽셀아트 기법을 적용해 도트 그래픽 특유의 감성을 입체적으로 구현한다.원작의 핵심 흐름인 '탐사-방어전-영지경영' 구조는 파티 조합과 전술 중심의 플레이 시스템으로 재구성된다. 이용자는 캐릭터의 역할군",
-          "published": "2026-09-01T09:20:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
