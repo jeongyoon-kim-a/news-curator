@@ -1,50 +1,32 @@
 {
-  "generated_at": "2026-09-02T23:07:52.699989+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-09-03T23:04:55.274162+00:00",
+  "total_articles": 15,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "Musk Ally Anthony Armstrong Joins Coinbase’s Board of Directors",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/musk-ally-anthony-armstrong-joins-coinbase-s-board-of-directors",
-          "summary": "Coinbase Global Inc. is adding Anthony Armstrong, an Elon Musk ally and former Morgan Stanley banker, to its board of directors.",
-          "published": "2026-09-02T20:10:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkcXhMU3NDZlBMLTZRbTNRTldrVzd4SU02YzI0V2FWRlZReGswbEkzdDJ4UjF5a21xc2tRZ01nVERGYTVla3ZkRHZQSE1jSWtWZ09TZzAzWThqZ1lBWU12ejRtcHFKRmdaZ2c?oc=5",
-          "summary": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-02T08:38:43+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
+          "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
+          "summary": "US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and China compete in an intensifying technological arms race. Speaking at a G20 meeting alongside US Commerce Secretary Howard Lutnick in Chapel Hill, North Carolina, on Wednesday, Huang urged policymakers to pursue AI regulations targeting “actual and pragmatic harm” rather than...",
+          "published": "2026-09-03T08:00:26+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     },
@@ -53,52 +35,76 @@
       "count": 8,
       "articles": [
         {
-          "title": "궁극의 선명함: AGON by AOC, 세계 최초 5K NVIDIA G-SYNC® Pulsar 게이밍 모니터 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260902191003",
-          "summary": "[지디넷코리아]AGP327KG, 5K 초고해상도와 NVIDIA G-SYNC Pulsar 기술을 결합해 탁월한 모션 선명도와 부드럽고 화면 찢어짐 없는 가변 주사율 게이밍 경험 제공 타이베이, 2026년 9월 2일 / -- 2025 IDC 보고서 기준 7년 연속 세계 1위 게이밍 모니터 브랜드로 선정된 AGON by AOC가 9월 1일 엔비디아 지싱크 펄사(NVIDIA G-SYNC Pulsar) 기술을 탑재한 세계 최초의 5K 게이밍 모니터 AGON AGP327KG를 공개했다. 5K(5120&times;2880) 초고해상도와 첨단 모션 선명도 기술을 결합한 AGP327KG는 고성능 PC 게이밍 환경에서 뛰어난 이미지 디테일과 빠른 반응성, 정밀한 화면 표현을 제공한다. AGON by AOC AGP327KG — the world’s first 5K gaming monitor featuring NVIDIA G-SYNC&reg; Pulsar technology. 엔비디아 지포스(GeForc",
-          "published": "2026-09-02T10:10:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple: CEO John Ternus recibirá US$58 millones en 2027, Cook US$47 millones",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/apple-ceo-john-ternus-recibira-us-58-millones-en-2027-cook-us-47-millones",
-          "summary": "Cook deja el cargo de CEO tras 15 años al frente de Apple.",
-          "published": "2026-09-02T18:08:03+00:00",
+          "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
+          "summary": "Crusoe, a cloud-computing provider and data center developer doing business with OpenAI, Microsoft Corp. and Meta Platforms Inc., has raised over $3 billion in a funding round that values the startup at roughly $30 billion, according to people familiar with the situation.",
+          "published": "2026-09-03T22:38:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 18,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "Lutnick Says Anthropic Has Patched Relations With US Government",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/lutnick-says-anthropic-has-patched-relations-with-us-government",
-          "summary": "US Commerce Secretary Howard Lutnick said that Anthropic PBC has patched its relationship with the Trump administration, signaling a possible end to months of sharp differences over security between the US and the artificial intelligence developer.",
-          "published": "2026-09-02T20:13:27+00:00",
+          "title": "엔비디아, 'AI 모델 플랫폼' 허깅페이스 129억달러에 인수 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ya0l0V0R6RVd2eHdWUThBSzFGSlQ2Zk93bDVmbnRKTVMteHozQ0JqeWR0Tl8xVUFTdkRhYkdrVVNQMmxOOXgzRmNoZndEcml2OGxFOVBRajJ0Q0dHM1N5X0NmWHlvRUNMTFJtbzVkQXo?oc=5",
+          "summary": "엔비디아, 'AI 모델 플랫폼' 허깅페이스 129억달러에 인수 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-03T14:29:43+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
+          "summary": "Crusoe, a data center upstart with contracts to supply AI computing power to the likes of Meta Platforms Inc. and Oracle Corp., has signed a cloud contract with trading firm Jane Street Group valued at around $13 billion, according to people with knowledge of the matter.",
+          "published": "2026-09-03T18:53:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "OpenAI Rolls Out GPT-6 Astra Model With Cyber Guardrails",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
+          "summary": "OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general intelligence.",
+          "published": "2026-09-03T18:00:24+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -115,10 +121,10 @@
           "event_labels": []
         },
         {
-          "title": "Broadcom Predicts Surge in AI Chip Sales Over Next Two Years",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/broadcom-forecast-misses-estimates-disappointing-investors",
-          "summary": "Broadcom Inc. predicted a boom in artificial intelligence chip sales over the next two years, helping renew optimism that it can challenge Nvidia Corp.’s dominance in the lucrative market.",
-          "published": "2026-09-02T20:19:59+00:00",
+          "title": "Anthropic Executive Doesn’t Want to ‘Buy Market Share’ With Price Cuts",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/anthropic-executive-doesn-t-want-to-buy-market-share-with-price-cuts",
+          "summary": "The Claude maker is competing with more affordable options from rivals",
+          "published": "2026-09-03T21:30:06+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -135,107 +141,89 @@
           "event_labels": []
         },
         {
-          "title": "Frontier AI at a cost: what Anthropic’s Fable 5.1 means for the US-China model race",
-          "link": "https://www.scmp.com/tech/big-tech/article/3366125/frontier-ai-cost-what-anthropics-fable-51-means-us-china-model-race?utm_source=rss_feed",
-          "summary": "Anthropic’s powerful new Claude Fable 5.1 model has widened its lead in performance benchmarks over Chinese rivals, even as budget-friendly open-weight models from China continue to gain commercial traction globally. The American company said on Wednesday that Fable 5.1, along with a restricted-access version called Mythos 5.1, was the world’s most advanced model for software coding and complex knowledge work. The standard version scored 66 on Artificial Analysis’ Intelligence Index, taking the.",
-          "published": "2026-09-02T11:30:06+00:00",
+          "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
+          "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
+          "summary": "Enflame Technology, one of China’s leading AI chipmakers, has sparked a retail frenzy for its 6.12 billion yuan (US$910.9 million) initial public offering in Shanghai’s tech-heavy Star Market, underscoring growing investor appetite for home-grown alternatives to Nvidia. The Tencent Holdings-backed chipmaker saw the retail portion of its IPO oversubscribed by 4,073 times, with about 7 million online investors alone submitting orders for 42.1 billion shares, according to its filing to the exchange",
+          "published": "2026-09-03T06:17:41+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Meta Releases More Powerful AI Model, Edging Closer to Rivals",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
-          "summary": "Meta Platforms Inc. released its most powerful artificial intelligence model yet, with its chief AI officer saying its capabilities are edging closer to top competitors.",
-          "published": "2026-09-02T19:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Microsoft to Disclose Azure Sales After Investor Gripes",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-02/microsoft-to-disclose-azure-sales-after-years-of-investor-gripes",
-          "summary": "Microsoft Corp. will begin disclosing quarterly sales for its Azure cloud unit, reversing course after years of criticism from Wall Street regarding a lack of information about the company’s most important growth engine.",
-          "published": "2026-09-02T20:33:47+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "존 터너스 애플 신임 CEO 출사표… \"경이로운 차세대 혁신 보여줄 것\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4X3V5Yk1uQ0Z1bm9KTExyX2FGeUh6UXhUc0haYmZsQmpTMXJ2UFBaLVJZdmthVEtsdWJxNnRsbDFkekxla0hwN0dfN0J6dDRuXzB4MmE0UnNkSGplSGVZeHhDTFJWQzlRVWc?oc=5",
-          "summary": "존 터너스 애플 신임 CEO 출사표… \"경이로운 차세대 혁신 보여줄 것\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-02T05:24:29+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
+          ]
+        },
+        {
+          "title": "엔비디아가 대만 반도체 채권을 산 이유는 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbHV6cy1YVEN5SWtIcU12dmFfTWp2c1BHZWFUXzhCd3NmN2pvLWlCazB2a0t2eGFnbGozQVNwanNaRnJ2cEtEUnJ6MGpKbkRFTG9RUWRZZGhjaVRIQUNkX29VMjR3N0hDRENOUEpLeWs?oc=5",
+          "summary": "엔비디아가 대만 반도체 채권을 산 이유는 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-03T04:27:56+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\"",
+          "link": "https://zdnet.co.kr/view/?no=20260903171308",
+          "summary": "[지디넷코리아]미국 정부가 인공지능(AI) 학습과 저작권을 둘러싼 법적 공방에서 오픈AI 측 주장을 지지하고 나섰다. 저작권 규제로 AI 개발을 제한할 경우 미국의 기술 발전과 산업 경쟁력을 떨어뜨릴 수 있다는 판단에서다.2일(현지시간) 테크크런치와 로이터 등에 따르면 트럼프 행정부는 뉴욕타임스(NYT)가 오픈AI를 상대로 제기한 저작권 소송에서 오픈AI의 주장을 지지하는 20쪽 분량의 의견서를 뉴욕남부연방법원에 제출했다. 미국 정부가 AI 학습을 둘러싼 저작권 소송에서 공식 입장을 밝힌 것은 이번이 처음이다.이번 소송은 NYT가 2023년 12월 27일 오픈AI와 마이크로소프트(MS)를 상대로 소송을 제기하면서 시작됐다. NYT는 오픈AI가 챗GPT 등 AI 모델을 개발하는 과정에서 자사 기사 수백만 건을 허가 없이 학습에 사용해 저작권을 침해했다고 주장했다.NYT는 챗GPT가 이용자의 요청에 자사 기사 일부를 원문과 거의 동일하게 생성한 사례도 제시했다. 자사가 비용을 들여 생산",
+          "published": "2026-09-03T08:28:55+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
           ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "스테이킹된 가상자산도 압류 대상…10월부터 적용",
-          "link": "https://zdnet.co.kr/view/?no=20260902181535",
-          "summary": "[지디넷코리아]올해 10월부터 채무자의 가상자산을 압류하고 매각해 현금화하는 제도가 시행된다. 법원의 압류명령에 따라 스테이킹된 가상자산도 압류 대상에 포함된다.2일 가상자산 거래소 업비트는 다음달부터 시행되는 ‘민사집행규칙 일부개정규칙안’에 따라 이러한 내용의 이용약관 개정을 지난 1일 안내했다.업비트는 법원 결정이나 명령에 따라 사용자의 가상자산반환청구권을 양도하고, 해당 가상자산에 대한 강제집행에 필요한 조치를 취할 수 있다는 이용제한 조항을 신설했다.사용자가 스테이킹한 가상자산에 대해서도 이를 해지하는 언스테이킹 절차를 진행할 수 있다는 조항도 새로 마련했다.스테이킹은 블록체인에 가상자산을 일정 기간 예치해 네트워크 검증에 참여하고 그 대가로 보상을 받는 것을 말한다. 법원의 명령이나 결정에 따라 이용자가 예치한 가상자산의 스테이킹을 해지하고 보상 지급을 제한할 수 있다는 설명이다.이같은 조치는 지난 7월 2일 대법원이 ‘민사집행규칙 일부개정규칙안’을 입법예고한 데 따른 것이",
-          "published": "2026-09-02T09:25:36+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영 - mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GU0xrQ2VVQmV2SmRLWlM2S1lkbWk3RDFRWndPQzc4WnJnYWNWRnJyRnI4TkstY3FrR2lzcGNkUUx3aVJRS0xHcllGWXA5Rm0yZUE?oc=5",
+          "summary": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영 &nbsp;&nbsp; mk.co.kr",
+          "published": "2026-09-03T02:10:50+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -243,20 +231,40 @@
           "event_labels": []
         },
         {
-          "title": "사기범을 붙잡아 두는 AI, 112억 원 조달…호주 아파테AI 미국 법인 전환",
-          "link": "https://zdnet.co.kr/view/?no=20260902222034",
-          "summary": "[지디넷코리아]사기 전화범을 상대로 대화하는 AI를 개발하는 호주 스타트업 아파테AI가 현지 시각 8월 31일 시드 라운드로 815만 달러(약 112억 원)를 조달했다고 발표했다. 실리콘밸리 벤처캐피털 로비 캐피털이 이끌었고 OIF 벤처스와 인베스터블, 콘셉트 벤처스, 바오밥 벤처스가 참여했다. 회사는 라운드가 초과 청약됐다고 밝혔다.아파테AI가 개발한 제품은 사기범을 상대로 대화하는 AI 에이전트다. 회사 설명에 따르면 실제 피해자를 흉내 내도록 만든 음성·문자 에이전트 수천 개가 사기범과 한 번에 최대 두 시간까지 대화를 이어 가며 시간과 자원을 소모시키고, 그 사이 사칭 수법과 피싱 URL, 대포 통장, 암호화폐 지갑 주소 같은 정보를 뽑아낸다. 아파테AI는 자사 방식을 \"탐지, 우회, 교란, 해독\"으로 정리한다. 기존 시스템에는 인터넷 전화 규격을 통해 연결되며 하루 안에 배치할 수 있다고 설명한다.아파테AI는 지금까지 위협 행위자와 250만 건이 넘는 자율 대화를 진행했고 ",
-          "published": "2026-09-02T13:20:34+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "한은 \"스테이블코인 시장 개방 시 달러-원 연계 강화…수요 충격 환율로\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNm90aDhYelN3VTJUbGw3WHotdmhUcGUzN29oRm40Um9qY1pVcGZHcWN0WnpLak45dWRlazkzS0kxSUd0YWExdnY2YXpPUHRFY2paX1hVdzBQR1FDbW5pT25DR2Q2S3RfeVR5TkpLVF8?oc=5",
+          "summary": "한은 \"스테이블코인 시장 개방 시 달러-원 연계 강화…수요 충격 환율로\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-03T03:00:30+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 2,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "민주당 “디지털자산기본법, 9월말 공청회 진행” - mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OVlUdl85LUM4ek1wMTQwREhUdUFfS3JyUWtVZURpNldOMDBRZ253TG84Q0dIMWs3c3Z0akZaQndVOGFZcTNwR2QtdUhQUEdockE?oc=5",
+          "summary": "민주당 “디지털자산기본법, 9월말 공청회 진행” &nbsp;&nbsp; mk.co.kr",
+          "published": "2026-09-03T04:45:45+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -266,49 +274,62 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "미래에셋, 디지털X CEO 안 바꾼다…'오세진 체제' 유지 가닥 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UczVGaE9GMV9PV1FaUUNBVDFTaUtrNnhMcEp3Y1hGS0pWYzE0WlZ2U01JMjVMOEdURmVrRGJBQzZVdDNZV2ZKVUphZHdxM3oxRDRUOV9xUUo0QzloWTJWakR0MjVocXVJc09ielFXb0E?oc=5",
-          "summary": "미래에셋, 디지털X CEO 안 바꾼다…'오세진 체제' 유지 가닥 &nbsp;&nbsp; news.einfomax.co.kr",
-          "published": "2026-09-02T22:42:29+00:00",
+          "title": "네이버클라우드, 정부 '사이버보안 특화 AI' 개발 맡는다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTFItbE4yZWNkOXdZYlZRWExaLUJPS0VsRVFLZ3lwY1FxV2UyZWU3UEpkYkdWQ0EwLWZkVzZSeG5CSkhVdlo4VjI2MUZqZDFydV9QemxsLTVmaG5fM1Utc1ZpUXhkTU1TR3QyY21TNE8?oc=5",
+          "summary": "네이버클라우드, 정부 '사이버보안 특화 AI' 개발 맡는다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-03T01:45:25+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 12,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "미래에셋운용, S&P500 커버드콜 ETF 월중 분배 전환 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wUUdhdVRRZnQyaERGMUVETkwxTlQ4V1M5Qmt3VTVFeDFzS2cwRkdvQVllRFFjRmFrRHdsUXVqWmZuV1FuSmlYc0ppOGVuOFdfZVdoYUU5T2htY21iMTBxTm1vOUVMWnZBTmFicWRLT0s?oc=5",
-          "summary": "미래에셋운용, S&amp;P500 커버드콜 ETF 월중 분배 전환 &nbsp;&nbsp; news.einfomax.co.kr",
-          "published": "2026-09-02T01:17:23+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBULTRGMGpsWjlCRXktSkZLaDFiTHVkX1RDSzloMXdEcFRGSXd3MExfRVBnbXpwQ2dxYXdqRFFhUGlKR0xyN1Z3MHVyS0ZOOC01bDMtUTRmbXZobldzWV9vLVBRQUYzZmRsb3c?oc=5",
+          "summary": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-03T03:06:01+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "보안 특화모델 참여 보안기업들 \"역할 아직 분배 안해\"",
+          "link": "https://zdnet.co.kr/view/?no=20260903114626",
+          "summary": "[지디넷코리아]'사이버보안 특화' 인공지능(AI) 모델 개발 사업에 네이버 클라우드 컨소시엄이 최종 사업자로 선정됐다. 아직 세부적인 개발 계획은 명확하게 나오지 않은 상황이지만, 중간평가가 예정된 5개월간 역할 분배 및 개발 계획 수립을 마치고 본격적인 개발에 착수할 것으로 보인다.과학기술정보통신부(과기정통부)는 3일 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업 공모에서 최종 사업자로 네이버 클라우드 컨소시엄을 선정, 발표했다.이번 사업 평가에서는 기술력 및 개발 경험, 개발전략·기술, 개발 목표 등의 우수성·실현 가능성, 시장성 및 파급효과 등을 종합적으로 평가했다. 네이버클라우드는 대규모 산학연 컨소시엄 구성과 복수의 에이전트·하네스 구성 등에서 긍정적인 평가를 받았다.네이버클라우드 컨소시엄은 네이버클라우드를 주관기관으로 32개 기업 및 기관이 참여한다. 구체적으로 ▲LG CNS ▲LG경영개발원 AI연구원 ▲LG유플러스 ▲하이퍼엑셀 ▲비드래프트 ▲트릴리온랩스 등 AI ",
+          "published": "2026-09-03T10:05:52+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -316,6 +337,11 @@
           "event_labels": []
         }
       ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
