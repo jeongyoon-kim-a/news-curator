@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-03T23:04:55.274162+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-09-04T22:52:29.713268+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "Tech race flashpoint: Huang, Musk push back on AI guard rails amid heated US-China rivalry",
-          "link": "https://www.scmp.com/tech/big-tech/article/3366216/tech-race-flashpoint-huang-musk-push-back-ai-guard-rails-amid-heated-us-china-rivalry?utm_source=rss_feed",
-          "summary": "US tech titans including Nvidia CEO Jensen Huang and Tesla’s Elon Musk are pressing global powers to curb artificial intelligence regulations, warning that strict guard rails risk suffocating innovation as the US and China compete in an intensifying technological arms race. Speaking at a G20 meeting alongside US Commerce Secretary Howard Lutnick in Chapel Hill, North Carolina, on Wednesday, Huang urged policymakers to pursue AI regulations targeting “actual and pragmatic harm” rather than...",
-          "published": "2026-09-03T08:00:26+00:00",
+          "title": "Talk is growing of a Tesla-SpaceX merger. Will geopolitics throw a spanner in the works?",
+          "link": "https://www.scmp.com/tech/tech-war/article/3366387/talk-growing-tesla-spacex-merger-will-geopolitics-throw-spanner-works?utm_source=rss_feed",
+          "summary": "One by one, Tesla Model Y Ls roll out of the company’s end-of-line inspection bays, gleaming in black, white and gold. They are a mix of left-hand and right-hand drive – one of many signs the electric vehicles (EVs) produced here are destined for ports around the world. The company touts a total assembly time of less than 40 seconds at its sprawling Gigafactory in Lingang, a coastal area on the far southeastern edge of Shanghai. From there, Tesla says, a finished car can reach the port and be...",
+          "published": "2026-09-04T22:00:07+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "m_and_a"
           ]
         }
       ]
@@ -35,42 +35,40 @@
       "count": 8,
       "articles": [
         {
-          "title": "Crusoe Raises Over $3 Billion in Funding at $30 Billion Valuation",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-raises-over-3-billion-in-funding-at-30-billion-valuation",
-          "summary": "Crusoe, a cloud-computing provider and data center developer doing business with OpenAI, Microsoft Corp. and Meta Platforms Inc., has raised over $3 billion in a funding round that values the startup at roughly $30 billion, according to people familiar with the situation.",
-          "published": "2026-09-03T22:38:00+00:00",
+          "title": "What Is AGI? OpenAI, Anthropic Race for Artificial General Intelligence",
+          "link": "https://www.bloomberg.com/news/features/2026-09-04/what-is-agi-openai-anthropic-race-for-artificial-general-intelligence",
+          "summary": "AI companies are in a race to create artificial general intelligence, seeing it as the catalyst for an “intelligence explosion” that reshapes the economy and society. If only they could agree on what AGI would actually look like, and how it might be achieved",
+          "published": "2026-09-04T18:55:35+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 18,
+          "score": 16,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "엔비디아, 'AI 모델 플랫폼' 허깅페이스 129억달러에 인수 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ya0l0V0R6RVd2eHdWUThBSzFGSlQ2Zk93bDVmbnRKTVMteHozQ0JqeWR0Tl8xVUFTdkRhYkdrVVNQMmxOOXgzRmNoZndEcml2OGxFOVBRajJ0Q0dHM1N5X0NmWHlvRUNMTFJtbzVkQXo?oc=5",
-          "summary": "엔비디아, 'AI 모델 플랫폼' 허깅페이스 129억달러에 인수 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-03T14:29:43+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13TFJNOGpXYmFhQUZPb0paeF9OYUNKdmtqMVBCUUh4Z0FnbEtHTDF0T25FTDkzWlZoTzdFSm16R2g1cmMxWkRJUi1PanZRZGxPTERvd3Nqamg3S0tvZzRhWFRoRnJBMGtjYnc?oc=5",
+          "summary": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-04T03:02:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -79,72 +77,10 @@
           ]
         },
         {
-          "title": "Crusoe Signs Roughly $13 Billion AI Cloud Deal With Jane Street",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-03/crusoe-signs-roughly-13-billion-ai-cloud-deal-with-jane-street",
-          "summary": "Crusoe, a data center upstart with contracts to supply AI computing power to the likes of Meta Platforms Inc. and Oracle Corp., has signed a cloud contract with trading firm Jane Street Group valued at around $13 billion, according to people with knowledge of the matter.",
-          "published": "2026-09-03T18:53:39+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "OpenAI Rolls Out GPT-6 Astra Model With Cyber Guardrails",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-03/openai-rolls-out-gpt-6-astra-model-with-added-cyber-guardrails",
-          "summary": "OpenAI is releasing a new generation of its technology called GPT-6 that the company is positioning as a key milestone in its decade-long push to build so-called artificial general intelligence.",
-          "published": "2026-09-03T18:00:24+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic Executive Doesn’t Want to ‘Buy Market Share’ With Price Cuts",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-03/anthropic-executive-doesn-t-want-to-buy-market-share-with-price-cuts",
-          "summary": "The Claude maker is competing with more affordable options from rivals",
-          "published": "2026-09-03T21:30:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chinese chipmaker Enflame 4,073 times oversubscribed in Shanghai IPO amid Nvidia race",
-          "link": "https://www.scmp.com/tech/big-tech/article/3366203/chinese-chipmaker-enflame-4073-times-oversubscribed-shanghai-ipo-amid-nvidia-race?utm_source=rss_feed",
-          "summary": "Enflame Technology, one of China’s leading AI chipmakers, has sparked a retail frenzy for its 6.12 billion yuan (US$910.9 million) initial public offering in Shanghai’s tech-heavy Star Market, underscoring growing investor appetite for home-grown alternatives to Nvidia. The Tencent Holdings-backed chipmaker saw the retail portion of its IPO oversubscribed by 4,073 times, with about 7 million online investors alone submitting orders for 42.1 billion shares, according to its filing to the exchange",
-          "published": "2026-09-03T06:17:41+00:00",
+          "title": "What Sputnik couldn’t do to American science, Beijing has",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3366099/what-sputnik-couldnt-do-american-science-beijing-has?utm_source=rss_feed",
+          "summary": "The US government owns 9.9 per cent of Intel, converted out of US Chips Act grants, alongside a golden share in US Steel, US$400 million in the rare earth mining firm MP Materials and stakes in roughly 30 firms worth US$26.7 billion. In 2025, Nvidia and AMD gave up 15 per cent of their China chip sale revenues in exchange for export licences. The country that spent four decades advising its allies against picking winners now runs a portfolio. The United States has not fully turned to state...",
+          "published": "2026-09-04T21:30:04+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -154,21 +90,59 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "엔비디아가 대만 반도체 채권을 산 이유는 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HbHV6cy1YVEN5SWtIcU12dmFfTWp2c1BHZWFUXzhCd3NmN2pvLWlCazB2a0t2eGFnbGozQVNwanNaRnJ2cEtEUnJ6MGpKbkRFTG9RUWRZZGhjaVRIQUNkX29VMjR3N0hDRENOUEpLeWs?oc=5",
-          "summary": "엔비디아가 대만 반도체 채권을 산 이유는 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-03T04:27:56+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "AI Startup Micro1 Seeks to Topple Google’s Bid for Spirit Data",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-04/ai-startup-micro1-seeks-to-topple-google-s-bid-for-spirit-data",
+          "summary": "An artificial intelligence startup is attempting to wrest away a vast trove of Spirit Aviation Holdings Inc.’s business records from Google LLC.",
+          "published": "2026-09-04T17:13:55+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple: Ternus trae récord de lanzamientos tras salida de Tim Cook",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-04/apple-ternus-trae-record-de-lanzamientos-tras-salida-de-tim-cook",
+          "summary": "Desde el iPhone plegable hasta una MacBook con pantalla táctil, esto es lo que podemos esperar el 9 de septiembre y en adelante.",
+          "published": "2026-09-04T18:27:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 차세대 AI PC 칩 'RTX 스파크' 10월 출시...개인용 AI 라우터 '페어' 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYS1A2VUMwMWxDeHJvcmRZeWVWMzN0UnlqWklyUk9qaUlqWGo2OUJ3ZS1GYmduVmdhb09SeUVlX3p1eXczbjljVU9JY0dnRjl3WkpXNjJsYVpmMWI1RWZTbWZkUEpPVnRXT0E?oc=5",
+          "summary": "엔비디아, 차세대 AI PC 칩 'RTX 스파크' 10월 출시...개인용 AI 라우터 '페어' 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-04T04:27:33+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -183,144 +157,61 @@
           "event_labels": []
         },
         {
-          "title": "미국 정부, AI 저작권 소송서 오픈AI 지지…\"학습 제한하면 혁신 저해\"",
-          "link": "https://zdnet.co.kr/view/?no=20260903171308",
-          "summary": "[지디넷코리아]미국 정부가 인공지능(AI) 학습과 저작권을 둘러싼 법적 공방에서 오픈AI 측 주장을 지지하고 나섰다. 저작권 규제로 AI 개발을 제한할 경우 미국의 기술 발전과 산업 경쟁력을 떨어뜨릴 수 있다는 판단에서다.2일(현지시간) 테크크런치와 로이터 등에 따르면 트럼프 행정부는 뉴욕타임스(NYT)가 오픈AI를 상대로 제기한 저작권 소송에서 오픈AI의 주장을 지지하는 20쪽 분량의 의견서를 뉴욕남부연방법원에 제출했다. 미국 정부가 AI 학습을 둘러싼 저작권 소송에서 공식 입장을 밝힌 것은 이번이 처음이다.이번 소송은 NYT가 2023년 12월 27일 오픈AI와 마이크로소프트(MS)를 상대로 소송을 제기하면서 시작됐다. NYT는 오픈AI가 챗GPT 등 AI 모델을 개발하는 과정에서 자사 기사 수백만 건을 허가 없이 학습에 사용해 저작권을 침해했다고 주장했다.NYT는 챗GPT가 이용자의 요청에 자사 기사 일부를 원문과 거의 동일하게 생성한 사례도 제시했다. 자사가 비용을 들여 생산",
-          "published": "2026-09-03T08:28:55+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Why less visibility into how OpenAI’s new GPT-6 Astra ‘thinks’ is sparking safety concerns",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3366401/why-less-visibility-how-openais-new-gpt-6-astra-thinks-sparking-safety-concerns?utm_source=rss_feed",
+          "summary": "OpenAI’s new model, GPT-6 Astra, has less direct visibility into how a model thinks, a development that has sparked concerns coming just weeks after the Hugging Face hacking incident that required a Chinese open model to investigate, according to analysts. When announcing Astra on Thursday, OpenAI said it was “the world’s most intelligent and aligned model,” with a “significant jump in cyber capabilities”. OpenAI president Greg Brockman said at the end of a press call announcing Astra’s arrival.",
+          "published": "2026-09-04T10:31:21+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...말로 문서·메일·메모 처리 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE00N0ZFRDBNQlg0WnIwa00zTy04MHowT0VZQWRfMkwwb1R1UDNQNVItYzZBZ3p1cURXbXdzaGFrcDNnNC1GNXhyc2Y0MVgzckRfZHd6U2FLVUI5SjN2ZEh4QXV4VVhKVzFqZFE?oc=5",
+          "summary": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...말로 문서·메일·메모 처리 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-04T22:07:24+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영 - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5GU0xrQ2VVQmV2SmRLWlM2S1lkbWk3RDFRWndPQzc4WnJnYWNWRnJyRnI4TkstY3FrR2lzcGNkUUx3aVJRS0xHcllGWXA5Rm0yZUE?oc=5",
-          "summary": "디지털자산기본법 “속도 낸다”던 금융 당국, ‘디지털자산 인프라 TF’는 2028년까지 운영 &nbsp;&nbsp; mk.co.kr",
-          "published": "2026-09-03T02:10:50+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "한은 \"스테이블코인 시장 개방 시 달러-원 연계 강화…수요 충격 환율로\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nNm90aDhYelN3VTJUbGw3WHotdmhUcGUzN29oRm40Um9qY1pVcGZHcWN0WnpLak45dWRlazkzS0kxSUd0YWExdnY2YXpPUHRFY2paX1hVdzBQR1FDbW5pT25DR2Q2S3RfeVR5TkpLVF8?oc=5",
-          "summary": "한은 \"스테이블코인 시장 개방 시 달러-원 연계 강화…수요 충격 환율로\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-03T03:00:30+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "민주당 “디지털자산기본법, 9월말 공청회 진행” - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13OVlUdl85LUM4ek1wMTQwREhUdUFfS3JyUWtVZURpNldOMDBRZ253TG84Q0dIMWs3c3Z0akZaQndVOGFZcTNwR2QtdUhQUEdockE?oc=5",
-          "summary": "민주당 “디지털자산기본법, 9월말 공청회 진행” &nbsp;&nbsp; mk.co.kr",
-          "published": "2026-09-03T04:45:45+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "네이버클라우드, 정부 '사이버보안 특화 AI' 개발 맡는다 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTFItbE4yZWNkOXdZYlZRWExaLUJPS0VsRVFLZ3lwY1FxV2UyZWU3UEpkYkdWQ0EwLWZkVzZSeG5CSkhVdlo4VjI2MUZqZDFydV9QemxsLTVmaG5fM1Utc1ZpUXhkTU1TR3QyY21TNE8?oc=5",
-          "summary": "네이버클라우드, 정부 '사이버보안 특화 AI' 개발 맡는다 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-03T01:45:25+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBULTRGMGpsWjlCRXktSkZLaDFiTHVkX1RDSzloMXdEcFRGSXd3MExfRVBnbXpwQ2dxYXdqRFFhUGlKR0xyN1Z3MHVyS0ZOOC01bDMtUTRmbXZobldzWV9vLVBRQUYzZmRsb3c?oc=5",
-          "summary": "네이버클라우드, 정부 '사이버 보안 AI 모델' 개발 사업자로 최종 발탁 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-03T03:06:01+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "보안 특화모델 참여 보안기업들 \"역할 아직 분배 안해\"",
-          "link": "https://zdnet.co.kr/view/?no=20260903114626",
-          "summary": "[지디넷코리아]'사이버보안 특화' 인공지능(AI) 모델 개발 사업에 네이버 클라우드 컨소시엄이 최종 사업자로 선정됐다. 아직 세부적인 개발 계획은 명확하게 나오지 않은 상황이지만, 중간평가가 예정된 5개월간 역할 분배 및 개발 계획 수립을 마치고 본격적인 개발에 착수할 것으로 보인다.과학기술정보통신부(과기정통부)는 3일 '사이버 보안 특화 AI 파운데이션 모델 개발' 사업 공모에서 최종 사업자로 네이버 클라우드 컨소시엄을 선정, 발표했다.이번 사업 평가에서는 기술력 및 개발 경험, 개발전략·기술, 개발 목표 등의 우수성·실현 가능성, 시장성 및 파급효과 등을 종합적으로 평가했다. 네이버클라우드는 대규모 산학연 컨소시엄 구성과 복수의 에이전트·하네스 구성 등에서 긍정적인 평가를 받았다.네이버클라우드 컨소시엄은 네이버클라우드를 주관기관으로 32개 기업 및 기관이 참여한다. 구체적으로 ▲LG CNS ▲LG경영개발원 AI연구원 ▲LG유플러스 ▲하이퍼엑셀 ▲비드래프트 ▲트릴리온랩스 등 AI ",
-          "published": "2026-09-03T10:05:52+00:00",
+          "title": "네이버 이해진, 브룩필드 회장 만났다…AI 팩토리 후속 논의",
+          "link": "https://zdnet.co.kr/view/?no=20260904181730",
+          "summary": "[지디넷코리아]지난 7월 1GW급 인공지능(AI) 팩토리 구축을 위한 투자 협력을 논의했던 네이버와 브룩필드가 실제 투자 결정에 이어 후속 논의에 나섰다. 브룩필드가 1단계 사업에 최대 90억 달러를 투입하기로 한 가운데, 양사는 자본 투자를 넘어 인프라 조달과 고객 유치 등 사업 전반으로 협력을 확대할 방침이다.네이버는 이해진 의장과 브루스 플랫 브룩필드자산운용 회장이 지난 3일 네이버 1784 사옥에서 만나 1GW급 AI 팩토리 사업에 대한 후속 논의를 진행했다고 4일 밝혔다.이 의장은 브룩필드가 투자 결정을 통해 네이버의 AI팩토리 사업 비전을 뒷받침해준 것에 감사를 표했다. 이어 인프라 투자 분야에서 축적된 브룩필드의 역량과 네이버의 AI 기술력을 결합해 양사가 글로벌 AI인프라 시장을 선도해 가길 기대한다고 덧붙였다.플랫 회장은 AI 팩토리 구축 사업의 자본 파트너로 브룩필드를 택해준 것에 감사 인사를 전달했다. 브룩필드가 단순히 자본 투자자 역할에 그치지 않고 장비 및 인",
+          "published": "2026-09-04T09:34:22+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
