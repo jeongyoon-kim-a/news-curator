@@ -1,104 +1,41 @@
 {
-  "generated_at": "2026-09-07T23:20:45.078849+00:00",
-  "total_articles": 16,
+  "generated_at": "2026-09-08T23:15:15.528405+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "Europe’s Top Carriers in Talks for Satellite-to-Mobile Venture",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-07/europe-s-top-carriers-in-talks-for-satellite-to-mobile-venture",
-          "summary": "A group of Europe’s biggest mobile operators are in early talks to create a consortium to bid on satellite spectrum and offer direct-to-mobile service, which would rival Elon Musk’s Starlink service on the continent, people familiar with the matter said.",
-          "published": "2026-09-07T16:35:26+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China’s Xiaomi unveils folding phone with home-grown chip as it takes on Apple, Huawei",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3366682/chinas-xiaomi-unveils-folding-phone-home-grown-chip-it-takes-apple-huawei?utm_source=rss_feed",
-          "summary": "Xiaomi unveiled a series of new products on Monday – from a flagship foldable phone featuring proprietary chips to new models of its premium Skynomad SUV – underscoring the Chinese giant’s intensified push to compete against rivals including Tesla, Apple and Huawei Technologies. Beijing-based Xiaomi launched the 18 Fold, a foldable phone featuring a 7.58-inch inner display, a proprietary Xring O3 system-on-chip (SoC), and LPDDR6 memory chips from ChangXin Memory Technologies (CXMT), said Lei...",
-          "published": "2026-09-07T14:39:35+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "\"스페이스X, 안전마진 전혀 없어 급락 위험\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTU53dlpQdmVFa0hPTG15cVFmdjVlZ3I3Wklxb09sei0yajFBZHdQeGk5NGY1dFFXdkNhODJQc3kybHphUmdYTTNBeTB3TmEtaUlaN3BNY0FpeVBLRFN0S25CRXJ1R19ZdUF6ZzVGSDU?oc=5",
-          "summary": "\"스페이스X, 안전마진 전혀 없어 급락 위험\" &nbsp;&nbsp; news.einfomax.co.kr",
-          "published": "2026-09-07T06:19:38+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZX0ZWai1hcnE4TTJMNFlFeGc1U19xNHdfV2VpdjM2eEREVEJ6bENnUm1ZX2Myem4waWlXOURvNExVc0piTWFOVU1nNkh4OTdjaHFQWk9IZGVsdUx2dGR0cGFkTDNoZTN0dmc?oc=5",
-          "summary": "스페이스XAI, 영상 연속성·품질 높인 ‘그록 이매진 비디오 1.5’ 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-07T07:55:11+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "ByteDance Founder Joins AI Elite in Race to Perfect World Models",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-07/bytedance-founder-joins-ai-elite-in-race-to-perfect-world-models",
-          "summary": "ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc. in an arena with applications in robotics and autonomous systems.",
-          "published": "2026-09-07T12:25:45+00:00",
+          "title": "Google, Blackstone Venture Faces Delays at Data-Center Sites",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-08/google-blackstone-venture-faces-delays-at-data-center-sites",
+          "summary": "Alphabet Inc. and Blackstone Inc.’s new cloud venture has hit delays for major data-center locations that were supposed to run Google’s chips, underscoring the obstacles standing in the way of Big Tech’s AI ambitions.",
+          "published": "2026-09-08T20:25:10+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "UK to Make Apple, Google Block Nude Images on Kids’ Devices",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-08/uk-to-force-apple-google-to-block-nude-images-on-kids-devices",
+          "summary": "The UK government will require technology companies such as Apple Inc. and Google to stop children from taking, sharing or viewing nude images on their phones and tablets, Culture Secretary Lisa Nandy told the House of Commons on Tuesday.",
+          "published": "2026-09-08T15:59:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -115,139 +52,121 @@
           "event_labels": []
         },
         {
-          "title": "OpenAI Top Scientist Urges ‘Extreme Caution’ With Pace of AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-07/openai-chief-scientist-urges-extreme-caution-with-pace-of-ai",
-          "summary": "OpenAI’s top scientist has warned that artificial intelligence is evolving so rapidly that it is becoming increasingly difficult for humans to understand and control, and said he expects AI labs to voluntarily slow development for safety reasons.",
-          "published": "2026-09-07T16:12:43+00:00",
+          "title": "Meta Announces Muse AI Agent for Personal Tasks and Organization",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-08/meta-announces-muse-ai-agent-for-personal-tasks-and-organization",
+          "summary": "Meta Platforms Inc. unveiled a new artificial intelligence agent designed to carry out tasks on a user’s behalf, advancing Mark Zuckerberg’s vision of a future where people each have a personalized AI assistant.",
+          "published": "2026-09-08T19:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How much hydrogen awaits us underground? A flurry of exploration efforts is searching for underground stores of hydrogen gas, which could provide a valuable source of zero-carbon fuel. The hunt has&#8230;",
-          "published": "2026-09-07T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'중국판 엔비디아' 무어스레드, 주가 20% 폭락 - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wOEdzNUo1LXZXbXpiMl9sYVo5WE1vZjFNbk5lQUxRZFNrTWtBRThTVTVtWENfM2l0MlFMa0Znc3dWazcxMWZTTEhRc0lyMjlTckt0NzQ2MDYtOFJlOGo4eUlNOE5FWWVzeWFQa3U5YU0?oc=5",
-          "summary": "'중국판 엔비디아' 무어스레드, 주가 20% 폭락 &nbsp;&nbsp; news.einfomax.co.kr",
-          "published": "2026-09-07T22:56:29+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": -2
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Huawei’s $3,000 Device Is China’s Answer to Foldable iPhone",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-07/huawei-xiaomi-to-debut-new-top-phones-on-eve-of-foldable-iphone",
-          "summary": "Huawei Technologies Co. and Xiaomi Corp. are raising the stakes in China’s smartphone arena just days before Apple Inc.’s first foray into the foldable category.",
-          "published": "2026-09-07T04:42:45+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "메타 'AIRA₃', 중앙 통제 없이 여러 에이전트 협업으로 '캐글' 금메달 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tWk1xaVFTVVltVzI5RGp5VVZvWUxmMnlFdk52cmtxNEMxckZiRzFhZHV4cFo0d3ZJaDVRQnJUR0Z2QVgzMlZOOUwwS2RmcW15LUJIcm00Y3BFbDlpN1dRNVh4NjVJbFFZdkE?oc=5",
-          "summary": "메타 'AIRA₃', 중앙 통제 없이 여러 에이전트 협업으로 '캐글' 금메달 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-07T07:13:38+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFUXNWNDBQckdtTTVoeEJWcEJrWHpKVUNmbU5qN1hIQnZVODJaVTRrQVI3YXQ2dlh1YzRYZHJ0ZjVwbTdCSHJuZEFLR1pJMWMtU2dHRkxLbzNBMlpKcTA1RHlsWHlhRzIxX0E?oc=5",
-          "summary": "\"무엇을 실행할지 AI가 판단\"...메타, AI 연구 속도 1.6배 끌어올린 'RPM' 개발 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-07T08:05:06+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "테이텀 시큐리티, ‘사이버 보안 특화 AI’ 개발 참여",
-          "link": "https://zdnet.co.kr/view/?no=20260907203426",
-          "summary": "[지디넷코리아]클라우드 보안 전문기업 테이텀 시큐리티(대표 양혁재)가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 추진하는 ‘사이버 보안 특화 인공지능(AI) 파운데이션 모델 개발’ 사업에 참여한다. 회사는 지난 3일 과기정통부가 선정한 이 사업 선정자인 ‘네이버클라우드 컨소시엄’ 일원으로 참여한다.이번 사업은 급변하는 사이버 위협 환경에 대응해 국가 차원의 보안 역량을 강화하고, 보안 영역에 최적화된 고성능 AI 인프라 및 기술을 확보하기 위해 마련됐다. 테이텀 시큐리티가 속한 네이버클라우드 컨소시엄은 우수한 인프라와 독보적인 인공지능 기술력, 분야별 전문 기업들의 시너지를 인정받아 사이버 보안 특화 AI 사업의 최종 수행 주체로 선정됐다.테이텀 시큐리티는 그동안 축적해 온 클라우드 네이티브 애플리케이션 보호 플랫폼(CNAPP) 및 보안 위협 분석 기술력을 바탕으로 사업에 참여한다. 자체 보유한 독보적인 보안 위협 탐지 알고리즘 및 데이터 분석 역량을 AI 파운데이션 모델에 ",
-          "published": "2026-09-07T11:34:26+00:00",
+          "title": "마브렉스 웹3 신작 '픽셀 테이머즈', 애플 앱스토어 인기 1위 기록",
+          "link": "https://zdnet.co.kr/view/?no=20260908173811",
+          "summary": "[지디넷코리아]블록체인 전문 기업 마브렉스가 퍼블리싱을 맡은 신작 모바일 RPG가 출시 약 3주 만에 애플 앱스토어 인기 순위 정상에 올랐다.마브렉스는 리턴픽셀이 개발한 웹3 모바일 게임 '픽셀 테이머즈'가 애플 앱스토어 인기 순위 1위를 달성했다고 8일 밝혔다.지난달 19일 정식 출시된 이 게임은 꾸준한 이용자 유입세를 바탕으로 앱스토어 1위는 물론 구글 플레이스토어 인기 순위에서도 4위에 오르며 양대 앱마켓 상위권에 안착했다.픽셀 테이머즈는 레트로 감성의 픽셀 아트를 기반으로 한 방치형·수집형 RPG다. 200종 이상의 몬스터를 수집하고 진화시켜 전략적인 덱을 구성하는 것이 핵심 재미 요소로 꼽히며, 메인 스테이지를 비롯해 골드 던전, 미니게임, 이용자 간 대결(PvP) 아레나 등 즐길 거리를 갖췄다.마브렉스는 초기 이용자 유입을 가속화하기 위해 접속자 전원에게 6성 소환수 1종을 지급하고, 플레이 진행도에 맞춰 3000회 이상의 소환 기회를 제공하는 등 출시 기념 혜택을 운영하",
+          "published": "2026-09-08T08:40:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Qualcomm Lands Amazon as Customer for Push Into AI Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
+          "summary": "Qualcomm Inc. signed up Amazon.com Inc. as a data center chip customer and investor, scoring a major win in its bid to benefit from soaring artificial intelligence spending.",
+          "published": "2026-09-08T13:10:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글 딥마인드 새로운 사령탑의 선언...“목표는 오직 프론티어 복귀” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tZDBOTWp1bktjNlF0d1dOZDYtQTZnNWJFMFFObkZua2lrdWhSbW1GQXNQRGJybTJleVZhWS1WUFNaZDZfeXlTaDJ1dEtuTEhBOUZLdkFlaDhDZzhDSms0eWJxcDlRcHprenc?oc=5",
+          "summary": "구글 딥마인드 새로운 사령탑의 선언...“목표는 오직 프론티어 복귀” &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-08T21:49:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "그라비티 게임 비전, MMORPG '라그나로크: 더 뉴 월드' 중화권·동남아 흥행 순항",
+          "link": "https://zdnet.co.kr/view/?no=20260908175021",
+          "summary": "[지디넷코리아]그라비티의 대표 지식재산(IP)을 활용한 첫 오픈월드 MMORPG 신작이 중화권과 동남아시아 주요 마켓에서 잇달아 흥행 지표 상위권에 안착했다.그라비티 홍콩 지사인 그라비티 게임 비전(GGV)은 서비스 중인 신작 멀티 플랫폼 MMORPG '라그나로크: 더 뉴 월드'가 출시 지역에서 주요 앱마켓 및 PC 플랫폼 순위 정상에 올랐다고 8일 밝혔다.이 게임은 올해 1월 대만·홍콩·마카오 지역에 먼저 출시된 데 이어, 지난 7월16일 베트남을 제외한 동남아시아 지역에 PC, 모바일, 스팀 플랫폼으로 서비스를 확장했다.앞서 출시된 대만·홍콩·마카오에서는 3개 지역 애플 앱스토어 게임 매출 순위 1위를 일제히 달성했다. 전체 앱 순위에서도 3개 지역 무료 다운로드 1위를 비롯해 대만과 마카오 매출 1위, 홍콩 매출 3위를 기록하며 매출 상위권을 차지했다.동남아시아 지역 역시 스팀 플랫폼에서 뚜렷한 상승세를 나타냈다. 태국 지역 스팀 주간 최고 인기 순위에서 지난달 18일부터 이달",
+          "published": "2026-09-08T08:50:21+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "애플 폴더블폰 공개 겁났나...프리미엄 내놓은 화웨이·샤오미 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zOGRNOUR2WlZnQUZ1bjRVcWx2NTBuZEtHYjE4b0NqczY4b09hbGppMHdUSmlfVFk2QTNpaEI3R0czdHJiWHFhN1hTN1RpeHBfNzNlUjlB?oc=5",
+          "summary": "애플 폴더블폰 공개 겁났나...프리미엄 내놓은 화웨이·샤오미 &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-08T12:32:46+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -258,43 +177,23 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "비트코인 연간 상승분, 며칠에 몰렸다…\"매매 시점 맞추기, 사실상 불가능\" - news.einfomax.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB2bm1XaUEtWTFxVDVUX3JXaXVJWlJ3cl9UWUIwUjdnc3VhajlrWWxCWnFkdmpKbTNZUVlVUkpnenJPUkt4a1hySks4UFV5TGxYcm1oSmFTRHEtMFZQbVI0eUZ6VVhWLU9pT1E5eVRtWGo?oc=5",
-          "summary": "비트코인 연간 상승분, 며칠에 몰렸다…\"매매 시점 맞추기, 사실상 불가능\" &nbsp;&nbsp; news.einfomax.co.kr",
-          "published": "2026-09-07T01:44:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "[카드뉴스] 비트코인, 살아남을까",
+          "link": "https://zdnet.co.kr/view/?no=20260908111240",
+          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 최근 양자컴퓨터의 발전이 비트코인 보안을 위협할 수 있다는 우려가 나오고 있는데요. 놀랍게도 현재 유통되는 비트코인의 약 30%, 무려 604만 개가 해킹에 취약한 상태로 보관되고 있는 것으로 나타났어요. 특히 자물쇠 역할을 하는 암호화 방식의 종류에 따라 위험도가 크게 달라지는데요, 옛날 방식의 구형 자물쇠는 위험도가 100에 달하는 반면 표준 자물쇠는 30, 최신 자물쇠는 5 수준으로 안전성 차이가 뚜렷했어요. 비트코인은 지난 16년간 여러 고비를 넘겨왔지만, 이제 양자컴퓨터라는 가장 큰 시험대를 앞두고 있다고 해요.AI 패널들은 이 위기를 넘기기 위한 3가지 실천법을 제안했는데요. 오래된 지갑 주소를 새 주소로 옮기는 '주소 이사'는 필수이고, 매년 관련 보안 소식을 꾸준히 확인하며, 2028년까지 취약한 자산의 비중을 점진적으로 줄여나가는 것이 핵심이라고 강조했어요. 결국 진짜 문제는 도둑이 아니라, 이런 변화에 얼마나 빨리 ",
+          "published": "2026-09-08T11:26:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“270만→60억 된 비트코인, 그냥 포기했는데요”…14년만에 되찾았다고? - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45RnpzSmo1MlBmZm1OM05abUEwMlhNckFjNTVyVEQwWHFwNmQxTEk1X1R6enNnemk1ZDdnM3M4RzR5YnFYZWlDM1hqMTIzeHJjTVE?oc=5",
-          "summary": "“270만→60억 된 비트코인, 그냥 포기했는데요”…14년만에 되찾았다고? &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-07T08:04:22+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -307,19 +206,19 @@
       "count": 2,
       "articles": [
         {
-          "title": "이스트시큐리티, 네이버클라우드와 '보안 특화 AI 모델' 개발 나선다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5teUtOTnhhSzM3S3JBcUYtOWN1Y2o1YktGU25vUXZ2ZnpkeFJsZ2hSVHRQdnNHR3ZJbmVFVm1WSmZEMjZhcXc4LUZlM0VDOEJYTTZGQ2pBZ2laUHhjSEJzNGV2V1FiVTZSUUE?oc=5",
-          "summary": "이스트시큐리티, 네이버클라우드와 '보안 특화 AI 모델' 개발 나선다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-07T02:57:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "마크애니, 'K-보안 AI' 컨소시엄에 핵심 기술 공급",
+          "link": "https://zdnet.co.kr/view/?no=20260908175059",
+          "summary": "[지디넷코리아]마크애니가 참여한 네이버클라우드 컨소시엄이 지난 3일 국가 사이버 보안의 중추가 될 '사이버 보안 특화 인공지능(AI) 파운데이션 모델 개발' 프로젝트의 최종 사업 수행기관에 선정됐다.과학기술정보통신부는 외부 전문가 평가를 거쳐, 기술력과 개발 전략의 우수성을 널리 인정받은 네이버클라우드 연합체를 최종 사업자로 확정했다고 발표했다. 이번 공모에서 네이버클라우드 연합체는 SK텔레콤 컨소시엄과 치열한 경쟁 끝에 사업권을 따냈다.이번 사업은 최근 거대한 보안 위협으로 떠오른 '미토스 쇼크'를 계기로 촉발됐다. AI의 사이버 공격 역량이 고도화하는 상황에서 해외 모델에만 의존할 경우 국가 안보가 흔들릴 수 있다는 위기의식이 작용했다. 이에 정부는 독자적 대응 역량 확보를 위해 네이버클라우드를 필두로 마크애니 등 국내 우수 기업들의 기술을 기반으로 한 사이버 보안 특화 모델을 우선 개발하겠다는 전략을 수립했다.이 프로젝트는 이달부터 내년 7월 최종 결과 보고까지 약 10개월간 ",
+          "published": "2026-09-08T08:50:59+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 8,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -327,20 +226,20 @@
           "event_labels": []
         },
         {
-          "title": "네이버웹툰, 완결 작가도 지원한다",
-          "link": "https://zdnet.co.kr/view/?no=20260907193325",
-          "summary": "[지디넷코리아]네이버웹툰이 연재 중인 작가뿐 아니라 작품을 완결하고 차기작을 준비하는 작가까지 지원 범위를 넓히고 있다. 올해 700억원 규모의 글로벌 창작 생태계 투자를 진행하는 가운데 창작 공백기에 있는 작가를 대상으로 코칭과 네트워킹 프로그램을 운영한다.네이버웹툰은 지난 4일 서울 강남구 엘리에나 호텔에서 작가 코칭 프로그램 ‘슬기로운 창작생활’에 참여한 완결 작가들을 대상으로 네트워킹 행사를 열었다고 7일 밝혔다.슬기로운 창작생활은 네이버웹툰의 창작 생태계 지원 캠페인 ‘웹툰위드(WEBTOON With)’의 하나다. 작품 연재를 마치고 차기작을 준비하는 작가들의 창작 역량과 정서적 안정을 지원하기 위해 마련했다.프로그램은 지난 7월 시작해 오는 18일까지 약 3개월간 진행된다. 완결 작가 97명이 15개 팀으로 나뉘어 강점 진단과 워크숍, 소그룹 코칭 등에 참여하고 있다.이번 네트워킹 행사에는 프로그램 참여 작가 가운데 66명이 참석했다. 김준구 웹툰 엔터테인먼트 최고경영자(",
-          "published": "2026-09-07T10:35:52+00:00",
+          "title": "카카오게임즈, 신작 '도깨비의 세계' 10월 8일 정식 출시",
+          "link": "https://zdnet.co.kr/view/?no=20260908213354",
+          "summary": "[지디넷코리아]카카오게임즈(공동대표 김태환, 이시우)가 신작 '도깨비의 세계' 정식 출시일을 다음 달 8일로 확정했다.8일 카카오게임즈는 슈퍼캣(대표 김원배)이 개발 중인 신작 2.5D MMORPG '도깨비의 세계' 온라인 쇼케이스를 열고, 정식 출시일과 함께 게임의 주요 콘텐츠와 핵심 시스템을 소개하는 자리를 가졌다.쇼케이스에는 이시우 카카오게임즈 대표, 차명수 카카오게임즈 사업실장과 함게 슈퍼캣 박성준 PD, 장수민 디렉터가 참석했다. 출시일 공개와 함께 이날 쇼케이스에서는 상황에 맞춰 12개의 스킬을 조합하는 전투의 재미, 경쟁이 아닌 협동을 중시하는 콘텐츠, 시즌 단위 소통인 '도깨비 총회' 등 게임의 비전과 청사진이 공개됐다.이시우 대표는 \"각박한 경쟁의 세계에서 잊고 지내셨을지도 모를 성장하는 재미, 그리고 협럭하는 재미를 오랫동안 이어가시면 좋겠다는 생각을 계속 해왔다\"며 \"도깨비의 세계는 한국적인 세계관과 도트 그래픽의 레트로한 감성이 어우러진 공간에서 새로움과 편안함",
+          "published": "2026-09-08T12:33:54+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -350,8 +249,29 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "미래에셋운용, 日에 첫 '한국 주식 추종 ETF' 띄운다 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5akgxbGd6Y0haYXFwRmtNS3hPWXZLdmxTVjJzM3JfN2Yzem1MM3ktTmhNZXFjc1hjdHR5M0Vlb1NBTjV0NUZ2bVNUZnBLQUMtT1R2VHk1UlFIa3ZKX3R1WGFmb0psZTRwTTM5bUNlb1c?oc=5",
+          "summary": "미래에셋운용, 日에 첫 '한국 주식 추종 ETF' 띄운다 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-08T09:16:05+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
