@@ -1,121 +1,128 @@
 {
-  "generated_at": "2026-09-10T22:59:59.506088+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-09-11T23:04:28.359543+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 1,
       "articles": [
         {
-          "title": "Silicon Valley Escalates Warnings About Existential Risks of AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/silicon-valley-escalates-warnings-about-existential-risks-of-ai-mtvyorsp",
-          "summary": "For years, some of the leading figures in Silicon Valley have warned that artificial intelligence might pose an existential threat to humanity even as they pushed to develop the technology. This week, the high-profile resignation of an Anthropic researcher brought that conversation to the mainstream.Jacob Coxon, a rank-and-file staffer, quit his job and accused both his former employers — Anthropic and OpenAI — of “gambling with our lives” by “racing toward super-intelligent AI.” Coxon said the",
-          "published": "2026-09-10T20:10:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Former OpenAI, Anthropic Employee Post, Hugging Face Hack Sound Alarm on AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-10/former-openai-anthropic-employee-post-hugging-face-hack-sound-alarm-on-ai",
-          "summary": "Today on the Big Take: A recent hacking incident and a strongly-worded warning from a researcher have invited new scrutiny on the AI industry.",
-          "published": "2026-09-10T20:35:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[AI는 지금] AMD 추격에 '쿠다' 더 세졌다…엔비디아, AI SW 주도권 강화 가속",
-          "link": "https://zdnet.co.kr/view/?no=20260910184038",
-          "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 가속기 시장의 주도권을 지키기 위해 소프트웨어 경쟁력을 한층 강화하고 있다. 차세대 그래픽처리장치(GPU)인 '루빈' 출하가 시작된 가운데 쿠다(CUDA)의 개발 지원을 확대하고 공유 GPU 관리와 AI 코딩 기능까지 고도화하면서 기업과 개발자를 자사 생태계에 더욱 깊숙이 끌어들이려는 모양새다.엔비디아는 지난 9일 '쿠다 툴킷 13.4'를 공개했다고 10일 밝혔다. 이번 버전에는 차세대 GPU '루빈' 아키텍처 지원을 비롯해 공유 GPU 관리, 쿠다 파이썬과 C++ 라이브러리, AI 개발 도구 관련 기능이 추가됐다.루빈 지원은 개발자 프리뷰 형태로 제공된다. 이에 따라 개발자들은 정식 지원에 앞서 기존 애플리케이션과 라이브러리를 루빈 환경에 맞게 점검하고 이전 작업을 준비할 수 있다. 최근 루빈 공급이 시작된 가운데 엔비디아는 하드웨어 도입과 함께 이번 일로 소프트웨어 전환 준비까지 앞당기려는 분위기다. 다만 루빈 지원 기능은 아직 개발자 프",
-          "published": "2026-09-10T09:46:12+00:00",
+          "title": "3만원 기내 와이파이 무료로…대한항공·아시아나 스타링크 도입",
+          "link": "https://zdnet.co.kr/view/?no=20260911173423",
+          "summary": "[지디넷코리아]비행기 안에서 인터넷을 쓰려면 약 3만원을 내야 했던 대한항공 기내 와이파이가 무료로 바뀐다. 대한항공이 스페이스X의 저궤도 위성통신 서비스 스타링크를 도입하면서다. 아시아나항공도 스타링크 장비를 순차적으로 적용하면서 양사의 기내 인터넷 환경이 저궤도 위성 기반으로 전환된다.대한항공은 오는 15일부터 스타링크 기반 기내 와이파이 서비스를 시작한다고 밝혔다. 장비 설치를 마친 에어버스 A350-900 3대와 보잉 777-300ER 1대 등 총 4대에 적용한다. 동아시아 대형항공사(FSC) 가운데 스타링크를 활용한 기내 와이파이를 상용화하는 것은 대한항공이 처음이다.기존 대한항공 기내 와이파이는 유료다. 장거리 노선에서 웹 검색과 이메일, 음악 영상 등을 이용할 수 있는 인터넷 요금은 전체 비행시간 기준 20.95달러로 약 3만원이다. 2시간 이용권도 10.95달러를 내야 한다.스타링크가 설치된 항공기에서는 이 비용이 사라진다. 일등석과 프레스티지석, 일반석을 가리지 않고",
+          "published": "2026-09-11T08:34:23+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
         {
-          "title": "iPhone Duo Hands-On: Apple’s First Foldable Phone Makes Strong First Impression",
-          "link": "https://www.bloomberg.com/news/features/2026-09-10/iphone-duo-hands-on-apple-s-first-foldable-phone-makes-strong-first-impression",
-          "summary": "The company’s $1,999-and-up&nbsp;foldable handset makes a strong first impression.",
-          "published": "2026-09-10T19:39:25+00:00",
+          "title": "Fidji Simo Joins Data Center Startup Nscale’s Board Ahead of IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/fidji-simo-joins-data-center-startup-nscale-s-board-ahead-of-ipo",
+          "summary": "Nscale Global Holdings appointed former OpenAI and Meta Platforms Inc. executive Fidji Simo to its board as the data center startup bolsters its ranks of directors ahead of an initial public offering.",
+          "published": "2026-09-11T15:15:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Apple’s Always-Listening Watch AI Tool Could Pose Legal Risks for Users",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/apple-s-always-listening-watch-ai-tool-could-pose-legal-risks-for-users",
+          "summary": "Apple Inc.’s new always-listening artificial intelligence features for the Apple Watch Series 12 and Ultra 4 could put eavesdropping laws to the test, according to legal experts.",
+          "published": "2026-09-11T19:05:36+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Why AI experts are ‘freaked out’ over safety fears ahead of Xi-Trump summit",
+          "link": "https://www.scmp.com/tech/big-tech/article/3367163/why-ai-experts-are-freaked-out-over-safety-fears-ahead-xi-trump-summit?utm_source=rss_feed",
+          "summary": "A flurry of cybersecurity breaches, internal whistle-blowing, and declining visibility into model safety has sparked fresh alarm over the US artificial intelligence boom, igniting calls from some experts to slow down development – even as critics warn that deceleration risks surrendering America’s technological lead to China. The mounting concerns come just weeks before President Xi Jinping and US leader Donald Trump are set to meet for a high-stakes summit in Washington. OpenAI CEO Sam Altman..",
+          "published": "2026-09-11T08:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Anthropic Says Iran, Russia Used Claude for Weapons Research",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-11/anthropic-says-us-adversaries-aimed-claude-at-weapons-research",
+          "summary": "Anthropic PBC says its artificial intelligence model Claude has been misused in attempts to develop a wide range of military applications, including kamikaze drone swarms, missile navigation systems and research tied to potential biological weapons.",
+          "published": "2026-09-11T12:04:27+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Microsoft AI Focused Data Center Plan to Add 26 Gigawatts of Compute",
-          "link": "https://www.bloomberg.com/news/features/2026-09-10/microsoft-ai-focused-data-center-plan-to-add-26-gigawatts-of-compute",
-          "summary": "Shortages forced the company to turn away some AI and cloud business. Now it’s planning for 38 gigawatts of data center capacity to meet demand.",
-          "published": "2026-09-10T21:00:16+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 호주 데이터센터에 2GW AI 플랫폼 구축 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhOFpaNlA3MXpxNVJVaHNYZE1NdlF2Z3ZGTjhrQWphanRXN1E5R1hBaVVKTXZ6UHctcTB6Z1JzWXE4X1I1X2ZmUVVCYThhelg1cVFoeEtBblliRk1lR2FNUDJpZlgxSVBOQlgtQ2RMWGk?oc=5",
-          "summary": "엔비디아, 호주 데이터센터에 2GW AI 플랫폼 구축 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-10T01:28:59+00:00",
+          "title": "파이퍼 샌들러 \"AI 에이전트 확산…엔비디아·AMD 비중확대\" - news.einfomax.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jY2x0UDdtMmFEVnRxTFp5Ums3THVoM3RZNWt4dmpXYnFYaUxwYXFLd2VmMThqMVhYRzJCbE1FaEZGaXFNZ1Z3RlRUY01oenhGMkFWT1FWekpXRmJ4bndGOEV1OE0wdWNxeDhmU3Q0WnfSAXRBVV95cUxOZ2lUVFZISG1lT2JEN1lWVmpiLWE5X3Z5cUoxQTAtQ2kxbnZocHFqVFZnWFJiMC1KUW52OW9wM1ZTT1dnRUdWcFlpNGdWQXBveUtYSmRIb1RENkpfbV9rSEtTSzVIX0hQWEpCQ3FwTlRUdExaaQ?oc=5",
+          "summary": "파이퍼 샌들러 \"AI 에이전트 확산…엔비디아·AMD 비중확대\" &nbsp;&nbsp; news.einfomax.co.kr",
+          "published": "2026-09-11T01:07:02+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -132,63 +139,15 @@
           "event_labels": []
         },
         {
-          "title": "After Apple’s launch of its foldable iPhone, what are the caveats for Chinese buyers?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3366983/after-apples-launch-its-foldable-iphone-what-are-caveats-chinese-buyers?utm_source=rss_feed",
-          "summary": "Apple unveiled the iPhone Duo, its first-ever foldable smartphone, at its annual product launch event on Wednesday in Cupertino, California, following months of mounting anticipation. Presented by CEO John Ternus, the sleek, passport-style device stole the spotlight at the Apple Park event. Ternus, who took over from Tim Cook on September 1, said the handset would “redefine the experience of using a foldable phone”. Starting at US$1,999 – or HK$17,499 (US$2,231) if bought in Hong Kong – Apple’s.",
-          "published": "2026-09-10T02:11:38+00:00",
+          "title": "Enflame shares soar 179% in Shanghai debut as Nvidia challenger taps investor fever for AI",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3367124/enflame-shares-soar-188-shanghai-debut-nvidia-challenger-taps-investor-fever-ai?utm_source=rss_feed",
+          "summary": "Enflame Technology, one of the major challengers to Nvidia in China, saw its share price surge 179 per cent in its Shanghai trading debut on Friday, giving the Tencent Holdings-backed artificial intelligence chipmaker a market capitalisation of 170.9 billion yuan (US$25.5 billion). The Shanghai-based company opened at 410 yuan, up from its issue price of 142.18 yuan. It surged as much as 234 per cent to 475 yuan during the day, before closing at 397 yuan. The performance reflects continued...",
+          "published": "2026-09-11T01:45:56+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "“우리 거 재탕 끝내면 알려줘”…삼성전자, 애플 폴더블 향해 직격탄 날렸다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5PZEh5UUhqT2w1VHZ6VGx4SUpaWjBuanEzdzA2Yl9UUENqdEJZNGxscmRndDFKTE51LW1HUnZnNTRlSXhQd0tDcjQxVnRpMUpwVGN6eVpB?oc=5",
-          "summary": "“우리 거 재탕 끝내면 알려줘”…삼성전자, 애플 폴더블 향해 직격탄 날렸다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-10T13:09:45+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "민주당, “디지털자산기본법, 9월 공청회 거쳐 11월 법안소위 상정 추진” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ZM1pPVVlpX2s2eGtJZEtaMkNvNmxUZG4xbVRXWW1FR21oN1QyeXJKM2xsQ21mN3hDVWs5QVhkbTBfaU95VEFVdUU3enMwdlFJWHc?oc=5",
-          "summary": "민주당, “디지털자산기본법, 9월 공청회 거쳐 11월 법안소위 상정 추진” &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-10T06:38:40+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -200,19 +159,19 @@
           "event_labels": []
         },
         {
-          "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-          "link": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. According to Eli and his wife,&#8230;",
-          "published": "2026-09-10T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 7,
+          "title": "[카드뉴스] AI 다음은 '보안'이래요",
+          "link": "https://zdnet.co.kr/view/?no=20260911111025",
+          "summary": "[지디넷코리아]안녕하세요, AMEET 기자입니다. 세계에서 몸값이 가장 비싼 기업, 엔비디아가 이번엔 'AI 보안'이라는 새로운 보물지도를 찾았다는 소식을 전해드려요. 무려 5조 2천억 달러에 달하는 몸값을 자랑하는 엔비디아 회장님이 AI 다음 먹거리로 보안 기술을 점찍었다는데요, 경비원이 점점 똑똑한 로봇으로 진화하듯 보안 기술도 나날이 발전하는 중이라고 해요. 이번 프로젝트에서는 엔비디아가 기계 담당을, 보안회사가 방어 담당을, 그리고 기업과 정부가 사용 담당을 맡아 각자의 역할로 힘을 합친다고 합니다. 하지만 모두가 장밋빛 전망만 내놓는 건 아니에요.AI 패널의 의견도 찬성 33%, 조건부 유보 33%, 걱정된다는 의견이 34%로 팽팽하게 갈렸다고 하는데요. 빠른 속도로 발전한다는 장점은 분명하지만 비용 부담이라는 숙제도 함께 안고 있다는 지적이에요. 특히 아직 진짜 실력이 증명되기 전이기 때문에 성급하게 믿어서는 안 된다는 신중론도 나오고 있어요. AI가 무럭무럭 자라나는 만",
+          "published": "2026-09-11T13:50:00+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 5,
+            "source": 1,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -220,15 +179,15 @@
           "event_labels": []
         },
         {
-          "title": "God told them to sell crypto. Their investors lost everything.",
-          "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
-          "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a&#8230;",
-          "published": "2026-09-10T09:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UUFZTdTdhQkdIR21nc00yUXpLbDBWYlM5WXh2QWpUQjlpOW9oS2JWLWltZVBEMkI0MkxvQlZvaTUyNThjN2xDVXR5aVdUakVPTWNMVEZMNWFON1k3QVJSVTgwV253TFl3cUE?oc=5",
+          "summary": "웹 브라우저 벗어난 구글 '제미나이', 윈도우용 데스크톱 앱 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-11T03:18:38+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -241,35 +200,41 @@
         }
       ]
     },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 3,
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
       "articles": [
         {
-          "title": "[인터뷰] 2000억 투입한 네이버, '보파모'로 사업보국 실현…\"AI 보안 주권 지킬 것\"",
-          "link": "https://zdnet.co.kr/view/?no=20260910090943",
-          "summary": "[지디넷코리아]\"국가 위기 상황에서 해외 모델에 기대지 않고 사용할 수 있는 우리나라만의 인공지능(AI) 모델이 반드시 필요합니다. 네이버 경영진이 '보안 특화 AI 사업'에 약 2000억원 상당의 자체 그래픽처리장치(GPU) 4000장을 투입하기로 결단한 것도 이런 이유에서입니다. 앞으로 국내 AI 보안 역량을 키워 국가 발전에 이바지하고자 합니다.\"김진휘 네이버클라우드 보안 전무와 성낙호 하이퍼스케일 AI 전무는 지난 9일 지디넷코리아와 만나 정부 '사이버보안 특화 AI 파운데이션 모델 개발' 사업의 구체적인 개발·실증 전략을 공개했다. 이들은 외산 AI 모델 의존도를 낮추고 국내 기술로 'AI 보안 주권'을 확보하는 데 개발 초점을 맞췄다.앞서 네이버클라우드는 SK텔레콤과의 경쟁 끝에 지난 3일 이 사업의 최종 수행기관으로 선정됐다. 과학기술정보통신부는 보안 위협이 커지는 상황에 대응할 수 있는 AI 모델을 확보하는 것이 필요하다고 판단해 이 사업을 추진했다.네이버클라우드는 L",
-          "published": "2026-09-10T21:01:01+00:00",
+          "title": "스마트 컨트랙트로 자격 없으면 거래 막는다…신한운용 ‘K-비들’ 밑그림",
+          "link": "https://zdnet.co.kr/view/?no=20260911165843",
+          "summary": "[지디넷코리아]“기존 금융상품과 달리 온체인에서는 자산이 블록체인에서 직접 이동하기 때문에 통제 대상이 토큰 이동으로 확대됩니다. 따라서 토큰화 금융 상품은 사후 점검이 아니라 설계 단계부터 내부통제를 함께 설계해야 합니다.”이진혁 신한자산운용 이사는 11일 여의도 2IFC에서 딜로이트와 타이거리서치가 주최한 ‘원화 기반 실물자산 토큰화의 시작과 자본시장의 기회’ 세미나에서 이같이 말하며 한국형 ‘비들(BUIDL)’ 설계 방향을 제시했다.블랙록은 미국 국채와 레포(환매조건부채권), 현금 등 단기 현금성 자산에 투자하는 토큰화 펀드 비들을 운용하고 있다. 최근 금융위원회에서 토큰증권(ST)을 단계적으로 허용하는 가이드라인을 공개한 가운데, 신한자산운용 역시 플룸네트워크와 손잡고 국채 등 원화 자산을 기반으로 한 이른바 ‘K-비들’을 준비 중이다.핵심은 국채 등 기존 금융자산을 단순히 디지털 토큰으로 바꾸는데 그치지 않고, 투자자 확인부터 토큰 발행·이전·환매까지 주요 과정을 블록체인과",
+          "published": "2026-09-11T08:01:47+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
+      "articles": [
         {
-          "title": "중기부 선정 '기후테크' 최고혁신상...기가에떼와 더오리진",
-          "link": "https://zdnet.co.kr/view/?no=20260910231316",
-          "summary": "[지디넷코리아]중기부가 주관한 '모두의 챌린지 기후테크'에서 최고혁신상을 기가에떼와 더 오리진(The Origin) 두 회사가 받았다. 중기부는 10일 제주 카카오 스페이스닷원에서 '모두의 챌린지 기후테크' 파이널 피칭을 개최했다.'모두의 챌린지 기후테크'는 기후분야 우수 창업기업을 발굴해 육성해야한다는 중기부와 한국과학기술원(KAIST)의 공감대에서 출발했다. 한국과학기술원(KAIST)이 올해 5월 기업 모집을 시작해 서류심사와 1차 오디션을 통해 20개팀을 선발했고, 카이스트 석･박사 전문인력이 팀별로 매칭, 사업 고도화를 거쳐 이번 파이널 피칭을 한 10개팀을 확정했다.파이널 피칭은 한국과학기술원(KAIST)에서 선정한 최종 10개 팀을 두 개 리그로 나눠 진행했다. 예비창업자가 기후문제 해결 아이디어를 겨루는 ‘일반리그’와, 기후테크 창업기업이 참여하는 ‘스타트업리그’로 나눠 진행했다. 이날 파이널 피칭으로 각자의 기후 분야 혁신 기술을 발표했다.피칭 결과, ‘일반리그’에서는",
-          "published": "2026-09-10T14:13:16+00:00",
+          "title": "\"서비스 안 주면 1점\"…소상공인 울리는 ‘별점 테러’ 손본다",
+          "link": "https://zdnet.co.kr/view/?no=20260911155949",
+          "summary": "[지디넷코리아]온라인 플랫폼의 별점과 리뷰가 소비자의 선택을 돕는 수단을 넘어 소상공인을 압박하는 수단으로 악용되는 사례가 잇따르자 정부와 플랫폼 업계가 개선 방안 마련에 나섰다. 소상공인들은 무료 서비스나 보상을 거절했다는 이유로 낮은 별점을 주거나 실제 이용하지 않고 허위 리뷰를 작성하는 이른바 ‘별점 테러’에 대한 플랫폼의 대응 강화를 요구했다.중소벤처기업부는 11일 서울 중구 대·중소기업·농어업협력재단에서 ‘온라인플랫폼 별점제 관련 상생 간담회’를 열고 별점·리뷰 제도로 인한 소상공인의 피해 사례와 개선 방안을 논의했다.이날 간담회에는 네이버와 카카오, 배달의민족, 쿠팡, 여기어때, 놀유니버스 등 온라인 플랫폼 6개사와 한국외식업중앙회, 대한숙박업중앙회, 소상공인연합회 등 관계자 20여명이 참석했다.플랫폼사들은 이날 악의적인 리뷰로 인한 사업주 피해를 막기 위해 현재 운영 중인 별점·리뷰 관리 제도를 공유했다.일부 플랫폼은 사업주가 리뷰 노출과 운영 여부를 선택할 수 있도록 ",
+          "published": "2026-09-11T07:16:42+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -277,19 +242,19 @@
           "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -2
           },
           "event_labels": []
         },
         {
-          "title": "네이버웹툰 작가 만족도 4년 새↑…\"글로벌 진출 기회 긍정적\"",
-          "link": "https://zdnet.co.kr/view/?no=20260910165232",
-          "summary": "[지디넷코리아]네이버웹툰과 직접 계약한 창작자들의 플랫폼 만족도는 전반적으로 높은 것으로 나타났다. 특히 수익 정산과 계약 절차에 대한 신뢰도가 높았으며, 4년 전과 비교해서는 글로벌 시장 진출 기회에 대한 평가가 눈에 띄게 개선됐다.10일 고려대학교 엔터테인먼트경영연구센터와 한국미디어경영학회가 개최한 ‘지속가능한 웹툰 생태계를 위한 질문’ 세미나에서는 네이버웹툰 계약 창작자들을 대상으로 진행한 인식·만족도 조사 결과가 공개됐다.임철민 전북대 미디어커뮤니케이션학과 교수는 지난 7~8월 네이버웹툰과 직접 계약한 창작자 111명을 대상으로 설문조사를 진행했다. 응답자의 평균 창작 경력은 4.7년, 웹툰 플랫폼에서 연재한 작품은 평균 2.7편이었다. 이 가운데 네이버웹툰에서 연재한 작품은 평균 1.7편으로 집계됐다.조사는 ▲플랫폼 역할 ▲정산·계약 절차 ▲수익 창출·배분 구조 ▲글로벌 진출 ▲종합 인식 등 5개 영역을 중심으로 이뤄졌다.조사 결과 창작자들의 네이버웹툰에 대한 종합적인 인식",
-          "published": "2026-09-10T09:37:44+00:00",
+          "title": "45㎏ 넘는 수출 화물, 우체국서 해외 배송 한번에",
+          "link": "https://zdnet.co.kr/view/?no=20260911165745",
+          "summary": "[지디넷코리아]중소 수출기업이 45㎏ 이상의 국제화물을 보낼 때 운임 비교부터 통관, 해외 현지 배송까지 한 번에 지원받을 수 있는 우체국 물류 서비스가 나온다.우체국물류지원단은 중소기업의 국제화물 운송 부담을 낮추기 위한 ‘포스트픽(Post Pick)’을 오는 14일부터 시범 운영한다고 11일 밝혔다.포스트픽은 기업이 화물의 출발지와 목적지, 중량, 부피 등 기본 정보를 입력하면 시장 운임을 비교해 적합한 운송 조건과 견적을 제시하는 서비스다. 이후 우체국 화물 접수와 통관대행, 국제운송, 도착 국가에서의 배송까지 하나의 과정으로 연계한다.시범운영 대상은 45㎏ 이상 국제화물이다. 배송 가능한 국가는 미국과 베트남, 인도, 독일, 네덜란드 등 5개국으로 우선 한정했다.서비스를 이용하려는 기업은 우체국물류지원단 홈페이지의 견적문의 게시판에서 화물 정보를 입력해 견적을 요청하면 된다. 지원단은 해당 정보를 토대로 이용 가능한 운송 방식과 비용을 안내한다.카카오톡을 통한 상담 창구도 운",
+          "published": "2026-09-11T07:57:45+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
