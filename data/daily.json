@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-12T22:54:05.758759+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-09-13T23:00:12.054314+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "Tesla Teases Oct. 1 Event to Showcase Next-Generation Roadster",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-12/tesla-teases-oct-1-event-to-showcase-next-generation-roadster",
-          "summary": "Tesla Inc. teased an Oct. 1 event to showcase its next-generation Roadster vehicle, a niche product that CEO Elon Musk first unveiled in November 2017.",
-          "published": "2026-09-12T20:20:58+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "앤트로픽 \"AI 개발 속도 조절해야\"...머스크·알트먼도 공감",
+          "link": "https://zdnet.co.kr/view/?no=20260913143726",
+          "summary": "[지디넷코리아]다리오 아모데이 앤트로픽 최고경영자(CEO)가 최첨단 AI 모델의 개발 속도를 조절하자는 제안을 내놓았다.시장 주도권을 놓고 맞서 온 샘 알트먼 오픈AI CEO와 일론 머스크 스페이스X CEO도 잇달아 공감하면서 AI 안전을 둘러싼 업계 논의가 새 국면을 맞을 전망이다.다리오 아모데이 CEO는 13일 \"AI 모델의 역량을 개선하는 속도를 늦춰야 한다\"며 \"최첨단 AI 개발 경쟁을 안전 중심으로 전환해야 한다\"고 밝혔다.그는 개발 속도를 조절해 안전 조치와 정렬 연구에 1~2년의 시간을 더 확보한다면 AI 통제력 상실 위험을 크게 낮출 수 있다고 주장했다.샘 알트먼 오픈AI CEO는 다리오 아모데이 CEO의 글 공개 직후 \"AI 최전선을 조절해야 한다는 데 동의한다\"고 밝혔다. 이어 독립 평가자에게 직원 수준의 접근 권한을 제공하자는 제안도 \"좋은 생각\"이라며 오픈AI 역시 이를 도입하겠다고 했다.일론 머스크 스페이스X CEO 역시 다리오 아모데이 CEO의 게시글을 공유",
+          "published": "2026-09-13T06:30:37+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -29,20 +29,60 @@
           ]
         },
         {
-          "title": "SpaceX to Get Weighting Boost in Nasdaq 100 After Rebalance",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
-          "summary": "SpaceX is set to get a larger weighting in the Nasdaq 100 later this month, a change that could trigger billions of dollars of buying by passive funds tied to the benchmark.",
-          "published": "2026-09-12T17:58:51+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tMFo3S2VJRmh2elN6eVQwdUdqSE9xMk1lQWpVY0JIOGl4bF9yenZvQWhkYUpvZlJEOGNOaTR5ZmNZTzB6YUVZc0J2bmhHdk50SzFBc1pmTUd5UjJzajNqN0hLSlgzZ2ZIWEE?oc=5",
+          "summary": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-12T23:06:24+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 9,
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hMWpTUzhicWh3N1EzS0hzbUNuTXBaN2o4SnJ6QXJ6VHN1TEJRSXZ3dkVkSk5nV0RCMDJKeE1mZzZaeFBkRkFfSjI1V0tHcUY4ZlBWdGs3Y3RCeUdudmk5U1hNMUhSdUFZSEE?oc=5",
+          "summary": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-13T01:27:35+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYTFzaDNlVkRjdGNVNXZDbjhCcUF0RzNLdERNdGZkbmlGVHpjUTNfVDFfaldjazJRMTh0VUExc0N3OTByckFHeGpxMWVLOWZoX3JXMU43ZHJqNDU2azJCWDFjelZZNXQ2ZVE?oc=5",
+          "summary": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-13T02:55:17+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -55,54 +95,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia Mulls $10 Billion Anthropic IPO Backing, Reuters Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-11/nvidia-in-talks-to-invest-up-to-10b-in-anthropic-ipo-reuters",
-          "summary": "Nvidia Corp. is considering investing as much as $10 billion in Anthropic PBC’s initial public offering, which could become the biggest IPO of all time, Reuters reported.",
-          "published": "2026-09-11T23:19:47+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "What is AGI? How China’s AI firms are catching up as OpenAI Astra sparks debate",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3367207/what-agi-how-chinas-ai-firms-are-catching-openai-astra-sparks-debate?utm_source=rss_feed",
-          "summary": "Nvidia CEO Jensen Huang’s declaration that artificial general intelligence (AGI) has arrived following the release of OpenAI’s latest model, Astra, has ignited debate over whether AI’s holy grail is now reality. As China races to close the gap with the US, leading Chinese AI companies are declaring their ambitions to pursue AGI, even as Beijing appears to maintain a cautious stance towards the concept. Here is a primer on what AGI means, where top Chinese AI developers stand, and how Chinese...",
-          "published": "2026-09-12T03:00:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "OpenAI’s Altman Says No IPO in 2026, Firm to Prioritize Safety",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-12/openai-ipo-won-t-happen-until-2027-sam-altman-tells-fortune",
-          "summary": "OpenAI won’t go public in this year as the artificial intelligence company focuses on addressing safety-related concerns around the technology, Chief Executive Officer Sam Altman told Fortune in an interview.",
-          "published": "2026-09-12T19:36:39+00:00",
+          "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
+          "summary": "Anthropic PBC has picked Nasdaq as its listing venue ahead of a potential record-setting initial public offering, according to a person familiar with the matter.",
+          "published": "2026-09-13T18:03:59+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -121,105 +117,144 @@
           ]
         },
         {
-          "title": "애플 아이폰17, 첫해 매출 230조원…삼성 MX 연매출의 1.8배",
-          "link": "https://zdnet.co.kr/view/?no=20260911171526",
-          "summary": "[지디넷코리아]애플이 지난해 출시한 '아이폰17 시리즈'가 출시 첫해 역대 아이폰 시리즈 가운데 사상 최대 매출을 달성했다. 교체주기 도래에 따른 업그레이드 수요와 더불어 기본형 모델부터 최고급 모델에 이르기까지 전 라인업에서 고른 인기를 얻었다. 13일 시장조사업체 카운터포인트에 따르면 아이폰17 시리즈의 출시 첫해 글로벌 누적 매출액은 1700억 달러(약 230조원)를 돌파했다. 이는 전작 아이폰16 시리즈의 출시 첫해 매출보다 11% 증가한 수치다. 역대 애플 아이폰 라인업이 기록한 첫해 성적 중 가장 높은 금액이다. 애플의 아이폰17 시리즈 매출 약 230조원은, 삼성전자 MX·네트워크 사업부의 지난해 매출 129조 7000억원의 1.8배다. 아이폰17 시리즈 흥행은 기본 모델 약진이 주효했다. 카운터포인트는 \"아이폰17 시리즈는 수년 만에 애플이 선보인 가장 강력한 라인업\"이라며 \"기존 프로 시리즈에서만 접할 수 있었던 고급 사양을 기본 모델에 탑재했고, 상위 라인업 프로 ",
-          "published": "2026-09-12T20:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "팹리스 톱10, 2분기 매출 73% 급증…AMD, 퀄컴 제치고 첫 3위",
-          "link": "https://zdnet.co.kr/view/?no=20260911215419",
-          "summary": "[지디넷코리아]2분기 전 세계 상위 10대 팹리스(반도체 설계전문) 기업 매출 합계가 전년 동기 대비 73% 급증했다. 인공지능(AI) 인프라 투자 광풍 영향이다. 서버용 중앙처리장치(CPU) 수요 폭증을 등에 업은 AMD가 모바일 침체에 발목 잡힌 퀄컴을 제치고 사상 처음으로 매출 3위에 올랐다. 12일 시장조사업체 트렌드포스에 따르면 2분기 글로벌 상위 10대 팹리스 기업 합산 매출은 1414억 5000만 달러(약 189조 7693억원)로 집계됐다. 전년 동기 대비 73% 급증했다. 그래픽처리장치(GPU)와 주문형 반도체(ASIC), 고속 인터커넥트 칩 수요가 전례 없는 호황을 견인했다.엔비디아는 전년 동기 대비 99% 증가한 911억 6000만 달러 매출로 압도적 1위를 지켰다. 상위 10대 기업 전체 매출 중 엔비디아 비중은 64%였다. 빅테크와 소버린(자립형) AI를 비롯해 일반 기업(엔터프라이즈)의 AI 서버 도입이 이어졌다. 미디어텍·마벨과 손잡고 'NV링크 퓨전' 생태",
-          "published": "2026-09-11T23:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
+          "summary": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market strategists say.",
+          "published": "2026-09-13T08:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Amazon Spends More on Sports Than Netflix, YouTube Combined",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/amazon-spends-more-on-sports-than-netflix-youtube-combined",
+          "summary": "Sports are uniquely valuable. They’re also uniquely expensive.",
+          "published": "2026-09-13T22:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 앤트로픽 초대형 IPO에 '13조 앵커 투자' 논의 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zREV2ZDNCd2NaUkU5SG5xMnZBUjk0Qmd4eXhvUGQxd2l3Q2MtWnBtTmpyamZXdXkxWU1tXzVudEdwcjA1aDBiRFFzLWFveXc4RnNVNTc1NTA5WFlvNzgzbzBzdDRsRXd4a3c?oc=5",
+          "summary": "엔비디아, 앤트로픽 초대형 IPO에 '13조 앵커 투자' 논의 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-13T01:12:36+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple’s iPhone Duo Will Make Foldable Phones the New Normal; Apple Store Revamp",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60",
+          "summary": "Also: The company prepares a retail store shake-up.",
+          "published": "2026-09-13T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"디아블로5, 악마가 승리한 절망의 세계…역대 최고 캠페인\"",
+          "link": "https://zdnet.co.kr/view/?no=20260913121051",
+          "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 미국 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 디아블로 프랜차이즈 정식 넘버링 신작 '디아블로5'를 깜짝 공개했다. 2029년 봄 출시를 목표로 개발 중인 이번 신작은 공포의 군주 디아블로가 성역을 정복하고 승리한 절망적인 세계를 무대로 한다.'블리즈컨 2026'이 개막한 미국 애너하임 컨벤션 센터에서 12일(현지시각) 매트 지터맨 총괄 프로듀서와 존 뮬러 선임 아트 디렉터를 만나 새롭게 펼쳐질 핏빛 성역의 청사진을 들었다.먼저 개발진은 기존 '디아블로4'의 서비스 향방에 대해 선을 그었다. 매트 지터맨 총괄은 \"디아블로4는 '지옥의 유산' 시즌과 2027년 '아마존' 직업 추가 등을 통해 고유의 라이브 서비스를 계속 이어갈 것\"이라며 \"디아블로5는 이와 별개로 완전히 독립적인 새로운 서사와 콘텐츠를 다룬다\"고 밝혔다.디아블로5의 세계관은 전작의 서사에서 큰 폭으로 도약한다. 존 뮬러 디렉터는 ",
+          "published": "2026-09-13T03:11:19+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "exec_change"
           ]
         },
         {
-          "title": "애플 폴더블폰 시장 진입 공격에 삼성 ‘팀 쿡’ 카드로 맞불 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBUVm00dTRtRHdhQWU1cmVNa3RiSy0zTGhVRWZYb2JueVdrbFJUS0N5VTVOaklLM1dCX3JNNEFub0tVQTByMkRDTTBKakkzMjV5YWt2eTJ6d3dsUkR0MGJWSE1IcmRLbm9qZGc?oc=5",
-          "summary": "애플 폴더블폰 시장 진입 공격에 삼성 ‘팀 쿡’ 카드로 맞불 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-12T01:01:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpQ09zS1Zab3ctNDZsWEZ0UmVmZ3BSTG1IZUE4TnZINEpuM25Zc1oySXh0OWlMRzNndU1uOTZ3ZU5maENwMHVpN3dSWDBBNTg5XzVOZXFjU1RoOHNUNU9IY2tsbTFwUTVnY2c?oc=5",
-          "summary": "구글, AI 도구 학습 '툴그래드' 공개...\"답부터 만들고 질문 붙여 성공률 99.8%\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-12T08:24:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "아이폰 듀오 돌풍 예고…\"애플, 폴더블폰 시장 24.8% 점유\"",
-          "link": "https://zdnet.co.kr/view/?no=20260911170331",
-          "summary": "[지디넷코리아]애플이 첫 폴더블 아이폰 ‘아이폰 듀오’로 올해 전 세계 폴더블 스마트폰 시장에서 24.8% 점유율을 차지할 것이라는 전망이 나왔다.IT매체 나인투파이브맥은 최근 시장조사업체 트렌드포스 보고서를 인용해 이같이 보도했다.보고서에 따르면 2026년 전 세계 폴더블폰 출하량은 전년보다 0.5% 증가한 2020만대로 예상된다. 이 가운데 애플을 제외한 안드로이드 폴더블폰 출하량은 1520만 대에 그칠 전망이다. 이는 전년 대비 20% 이상 감소한 수준이다.이 같은 출하량 감소는 부품 가격의 급격한 상승이 주요 원인으로 꼽힌다. 이에 따라 대부분의 스마트폰 제조업체의 올해 폴더블폰 출하량은 전년과 비슷하거나 감소할 것으로 전망됐다.삼성전자는 올해 폴더블폰 710만 대를 출하해 35.1%의 시장 점유율을 기록할 것으로 예상됐다. 애플과 화웨이는 각각 약 500만 대를 출하해 24.8%의 점유율을 차지할 것으로 전망됐다.트렌드포스는 아이폰 듀오의 하드웨어 구성과 최종 디자인을 구현",
-          "published": "2026-09-12T00:56:16+00:00",
+          "title": "[ZD브리핑] 기아 PV7·아이폰18 '출격'…현안 챙기는 삼성·SK·카카오",
+          "link": "https://zdnet.co.kr/view/?no=20260913152527",
+          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업 및 IT 업계는 굵직한 신제품 발표와 기업들의 주요 현안 논의로 분주한 한 주를 보낼 전망입니다. 기아의 대형 전동화 목적 기반 차량(Purpose Built Vehicle, PBV) 'PV7'이 세계 최초로 공개되며, 예약판매를 마친 애플의 '아이폰18' 시리즈가 18일 정식 개통을 앞두고 있습니다. 또한 삼성·SK·카카오 등 주요 기업들은 성과급 제도 및 지배구조 개편과 관련해 주주 및 노사 간 소통에 적극 나설 예정입니다. 이 밖에 글로벌 게임",
+          "published": "2026-09-13T08:14:35+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "브렌트 깁슨 디렉터 \"디아블로4, '공포의 시대' 개막…확장팩 넘는 경험 선사할 것\"",
+          "link": "https://zdnet.co.kr/view/?no=20260914060404",
+          "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 지난 12일(이하 미 현지시각) 개막한 '블리즈컨 2026'을 통해 '디아블로4'의 차세대 라이브 서비스 로드맵을 구체화했다. 30주년 기념 '지옥의 유산' 시즌과 신규 직업 '아마존', 닌텐도 스위치2 플랫폼 확장까지 아우르며 장기 흥행 기반을 탄탄히 다진다는 구상이다.미국 애너하임 컨벤션 센터에서 13일 진행된 인터뷰에서 브렌트 깁슨 게임 디렉터와 댄 탕구에이 라이브 서비스 디자인 디렉터를 만나 디아블로4의 향후 스토리 전개와 시스템 개편 방향을 들었다.최근 국내외 커뮤니티에서 불거진 '추가 확장팩 중단설'에 대해 개발진은 새로운 콘텐츠 공급 방식의 진화라고 설명했다. 브렌트 깁슨 디렉터는 \"메피스토 격퇴로 '증오의 시대'가 대단원의 막을 내렸으며, 이제 디아블로4는 '공포의 시대'에 초점을 맞춘다\"며 \"새로운 시즌과 아마존 출시 등 방대한 콘텐츠를 지속적으로 지원할 것\"이라고 밝혔다.댄 탕구에이 디렉터는 \"확",
+          "published": "2026-09-13T21:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -229,34 +264,36 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "美 물가지표 예상 부합에…비트코인, 7만 7000달러선 회복",
-          "link": "https://zdnet.co.kr/view/?no=20260912094132",
-          "summary": "[지디넷코리아]미국 소비자물가지수(CPI)가 시장 예상에 부합한 가운데 근원 물가가 예상보다 높게 나타나면서 비트코인이 소폭 반등했다. 다음주 열리는 연방공개시장위원회(FOMC) 회의에서 기준금리를 인상할 가능성이 커진 것이 영향을 미친 것으로 풀이된다.12일 코인마켓캡에 따르면 비트코인은 전일 대비 0.57% 상승한 7만 7273 달러(약 1억 381만원)에 거래되고 있다.비트코인은 지난 7일 8만 달러(약 1억 746만원) 선이 무너진 이후 하락세를 이어왔지만 이날 소폭 반등했다. 이더리움과 리플, 솔라나도 1~3% 선의 상승세를 보이고 있다.이날 주요 가상자산 반등은 미국 8월 CPI가 시장 전망에 부합한 것이 영향을 미쳤다.미국 노동부 노동통계국(BLS)은 11일(현지시간) 8월 CPI가 전년 동월 대비 3.4% 상승했다고 밝혔다. 전월 대비로는 0.4% 올랐다.특히 유가 불안에 따른 휘발유 가격 상승이 전체 물가를 끌어올렸다. 휘발유 가격은 전월 대비 3.9%, 전년 동월 ",
-          "published": "2026-09-12T07:10:27+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "\"아이폰18 프로 어디서 팔지\"…실시간 재고 알려준다",
+          "link": "https://zdnet.co.kr/view/?no=20260913101302",
+          "summary": "[지디넷코리아]아이폰18 사전예약이 시작된 가운데, 통신 종합 플랫폼 모요가 주요 오픈마켓 자급제 단말기 재고를 한 번에 확인할 수 있는 서비스를 운영한다.모요는 아이폰18 시리즈 출시를 맞아 ‘아이폰18 재고알리미’를 선보인다고 13일 밝혔다.재고알리미는 쿠팡·11번가·지마켓·하이마트 등 주요 오픈마켓에서 판매하는 자급제 아이폰 재고를 실시간으로 확인할 수 있는 서비스다. 이용자가 원하는 모델과 저장용량, 색상을 선택하면 해당 제품의 재고가 확보됐을 때 카카오톡으로 알림을 받을 수 있다.아이폰 신제품은 사전예약이 시작되면 일부 인기 모델이나 색상의 초기 물량이 빠르게 소진되는 경우가 있다. 모요는 여러 판매처를 개별적으로 확인해야 하는 번거로움을 줄이는 데 초점을 맞췄다. 재고알리미는 아이폰14 출시 때부터 운영해왔다.아이폰18 시리즈는 우선 아이폰18 프로와 아이폰18 프로맥스, 폴더블 모델인 아이폰 듀오로 구성됐다. 일반 모델은 내년 초에 출시될 예정이다. 이우일 모요 PO는 ",
+          "published": "2026-09-13T02:34:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
