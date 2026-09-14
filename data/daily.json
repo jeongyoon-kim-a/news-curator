@@ -1,174 +1,95 @@
 {
-  "generated_at": "2026-09-13T23:00:12.054314+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-09-14T23:44:11.995640+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "앤트로픽 \"AI 개발 속도 조절해야\"...머스크·알트먼도 공감",
-          "link": "https://zdnet.co.kr/view/?no=20260913143726",
-          "summary": "[지디넷코리아]다리오 아모데이 앤트로픽 최고경영자(CEO)가 최첨단 AI 모델의 개발 속도를 조절하자는 제안을 내놓았다.시장 주도권을 놓고 맞서 온 샘 알트먼 오픈AI CEO와 일론 머스크 스페이스X CEO도 잇달아 공감하면서 AI 안전을 둘러싼 업계 논의가 새 국면을 맞을 전망이다.다리오 아모데이 CEO는 13일 \"AI 모델의 역량을 개선하는 속도를 늦춰야 한다\"며 \"최첨단 AI 개발 경쟁을 안전 중심으로 전환해야 한다\"고 밝혔다.그는 개발 속도를 조절해 안전 조치와 정렬 연구에 1~2년의 시간을 더 확보한다면 AI 통제력 상실 위험을 크게 낮출 수 있다고 주장했다.샘 알트먼 오픈AI CEO는 다리오 아모데이 CEO의 글 공개 직후 \"AI 최전선을 조절해야 한다는 데 동의한다\"고 밝혔다. 이어 독립 평가자에게 직원 수준의 접근 권한을 제공하자는 제안도 \"좋은 생각\"이라며 오픈AI 역시 이를 도입하겠다고 했다.일론 머스크 스페이스X CEO 역시 다리오 아모데이 CEO의 게시글을 공유",
-          "published": "2026-09-13T06:30:37+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tMFo3S2VJRmh2elN6eVQwdUdqSE9xMk1lQWpVY0JIOGl4bF9yenZvQWhkYUpvZlJEOGNOaTR5ZmNZTzB6YUVZc0J2bmhHdk50SzFBc1pmTUd5UjJzajNqN0hLSlgzZ2ZIWEE?oc=5",
-          "summary": "아모데이 \"첨단 모델 개발 속도 줄이자\"...알트먼·머스크도 \"동의\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-12T23:06:24+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hMWpTUzhicWh3N1EzS0hzbUNuTXBaN2o4SnJ6QXJ6VHN1TEJRSXZ3dkVkSk5nV0RCMDJKeE1mZzZaeFBkRkFfSjI1V0tHcUY4ZlBWdGs3Y3RCeUdudmk5U1hNMUhSdUFZSEE?oc=5",
-          "summary": "테슬라, 10월 1일 2세대 로드스터 공개...‘비행’ 기능 베일 벗을까 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-13T01:27:35+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jYTFzaDNlVkRjdGNVNXZDbjhCcUF0RzNLdERNdGZkbmlGVHpjUTNfVDFfaldjazJRMTh0VUExc0N3OTByckFHeGpxMWVLOWZoX3JXMU43ZHJqNDU2azJCWDFjelZZNXQ2ZVE?oc=5",
-          "summary": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-13T02:55:17+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-said-to-choose-nasdaq-for-much-anticipated-ipo-listing",
-          "summary": "Anthropic PBC has picked Nasdaq as its listing venue ahead of a potential record-setting initial public offering, according to a person familiar with the matter.",
-          "published": "2026-09-13T18:03:59+00:00",
+          "title": "Minebea Mitsumi Pauses M&A to Chase AI, Nvidia Demand for Components",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/minebea-mitsumi-pauses-m-a-to-chase-ai-nvidia-demand-for-components",
+          "summary": "Minebea Mitsumi Inc., one of Japan’s biggest corporate dealmakers, is hitting pause on acquisitions to focus on its output of ball bearings, motors and actuators for AI hardware to chase lucrative returns from the emerging technology.",
+          "published": "2026-09-14T21:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Trump Attacks Anthropic CEO Over Call to Slow AI Development",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/trump-rejects-calls-for-ai-guardrails-blasts-anthropic-s-amodei",
+          "summary": "President Donald Trump attacked Anthropic PBC Chief Executive Officer Dario Amodei for urging a slowdown in artificial intelligence development, intensifying his opposition to new guardrails for the technology.",
+          "published": "2026-09-14T14:08:08+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "link": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs. Amodei cites the looming dangers he sees from the technology, from its&#8230;",
+          "published": "2026-09-14T17:54:22+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "exec_change"
           ]
         },
         {
-          "title": "Anthropic’s AI Warning May Weigh on Chips, But Trade Seen Intact",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-13/anthropic-s-ai-warning-may-weigh-on-chips-but-trade-seen-intact",
-          "summary": "AI executives’ calls to slow development of the technology are likely to weigh on chipmaker and supply-chain stocks in the near term, but will probably have limited long-term impact as spending on computing infrastructure remains strong, market strategists say.",
-          "published": "2026-09-13T08:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Amazon Spends More on Sports Than Netflix, YouTube Combined",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/amazon-spends-more-on-sports-than-netflix-youtube-combined",
-          "summary": "Sports are uniquely valuable. They’re also uniquely expensive.",
-          "published": "2026-09-13T22:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 앤트로픽 초대형 IPO에 '13조 앵커 투자' 논의 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zREV2ZDNCd2NaUkU5SG5xMnZBUjk0Qmd4eXhvUGQxd2l3Q2MtWnBtTmpyamZXdXkxWU1tXzVudEdwcjA1aDBiRFFzLWFveXc4RnNVNTc1NTA5WFlvNzgzbzBzdDRsRXd4a3c?oc=5",
-          "summary": "엔비디아, 앤트로픽 초대형 IPO에 '13조 앵커 투자' 논의 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-13T01:12:36+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "과기정통부, 미국서 구글·엔비디아 방문·협력 논의 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpQTMtVjZwcnhvbjhUZzRBbGxlTTIxdDNld2ZZei13Q282Y3pFZEhKV2NFUjRnUkFZZmdDZjQxTzBjb082dmFiZXNXeDJsd1dxR1diT0IzcnhDVlIxa2o5TFg4dWVSTi1uOXFXeEdjc20?oc=5",
+          "summary": "과기정통부, 미국서 구글·엔비디아 방문·협력 논의 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-14T07:16:54+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -177,39 +98,41 @@
           "event_labels": []
         },
         {
-          "title": "Apple’s iPhone Duo Will Make Foldable Phones the New Normal; Apple Store Revamp",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-13/apple-s-iphone-duo-will-make-foldable-phones-the-new-normal-apple-store-revamp-mtzvsb60",
-          "summary": "Also: The company prepares a retail store shake-up.",
-          "published": "2026-09-13T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Should Anthropic press pause on a potential $2trn IPO?",
+          "link": "https://www.economist.com/business/2026/09/14/should-anthropic-press-pause-on-a-potential-2trn-ipo",
+          "summary": "Amid a safety freakout, it wants to slow down AI development",
+          "published": "2026-09-14T04:47:47+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "\"디아블로5, 악마가 승리한 절망의 세계…역대 최고 캠페인\"",
-          "link": "https://zdnet.co.kr/view/?no=20260913121051",
-          "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 미국 애너하임 컨벤션 센터에서 개막한 '블리즈컨 2026'을 통해 디아블로 프랜차이즈 정식 넘버링 신작 '디아블로5'를 깜짝 공개했다. 2029년 봄 출시를 목표로 개발 중인 이번 신작은 공포의 군주 디아블로가 성역을 정복하고 승리한 절망적인 세계를 무대로 한다.'블리즈컨 2026'이 개막한 미국 애너하임 컨벤션 센터에서 12일(현지시각) 매트 지터맨 총괄 프로듀서와 존 뮬러 선임 아트 디렉터를 만나 새롭게 펼쳐질 핏빛 성역의 청사진을 들었다.먼저 개발진은 기존 '디아블로4'의 서비스 향방에 대해 선을 그었다. 매트 지터맨 총괄은 \"디아블로4는 '지옥의 유산' 시즌과 2027년 '아마존' 직업 추가 등을 통해 고유의 라이브 서비스를 계속 이어갈 것\"이라며 \"디아블로5는 이와 별개로 완전히 독립적인 새로운 서사와 콘텐츠를 다룬다\"고 밝혔다.디아블로5의 세계관은 전작의 서사에서 큰 폭으로 도약한다. 존 뮬러 디렉터는 ",
-          "published": "2026-09-13T03:11:19+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "China rejects calls for ‘pacing’ on AI development, fearing it would entrench US tech lead",
+          "link": "https://www.scmp.com/tech/policy/article/3367448/china-rejects-calls-pacing-ai-development-fearing-it-would-entrench-us-tech-lead?utm_source=rss_feed",
+          "summary": "Calls by US tech leaders for a voluntary slowdown in artificial intelligence development have run into sharp pushback from Chinese researchers and state media, who question whether the proposal is a genuine push for responsibility or an effort to entrench America’s technological lead. The debate intensified on Monday when OpenAI CEO Sam Altman joined a growing chorus of Silicon Valley leaders demanding industry-wide “pacing”, warning that competitive pressure must not override safety as AI...",
+          "published": "2026-09-14T10:00:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -219,20 +142,20 @@
           ]
         },
         {
-          "title": "[ZD브리핑] 기아 PV7·아이폰18 '출격'…현안 챙기는 삼성·SK·카카오",
-          "link": "https://zdnet.co.kr/view/?no=20260913152527",
-          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 산업 및 IT 업계는 굵직한 신제품 발표와 기업들의 주요 현안 논의로 분주한 한 주를 보낼 전망입니다. 기아의 대형 전동화 목적 기반 차량(Purpose Built Vehicle, PBV) 'PV7'이 세계 최초로 공개되며, 예약판매를 마친 애플의 '아이폰18' 시리즈가 18일 정식 개통을 앞두고 있습니다. 또한 삼성·SK·카카오 등 주요 기업들은 성과급 제도 및 지배구조 개편과 관련해 주주 및 노사 간 소통에 적극 나설 예정입니다. 이 밖에 글로벌 게임",
-          "published": "2026-09-13T08:14:35+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "AI agents blew the whistle on their cheating colleagues",
+          "link": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in&#8230;",
+          "published": "2026-09-14T16:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -241,19 +164,19 @@
           ]
         },
         {
-          "title": "브렌트 깁슨 디렉터 \"디아블로4, '공포의 시대' 개막…확장팩 넘는 경험 선사할 것\"",
-          "link": "https://zdnet.co.kr/view/?no=20260914060404",
-          "summary": "[지디넷코리아][애너하임(미국)=정진성 기자] 블리자드 엔터테인먼트가 지난 12일(이하 미 현지시각) 개막한 '블리즈컨 2026'을 통해 '디아블로4'의 차세대 라이브 서비스 로드맵을 구체화했다. 30주년 기념 '지옥의 유산' 시즌과 신규 직업 '아마존', 닌텐도 스위치2 플랫폼 확장까지 아우르며 장기 흥행 기반을 탄탄히 다진다는 구상이다.미국 애너하임 컨벤션 센터에서 13일 진행된 인터뷰에서 브렌트 깁슨 게임 디렉터와 댄 탕구에이 라이브 서비스 디자인 디렉터를 만나 디아블로4의 향후 스토리 전개와 시스템 개편 방향을 들었다.최근 국내외 커뮤니티에서 불거진 '추가 확장팩 중단설'에 대해 개발진은 새로운 콘텐츠 공급 방식의 진화라고 설명했다. 브렌트 깁슨 디렉터는 \"메피스토 격퇴로 '증오의 시대'가 대단원의 막을 내렸으며, 이제 디아블로4는 '공포의 시대'에 초점을 맞춘다\"며 \"새로운 시즌과 아마존 출시 등 방대한 콘텐츠를 지속적으로 지원할 것\"이라고 밝혔다.댄 탕구에이 디렉터는 \"확",
-          "published": "2026-09-13T21:30:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Upcoming Apple Products: What to Expect in Late 2026 and Early 2027",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-14/upcoming-apple-products-what-to-expect-in-late-2026-and-early-2027",
+          "summary": "Apple Inc. just launched some major new products, including the iPhone Duo, the iPhone 18 Pro line, AirPods 5 earbuds and fresh smartwatches. But the company has a lot more in store for this year and the first half of 2027.",
+          "published": "2026-09-14T20:17:35+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -272,33 +195,52 @@
       "count": 1,
       "articles": [
         {
-          "title": "\"아이폰18 프로 어디서 팔지\"…실시간 재고 알려준다",
-          "link": "https://zdnet.co.kr/view/?no=20260913101302",
-          "summary": "[지디넷코리아]아이폰18 사전예약이 시작된 가운데, 통신 종합 플랫폼 모요가 주요 오픈마켓 자급제 단말기 재고를 한 번에 확인할 수 있는 서비스를 운영한다.모요는 아이폰18 시리즈 출시를 맞아 ‘아이폰18 재고알리미’를 선보인다고 13일 밝혔다.재고알리미는 쿠팡·11번가·지마켓·하이마트 등 주요 오픈마켓에서 판매하는 자급제 아이폰 재고를 실시간으로 확인할 수 있는 서비스다. 이용자가 원하는 모델과 저장용량, 색상을 선택하면 해당 제품의 재고가 확보됐을 때 카카오톡으로 알림을 받을 수 있다.아이폰 신제품은 사전예약이 시작되면 일부 인기 모델이나 색상의 초기 물량이 빠르게 소진되는 경우가 있다. 모요는 여러 판매처를 개별적으로 확인해야 하는 번거로움을 줄이는 데 초점을 맞췄다. 재고알리미는 아이폰14 출시 때부터 운영해왔다.아이폰18 시리즈는 우선 아이폰18 프로와 아이폰18 프로맥스, 폴더블 모델인 아이폰 듀오로 구성됐다. 일반 모델은 내년 초에 출시될 예정이다. 이우일 모요 PO는 ",
-          "published": "2026-09-13T02:34:01+00:00",
+          "title": "S2W, 정부 주도 ‘보안 특화 AI 파운데이션 모델’ 개발 사업 참여",
+          "link": "https://zdnet.co.kr/view/?no=20260914214900",
+          "summary": "[지디넷코리아]인공지능(AI) 기반 보안기업 에스투더블유(S2W)가 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관한 ‘특화 인공지능 파운데이션 모델 개발(사이버 보안 분야) 사업’에 참여한다.최근 AI가 사이버 위협 속도와 정교함을 높이는 동시에 탐지와 대응 역량을 강화하는 핵심 기술로 부상하며 보안 산업 전반의 AI 전환(AX)가 빠르게 진행되고 있다. 특히 앤트로픽(Anthropic)의 ‘클로드 미토스(Claude Mythos)’ 사례를 통해 확인할 수 있듯, AI가 취약점 탐색과 공격·방어를 직접 수행하는 수준으로 발전하면서 보안에 특화된 AI 기술과 모델 역량 중요성도 한층 커졌다.이에 정부는 국내 보안 산업의 AX를 가속화하고 보안 특화 AI 모델 개발 역량을 내재화하기 위해 국내 독자 기술과 모델을 기반으로 한 사이버 보안 특화 AI 파운데이션 모델 개발 사업을 추진, 최근 네이버클라우드 컨소시엄을 사업자로 선정했다.S2W는 네이버클라우드 컨소시엄 일원으로 이번 ",
+          "published": "2026-09-14T12:49:00+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "[부고] 이동훈(미래에셋자산운용 홍보 팀장)씨 형제상 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1velRMRXVIQlAyd0lYMm1uX05nX09wdWdFd2EtYWNxN2R2VFBVVUxDR2lYaHlTMTBGZURyQk1ybXpkRjNNUS1uUDNKT3h1VjdCZGN3eDkzTTJacGxwaXNKeHJJckRXVkY4alI2ZnNyaWLSAXRBVV95cUxOS194MEY0WEFEeDU0ZjNUVkdscDRDMHRyVXdpWjlHVDFSR3VLUmUtUlg2RTR5aXlNYlpJSjd1eVBMbXVUWWFJbUtaLVlUcWtENE1uRDVUaXF6akZocUUyVW4yTlBNSHROM1lVc3Z3TGpsakFLUg?oc=5",
+          "summary": "[부고] 이동훈(미래에셋자산운용 홍보 팀장)씨 형제상 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-14T00:28:19+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
