@@ -1,50 +1,32 @@
 {
-  "generated_at": "2026-09-15T23:27:19.077557+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-09-16T23:34:42.225881+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-          "link": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and Demis Hassabis are suddenly all in agreement: the latest generation of LLMs&#8230;",
-          "published": "2026-09-15T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "머스크 \"그록 4.8 사전 학습 이번 주 완료...2.5조 매개변수·C++ 적용\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55V2tNSTZRVmxpNmRVQ0R0eGRfWGxjclVydmk2RHN0QTgyYUU5a2Vyd2JrZG5GdVhfWGs5Q2ZLYkw0SHpaRV9SOWxsRXIwTVVoRWxVWkVOdFZLYUN3TXlaUlBLaE5VN1l1YUE?oc=5",
-          "summary": "머스크 \"그록 4.8 사전 학습 이번 주 완료...2.5조 매개변수·C++ 적용\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-15T09:39:54+00:00",
+          "title": "머스크, 테슬라·스페이스X 합병 재차 시사...\"가능성 열려있어\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LU0hibjFoRWI5eW5ZdWlxNU5BV3VkZ3RoQnotbFBrbU9PQlZwTm9RdHc5d2xRUWs2M1dsVlpBVjVTbXN4ZGVjdm5faVVqRjZnMkVRQ0FSaWxRcHFWNkpLVEVISGh0V1FpQ2c?oc=5",
+          "summary": "머스크, 테슬라·스페이스X 합병 재차 시사...\"가능성 열려있어\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-16T05:29:19+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         }
       ]
     },
@@ -53,10 +35,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic, OpenAI Safety Push Risks ‘Regulatory Wall’ for Rivals",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/anthropic-openai-safety-push-risks-regulatory-wall-for-rivals",
-          "summary": "A new push by top artificial intelligence firms to coordinate with one another and the US government on AI safeguards threatens to make it harder for smaller companies to compete in the lucrative market, according to startup executives and industry watchers.",
-          "published": "2026-09-15T20:36:16+00:00",
+          "title": "Apple’s Cook, OpenAI CEO to Attend Trump Dinner With Xi",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president",
+          "summary": "Apple Inc. Executive Chairman Tim Cook and OpenAI Chief Executive Officer Sam Altman are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
+          "published": "2026-09-16T22:16:44+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -64,67 +46,7 @@
           "category_display": "빅테크",
           "score": 16,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-says-it-s-working-with-anthropic-google-on-ai-safety",
-          "summary": "OpenAI is working on steps to address artificial intelligence safety issues with its top competitors Anthropic PBC and Google DeepMind, escalating industry efforts to respond to a groundswell of concern that the technology poses an economic and security threat.",
-          "published": "2026-09-15T14:18:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Nazi Germany",
-          "link": "https://www.scmp.com/tech/article/3367605/deepseek-ai-engineer-slams-anthropic-openai-over-pacing-calls-invokes-nazi-germany?utm_source=rss_feed",
-          "summary": "A DeepSeek engineer has issued a stark warning about the potential concentration of advanced artificial intelligence and resources in proprietary US developers Anthropic and OpenAI, intensifying a growing debate in China over calls by US industry leaders to “pace” AI development amid safety concerns. The comments preceded an expected meeting between President Xi Jinping and US President Donald Trump on September 24, where AI safety may emerge as a key point of dialogue as the two countries race.",
-          "published": "2026-09-15T12:30:14+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic, Salesforce CEOs Say Companies Need Help Using AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/anthropic-salesforce-ceos-say-companies-need-more-help-using-ai",
-          "summary": "Anthropic PBC Chief Executive Officer Dario Amodei and Salesforce Inc. CEO Marc Benioff said companies have just begun taking advantage of artificial intelligence tools and need more help to gain the greatest benefits for their businesses.",
-          "published": "2026-09-15T18:57:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 2,
@@ -135,54 +57,54 @@
           ]
         },
         {
-          "title": "Anthropic’s Tough Balancing Act Between AI Doom Talk and IPO",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-15/anthropic-s-tough-balancing-act-between-ai-doom-talk-and-ipo",
-          "summary": "The Claude maker faces a unique challenge, partly of its own making.",
-          "published": "2026-09-15T19:00:44+00:00",
+          "title": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91aHVIMUljWkFnd3h2WGZpVnpvZEw4bzNvdnEwM0hvSC1oSzc0aXdpRmJIYlJDenZxOGhNNUl0Sk1YeFpsRHBvOGJxSzRsOGV6aUViNWNtMzFzZVRMNWJFR0RLdXFLMnNJOEE?oc=5",
+          "summary": "엔비디아·메타 \"AI 규제·속도 조절 필요 없어\"…‘폐쇄형 vs 개방형’ 균열 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-16T06:27:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Banks Line Up $22 Billion Chip Loan Tied to Blackstone, Alphabet",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-16/banks-line-up-22-billion-chip-loan-tied-to-blackstone-alphabet",
+          "summary": "A group of 10 banks is providing a $22 billion chip loan to support Blackstone Inc. and Alphabet Inc.’s new cloud venture Crux AI, the latest mega-debt deal in the race to finance the expensive processors crucial to artificial intelligence.",
+          "published": "2026-09-16T19:38:10+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "m_and_a"
           ]
         },
         {
-          "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-weighing-funding-round-at-over-1-2-trillion-valuation",
-          "summary": "OpenAI is holding early talks with investors about a fresh funding round that would value the ChatGPT creator at more than $1.2 trillion ahead of an initial public offering.",
-          "published": "2026-09-15T22:31:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Nvidia’s Huang Says AI Industry Doesn’t Need Any New Laws",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/nvidia-s-huang-says-ai-industry-doesn-t-need-any-new-laws",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang dismissed the need for new artificial intelligence security regulations on Tuesday, arguing that market forces will help companies safely innovate.",
-          "published": "2026-09-15T19:20:14+00:00",
+          "title": "OpenAI Reports New AI Safety Incidents, Sets Disclosure Process",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-16/openai-reports-new-ai-safety-incidents-sets-disclosure-process",
+          "summary": "OpenAI shared several undisclosed incidents of its artificial intelligence models misbehaving, and unveiled a new framework for how it plans to track and disclose such incidents going forward.",
+          "published": "2026-09-16T22:47:29+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -199,10 +121,10 @@
           "event_labels": []
         },
         {
-          "title": "OpenAI’s Sam Altman ‘Confident’ Industry Can Police AI Safety",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/openai-s-sam-altman-confident-industry-can-police-ai-safety",
-          "summary": "OpenAI Chief Executive Officer Sam Altman said he believes artificial intelligence companies can develop the technology safely without significant harm to people at large.",
-          "published": "2026-09-15T21:49:56+00:00",
+          "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+          "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+          "published": "2026-09-16T23:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -213,6 +135,68 @@
             "keyword": 5,
             "source": 3,
             "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
+          "link": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the University of Pennsylvania, wanted to assess AI’s impact on the economy over the next few years,&#8230;",
+          "published": "2026-09-16T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엑스그리드, 인터지오 2026에서 Lixel L3 공개하며 검증된 5mm 정밀도로 공간 캡처의 새로운 기준 제시",
+          "link": "https://zdnet.co.kr/view/?no=20260916201013",
+          "summary": "[지디넷코리아]뮌헨 2026년 9월 16일 /PRNewswire/ -- 공간 지능 기업 엑스그리드(XGRIDS)가 오늘 문서화된 테스트에서 실측 기준값 대비 검증된 5mm의 상대 정밀도를 제공하는 자사의 플래그십 고정밀 공간 스캐너 Lixel L3를 공개했다. L3는 고정밀 LiDAR, 트루 컬러 비전 시스템, 통합 RTK, 내장형 디스플레이를 하나의 시스템에 결합해 기하학적 구조, 색상, 위치 정보, 결과물 생성을 단일 캡처 워크플로로 통합한다. 캡처한 데이터는 로컬에서 처리해 후속 애플리케이션용 3D 결과물로 변환할 수 있으며, L3는 고정밀 데이터와 사실적인 3D 모델을 생성하면서 일반적으로 10분 만에 약 100제곱미터를 처리할 수 있기 때문에 규모가 크고 복잡한 현장에 적합하다. 검증된 5mm 정밀도 Lixel L3는 5mm의 상대 정밀도와 약 2.5cm의 실시간 절대 정밀도를 구현한다. 통합 SLAM 시스템은 스캔 전 과정에서 안정성을 유지하며, 실시간 비전 보조 위치 측",
+          "published": "2026-09-16T11:10:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "구글 딥마인드 연구원도 사직 후 'AI 위험' 경고...\"시간 얼마 안 남아\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5lLVhFSURiMl9rREUwamgwcDJXd25pTzBPdWU2OTlLdnFiUGpsb3J4WGZ0ZUY4OWxMU2pUODJaOE9WWFM3Wk1DaDlzb05jajZoX3RfNUY5Y1BCYUtBT0hDQWJlWmczeVE3elE?oc=5",
+          "summary": "구글 딥마인드 연구원도 사직 후 'AI 위험' 경고...\"시간 얼마 안 남아\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-16T03:38:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -222,109 +206,28 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Crypto’s Push Into Wall Street Suffers Setback After Bill Fails",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-15/crypto-s-push-into-wall-street-suffers-setback-after-bill-fails",
-          "summary": "Crypto’s long march into mainstream finance took a step backward Tuesday when the Senate failed to advance the Clarity Act, denying the industry a chance to turn its newfound influence in Washington into fresh rules that could outlast the current administration.",
-          "published": "2026-09-15T23:17:41+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "비트마인, 이더리움 물량 600만 개 육박…전체 발행량 4.9% 확보 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LMjh1TmQ2cmJ0anpPODFHSG12LVVsaWNxR2pfMGJ4ZjdXTTgxN1RCaUpHOVFodVF3RkdPOFRCWkVJeXR2Uk9VQmo3VWhJdzFFVS1PSTdrd09iZ1pyeFROVEZoQzVTeDJYZUI0ZEdvdmjSAXRBVV95cUxQTmFmR1JPLS0tMkltbUpqYUxLVFdNb2lQd1NRanhta1ZPM3ZFTGw4NUthVkFIcW9VdGc4U1dCY0ZIVUZ3RTBpUmM2Xy1XMDFxelkwV3gxMWNwTGFCeUdjUnZySkh3Qm1VRVE4bkhlZTZkVDM1Nw?oc=5",
-          "summary": "비트마인, 이더리움 물량 600만 개 육박…전체 발행량 4.9% 확보 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-15T02:36:57+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "'카나나' 독립 앱 결국 종료…카카오, 기존 서비스 내 탑재로 전환 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oVThQcElpTXdKYXZSWGNRYU11ekhYUDI0TDUxMm03eDUyck1FaFhqR3JBbEtpby05MXVMamt0SWU4dmwyU25KYmd6U3RHZ0JLaWM4TDI3Ukk3OXk5Wm9hOWN2TnBMSEwweEE?oc=5",
-          "summary": "'카나나' 독립 앱 결국 종료…카카오, 기존 서비스 내 탑재로 전환 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-15T06:26:25+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“챗GPT 있는데 누가 네이버 써요?”…한물 간 줄 알았는데 반전이 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBVVUZRMWFyNXQ5WjlBMWp5TGg4dUJaRmZKOUl1dmFEeU1vNlN3d01sWlpDSzBJdGk5M011Q3lXSlhlX2U5X2hBOGpaekMwZw?oc=5",
-          "summary": "“챗GPT 있는데 누가 네이버 써요?”…한물 간 줄 알았는데 반전이 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-15T08:44:27+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오게임즈, 10월8일 출시 앞둔 '도깨비의세계' 핵심 세계관 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260915175525",
-          "summary": "[지디넷코리아]한국 전통 설화와 민속적 소재를 현대적으로 재해석한 2.5D MMORPG 신작의 핵심 세계관이 공개됐다.카카오게임즈는 슈퍼캣이 개발 중인 신작 2.5D MMORPG '도깨비의세계'의 정식 출시를 앞두고, 브랜드 사전등록 페이지를 통해 게임의 핵심 세계관과 인게임 정보를 공개했다고 15일 밝혔다.다음달 8일 출시를 앞둔 이 작품은 인기 웹소설 IP '멸귀수도전'을 원작으로 하며, 한국적인 정서와 조형미를 결합한 K-판타지 세계관을 표방한다.비주얼 측면에서는 레트로 감성의 2D 도트 캐릭터와 3D 배경을 결합한 하이브리드 그래픽 기술을 도입했다. 캐릭터에 실시간 3D 조명과 그림자 효과를 적용해 시간과 광원에 따라 입체감과 생동감이 변화하도록 연출했으며, 기와·석등·장승 등 전통 오브젝트를 도트 아트로 구현해 시각적 완성도를 높였다.사전등록 페이지에서는 호랑이 형상의 요괴를 토벌하는 전투 콘텐츠와 함께 낚시, 일상 교류 등 라이프 스타일 및 커뮤니티 요소를 확인할 수 있다",
-          "published": "2026-09-15T09:00:03+00:00",
+          "title": "초콜릿 먹지도 않고 냄새만 맡았는데...다리 운동 더 했다",
+          "link": "https://zdnet.co.kr/view/?no=20260916161900",
+          "summary": "[지디넷코리아]초콜릿을 먹지 않고 냄새만 맡아도 운동 능력에 영향을 줄 수 있다는 흥미로운 연구 결과가 나왔다. 특히 카카오 함량이 높은 다크초콜릿 냄새를 맡은 참가자들은 아무 냄새도 맡지 않았을 때보다 다리 운동을 평균 18회 더 수행했다. 최근 싱가포르 매체 인터내셔널 비즈니스 타임스 등에 따르면 말레이시아 말라야대학교 스포츠·운동과학 연구진은 초콜릿 냄새가 공복 상태에서 식욕과 저항운동 수행능력에 미치는 영향을 분석했다. 연구 결과는 지난 7월 국제학술지 '프런티어스 인 피지올로지'에 게재됐다.연구진은 평소 저항운동을 하는 건강한 20대 남성 23명을 모집했다. 참가자들은 실험 전 최소 10시간 동안 음식을 먹지 않은 상태에서 연구실을 찾았다.실험에는 카카오 함량 90% 다크초콜릿과 60% 밀크초콜릿이 사용됐다. 냄새가 없는 대조군에는 물을 이용했다. 참가자들은 각각의 조건에서 운동 전과 세트 사이에 냄새를 맡은 뒤 레그 익스텐션 운동을 반복했다. 연구진은 참가자들이 더 이상 ",
+          "published": "2026-09-16T22:00:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
