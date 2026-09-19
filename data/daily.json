@@ -1,110 +1,84 @@
 {
-  "generated_at": "2026-09-18T23:07:28.054358+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-09-19T22:45:51.487930+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "\"농촌에 인터넷 깔아야 하나\"...스타링크가 던진 보편서비스 논쟁",
+          "link": "https://zdnet.co.kr/view/?no=20260919084948",
+          "summary": "[지디넷코리아]미국에서 저궤도 위성통신을 농촌 지역의 인터넷 보편서비스로 인정할지를 둘러싼 논쟁이 달아오르고 있다. 스페이스X는 정부 지원 없이도 스타링크가 미국 농촌 대부분에 초고속인터넷을 제공할 수 있게 된 만큼 매년 약 45억 달러(약 6조원)가 드는 기존 농촌 통신망 지원을 끝내야 한다고 주장한다.반면 전통적인 통신사와 광케이블 고정무선 사업자들은 위성 신호가 닿는다는 사실만으로 보편서비스가 완성되는 것은 아니라고 맞섰다. 모든 이용자에게 충분한 용량과 안정적인 품질, 감당할 수 있는 가격을 지속적으로 보장할 수 있느냐는 별개의 문제라는 것이다.논쟁의 핵심은 단순한 보조금 존폐를 넘어선다. 스타링크를 광케이블이 닿지 않는 곳을 메우는 보완재로 볼 것인지, 광케이블과 나란히 농촌 보편서비스를 책임질 기간통신망으로 인정할 것인지가 쟁점으로 떠오른 셈이다.18일(현지시간) 라이트리딩닷컴에 따르면, 스페이스X는 지난 3일 미국 연방통신위원회(FCC)에 제출한 의견서에서 보편적서비스기",
+          "published": "2026-09-18T23:49:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
+          "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index’s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its current weighting of about 1.28%.",
+          "published": "2026-09-19T14:17:01+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "앤트로픽, 11월 상장 계획…\"예상보다 한 달 미뤄\"",
+          "link": "https://zdnet.co.kr/view/?no=20260919113047",
+          "summary": "[지디넷코리아]‘인공지능(AI) 속도 조절론’의 불을 지핀 앤트로픽이 상장 일정을 예상보다 한 달 가량 미룰 계획이라는 보도가 나왔다.앤트로픽이 11월 중 기업공개(IPO)를 단행할 계획이라고 월스트리트저널이 18일(현지시간) 보도했다. 그 동안 전문가들은 앤트로픽이 10월 중 나스닥에 상장할 준비를 하고 있다고 전망했다. 시장에서는 앤트로픽의 공모 규모가 역대 최대 규모에 이를 것으로 보고 있다.지금까지 역대 최대 규모 IPO는 지난 6월 863억 달러를 조달한 스페이스X가 기록했다.전문가들은 앤트로픽이 상장할 경우 1000억 달러 이상 조달할 수 있을 것으로 전망하고 있다. 이렇게 될 경우 앤트로픽의 기업 가치는 2조 달러 수준에 이르게 될 것이라고 월스트리트저널이 전망했다.앤트로픽은 조만간 투자자들과 회동할 계획이다. 투자자 중 일부는 새로운 AI 모델 출시 속도가 늦춰질 경우 앤트로픽의 재무상황이나 업 가치에 어떤 영향을 미칠지 집중적으로 물을 것으로 예상된다.보도에 따르면 ",
+          "published": "2026-09-19T02:32:16+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia-Backed Data Center Firm Nscale Files Publicly for IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-backed-data-center-firm-nscale-files-publicly-for-us-ipo",
-          "summary": "Nscale, a developer of artificial intelligence data centers that counts Nvidia Corp. and Microsoft Corp. among its partners, filed for an initial public offering in New York to fund the equipment satisfying AI’s insatiable demand for computing power.",
-          "published": "2026-09-18T19:52:20+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-          "link": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-          "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario that we need to pace the&#8230;",
-          "published": "2026-09-18T09:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Top Chinese AI models make 10% of OpenAI, Anthropic revenue despite high valuations: report",
-          "link": "https://www.scmp.com/tech/big-tech/article/3367991/top-chinese-ai-models-make-10-openai-anthropic-revenue-despite-high-valuations-report?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence models from seven major developers combined generate only about 10 per cent of the revenue reported for OpenAI and Anthropic, even as investor enthusiasm remains intense, according to US-based research firm Rhodium Group. The Chinese AI models earned an estimated US$10.7 billion in annual recurring revenue (ARR) from March to August, a fraction of the more than US$100 billion combined for OpenAI and Anthropic, according to the Rhodium report published on...",
-          "published": "2026-09-18T09:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Anthropic Sales Near $100 Billion Before November IPO, NYT Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-s-annualized-revenue-to-top-100-billion-in-2026-nyt",
-          "summary": "Anthropic PBC is expected to generate more than $100 billion in annualized revenue this year as it continues to prepare for a trading debut as soon as November, according to the New York Times, citing people familiar with the matter.",
-          "published": "2026-09-18T20:33:40+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "삼성디스플레이, CSOT 美특허 3건에 무효심판 청구...침해소송 대응",
-          "link": "https://zdnet.co.kr/view/?no=20260919024257",
-          "summary": "[지디넷코리아]삼성디스플레이가 CSOT의 미국 특허 3건을 상대로 미국 특허심판원(PTAB)에 무효심판(IPR)을 청구했다. CSOT가 지난 3월 삼성디스플레이를 상대로 제기한 특허침해소송 대응 차원이다. 삼성디스플레이는 지난 17일(현지시간) CSOT의 미국 유기발광다이오드(OLED) 특허 3건(US12,133,429·11,957,031·11,257,891)을 상대로 특허심판원에 무효심판을 청구했다. 해당 특허 3건은 CSOT가 지난 3월 삼성디스플레이를 상대로 미국 텍사스동부연방법원에 특허침해소송을 제기할 때 사용한 특허 3건과 같다. 해당 소송 피고는 삼성디스플레이와 유통업체 월마트, 베스트바이 등이다. CSOT가 소장에서 특허 침해품으로 지목했던 제품은 삼성디스플레이가 OLED를 납품한 구글 스마트폰 픽셀 8·9·10 시리즈, 그리고 태블릿, 웨어러블 제품 등이다. 유통업체인 월마트와 베스트바이 등은 이들 제품을 미국에서 판매한다. CSOT가 제기한 소송도 반격 차원이었다. ",
-          "published": "2026-09-18T18:02:52+00:00",
+          "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
+          "link": "https://zdnet.co.kr/view/?no=20260918221337",
+          "summary": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하이퍼스케일러의 고성능 AI 칩 개발 경쟁으로 기판 대면적화가 2.5D 패키징 기술 핵심 과제로 떠올랐기 때문이다. 인텔의 차세대 패키징 솔루션 'EMIB-T'가 대항마지만, 기술 성숙도와 수율에서는 아직 TSMC를 쫓아가지 못하고 있다는 분석이다. 시장조사업체 트렌드포스는 18일(현지시간) 첨단 반도체 패키징 시장 보고서에서 폭발적인 AI 인프라 수요로 초대형 패키징 기술 경쟁이 격화하고 있다고 밝혔다. 2026년 엔비디아의 고성능 GPU 출하량은 전년비 약 30% 증가할 것으로 예상된다. AMD도 올해 하반기부터 차세대 가속기 'MI400·MI450' 시리즈를 본격 공급하며 패키징 수요를 끌어올리고 있다. 주문형 반도체(ASIC)를 개발하는 빅테크 진영 확장세도 뚜렷하다. 구글은 TPU ",
+          "published": "2026-09-18T23:00:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -112,44 +86,21 @@
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
             "funding"
           ]
         },
         {
-          "title": "Meta-Tied Data Center Prices Junk Bond Amid Blowout Demand",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/meta-tied-data-center-draws-blowout-demand-for-debut-junk-bond",
-          "summary": "The first junk-bond offering for a data center tied to Meta Platforms Inc. attracted demand more than four times the deal’s size, with juicy yields helping to lure investors.",
-          "published": "2026-09-18T18:18:16+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Anthropic to Embed Accenture Evaluators to Test AI Safety",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/anthropic-to-embed-evaluators-from-accenture-to-test-ai-safety",
-          "summary": "Anthropic PBC is partnering with Accenture Plc, a management and technology consulting company, to test the safety of its advanced artificial intelligence models by embedding evaluators from the consulting firm directly within its operations.",
-          "published": "2026-09-18T20:49:12+00:00",
+          "title": "Nvidia CEO Says There’s ‘0% Chance’ That World Will End in 2030",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang renewed his pushback against AI doomsday scenarios, saying that the technology doesn’t pose an extinction risk to humanity.",
+          "published": "2026-09-18T23:31:19+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -159,17 +110,19 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         },
         {
-          "title": "Google’s Gemini AI System Hacked Three Systems in Safety Tests",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/google-s-gemini-ai-system-hacked-three-systems-in-safety-tests",
-          "summary": "Google’s Gemini artificial intelligence model inadvertently hacked into three protected company systems in May while researchers were testing its cybersecurity capabilities, adding to a recent string of breaches by agentic AI systems.",
-          "published": "2026-09-18T22:45:15+00:00",
+          "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
+          "summary": "OpenAI expects that its negative free cash flow will reach $278 billion from 2026 to the end of 2030, the Financial Times reported, citing a company presentation.",
+          "published": "2026-09-18T23:02:13+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -177,9 +130,113 @@
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
-            "recency": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+          "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
+          "published": "2026-09-19T06:33:35+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoSEp0cmtQZTc1LVltZEpIMHpyWG5Hby0tRnplZi1GQmxkMkItMUhMTmJBaS12bnZCZloxd3pfRExMN3dTQlEwUGRuS3N4ekdHZzdtYmpYMktQOWE2M0pDdEllUGpxMlctUXc?oc=5",
+          "summary": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-19T08:36:34+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "\"비싸도 산다\"…아이폰18 프로, 美서 예상보다 수요 강해",
+          "link": "https://zdnet.co.kr/view/?no=20260919004415",
+          "summary": "[지디넷코리아]애플의 ‘아이폰18 프로’ 시리즈에 대한 미국 내 수요가 예상보다 강하다는 조사 결과가 나왔다.맥루머스, 애플인사이더 등 외신은 18일(현지시간) 투자은행 에버코어 ISI가 미국 소비자 약 4천 명을 대상으로 실시한 설문조사 결과를 보도했다.조사 결과, 아이폰18 프로 시리즈의 교체 수요가 예상보다 강한 것으로 나타났다. 특히 소비자들은 더 비싼 프리미엄 모델과 높은 저장 용량을 갖춘 제품을 선호하는 것으로 조사됐다.에버코어에 따르면 응답자의 67%는 아이폰을 교체하는 이유로 기존 제품의 사용 기간이 끝났기 때문이라고 답했다. 이는 지난해 조사에서 같은 이유를 꼽은 응답자 비율인 48%보다 크게 증가한 수치다.구매 선호도에서도 고가 모델에 대한 수요가 두드러졌다. 아이폰18 프로와 아이폰18 프로 맥스는 잠재 구매자의 53%로부터 관심을 받았으며, 이 가운데 프로 맥스를 선택한 응답자는 32%로 집계됐다. 이는 지난해 조사에서 프로 맥스를 선택한 비율인 29%보다 높았",
+          "published": "2026-09-19T13:59:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rOVpRdUFyR2c4a1djNC0zN2dSMWsyZ0NWTFlPLWNCU1B6Z0dDaFdaVUoyUXRjM2ZPb3hjajIzN0Z6TVFTdER5VmZpVVhlYlQtUXVvNXBoYXNEMmxMZ1FZekJRY0NteEFldVE?oc=5",
+          "summary": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-19T10:06:23+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "화웨이, 안전하고 지능적인 연결로 에이전틱 세계를 지원하는 업그레이드된 Stellar AI Network 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260919091013",
+          "summary": "[지디넷코리아]상하이 2026년 9월 19일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026)에서 안전하고 지능적인 연결(secure, intelligent connectivity)이라는 철학을 바탕으로 업그레이드된 Stellar AI Network Solution을 공개했다. 효율적인 컴퓨팅 생산, 무손실 전송, 초고속 애플리케이션 등의 차별화된 기능을 갖춘 미래 지향적 솔루션으로, AI 시대에 서비스의 안전성을 보장하면서 컴퓨팅 생산성을 극대화한다. Leon Wang, President of Huawei's Data Communication Product Line, delivering a speech AI 도입이 폭발적으로 증가하면서 일일 토큰 소비량은 1년 만에 260배 급증했다. AI Fabric, AI WAN, AI Campus를 아우르는 화웨이의 업그레이드된 Stellar AI Network는 지능형 연결과 보",
+          "published": "2026-09-19T00:10:13+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -189,23 +246,18 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "네이버클라우드 “AI 풀스택·FDE 동원해 국방 AX 지원할 것” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83Vkd0WF82eW1MWmtyV0JiM0dpQWtWUHFQaXZJb2ZEb1RKVUxJcUMzR3lNSGlJbG40cWtJREZMV0Y2VmcwV09XUGNBcHNIUWV6NHdLM2MyTENEZndRY3FRaUNfWGFzNE9tYnc?oc=5",
-          "summary": "네이버클라우드 “AI 풀스택·FDE 동원해 국방 AX 지원할 것” &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-18T05:06:22+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UVpCYTJRMThjVnZ0TVFHUFFacTdqcFpSVTZUQkxRYmwwbnlELXR5elRxSUdhZ1RvQm95c0Z5SlRmOVhxZlVxbmpYQ1VfRGdWaHBlUw?oc=5",
+          "summary": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자” &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-19T01:25:11+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -217,6 +269,11 @@
           "event_labels": []
         }
       ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
