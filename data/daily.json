@@ -1,106 +1,62 @@
 {
-  "generated_at": "2026-09-19T22:45:51.487930+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-09-20T23:04:24.537907+00:00",
+  "total_articles": 6,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "\"농촌에 인터넷 깔아야 하나\"...스타링크가 던진 보편서비스 논쟁",
-          "link": "https://zdnet.co.kr/view/?no=20260919084948",
-          "summary": "[지디넷코리아]미국에서 저궤도 위성통신을 농촌 지역의 인터넷 보편서비스로 인정할지를 둘러싼 논쟁이 달아오르고 있다. 스페이스X는 정부 지원 없이도 스타링크가 미국 농촌 대부분에 초고속인터넷을 제공할 수 있게 된 만큼 매년 약 45억 달러(약 6조원)가 드는 기존 농촌 통신망 지원을 끝내야 한다고 주장한다.반면 전통적인 통신사와 광케이블 고정무선 사업자들은 위성 신호가 닿는다는 사실만으로 보편서비스가 완성되는 것은 아니라고 맞섰다. 모든 이용자에게 충분한 용량과 안정적인 품질, 감당할 수 있는 가격을 지속적으로 보장할 수 있느냐는 별개의 문제라는 것이다.논쟁의 핵심은 단순한 보조금 존폐를 넘어선다. 스타링크를 광케이블이 닿지 않는 곳을 메우는 보완재로 볼 것인지, 광케이블과 나란히 농촌 보편서비스를 책임질 기간통신망으로 인정할 것인지가 쟁점으로 떠오른 셈이다.18일(현지시간) 라이트리딩닷컴에 따르면, 스페이스X는 지난 3일 미국 연방통신위원회(FCC)에 제출한 의견서에서 보편적서비스기",
-          "published": "2026-09-18T23:49:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SpaceX’s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
-          "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index’s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its current weighting of about 1.28%.",
-          "published": "2026-09-19T14:17:01+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "Musk’s Boring Co. Working on Tunnel to Link Austin, San Antonio",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-20/musk-s-boring-co-working-on-tunnel-to-link-austin-san-antonio",
+          "summary": "Elon Musk said his Boring Co. venture is working on a tunnel project in Texas that would connect the cities of Austin and San Antonio.",
+          "published": "2026-09-20T19:19:58+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "앤트로픽, 11월 상장 계획…\"예상보다 한 달 미뤄\"",
-          "link": "https://zdnet.co.kr/view/?no=20260919113047",
-          "summary": "[지디넷코리아]‘인공지능(AI) 속도 조절론’의 불을 지핀 앤트로픽이 상장 일정을 예상보다 한 달 가량 미룰 계획이라는 보도가 나왔다.앤트로픽이 11월 중 기업공개(IPO)를 단행할 계획이라고 월스트리트저널이 18일(현지시간) 보도했다. 그 동안 전문가들은 앤트로픽이 10월 중 나스닥에 상장할 준비를 하고 있다고 전망했다. 시장에서는 앤트로픽의 공모 규모가 역대 최대 규모에 이를 것으로 보고 있다.지금까지 역대 최대 규모 IPO는 지난 6월 863억 달러를 조달한 스페이스X가 기록했다.전문가들은 앤트로픽이 상장할 경우 1000억 달러 이상 조달할 수 있을 것으로 전망하고 있다. 이렇게 될 경우 앤트로픽의 기업 가치는 2조 달러 수준에 이르게 될 것이라고 월스트리트저널이 전망했다.앤트로픽은 조만간 투자자들과 회동할 계획이다. 투자자 중 일부는 새로운 AI 모델 출시 속도가 늦춰질 경우 앤트로픽의 재무상황이나 업 가치에 어떤 영향을 미칠지 집중적으로 물을 것으로 예상된다.보도에 따르면 ",
-          "published": "2026-09-19T02:32:16+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "“시속 97㎞인데 운전자는 쿨쿨”…테슬라 믿고 잠든 男의 최후 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KN2VOanl3cEI4M0d6VmFVTldGOVlYdlhET2RxdlJNNGtTcUJHbVZidTR0SWdpWmJvVEQyOEZ4R0RKQW1NS3liNFZLX0s0MXYtMUE?oc=5",
+          "summary": "“시속 97㎞인데 운전자는 쿨쿨”…테슬라 믿고 잠든 男의 최후 &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-20T12:07:27+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 3,
       "articles": [
         {
-          "title": "\"TSMC, 2028년까지 AI칩 패키징 독주\"",
-          "link": "https://zdnet.co.kr/view/?no=20260918221337",
-          "summary": "[지디넷코리아]TSMC의 2.D 패키징 기술 'CoWoS-L'이 최소 2028년까지 인공지능(AI) 칩 패키징 시장 주류 자리를 지킬 것이라는 전망이 나왔다. 주요 그래픽처리장치(GPU) 업체와 하이퍼스케일러의 고성능 AI 칩 개발 경쟁으로 기판 대면적화가 2.5D 패키징 기술 핵심 과제로 떠올랐기 때문이다. 인텔의 차세대 패키징 솔루션 'EMIB-T'가 대항마지만, 기술 성숙도와 수율에서는 아직 TSMC를 쫓아가지 못하고 있다는 분석이다. 시장조사업체 트렌드포스는 18일(현지시간) 첨단 반도체 패키징 시장 보고서에서 폭발적인 AI 인프라 수요로 초대형 패키징 기술 경쟁이 격화하고 있다고 밝혔다. 2026년 엔비디아의 고성능 GPU 출하량은 전년비 약 30% 증가할 것으로 예상된다. AMD도 올해 하반기부터 차세대 가속기 'MI400·MI450' 시리즈를 본격 공급하며 패키징 수요를 끌어올리고 있다. 주문형 반도체(ASIC)를 개발하는 빅테크 진영 확장세도 뚜렷하다. 구글은 TPU ",
-          "published": "2026-09-18T23:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Nvidia CEO Says There’s ‘0% Chance’ That World Will End in 2030",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/nvidia-ceo-says-there-s-0-chance-that-world-will-end-in-2030",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang renewed his pushback against AI doomsday scenarios, saying that the technology doesn’t pose an extinction risk to humanity.",
-          "published": "2026-09-18T23:31:19+00:00",
+          "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
+          "summary": "Microsoft Corp. artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
+          "published": "2026-09-20T16:30:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -108,83 +64,21 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "OpenAI Sees Burning Through $278 Billion by 2030: FT",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-18/openai-projects-burning-through-278-billion-by-2030-ft-says",
-          "summary": "OpenAI expects that its negative free cash flow will reach $278 billion from 2026 to the end of 2030, the Financial Times reported, citing a company presentation.",
-          "published": "2026-09-18T23:02:13+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
-          "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-          "published": "2026-09-19T06:33:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoSEp0cmtQZTc1LVltZEpIMHpyWG5Hby0tRnplZi1GQmxkMkItMUhMTmJBaS12bnZCZloxd3pfRExMN3dTQlEwUGRuS3N4ekdHZzdtYmpYMktQOWE2M0pDdEllUGpxMlctUXc?oc=5",
-          "summary": "'애플 인수설' 프리즘ML, 270억 매개변수 모델 5.9GB로 압축 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-19T08:36:34+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "regulation"
           ]
         },
         {
-          "title": "\"비싸도 산다\"…아이폰18 프로, 美서 예상보다 수요 강해",
-          "link": "https://zdnet.co.kr/view/?no=20260919004415",
-          "summary": "[지디넷코리아]애플의 ‘아이폰18 프로’ 시리즈에 대한 미국 내 수요가 예상보다 강하다는 조사 결과가 나왔다.맥루머스, 애플인사이더 등 외신은 18일(현지시간) 투자은행 에버코어 ISI가 미국 소비자 약 4천 명을 대상으로 실시한 설문조사 결과를 보도했다.조사 결과, 아이폰18 프로 시리즈의 교체 수요가 예상보다 강한 것으로 나타났다. 특히 소비자들은 더 비싼 프리미엄 모델과 높은 저장 용량을 갖춘 제품을 선호하는 것으로 조사됐다.에버코어에 따르면 응답자의 67%는 아이폰을 교체하는 이유로 기존 제품의 사용 기간이 끝났기 때문이라고 답했다. 이는 지난해 조사에서 같은 이유를 꼽은 응답자 비율인 48%보다 크게 증가한 수치다.구매 선호도에서도 고가 모델에 대한 수요가 두드러졌다. 아이폰18 프로와 아이폰18 프로 맥스는 잠재 구매자의 53%로부터 관심을 받았으며, 이 가운데 프로 맥스를 선택한 응답자는 32%로 집계됐다. 이는 지난해 조사에서 프로 맥스를 선택한 비율인 29%보다 높았",
-          "published": "2026-09-19T13:59:02+00:00",
+          "title": "[최경진의 未來法道] 프런티어 AI 시대, 한국 답은 검증 가능한 가속",
+          "link": "https://zdnet.co.kr/view/?no=20260920224904",
+          "summary": "[지디넷코리아]앤스로픽 최고경영자 다리오 아모데이가 최근 발표한 글이 전세계적인 AI 개발 중단 논쟁에 다시 불을 붙였다. 정확히는 중단이 아니라 외부 평가자에게 개발과정에 대한 상시 접근권을 주고, 공통 안전기준과 국제 공조를 통해 검증의 시간을 확보하자는 주장이다. 반면 도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자는 그와 정반대의 입장에 서 있는 것으로 비춰진다. 이러한 논의의 연장선상에서 다가오는 유엔총회 중에도 중요한 의제로 다룰 예정이다.이러한 논쟁은 처음이 아니다. 2000년 빌 조이는 위험한 기술의 포기를 주장했고, 2014년 스티븐 호킹은 완전한 AI가 인류의 종말을 가져올 수 있다고 경고했다. 2023년에는 GPT-4보다 강한 시스템의 훈련을 최소 6개월 중단하자는 공개서한이 나왔다. 예고됐던 인류 멸종이나 AI의 통제권 장악은 2026년 9월 현재 현실이 되지 않았다. 그러나 발전 속도는 예상을 앞질렀다. 오픈AI의 GPT-5.5는 4월 23일, GPT",
+          "published": "2026-09-20T13:49:04+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -192,51 +86,29 @@
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
             "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rOVpRdUFyR2c4a1djNC0zN2dSMWsyZ0NWTFlPLWNCU1B6Z0dDaFdaVUoyUXRjM2ZPb3hjajIzN0Z6TVFTdER5VmZpVVhlYlQtUXVvNXBoYXNEMmxMZ1FZekJRY0NteEFldVE?oc=5",
-          "summary": "구글 '제미나이', 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-19T10:06:23+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "화웨이, 안전하고 지능적인 연결로 에이전틱 세계를 지원하는 업그레이드된 Stellar AI Network 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260919091013",
-          "summary": "[지디넷코리아]상하이 2026년 9월 19일 /PRNewswire/ -- 화웨이(Huawei)가 화웨이 커넥트 2026(HUAWEI CONNECT 2026)에서 안전하고 지능적인 연결(secure, intelligent connectivity)이라는 철학을 바탕으로 업그레이드된 Stellar AI Network Solution을 공개했다. 효율적인 컴퓨팅 생산, 무손실 전송, 초고속 애플리케이션 등의 차별화된 기능을 갖춘 미래 지향적 솔루션으로, AI 시대에 서비스의 안전성을 보장하면서 컴퓨팅 생산성을 극대화한다. Leon Wang, President of Huawei's Data Communication Product Line, delivering a speech AI 도입이 폭발적으로 증가하면서 일일 토큰 소비량은 1년 만에 260배 급증했다. AI Fabric, AI WAN, AI Campus를 아우르는 화웨이의 업그레이드된 Stellar AI Network는 지능형 연결과 보",
-          "published": "2026-09-19T00:10:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Apple’s Home AI Hub Details; Apple Fitness+ Layoffs and iPhone Duo Apple Pencil",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
+          "summary": "Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+.",
+          "published": "2026-09-20T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -246,34 +118,36 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03UVpCYTJRMThjVnZ0TVFHUFFacTdqcFpSVTZUQkxRYmwwbnlELXR5elRxSUdhZ1RvQm95c0Z5SlRmOVhxZlVxbmpYQ1VfRGdWaHBlUw?oc=5",
-          "summary": "한동훈 “지금 가상자산 과세 안돼…민주당, 밀어붙이지 말고 토론하자” &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-19T01:25:11+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "태국·체코 교통당국, 카카오모빌리티 자율주행 서비스 체험",
+          "link": "https://zdnet.co.kr/view/?no=20260920110746",
+          "summary": "[지디넷코리아]태국과 체코 교통당국 관계자들이 카카오모빌리티의 자율주행 서비스를 잇달아 체험했다.20일 카카오모빌리티에 따르면 시리퐁 앙카사쿨키앗 태국 교통부 차관을 비롯한 태국 정부 대표단은 지난 17일 경기 성남시 카카오모빌리티 판교 사옥을 방문해 자율주행 기술과 서비스 운영 사례를 살펴봤다.대표단은 카카오모빌리티가 다양한 이동수단과 이용자를 연결해 온 플랫폼 운영 경험과 자율주행 기술의 실제 서비스 적용 사례 등을 확인하고 미래 모빌리티 발전 방향에 대해 의견을 나눴다.판교 사옥 방문에 앞선 지난 16일에는 서울 강남구 일대에서 운영 중인 자체 기술 기반 자율주행 서비스 ‘서울자율차’를 직접 시승했다. 카카오 T를 통한 차량 호출부터 탑승까지 실제 이용 과정도 체험했다.태국은 최근 자율주행 기술 도입을 위한 제도 정비를 추진하고 있다. 태국 교통부는 지난 7월 레벨 3~5 자율주행 시스템을 대상으로 규제 샌드박스를 추진하고 법률과 기술 기준, 도로 인프라 등 관련 제도를 마련하",
+          "published": "2026-09-20T02:23:36+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
