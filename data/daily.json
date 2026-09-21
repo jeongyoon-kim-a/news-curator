@@ -1,46 +1,68 @@
 {
-  "generated_at": "2026-09-20T23:04:24.537907+00:00",
-  "total_articles": 6,
+  "generated_at": "2026-09-21T23:55:39.378682+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "Musk’s Boring Co. Working on Tunnel to Link Austin, San Antonio",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-20/musk-s-boring-co-working-on-tunnel-to-link-austin-san-antonio",
-          "summary": "Elon Musk said his Boring Co. venture is working on a tunnel project in Texas that would connect the cities of Austin and San Antonio.",
-          "published": "2026-09-20T19:19:58+00:00",
+          "title": "Former xAI Staffer Eyes $50 Million for Firm to Fight Deepfakes",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/former-xai-staffer-eyes-50-million-for-firm-to-fight-deepfakes",
+          "summary": "A former xAI and Google staffer is in talks to raise roughly $50 million in seed funding for a new company focused on combating deepfakes online, according to a person familiar with the matter.",
+          "published": "2026-09-21T17:31:11+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
-            "recency": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "스페이스XAI, 음성 인식 모델 2.0 공개…정확도 두 배 높이고 가격은 그대로",
+          "link": "https://zdnet.co.kr/view/?no=20260921205931",
+          "summary": "[지디넷코리아]스페이스XAI가 음성을 텍스트로 바꾸는 모델 '그록 보이스 트랜스크라이브 2.0'을 공개했다. 스페이스XAI 공식 블로그에 따르면 이 모델은 실사용 환경 평가에서 1.0 버전보다 두 배 정확하며 가격은 동일하다.2.0 버전은 그록 보이스의 기반이 된 오디오 파운데이션 모델 위에서 개발됐다. 그록 보이스는 하루 수만 건의 고객 지원 통화와 수백만 시간 분량의 영상 내레이션을 처리하고, 테슬라 차량의 그록 어시스턴트를 포함한 물리 제품의 음성 에이전트로도 운영된다. 훈련에는 실시간이면서 잡음이 많은 다국어 오디오 데이터가 사용됐다.공개 벤치마크인 아티피셜 애널리시스 리더보드에서 스트리밍 모델 32종 중 정확도 1위를 기록했다. 회사는 고객 지원 통화의 전화 음성, 그록과의 대화, 계정 코드나 이메일 주소 같은 음성 자격 증명, 19개 언어의 짧은 음성 명령을 내부 평가 항목으로 삼았고 모두 1.0보다 개선됐다고 밝혔다. 전화 음성에서는 시험한 모든 모델보다 정확도가 높았다",
+          "published": "2026-09-21T11:59:31+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "“시속 97㎞인데 운전자는 쿨쿨”…테슬라 믿고 잠든 男의 최후 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KN2VOanl3cEI4M0d6VmFVTldGOVlYdlhET2RxdlJNNGtTcUJHbVZidTR0SWdpWmJvVEQyOEZ4R0RKQW1NS3liNFZLX0s0MXYtMUE?oc=5",
-          "summary": "“시속 97㎞인데 운전자는 쿨쿨”…테슬라 믿고 잠든 男의 최후 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-20T12:07:27+00:00",
+          "title": "머스크 \"텍사스 오스틴-샌안토니오 터널 건설 중\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYT1l3X1NFY3JDY1hyYXF0MGpET2lOZlVvdGpaNUtnUkRaRG9SWjFzWnp6TUk3V1BTYm5RQU9FMzFaZ2VYREhvZmxsOUk2MXZxVkE?oc=5",
+          "summary": "머스크 \"텍사스 오스틴-샌안토니오 터널 건설 중\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-09-21T01:53:31+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -50,23 +72,65 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 3,
+      "count": 8,
       "articles": [
         {
-          "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-          "summary": "Microsoft Corp. artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-          "published": "2026-09-20T16:30:01+00:00",
+          "title": "Startups Like Harvey Embrace Open Models to Cut Reliance on Anthropic, OpenAI",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/startups-like-harvey-embrace-open-models-to-cut-reliance-on-anthropic-openai",
+          "summary": "The $15.6 billion legal startup Harvey built its business around training AI models like OpenAI’s GPT-4 to do specialized work for lawyers. Recently, however, soaring artificial intelligence costs have nudged it to rethink its dependence on the AI giants.",
+          "published": "2026-09-21T16:05:23+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
             "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "트럼프-시진핑 만찬, 빅테크 수장들도 모인다",
+          "link": "https://zdnet.co.kr/view/?no=20260921175843",
+          "summary": "[지디넷코리아]도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담을 앞두고 미국 주요 빅테크 수장들이 백악관 국빈 만찬에 집결한다. 이번 정상회담에서 인공지능(AI)이 주요 의제로 다뤄질 것으로 전망되면서 미중 AI 경쟁과 개발 속도·안전성을 둘러싼 논의에도 관심이 쏠린다.21일(현지시간) 블룸버그 통신에 따르면 사티아 나델라 마이크로소프트(MS) 최고경영자(CEO)는 오는 24일 백악관에서 열리는 시 주석 환영 국빈 만찬에 참석할 예정이다. 앞서 참석이 알려진 팀 쿡 애플 집행의장을 비롯해 젠슨 황 엔비디아 CEO, 샘 알트먼 오픈AI CEO, 크리스티아노 아몬 퀄컴 CEO 등도 함께 할 예정이라고 블룸버그는 전했다.이번 미중 정상회담에서는 AI가 주요 의제 가운데 하나로 다뤄질 예정이다. 미국 의회에서도 양국 정상이 AI 안전 기준을 논의해야 한다는 요구가 나온 것으로 전해졌다. 정상회담을 앞두고 양국 정부는 AI 관련 별도 대화 채널도 마련하기로 했다. 블룸버그에 따르",
+          "published": "2026-09-21T09:15:44+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "British Columbia Sues OpenAI Over Canada Mass Shooting Warning Failure",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/british-columbia-sues-openai-over-canada-mass-shooting-warning-failure",
+          "summary": "British Columbia filed a lawsuit in California against OpenAI, alleging it could have used ChatGPT logs to warn police and avert a mass shooting in the Canadian province earlier this year.",
+          "published": "2026-09-21T19:40:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -75,19 +139,41 @@
           ]
         },
         {
-          "title": "[최경진의 未來法道] 프런티어 AI 시대, 한국 답은 검증 가능한 가속",
-          "link": "https://zdnet.co.kr/view/?no=20260920224904",
-          "summary": "[지디넷코리아]앤스로픽 최고경영자 다리오 아모데이가 최근 발표한 글이 전세계적인 AI 개발 중단 논쟁에 다시 불을 붙였다. 정확히는 중단이 아니라 외부 평가자에게 개발과정에 대한 상시 접근권을 주고, 공통 안전기준과 국제 공조를 통해 검증의 시간을 확보하자는 주장이다. 반면 도널드 트럼프 미국 대통령과 젠슨 황 엔비디아 최고경영자는 그와 정반대의 입장에 서 있는 것으로 비춰진다. 이러한 논의의 연장선상에서 다가오는 유엔총회 중에도 중요한 의제로 다룰 예정이다.이러한 논쟁은 처음이 아니다. 2000년 빌 조이는 위험한 기술의 포기를 주장했고, 2014년 스티븐 호킹은 완전한 AI가 인류의 종말을 가져올 수 있다고 경고했다. 2023년에는 GPT-4보다 강한 시스템의 훈련을 최소 6개월 중단하자는 공개서한이 나왔다. 예고됐던 인류 멸종이나 AI의 통제권 장악은 2026년 9월 현재 현실이 되지 않았다. 그러나 발전 속도는 예상을 앞질렀다. 오픈AI의 GPT-5.5는 4월 23일, GPT",
-          "published": "2026-09-20T13:49:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Nvidia Buying an Additional $1.5 Billion in SB Energy Shares Ahead of IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/nvidia-buying-an-additional-1-5-billion-in-sb-energy-shares-ahead-of-ipo",
+          "summary": "Nvidia Corp. is buying an additional $1.5 billion in shares of SB Energy Inc., a data center provider backed by SoftBank Group Corp., ahead of that company’s US initial public offering.",
+          "published": "2026-09-21T17:23:31+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Google Rolls Out $899-Plus Googlebooks from Dell, HP, Lenovo, Acer, ASUS",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/google-rolls-out-899-plus-googlebooks-from-dell-hp-lenovo-acer-asus",
+          "summary": "Alphabet Inc.’s Google announced pricing and hardware specifications for the first so-called Googlebooks, marking a push into a high-end laptop market where built-in artificial intelligence features have become the norm.",
+          "published": "2026-09-21T13:00:02+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -95,18 +181,58 @@
           "event_labels": []
         },
         {
-          "title": "Apple’s Home AI Hub Details; Apple Fitness+ Layoffs and iPhone Duo Apple Pencil",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-20/apple-s-home-ai-hub-details-apple-fitness-layoffs-and-iphone-duo-apple-pencil-mu9vv9k0",
-          "summary": "Also: What happened with the iPhone Duo Pencil and layoffs at Fitness+.",
-          "published": "2026-09-20T14:00:01+00:00",
+          "title": "Amazon Blocks Meta’s Muse AI Agent From Its Retail Site",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/amazon-blocks-meta-s-muse-ai-agent-from-its-retail-site",
+          "summary": "Amazon.com Inc. has blocked Meta Platforms Inc.’s new artificial intelligence agent from its retail site after the social media company declined a request to remove the bot.",
+          "published": "2026-09-21T15:13:34+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Bessent Targets OpenAI Managers for Hugging Face Incident",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/bessent-targets-openai-managers-for-hugging-face-incident-blame",
+          "summary": "Treasury Secretary Scott Bessent said the responsibility for the recent hacking incident involving OpenAI’s advanced artificial intelligence models was with that firm’s managers, while stopping short of suggesting any consequences.",
+          "published": "2026-09-21T12:50:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Pushes US to Lead Effort to Set Global Standards for AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/openai-pushes-us-to-lead-effort-to-set-global-standards-for-ai",
+          "summary": "OpenAI is urging the US to lead an effort with other countries to set standards for cutting-edge artificial intelligence, in response to mounting concerns about the potential harms of the technology.",
+          "published": "2026-09-21T17:02:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -118,34 +244,53 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "Strategy Makes First Purchase of Bitcoin Since August",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-21/saylor-s-strategy-makes-first-purchase-of-bitcoin-since-august",
+          "summary": "Michael Saylor’s Strategy Inc. purchased Bitcoin for the first time in three weeks, acquiring $75.7 million of the original cryptocurrency after seeking to rebuild investor confidence by reshaping its balance sheet and building out reserves.",
+          "published": "2026-09-21T12:56:06+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "태국·체코 교통당국, 카카오모빌리티 자율주행 서비스 체험",
-          "link": "https://zdnet.co.kr/view/?no=20260920110746",
-          "summary": "[지디넷코리아]태국과 체코 교통당국 관계자들이 카카오모빌리티의 자율주행 서비스를 잇달아 체험했다.20일 카카오모빌리티에 따르면 시리퐁 앙카사쿨키앗 태국 교통부 차관을 비롯한 태국 정부 대표단은 지난 17일 경기 성남시 카카오모빌리티 판교 사옥을 방문해 자율주행 기술과 서비스 운영 사례를 살펴봤다.대표단은 카카오모빌리티가 다양한 이동수단과 이용자를 연결해 온 플랫폼 운영 경험과 자율주행 기술의 실제 서비스 적용 사례 등을 확인하고 미래 모빌리티 발전 방향에 대해 의견을 나눴다.판교 사옥 방문에 앞선 지난 16일에는 서울 강남구 일대에서 운영 중인 자체 기술 기반 자율주행 서비스 ‘서울자율차’를 직접 시승했다. 카카오 T를 통한 차량 호출부터 탑승까지 실제 이용 과정도 체험했다.태국은 최근 자율주행 기술 도입을 위한 제도 정비를 추진하고 있다. 태국 교통부는 지난 7월 레벨 3~5 자율주행 시스템을 대상으로 규제 샌드박스를 추진하고 법률과 기술 기준, 도로 인프라 등 관련 제도를 마련하",
-          "published": "2026-09-20T02:23:36+00:00",
+          "title": "멜론, MMA 2차 라인업 공개...TOP100 상위권 아티스트 합류",
+          "link": "https://zdnet.co.kr/view/?no=20260921235907",
+          "summary": "[지디넷코리아]올해 멜론 차트에서 두각을 나타낸 YENA(최예나), 아일릿, 리센느, 하츠투하츠가 'MMA2026(멜론뮤직어워드)' 무대에 오른다.카카오엔터테인먼트의 음악 플랫폼 멜론은 오는 11월14~15일 서울 고척스카이돔에서 열리는 '제18회 멜론뮤직어워드(MMA2026)' 2차 라인업을 21일 공개했다.이번 라인업에는 YENA를 비롯해 걸그룹 아일릿, 리센느, 하츠투하츠가 이름을 올렸다. 앞서 보이그룹을 중심으로 발표한 1차 라인업에 이어 올해 멜론 차트에서 성과를 낸 여성 아티스트를 추가했다.YENA는 미니앨범 'LOVE CATCHER' 타이틀곡 '캐치 캐치'로 올해 멜론 TOP100 최고 4위에 올랐다. 멜론에 따르면 올해 솔로 아티스트 가운데 처음으로 TOP100 10위권에 진입했다.아일릿은 지난 4월 발표한 미니 4집 타이틀곡 'It's Me'로 TOP100 최고 2위를 기록했다. 아일릿은 MMA2024에서 신인상, MMA2025에서 베스트 퍼포먼스를 수상한 데 이어 ",
+          "published": "2026-09-21T14:59:07+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "regulation"
-          ]
+          "event_labels": []
         }
       ]
     },
