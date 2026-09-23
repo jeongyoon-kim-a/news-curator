@@ -1,46 +1,24 @@
 {
-  "generated_at": "2026-09-22T23:31:57.797142+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-09-23T23:28:31.153051+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "Ari Emanuel Dishes on Hollywood Feuds, Paramount Merger and Elon Musk Friendship",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-22/ari-emanuel-dishes-on-hollywood-feuds-paramount-merger-and-elon-musk-friendship",
-          "summary": "A conversation&nbsp;with the&nbsp;pugilistic and hyperactive media mogul&nbsp;about his new memoir ‘Roll the Calls’",
-          "published": "2026-09-22T19:15:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "기대 못 미친 '그록 4.7'…스페이스XAI, 프런티어 경쟁 '4.8'로 미뤄 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XQm9uMl9vZ3lPTnIzT1lGZlYyZUVDaDB3akFBVGx3bmppV1lhMVpYR09UZG5wRm8wbmFrUE5wTEtBbXdMaWt6ZjAtb1Y1Unprc2J4X1ZrYm40dDNWUjhDQWdTUnNwbDZiOWc?oc=5",
-          "summary": "기대 못 미친 '그록 4.7'…스페이스XAI, 프런티어 경쟁 '4.8'로 미뤄 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-22T03:23:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "특징주, 켄코아에어로스페이스-스페이스X(SpaceX) 테마 상승세에 5.21% ↑ - mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81a3BmbGtPUXAxRURNclNqQ21YaVpYU2hKVEdYNlRyYkhZMlFiM01NY0M2VEFfWk96Z2VhMTI5dFNDOFFoM3dmM1hXdzVkcWNMT2c?oc=5",
+          "summary": "특징주, 켄코아에어로스페이스-스페이스X(SpaceX) 테마 상승세에 5.21% ↑ &nbsp;&nbsp; mk.co.kr",
+          "published": "2026-09-23T03:24:16+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -49,18 +27,18 @@
           "event_labels": []
         },
         {
-          "title": "테슬라, 동남아 최대 전기차시장 부상한 베트남 진출 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uOWRhdEt2MzFWbnE3WV9PYnE3US1PMUJLQUlZNjZTc0ZWQ0EyY3lFRWxwMnBTZ0VmY1ZXOThSZkpaWHdJUnRVT1RsbUoxWGVNbVpmVFdDQXg5Uk16M2NCMGVPbnZ2S1g1WDliWXVic1LSAXRBVV95cUxQNGtFY01NSXNMcnlGb2MxajNYQk0xRnlTcG00S2NMaDFJRDZhUE9JUzdXZG5OZ0NxSFI5d2thT05rNmIybzlfSWo1VU5tWXlZVjlmb1FzY3hvYXVZcHZaUjZBRV9KZ0dIVE5nZWtnenBvVjNQTQ?oc=5",
-          "summary": "테슬라, 동남아 최대 전기차시장 부상한 베트남 진출 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-22T05:15:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "특징주, 센서뷰-스페이스X(SpaceX) 테마 상승세에 6.89% ↑ - mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaFhJTC1CUEpTT0dHSUNxb1hHYjhfNEF4c3gzWFIyeUVMZFF5Z1BsQ2c3WmE1cExvUXQ0VVEwS3REV2JvSFZQSXF6TWtuYXZtUUE?oc=5",
+          "summary": "특징주, 센서뷰-스페이스X(SpaceX) 테마 상승세에 6.89% ↑ &nbsp;&nbsp; mk.co.kr",
+          "published": "2026-09-23T03:24:26+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -75,10 +53,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "Don’t be fooled by this summer of AI hype",
-          "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-          "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed&#8230;",
-          "published": "2026-09-22T11:04:51+00:00",
+          "title": "Altman, Amodei Call on UN, World Leaders to Boost AI Safety",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety",
+          "summary": "OpenAI Chief Executive Officer Sam Altman and Anthropic PBC CEO Dario Amodei urged world leaders to work together on artificial intelligence in an extraordinary appearance before the United Nations Security Council that focused on growing concerns the technology poses existential risks to humanity.",
+          "published": "2026-09-23T19:56:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 18,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "The AI Hype Index: AI loves cheating",
+          "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+          "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
+          "published": "2026-09-23T09:00:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
           "source_weight": 2,
@@ -95,18 +95,18 @@
           "event_labels": []
         },
         {
-          "title": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 AI칩 어느 정도길래 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1odW9YbVROcy1kaFVnODZsRHJMendjM1VFNkpLd1A2MVlzSXNPdnJlM0NFMXdfTjRoU04tZ1FUMHd5MmZtb2VLOVVhTVVvejBfWXc?oc=5",
-          "summary": "“엔비디아 잘난 척도 끝이다”…알리바바 신형 AI칩 어느 정도길래 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-22T11:43:40+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
+          "link": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
+          "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales transactions, with six trades totalling up to US$31 million, according to filings disclosed by the US Office of Government Ethics on Tuesday. The data detailed Trump’s trading activity in July,...",
+          "published": "2026-09-23T12:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 9,
             "source": 2,
             "recency": 2,
             "event_bonus": 0,
@@ -115,12 +115,52 @@
           "event_labels": []
         },
         {
-          "title": "Meta’s Muse Drags Down Stocks That Depend on ‘Consumer Inertia’",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia",
-          "summary": "Shares of major banks, insurers and online travel agencies slid on Tuesday as investors fear that tools like Meta Platforms Inc.’s personal AI agent could disrupt businesses that benefit from so-called consumer inertia, the tendency to keep buying something out of habit even when a better alternative exists.",
-          "published": "2026-09-22T18:14:55+00:00",
+          "title": "Nvidia Among Top Traded US Credit Swaps as Hedging Demand Soars",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-among-top-traded-us-credit-swaps-as-hedging-demand-soars",
+          "summary": "Derivatives tied to Nvidia Corp. are now among the most traded in the US credit default swaps market, as investors seek to hedge their exposure to the firm’s debt in the wake of June’s $25 billion bond sale.",
+          "published": "2026-09-23T19:46:14+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Agent Hacked Australian Government Website, Albanese Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
+          "summary": "Australian Prime Minister Anthony Albanese said an OpenAI agent hacked a government website, with the artificial intelligence firm taking three months to alert the government about the breach.",
+          "published": "2026-09-23T21:02:18+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Meta Debuts $349 Camera-Free Ray-Bans and Brings Muse to Glasses",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses",
+          "summary": "Meta Platforms Inc. is expanding its smart-glasses lineup with camera-free models, support for the popular new Muse assistant and a hearing-aid mode.",
+          "published": "2026-09-23T23:17:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -135,34 +175,32 @@
           "event_labels": []
         },
         {
-          "title": "구글 '제미나이 인텔리전스', 퀄컴 품고 달린다",
-          "link": "https://zdnet.co.kr/view/?no=20260923052031",
-          "summary": "[지디넷코리아][마우이(미국)=지디넷코리아 전화평 기자] 퀄컴과 구글이 인공지능(AI) 동맹을 강화한다. 기기가 바뀔 때마다 사용자가 누구인지 다시 설명할 필요 없이, 스마트폰부터 PC, 자동차에 이르기까지 개인 맥락과 취향을 하나로 잇는 진정한 일상 속 AI를 퀄컴 하드웨어 위에서 완성하겠다는 구상이다.22일(현지시간) 미국 하와이 마우이에서 개막한 '스냅드래곤 서밋 2026' 기조연설 무대에는 크리스티아노 아몬 퀄컴 최고경영자(CEO)와 릭 오스터로 구글 플랫폼·디바이스 총괄 수석부사장(SVP)이 함께 올랐다.오스터로 수석부사장은 이날 구글이 지향하는 에이전틱 AI 핵심 기술로 '개인화(Personalization)'와 '기기 간 연속성(Continuity)'을 제시했다. 그는 \"진정한 에이전트 경험은 사용자의 현재 맥락뿐 아니라 축적된 취향과 사용 히스토리를 깊이 이해하는 데서 출발한다\"며 \"스마트폰을 쓰든, 차량에 탑승하든, PC 앞에 앉든 AI에게 매번 자신을 다시 소개할 ",
-          "published": "2026-09-22T20:22:02+00:00",
+          "title": "마음AI-경복대학교, 피지컬 AI 교육 협력",
+          "link": "https://zdnet.co.kr/view/?no=20260923173623",
+          "summary": "[지디넷코리아]피지컬 AI 선도기업 마음AI(대표이사 유태준)는 경복대학교(총장 전지용)와 23일 피지컬 AI 교육과 연구개발, 인력양성에 관한 산학협력 업무협약(MOU)을 체결했다.이번 협약에는 피지컬 AI 관련 교육과정과 교과목·교육프로그램 개발 및 참여를 비롯해 공동 연구개발과 인력양성사업, 전시회·컨퍼런스·기술세미나 공동 개최, 인적·물적 자원 교류 등이 포함됐다'이번 협력에서 주목할 부분은 NVIDIA Isaac Sim과 유니티(Unity), 언리얼 엔진(Unreal Engine) 등을 활용한 가상환경에서의 로봇 시뮬레이션을 실제 로봇 작동과 학습까지 연결하는 실습형 교육이다.학생들은 가상환경에서 로봇을 설계하고 움직여보는 것에서 시작해 실제 휴머노이드와 다양한 로봇을 직접 조립하고 제어하는 과정까지 경험한다.특히 AI와 로봇을 각각 배우는 데 그치지 않고, 로봇이 실제 환경에서 만들어내는 행동데이터를 수집하고 이를 다시 AI 학습과 로봇 성능 개선에 활용하는 과정까지 교육",
+          "published": "2026-09-23T08:36:23+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "China’s Huawei trims mobile chip gap with Apple as Tau Scaling Law pays off: Bernstein",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3368404/chinas-huawei-trims-mobile-chip-gap-apple-tau-scaling-law-pays-bernstein?utm_source=rss_feed",
-          "summary": "Huawei Technologies’ latest smartphone processor, the Kirin 9050 Pro, unveiled earlier this month, has narrowed its gap with Apple’s chips to about three years, from roughly four years in the previous generation, according to equity research firm Bernstein. The chip, which Bernstein estimated was produced using technology equivalent to a 7-nanometre process node, outperformed Apple’s 3nm A17 Pro in Geekbench 6 multicore tests, a widely used benchmark that measures how effectively processors...",
-          "published": "2026-09-22T12:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+          "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
+          "published": "2026-09-23T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -175,60 +213,26 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
+      "articles": [
         {
-          "title": "LG-마이크로소프트, 전략적 파트너십 체결…AI 생태계 가속 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PaElEenRGTzk0S01ZYWVRNXJPbXdESndHdE1LbFcwRnVwZFV6OThHVVZVMHJ0TDRDM29tUG1BZnFtWERUc1Yxay14VkszY3VnYVNJc2hsaXUyWThKS2htQ19KUVhJSFlUNVdWUFE1bWk?oc=5",
-          "summary": "LG-마이크로소프트, 전략적 파트너십 체결…AI 생태계 가속 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-22T00:44:33+00:00",
+          "title": "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMzFOa2s0UHhWeUZ2SDg2aG9RcE96b0hwaFpmeGZzR3Y2M21ZWUVaTHJ5Ukc2eTBFaUtMSWhGVkFXbTRxQ05ZV0VmcGZBSnZheU8zYnZXeUxyRUpnSUcySDZfZ2ZRdFlZRmxmMW81ZDPSAXRBVV95cUxObWd6U08wcXV5RHF5QVNXU2VzNEVMMmRKSGloNEQ0OFlHeHRhUHpTckxKMWo5UDVLcUVfeGVzb0UtdnliYjlLZlhDN1FHRkd2djVoZFVhNVlGdWFyVVpQdmQyX0p6Q053ejB4NkQ0WVRHa2o1Vg?oc=5",
+          "summary": "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-23T02:19:06+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 제미나이·안드로이드 결합한 프리미엄 '구글북' 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oOHhNUk00YWY5bzhGTWUtUC1qTkszbld6WGxSWWQyMUJVS0dCSktEQzBUZmhWN0hOcktRTXBxMW5aQm00TVlETkprdWJ2V01raU1DUi10Ul9XZWlibTlMTVVFOGxEN1lObnc?oc=5",
-          "summary": "구글, 제미나이·안드로이드 결합한 프리미엄 '구글북' 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-22T07:12:19+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qNGxJVE5SaERaVGhrS3Y4Sm9zaWRlMzNCcnJWVG93Q1lCdGpaMnV3b01ybGdoams0YWlWQTBRTzEzdnplWXY4Y0EyUFpfa09uVVNsZk45S3JCZnQ1eW5OZVJ0eXp1Q2hIWFE?oc=5",
-          "summary": "메타 에이전트 '뮤즈' 돌풍, 출시 초기 챗GPT 기록 뛰어넘었다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-22T10:03:42+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -238,70 +242,25 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "[단독] 카카오엔터, 웹툰·웹소설 통합한다…연내 카카오페이지 일원화 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13aE8xMmQwM1BoZ2tXZktsOVI0WWFRajVaSXF5NXVJUGhiZHp3ZmxQTXRjSUVIbFQ3OS1vVjJlNy1NWjBkUUVLdU1XXzFBOHdjenVKOVh3?oc=5",
-          "summary": "[단독] 카카오엔터, 웹툰·웹소설 통합한다…연내 카카오페이지 일원화 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-22T01:29:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "'이곳' 휴게소 들른다면…네이버페이 최대 10만포인트 적립",
+          "link": "https://zdnet.co.kr/view/?no=20260923104956",
+          "summary": "[지디넷코리아]네이버페이(Npay)가 9월 30일까지 전국 9개 고속도로 휴게소에서 네이버페이 포인트 적립 프로모션을 실시한다고 24일 밝혔다.프로모션이 적용되는 고속도로 휴게소는 총 9곳이다. 공주휴게소·논공휴게소·양평휴게소·광주휴게소(양방향)와 안산휴게소 등이다. 휴게소 내 일부 브랜드 입점 매장을 제외한 전체 매장이 적립 대상이다. 네이버페이 앱 내 삼성페이나 QR을 활용해 네이버페이 머니·포인트로 1만원 이상 결제하면 결제 금액 50%가 즉시 적립된다.1인당 최대 10만 포인트까지 적립받을 수 있다.네이버페이 관계자는 \"휴게소 이용이 잦은 추석 명절 기간을 중심으로 사용자들의 체감 혜택은 더욱 커질 것\"이라고 말했다.",
+          "published": "2026-09-23T22:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 11,
+          "score": 12,
           "score_breakdown": {
             "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버클라우드 컨소시엄, 사이버보안 특화 모델 개발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hTlZlQXhBVFZwYmtyTTQ3cFNMNmlzLW5McVcwNFl4Z0pBb290ZWxLdE51MHc5YjQtTXdRSTlkUDduU1hRUGRZekszemJJaUhVSHN5T2F1bmY2Z2V5WkN3WHdiOGFlcS1fR053aHRlU3Q?oc=5",
-          "summary": "네이버클라우드 컨소시엄, 사이버보안 특화 모델 개발 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-22T06:10:22+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버클라우드 컨소시엄, 사이버보안 특화 모델 개발(종합) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEOTNwT1F5aG83VWpZVzYwcFZzdkVBQ1cwaGZON1hFNHkyVmJ4Z3dkZDBDSHlmT3B1cEdPazBDUGZzRGplQlI5aFN6dFFHWVN5emhJNFZOLWduWGUwZldWbFF3eVpSSlBBZW9FZk9oQVI?oc=5",
-          "summary": "네이버클라우드 컨소시엄, 사이버보안 특화 모델 개발(종합) &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-22T07:08:02+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
