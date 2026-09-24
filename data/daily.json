@@ -1,144 +1,65 @@
 {
-  "generated_at": "2026-09-23T23:28:31.153051+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-09-24T23:47:52.192554+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "특징주, 켄코아에어로스페이스-스페이스X(SpaceX) 테마 상승세에 5.21% ↑ - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81a3BmbGtPUXAxRURNclNqQ21YaVpYU2hKVEdYNlRyYkhZMlFiM01NY0M2VEFfWk96Z2VhMTI5dFNDOFFoM3dmM1hXdzVkcWNMT2c?oc=5",
-          "summary": "특징주, 켄코아에어로스페이스-스페이스X(SpaceX) 테마 상승세에 5.21% ↑ &nbsp;&nbsp; mk.co.kr",
-          "published": "2026-09-23T03:24:16+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "특징주, 센서뷰-스페이스X(SpaceX) 테마 상승세에 6.89% ↑ - mk.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtaFhJTC1CUEpTT0dHSUNxb1hHYjhfNEF4c3gzWFIyeUVMZFF5Z1BsQ2c3WmE1cExvUXQ0VVEwS3REV2JvSFZQSXF6TWtuYXZtUUE?oc=5",
-          "summary": "특징주, 센서뷰-스페이스X(SpaceX) 테마 상승세에 6.89% ↑ &nbsp;&nbsp; mk.co.kr",
-          "published": "2026-09-23T03:24:26+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Altman, Amodei Call on UN, World Leaders to Boost AI Safety",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-23/altman-amodei-call-for-global-cooperation-on-ai-to-boost-safety",
-          "summary": "OpenAI Chief Executive Officer Sam Altman and Anthropic PBC CEO Dario Amodei urged world leaders to work together on artificial intelligence in an extraordinary appearance before the United Nations Security Council that focused on growing concerns the technology poses existential risks to humanity.",
-          "published": "2026-09-23T19:56:04+00:00",
+          "title": "Anthropic Strikes $12 Billion AI Computing Deal With Akamai",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-strikes-12-billion-deal-with-akamai-for-ai-computing",
+          "summary": "Anthropic PBC has signed an $11.6 billion, seven-year contract with Akamai Technologies Inc. for computing power, adding to the AI developer’s growing list of data center deals.",
+          "published": "2026-09-24T20:02:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 18,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "m_and_a"
           ]
         },
         {
-          "title": "The AI Hype Index: AI loves cheating",
-          "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-          "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s&#8230;",
-          "published": "2026-09-23T09:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Trump offloads tens of millions in AI, tech shares, led by Microsoft, Amazon, Meta",
-          "link": "https://www.scmp.com/tech/article/3368525/trump-offloads-tens-millions-ai-tech-shares-led-microsoft-amazon-meta?utm_source=rss_feed",
-          "summary": "US President Donald Trump has sold shares worth tens of millions of US dollars in major tech companies, including Microsoft, Amazon and Meta Platforms in July, a move that may reveal some of his views on the sector, especially as competition with China intensifies. Microsoft topped the list of sales transactions, with six trades totalling up to US$31 million, according to filings disclosed by the US Office of Government Ethics on Tuesday. The data detailed Trump’s trading activity in July,...",
-          "published": "2026-09-23T12:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 9,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia Among Top Traded US Credit Swaps as Hedging Demand Soars",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-23/nvidia-among-top-traded-us-credit-swaps-as-hedging-demand-soars",
-          "summary": "Derivatives tied to Nvidia Corp. are now among the most traded in the US credit default swaps market, as investors seek to hedge their exposure to the firm’s debt in the wake of June’s $25 billion bond sale.",
-          "published": "2026-09-23T19:46:14+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "글로벌 AI 선구자 겸 전문가 모 가우닷, 바레인 핀테크 포워드 2026 기조연사로 나서",
+          "link": "https://zdnet.co.kr/view/?no=20260924151002",
+          "summary": "[지디넷코리아]마나마, 바레인, 2026년 9월 24일 /PRNewswire/ -- 구글 X(Google X)의 전 최고사업책임자(CBO)이자 베스트셀러 작가, 기업가, 세계적으로 인정받는 AI 전문가인 모 가우닷(Mo Gawdat)이 핀테크 포워드 2026(Fintech Forward 2026)의 연사로 합류해 인공지능의 미래와 인간의 판단, 책임 있는 의사결정에 대한 견해를 공유한다. 가우닷은 기업과 규제당국, 대중이 갈수록 지능화되는 시스템에서 신뢰와 책임, 인간의 감독 역할을 둘러싼 문제를 풀어나가는 가운데 AI가 전 세계적인 관심의 중심에 선 시점에 행사에 참석하게 됐다. 역내 대표 금융 서비스 포럼인 이번 행사는 '지능형 인프라 시대의 금융(Finance in the Age of Intelligent Infrastructure)'을 주제로 2026년 10월 7~8일 엑시비션 월드 바레인(Exhibition World Bahrain)에서 열린다. Mo Gawdat to He",
+          "published": "2026-09-24T06:10:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "regulation"
+          ]
         },
         {
-          "title": "OpenAI Agent Hacked Australian Government Website, Albanese Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-23/openai-agent-hacked-australian-government-website-albanese-says",
-          "summary": "Australian Prime Minister Anthony Albanese said an OpenAI agent hacked a government website, with the artificial intelligence firm taking three months to alert the government about the breach.",
-          "published": "2026-09-23T21:02:18+00:00",
+          "title": "Anthropic Biology Lab Enzyme Discovery Draws Caution From Scientists",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-24/anthropic-biology-discovery-draws-cautious-notes-from-scientists",
+          "summary": "Anthropic PBC’s announcement that its Claude AI model discovered an enzyme system that resembled an earlier breakthrough gene editing technology was met with caution by some experts in the field, who suggested the company oversold its significance.",
+          "published": "2026-09-24T21:00:26+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -155,10 +76,10 @@
           "event_labels": []
         },
         {
-          "title": "Meta Debuts $349 Camera-Free Ray-Bans and Brings Muse to Glasses",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-23/meta-debuts-349-camera-free-ray-bans-and-brings-muse-to-glasses",
-          "summary": "Meta Platforms Inc. is expanding its smart-glasses lineup with camera-free models, support for the popular new Muse assistant and a hearing-aid mode.",
-          "published": "2026-09-23T23:17:49+00:00",
+          "title": "Microsoft’s Suleyman Says Industry Needs ‘Red Line’ for AI",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-24/microsoft-s-suleyman-says-industry-needs-red-line-for-ai",
+          "summary": "The software giant’s AI chief also thinks the government should help “drive” the process of evaluating models.",
+          "published": "2026-09-24T19:26:47+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -175,10 +96,74 @@
           "event_labels": []
         },
         {
-          "title": "마음AI-경복대학교, 피지컬 AI 교육 협력",
-          "link": "https://zdnet.co.kr/view/?no=20260923173623",
-          "summary": "[지디넷코리아]피지컬 AI 선도기업 마음AI(대표이사 유태준)는 경복대학교(총장 전지용)와 23일 피지컬 AI 교육과 연구개발, 인력양성에 관한 산학협력 업무협약(MOU)을 체결했다.이번 협약에는 피지컬 AI 관련 교육과정과 교과목·교육프로그램 개발 및 참여를 비롯해 공동 연구개발과 인력양성사업, 전시회·컨퍼런스·기술세미나 공동 개최, 인적·물적 자원 교류 등이 포함됐다'이번 협력에서 주목할 부분은 NVIDIA Isaac Sim과 유니티(Unity), 언리얼 엔진(Unreal Engine) 등을 활용한 가상환경에서의 로봇 시뮬레이션을 실제 로봇 작동과 학습까지 연결하는 실습형 교육이다.학생들은 가상환경에서 로봇을 설계하고 움직여보는 것에서 시작해 실제 휴머노이드와 다양한 로봇을 직접 조립하고 제어하는 과정까지 경험한다.특히 AI와 로봇을 각각 배우는 데 그치지 않고, 로봇이 실제 환경에서 만들어내는 행동데이터를 수집하고 이를 다시 AI 학습과 로봇 성능 개선에 활용하는 과정까지 교육",
-          "published": "2026-09-23T08:36:23+00:00",
+          "title": "Meta’s Best Month Since 2013 Has It on Cusp of $2 Trillion Level",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-24/meta-s-best-month-since-2013-has-it-on-cusp-of-2-trillion-level",
+          "summary": "Meta Platforms Inc. is finally seeing the stock breakout that beleaguered bulls had been banking on.",
+          "published": "2026-09-24T20:31:34+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, 퀄컴 칩 의존 낮춰도 통신 특허 계약은 연장",
+          "link": "https://zdnet.co.kr/view/?no=20260925062734",
+          "summary": "[지디넷코리아]애플이 자체 모뎀 탑재를 늘리며 퀄컴 칩 의존도를 낮추고 있지만 무선통신 특허 관계는 이어간다. 퀄컴과 글로벌 라이선스 계약을 연장하면서 자체 칩 개발과 별개로 퀄컴의 핵심 무선통신 지식재산권을 계속 활용하게 됐다.24일(현지시간) 모바일월드라이브에 따르면 퀄컴은 애플과 글로벌 라이선스 계약을 갱신했다. 새 계약은 2027년 4월1일부터 발효된다.존 한 퀄컴 테크놀로지라이선싱 총괄부사장은 “애플과 라이선스 계약을 연장하게 돼 기쁘다”고 말했다.계약은 애플이 아이폰에 자체 개발한 셀룰러 모뎀 적용을 확대하는 가운데 이뤄졌다. 애플은 아이폰 듀오와 아이폰18 프로에 자체 C2 셀룰러 모뎀을 탑재했다. 미국에서 판매되는 아이폰18 프로맥스에는 퀄컴 스냅드래곤 5G 모뎀이 사용된다.애플이 자체 모뎀 비중을 늘릴수록 퀄컴의 아이폰용 칩 공급은 줄어들 수 있다. 블룸버그에 따르면 애플은 퀄컴 전체 매출의 20% 이상을 차지하는 최대 고객이다.파올로 페스카토레 PP포어사이트 수석애",
+          "published": "2026-09-24T21:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "LG전자, AI 데이터센터 냉각 솔루션 영토 확장",
+          "link": "https://zdnet.co.kr/view/?no=20260924111254",
+          "summary": "[지디넷코리아]LG전자가 국내외 기업과 협력을 확대하며 인공지능(AI) 데이터센터 냉각 솔루션 사업에 드라이브를 걸고 있다. 글로벌 빅테크와의 공급 협력부터 차세대 냉매 공동 개발, 해외 파트너 네트워크 강화까지 전방위로 협업 범위를 넓히는 모습이다.24일 업계에 따르면 류재철 LG전자 최고경영자(CEO)는 최근 구광모 LG그룹 회장과 함께 미국 마이크로소프트 본사를 방문해 AI 데이터센터 인프라 분야의 사업 협력 기회를 모색했다. LG전자는 AI 데이터센터에 필요한 핵심 솔루션을 안정적으로 공급하며, 마이크로소프트가 글로벌 AI 인프라를 확장하는 과정에서 공급 파트너로 자리매김한다는 계획이다.양사는 단기적으로 주요 전략 거점에 구축되는 AI 데이터센터에 대용량 냉각 솔루션 공급 기회를 구체화한다. 중장기적으로는 신속한 확장이 가능한 프리패브(Prefab) 데이터센터 분야로 협력 범위를 넓힐 방침이다. 프리패브 데이터센터는 전력·냉각·IT 설비를 공장에서 미리 제작한 뒤 현장에서 조",
+          "published": "2026-09-24T06:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "[신간] '칩노믹스'...TSMC 신화 뒤 숨겨진 대만 60년 성공 전략 분석",
+          "link": "https://zdnet.co.kr/view/?no=20260924154858",
+          "summary": "[지디넷코리아]대만은 어떻게 세계 반도체의 심장이 되었을까? 또 왜 세계 최고의 AI 기업들이 모두 대만을 향할까?불과 몇 년 전만 해도 대만은 한국보다 한 수 아래라는 인식이 지배적이었다. 하지만 대만은 지난해에 이어 올해도 1인당 국내총생산(GDP)이 한국보다 많을 전망이다. 작년 대만의 1인당 GDP는 3만9500달러였다. 2003년 이후 22년 만에 처음으로 한국(3만6414달러)을 앞지른 수치다. 올해는 이 격차가 더 커질 전망이다. 두 나라 모두 인공지능(AI) 수퍼사이클에 따른 ‘반도체 특수’를 맞고 있지만, 그 수혜는 대만이 더 클 것으로 분석된다.미국 엔비디아 AI 칩은 대만 TSMC에서 생산된다. 세계 AI 서버 대부분도 에이서, 폭스콘, 콴타 등 대만 기업들이 만든다. 반도체 제조와 첨단 패키징, AI 서버 생산으로 이어지는 거대한 공급망은 이제 세계 반도체 산업의 심장이 됐다. 대만을 세계 반도체 기술의 중심지로 만든 이유를 분석한 책 '칩노믹스'가 발간됐다.대",
+          "published": "2026-09-24T06:48:58+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -193,64 +178,23 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
-          "link": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content creator wearing Meta smart glasses had&#8230;",
-          "published": "2026-09-23T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BMzFOa2s0UHhWeUZ2SDg2aG9RcE96b0hwaFpmeGZzR3Y2M21ZWUVaTHJ5Ukc2eTBFaUtMSWhGVkFXbTRxQ05ZV0VmcGZBSnZheU8zYnZXeUxyRUpnSUcySDZfZ2ZRdFlZRmxmMW81ZDPSAXRBVV95cUxObWd6U08wcXV5RHF5QVNXU2VzNEVMMmRKSGloNEQ0OFlHeHRhUHpTckxKMWo5UDVLcUVfeGVzb0UtdnliYjlLZlhDN1FHRkd2djVoZFVhNVlGdWFyVVpQdmQyX0p6Q053ejB4NkQ0WVRHa2o1Vg?oc=5",
-          "summary": "카카오그룹, 그랩·교보생명과 '동맹'…디지털자산 확장 속도 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-23T02:19:06+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "'이곳' 휴게소 들른다면…네이버페이 최대 10만포인트 적립",
-          "link": "https://zdnet.co.kr/view/?no=20260923104956",
-          "summary": "[지디넷코리아]네이버페이(Npay)가 9월 30일까지 전국 9개 고속도로 휴게소에서 네이버페이 포인트 적립 프로모션을 실시한다고 24일 밝혔다.프로모션이 적용되는 고속도로 휴게소는 총 9곳이다. 공주휴게소·논공휴게소·양평휴게소·광주휴게소(양방향)와 안산휴게소 등이다. 휴게소 내 일부 브랜드 입점 매장을 제외한 전체 매장이 적립 대상이다. 네이버페이 앱 내 삼성페이나 QR을 활용해 네이버페이 머니·포인트로 1만원 이상 결제하면 결제 금액 50%가 즉시 적립된다.1인당 최대 10만 포인트까지 적립받을 수 있다.네이버페이 관계자는 \"휴게소 이용이 잦은 추석 명절 기간을 중심으로 사용자들의 체감 혜택은 더욱 커질 것\"이라고 말했다.",
-          "published": "2026-09-23T22:00:01+00:00",
+          "title": "추석 연휴 외식 할인 '봇물'…배달·픽업 고객 잡기",
+          "link": "https://zdnet.co.kr/view/?no=20260924125526",
+          "summary": "[지디넷코리아]추석 연휴를 맞아 외식업계가 할인 행사를 잇달아 선보이고 있다. 매장 결제부터 배달·픽업 주문까지 혜택을 넓혀 가족 모임과 연휴 간식 수요를 잡겠다는 구상이다.24일 업계에 따르면 외식 업체들은 간편결제 할인과 배달앱 쿠폰, 자사앱 주문 혜택 등을 마련했다. 일부 업체는 매장 이용 할인 기간을 늘리고, 픽업 주문을 활용한 캠페인도 진행한다.던킨은 매장에서 토스페이 QR로 결제하면 전 품목을 50% 할인한다. 할인 한도는 1만원이며 1인당 한 차례 참여할 수 있다. 추석 당일인 25일부터 26일까지는 네이버페이 QR 결제 고객에게 같은 할인율과 한도를 적용한다.던킨은 27일까지 쿠팡이츠에서 매일 오전 9시부터 선착순 쿠폰도 제공한다. 1만8000원 이상 배달·픽업 주문 시 최대 6000원을 할인받을 수 있다. 27일에는 최대 8000원 할인 쿠폰을 제공하는 ‘슈퍼딜’을 진행한다. 요기요에서는 27일까지 2만원 이상 주문하면 요기배달은 6000원, 가게배달과 픽업은 300",
+          "published": "2026-09-24T05:59:30+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -258,7 +202,27 @@
           "category_display": "한국 핀테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "힘들때, 막막할 때, 추석연휴에도…129 보건복지상담센터",
+          "link": "https://zdnet.co.kr/view/?no=20260924215943",
+          "summary": "[지디넷코리아]국민에게 보건복지 제도와 서비스를 안내하는 대표 상담창구인 ‘129번’. 소득보장·복지서비스·건강생활 등 보건복지 전반에 관한 상담을 전화뿐 아니라 화상상담, 카카오톡, 국민비서 챗봇 등 다양한 방식으로 제공하고 있다. 또 자살예방상담 통합 번호인 ‘109번’은 국민의 마음 건강을 지켜주고 있다.보건복지부는 추석 연휴기간에도 129 보건복지상담센터(이하 상담센터)를 24시간 운영해 위기에 처한 국민을 신속히 지원할 계획이라고 밝혔다.365일 24시간 3교대 체제로 운영되는 위기대응상담팀을 중심으로 해 연휴 비상근무 체계를 운영해 명절 기간에도 위기에 처한 이웃을 신속히 지원하고 있다.현수엽 보건복지부 제1차관은 지난 18일 상담센터를 방문해 “모두가 풍성해야 할 명절일수록 누군가에게는 외로움과 어려움이 더욱 크게 다가올 수 있는 만큼, 주위에서 도움이 필요한 이웃이 없는지 한 번 더 살펴봐 주시길 바란다”라며 “129로 전화하면 복지제도와 지원을 안내받을 수 있고, 주",
+          "published": "2026-09-24T22:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 3,
             "event_bonus": 0,
