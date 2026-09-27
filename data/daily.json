@@ -1,50 +1,74 @@
 {
-  "generated_at": "2026-09-26T23:25:37.009426+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-09-27T23:42:26.767395+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UNndkSW9scXJvV19HTXZEaEhYWjl6aTFZeWVydGtKZVB1ZXQ5OWRUQk5LbTM3U2V2SU9aMlVaazRha2g1NWc0SG1LTUZzaWFzckdGQnd0Z1VzWWtwR1BJQThCc3VvTE5TSVE?oc=5",
-          "summary": "머스크 \"연말까지 콜로서스 2 GPU 두 배 증설\"... 최대 121만개 달성 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-26T05:39:55+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "트럼프, 젠슨황·머스크 앞에서 美 AI 통합정부 사이트 공개",
+          "link": "https://zdnet.co.kr/view/?no=20260927104834",
+          "summary": "[지디넷코리아]도널드 트럼프 미국 대통령이 빅테크·인공지능(AI) 기업 인사들이 모인 자리에서 연방정부 정보와 서비스를 통합한 새 웹사이트를 공개한다. 정부 서비스에 AI를 접목해 연방정부 정보 접근성을 높이겠다는 구상이다.27일(현지시간) 블룸버그 통신에 따르면 트럼프 대통령은 오는 29일 테크·AI 업계 주요 인사들과 함께 트럼프 정부의 새 웹사이트 '아메리카.거브(America.gov)' 공개 행사를 개최할 예정이다.아메리카.거브는 여러 연방기관에 흩어진 정보와 자원을 한곳에서 이용할 수 있도록 설계된 사이트다. 행사에서는 AI·에너지·보건·우주·농업 등을 주제로 한 패널 토론도 진행된다.행사에는 젠슨 황 엔비디아 최고경영자(CEO), 일론 머스크 테슬라 CEO, 톰 브라운 앤트로픽 공동창업자 등이 참석할 예정이다. JD 밴스 미국 부통령과 정부 관계자, 국가디자인스튜디오를 이끄는 조 게비아 에어비앤비 공동창업자도 참석 명단에 포함됐다. 미국 정부는 새 웹사이트에 AI를 활용해",
+          "published": "2026-09-27T01:59:45+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 10,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "테슬라, 전기트럭 ‘세미’ 인도 시작…자율주행 도입 예고",
+          "link": "https://zdnet.co.kr/view/?no=20260927102706",
+          "summary": "[지디넷코리아]테슬라가 대형 전기 트럭 모델 ‘세미’ 인도를 시작한다. 앞서 도입을 예고했던 자율주행 기능도 탑재를 준비 중이라고 재차 언급했다.CNBC 등 외신에 따르면 테슬라는 미국 네바다주 스파크스 공장에서 지난 24일 행사를 열고 이번 주 고객군에 세미를 인도하기 시작했다고 밝혔다.테슬라가 세미를 처음 공개한 건 2017년이다. 2019년 양산을 목표로 했지만 일정이 계속 지연되면서 2022년 말 소량을 생산했고, 지난 4월에서야 양산을 시작했다. 네바다 공장은 세미 연 5만대 생산이 가능하다. 테슬라는 점차 생산량을 늘릴 계획이다.테슬라에 따르면 세미는 총 중량 포함 화물 37톤을 적재할 수 있도록 설계됐다. 화물을 적재한 상태로 1회 충전 시 최대 주행거리는 스탠다드레인지 기준 523km, 롱레인지는 805km라고 밝혔다. 테슬라 전용 충전기 ‘메가차저’ 이용 시 30분 내 배터리 용량의 60%를 충전할 수 있다고도 소개했다.일론 머스크 테슬라 최고경영자(CEO)는 행사에",
+          "published": "2026-09-27T02:54:33+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 8,
       "articles": [
         {
-          "title": "OpenAI Sandbox Failure Allows AI Agent to Gain Internet Access",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-26/another-openai-sandbox-failed-ai-agent-gained-internet-access",
-          "summary": "OpenAI said another agentic AI system that was being trained in what was supposed to be a secured, internet-free environment was able to gain access to the web to reach an external, third-party chatbot.",
-          "published": "2026-09-26T04:29:43+00:00",
+          "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
+          "summary": "The heads of artificial intelligence firms OpenAI and Anthropic PBC have been called on to appear before an Australian Senate inquiry to answer questions after the recent revelation of a hack of a government website.",
+          "published": "2026-09-27T11:17:56+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 3,
             "recency": 1,
             "event_bonus": 0,
@@ -53,102 +77,145 @@
           "event_labels": []
         },
         {
-          "title": "메타 다음은 틱톡…美앨라배마주와 아동안전 소송 합의종결",
-          "link": "https://zdnet.co.kr/view/?no=20260926091432",
-          "summary": "[지디넷코리아]틱톡이 최대 3억 달러(약 4077억원)를 지급하고 새로운 이용자 보호조치를 도입하는 조건으로 미국 앨라배마주 정부가 제기한 아동안전 관련 소송을 합의 종결했다.25일(현지시간) 블룸버그 등 외신은 스티브 마셜 앨라배마주 법무장관을 인용해 이처럼 보도했다. 이번 합의로 미국 여러 주가 틱톡을 상대로 제기한 소송 중 처음으로 법정에서 심리가 열릴 예정이었던 앨라배마주 재판은 열리지 않게 됐다.틱톡과 앨라배마주 사이 합의는 앞서 메타가 미국 대다수의 주와 소송을 해결하기 위해 대규모 합의를 체결한 지 한 달 만에 나왔다. 메타는 최대 180억 달러(약 24조 4620억원)를 지급하고 안전조치를 강화하기로 합의한 바 있다. 스티브 마셜 앨라배마주 법무장관은 성명에서 \"오늘은 앨라배마 부모들에게 매우 뜻깊은 날\"이라며 \"사회관계망서비스(SNS) 중독의 위험으로부터 자녀를 보호하기 위한 실질적인 보호 조치가 마련됐다는 사실에 오늘 밤 부모들이 보다 안심할 수 있을 것\"이라고 말",
-          "published": "2026-09-26T02:00:03+00:00",
+          "title": "Anthropic CEO Amodei to Meet Trump as AI Safety Fears Rise",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
+          "summary": "Anthropic PBC Chief Executive Officer Dario Amodei is set to have dinner with President Donald Trump on Sunday night, with the meeting bringing together two men at opposite ends of the artificial intelligence safety debate.",
+          "published": "2026-09-27T18:48:09+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Meta’s VR Glasses Are Exactly What the Apple Vision Pro Should Have Been",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6",
+          "summary": "Apple weighs what to do next with its headset.",
+          "published": "2026-09-27T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
+          "summary": "Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a high-stakes meeting between Anthropic PBC Chief Executive Officer Dario Amodei and President Donald Trump.",
+          "published": "2026-09-27T23:27:32+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "빌 게이츠 \"AI 악용하면 10억명 죽을 수도\"…규제 강화 촉구",
+          "link": "https://zdnet.co.kr/view/?no=20260927100103",
+          "summary": "[지디넷코리아]빌 게이츠 마이크로소프트(MS) 공동 창업자가 인공지능(AI)이 악의적인 세력에 의해 악용될 경우 대규모 인명 피해를 일으킬 수 있다며 정부 차원의 규제와 감시 체계 강화를 촉구했다. AI의 오·남용 위험이 현실적인 보안 문제로 부상하면서 기업의 자율규제만으로는 충분하지 않다는 것이다.27일 업계에 따르면 게이츠는 25일(현지시간) 일부 공개된 NBC와의 인터뷰에서 \"AI는 10억명의 사망을 초래하는 사건을 촉발할 만큼 분명히 강력하다\"고 경고했다. 그러면서 \"악의를 가진 사람들이 최신 AI 도구를 결합해 사용하는 것만큼 강력한 무기는 지금까지 없었다\"고 지적했다.게이츠는 미국 연방정부가 AI 발전에 대한 안전장치와 감시 체계를 마련하는 법안을 통과시켜야 한다고 주장했다. 관련 입법이 AI 업계에 일정한 부담을 줄 수 있지만 개발 자체를 크게 늦추지는 않을 것이라며 자율규제만으로 충분하다고 생각하는 사람은 없다고 강조했다.최근 AI 악용 사례도 잇따르고 있다. 오픈AI",
+          "published": "2026-09-27T01:27:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 1,
-            "event_bonus": 3,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
           "event_labels": [
+            "earnings",
             "regulation"
           ]
         },
         {
-          "title": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mSEZOY0d2ZjRhai11amRrZWZmMnhPbWt3alJVYXFTSllHaWtweEU3QkpsNEY1d1ZCNXUwZjVWWnoyOENxb2xQZFlEWTBReWtPU3IweGxvYVlpeDBkTFNQWFlCU2V1d1I2aUE?oc=5",
-          "summary": "메타, AI 에이전트 '뮤즈' 보안 취약점 발견…안전 경고 강화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-26T04:47:00+00:00",
+          "title": "China May Let Alibaba Buy New Nvidia Chips, The Information Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
+          "summary": "The Chinese government has signaled it may allow companies such as Alibaba Group Holding Ltd. and ByteDance Ltd to purchase Nvidia Corp.’s new RTX Pro 5500 chips, The Information reported, citing people familiar with the matter.",
+          "published": "2026-09-27T15:44:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "디인포메이션 \"中, 엔비디아 신형칩 구매 허용 방침\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZlJOSElDdmhfdDcxSTk4S25ZdmZ0N2hiQTFZQnBsTXQteUl6dEt3TzlGT0ttRmx0dEQzLVhzWEpDUWJZRGtOY0ZSVlhXUjQxSFE?oc=5",
+          "summary": "디인포메이션 \"中, 엔비디아 신형칩 구매 허용 방침\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-09-27T21:54:50+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WjNEZWZDWlNzMmdIZU9ESWV1cnBtZDhJdFFFdWJnTTcwM25objdIZHFBY0Z1TldyT3JNQW5pQm05RTNlbU1HaG12ejBNOS1XRjJZNnp4SEJxcTkxMmNzMTRIei1MQzRIYUE?oc=5",
+          "summary": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-27T22:59:28+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YMVcyMTJJdlN6cEcwY1lVSzlLQW5MeXFCRGJXYWF4Z1Fkb09waFBQZlI4TVk1ZEdqeWwtOEFYWWtXX1Q3emZPNm9vUW40T2xBaU40VXpfR0JYN2VTTWFCdFhRcFBpcUFJTWc?oc=5",
-          "summary": "구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-26T05:29:50+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, AI 에이전트 뮤즈 신기능 체험자 모집…신청도 AI에게",
-          "link": "https://zdnet.co.kr/view/?no=20260926093516",
-          "summary": "[지디넷코리아]메타가 인공지능(AI) 에이전트 '뮤즈'의 새 기능을 먼저 써볼 이용자를 모집한다. 뮤즈에게 참여 의사만 말하면 신청된다. 메타는 25일(현지시간) 뮤즈 공식 엑스(X) 계정을 통해 신기능 얼리 액세스 프로그램 참여 신청을 받기 시작했다. 메타는 이번 주 열린 개발자 행사 '커넥트 2026'에서 뮤즈에 추가할 여러 기능을 공개했다. 신청 방식도 뮤즈를 활용한다. 이용자가 \"얼리 액세스 프로그램에 참여하고 싶다고 뮤즈팀에 알려줄 수 있니\"라고 입력하면 참여 의사가 메타에 전달된다. 메타는 엑스에 해당 문구를 뮤즈로 바로 보낼 수 있는 링크도 공개했다.메타가 커넥트에서 예고한 기능 가운데 하나는 뮤즈의 디지털 아바타다. 이용자가 자신만의 뮤즈 아바타를 만들고 실시간 영상으로 대화할 수 있도록 지원한다. 실시간 영상과 음성을 처리하는 AI 모델 '뮤즈 리얼타임 아바타'도 개발했다.PC에서 직접 작업을 수행하는 기능도 확대한다. 메타는 뮤즈 맥 앱에서 이용자가 작업을 맡기면 ",
-          "published": "2026-09-26T02:00:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[안광섭 AI 진테제] 메타 '뮤즈'가 한국기업에 시사하는 것",
-          "link": "https://zdnet.co.kr/view/?no=20260926142303",
-          "summary": "[지디넷코리아]미국 빅테크기업 메타가 지난 8일 발표한 개인 AI에이전트 '뮤즈(Muse)'가 국내외서 화제다. AI 에이전트는 질문에 답만 하는 챗봇과 달리, 사용자를 대신해 메일을 보내고 예약을 하고 물건을 사는 등 실제 작업을 수행하는 AI를 말한다. 뮤즈는 현재 미국과 캐나다에서만 쓸 수 있다. 필자도 미국에 있으며 이번 추석 연휴 기간에 '뮤즈'를 직접 써 봤다.앱을 열자 뮤즈는 먼저 자기 이름을 지어 달라고 했다. 이어서 원래 쓰던 AI 도구에 자기가 알려 주는 문구를 붙여 넣고, 거기서 나온 답을 다시 뮤즈에 입력하라고 했다. 다른 AI가 그동안 필자에 대해 기억해 둔 내용을 뮤즈로 옮겨 오라는 뜻이다.지금까지 나온 에이전트 서비스는 제대로 쓰기까지 배워야 할 것이 많았다. AI에게 지시하는 문장인 프롬프트를 다듬어야 했다. AI가 작업하는 환경을 설정하는 하네스를 짜고, 특정 업무 요령을 담은 스킬과 기능을 확장하는 플러그인을 설치하고, 깃허브(GitHub) 같은 개발",
-          "published": "2026-09-26T05:23:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -158,55 +225,13 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "[기자수첩] 미국은 입법 막히자 '우회로'…한국은 기본법도 감감무소식",
-          "link": "https://zdnet.co.kr/view/?no=20260923103709",
-          "summary": "[지디넷코리아]추석 전에는 모습을 드러낼 것으로 기대됐던 디지털자산기본법 당정 통합안이 아직 감감무소식이다. 유동수 국회 정무위원장은 지난달 디지털자산기본법 당정 통합안을 9월 중 발의하겠다는 계획을 밝혔다. 이후 추석 전 발의 가능성까지 거론됐지만, 이달 초까지도 정부안이 국회에 전달되지 않았다. 유 위원장은 당시 \"아직 정부안이 안 왔다\"며 금융위원회 안이 먼저 와야 한다는 취지로 설명했다.금융위 역시 손을 놓고 있었던 것은 아니다. 지난 3월 가상자산위원회에서 디지털자산기본법 정부 검토안을 논의했고, 이후에도 정부안 마련을 위한 논의를 하고 있다고 밝혔다. 연내 입법 추진 방침도 유지하고 있다. 문제는 시간이 흐르는 동안 시장이 확인할 수 있는 구체적인 결과물이 좀처럼 나오지 않고 있다는 점이다. 원화 스테이블코인 발행 주체부터 가상자산 거래소 대주주 지분 제한까지 굵직한 쟁점이 계속 거론되고 있지만 정작 정부안은 아직 공개되지 않았다. 미국도 사정이 순탄한 것만은 아니다. 가",
-          "published": "2026-09-26T01:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "가나 코코아 가격 인상...공급차질 장기화 가능성↑",
-          "link": "https://zdnet.co.kr/view/?no=20260926141101",
-          "summary": "[지디넷코리아]가나 정부의 코코아 매입가 인상으로 또 다른 코코아 주요 생산국 코트디부아르와 가격차가 벌어졌다. 코코아 원두 밀수 가능성, 이에 따른 코코아 시장 공급 차질 장기화 가능성이 동시에 커졌다. 코트디부아르와 가나는 전 세계 코코아 공급량 절반 이상을 차지한다. 24일(현지시간) 블룸버그 등 외신에 따르면 가나 정부는 코코아 선물 가격이 반등하자 2026~2027년 시즌 농가에 지급하는 코코아 매입 가격을 인상했다. 이달 초 매입 가격을 동결한 코트디부아르와 다른 행보다. 양국 매입가 격차가 벌어지면서 세계 최대 코코아 생산국 코트디부아르 농가가 보다 높은 소득을 얻기 위해 코코아 원두를 인근 국가로 밀수할 가능성이 커졌다. 이는 국제 시장으로 유입되는 코코아 공급에 차질을 줘 가격 상승세 지속 요인이 될 수 있다.가나 카카오 농가는 오는 2일 시작되는 새 수확 시즌부터 정부로부터 톤당 4만 2400세디(약 498만원)를 받는다. 이는 지난 2월부터 지급된 톤당 4만 13",
-          "published": "2026-09-26T09:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
