@@ -1,54 +1,70 @@
 {
-  "generated_at": "2026-09-27T23:42:26.767395+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-09-29T00:52:24.335073+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "트럼프, 젠슨황·머스크 앞에서 美 AI 통합정부 사이트 공개",
-          "link": "https://zdnet.co.kr/view/?no=20260927104834",
-          "summary": "[지디넷코리아]도널드 트럼프 미국 대통령이 빅테크·인공지능(AI) 기업 인사들이 모인 자리에서 연방정부 정보와 서비스를 통합한 새 웹사이트를 공개한다. 정부 서비스에 AI를 접목해 연방정부 정보 접근성을 높이겠다는 구상이다.27일(현지시간) 블룸버그 통신에 따르면 트럼프 대통령은 오는 29일 테크·AI 업계 주요 인사들과 함께 트럼프 정부의 새 웹사이트 '아메리카.거브(America.gov)' 공개 행사를 개최할 예정이다.아메리카.거브는 여러 연방기관에 흩어진 정보와 자원을 한곳에서 이용할 수 있도록 설계된 사이트다. 행사에서는 AI·에너지·보건·우주·농업 등을 주제로 한 패널 토론도 진행된다.행사에는 젠슨 황 엔비디아 최고경영자(CEO), 일론 머스크 테슬라 CEO, 톰 브라운 앤트로픽 공동창업자 등이 참석할 예정이다. JD 밴스 미국 부통령과 정부 관계자, 국가디자인스튜디오를 이끄는 조 게비아 에어비앤비 공동창업자도 참석 명단에 포함됐다. 미국 정부는 새 웹사이트에 AI를 활용해",
-          "published": "2026-09-27T01:59:45+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "“우주ETF, 이제 화성 가나요”…스페이스X·구글 대형이벤트에 기대감 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IakgwNHBuNGd4RUlhMnVsUlBwT3NNcDRZYzl1b1NqajJaOWVyRnZ5d3JGeE1nQzJRcmxTQnR1STRHbEd4SjBibnprQ19xMENDYXc?oc=5",
+          "summary": "“우주ETF, 이제 화성 가나요”…스페이스X·구글 대형이벤트에 기대감 &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-28T20:59:33+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "테슬라, 전기트럭 ‘세미’ 인도 시작…자율주행 도입 예고",
-          "link": "https://zdnet.co.kr/view/?no=20260927102706",
-          "summary": "[지디넷코리아]테슬라가 대형 전기 트럭 모델 ‘세미’ 인도를 시작한다. 앞서 도입을 예고했던 자율주행 기능도 탑재를 준비 중이라고 재차 언급했다.CNBC 등 외신에 따르면 테슬라는 미국 네바다주 스파크스 공장에서 지난 24일 행사를 열고 이번 주 고객군에 세미를 인도하기 시작했다고 밝혔다.테슬라가 세미를 처음 공개한 건 2017년이다. 2019년 양산을 목표로 했지만 일정이 계속 지연되면서 2022년 말 소량을 생산했고, 지난 4월에서야 양산을 시작했다. 네바다 공장은 세미 연 5만대 생산이 가능하다. 테슬라는 점차 생산량을 늘릴 계획이다.테슬라에 따르면 세미는 총 중량 포함 화물 37톤을 적재할 수 있도록 설계됐다. 화물을 적재한 상태로 1회 충전 시 최대 주행거리는 스탠다드레인지 기준 523km, 롱레인지는 805km라고 밝혔다. 테슬라 전용 충전기 ‘메가차저’ 이용 시 30분 내 배터리 용량의 60%를 충전할 수 있다고도 소개했다.일론 머스크 테슬라 최고경영자(CEO)는 행사에",
-          "published": "2026-09-27T02:54:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2SWliSV95bUtfUF83SkZ3RzN5TTZBYVlyOTB1djR6RG5lRlRRUHpaVzM0Qk9tYm1RV2x5ZkV3bmI4bU1WbkwyaFBEQ1lvTWIxM0E?oc=5",
+          "summary": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-09-28T21:25:34+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
+        },
+        {
+          "title": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWnFOc0JLV1loN2pqSnZCZUJBeEdCUUtjd2hnbkxsS2Z0SGNTb3NZaUI1OEQ0eU4zZXkyMGsxSnpJbkI0MTFlbGktckxSWURNSnc?oc=5",
+          "summary": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 &nbsp;&nbsp; 매일경제",
+          "published": "2026-09-28T21:25:34+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
@@ -57,10 +73,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "Australia Senate Requests OpenAI, Anthropic CEOs Face AI Inquiry",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-27/australia-senate-requests-openai-anthropic-ceos-face-ai-inquiry",
-          "summary": "The heads of artificial intelligence firms OpenAI and Anthropic PBC have been called on to appear before an Australian Senate inquiry to answer questions after the recent revelation of a hack of a government website.",
-          "published": "2026-09-27T11:17:56+00:00",
+          "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, Anthropic PBC head Dario Amodei and Palantir Technologies Inc. CEO Alex Karp are slated to attend a lunch with US President Donald Trump to discuss artificial intelligence risks.",
+          "published": "2026-09-29T00:36:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 18,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Nvidia Debuts System Meant to Stop AI Agents From Going Awry",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
+          "summary": "Nvidia Corp. introduced a new double-layered artificial intelligence security system that it says would have prevented the recent high-profile breach of Hugging Face by OpenAI’s AI models.",
+          "published": "2026-09-28T09:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -77,10 +115,10 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic CEO Amodei to Meet Trump as AI Safety Fears Rise",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-27/anthropic-s-amodei-to-meet-trump-with-ai-safety-concerns-rising",
-          "summary": "Anthropic PBC Chief Executive Officer Dario Amodei is set to have dinner with President Donald Trump on Sunday night, with the meeting bringing together two men at opposite ends of the artificial intelligence safety debate.",
-          "published": "2026-09-27T18:48:09+00:00",
+          "title": "OpenAI, Meta Expected to Attend AI Hearing, NYC Council Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/nyc-council-says-openai-meta-officials-to-attend-ai-hearing",
+          "summary": "Executives from major artificial intelligence companies are expected to appear before New York City lawmakers next week, amid growing concern about a lack of guardrails around the technology.",
+          "published": "2026-09-28T16:00:47+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -88,50 +126,70 @@
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
+          "summary": "OpenAI is holding back a version of its Astra artificial intelligence model after the software failed to perform as well on safety evaluations as the current iteration.",
+          "published": "2026-09-28T22:24:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Who’s liable when AI agents go rogue?",
+          "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
+          "published": "2026-09-28T08:06:22+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "Meta’s VR Glasses Are Exactly What the Apple Vision Pro Should Have Been",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-09-27/meta-s-vr-glasses-are-exactly-what-the-apple-vision-pro-should-have-been-mujvy8q6",
-          "summary": "Apple weighs what to do next with its headset.",
-          "published": "2026-09-27T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "\"AI 투자하고도 현금 남아\"…엔비디아 자사주 매입이 보낸 신호 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsREl0WjJubk5rR1d6WnY0Qlh3QTcyYk51R002SmJLSGY3VFU1WnF1bmdiZWpjRTAxZ194WnNEWkhOTzBaanlGQk95RW5idGRNbmxZcUZWTTgtNWFubGN5RmlKVXJ0SUZnMTE0ZmFiVjE?oc=5",
+          "summary": "\"AI 투자하고도 현금 남아\"…엔비디아 자사주 매입이 보낸 신호 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-29T00:08:51+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "AI Breaches Add to Safety Fears as Trump Meets Anthropic Chief",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-27/ai-breaches-add-to-safety-fears-as-trump-meets-anthropic-chief",
-          "summary": "Global anxiety over artificial intelligence risks has intensified following fresh disclosures about a far wider range of breaches by advanced AI models, setting the stage for a high-stakes meeting between Anthropic PBC Chief Executive Officer Dario Amodei and President Donald Trump.",
-          "published": "2026-09-27T23:27:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -139,42 +197,19 @@
           "event_labels": []
         },
         {
-          "title": "빌 게이츠 \"AI 악용하면 10억명 죽을 수도\"…규제 강화 촉구",
-          "link": "https://zdnet.co.kr/view/?no=20260927100103",
-          "summary": "[지디넷코리아]빌 게이츠 마이크로소프트(MS) 공동 창업자가 인공지능(AI)이 악의적인 세력에 의해 악용될 경우 대규모 인명 피해를 일으킬 수 있다며 정부 차원의 규제와 감시 체계 강화를 촉구했다. AI의 오·남용 위험이 현실적인 보안 문제로 부상하면서 기업의 자율규제만으로는 충분하지 않다는 것이다.27일 업계에 따르면 게이츠는 25일(현지시간) 일부 공개된 NBC와의 인터뷰에서 \"AI는 10억명의 사망을 초래하는 사건을 촉발할 만큼 분명히 강력하다\"고 경고했다. 그러면서 \"악의를 가진 사람들이 최신 AI 도구를 결합해 사용하는 것만큼 강력한 무기는 지금까지 없었다\"고 지적했다.게이츠는 미국 연방정부가 AI 발전에 대한 안전장치와 감시 체계를 마련하는 법안을 통과시켜야 한다고 주장했다. 관련 입법이 AI 업계에 일정한 부담을 줄 수 있지만 개발 자체를 크게 늦추지는 않을 것이라며 자율규제만으로 충분하다고 생각하는 사람은 없다고 강조했다.최근 AI 악용 사례도 잇따르고 있다. 오픈AI",
-          "published": "2026-09-27T01:27:41+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "When can we say AI made a scientific discovery?",
+          "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
+          "published": "2026-09-28T17:03:16+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "regulation"
-          ]
-        },
-        {
-          "title": "China May Let Alibaba Buy New Nvidia Chips, The Information Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
-          "summary": "The Chinese government has signaled it may allow companies such as Alibaba Group Holding Ltd. and ByteDance Ltd to purchase Nvidia Corp.’s new RTX Pro 5500 chips, The Information reported, citing people familiar with the matter.",
-          "published": "2026-09-27T15:44:39+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -182,40 +217,20 @@
           "event_labels": []
         },
         {
-          "title": "디인포메이션 \"中, 엔비디아 신형칩 구매 허용 방침\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfZlJOSElDdmhfdDcxSTk4S25ZdmZ0N2hiQTFZQnBsTXQteUl6dEt3TzlGT0ttRmx0dEQzLVhzWEpDUWJZRGtOY0ZSVlhXUjQxSFE?oc=5",
-          "summary": "디인포메이션 \"中, 엔비디아 신형칩 구매 허용 방침\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-09-27T21:54:50+00:00",
+          "title": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SMktFc1pNclJuNFBTQWdGS2VlUDVhUTFXOEhwNVFVNGdvNUhJdXc5QlZ2Vm1VRjFyTzVoNzc0R1k5MUpYMFFiRDQwOTljVmh2U3c?oc=5",
+          "summary": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-09-28T18:10:15+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5WjNEZWZDWlNzMmdIZU9ESWV1cnBtZDhJdFFFdWJnTTcwM25objdIZHFBY0Z1TldyT3JNQW5pQm05RTNlbU1HaG12ejBNOS1XRjJZNnp4SEJxcTkxMmNzMTRIei1MQzRIYUE?oc=5",
-          "summary": "\"제브보다 9배 빠르다\"...스탠퍼드·엔비디아, 'CLM-8B'로 맞불 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-27T22:59:28+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -230,8 +245,29 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSmFhN3YweFVIbWNrRWxwUURsWnl6TDJJcFZQZFBPT2szZ2VVam5lTFE1MFd3U0FGTWxlYWNHS2ozdFFEWk8zWldyQVNEaXZ4eHl2UVFtV25NQjloNTRwRlZXMU1JaVJfM2c?oc=5",
+          "summary": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-28T03:55:48+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
