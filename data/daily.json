@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-09-29T00:52:24.335073+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-09-30T00:09:19.296066+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "“우주ETF, 이제 화성 가나요”…스페이스X·구글 대형이벤트에 기대감 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IakgwNHBuNGd4RUlhMnVsUlBwT3NNcDRZYzl1b1NqajJaOWVyRnZ5d3JGeE1nQzJRcmxTQnR1STRHbEd4SjBibnprQ19xMENDYXc?oc=5",
-          "summary": "“우주ETF, 이제 화성 가나요”…스페이스X·구글 대형이벤트에 기대감 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-28T20:59:33+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
+          "summary": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
+          "published": "2026-09-29T21:19:19+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -27,40 +27,20 @@
           "event_labels": []
         },
         {
-          "title": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2SWliSV95bUtfUF83SkZ3RzN5TTZBYVlyOTB1djR6RG5lRlRRUHpaVzM0Qk9tYm1RV2x5ZkV3bmI4bU1WbkwyaFBEQ1lvTWIxM0E?oc=5",
-          "summary": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-09-28T21:25:34+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "번스타인, 스페이스X '아웃퍼폼' 유지…목표가 248달러 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1THFqcEQ1N1NueVpqYzF1MWVubkJaYVZVbVdNVENWYkRDcmZQT2dmVHlyU21CUG95eGU0cUFrTlNoT3NsVER5YlBJelBzQnNQWmM5V0c4MndaX1d4emxrYzcyYWQyMXNVa0VRQmk0WlPSAXRBVV95cUxNaGJVSVZRMURQbEROYk9mczc0UlZUMzFJZnZIQVVOMkwwMS10OEZQbUh0eDc0d0N3ckVZNW95TEtybUFOM1V5RnRfRDJPNExZX1BOUE1rTG1oc2J3eFlGN2c3Y1Vid0NlMmJhZFM3VlJNbjU5Wg?oc=5",
+          "summary": "번스타인, 스페이스X '아웃퍼폼' 유지…목표가 248달러 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-29T01:11:06+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWnFOc0JLV1loN2pqSnZCZUJBeEdCUUtjd2hnbkxsS2Z0SGNTb3NZaUI1OEQ0eU4zZXkyMGsxSnpJbkI0MTFlbGktckxSWURNSnc?oc=5",
-          "summary": "레버리지ETF랑 스페이스X에 속이 ‘부글부글’ …금융투자 민원 86% 급증 &nbsp;&nbsp; 매일경제",
-          "published": "2026-09-28T21:25:34+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -73,52 +53,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia, Anthropic CEOs to Attend Trump-Johnson Lunch on AI Risks",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-29/nvidia-anthropic-ceos-to-attend-trump-johnson-lunch-on-ai-risks",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, Anthropic PBC head Dario Amodei and Palantir Technologies Inc. CEO Alex Karp are slated to attend a lunch with US President Donald Trump to discuss artificial intelligence risks.",
-          "published": "2026-09-29T00:36:14+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 18,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Nvidia Debuts System Meant to Stop AI Agents From Going Awry",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-28/nvidia-debuts-system-designed-to-stop-ai-agents-from-going-awry",
-          "summary": "Nvidia Corp. introduced a new double-layered artificial intelligence security system that it says would have prevented the recent high-profile breach of Hugging Face by OpenAI’s AI models.",
-          "published": "2026-09-28T09:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "OpenAI, Meta Expected to Attend AI Hearing, NYC Council Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-28/nyc-council-says-openai-meta-officials-to-attend-ai-hearing",
-          "summary": "Executives from major artificial intelligence companies are expected to appear before New York City lawmakers next week, amid growing concern about a lack of guardrails around the technology.",
-          "published": "2026-09-28T16:00:47+00:00",
+          "title": "Altman Says OpenAI Investors Patient on IPO Amid Safety Focus",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-29/altman-openai-investors-are-patient-on-ipo-amid-safety-focus",
+          "summary": "OpenAI’s Chief Executive Officer Sam Altman said the company wants to navigate a period of heightened artificial intelligence safety concerns without the pressure of being a newly public company and believes investors will be “patient” with its IPO planning.",
+          "published": "2026-09-29T19:43:02+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -126,19 +64,87 @@
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "OpenAI Scraps Debut of Latest Astra Model Over Safety Risks",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-28/openai-scrapped-latest-model-release-over-safety-fears-wsj-says",
-          "summary": "OpenAI is holding back a version of its Astra artificial intelligence model after the software failed to perform as well on safety evaluations as the current iteration.",
-          "published": "2026-09-28T22:24:43+00:00",
+          "title": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
+          "summary": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for an initial public offering.",
+          "published": "2026-09-29T17:35:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "AMD, 페이페이 리의 월드랩스 11조 인수…'월드 모델'로 엔비디아 추격 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoVTNYZmtzZFZzZTN3Z3NjMG1IazF4YXQzVVl1MW11MnRjZklneDMyVWt2c2RfblZtVDVZYTZ3c09VVC1lM0RIRTRKMXdPeFg4aGk4VmJ1SWlmWVhBRWlVQUVnYUx4NWM0VUE?oc=5",
+          "summary": "AMD, 페이페이 리의 월드랩스 11조 인수…'월드 모델'로 엔비디아 추격 &nbsp;&nbsp; AI타임스",
+          "published": "2026-09-29T02:40:46+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
+          "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
+          "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia. The acquisition, expected to close by the end of this year, would integrate World Labs’ research team and spatial-intelligence model expertise into AMD, according to an announcement on Monday. Li, a Stanford University professor",
+          "published": "2026-09-29T04:30:18+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Anthropic Flags ‘Catastrophic’ Risks in IPO Filing: Reuters",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters",
+          "summary": "Anthropic PBC warned that its technology poses “catastrophic or existential risks to humanity” and mapped out plans to spend hundreds of billions of dollars in its prospectus as the artificial intelligence company prepared for its initial public offering, Reuters reported.",
+          "published": "2026-09-29T08:11:29+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -148,26 +154,6 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Who’s liable when AI agents go rogue?",
-          "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents&#8230;",
-          "published": "2026-09-28T08:06:22+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -177,60 +163,64 @@
           ]
         },
         {
-          "title": "\"AI 투자하고도 현금 남아\"…엔비디아 자사주 매입이 보낸 신호 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsREl0WjJubk5rR1d6WnY0Qlh3QTcyYk51R002SmJLSGY3VFU1WnF1bmdiZWpjRTAxZ194WnNEWkhOTzBaanlGQk95RW5idGRNbmxZcUZWTTgtNWFubGN5RmlKVXJ0SUZnMTE0ZmFiVjE?oc=5",
-          "summary": "\"AI 투자하고도 현금 남아\"…엔비디아 자사주 매입이 보낸 신호 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-29T00:08:51+00:00",
+          "title": "\"메타 AI글래스 쓰고 네이버지도 길안내 받으세요\"",
+          "link": "https://zdnet.co.kr/view/?no=20260929184525",
+          "summary": "[지디넷코리아]스마트폰 화면을 들여다보지 않고 안경을 쓴 채 네이버지도의 길안내를 받을 수 있게 될 전망이다. 메타와 네이버가 인공지능(AI) 글래스에 네이버지도 도보 길안내를 연동하기로 하고 연내 서비스 도입을 추진한다.메타는 네이버와 협력해 AI 글래스 '레이밴 메타(Ray-Ban Meta)'와 '오클리 메타(Oakley Meta)'에 네이버지도 기반 도보 길안내 기능을 연동할 계획이라고 29일 밝혔다. 네이버는 메타가 AI 글래스 분야에서 협력하는 첫 국내 기업이다.이번 협력은 네이버가 지난 6월 선보인 실시간 도보 길안내를 메타의 AI 글래스에서 이용할 수 있도록 하는 것이 핵심이다. 해당 기능은 이용자가 걸어서 이동할 때 자동차 내비게이션처럼 음성으로 경로를 안내한다.서비스가 도입되면 이용자는 네이버지도 앱과 AI 글래스를 연결해 길안내를 받을 수 있다. 이동 방향뿐 아니라 진입로와 시설물, 계단·에스컬레이터 이용 여부 등 목적지까지 필요한 정보를 안경에 탑재된 오픈이어 스",
+          "published": "2026-09-29T09:46:44+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Nvidia and AMD chiefs join Tsinghua advisory board as US-China chip tensions persist",
+          "link": "https://www.scmp.com/tech/big-tech/article/3369237/nvidia-and-amd-chiefs-join-tsinghua-advisory-board-us-china-chip-tensions-persist?utm_source=rss_feed",
+          "summary": "Nvidia founder and CEO Jensen Huang and AMD chief Lisa Su have joined an influential advisory board at a prestigious Chinese university, placing the two key American AI tech leaders in a high-level forum known for connecting global executives with senior Chinese officials. Huang and Su were among three new members appointed to the advisory board of Tsinghua University’s School of Economics and Management (SEM), alongside Marc Pictet, senior managing partner of Swiss wealth and assets manager...",
+          "published": "2026-09-29T13:35:01+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황 \"엔비디아 주식 상당히 저렴…계속 보유하고 더 사라\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmZWMxemFTUlJGUWtMSjFMX3RzTXd1ZUV0YW80VHZxd0tDd05nQVNSV2xBV1F5MDZVMzRZVzNnalV5YnRRQkNERkRzdURlNGpGQU9KZk5ubldDaU1lQmZvdEQzWWZzS2hHOVlKNld5cEU?oc=5",
+          "summary": "젠슨 황 \"엔비디아 주식 상당히 저렴…계속 보유하고 더 사라\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-29T03:10:24+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "When can we say AI made a scientific discovery?",
-          "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what&#8230;",
-          "published": "2026-09-28T17:03:16+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9SMktFc1pNclJuNFBTQWdGS2VlUDVhUTFXOEhwNVFVNGdvNUhJdXc5QlZ2Vm1VRjFyTzVoNzc0R1k5MUpYMFFiRDQwOTljVmh2U3c?oc=5",
-          "summary": "\"AI 돌발행동 막는다\"…엔비디아, 개방형 안전플랫폼 공개 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-09-28T18:10:15+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -240,34 +230,34 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZSmFhN3YweFVIbWNrRWxwUURsWnl6TDJJcFZQZFBPT2szZ2VVam5lTFE1MFd3U0FGTWxlYWNHS2ozdFFEWk8zWldyQVNEaXZ4eHl2UVFtV25NQjloNTRwRlZXMU1JaVJfM2c?oc=5",
-          "summary": "카카오, CA협의체 공동 의장에 김도영 카카오X 대표 내정자 확정 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-28T03:55:48+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "The AI boom meets a new kind of crypto scam",
+          "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
+          "summary": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
+          "published": "2026-09-29T16:05:58+00:00",
+          "source_key": "economist_finance",
+          "source_name": "The Economist - Finance",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
