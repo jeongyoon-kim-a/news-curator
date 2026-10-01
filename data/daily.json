@@ -1,84 +1,21 @@
 {
-  "generated_at": "2026-09-30T00:09:19.296066+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-10-01T00:25:11.349400+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Tesla Lines Up $30 Billion to Borrow With Spending on the Rise",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-29/tesla-lines-up-30-billion-to-borrow-with-spending-on-the-rise",
-          "summary": "Tesla Inc. has lined up $30 billion of new loans and credit lines, as the electric-car maker dials up investments in artificial intelligence and robotics.",
-          "published": "2026-09-29T21:19:19+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "번스타인, 스페이스X '아웃퍼폼' 유지…목표가 248달러 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1THFqcEQ1N1NueVpqYzF1MWVubkJaYVZVbVdNVENWYkRDcmZQT2dmVHlyU21CUG95eGU0cUFrTlNoT3NsVER5YlBJelBzQnNQWmM5V0c4MndaX1d4emxrYzcyYWQyMXNVa0VRQmk0WlPSAXRBVV95cUxNaGJVSVZRMURQbEROYk9mczc0UlZUMzFJZnZIQVVOMkwwMS10OEZQbUh0eDc0d0N3ckVZNW95TEtybUFOM1V5RnRfRDJPNExZX1BOUE1rTG1oc2J3eFlGN2c3Y1Vid0NlMmJhZFM3VlJNbjU5Wg?oc=5",
-          "summary": "번스타인, 스페이스X '아웃퍼폼' 유지…목표가 248달러 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-29T01:11:06+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Altman Says OpenAI Investors Patient on IPO Amid Safety Focus",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-29/altman-openai-investors-are-patient-on-ipo-amid-safety-focus",
-          "summary": "OpenAI’s Chief Executive Officer Sam Altman said the company wants to navigate a period of heightened artificial intelligence safety concerns without the pressure of being a newly public company and believes investors will be “patient” with its IPO planning.",
-          "published": "2026-09-29T19:43:02+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "OpenAI Targets $30 Billion in Funding at $1.4 Trillion Value",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-29/openai-targets-30-billion-in-new-funding-at-1-4-trillion-value",
-          "summary": "OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter, after the artificial intelligence startup pushed back its plans for an initial public offering.",
-          "published": "2026-09-29T17:35:13+00:00",
+          "title": "Google Grapples With Employee Skepticism About New Gemini 4",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model",
+          "summary": "Alphabet Inc.’s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in key areas, such as coding.",
+          "published": "2026-09-30T19:52:42+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -86,74 +23,110 @@
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "AMD, 페이페이 리의 월드랩스 11조 인수…'월드 모델'로 엔비디아 추격 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoVTNYZmtzZFZzZTN3Z3NjMG1IazF4YXQzVVl1MW11MnRjZklneDMyVWt2c2RfblZtVDVZYTZ3c09VVC1lM0RIRTRKMXdPeFg4aGk4VmJ1SWlmWVhBRWlVQUVnYUx4NWM0VUE?oc=5",
-          "summary": "AMD, 페이페이 리의 월드랩스 11조 인수…'월드 모델'로 엔비디아 추격 &nbsp;&nbsp; AI타임스",
-          "published": "2026-09-29T02:40:46+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "AMD acquires ‘godmother of AI’ Li Fei-Fei’s start-up as battle with Nvidia intensifies",
-          "link": "https://www.scmp.com/tech/big-tech/article/3369141/amd-acquires-godmother-ai-li-fei-feis-start-battle-nvidia-intensifies?utm_source=rss_feed",
-          "summary": "US chip giant Advanced Micro Devices (AMD) has agreed to acquire World Labs, the artificial intelligence start-up founded by renowned Chinese-American computer scientist Li Fei-Fei, for US$8.2 billion in an all-stock deal, as the company steps up its rivalry with Nvidia. The acquisition, expected to close by the end of this year, would integrate World Labs’ research team and spatial-intelligence model expertise into AMD, according to an announcement on Monday. Li, a Stanford University professor",
-          "published": "2026-09-29T04:30:18+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Anthropic Flags ‘Catastrophic’ Risks in IPO Filing: Reuters",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-29/anthropic-flags-catastrophic-ai-risks-in-ipo-filing-reuters",
-          "summary": "Anthropic PBC warned that its technology poses “catastrophic or existential risks to humanity” and mapped out plans to spend hundreds of billions of dollars in its prospectus as the artificial intelligence company prepared for its initial public offering, Reuters reported.",
-          "published": "2026-09-29T08:11:29+00:00",
+          "title": "Amazon Nuke Deal to Help Expand Constellation Maryland Site",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site",
+          "summary": "Amazon.com Inc. has agreed to purchase 690 megawatts of power from Constellation Energy Corp. in a deal that will help the biggest US nuclear operator boost capacity at the only reactors in Maryland.",
+          "published": "2026-09-30T20:04:24+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "도이체방크, 폼팩터 '매수' 추천…\"엔비디아·HBM 수혜\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBISTBrOEU2SjFyQ3B5bi1sLWlueDMxOVlsbUVQUUY2ZFRXOEFucFJhektmdzdFcFdROWM0TDlWdWk1VVN2X20zajZtLWQ5Wkd2U0sxNFF1Y290cTh2V0NhNWdUQjcxR3lsbDVfUmt1bEHSAXRBVV95cUxObU5adG5aVFR6Z0Q3eHo4a2FGVlFsaUlpYmF0N0VLSGtZek5Wb3ExanB6RnRZMlhhUEpPRnF4eVR6SzNrVnNacGFuUmJ5cW13NF85NnRacGxBYmhCbkRNa3VLOTJiSXFjLUdXWVFleDZLNV9jMw?oc=5",
+          "summary": "도이체방크, 폼팩터 '매수' 추천…\"엔비디아·HBM 수혜\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-30T23:23:16+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속 - aitimes.com",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkS3NZbW9HbTVCYnhtc0JXS1RzbWFYNkpwTnp1TTRZT3BHWUE4cEozR3JoRm1HWHEzcl93a3pPN0oycHNoeWh2d2xvb19haE5HVUxBbFY2QnBMMTRJMF91d0Q3dDFaMEpBOGc?oc=5",
+          "summary": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속 &nbsp;&nbsp; aitimes.com",
+          "published": "2026-09-30T04:38:35+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
+          "summary": "Chinese artificial intelligence start-up DeepSeek on Wednesday open-sourced a suite of core tools tailored for Huawei Technologies’ Ascend AI chips, marking a step forward in the country’s push to end dependence on processors from US giant Nvidia amid US export curbs. Hangzhou-based DeepSeek released six software modules that mirror its prior open-source tools for Nvidia’s AI chips, aiming to build a new “independent and controllable” software ecosystem for graphics processing units (GPUs),...",
+          "published": "2026-09-30T06:31:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple leads China smartphone sales after launch of iPhone 18 Pro. Can the momentum last?",
+          "link": "https://www.scmp.com/tech/big-tech/article/3369323/apple-leads-china-smartphone-sales-after-launch-iphone-18-pro-can-momentum-last?utm_source=rss_feed",
+          "summary": "Apple has claimed the top spot in China’s smartphone market following the release of its iPhone 18 Pro series, giving a potential boost to a sluggish handset market weighed down by weak consumer demand and soaring component costs. Sales of the new Pro models in their first three days after launching on September 18 were 12 per cent higher than sales of the iPhone 17 Pro line-up during its entire first week last year, according to a report published on Wednesday by Counterpoint Research. That...",
+          "published": "2026-09-30T08:45:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
@@ -163,56 +136,32 @@
           ]
         },
         {
-          "title": "\"메타 AI글래스 쓰고 네이버지도 길안내 받으세요\"",
-          "link": "https://zdnet.co.kr/view/?no=20260929184525",
-          "summary": "[지디넷코리아]스마트폰 화면을 들여다보지 않고 안경을 쓴 채 네이버지도의 길안내를 받을 수 있게 될 전망이다. 메타와 네이버가 인공지능(AI) 글래스에 네이버지도 도보 길안내를 연동하기로 하고 연내 서비스 도입을 추진한다.메타는 네이버와 협력해 AI 글래스 '레이밴 메타(Ray-Ban Meta)'와 '오클리 메타(Oakley Meta)'에 네이버지도 기반 도보 길안내 기능을 연동할 계획이라고 29일 밝혔다. 네이버는 메타가 AI 글래스 분야에서 협력하는 첫 국내 기업이다.이번 협력은 네이버가 지난 6월 선보인 실시간 도보 길안내를 메타의 AI 글래스에서 이용할 수 있도록 하는 것이 핵심이다. 해당 기능은 이용자가 걸어서 이동할 때 자동차 내비게이션처럼 음성으로 경로를 안내한다.서비스가 도입되면 이용자는 네이버지도 앱과 AI 글래스를 연결해 길안내를 받을 수 있다. 이동 방향뿐 아니라 진입로와 시설물, 계단·에스컬레이터 이용 여부 등 목적지까지 필요한 정보를 안경에 탑재된 오픈이어 스",
-          "published": "2026-09-29T09:46:44+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Nvidia and AMD chiefs join Tsinghua advisory board as US-China chip tensions persist",
-          "link": "https://www.scmp.com/tech/big-tech/article/3369237/nvidia-and-amd-chiefs-join-tsinghua-advisory-board-us-china-chip-tensions-persist?utm_source=rss_feed",
-          "summary": "Nvidia founder and CEO Jensen Huang and AMD chief Lisa Su have joined an influential advisory board at a prestigious Chinese university, placing the two key American AI tech leaders in a high-level forum known for connecting global executives with senior Chinese officials. Huang and Su were among three new members appointed to the advisory board of Tsinghua University’s School of Economics and Management (SEM), alongside Marc Pictet, senior managing partner of Swiss wealth and assets manager...",
-          "published": "2026-09-29T13:35:01+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+          "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
+          "published": "2026-09-30T10:40:30+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 8,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "젠슨 황 \"엔비디아 주식 상당히 저렴…계속 보유하고 더 사라\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmZWMxemFTUlJGUWtMSjFMX3RzTXd1ZUV0YW80VHZxd0tDd05nQVNSV2xBV1F5MDZVMzRZVzNnalV5YnRRQkNERkRzdURlNGpGQU9KZk5ubldDaU1lQmZvdEQzWWZzS2hHOVlKNld5cEU?oc=5",
-          "summary": "젠슨 황 \"엔비디아 주식 상당히 저렴…계속 보유하고 더 사라\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-29T03:10:24+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "Anthropic raises alarm over elite hacking ability of Chinese firm Z.ai’s GLM-5.3",
+          "link": "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
+          "summary": "The US artificial intelligence giant Anthropic has warned of the potential danger posed by Chinese firm Z.ai’s GLM-5.3, with the open-weight model showing a troubling mix of powerful hacking abilities but weak safety constraints. GLM-5.3 almost matches Anthropic’s most advanced model in terms of its cyber capabilities, but has far weaker safeguards, meaning there is greater potential for the model to be co-opted by bad actors, according to the San Francisco-based firm. In a report released on...",
+          "published": "2026-09-30T12:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -230,23 +179,85 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "The AI boom meets a new kind of crypto scam",
-          "link": "https://www.economist.com/finance-and-economics/2026/09/29/the-ai-boom-meets-a-new-kind-of-crypto-scam",
-          "summary": "Payment cards linked to cryptocurrency accounts may enable Chinese purchases of American AI models",
-          "published": "2026-09-29T16:05:58+00:00",
-          "source_key": "economist_finance",
-          "source_name": "The Economist - Finance",
+          "title": "Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down",
+          "summary": "Bitcoin enjoyed a brief respite along with other risk assets such as stocks amid the expectation that another rate hike is unlikely next month.",
+          "published": "2026-09-30T15:17:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[이미선의 크립토ON] SEC '토큰화 주식' 허용…무엇이 달라지나 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sYms5VnRZcERBaDRJU2JjNkNrdEVrUzBuQURjZklVWEtwY2N0a3dxQjF0TDU4MlJ5b0NqYU5ia2wtT0JDZm1ibDRQSFdmSkIwNHQ3enRNUmMxYWxNMGkyT0tEZ2Vfa0hsdHVRblAtNVc?oc=5",
+          "summary": "[이미선의 크립토ON] SEC '토큰화 주식' 허용…무엇이 달라지나 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-30T01:10:04+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "CFTC Secures $30 Million Judgment Tied to Alleged Crypto Scam",
+          "link": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
+          "summary": "A federal judge in Florida ordered two individuals to pay more than $30 million in restitution and penalties for allegedly defrauding more than 9,000 people in a scam involving crytocurrencies and precious metals, the US Commodity Futures Trading Commission said in a statement Wednesdsay.",
+          "published": "2026-09-30T22:27:24+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "정점식, 이형일 만나 \"미래대응기금·가상자산 과세 재검토해야\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ta0pGaWp2T0VBcnh1a01CbFphRUhyWmpKbU9USjBYU3Q5Z0djZURuRFJaTlhaQlhxem1KQlo0RUFiNnFxZ1drMy1jd0pTM0tHck1QVEx4V1BoQ3VaX29FalhTV0FxMU5RQzV1dWtOWGQ?oc=5",
+          "summary": "정점식, 이형일 만나 \"미래대응기금·가상자산 과세 재검토해야\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-09-30T02:40:38+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
