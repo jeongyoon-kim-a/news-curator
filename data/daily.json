@@ -1,29 +1,113 @@
 {
-  "generated_at": "2026-10-01T00:25:11.349400+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-10-02T00:35:41.748585+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "SpaceX Launches Crew for NASA on Retiring Dragon Capsule",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft",
+          "summary": "SpaceX launched a new crew of four astronauts to the International Space Station on Thursday, as questions swirl over the company’s plans for the future of its human spaceflight program.",
+          "published": "2026-10-01T09:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Tesla Sell Ratings Slide as Street Says ‘Don’t Bet Against Musk’",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/tesla-sell-ratings-slide-as-analysts-eye-musk-s-ai-ambitions",
+          "summary": "Tesla Inc. shares have tumbled in 2026, but Wall Street analysts are increasingly reluctant to tell investors to sell.",
+          "published": "2026-10-01T10:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "A rocket shortage gives SpaceX’s competitors an opportunity",
+          "link": "https://www.economist.com/business/2026/10/01/a-rocket-shortage-gives-spacexs-competitors-an-opportunity",
+          "summary": "The firm may soon have little capacity to launch others’ payloads",
+          "published": "2026-10-01T12:44:46+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Google Grapples With Employee Skepticism About New Gemini 4",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-30/google-grapples-with-employee-skepticism-about-new-gemini-model",
-          "summary": "Alphabet Inc.’s Google has begun rolling out Gemini 4 Argon, its long-awaited flagship artificial intelligence model, but the company is grappling with internal skepticism over how well it performs in key areas, such as coding.",
-          "published": "2026-09-30T19:52:42+00:00",
+          "title": "Nvidia-Backed Firmus Eyes $30 Billion Valuation in Australia IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports",
+          "summary": "Data center operator Firmus Grid Ltd. is seeking a A$43.7 billion ($30.3 billion) valuation in its Australian initial public offering this month, according to terms of the deal seen by Bloomberg.",
+          "published": "2026-10-01T22:30:03+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
+          "summary": "Top artificial intelligence firms are working to convince people to use their tools for more sensitive tasks.",
+          "published": "2026-10-01T20:00:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -32,18 +116,18 @@
           "event_labels": []
         },
         {
-          "title": "Amazon Nuke Deal to Help Expand Constellation Maryland Site",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-30/amazon-nuclear-deal-to-help-expand-constellation-s-maryland-site",
-          "summary": "Amazon.com Inc. has agreed to purchase 690 megawatts of power from Constellation Energy Corp. in a deal that will help the biggest US nuclear operator boost capacity at the only reactors in Maryland.",
-          "published": "2026-09-30T20:04:24+00:00",
+          "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+          "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
+          "published": "2026-10-01T21:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
             "event_bonus": 3,
@@ -54,80 +138,20 @@
           ]
         },
         {
-          "title": "도이체방크, 폼팩터 '매수' 추천…\"엔비디아·HBM 수혜\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBISTBrOEU2SjFyQ3B5bi1sLWlueDMxOVlsbUVQUUY2ZFRXOEFucFJhektmdzdFcFdROWM0TDlWdWk1VVN2X20zajZtLWQ5Wkd2U0sxNFF1Y290cTh2V0NhNWdUQjcxR3lsbDVfUmt1bEHSAXRBVV95cUxObU5adG5aVFR6Z0Q3eHo4a2FGVlFsaUlpYmF0N0VLSGtZek5Wb3ExanB6RnRZMlhhUEpPRnF4eVR6SzNrVnNacGFuUmJ5cW13NF85NnRacGxBYmhCbkRNa3VLOTJiSXFjLUdXWVFleDZLNV9jMw?oc=5",
-          "summary": "도이체방크, 폼팩터 '매수' 추천…\"엔비디아·HBM 수혜\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-30T23:23:16+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "Anthropic Said to Plan Pre-IPO Investor Day as Listing Nears",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears",
+          "summary": "Anthropic PBC is set to meet prospective investors on Oct. 14 in preparation for its initial public offering, according to people familiar with the matter, advancing its plan for a potential blockbuster listing even amid scrutiny over AI safety.",
+          "published": "2026-10-01T20:14:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속 - aitimes.com",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkS3NZbW9HbTVCYnhtc0JXS1RzbWFYNkpwTnp1TTRZT3BHWUE4cEozR3JoRm1HWHEzcl93a3pPN0oycHNoeWh2d2xvb19haE5HVUxBbFY2QnBMMTRJMF91d0Q3dDFaMEpBOGc?oc=5",
-          "summary": "딥시크, 화웨이 '어센드'용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속 &nbsp;&nbsp; aitimes.com",
-          "published": "2026-09-30T04:38:35+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China’s DeepSeek open-sources tools to help Huawei chips supplant Nvidia in AI",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3369301/chinas-deepseek-open-sources-tools-help-huawei-chips-supplant-nvidia-ai?utm_source=rss_feed",
-          "summary": "Chinese artificial intelligence start-up DeepSeek on Wednesday open-sourced a suite of core tools tailored for Huawei Technologies’ Ascend AI chips, marking a step forward in the country’s push to end dependence on processors from US giant Nvidia amid US export curbs. Hangzhou-based DeepSeek released six software modules that mirror its prior open-source tools for Nvidia’s AI chips, aiming to build a new “independent and controllable” software ecosystem for graphics processing units (GPUs),...",
-          "published": "2026-09-30T06:31:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple leads China smartphone sales after launch of iPhone 18 Pro. Can the momentum last?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3369323/apple-leads-china-smartphone-sales-after-launch-iphone-18-pro-can-momentum-last?utm_source=rss_feed",
-          "summary": "Apple has claimed the top spot in China’s smartphone market following the release of its iPhone 18 Pro series, giving a potential boost to a sluggish handset market weighed down by weak consumer demand and soaring component costs. Sales of the new Pro models in their first three days after launching on September 18 were 12 per cent higher than sales of the iPhone 17 Pro line-up during its entire first week last year, according to a report published on Wednesday by Counterpoint Research. That...",
-          "published": "2026-09-30T08:45:05+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -136,61 +160,55 @@
           ]
         },
         {
-          "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-          "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-          "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised serious questions&#8230;",
-          "published": "2026-09-30T10:40:30+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
+          "title": "Google Faces $3.2 Billion Damage Claims on Ad-Tech Monopoly",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/google-to-face-3-2-billion-damage-claims-over-ad-tech-monopoly",
+          "summary": "USA Today Co., Daily Mail General and Trust Plc and a class of large publishers can seek more than $3.2 billion in damages for harm caused by monopolization of advertising technology markets by Alphabet Inc.’s Google, a New York federal judge ruled.",
+          "published": "2026-10-01T16:49:33+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "keyword": 6,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Anthropic raises alarm over elite hacking ability of Chinese firm Z.ai’s GLM-5.3",
-          "link": "https://www.scmp.com/tech/big-tech/article/3369354/anthropic-raises-alarm-over-elite-hacking-ability-chinese-firm-zais-glm-53?utm_source=rss_feed",
-          "summary": "The US artificial intelligence giant Anthropic has warned of the potential danger posed by Chinese firm Z.ai’s GLM-5.3, with the open-weight model showing a troubling mix of powerful hacking abilities but weak safety constraints. GLM-5.3 almost matches Anthropic’s most advanced model in terms of its cyber capabilities, but has far weaker safeguards, meaning there is greater potential for the model to be co-opted by bad actors, according to the San Francisco-based firm. In a report released on...",
-          "published": "2026-09-30T12:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+          "link": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+          "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+          "published": "2026-10-01T21:00:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 4,
-      "articles": [
+        },
         {
-          "title": "Bitcoin Rides Risk Roller Coaster as Speculative Bets Wind Down",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-30/bitcoin-rides-risk-roller-coaster-as-sepeculative-bets-wind-down",
-          "summary": "Bitcoin enjoyed a brief respite along with other risk assets such as stocks amid the expectation that another rate hike is unlikely next month.",
-          "published": "2026-09-30T15:17:43+00:00",
+          "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
+          "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
+          "published": "2026-10-01T18:27:22+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
             "keyword": 5,
@@ -202,37 +220,15 @@
           "event_labels": []
         },
         {
-          "title": "[이미선의 크립토ON] SEC '토큰화 주식' 허용…무엇이 달라지나 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sYms5VnRZcERBaDRJU2JjNkNrdEVrUzBuQURjZklVWEtwY2N0a3dxQjF0TDU4MlJ5b0NqYU5ia2wtT0JDZm1ibDRQSFdmSkIwNHQ3enRNUmMxYWxNMGkyT0tEZ2Vfa0hsdHVRblAtNVc?oc=5",
-          "summary": "[이미선의 크립토ON] SEC '토큰화 주식' 허용…무엇이 달라지나 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-30T01:10:04+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "CFTC Secures $30 Million Judgment Tied to Alleged Crypto Scam",
-          "link": "https://www.bloomberg.com/news/articles/2026-09-30/cftc-secures-30-million-judgment-tied-to-alleged-crypto-scam",
-          "summary": "A federal judge in Florida ordered two individuals to pay more than $30 million in restitution and penalties for allegedly defrauding more than 9,000 people in a scam involving crytocurrencies and precious metals, the US Commodity Futures Trading Commission said in a statement Wednesdsay.",
-          "published": "2026-09-30T22:27:24+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "Amazon Jet Lacked Wind Data Before Miami Crash, NTSB Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
+          "summary": "An air traffic controller didn’t provide an Amazon.com Inc. cargo plane with wind information prior to it crashing at Miami International Airport last month, killing five people on the ground, according to accident investigators.",
+          "published": "2026-10-01T19:37:22+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
@@ -242,22 +238,68 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 3,
+      "articles": [
         {
-          "title": "정점식, 이형일 만나 \"미래대응기금·가상자산 과세 재검토해야\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Ta0pGaWp2T0VBcnh1a01CbFphRUhyWmpKbU9USjBYU3Q5Z0djZURuRFJaTlhaQlhxem1KQlo0RUFiNnFxZ1drMy1jd0pTM0tHck1QVEx4V1BoQ3VaX29FalhTV0FxMU5RQzV1dWtOWGQ?oc=5",
-          "summary": "정점식, 이형일 만나 \"미래대응기금·가상자산 과세 재검토해야\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-09-30T02:40:38+00:00",
+          "title": "한국투자증권, 카카오와 디지털자산 생태계 구축 동맹 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bGxxbVljS3pWeHpsbkZPZllYdGwxd3ItcWxHTFVEU1B2SGJySlVzVjdBT1E0Z0lpQldoVjJtaVhuVS1aV1Ytal9IUzZZcjdoVllfMk9rcC1HNldxdFBwWlFDaUsxT2w1dTlsVzI1eGI?oc=5",
+          "summary": "한국투자증권, 카카오와 디지털자산 생태계 구축 동맹 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-01T04:35:58+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Cboe Eyes VIX Perpetuals as Exchanges Move Beyond Crypto",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
+          "summary": "Cboe Global Markets Inc. is looking at listing perpetual futures based on the Cboe Volatility Index, as US exchanges race to bring the highly levered instruments that dominate the crypto market to new asset classes.",
+          "published": "2026-10-01T17:02:18+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Trump Memecoin Dinner Returns as Democrats Threaten Scrutiny",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-01/trump-memecoin-dinner-returns-as-democrats-threaten-scrutiny",
+          "summary": "The promoter of Donald Trump’s memecoin is marketing another chance for top holders to attend an event with the president, just as Democratic lawmakers threaten fresh scrutiny of his crypto business dealings.",
+          "published": "2026-10-01T17:59:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -267,8 +309,89 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 4,
+      "articles": [
+        {
+          "title": "국내 주요 증권사, 브루스 마켓 미국 주식 데이터 피드와 연결해 블라인드 거래 위험 낮춰",
+          "link": "https://zdnet.co.kr/view/?no=20261002071002",
+          "summary": "[지디넷코리아] 시장 데이터 장애 이후 한국에서 시장 복원력 강화 수요 커지며 토스증권, 메리츠증권에 이어 Bruce ATS 합류 시카고 및 한국 서울, 2026년 10월 2일 /PRNewswire/ -- 미국 주식 야간 거래 플랫폼 Bruce ATS를 운영하는 브루스 마켓(Bruce Markets)이 한국의 인가 증권사이자 국내 1위 금융 슈퍼앱 토스의 투자 서비스인 토스증권이 미국 주식 야간 거래를 위한 Bruce ATS의 시장 데이터 피드에 연결해 고객의 블라인드 거래 위험을 낮췄다고 오늘 발표했다. 이번 통합은 최근 발생한 시장 데이터 장애 이후 시장 구조의 복원력을 강화하려는 수요가 증가함에 따라 메리츠증권이 브루스 마켓의 한국 내 첫 시장 데이터 고객사가 된 데 이은 것이다. 브루스 마켓의 제이슨 월락(Jason Wallach) CEO는 \"한국 투자자들은 미국 야간 시장에서 매우 중요한 역할을 하고 있다. 특히 다른 거래소에 이용 가능한 유동성이 존재하는 상황에서 단일 A",
+          "published": "2026-10-01T22:10:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HVTUzZVRoWTZ4c2pMR3pWMElxbnpOSi1LQXlPempSMWdrdXVMQy04ZnhWZWozcTIyRkhVWUJDVko4WWNxMklZQi1JUjdYa2ZBNGxBTkF2N2ZXcDlKNkRkRnh5V3FWYy1Remc?oc=5",
+          "summary": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-01T20:20:36+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "태양광 에너지로 우주에 전력 공급…세계 첫 도전 주목 [우주로 간다]",
+          "link": "https://zdnet.co.kr/view/?no=20261001163438",
+          "summary": "[지디넷코리아]지구 궤도에서 태양광 에너지를 모아 다른 위성에 무선으로 전력을 공급하는 ‘우주 전력망’ 구축이 본격화된다. 우주 자산의 전력 부족 문제를 해결하기 위한 첫걸음이다.IT매체 기즈모도는 미국 플로리다 기반의 우주기술 스타트업 ‘스타캐처(StarCatcher)’가 궤도상 무선 전력 전송 기술을 검증하기 위한 시제품 위성 ‘프로토스타(Protostar)’ 발사를 준비 중이라고 30일(현지시간) 보도했다.프로토스타는 1일 스페이스X '트랜스포터-18' 미션에 실려 우주로 올라간 뒤, 궤도에 머무는 다른 위성에 에너지를 전송하는 실증 실험을 진행한다.스타캐처 기술의 핵심은 태양광 에너지를 특정 파장의 빛으로 수집한 뒤, 강력한 레이저로 변환해 대상 위성의 태양광 패널에 직접 쏘는 방식이다. 전력을 받는 위성은 별도 특수 수신 장비 없이 태양광 패널만으로 에너지를 공급받을 수 있다.이번 시도가 성공하면 궤도상에서 연결선 없이 떠 있는 두 우주선 간에 레이저로 에너지를 전송하는 세",
+          "published": "2026-10-01T08:01:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "다이소몰, 토스페이 결제하면 1000원 할인…10월 한 달간 진행",
+          "link": "https://zdnet.co.kr/view/?no=20261001173402",
+          "summary": "[지디넷코리아]아성다이소가 온라인 쇼핑몰 다이소몰에서 토스페이 결제 고객을 대상으로 할인 행사를 진행한다.아성다이소는 토스와 함께 10월 한 달간 '토스페이 이벤트'를 진행한다고 1일 밝혔다.행사 기간 다이소몰에서 토스페이로 3만원 이상 결제하면 1000원을 즉시 할인받을 수 있다. 하루 한 차례 혜택을 받을 수 있으며 행사 예산이 소진되면 조기 종료될 수 있다.할인은 토스페이에 등록한 계좌나 토스페이머니로 결제할 때 적용된다.다이소몰은 결제 금액에 따른 배송비 혜택도 운영하고 있다. 3만원 이상 구매하면 택배배송을 무료로 제공하며 서울 지역에서 이용할 수 있는 '오늘배송'은 4만원 이상 구매하면 배송비가 면제된다.온라인으로 주문한 상품을 매장에서 찾아가는 '매장픽업'과 여러 상품을 한꺼번에 구매할 수 있는 '대량주문' 서비스도 운영 중이다.아성다이소 관계자는 \"다이소몰 이용 고객에게 쇼핑 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"앞으로도 다양한 이벤트를 선보일 계획\"이라고 ",
+          "published": "2026-10-01T08:34:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
