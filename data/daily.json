@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-03T00:16:12.567969+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-10-03T23:36:40.532947+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VFZTZGttb21HOHJIOHVPWkg1eUhmSXVETVRQV0Q4SHFuTFpwN3hBSUlpdXRtRUtfU1k4ZmxTUUVtVm91VEFwQzVTcnE3TE85TlZoTVltRzc3N2ZBenNXbXFrQjRNM2tqU1E?oc=5",
-          "summary": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-02T07:04:59+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "美 미래전쟁 전략 연구에 머스크 참여…\"이해충돌 우려\" 제기 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OSWVuRFlqbzdkSkVhUnJPTGlYLTNZbDlhcjhwN0RuLVBET1dRVE5VNm9FRzZLdVhDT3Jvb2lFempYMWRGVWs3ekd1QkNoWjVuUGc?oc=5",
+          "summary": "美 미래전쟁 전략 연구에 머스크 참여…\"이해충돌 우려\" 제기 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-03T03:24:42+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
@@ -27,20 +27,62 @@
           "event_labels": []
         },
         {
-          "title": "테슬라 3분기 車판매량 2% 감소…시장 기대치는 웃돌아 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESGpZTGIxcHRtRmtTX1BMQVI0U0FGSzM4UHcxVjYtN3JIWkNBVXc5cVRlal9uazd3MGJ2WVYwdFlheHloTnAyTFJmaGRmR0UwTXc?oc=5",
-          "summary": "테슬라 3분기 車판매량 2% 감소…시장 기대치는 웃돌아 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-02T19:49:42+00:00",
+          "title": "테슬라, 3분기 인도량 예상치 상회…주가 5% ↑",
+          "link": "https://zdnet.co.kr/view/?no=20261003084458",
+          "summary": "[지디넷코리아]테슬라의 3분기 차량 인도량 등 판매 실적이 증권가 예상치를 뛰어넘으면서 주가가 5% 가량 상승했다.테슬라는 2일(현지시간) 3분기 차량 인도량 48만6532대, 에너지저장장치(ESS) 설치량은 13.7GWh를 기록했다고 밝혔다.차량 인도량은 증권가 예상치인 46만1974대를 넘어섰다. 전분기 대비로는 약 6000대 증가한 수치다. 전년 동기 실적인 49만7000여대보다는 낮지만, 이는 미국 전기차 구매 세액공제 폐지 직전 조기 구매 수요가 반영됐다는 게 업계 평가다.차량 인도량 중 98%는 모델3와 모델Y가 차지했다.3분기 ESS 설치량은 증권가 예상치인 15.9GWh를 하회했지만, 전년 동기 실적인 13.5GWh보다 소폭 증가했다.블룸버그에 따르면 BC캐피털마켓츠 애널리스트인 톰 나라얀은 테슬라가 미국 자동차 기업들의 전기차 시장 철수, 고유가로 인한 전기차 수요 증가 수혜를 누렸을 가능성이 있다고 분석했다.3분기 인도량 발표 후 테슬라 주가는 전일 대비 약 4.7",
+          "published": "2026-10-03T03:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "“美 테슬라같은 자율주행 우린 언제쯤”…국내 3사 서비스 비교해보니 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5",
+          "summary": "“美 테슬라같은 자율주행 우린 언제쯤”…국내 3사 서비스 비교해보니 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-03T04:49:37+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“中, 러시아판 스타링크 개발 지원”…젤렌스키, 트럼프에 제재 요청 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWROdjJnZUpwMElkRmM3X1FoNDZweDNNNFNMTXlzODRqVnNtbmtVZ0hvdkpycGpnTWRiRk5zcU1VdGgwOUstVlFKZGhyaV94VFY3UWExcm9lYU5wNFg3aDlJanBjbjduWkRSWEFIODRmV3pmU0VHZmFZb1k0Qk9hem5FVEVPaGxxM2tv?oc=5",
+          "summary": "“中, 러시아판 스타링크 개발 지원”…젤렌스키, 트럼프에 제재 요청 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-03T06:13:29+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -50,55 +92,13 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "Google Hikes Price of Budget Pixel 10a Phone to $599 on Memory Costs",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/google-hikes-price-of-budget-pixel-10a-phone-to-599-on-memory-costs",
-          "summary": "Alphabet Inc.’s Google raised the price of its seven-month-old Pixel 10a smartphone by $100 to $599, another example of how rising memory costs are making even older devices more expensive.",
-          "published": "2026-10-02T17:15:07+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
-          "summary": "Nscale, the artificial intelligence infrastructure company, hired a long-time Meta Platforms Inc. executive to be its chief operating officer, to accelerate a rapid expansion connected to its upcoming initial public offering, according to a person familiar with the matter.",
-          "published": "2026-10-02T19:20:42+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Nvidia Falls Short of May Record as Value Nears $6 Trillion",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion",
-          "summary": "Nvidia Corp. shares touched an intraday high for the first time since May before trimming those gains and closing just short of a record as investors piled back into the stock after a two-month selloff that wiped out more than $1 trillion of market value.",
-          "published": "2026-10-02T13:47:58+00:00",
+          "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "summary": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
+          "published": "2026-10-03T13:13:42+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -115,52 +115,32 @@
           "event_labels": []
         },
         {
-          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
-          "summary": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artificial intelligence agents.",
-          "published": "2026-10-02T20:50:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "SK쉴더스, AWS '위협탐지 및 대응' 컴피턴시 국내 첫 획득",
+          "link": "https://zdnet.co.kr/view/?no=20261003212658",
+          "summary": "[지디넷코리아]SK쉴더스(대표 민기식)가 아마존웹서비스(Amazon Web Services, AWS)의 보안 컴피턴시 중 ‘Threat Detection and Response(위협 탐지 및 대응, TDR)’를 획득했다.최근 기업들의 클라우드 전환이 확대하면서 사이버 위협도 다양해지고 있다. 서버, 네트워크, 컨테이너, 데이터베이스 등 클라우드 환경 전반의 자산과 설정을 지속적으로 관리해야 할 필요성이 커졌다. 계정 탈취, 권한 오남용, 데이터 유출과 같은 보안 위협에 대응하기 위해서는 환경별 로그와 이벤트를 분석하고, 탐지된 위협의 우선순위를 판단해 대응하는 체계가 필요하다.2일 SK쉴더스에 따르면, AWS 보안 컴피턴시는 AWS 환경에서 보안 솔루션과 서비스를 제공하는 AWS 파트너의 전문성과 고객 사례 등을 검토하는 프로그램이다. TDR 컴피턴시는 보안관제센터(SOC) 운영, 보안정보 및 이벤트 관리(SIEM), 보안 오케스트레이션·자동화·대응(SOAR), 확장 탐지·대응(XD",
+          "published": "2026-10-03T12:26:58+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "keyword": 6,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-iphone-18-pro-max-at-t-glitch-requires-device-replacements",
-          "summary": "Apple Inc. said “a small number” of AT&amp;T Inc. customers who recently upgraded to the company’s iPhone 18 Pro Max will need to replace their devices after a bug caused them to lose cellular service.",
-          "published": "2026-10-02T22:01:28+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
-          "link": "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
-          "summary": "US artificial intelligence company Anthropic appears to have stepped up enforcement of geographical restrictions on its Claude models in Hong Kong, with local users reporting abrupt account suspensions after accessing the service through virtual private networks (VPNs). A wave of complaints surfaced on social media platforms X and Reddit on Thursday, as users who had operated accounts for months using VPNs found them suddenly disabled. One Hong Kong-based user posted on the “r/claude” subreddit.",
-          "published": "2026-10-02T05:44:12+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vLUZrbmFsTEQzcE9GNTRTNTYwZGZPdEp5cXZlRXEyMG5hakk0ckhRSXNHUDVRNkRIakJ2TGJDTkxENkZjWm5BSnZyOEE5R21uQnVic25kc1l1RE91X2thM1lPSEZETGhKR0E?oc=5",
+          "summary": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-03T03:01:35+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -175,19 +155,19 @@
           "event_labels": []
         },
         {
-          "title": "SOOP '구글 플레이 ASL 시즌 22' 4강 돌입…17일 잠실서 결승",
-          "link": "https://zdnet.co.kr/view/?no=20261002165553",
-          "summary": "[지디넷코리아]SOOP이 주최하는 'Google Play ASL 시즌 22'가 결승 진출자를 가리는 4강전에 돌입한다.SOOP(각자 대표이사 최영우, 이민원)은 블리자드 엔터테인먼트의 RTS 게임 '스타크래프트: 리마스터'로 진행되는 e스포츠 리그 '구글 플레이 ASL 시즌 22' 4강 경기를 서울 대치동 프릭업 스튜디오에서 진행한다고 2일 밝혔다.앞서 진행된 8강 1주차에서는 유영진(T)과 이재호(T)가 각각 승리하며 4강 진출을 확정했다. 이어 지난 달 28일과 29일 치러진 8강 2주차에서는 박상현(Z)이 이제동(Z)을 꺾고 합류했으며, 김민철(Z)이 신상문(T)을 제압하고 4강 대진을 완성했다. 4강에 진출한 네 선수는 차기 시즌 시드권도 확보했다.4강 첫 경기는 오는 5일 유영진과 이재호의 테란 동족전으로 펼쳐진다. 이어 6일 열리는 두 번째 경기에서는 지난 시즌 우승자로 2회 연속 우승을 노리는 박상현과 ASL 4회 우승에 빛나는 김민철이 저그 동족전 맞대결을 치른다.이번",
-          "published": "2026-10-02T07:55:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMXdYWUFIcjF4WXkxU1YxS1FGS3E4LTNMTXJoT2JITXBZVXBLOEc5QnAzR1labjdHNlhCcldaaU9FcEladFk0ZEcyc1ZnUWdCblUzVGJ6Y1hENVZKeXRBc05XWmhSLWdJcnc?oc=5",
+          "summary": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-03T01:35:45+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -195,18 +175,38 @@
           "event_labels": []
         },
         {
-          "title": "게임위, 확률형 아이템 표시의무 위반 해외 게임물 '영혼 인도자' 이용 주의 당부",
-          "link": "https://zdnet.co.kr/view/?no=20261002181955",
-          "summary": "[지디넷코리아]확률형 아이템 정보 공개 의무를 위반하고 당국의 시정요구에 불응한 해외 게임물에 대해 행정처분 절차가 진행되면서 이용자들의 결제 피해 주의가 요구된다.게임물관리위원회(위원장 서태건, 이하 게임위)는 확률형 아이템 표시의무 위반으로 행정처분 절차가 진행 중인 해외 게임물 '영혼 인도자: 신의 이름으로(개발사 PLAY CAT NETWORK TECHNOLOGY CO., LIMITED)'와 관련해 이용자 피해 예방을 위한 주의를 당부했다고 2일 밝혔다.'영혼 인도자: 신의 이름으로(이하 영혼 인도자)'는 올해 3월 출시된 모바일 게임이다. 구글 플레이 누적 다운로드 10만회 이상을 기록하고 애플 앱스토어 롤플레잉 순위 상위권에 올랐으며, 국내 앱마켓인 갤럭시 스토어와 원스토어에도 입점해 유통 중이다.게임위는 상시 모니터링 과정에서 해당 게임물이 확률형 아이템 표시의무를 다수 이행하지 않은 사실을 적발했다. 이후 개발사 측에 6차례에 걸쳐 시정요청을 발송하고 자체등급분류사업자를",
-          "published": "2026-10-02T09:30:01+00:00",
+          "title": "애플, AI 에이전트 무단 접근 증가로 맥OS '전체 디스크 접근' 제어 강화 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81QXFfZjNjYUJFV25RX0htcnJ4WG1iUm9sNmoxWWh4aFJqcTFIelNhVF9VZmluWGNqODRISWVqdzNmWEdfSWo3OGp5bldoTm1Ndk0zdU5jTmpWaDVCWThWek0yOV8xQWRLMWc?oc=5",
+          "summary": "애플, AI 에이전트 무단 접근 증가로 맥OS '전체 디스크 접근' 제어 강화 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-03T03:39:36+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는 키보드’ 공개",
+          "link": "https://zdnet.co.kr/view/?no=20261002234412",
+          "summary": "[지디넷코리아]구글이 키가 끊임없이 움직이는 독특한 물리 키보드를 공개해 주목받고 있다.IT매체 디지털트렌드는 구글 재팬이 선보인 ‘지보드 쿠루쿠루 버전(Gboard Kurukuru Version)’을 최근 보도했다.이 키보드는 고정된 키를 사용하는 기존 키보드와 달리 회전하는 컨베이어 벨트에 키를 장착한 것이 특징이다. 키가 끊임없이 움직이기 때문에 마치 미니 게임을 하듯 타이핑할 수 있다.구글에 따르면, 일반적인 키보드는 사용자가 손과 손가락을 키보드 위에서 움직이는 방식으로 설계됐다. 때문에 한 손으로 타이핑하거나 손가락 하나만 사용해 입력할 경우 불편함이 커질 수 있다. 이에 지보드 팀은 손가락을 움직이는 대신 키보드가 움직이도록 입력 방식을 바꿨다.쿠루쿠루 버전은 각각 29개의 키가 장착된 컨베이어 벨트 4개로 구성돼 총 116개의 키를 제공한다. 벨트가 계속 회전하는 동안 원하는 문자가 손가락 아래로 들어오면 해당 키를 누르는 방식이다.대문자와 소문자도 각각 별도의 키로 ",
+          "published": "2026-10-03T01:30:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -223,49 +223,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "네이버 vs 카카오 멤버십, 가격은 같은데 혜택은 어떻게 다를까",
-          "link": "https://zdnet.co.kr/view/?no=20261002170611",
-          "summary": "[지디넷코리아]카카오가 네이버 멤버십과 똑같은 4900원 금액에 구독형 서비스를 출시하며 새 수익 모델을 내놨다. 적립을 포함한 유사해 보이는 혜택이 엿보이는데, 카카오는 네이버에는 없는 금융 혜택을 추가하며 차별점을 확보했다. 현 기준 네이버 멤버십은 스포티파이·넷플릭스 같은 타사와의 제휴에 힘을 쏟는 반면, 카카오는 아직 자체 그룹 서비스와의 연계에 집중한 모습이다.2일 IT업계에 따르면 카카오는 전날 커머스, 콘텐츠, 금융 등 그룹 내 다양한 서비스를 연계한 최초의 통합 ‘카카오 멤버십’의 선착순 가입 신청을 받기 시작했다. 초기 서비스 안정화를 위해 소규모 이용자를 대상으로 가입을 진행한 뒤 서비스를 정식 출시한다는 방침이다.카카오에 앞서 네이버는 2020년 6월부터 ‘네이버플러스 멤버십’이라는 이름의 멤버십 서비스를 운영해오고 있다. 특히, 네이버는 올해 멤버십 활성 이용자 수를 전년 대비 20% 이상 성장시키는 것을 목표로 내걸 만큼 서비스 활성화에 주력하겠다는 뜻을 밝힌",
-          "published": "2026-10-02T08:21:24+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "에픽게임즈 '포트나이트', 핼러윈 맞이 '포트나이트의 악몽 2026' 개막",
-          "link": "https://zdnet.co.kr/view/?no=20261002183016",
-          "summary": "[지디넷코리아]글로벌 배틀로얄 게임 '포트나이트'가 핼러윈 시즌을 겨냥해 다양한 호러 테마 콘텐츠와 신규 무기를 선보이는 대규모 가을 이벤트를 시작한다.에픽게임즈 코리아는 '포트나이트'에서 시즌 특별 이벤트인 '포트나이트의 악몽 2026'을 시작한다고 2일 밝혔다.이번 이벤트 기간에는 배틀로얄, 호드 러시, 리로드 모드 전반에 걸쳐 신규 오버라이드와 장비가 적용된다. 아울러 '프레디의 피자가게', '나이트메어', '해즈빈 호텔', '비틀쥬스', '옵세션' 등 유명 콘텐츠 지식재산권(IP)을 바탕으로 제작된 의상과 액세서리가 10월 한 달 동안 순차적으로 게임 내 상점에 입고된다.배틀로얄 전장에는 기존 '프리키 필즈'와 함께 신규 구역인 '나이트메어 네이버후드'가 조성된다. 해당 지역에서 등장하는 보스 프레디 크루거를 처치하면 순간이동 근접 공격이 가능한 '프레디의 클로'를 얻을 수 있다.이용자는 전력질주 중 은신, 저체력 시 공격력 강화, 분대원 소품 위장 등의 효과를 지닌 '저주받",
-          "published": "2026-10-02T10:14:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
