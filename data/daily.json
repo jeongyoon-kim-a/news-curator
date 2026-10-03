@@ -1,66 +1,46 @@
 {
-  "generated_at": "2026-10-02T00:35:41.748585+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-10-03T00:16:12.567969+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "SpaceX Launches Crew for NASA on Retiring Dragon Capsule",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/spacex-set-to-launch-new-crew-for-nasa-on-retiring-dragon-craft",
-          "summary": "SpaceX launched a new crew of four astronauts to the International Space Station on Thursday, as questions swirl over the company’s plans for the future of its human spaceflight program.",
-          "published": "2026-10-01T09:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Tesla Sell Ratings Slide as Street Says ‘Don’t Bet Against Musk’",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/tesla-sell-ratings-slide-as-analysts-eye-musk-s-ai-ambitions",
-          "summary": "Tesla Inc. shares have tumbled in 2026, but Wall Street analysts are increasingly reluctant to tell investors to sell.",
-          "published": "2026-10-01T10:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "A rocket shortage gives SpaceX’s competitors an opportunity",
-          "link": "https://www.economist.com/business/2026/10/01/a-rocket-shortage-gives-spacexs-competitors-an-opportunity",
-          "summary": "The firm may soon have little capacity to launch others’ payloads",
-          "published": "2026-10-01T12:44:46+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92VFZTZGttb21HOHJIOHVPWkg1eUhmSXVETVRQV0Q4SHFuTFpwN3hBSUlpdXRtRUtfU1k4ZmxTUUVtVm91VEFwQzVTcnE3TE85TlZoTVltRzc3N2ZBenNXbXFrQjRNM2tqU1E?oc=5",
+          "summary": "머스크, 미 국방부 '미래 전쟁' 자문으로 공직 복귀...AI·드론 중심 미래전 대비 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-02T07:04:59+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 7,
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "테슬라 3분기 車판매량 2% 감소…시장 기대치는 웃돌아 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ESGpZTGIxcHRtRmtTX1BMQVI0U0FGSzM4UHcxVjYtN3JIWkNBVXc5cVRlal9uazd3MGJ2WVYwdFlheHloTnAyTFJmaGRmR0UwTXc?oc=5",
+          "summary": "테슬라 3분기 車판매량 2% 감소…시장 기대치는 웃돌아 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-02T19:49:42+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -73,97 +53,10 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia-Backed Firmus Eyes $30 Billion Valuation in Australia IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/firmus-eyes-30-billion-valuation-in-australian-ipo-afr-reports",
-          "summary": "Data center operator Firmus Grid Ltd. is seeking a A$43.7 billion ($30.3 billion) valuation in its Australian initial public offering this month, according to terms of the deal seen by Bloomberg.",
-          "published": "2026-10-01T22:30:03+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "funding"
-          ]
-        },
-        {
-          "title": "OpenAI and Meta Push Ahead With AI Agents, Testing Public’s Trust",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-10-01/openai-and-meta-push-ahead-with-ai-agents-testing-public-s-trust",
-          "summary": "Top artificial intelligence firms are working to convince people to use their tools for more sensitive tasks.",
-          "published": "2026-10-01T20:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
-          "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
-          "published": "2026-10-01T21:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Anthropic Said to Plan Pre-IPO Investor Day as Listing Nears",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/anthropic-is-said-to-plan-pre-ipo-investor-day-as-listing-nears",
-          "summary": "Anthropic PBC is set to meet prospective investors on Oct. 14 in preparation for its initial public offering, according to people familiar with the matter, advancing its plan for a potential blockbuster listing even amid scrutiny over AI safety.",
-          "published": "2026-10-01T20:14:03+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Google Faces $3.2 Billion Damage Claims on Ad-Tech Monopoly",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/google-to-face-3-2-billion-damage-claims-over-ad-tech-monopoly",
-          "summary": "USA Today Co., Daily Mail General and Trust Plc and a class of large publishers can seek more than $3.2 billion in damages for harm caused by monopolization of advertising technology markets by Alphabet Inc.’s Google, a New York federal judge ruled.",
-          "published": "2026-10-01T16:49:33+00:00",
+          "title": "Google Hikes Price of Budget Pixel 10a Phone to $599 on Memory Costs",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-02/google-hikes-price-of-budget-pixel-10a-phone-to-599-on-memory-costs",
+          "summary": "Alphabet Inc.’s Google raised the price of its seven-month-old Pixel 10a smartphone by $100 to $599, another example of how rising memory costs are making even older devices more expensive.",
+          "published": "2026-10-02T17:15:07+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -180,10 +73,10 @@
           "event_labels": []
         },
         {
-          "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
-          "link": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
-          "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
-          "published": "2026-10-01T21:00:03+00:00",
+          "title": "Nscale Hires Meta’s Justin Osofsky to Be COO Ahead of IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-02/nscale-hires-meta-s-justin-osofsky-to-be-coo-ahead-of-ipo",
+          "summary": "Nscale, the artificial intelligence infrastructure company, hired a long-time Meta Platforms Inc. executive to be its chief operating officer, to accelerate a rapid expansion connected to its upcoming initial public offering, according to a person familiar with the matter.",
+          "published": "2026-10-02T19:20:42+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -191,19 +84,21 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "OpenAI Parts Ways With 3 Workers Over Mishandling Information",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/openai-parts-ways-with-3-workers-over-mishandling-information",
-          "summary": "OpenAI has parted ways with three employees for violating company policies on how private information should be handled, including for allegedly sharing it with an outside group.",
-          "published": "2026-10-01T18:27:22+00:00",
+          "title": "Nvidia Falls Short of May Record as Value Nears $6 Trillion",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-02/nvidia-hits-first-record-since-may-as-value-nears-6-trillion",
+          "summary": "Nvidia Corp. shares touched an intraday high for the first time since May before trimming those gains and closing just short of a record as investors piled back into the stock after a two-month selloff that wiped out more than $1 trillion of market value.",
+          "published": "2026-10-02T13:47:58+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -220,10 +115,10 @@
           "event_labels": []
         },
         {
-          "title": "Amazon Jet Lacked Wind Data Before Miami Crash, NTSB Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/amazon-plane-lacked-wind-data-prior-to-miami-crash-ntsb-says",
-          "summary": "An air traffic controller didn’t provide an Amazon.com Inc. cargo plane with wind information prior to it crashing at Miami International Airport last month, killing five people on the ground, according to accident investigators.",
-          "published": "2026-10-01T19:37:22+00:00",
+          "title": "Apple to Tighten Mac Data Controls in Guard Against AI Agents",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-to-tighten-mac-data-controls-in-guard-against-ai-agents",
+          "summary": "Apple Inc. said it plans to introduce new privacy controls for Mac users, warning of the growing risks around granting broad data access to third-party software, including artificial intelligence agents.",
+          "published": "2026-10-02T20:50:08+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -238,132 +133,111 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "Apple iPhone 18 Pro Max AT&T Glitch Requires Device Replacements",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-02/apple-iphone-18-pro-max-at-t-glitch-requires-device-replacements",
+          "summary": "Apple Inc. said “a small number” of AT&amp;T Inc. customers who recently upgraded to the company’s iPhone 18 Pro Max will need to replace their devices after a bug caused them to lose cellular service.",
+          "published": "2026-10-02T22:01:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Hong Kong users caught off guard as Anthropic tightens VPN access to Claude",
+          "link": "https://www.scmp.com/tech/tech-war/article/3369526/hong-kong-users-caught-offguard-anthropic-tightens-vpn-access-claude?utm_source=rss_feed",
+          "summary": "US artificial intelligence company Anthropic appears to have stepped up enforcement of geographical restrictions on its Claude models in Hong Kong, with local users reporting abrupt account suspensions after accessing the service through virtual private networks (VPNs). A wave of complaints surfaced on social media platforms X and Reddit on Thursday, as users who had operated accounts for months using VPNs found them suddenly disabled. One Hong Kong-based user posted on the “r/claude” subreddit.",
+          "published": "2026-10-02T05:44:12+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SOOP '구글 플레이 ASL 시즌 22' 4강 돌입…17일 잠실서 결승",
+          "link": "https://zdnet.co.kr/view/?no=20261002165553",
+          "summary": "[지디넷코리아]SOOP이 주최하는 'Google Play ASL 시즌 22'가 결승 진출자를 가리는 4강전에 돌입한다.SOOP(각자 대표이사 최영우, 이민원)은 블리자드 엔터테인먼트의 RTS 게임 '스타크래프트: 리마스터'로 진행되는 e스포츠 리그 '구글 플레이 ASL 시즌 22' 4강 경기를 서울 대치동 프릭업 스튜디오에서 진행한다고 2일 밝혔다.앞서 진행된 8강 1주차에서는 유영진(T)과 이재호(T)가 각각 승리하며 4강 진출을 확정했다. 이어 지난 달 28일과 29일 치러진 8강 2주차에서는 박상현(Z)이 이제동(Z)을 꺾고 합류했으며, 김민철(Z)이 신상문(T)을 제압하고 4강 대진을 완성했다. 4강에 진출한 네 선수는 차기 시즌 시드권도 확보했다.4강 첫 경기는 오는 5일 유영진과 이재호의 테란 동족전으로 펼쳐진다. 이어 6일 열리는 두 번째 경기에서는 지난 시즌 우승자로 2회 연속 우승을 노리는 박상현과 ASL 4회 우승에 빛나는 김민철이 저그 동족전 맞대결을 치른다.이번",
+          "published": "2026-10-02T07:55:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "게임위, 확률형 아이템 표시의무 위반 해외 게임물 '영혼 인도자' 이용 주의 당부",
+          "link": "https://zdnet.co.kr/view/?no=20261002181955",
+          "summary": "[지디넷코리아]확률형 아이템 정보 공개 의무를 위반하고 당국의 시정요구에 불응한 해외 게임물에 대해 행정처분 절차가 진행되면서 이용자들의 결제 피해 주의가 요구된다.게임물관리위원회(위원장 서태건, 이하 게임위)는 확률형 아이템 표시의무 위반으로 행정처분 절차가 진행 중인 해외 게임물 '영혼 인도자: 신의 이름으로(개발사 PLAY CAT NETWORK TECHNOLOGY CO., LIMITED)'와 관련해 이용자 피해 예방을 위한 주의를 당부했다고 2일 밝혔다.'영혼 인도자: 신의 이름으로(이하 영혼 인도자)'는 올해 3월 출시된 모바일 게임이다. 구글 플레이 누적 다운로드 10만회 이상을 기록하고 애플 앱스토어 롤플레잉 순위 상위권에 올랐으며, 국내 앱마켓인 갤럭시 스토어와 원스토어에도 입점해 유통 중이다.게임위는 상시 모니터링 과정에서 해당 게임물이 확률형 아이템 표시의무를 다수 이행하지 않은 사실을 적발했다. 이후 개발사 측에 6차례에 걸쳐 시정요청을 발송하고 자체등급분류사업자를",
+          "published": "2026-10-02T09:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "한국투자증권, 카카오와 디지털자산 생태계 구축 동맹 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0bGxxbVljS3pWeHpsbkZPZllYdGwxd3ItcWxHTFVEU1B2SGJySlVzVjdBT1E0Z0lpQldoVjJtaVhuVS1aV1Ytal9IUzZZcjdoVllfMk9rcC1HNldxdFBwWlFDaUsxT2w1dTlsVzI1eGI?oc=5",
-          "summary": "한국투자증권, 카카오와 디지털자산 생태계 구축 동맹 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-01T04:35:58+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Cboe Eyes VIX Perpetuals as Exchanges Move Beyond Crypto",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/cboe-eyes-vix-perpetual-futures-as-exchanges-move-beyond-crypto",
-          "summary": "Cboe Global Markets Inc. is looking at listing perpetual futures based on the Cboe Volatility Index, as US exchanges race to bring the highly levered instruments that dominate the crypto market to new asset classes.",
-          "published": "2026-10-01T17:02:18+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Trump Memecoin Dinner Returns as Democrats Threaten Scrutiny",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-01/trump-memecoin-dinner-returns-as-democrats-threaten-scrutiny",
-          "summary": "The promoter of Donald Trump’s memecoin is marketing another chance for top holders to attend an event with the president, just as Democratic lawmakers threaten fresh scrutiny of his crypto business dealings.",
-          "published": "2026-10-01T17:59:03+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 2,
       "articles": [
         {
-          "title": "국내 주요 증권사, 브루스 마켓 미국 주식 데이터 피드와 연결해 블라인드 거래 위험 낮춰",
-          "link": "https://zdnet.co.kr/view/?no=20261002071002",
-          "summary": "[지디넷코리아] 시장 데이터 장애 이후 한국에서 시장 복원력 강화 수요 커지며 토스증권, 메리츠증권에 이어 Bruce ATS 합류 시카고 및 한국 서울, 2026년 10월 2일 /PRNewswire/ -- 미국 주식 야간 거래 플랫폼 Bruce ATS를 운영하는 브루스 마켓(Bruce Markets)이 한국의 인가 증권사이자 국내 1위 금융 슈퍼앱 토스의 투자 서비스인 토스증권이 미국 주식 야간 거래를 위한 Bruce ATS의 시장 데이터 피드에 연결해 고객의 블라인드 거래 위험을 낮췄다고 오늘 발표했다. 이번 통합은 최근 발생한 시장 데이터 장애 이후 시장 구조의 복원력을 강화하려는 수요가 증가함에 따라 메리츠증권이 브루스 마켓의 한국 내 첫 시장 데이터 고객사가 된 데 이은 것이다. 브루스 마켓의 제이슨 월락(Jason Wallach) CEO는 \"한국 투자자들은 미국 야간 시장에서 매우 중요한 역할을 하고 있다. 특히 다른 거래소에 이용 가능한 유동성이 존재하는 상황에서 단일 A",
-          "published": "2026-10-01T22:10:02+00:00",
+          "title": "네이버 vs 카카오 멤버십, 가격은 같은데 혜택은 어떻게 다를까",
+          "link": "https://zdnet.co.kr/view/?no=20261002170611",
+          "summary": "[지디넷코리아]카카오가 네이버 멤버십과 똑같은 4900원 금액에 구독형 서비스를 출시하며 새 수익 모델을 내놨다. 적립을 포함한 유사해 보이는 혜택이 엿보이는데, 카카오는 네이버에는 없는 금융 혜택을 추가하며 차별점을 확보했다. 현 기준 네이버 멤버십은 스포티파이·넷플릭스 같은 타사와의 제휴에 힘을 쏟는 반면, 카카오는 아직 자체 그룹 서비스와의 연계에 집중한 모습이다.2일 IT업계에 따르면 카카오는 전날 커머스, 콘텐츠, 금융 등 그룹 내 다양한 서비스를 연계한 최초의 통합 ‘카카오 멤버십’의 선착순 가입 신청을 받기 시작했다. 초기 서비스 안정화를 위해 소규모 이용자를 대상으로 가입을 진행한 뒤 서비스를 정식 출시한다는 방침이다.카카오에 앞서 네이버는 2020년 6월부터 ‘네이버플러스 멤버십’이라는 이름의 멤버십 서비스를 운영해오고 있다. 특히, 네이버는 올해 멤버십 활성 이용자 수를 전년 대비 20% 이상 성장시키는 것을 목표로 내걸 만큼 서비스 활성화에 주력하겠다는 뜻을 밝힌",
+          "published": "2026-10-02T08:21:24+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HVTUzZVRoWTZ4c2pMR3pWMElxbnpOSi1LQXlPempSMWdrdXVMQy04ZnhWZWozcTIyRkhVWUJDVko4WWNxMklZQi1JUjdYa2ZBNGxBTkF2N2ZXcDlKNkRkRnh5V3FWYy1Remc?oc=5",
-          "summary": "네이버, 웨일 브라우저 내 'AI 챗' 탑재...\"타 서비스 도입도 검토\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-01T20:20:36+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "태양광 에너지로 우주에 전력 공급…세계 첫 도전 주목 [우주로 간다]",
-          "link": "https://zdnet.co.kr/view/?no=20261001163438",
-          "summary": "[지디넷코리아]지구 궤도에서 태양광 에너지를 모아 다른 위성에 무선으로 전력을 공급하는 ‘우주 전력망’ 구축이 본격화된다. 우주 자산의 전력 부족 문제를 해결하기 위한 첫걸음이다.IT매체 기즈모도는 미국 플로리다 기반의 우주기술 스타트업 ‘스타캐처(StarCatcher)’가 궤도상 무선 전력 전송 기술을 검증하기 위한 시제품 위성 ‘프로토스타(Protostar)’ 발사를 준비 중이라고 30일(현지시간) 보도했다.프로토스타는 1일 스페이스X '트랜스포터-18' 미션에 실려 우주로 올라간 뒤, 궤도에 머무는 다른 위성에 에너지를 전송하는 실증 실험을 진행한다.스타캐처 기술의 핵심은 태양광 에너지를 특정 파장의 빛으로 수집한 뒤, 강력한 레이저로 변환해 대상 위성의 태양광 패널에 직접 쏘는 방식이다. 전력을 받는 위성은 별도 특수 수신 장비 없이 태양광 패널만으로 에너지를 공급받을 수 있다.이번 시도가 성공하면 궤도상에서 연결선 없이 떠 있는 두 우주선 간에 레이저로 에너지를 전송하는 세",
-          "published": "2026-10-01T08:01:53+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -372,18 +246,18 @@
           "event_labels": []
         },
         {
-          "title": "다이소몰, 토스페이 결제하면 1000원 할인…10월 한 달간 진행",
-          "link": "https://zdnet.co.kr/view/?no=20261001173402",
-          "summary": "[지디넷코리아]아성다이소가 온라인 쇼핑몰 다이소몰에서 토스페이 결제 고객을 대상으로 할인 행사를 진행한다.아성다이소는 토스와 함께 10월 한 달간 '토스페이 이벤트'를 진행한다고 1일 밝혔다.행사 기간 다이소몰에서 토스페이로 3만원 이상 결제하면 1000원을 즉시 할인받을 수 있다. 하루 한 차례 혜택을 받을 수 있으며 행사 예산이 소진되면 조기 종료될 수 있다.할인은 토스페이에 등록한 계좌나 토스페이머니로 결제할 때 적용된다.다이소몰은 결제 금액에 따른 배송비 혜택도 운영하고 있다. 3만원 이상 구매하면 택배배송을 무료로 제공하며 서울 지역에서 이용할 수 있는 '오늘배송'은 4만원 이상 구매하면 배송비가 면제된다.온라인으로 주문한 상품을 매장에서 찾아가는 '매장픽업'과 여러 상품을 한꺼번에 구매할 수 있는 '대량주문' 서비스도 운영 중이다.아성다이소 관계자는 \"다이소몰 이용 고객에게 쇼핑 혜택을 제공하기 위해 이번 행사를 마련했다\"며 \"앞으로도 다양한 이벤트를 선보일 계획\"이라고 ",
-          "published": "2026-10-01T08:34:02+00:00",
+          "title": "에픽게임즈 '포트나이트', 핼러윈 맞이 '포트나이트의 악몽 2026' 개막",
+          "link": "https://zdnet.co.kr/view/?no=20261002183016",
+          "summary": "[지디넷코리아]글로벌 배틀로얄 게임 '포트나이트'가 핼러윈 시즌을 겨냥해 다양한 호러 테마 콘텐츠와 신규 무기를 선보이는 대규모 가을 이벤트를 시작한다.에픽게임즈 코리아는 '포트나이트'에서 시즌 특별 이벤트인 '포트나이트의 악몽 2026'을 시작한다고 2일 밝혔다.이번 이벤트 기간에는 배틀로얄, 호드 러시, 리로드 모드 전반에 걸쳐 신규 오버라이드와 장비가 적용된다. 아울러 '프레디의 피자가게', '나이트메어', '해즈빈 호텔', '비틀쥬스', '옵세션' 등 유명 콘텐츠 지식재산권(IP)을 바탕으로 제작된 의상과 액세서리가 10월 한 달 동안 순차적으로 게임 내 상점에 입고된다.배틀로얄 전장에는 기존 '프리키 필즈'와 함께 신규 구역인 '나이트메어 네이버후드'가 조성된다. 해당 지역에서 등장하는 보스 프레디 크루거를 처치하면 순간이동 근접 공격이 가능한 '프레디의 클로'를 얻을 수 있다.이용자는 전력질주 중 은신, 저체력 시 공격력 강화, 분대원 소품 위장 등의 효과를 지닌 '저주받",
+          "published": "2026-10-02T10:14:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
