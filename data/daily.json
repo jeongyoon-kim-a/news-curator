@@ -1,86 +1,24 @@
 {
-  "generated_at": "2026-10-03T23:36:40.532947+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-10-04T23:52:23.739665+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "美 미래전쟁 전략 연구에 머스크 참여…\"이해충돌 우려\" 제기 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OSWVuRFlqbzdkSkVhUnJPTGlYLTNZbDlhcjhwN0RuLVBET1dRVE5VNm9FRzZLdVhDT3Jvb2lFempYMWRGVWs3ekd1QkNoWjVuUGc?oc=5",
-          "summary": "美 미래전쟁 전략 연구에 머스크 참여…\"이해충돌 우려\" 제기 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-03T03:24:42+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14SXhtREgzbjJqN2w4VzAxaThsTXczZGtDdUlwVld4eTV0ZHU1cmVzeGY0UXlxLS02b1FWS0tMbjZpZXZQLUpUM1hnbUxTclphLWhaTnZCNE8zcF9pVklVNWhQNExjdXZWQ2c?oc=5",
+          "summary": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-04T06:34:40+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "테슬라, 3분기 인도량 예상치 상회…주가 5% ↑",
-          "link": "https://zdnet.co.kr/view/?no=20261003084458",
-          "summary": "[지디넷코리아]테슬라의 3분기 차량 인도량 등 판매 실적이 증권가 예상치를 뛰어넘으면서 주가가 5% 가량 상승했다.테슬라는 2일(현지시간) 3분기 차량 인도량 48만6532대, 에너지저장장치(ESS) 설치량은 13.7GWh를 기록했다고 밝혔다.차량 인도량은 증권가 예상치인 46만1974대를 넘어섰다. 전분기 대비로는 약 6000대 증가한 수치다. 전년 동기 실적인 49만7000여대보다는 낮지만, 이는 미국 전기차 구매 세액공제 폐지 직전 조기 구매 수요가 반영됐다는 게 업계 평가다.차량 인도량 중 98%는 모델3와 모델Y가 차지했다.3분기 ESS 설치량은 증권가 예상치인 15.9GWh를 하회했지만, 전년 동기 실적인 13.5GWh보다 소폭 증가했다.블룸버그에 따르면 BC캐피털마켓츠 애널리스트인 톰 나라얀은 테슬라가 미국 자동차 기업들의 전기차 시장 철수, 고유가로 인한 전기차 수요 증가 수혜를 누렸을 가능성이 있다고 분석했다.3분기 인도량 발표 후 테슬라 주가는 전일 대비 약 4.7",
-          "published": "2026-10-03T03:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "“美 테슬라같은 자율주행 우린 언제쯤”…국내 3사 서비스 비교해보니 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5",
-          "summary": "“美 테슬라같은 자율주행 우린 언제쯤”…국내 3사 서비스 비교해보니 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-03T04:49:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“中, 러시아판 스타링크 개발 지원”…젤렌스키, 트럼프에 제재 요청 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWROdjJnZUpwMElkRmM3X1FoNDZweDNNNFNMTXlzODRqVnNtbmtVZ0hvdkpycGpnTWRiRk5zcU1VdGgwOUstVlFKZGhyaV94VFY3UWExcm9lYU5wNFg3aDlJanBjbjduWkRSWEFIODRmV3pmU0VHZmFZb1k0Qk9hem5FVEVPaGxxM2tv?oc=5",
-          "summary": "“中, 러시아판 스타링크 개발 지원”…젤렌스키, 트럼프에 제재 요청 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-03T06:13:29+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -92,21 +30,105 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 8,
       "articles": [
         {
-          "title": "OpenAI Employee Quits With Call for Nuclear-Level Safeguards",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "summary": "An OpenAI employee focused on AI safety has quit the company and warned that top artificial intelligence firms aren’t doing enough to mitigate the technology’s risks, joining a growing chorus of employees raising alarms from within the industry.",
-          "published": "2026-10-03T13:13:42+00:00",
+          "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
+          "summary": "Former Anthropic researcher Jacob Coxon, who warned that artificial intelligence could become too powerful for humans to control, will testify Monday at a New York City Council hearing alongside representatives of some of the world’s biggest AI companies.",
+          "published": "2026-10-04T20:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메모리 가격 인상에…구글 ‘픽셀 10a’, 13만원 비싸졌다",
+          "link": "https://zdnet.co.kr/view/?no=20261004105356",
+          "summary": "[지디넷코리아]메모리 가격 상승으로 구글이 출시 7개월 된 보급형 스마트폰 ‘픽셀 10a’의 가격을 100달러(약 13만4900원) 인상했다.3일(현지시간) 나인투파이브구글, 블룸버그 등 외신은 구글 모회사 알파벳이 픽셀 10a의 가격을 기존보다 100달러 올린 599달러(약 81만원)로 책정했다고 보도했다.전자제품 업계 전반에 영향을 미치고 있는 메모리 반도체 부족 현상이 지속되면서 스마트폰 가격도 상승하는 흐름을 보이고 있다. 삼성전자도 최근 갤럭시S26 시리즈 중 기본형과 플러스, 울트라의 256GB·512GB 모델 가격을 각각 14만9600원가량 인상했다. 울트라 1TB 모델은 27만6100원 올랐다.애플이 지난달 선보인 아이폰 18의 고급형인 프로와 프로맥스도 전작보다 가격이 올랐으며, 일부 구형 모델도 가격을 인상했다.보급형 모델인 픽셀 10a는 지난해 출시된 픽셀 9a와 비교해 개선된 부분이 제한적이며 2년 전 출시된 구글의 텐서 G4 프로세서를 탑재했다.반면 고급형 제",
+          "published": "2026-10-04T05:45:31+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "티냅스, 창업 1년여 만에 ‘엔비디아 인셉션 챌린지 2026’ 톱10 선정",
+          "link": "https://zdnet.co.kr/view/?no=20261004155331",
+          "summary": "[지디넷코리아]AI 보안 스타트업 티냅스(Tynapse, 대표 강민승)가 지난 22일 싱가포르에서 열린 ‘엔비디아 인셉션 그랜드 챌린지 2026(NVIDIA Inception Grand Challenge 2026)’ 아시아·태평양 결선에서 최종 톱10에 선정됐다. 티냅스는 기업용 AI 에이전트의 의사결정을 실시간으로 검증 및 통제하는 기업이다.4일 회사에 따르면, '엔비디아 인셉션 그랜드 챌린지'는 아시아·태평양 지역 AI 스타트업들이 실제 기업 환경에 적용할 수 있는 AI 기술과 솔루션을 선보이는 대회다. 올해는 아시아·태평양 지역 스타트업 1만여 곳이 참여한 가운데 기술·사업성 등을 종합적으로 평가해 최종 수상팀을 선정했다.2025년 설립한 티냅스는 창업 1년여 만에 '엔비디아 APAC 톱10'에 이름을 올렸다. 설립 초기부터 금융권 등 실제 엔터프라이즈 환경에서 AI 판단과 행동을 검증·통제하는 기술을 적용했다. 이번 결선에서는 실제 기업 환경에서 축적한 기술 검증 경험과 대규",
+          "published": "2026-10-04T06:53:31+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Dario Amodei’s American AI imperialism",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed",
+          "summary": "Anthropic CEO Dario Amodei seems to believe that he, the American artificial intelligence (AI) industry and the United States are the only ones who should have the right to determine the fate of humanity. While he pays lip service to involving other democracies in AI development, which ones remotely approach the technological capacities of the US and China? Do other non-democratic developing countries not count? His self-belief is far more dangerous than mere commercial greed. Like Peter Thiel,.",
+          "published": "2026-10-04T21:30:09+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Apple’s John Ternus Leads Design; Touch-Screen OLED MacBook Pro Gets Lighter",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter",
+          "summary": "Also: A big update on the touch-screen MacBook Pro.",
+          "published": "2026-10-04T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -115,39 +137,19 @@
           "event_labels": []
         },
         {
-          "title": "SK쉴더스, AWS '위협탐지 및 대응' 컴피턴시 국내 첫 획득",
-          "link": "https://zdnet.co.kr/view/?no=20261003212658",
-          "summary": "[지디넷코리아]SK쉴더스(대표 민기식)가 아마존웹서비스(Amazon Web Services, AWS)의 보안 컴피턴시 중 ‘Threat Detection and Response(위협 탐지 및 대응, TDR)’를 획득했다.최근 기업들의 클라우드 전환이 확대하면서 사이버 위협도 다양해지고 있다. 서버, 네트워크, 컨테이너, 데이터베이스 등 클라우드 환경 전반의 자산과 설정을 지속적으로 관리해야 할 필요성이 커졌다. 계정 탈취, 권한 오남용, 데이터 유출과 같은 보안 위협에 대응하기 위해서는 환경별 로그와 이벤트를 분석하고, 탐지된 위협의 우선순위를 판단해 대응하는 체계가 필요하다.2일 SK쉴더스에 따르면, AWS 보안 컴피턴시는 AWS 환경에서 보안 솔루션과 서비스를 제공하는 AWS 파트너의 전문성과 고객 사례 등을 검토하는 프로그램이다. TDR 컴피턴시는 보안관제센터(SOC) 운영, 보안정보 및 이벤트 관리(SIEM), 보안 오케스트레이션·자동화·대응(SOAR), 확장 탐지·대응(XD",
-          "published": "2026-10-03T12:26:58+00:00",
+          "title": "엔비디아, 메모리 64GB 탑재 'DGX 스파크' 이달 출시",
+          "link": "https://zdnet.co.kr/view/?no=20261003235013",
+          "summary": "[지디넷코리아]엔비디아가 2일(현지시간) AI 워크스테이션 'DGX 스파크'의 통합메모리를 절반으로 줄인 파생 모델을 이달 하순부터 공급한다고 밝혔다.엔비디아는 CES 2025 기조연설에서 클라우드 없이 개인이 AI 연산에 활용할 수 있는 장치 '프로젝트 디지츠'를 공개했다.이어 같은 해 3월 열린 GTC 2025에서 이 제품의 정식 명칭을 'DGX 스파크'로 확정했다.출시 당시 DGX 스파크에는 블랙웰 GPU 'GB10'과 Arm IP 기반 20코어 그레이스(Grace) CPU를 결합한 SoC, 128GB LPDDR5X 통합메모리가 탑재됐다.이달 하순 공급되는 파생 모델은 통합메모리를 64GB로 줄였다. 이에 따라 구동할 수 있는 AI 모델 규모도 기존 최대 2000억 개에서 1000억 개 매개변수(파라미터) 수준으로 낮아졌다.다만 통합메모리 용량을 제외한 핵심 요소는 기존 128GB 모델과 동일하다. 엔비디아에 따르면 64GB 모델에도 GB10 그레이스 블랙웰 슈퍼칩과 DGX O",
+          "published": "2026-10-04T01:00:05+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vLUZrbmFsTEQzcE9GNTRTNTYwZGZPdEp5cXZlRXEyMG5hakk0ckhRSXNHUDVRNkRIakJ2TGJDTkxENkZjWm5BSnZyOEE5R21uQnVic25kc1l1RE91X2thM1lPSEZETGhKR0E?oc=5",
-          "summary": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-03T03:01:35+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
+          "score": 7,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -155,59 +157,39 @@
           "event_labels": []
         },
         {
-          "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GMXdYWUFIcjF4WXkxU1YxS1FGS3E4LTNMTXJoT2JITXBZVXBLOEc5QnAzR1labjdHNlhCcldaaU9FcEladFk0ZEcyc1ZnUWdCblUzVGJ6Y1hENVZKeXRBc05XWmhSLWdJcnc?oc=5",
-          "summary": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-03T01:35:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "애플, AI 에이전트 무단 접근 증가로 맥OS '전체 디스크 접근' 제어 강화 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81QXFfZjNjYUJFV25RX0htcnJ4WG1iUm9sNmoxWWh4aFJqcTFIelNhVF9VZmluWGNqODRISWVqdzNmWEdfSWo3OGp5bldoTm1Ndk0zdU5jTmpWaDVCWThWek0yOV8xQWRLMWc?oc=5",
-          "summary": "애플, AI 에이전트 무단 접근 증가로 맥OS '전체 디스크 접근' 제어 강화 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-03T03:39:36+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"저절로 돌아가네\"…구글, 기상천외 ‘움직이는 키보드’ 공개",
-          "link": "https://zdnet.co.kr/view/?no=20261002234412",
-          "summary": "[지디넷코리아]구글이 키가 끊임없이 움직이는 독특한 물리 키보드를 공개해 주목받고 있다.IT매체 디지털트렌드는 구글 재팬이 선보인 ‘지보드 쿠루쿠루 버전(Gboard Kurukuru Version)’을 최근 보도했다.이 키보드는 고정된 키를 사용하는 기존 키보드와 달리 회전하는 컨베이어 벨트에 키를 장착한 것이 특징이다. 키가 끊임없이 움직이기 때문에 마치 미니 게임을 하듯 타이핑할 수 있다.구글에 따르면, 일반적인 키보드는 사용자가 손과 손가락을 키보드 위에서 움직이는 방식으로 설계됐다. 때문에 한 손으로 타이핑하거나 손가락 하나만 사용해 입력할 경우 불편함이 커질 수 있다. 이에 지보드 팀은 손가락을 움직이는 대신 키보드가 움직이도록 입력 방식을 바꿨다.쿠루쿠루 버전은 각각 29개의 키가 장착된 컨베이어 벨트 4개로 구성돼 총 116개의 키를 제공한다. 벨트가 계속 회전하는 동안 원하는 문자가 손가락 아래로 들어오면 해당 키를 누르는 방식이다.대문자와 소문자도 각각 별도의 키로 ",
-          "published": "2026-10-03T01:30:01+00:00",
+          "title": "소니, 메타에 XR 특허 418건 양도...하드웨어 사업 축소 수순",
+          "link": "https://zdnet.co.kr/view/?no=20261005032140",
+          "summary": "[지디넷코리아]소니가 메타에 확장현실(XR) 특허 418건을 양도했다. 소니는 XR 하드웨어 사업을 축소하려는 의도로 보인다. 메타는 XR 특허 포트폴리오를 보강했다. 5일 미국 특허상표청에 따르면 소니는 지난 6~9월 미국 XR 특허 43건을 메타에 양도했다. 월별로 ▲6월 2건 ▲7월 20건 ▲9월 21건 등을 차례로 이전했다. 특허 43건은 가상현실(VR)과 증강현실(AR), 혼합현실(MR) 등 XR, 그리고 헤드 마운티드 디스플레이(HMD) 시스템 관련 기술이다. 현재까지 미국 특허상표청 양도 기록에서 특허권자가 소니에서 메타로 바뀐 특허는 43건이지만, 특허권자가 바뀌는 특허는 앞으로 늘어날 것으로 예상된다. 두 업체가 지난 2025년 12월 체결한 확인 양도증(Confirmatory Assignment) 계약에 따르면, 이번 양수도 대상인 전 세계 특허는 418건이다. 이 가운데 미국 특허는 118건이다. 나머지 300건은 일본과 중국, 한국, 유럽 등에 출원(신청)한 패",
+          "published": "2026-10-04T18:41:33+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 5,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNkRvNkxDbW1HR1lac3NMZGVvU1hRWWlmUE9xRzFlVlB3b1pjMlMtRFlteWtxMUFXU3NwSG93a2t2SUNLVWtxQ1RpN3ZIa0JfMURKcHVRcU5lb3RrZjBmYTNpYzUxem9USUE?oc=5",
+          "summary": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-04T07:16:07+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -223,8 +205,71 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "[인터뷰] 앱토스 CEO - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnOGFRWmc4WW9PQXBmUE5SdlI1dDE1ZTFnTlRpREUxTlZYcW5EUTlvWFJoaVByN3ItVFdCMHVoTDdzVThWV3ktNDdsZWZSZEMxWEE?oc=5",
+          "summary": "[인터뷰] 앱토스 CEO &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-04T21:01:01+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "네이버 쇼핑에 넷플릭스 더한 '네넷'…가입자 1.5배 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPcEU1ZkpLMnBiblpnb2hFYzhrS0NRNGcxQW8zRzhQT25HQVdpem1iNkxBbzNldjNWbldEeGY5bGRqNlJqUktSSi16VHZDWExHLVE?oc=5",
+          "summary": "네이버 쇼핑에 넷플릭스 더한 '네넷'…가입자 1.5배 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-04T22:55:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "암살자(들), 관람평 매크로 조작 정황 포착…네이버, 경찰에 수사 의뢰 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIZlhldExGc2tXMGxqcktOUXR2bUJ2X2tEUUlEaE5sd2NOcUFLVWkzNVdKN3ZzM1MyRi1wUzI2eWJQdVhNN29LVkVCTC1VQS1SY2ZoVQ?oc=5",
+          "summary": "암살자(들), 관람평 매크로 조작 정황 포착…네이버, 경찰에 수사 의뢰 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-04T05:34:27+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
