@@ -1,24 +1,44 @@
 {
-  "generated_at": "2026-10-04T23:52:23.739665+00:00",
+  "generated_at": "2026-10-06T01:41:31.662031+00:00",
   "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14SXhtREgzbjJqN2w4VzAxaThsTXczZGtDdUlwVld4eTV0ZHU1cmVzeGY0UXlxLS02b1FWS0tMbjZpZXZQLUpUM1hnbUxTclphLWhaTnZCNE8zcF9pVklVNWhQNExjdXZWQ2c?oc=5",
-          "summary": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-04T06:34:40+00:00",
+          "title": "머스크, 스페이스XAI를 '스페이스XSI'로 변경 언급 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RHNQdW5ySHFPQ3JQVWVydmFyYkhXRk5sN3lFeTJFZUVvSVk0dnkwa3NZRjc5c1AwSTY5THdKVmRVTmR5bGZPU1hQdllxeF9saHUzSGtzZG5EaV9wdTV3aVBfZmVhVUg2dWJ0TXFWMUk?oc=5",
+          "summary": "머스크, 스페이스XAI를 '스페이스XSI'로 변경 언급 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-05T05:02:32+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aXdQNnN5TUYyUjZCUFBmcE1rbjB3Vk1zTEhSblp0SWpCYzFaODJiM2VDZlI2WmtaNnA1UkNBZ0ZKaFpNdktzQ2JJYjR5RC1vdjVkc3lkMzlwQk5aTC1LbzFlVDBwMndjc1E?oc=5",
+          "summary": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-05T10:48:15+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -33,102 +53,18 @@
       "count": 8,
       "articles": [
         {
-          "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
-          "summary": "Former Anthropic researcher Jacob Coxon, who warned that artificial intelligence could become too powerful for humans to control, will testify Monday at a New York City Council hearing alongside representatives of some of the world’s biggest AI companies.",
-          "published": "2026-10-04T20:00:00+00:00",
+          "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
+          "summary": "Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
+          "published": "2026-10-05T19:00:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메모리 가격 인상에…구글 ‘픽셀 10a’, 13만원 비싸졌다",
-          "link": "https://zdnet.co.kr/view/?no=20261004105356",
-          "summary": "[지디넷코리아]메모리 가격 상승으로 구글이 출시 7개월 된 보급형 스마트폰 ‘픽셀 10a’의 가격을 100달러(약 13만4900원) 인상했다.3일(현지시간) 나인투파이브구글, 블룸버그 등 외신은 구글 모회사 알파벳이 픽셀 10a의 가격을 기존보다 100달러 올린 599달러(약 81만원)로 책정했다고 보도했다.전자제품 업계 전반에 영향을 미치고 있는 메모리 반도체 부족 현상이 지속되면서 스마트폰 가격도 상승하는 흐름을 보이고 있다. 삼성전자도 최근 갤럭시S26 시리즈 중 기본형과 플러스, 울트라의 256GB·512GB 모델 가격을 각각 14만9600원가량 인상했다. 울트라 1TB 모델은 27만6100원 올랐다.애플이 지난달 선보인 아이폰 18의 고급형인 프로와 프로맥스도 전작보다 가격이 올랐으며, 일부 구형 모델도 가격을 인상했다.보급형 모델인 픽셀 10a는 지난해 출시된 픽셀 9a와 비교해 개선된 부분이 제한적이며 2년 전 출시된 구글의 텐서 G4 프로세서를 탑재했다.반면 고급형 제",
-          "published": "2026-10-04T05:45:31+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 9,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "티냅스, 창업 1년여 만에 ‘엔비디아 인셉션 챌린지 2026’ 톱10 선정",
-          "link": "https://zdnet.co.kr/view/?no=20261004155331",
-          "summary": "[지디넷코리아]AI 보안 스타트업 티냅스(Tynapse, 대표 강민승)가 지난 22일 싱가포르에서 열린 ‘엔비디아 인셉션 그랜드 챌린지 2026(NVIDIA Inception Grand Challenge 2026)’ 아시아·태평양 결선에서 최종 톱10에 선정됐다. 티냅스는 기업용 AI 에이전트의 의사결정을 실시간으로 검증 및 통제하는 기업이다.4일 회사에 따르면, '엔비디아 인셉션 그랜드 챌린지'는 아시아·태평양 지역 AI 스타트업들이 실제 기업 환경에 적용할 수 있는 AI 기술과 솔루션을 선보이는 대회다. 올해는 아시아·태평양 지역 스타트업 1만여 곳이 참여한 가운데 기술·사업성 등을 종합적으로 평가해 최종 수상팀을 선정했다.2025년 설립한 티냅스는 창업 1년여 만에 '엔비디아 APAC 톱10'에 이름을 올렸다. 설립 초기부터 금융권 등 실제 엔터프라이즈 환경에서 AI 판단과 행동을 검증·통제하는 기술을 적용했다. 이번 결선에서는 실제 기업 환경에서 축적한 기술 검증 경험과 대규",
-          "published": "2026-10-04T06:53:31+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Dario Amodei’s American AI imperialism",
-          "link": "https://www.scmp.com/opinion/world-opinion/article/3369516/dario-amodeis-american-ai-imperialism?utm_source=rss_feed",
-          "summary": "Anthropic CEO Dario Amodei seems to believe that he, the American artificial intelligence (AI) industry and the United States are the only ones who should have the right to determine the fate of humanity. While he pays lip service to involving other democracies in AI development, which ones remotely approach the technological capacities of the US and China? Do other non-democratic developing countries not count? His self-belief is far more dangerous than mere commercial greed. Like Peter Thiel,.",
-          "published": "2026-10-04T21:30:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Apple’s John Ternus Leads Design; Touch-Screen OLED MacBook Pro Gets Lighter",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-10-04/apple-s-john-ternus-leads-design-touch-screen-oled-macbook-pro-gets-lighter",
-          "summary": "Also: A big update on the touch-screen MacBook Pro.",
-          "published": "2026-10-04T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 3,
             "recency": 2,
             "event_bonus": 0,
@@ -137,39 +73,63 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 메모리 64GB 탑재 'DGX 스파크' 이달 출시",
-          "link": "https://zdnet.co.kr/view/?no=20261003235013",
-          "summary": "[지디넷코리아]엔비디아가 2일(현지시간) AI 워크스테이션 'DGX 스파크'의 통합메모리를 절반으로 줄인 파생 모델을 이달 하순부터 공급한다고 밝혔다.엔비디아는 CES 2025 기조연설에서 클라우드 없이 개인이 AI 연산에 활용할 수 있는 장치 '프로젝트 디지츠'를 공개했다.이어 같은 해 3월 열린 GTC 2025에서 이 제품의 정식 명칭을 'DGX 스파크'로 확정했다.출시 당시 DGX 스파크에는 블랙웰 GPU 'GB10'과 Arm IP 기반 20코어 그레이스(Grace) CPU를 결합한 SoC, 128GB LPDDR5X 통합메모리가 탑재됐다.이달 하순 공급되는 파생 모델은 통합메모리를 64GB로 줄였다. 이에 따라 구동할 수 있는 AI 모델 규모도 기존 최대 2000억 개에서 1000억 개 매개변수(파라미터) 수준으로 낮아졌다.다만 통합메모리 용량을 제외한 핵심 요소는 기존 128GB 모델과 동일하다. 엔비디아에 따르면 64GB 모델에도 GB10 그레이스 블랙웰 슈퍼칩과 DGX O",
-          "published": "2026-10-04T01:00:05+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "그록 우회인수 엔비디아, 주주권 침해로 피소…\"일반주주 소외\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sY0Nhdm02cGJFV2xOTGRLaXpONmtOMWcyc242UnkyRTh6SVlfRll3TTRZdkwzWTVkQWlQX3RJQWtHUHVNaEpsNjJ2YWlNZUpZRHc?oc=5",
+          "summary": "그록 우회인수 엔비디아, 주주권 침해로 피소…\"일반주주 소외\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-05T21:48:35+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         },
         {
-          "title": "소니, 메타에 XR 특허 418건 양도...하드웨어 사업 축소 수순",
-          "link": "https://zdnet.co.kr/view/?no=20261005032140",
-          "summary": "[지디넷코리아]소니가 메타에 확장현실(XR) 특허 418건을 양도했다. 소니는 XR 하드웨어 사업을 축소하려는 의도로 보인다. 메타는 XR 특허 포트폴리오를 보강했다. 5일 미국 특허상표청에 따르면 소니는 지난 6~9월 미국 XR 특허 43건을 메타에 양도했다. 월별로 ▲6월 2건 ▲7월 20건 ▲9월 21건 등을 차례로 이전했다. 특허 43건은 가상현실(VR)과 증강현실(AR), 혼합현실(MR) 등 XR, 그리고 헤드 마운티드 디스플레이(HMD) 시스템 관련 기술이다. 현재까지 미국 특허상표청 양도 기록에서 특허권자가 소니에서 메타로 바뀐 특허는 43건이지만, 특허권자가 바뀌는 특허는 앞으로 늘어날 것으로 예상된다. 두 업체가 지난 2025년 12월 체결한 확인 양도증(Confirmatory Assignment) 계약에 따르면, 이번 양수도 대상인 전 세계 특허는 418건이다. 이 가운데 미국 특허는 118건이다. 나머지 300건은 일본과 중국, 한국, 유럽 등에 출원(신청)한 패",
-          "published": "2026-10-04T18:41:33+00:00",
+          "title": "구글, 英서 2조원 집단소송…플레이스토어 ‘과다 수수료 공방’",
+          "link": "https://zdnet.co.kr/view/?no=20261005105606",
+          "summary": "[지디넷코리아]구글이 영국에서 안드로이드 스마트폰 이용자 수백만 명에게 10년 넘게 앱 다운로드 비용을 과도하게 부과했다는 주장과 관련해 12억 파운드(약 2조 1336억원) 규모의 소송에 대응할 준비를 하고 있다.4일(현지시간) 파이낸셜타임스 등 외신에 따르면 막판 합의가 이뤄지지 않는다면 구글을 상대로 한 집단소송 재판은 이번 주 런던에서 시작돼 7주간 진행될 예정이다.이번 소송은 아부다비 국부펀드 무바달라의 지원을 받는 포트리스 인베스트먼트 그룹이 소송 비용을 지원한다.반독점 소송에서 원고 측이 승소할 경우 약 2000만 명의 소비자가 1인당 평균 약 60파운드(약 10만6700원)의 보상을 받을 수 있다.원고 측은 구글 모회사 알파벳이 경쟁을 제한하고 2015년부터 안드로이드 운영체제(OS)의 구글 플레이스토어에서 다운로드한 소프트웨어에 과도한 수수료를 부과했다고 주장하고 있다.반면 구글은 반경쟁 행위를 했다는 주장을 부인하고 있다. 구글은 법정에서 안드로이드가 경쟁 플랫폼보",
+          "published": "2026-10-05T03:14:51+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Nvidia enfrenta preguntas sobre contrabando de chips de IA en China",
+          "link": "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china",
+          "summary": "Los chips de IA de la empresa siguen llegando a China a pesar de las restricciones estadounidenses. Las autoridades se preguntan por qué la empresa no detectó las señales de alerta.",
+          "published": "2026-10-05T20:10:52+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -177,10 +137,70 @@
           "event_labels": []
         },
         {
-          "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9vNkRvNkxDbW1HR1lac3NMZGVvU1hRWWlmUE9xRzFlVlB3b1pjMlMtRFlteWtxMUFXU3NwSG93a2t2SUNLVWtxQ1RpN3ZIa0JfMURKcHVRcU5lb3RrZjBmYTNpYzUxem9USUE?oc=5",
-          "summary": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-04T07:16:07+00:00",
+          "title": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
+          "summary": "OpenAI is in talks with multiple investment funds from the United Arab Emirates, including Abu Dhabi-based MGX, to help anchor a $30 billion round of financing for the ChatGPT maker, according to people familiar with the matter.",
+          "published": "2026-10-05T20:46:28+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Amazon Executive to Join Pinterest as Chief Financial Officer",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-05/amazon-executive-to-join-pinterest-as-chief-financial-officer",
+          "summary": "Pinterest Inc. has appointed Amazon veteran James Dibbo to lead its finance team as the platform works to reposition itself as a creative alternative to other social media sites.",
+          "published": "2026-10-05T20:15:24+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "EmTech Future 2026: When AI Meets Everything",
+          "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+          "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+          "published": "2026-10-05T04:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZ1dWUE9aY0ttSHg4YmxPRGthd2x1bWxSZHczRmJINU5oSWxQRTNtZVhTUVZoQ2Q4bjZaVUNFMHNTSEtiaHZNZWw0ei1iWk95dlFZZjdrNkR0b1l1cjdFYUdTemVmaUQtUGc?oc=5",
+          "summary": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-05T07:22:36+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -205,23 +225,23 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "[인터뷰] 앱토스 CEO - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnOGFRWmc4WW9PQXBmUE5SdlI1dDE1ZTFnTlRpREUxTlZYcW5EUTlvWFJoaVByN3ItVFdCMHVoTDdzVThWV3ktNDdsZWZSZEMxWEE?oc=5",
-          "summary": "[인터뷰] 앱토스 CEO &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-04T21:01:01+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "리사 수 AMD CEO, 7일 '게이머 데이' 참석차 방한",
+          "link": "https://zdnet.co.kr/view/?no=20261005154802",
+          "summary": "[지디넷코리아]리사 수 AMD 최고경영자(CEO)가 오는 7일 한국을 찾는다. 지난 3월 이후 약 7개월만이며 서울 용산 드래곤시티호텔에서 열리는 'AMD 게이머 데이' 행사에 참석할 예정이다.리사 수 CEO는 2014년 취임 이후 12년 만인 지난 3월 하순 처음으로 한국을 공식 방문했다. 당시 국내 고객사와 협력사, 스타트업, 정부 관계자 등 다양한 이해관계자들과 만나 협력 방안을 논의했다.당시 최수연 네이버 대표, 전영현 삼성전자 DS부문장, 이재용 삼성전자 회장, 김성훈 업스테이지 대표, 노태문 삼성전자 DX부문장 등을 만났다.또 임문영 국가AI전략위원회 부위원장, 하정우 청와대 AI·미래기획수석(현 국가AI전략위원회 부위원장) 등 정부·정책 관계자들과도 회동했다.5일 AMD코리아에 따르면 리사 수 CEO는 7일 오후 서울 용산 드래곤시티에서 열리는 'AMD 게이머 데이'에 참석해 국내 게이머들과 만난다. 국내 기자단을 대상으로 한 질의응답도 진행할 예정이다.이번 행사에는 잭",
+          "published": "2026-10-05T06:49:39+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 12,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -230,39 +250,19 @@
           ]
         },
         {
-          "title": "네이버 쇼핑에 넷플릭스 더한 '네넷'…가입자 1.5배 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPcEU1ZkpLMnBiblpnb2hFYzhrS0NRNGcxQW8zRzhQT25HQVdpem1iNkxBbzNldjNWbldEeGY5bGRqNlJqUktSSi16VHZDWExHLVE?oc=5",
-          "summary": "네이버 쇼핑에 넷플릭스 더한 '네넷'…가입자 1.5배 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-04T22:55:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "네이버, ‘암살자(들)’ 관람평 어뷰징에 경찰 수사 의뢰…영화 평점 노출도 손본다",
+          "link": "https://zdnet.co.kr/view/?no=20261005110128",
+          "summary": "[지디넷코리아]네이버가 영화 ‘암살자(들)’ 관람평에서 기계적 어뷰징을 확인하고 경찰에 수사를 의뢰했다. 최근 영화 관람평과 공감·비공감 수가 중복 반영되는 오류를 조사하는 과정에서 시스템 오류와 별개로 비정상적인 트래픽이 확인된 데 따른 조치다.5일 관련 업계에 따르면 네이버는 전날 고객센터 공지를 통해 최근 발생한 영화 관람평 및 공감·비공감 중복 등록 오류를 분석한 결과 일부 영화에서 비정상적 트래픽을 확인해 수사를 의뢰했다고 밝혔다. 네이버는 지난 1일 경찰에 수사를 의뢰했다. 특히 공감·비공감 중복 등록 오류가 발생했던 기간 영화 ‘암살자(들)’에서 기계적 어뷰징이 확인됐다. 기계적 어뷰징은 매크로 등 자동화된 방식을 이용해 서비스 이용 수치 등에 비정상적으로 영향을 주는 행위를 말한다.앞서 네이버 영화 서비스에서는 일부 관람평이 중복 등록되거나 공감·비공감 수가 중복 집계되는 오류가 발생했다. 네이버는 지난달 29일 문제를 확인한 뒤 긴급 조치에 나서 중복 관람평을 삭제하",
+          "published": "2026-10-05T02:02:45+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "암살자(들), 관람평 매크로 조작 정황 포착…네이버, 경찰에 수사 의뢰 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIZlhldExGc2tXMGxqcktOUXR2bUJ2X2tEUUlEaE5sd2NOcUFLVWkzNVdKN3ZzM1MyRi1wUzI2eWJQdVhNN29LVkVCTC1VQS1SY2ZoVQ?oc=5",
-          "summary": "암살자(들), 관람평 매크로 조작 정황 포착…네이버, 경찰에 수사 의뢰 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-04T05:34:27+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
