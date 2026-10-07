@@ -1,50 +1,32 @@
 {
-  "generated_at": "2026-10-06T01:41:31.662031+00:00",
+  "generated_at": "2026-10-07T00:28:58.293616+00:00",
   "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "머스크, 스페이스XAI를 '스페이스XSI'로 변경 언급 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4RHNQdW5ySHFPQ3JQVWVydmFyYkhXRk5sN3lFeTJFZUVvSVk0dnkwa3NZRjc5c1AwSTY5THdKVmRVTmR5bGZPU1hQdllxeF9saHUzSGtzZG5EaV9wdTV3aVBfZmVhVUg2dWJ0TXFWMUk?oc=5",
-          "summary": "머스크, 스페이스XAI를 '스페이스XSI'로 변경 언급 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-05T05:02:32+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "Musk’s SpaceX in Talks to Raise $40 Billion to Buy Nvidia Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says",
+          "summary": "Elon Musk’s SpaceX is in talks with banks and investors to raise $40 billion of debt to buy chips from Nvidia Corp., people familiar with the matter said, underscoring the insatiable demand among AI developers for more computing power.",
+          "published": "2026-10-06T22:57:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
             "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
-        },
-        {
-          "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05aXdQNnN5TUYyUjZCUFBmcE1rbjB3Vk1zTEhSblp0SWpCYzFaODJiM2VDZlI2WmtaNnA1UkNBZ0ZKaFpNdktzQ2JJYjR5RC1vdjVkc3lkMzlwQk5aTC1LbzFlVDBwMndjc1E?oc=5",
-          "summary": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 '파운데이션 모델' 시대 열렸다 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-05T10:48:15+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
@@ -53,114 +35,72 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
-          "summary": "Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
-          "published": "2026-10-05T19:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "그록 우회인수 엔비디아, 주주권 침해로 피소…\"일반주주 소외\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sY0Nhdm02cGJFV2xOTGRLaXpONmtOMWcyc242UnkyRTh6SVlfRll3TTRZdkwzWTVkQWlQX3RJQWtHUHVNaEpsNjJ2YWlNZUpZRHc?oc=5",
-          "summary": "그록 우회인수 엔비디아, 주주권 침해로 피소…\"일반주주 소외\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-05T21:48:35+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
+          "link": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
+          "summary": "On September 22, the global artificial intelligence landscape spun on its axis within a matter of hours. In Beijing, Xiaomi engineers went live with an unusual broadcast, streaming the training run of their new MiMo-V2.6 model. In San Francisco, Anthropic unveiled its frontier Opus 5.5 model. About an hour later, OpenAI crashed the party with the surprise release of its GPT-6 Sol and Luna models. For tech executives and developers trying to keep pace, it was just another overwhelming day in the.",
+          "published": "2026-10-06T12:00:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Boston Dynamics Taps Amazon Alexa Executive as New CEO",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo",
+          "summary": "Boston Dynamics appointed former Amazon.com Inc. executive Rohit Prasad as chief executive officer to lead the Hyundai Motor Co.-controlled company into its next era of innovation and commercialization of its robots.",
+          "published": "2026-10-06T21:34:06+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "‘또 최고가’ 엔비디아는 곧 시총 6조 달러인데…삼전·닉스는 왜 지지부진? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XTnZLWGlvZ2xZZWttZGlOengySjF3MXNCdHk3QTl2ZVREZDgyeE1jTDU4MWlsYVp5Z09tT1k5MHdrVy1HRDB1ZVBsbVpFTF9WTWc?oc=5",
+          "summary": "‘또 최고가’ 엔비디아는 곧 시총 6조 달러인데…삼전·닉스는 왜 지지부진? &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-07T00:17:32+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
             "keyword": 5,
             "source": 2,
             "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "구글, 英서 2조원 집단소송…플레이스토어 ‘과다 수수료 공방’",
-          "link": "https://zdnet.co.kr/view/?no=20261005105606",
-          "summary": "[지디넷코리아]구글이 영국에서 안드로이드 스마트폰 이용자 수백만 명에게 10년 넘게 앱 다운로드 비용을 과도하게 부과했다는 주장과 관련해 12억 파운드(약 2조 1336억원) 규모의 소송에 대응할 준비를 하고 있다.4일(현지시간) 파이낸셜타임스 등 외신에 따르면 막판 합의가 이뤄지지 않는다면 구글을 상대로 한 집단소송 재판은 이번 주 런던에서 시작돼 7주간 진행될 예정이다.이번 소송은 아부다비 국부펀드 무바달라의 지원을 받는 포트리스 인베스트먼트 그룹이 소송 비용을 지원한다.반독점 소송에서 원고 측이 승소할 경우 약 2000만 명의 소비자가 1인당 평균 약 60파운드(약 10만6700원)의 보상을 받을 수 있다.원고 측은 구글 모회사 알파벳이 경쟁을 제한하고 2015년부터 안드로이드 운영체제(OS)의 구글 플레이스토어에서 다운로드한 소프트웨어에 과도한 수수료를 부과했다고 주장하고 있다.반면 구글은 반경쟁 행위를 했다는 주장을 부인하고 있다. 구글은 법정에서 안드로이드가 경쟁 플랫폼보",
-          "published": "2026-10-05T03:14:51+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Nvidia enfrenta preguntas sobre contrabando de chips de IA en China",
-          "link": "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china",
-          "summary": "Los chips de IA de la empresa siguen llegando a China a pesar de las restricciones estadounidenses. Las autoridades se preguntan por qué la empresa no detectó las señales de alerta.",
-          "published": "2026-10-05T20:10:52+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "OpenAI in $30 Billion Round Talks With UAE Funds, BlackRock",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-05/openai-in-talks-with-uae-funds-blackrock-for-30-billion-round",
-          "summary": "OpenAI is in talks with multiple investment funds from the United Arab Emirates, including Abu Dhabi-based MGX, to help anchor a $30 billion round of financing for the ChatGPT maker, according to people familiar with the matter.",
-          "published": "2026-10-05T20:46:28+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Amazon Executive to Join Pinterest as Chief Financial Officer",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-05/amazon-executive-to-join-pinterest-as-chief-financial-officer",
-          "summary": "Pinterest Inc. has appointed Amazon veteran James Dibbo to lead its finance team as the platform works to reposition itself as a creative alternative to other social media sites.",
-          "published": "2026-10-05T20:15:24+00:00",
+          "title": "Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
+          "summary": "Apple Inc.’s upcoming push into smart home devices will include a doorbell, thermostat and other accessories developed through an unusual partnership with LG Electronics Inc.",
+          "published": "2026-10-06T21:07:43+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -177,18 +117,38 @@
           "event_labels": []
         },
         {
-          "title": "EmTech Future 2026: When AI Meets Everything",
-          "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-          "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
-          "published": "2026-10-05T04:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "\"이기종 연결부터 심폐소생술까지\"… AI반도체 특별관, K-반도체 저력 입증",
+          "link": "https://zdnet.co.kr/view/?no=20261006180230",
+          "summary": "[지디넷코리아]초거대 인공지능(AI) 시대를 맞아 데이터센터의 전력·병목 이슈를 해결하고, 실생활과 산업 현장에 AI를 적용하기 위한 국산 AI 반도체 혁신 기술이 한자리에 모였다.6일 서울 강남 코엑스에서 열린 'AI 페스타 2025' AI 반도체 특별관에서는 파네시아, 디노티시아, 딥엑스, 모빌린트 등 국내 대표 AI 반도체 팹리스와 인프라 기업이 실물 칩과 다채로운 데모를 시연했다. 이번 전시는 단순 기술 소개를 넘어 데이터센터 인프라 가속부터 고객 상용 제품 탑재, 관람객 체험형 데모까지 K-AI 반도체 생태계 고도화 성과를 입증했다.서버 및 데이터센터 영역에서는 이기종 반도체 간 연결성과 비정형 데이터 처리 효율을 높인 솔루션들이 눈길을 끌었다.파네시아는 사전 배포 실리콘 형태 실물 컴퓨트 익스프레스 링크(CXL) 스위치 칩을 전면에 내세웠다. 엔비디아 그래픽처리장치(GPU)뿐만 아니라 AMD 중앙처리장치(CPU), 국산 신경망처리장치(NPU), 메모리 익스펜더 등 상이한 ",
+          "published": "2026-10-06T23:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
+          "summary": "An Nvidia-backed US start-up has unveiled an open-weight model to challenge China’s dominance in freely available artificial intelligence, releasing a system that early third-party testing suggests could be one of the most token-efficient open models in its class. Reflection AI on Monday debuted Beam, its first open-weight model built for coding, reasoning and agentic tasks. The US firm said Beam was “competitive” with GLM-5.2 from Z.ai – also known as Zhipu AI – and was “approaching” Alibaba...",
+          "published": "2026-10-06T07:00:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -197,20 +157,40 @@
           "event_labels": []
         },
         {
-          "title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tZ1dWUE9aY0ttSHg4YmxPRGthd2x1bWxSZHczRmJINU5oSWxQRTNtZVhTUVZoQ2Q4bjZaVUNFMHNTSEtiaHZNZWw0ei1iWk95dlFZZjdrNkR0b1l1cjdFYUdTemVmaUQtUGc?oc=5",
-          "summary": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-05T07:22:36+00:00",
+          "title": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rdElkeWZhOUFIeUxfa2dpN0pPUERqSDNQRGVnWkJDenhsa0duY3NKQXpnRlZYOTFiQUkwd0RVX1EyN0l2RGpQd0VXeE9TeFJkZ1pRZDVMSW9PVUtIVUp1T2ZOdGx0SnVFLXc?oc=5",
+          "summary": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-06T23:12:53+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "브이키, AI 경제의 AI 안전 및 보안 강화를 위해 클라우드사인 AI에 대한 전략적 지분 투자 발표",
+          "link": "https://zdnet.co.kr/view/?no=20261007021003",
+          "summary": "[지디넷코리아] 싱가포르, 2026년 10월 6일 /PRNewswire/ -- 타워 캐피털 아시아(Tower Capital Asia, 이하 'TCA')의 포트폴리오 기업이자 디지털 신원 및 모바일 애플리케이션 보호 및 보안(Mobile Application Protection &amp; Security, 이하 'MAPS') 분야의 선도 공급업체인 브이키(V-Key)가 이날 싱가포르에 본사를 둔 AI 사이버보안 및 웹 무결성 보호 공급업체 클라우드사인 AI(CloudsineAI)에 대한 전략적 투자를 발표했다. V-Key Announces Majority Investment in CloudsineAI 이번 투자는 AI 경제에서 진화하는 안전, 신원 및 보안 요건에 대응하려는 브이키의 전략을 한층 진전시킨다. 브이키의 신뢰할 수 있는 디지털 신원 및 암호화 보호 전문성과 이미 민간 및 공공 부문 조직이 도입한 클라우드사인 AI의 AI 사이버보안 역량을 통합함으로써, 양사는 안전한 AI ",
+          "published": "2026-10-06T17:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -220,49 +200,68 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "정부, 국경 간 가상자산 이전 '통합 모니터링'…개인지갑도 대상 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VHAwN2JSWnlkNE1xOHk3dUhnMERRWUhTNkxHbWtiaUs4Zjh3RGFTQXE2YXk0RVlwa0JwOVVQSXN3LVBfdnJtTm40RnZlS3E2enI1RXlIZlZOZ2lqRFBlenUwLWk0b245bTZwVjlZTWk?oc=5",
+          "summary": "정부, 국경 간 가상자산 이전 '통합 모니터링'…개인지갑도 대상 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-07T00:00:01+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "리사 수 AMD CEO, 7일 '게이머 데이' 참석차 방한",
-          "link": "https://zdnet.co.kr/view/?no=20261005154802",
-          "summary": "[지디넷코리아]리사 수 AMD 최고경영자(CEO)가 오는 7일 한국을 찾는다. 지난 3월 이후 약 7개월만이며 서울 용산 드래곤시티호텔에서 열리는 'AMD 게이머 데이' 행사에 참석할 예정이다.리사 수 CEO는 2014년 취임 이후 12년 만인 지난 3월 하순 처음으로 한국을 공식 방문했다. 당시 국내 고객사와 협력사, 스타트업, 정부 관계자 등 다양한 이해관계자들과 만나 협력 방안을 논의했다.당시 최수연 네이버 대표, 전영현 삼성전자 DS부문장, 이재용 삼성전자 회장, 김성훈 업스테이지 대표, 노태문 삼성전자 DX부문장 등을 만났다.또 임문영 국가AI전략위원회 부위원장, 하정우 청와대 AI·미래기획수석(현 국가AI전략위원회 부위원장) 등 정부·정책 관계자들과도 회동했다.5일 AMD코리아에 따르면 리사 수 CEO는 7일 오후 서울 용산 드래곤시티에서 열리는 'AMD 게이머 데이'에 참석해 국내 게이머들과 만난다. 국내 기자단을 대상으로 한 질의응답도 진행할 예정이다.이번 행사에는 잭",
-          "published": "2026-10-05T06:49:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "다이먼 \"앤트로픽 미토스 출시 후 AI 위험 10배 치솟아\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVUFEZXFDR0taVlh6R2lsci1Odnl3RVM1cHlfTjN2dEhiaWo1dXZWWHNVNDA5OUpGczE5SjZMMnlRRlJ4ZEhiNGxQU0Yxc3NLV0E?oc=5",
+          "summary": "다이먼 \"앤트로픽 미토스 출시 후 AI 위험 10배 치솟아\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-06T23:14:46+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "네이버, ‘암살자(들)’ 관람평 어뷰징에 경찰 수사 의뢰…영화 평점 노출도 손본다",
-          "link": "https://zdnet.co.kr/view/?no=20261005110128",
-          "summary": "[지디넷코리아]네이버가 영화 ‘암살자(들)’ 관람평에서 기계적 어뷰징을 확인하고 경찰에 수사를 의뢰했다. 최근 영화 관람평과 공감·비공감 수가 중복 반영되는 오류를 조사하는 과정에서 시스템 오류와 별개로 비정상적인 트래픽이 확인된 데 따른 조치다.5일 관련 업계에 따르면 네이버는 전날 고객센터 공지를 통해 최근 발생한 영화 관람평 및 공감·비공감 중복 등록 오류를 분석한 결과 일부 영화에서 비정상적 트래픽을 확인해 수사를 의뢰했다고 밝혔다. 네이버는 지난 1일 경찰에 수사를 의뢰했다. 특히 공감·비공감 중복 등록 오류가 발생했던 기간 영화 ‘암살자(들)’에서 기계적 어뷰징이 확인됐다. 기계적 어뷰징은 매크로 등 자동화된 방식을 이용해 서비스 이용 수치 등에 비정상적으로 영향을 주는 행위를 말한다.앞서 네이버 영화 서비스에서는 일부 관람평이 중복 등록되거나 공감·비공감 수가 중복 집계되는 오류가 발생했다. 네이버는 지난달 29일 문제를 확인한 뒤 긴급 조치에 나서 중복 관람평을 삭제하",
-          "published": "2026-10-05T02:02:45+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "[단독] 후티 반군 공격 속에서도···네이버 자율주행 로봇 ‘이상무’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMGNLQmlvWnA2NGU2amtnamFOems4Mzc1VXBmN3gwNkxXQXRzWnhmLTVBdlNxNWdmSDlGSXhpam82TmtiQXFSWklzYlBqQQ?oc=5",
+          "summary": "[단독] 후티 반군 공격 속에서도···네이버 자율주행 로봇 ‘이상무’ &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-06T06:08:07+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
