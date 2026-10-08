@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T00:28:58.293616+00:00",
+  "generated_at": "2026-10-08T00:49:43.129098+00:00",
   "total_articles": 12,
   "categories": {
     "elon_musk": {
@@ -7,10 +7,10 @@
       "count": 1,
       "articles": [
         {
-          "title": "Musk’s SpaceX in Talks to Raise $40 Billion to Buy Nvidia Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-06/spacex-seeking-to-raise-40-billion-to-buy-nvidia-chips-ft-says",
-          "summary": "Elon Musk’s SpaceX is in talks with banks and investors to raise $40 billion of debt to buy chips from Nvidia Corp., people familiar with the matter said, underscoring the insatiable demand among AI developers for more computing power.",
-          "published": "2026-10-06T22:57:42+00:00",
+          "title": "Musk Attacks Unnamed Indian ‘Oligarchs’ for Locking Out Starlink",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/musk-attacks-unnamed-indian-oligarchs-for-locking-out-starlink",
+          "summary": "Elon Musk accused unnamed rivals of blocking SpaceX’s Starlink satellite broadband network in India, an apparent swipe at billionaires Mukesh Ambani and Sunil Bharti Mittal.",
+          "published": "2026-10-07T18:51:14+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -18,15 +18,13 @@
           "category_display": "일론 머스크",
           "score": 16,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -35,121 +33,106 @@
       "count": 8,
       "articles": [
         {
-          "title": "As China’s AI race accelerates, ‘model fatigue’ becomes the next challenge",
-          "link": "https://www.scmp.com/tech/big-tech/article/3369757/chinas-ai-race-accelerates-model-fatigue-becomes-next-challenge?utm_source=rss_feed",
-          "summary": "On September 22, the global artificial intelligence landscape spun on its axis within a matter of hours. In Beijing, Xiaomi engineers went live with an unusual broadcast, streaming the training run of their new MiMo-V2.6 model. In San Francisco, Anthropic unveiled its frontier Opus 5.5 model. About an hour later, OpenAI crashed the party with the surprise release of its GPT-6 Sol and Luna models. For tech executives and developers trying to keep pace, it was just another overwhelming day in the.",
-          "published": "2026-10-06T12:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Broadcom Holds Early Talks About Financing for OpenAI Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
+          "summary": "Broadcom Inc., fresh off the launch of a $60 billion debt financing to help fund Anthropic PBC’s artificial intelligence build-out, is already sketching out plans for its next blockbuster deal.",
+          "published": "2026-10-07T21:25:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 19,
           "score_breakdown": {
             "keyword": 10,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "Nvidia-Backed Firmus Said to Close Books as Mega IPO Struggles",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-said-to-close-books-as-mega-ipo-struggles",
+          "summary": "Australian data center company Firmus Grid Ltd. has closed the books on its struggling initial public offering as investors grew increasingly concerned that the deal could be pulled, according to people familiar with the information.",
+          "published": "2026-10-08T00:28:26+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "funding"
+          ]
+        },
+        {
+          "title": "Microsoft Says New Laptop With Nvidia Chip Outperforms MacBooks",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/microsoft-says-new-laptop-with-nvidia-chip-outperforms-macbooks",
+          "summary": "Microsoft Corp. revealed pricing and availability for a new flagship laptop built on Nvidia Corp. chips, saying that the machine outperforms a comparable Apple Inc. model on some AI tasks.",
+          "published": "2026-10-07T18:39:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Boston Dynamics Taps Amazon Alexa Executive as New CEO",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-06/boston-dynamics-taps-amazon-alexa-executive-as-new-ceo",
-          "summary": "Boston Dynamics appointed former Amazon.com Inc. executive Rohit Prasad as chief executive officer to lead the Hyundai Motor Co.-controlled company into its next era of innovation and commercialization of its robots.",
-          "published": "2026-10-06T21:34:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "‘또 최고가’ 엔비디아는 곧 시총 6조 달러인데…삼전·닉스는 왜 지지부진? - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XTnZLWGlvZ2xZZWttZGlOengySjF3MXNCdHk3QTl2ZVREZDgyeE1jTDU4MWlsYVp5Z09tT1k5MHdrVy1HRDB1ZVBsbVpFTF9WTWc?oc=5",
-          "summary": "‘또 최고가’ 엔비디아는 곧 시총 6조 달러인데…삼전·닉스는 왜 지지부진? &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-07T00:17:32+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "아마존, AI 붐에도 상장 이후 최저 수준의 PER 기록 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fejI2MFBFV3NDOXNEb3VwVjg4N3VocE5IOTVrUVRJMlc2aDFtaUxvcGwxWFBtamxZQjZpYWY1Q21MN09WVDdDSnpqNGVNbHFiRzRnQmFKQzM3cVhaMDkyUS1rbk9QVUQ1VXhScHV1Tjk?oc=5",
+          "summary": "아마존, AI 붐에도 상장 이후 최저 수준의 PER 기록 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-07T23:47:33+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "Apple’s Smart Home Push Includes Doorbell, Lock, Thermostat Codeveloped With LG",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-06/apple-s-smart-home-push-includes-doorbell-lock-thermostat-codeveloped-with-lg",
-          "summary": "Apple Inc.’s upcoming push into smart home devices will include a doorbell, thermostat and other accessories developed through an unusual partnership with LG Electronics Inc.",
-          "published": "2026-10-06T21:07:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"이기종 연결부터 심폐소생술까지\"… AI반도체 특별관, K-반도체 저력 입증",
-          "link": "https://zdnet.co.kr/view/?no=20261006180230",
-          "summary": "[지디넷코리아]초거대 인공지능(AI) 시대를 맞아 데이터센터의 전력·병목 이슈를 해결하고, 실생활과 산업 현장에 AI를 적용하기 위한 국산 AI 반도체 혁신 기술이 한자리에 모였다.6일 서울 강남 코엑스에서 열린 'AI 페스타 2025' AI 반도체 특별관에서는 파네시아, 디노티시아, 딥엑스, 모빌린트 등 국내 대표 AI 반도체 팹리스와 인프라 기업이 실물 칩과 다채로운 데모를 시연했다. 이번 전시는 단순 기술 소개를 넘어 데이터센터 인프라 가속부터 고객 상용 제품 탑재, 관람객 체험형 데모까지 K-AI 반도체 생태계 고도화 성과를 입증했다.서버 및 데이터센터 영역에서는 이기종 반도체 간 연결성과 비정형 데이터 처리 효율을 높인 솔루션들이 눈길을 끌었다.파네시아는 사전 배포 실리콘 형태 실물 컴퓨트 익스프레스 링크(CXL) 스위치 칩을 전면에 내세웠다. 엔비디아 그래픽처리장치(GPU)뿐만 아니라 AMD 중앙처리장치(CPU), 국산 신경망처리장치(NPU), 메모리 익스펜더 등 상이한 ",
-          "published": "2026-10-06T23:00:02+00:00",
+          "title": "AWS, 데이터베이스 전환에 AI 투입…코드 변환·검증까지 자동화",
+          "link": "https://zdnet.co.kr/view/?no=20261007175109",
+          "summary": "[지디넷코리아]사람 손이 많이 필요했던 데이터베이스 전환 작업을 인공지능(AI)이 빠르게 자동화하고 있다. 코드 변환뿐 아니라 실제 데이터를 활용한 검증까지 자동으로 처리한다.장동훈 아마존웹서비스(AWS) 시니어 데이터베이스 스페셜리스트 솔루션즈 아키텍트는 7일 서울 코엑스에서 열린 'AI 페스타 2026' 퓨처 테크 컨퍼런스에서 오라클 데이터베이스 전환을 돕는 '오라클 모더나이제이션 액셀러레이터(OMA)'를 소개했다.장 아키텍트는 데이터베이스 전환을 기업 데이터팀이 부담스러워하는 작업 중 하나로 꼽았다. 데이터만 옮기는 게 아니라 기존 구조와 코드까지 새 시스템에 맞게 손봐야 하기 때문이다.그는 \"수백·수천 개의 SQL 코드와 데이터베이스 안에 저장된 수백 개 작업 절차를 새 시스템에 맞게 바꿔야 한다고 하면 데이터팀에서는 한숨부터 나올 수밖에 없다\"고 말했다.데이터베이스를 바꾸려면 데이터만 옮겨서는 안 된다. 기존 오라클 환경에서 사용하던 데이터베이스 질의 언어(SQL)와 애플리",
+          "published": "2026-10-07T09:13:45+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia-backed Reflection AI challenges Chinese dominance in open-weight models",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3369885/nvidia-backed-reflection-ai-challenges-chinese-dominance-open-weight-models?utm_source=rss_feed",
-          "summary": "An Nvidia-backed US start-up has unveiled an open-weight model to challenge China’s dominance in freely available artificial intelligence, releasing a system that early third-party testing suggests could be one of the most token-efficient open models in its class. Reflection AI on Monday debuted Beam, its first open-weight model built for coding, reasoning and agentic tasks. The US firm said Beam was “competitive” with GLM-5.2 from Z.ai – also known as Zhipu AI – and was “approaching” Alibaba...",
-          "published": "2026-10-06T07:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -157,19 +140,39 @@
           "event_labels": []
         },
         {
-          "title": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rdElkeWZhOUFIeUxfa2dpN0pPUERqSDNQRGVnWkJDenhsa0duY3NKQXpnRlZYOTFiQUkwd0RVX1EyN0l2RGpQd0VXeE9TeFJkZ1pRZDVMSW9PVUtIVUp1T2ZOdGx0SnVFLXc?oc=5",
-          "summary": "MS는 3분의 1·메타는 절반...'클로드' 사내 사용 대폭 축소 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-06T23:12:53+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"GPU 다음은 데이터 병목\"…디노티시아, VDPU로 AI 인프라 새 판 짠다",
+          "link": "https://zdnet.co.kr/view/?no=20261007172520",
+          "summary": "[지디넷코리아]초거대 AI 생태계가 스스로 복잡한 임무를 수행하는 에이전트 시대로 진화함에 따라 컴퓨팅에 지각변동이 일고 있다. 과거 엔비디아 GPU(그래픽처리장치)를 중심으로 한 연산 능력이 데이터센터 인프라의 핵심이었던 반면, 이제는 연산의 병목 현상이 GPU를 넘어 CPU(중앙처리장치)와 메모리 쪽으로 빠르게 옮겨가는 추세다.정무경 디노티시아 대표는 7일 강남구 코엑스에서 개최된 'AI 페스타 26'에서 ‘AI 에이전트 시대의 데이터 인프라-검색과 메모리의 폭증, 그리고 AI 스토리지의 등장’을 주제로 발표하며 이같이 진단했다.정 대표는 강연을 통해 이러한 병목 현상의 근본 원인은 폭발적으로 늘어난 데이터 검색량과 잦은 데이터 이동 지연에 있다고 진단했다. 단답형이던 초기 LLM(거대언어모델)이 검색 증강 생성(RAG)과 추론을 거쳐 자율적인 에이전트 시대로 접어들면서, 하나의 임무를 완수하기 위해 수많은 작업을 거치게 됐다. 이 과정에서 토큰 생성량과 함께 연산 중간중간 데이",
+          "published": "2026-10-07T08:35:08+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"애플·LG가 함께 만든 스마트홈 기기, 이렇게 생겼다\"",
+          "link": "https://zdnet.co.kr/view/?no=20261008063035",
+          "summary": "[지디넷코리아]LG전자가 애플과 협력해서 만드는 것으로 알려진 인공지능(AI) 기반 스마트홈 제품의 디자인이 공개됐다.IT 맥루머스는 7일(이하 현지시간) 미국 연방통신위원회(FCC)에 제출된 서류를 통해 LG전자 브랜드로 출시될 스마트홈 액세서리 3종의 디자인을 소개했다. 공개된 제품은 온도 조절기, 온도 센서, 데드볼트 도어락이다.앞서 6일 블룸버그 통신은 FCC 문서를 인용해 애플이 LG전자와 협력해 스마트홈 기기 여러 종을 공동 개발 중이라고 보도했으나 구체적인 내용은 밝히지 않았다. 맥루머스가 입수한 FCC 기록에는 라벨 부착 도면, 3D 렌더링 이미지, 기술 보고서 등이 포함돼 제품 외관과 기능에 대한 정보를 확인할 수 있다.스마트 온도 조절기(모델명 TMCTAW5W)는 가장자리가 볼록하게 솟아 있는 둥근 원반 모양 본체를 갖췄다. 사양서에는 24볼트 AC 전원을 사용한다고 명시됐다. 뒷면 중앙에는 매터(Matter) 로고와 QR 설정 코드가 자리하며, 그 주위로 규정 관",
+          "published": "2026-10-07T21:56:39+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -177,20 +180,20 @@
           "event_labels": []
         },
         {
-          "title": "브이키, AI 경제의 AI 안전 및 보안 강화를 위해 클라우드사인 AI에 대한 전략적 지분 투자 발표",
-          "link": "https://zdnet.co.kr/view/?no=20261007021003",
-          "summary": "[지디넷코리아] 싱가포르, 2026년 10월 6일 /PRNewswire/ -- 타워 캐피털 아시아(Tower Capital Asia, 이하 'TCA')의 포트폴리오 기업이자 디지털 신원 및 모바일 애플리케이션 보호 및 보안(Mobile Application Protection &amp; Security, 이하 'MAPS') 분야의 선도 공급업체인 브이키(V-Key)가 이날 싱가포르에 본사를 둔 AI 사이버보안 및 웹 무결성 보호 공급업체 클라우드사인 AI(CloudsineAI)에 대한 전략적 투자를 발표했다. V-Key Announces Majority Investment in CloudsineAI 이번 투자는 AI 경제에서 진화하는 안전, 신원 및 보안 요건에 대응하려는 브이키의 전략을 한층 진전시킨다. 브이키의 신뢰할 수 있는 디지털 신원 및 암호화 보호 전문성과 이미 민간 및 공공 부문 조직이 도입한 클라우드사인 AI의 AI 사이버보안 역량을 통합함으로써, 양사는 안전한 AI ",
-          "published": "2026-10-06T17:10:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTHRMVGJOU3VCdVlSWHFaRkpWTUxGOUZVVExLVlc0RFZvZTFSRjhwZ0p3ZkY2R2xzVTAwMWVxeno0M1JTczNiQ0owYlNQekZ5NDFmWE5LZTlUMS12NDFnNUdQemN2bDNRVEE?oc=5",
+          "summary": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-07T08:29:51+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -200,13 +203,33 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "정부, 국경 간 가상자산 이전 '통합 모니터링'…개인지갑도 대상 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45VHAwN2JSWnlkNE1xOHk3dUhnMERRWUhTNkxHbWtiaUs4Zjh3RGFTQXE2YXk0RVlwa0JwOVVQSXN3LVBfdnJtTm40RnZlS3E2enI1RXlIZlZOZ2lqRFBlenUwLWk0b245bTZwVjlZTWk?oc=5",
-          "summary": "정부, 국경 간 가상자산 이전 '통합 모니터링'…개인지갑도 대상 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-07T00:00:01+00:00",
+          "title": "Bitcoin (BTC) Falls as $550 Million in Risky Crypto Bets Wiped Out",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-07/bitcoin-btc-falls-as-550-million-in-risky-crypto-bets-wiped-out",
+          "summary": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.",
+          "published": "2026-10-07T09:48:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "비트마인 \"이더리움 전체 유통량 5% 확보하면 매입 중단\"…10만개 남아 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TlJRRU4yNVI2M0JVWURtSlNNMUlBZE9VLTdRUkFUOVVOX09IRVdlalBxZ0dhRkZjR2hSUjlzSjd1dDltdTgwUG9nbm9fSVdrRFZJU1NpcUJLYkMzUEc4VFZIN3dlUVpWeHJPTTgzVks?oc=5",
+          "summary": "비트마인 \"이더리움 전체 유통량 5% 확보하면 매입 중단\"…10만개 남아 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-08T00:14:59+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -226,18 +249,23 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 0,
+      "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 1,
       "articles": [
         {
-          "title": "다이먼 \"앤트로픽 미토스 출시 후 AI 위험 10배 치솟아\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtVUFEZXFDR0taVlh6R2lsci1Odnl3RVM1cHlfTjN2dEhiaWo1dXZWWHNVNDA5OUpGczE5SjZMMnlRRlJ4ZEhiNGxQU0Yxc3NLV0E?oc=5",
-          "summary": "다이먼 \"앤트로픽 미토스 출시 후 AI 위험 10배 치솟아\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-06T23:14:46+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "미래에셋운용, 스테이트타워 남산 매각 추진 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ2NWTlZNbERsUmxYTTBQT3BLRVo0eEZSaXJhNTBzUEVGNkp2R1Q5dmJsX2FhTi1qTUdPemdrSl9EUmNjXzBPTnBZZXJsalpkU1RmdEJDRUVlQ0NUR2VlSjZvV2N0cjNzWFppSjlMQ2o?oc=5",
+          "summary": "미래에셋운용, 스테이트타워 남산 매각 추진 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-07T23:21:59+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
           "score": 10,
           "score_breakdown": {
             "keyword": 5,
@@ -247,33 +275,8 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "[단독] 후티 반군 공격 속에서도···네이버 자율주행 로봇 ‘이상무’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zMGNLQmlvWnA2NGU2amtnamFOems4Mzc1VXBmN3gwNkxXQXRzWnhmLTVBdlNxNWdmSDlGSXhpam82TmtiQXFSWklzYlBqQQ?oc=5",
-          "summary": "[단독] 후티 반군 공격 속에서도···네이버 자율주행 로봇 ‘이상무’ &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-06T06:08:07+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
