@@ -1,30 +1,33 @@
 {
-  "generated_at": "2026-10-08T00:49:43.129098+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-10-09T01:03:01.427649+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "Musk Attacks Unnamed Indian ‘Oligarchs’ for Locking Out Starlink",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-07/musk-attacks-unnamed-indian-oligarchs-for-locking-out-starlink",
-          "summary": "Elon Musk accused unnamed rivals of blocking SpaceX’s Starlink satellite broadband network in India, an apparent swipe at billionaires Mukesh Ambani and Sunil Bharti Mittal.",
-          "published": "2026-10-07T18:51:14+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "인도 진출 미뤄지는 스타링크…머스크, 현지 통신사 탓하며 억지 주장",
+          "link": "https://zdnet.co.kr/view/?no=20261009074540",
+          "summary": "[지디넷코리아]일론 머스크 스페이스X 최고경영자(CEO)가 위성인터넷 서비스 스타링크의 인도 진출이 지연되자 현지 통신사 방해 때문이라는 주장을 이어가고 있다.8일(현지시간) 테크크런치와 인디언익스프레스에 따르면 머스크는 지난 7일 엑스(X)에 “특정 기업들이 인도 국민에 대한 독점적 지배력을 유지하려 한다”며 “그들이 누구인지는 짐작할 수 있을 것”이라고 주장했다.이튿날에는 현지 통신사인 릴라이언스지오의 암바니 회장을 직접 지목하는 글을 올렸다.머스크는 “스타링크는 165개국 이상에서 허가를 받았고 지난 5년 동안 인도 정부의 모든 법률과 요구사항을 준수했다”며 “그런데 왜 아직도 허가가 나지 않는가. 암바니가 인도의 진짜 보스인가”라고 했다.인도 정부는 즉각 반박했다. 인도 통신부는 위성통신 규제 체계가 공정하고 비차별적으로 운영되고 있다며 스타링크를 포함한 3개 사업자가 대체로 동일한 인허가 단계에 있다고 밝혔다. 주파수 할당에 앞서 모든 사업자가 보안 요건을 충족해야 한다는 ",
+          "published": "2026-10-08T22:45:40+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 16,
+          "score": 19,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
+            "source": 1,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
         }
       ]
     },
@@ -33,64 +36,19 @@
       "count": 8,
       "articles": [
         {
-          "title": "Broadcom Holds Early Talks About Financing for OpenAI Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-07/broadcom-plans-50-billion-financing-for-openai-chips-wsj-says",
-          "summary": "Broadcom Inc., fresh off the launch of a $60 billion debt financing to help fund Anthropic PBC’s artificial intelligence build-out, is already sketching out plans for its next blockbuster deal.",
-          "published": "2026-10-07T21:25:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Can China match up with Meta’s Muse in race to harness AI agents?",
+          "link": "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
+          "summary": "Meta Platforms’ breakout Muse personal AI agent is shining a spotlight on a new battleground in artificial intelligence – one in which China’s biggest internet companies are already jostling for position. Launched on September 8, Muse surpassed 2.5 million downloads in its first two weeks and topped free-app rankings on Apple and Google’s US app stores. Its popularity has drawn fresh attention to the emerging market for what are known as agent harnesses. Unlike chatbots, which merely respond to.",
+          "published": "2026-10-08T14:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 19,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Nvidia-Backed Firmus Said to Close Books as Mega IPO Struggles",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-said-to-close-books-as-mega-ipo-struggles",
-          "summary": "Australian data center company Firmus Grid Ltd. has closed the books on its struggling initial public offering as investors grew increasingly concerned that the deal could be pulled, according to people familiar with the information.",
-          "published": "2026-10-08T00:28:26+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a",
-            "funding"
-          ]
-        },
-        {
-          "title": "Microsoft Says New Laptop With Nvidia Chip Outperforms MacBooks",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-07/microsoft-says-new-laptop-with-nvidia-chip-outperforms-macbooks",
-          "summary": "Microsoft Corp. revealed pricing and availability for a new flagship laptop built on Nvidia Corp. chips, saying that the machine outperforms a comparable Apple Inc. model on some AI tasks.",
-          "published": "2026-10-07T18:39:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
+            "keyword": 9,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -98,20 +56,20 @@
           "event_labels": []
         },
         {
-          "title": "아마존, AI 붐에도 상장 이후 최저 수준의 PER 기록 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fejI2MFBFV3NDOXNEb3VwVjg4N3VocE5IOTVrUVRJMlc2aDFtaUxvcGwxWFBtamxZQjZpYWY1Q21MN09WVDdDSnpqNGVNbHFiRzRnQmFKQzM3cVhaMDkyUS1rbk9QVUQ1VXhScHV1Tjk?oc=5",
-          "summary": "아마존, AI 붐에도 상장 이후 최저 수준의 PER 기록 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-07T23:47:33+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round",
+          "summary": "Firmus Grid Ltd. abandoned its attempt at one of Australia’s biggest-ever initial public offerings, after the Nvidia Corp.-backed data center company failed to lure global investors who’ve grown increasingly skittish over frothy AI valuations.",
+          "published": "2026-10-08T17:17:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -120,19 +78,19 @@
           ]
         },
         {
-          "title": "AWS, 데이터베이스 전환에 AI 투입…코드 변환·검증까지 자동화",
-          "link": "https://zdnet.co.kr/view/?no=20261007175109",
-          "summary": "[지디넷코리아]사람 손이 많이 필요했던 데이터베이스 전환 작업을 인공지능(AI)이 빠르게 자동화하고 있다. 코드 변환뿐 아니라 실제 데이터를 활용한 검증까지 자동으로 처리한다.장동훈 아마존웹서비스(AWS) 시니어 데이터베이스 스페셜리스트 솔루션즈 아키텍트는 7일 서울 코엑스에서 열린 'AI 페스타 2026' 퓨처 테크 컨퍼런스에서 오라클 데이터베이스 전환을 돕는 '오라클 모더나이제이션 액셀러레이터(OMA)'를 소개했다.장 아키텍트는 데이터베이스 전환을 기업 데이터팀이 부담스러워하는 작업 중 하나로 꼽았다. 데이터만 옮기는 게 아니라 기존 구조와 코드까지 새 시스템에 맞게 손봐야 하기 때문이다.그는 \"수백·수천 개의 SQL 코드와 데이터베이스 안에 저장된 수백 개 작업 절차를 새 시스템에 맞게 바꿔야 한다고 하면 데이터팀에서는 한숨부터 나올 수밖에 없다\"고 말했다.데이터베이스를 바꾸려면 데이터만 옮겨서는 안 된다. 기존 오라클 환경에서 사용하던 데이터베이스 질의 언어(SQL)와 애플리",
-          "published": "2026-10-07T09:13:45+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UXNqM2JTeUZYREVKRjlJa2hBUjlNTG1mWmUxZEVfc2xUWmhmajQwZW55M2p3MnpHUHI1amVsSGkxbk1vZkQ4bmwydGlCOEpfakt0V1ZISk9oanBpRzJkS1prb0djd0NlMEE?oc=5",
+          "summary": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-08T03:10:32+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 8,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -140,39 +98,41 @@
           "event_labels": []
         },
         {
-          "title": "\"GPU 다음은 데이터 병목\"…디노티시아, VDPU로 AI 인프라 새 판 짠다",
-          "link": "https://zdnet.co.kr/view/?no=20261007172520",
-          "summary": "[지디넷코리아]초거대 AI 생태계가 스스로 복잡한 임무를 수행하는 에이전트 시대로 진화함에 따라 컴퓨팅에 지각변동이 일고 있다. 과거 엔비디아 GPU(그래픽처리장치)를 중심으로 한 연산 능력이 데이터센터 인프라의 핵심이었던 반면, 이제는 연산의 병목 현상이 GPU를 넘어 CPU(중앙처리장치)와 메모리 쪽으로 빠르게 옮겨가는 추세다.정무경 디노티시아 대표는 7일 강남구 코엑스에서 개최된 'AI 페스타 26'에서 ‘AI 에이전트 시대의 데이터 인프라-검색과 메모리의 폭증, 그리고 AI 스토리지의 등장’을 주제로 발표하며 이같이 진단했다.정 대표는 강연을 통해 이러한 병목 현상의 근본 원인은 폭발적으로 늘어난 데이터 검색량과 잦은 데이터 이동 지연에 있다고 진단했다. 단답형이던 초기 LLM(거대언어모델)이 검색 증강 생성(RAG)과 추론을 거쳐 자율적인 에이전트 시대로 접어들면서, 하나의 임무를 완수하기 위해 수많은 작업을 거치게 됐다. 이 과정에서 토큰 생성량과 함께 연산 중간중간 데이",
-          "published": "2026-10-07T08:35:08+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Nvidia-Backed Firmus IPO Being Pulled Sends AI Funding Warning",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
+          "summary": "The dramatic cancellation of an Nvidia-backed data center company’s initial public offering is revealing fresh cracks in the AI funding boom.",
+          "published": "2026-10-08T10:20:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
+            "source": 3,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "\"애플·LG가 함께 만든 스마트홈 기기, 이렇게 생겼다\"",
-          "link": "https://zdnet.co.kr/view/?no=20261008063035",
-          "summary": "[지디넷코리아]LG전자가 애플과 협력해서 만드는 것으로 알려진 인공지능(AI) 기반 스마트홈 제품의 디자인이 공개됐다.IT 맥루머스는 7일(이하 현지시간) 미국 연방통신위원회(FCC)에 제출된 서류를 통해 LG전자 브랜드로 출시될 스마트홈 액세서리 3종의 디자인을 소개했다. 공개된 제품은 온도 조절기, 온도 센서, 데드볼트 도어락이다.앞서 6일 블룸버그 통신은 FCC 문서를 인용해 애플이 LG전자와 협력해 스마트홈 기기 여러 종을 공동 개발 중이라고 보도했으나 구체적인 내용은 밝히지 않았다. 맥루머스가 입수한 FCC 기록에는 라벨 부착 도면, 3D 렌더링 이미지, 기술 보고서 등이 포함돼 제품 외관과 기능에 대한 정보를 확인할 수 있다.스마트 온도 조절기(모델명 TMCTAW5W)는 가장자리가 볼록하게 솟아 있는 둥근 원반 모양 본체를 갖췄다. 사양서에는 24볼트 AC 전원을 사용한다고 명시됐다. 뒷면 중앙에는 매터(Matter) 로고와 QR 설정 코드가 자리하며, 그 주위로 규정 관",
-          "published": "2026-10-07T21:56:39+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "OpenAI’s Math Advances Spark a Reckoning for Academia",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/openai-s-math-advances-spark-a-reckoning-for-academia",
+          "summary": "A mathematician reflects on how AI is changing his profession",
+          "published": "2026-10-08T21:30:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -180,19 +140,61 @@
           "event_labels": []
         },
         {
-          "title": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oTHRMVGJOU3VCdVlSWHFaRkpWTUxGOUZVVExLVlc0RFZvZTFSRjhwZ0p3ZkY2R2xzVTAwMWVxeno0M1JTczNiQ0owYlNQekZ5NDFmWE5LZTlUMS12NDFnNUdQemN2bDNRVEE?oc=5",
-          "summary": "앤트로픽, 구글 워크스페이스 연동...문서 안에서 '클로드' 직접 호출 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-07T08:29:51+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"엔비디아 루빈 HBM4, 12단이 대세\"",
+          "link": "https://zdnet.co.kr/view/?no=20261008174405",
+          "summary": "[지디넷코리아]엔비디아 차세대 그래픽처리장치(GPU) '베라 루빈'에 탑재할 6세대 고대역폭메모리(HBM4)에서 12단 제품 비중이 대부분을 차지할 것이라는 전망이 나왔다. 최근 업계 일각에서 확산한 'HBM 단수 하향' 우려와 다르다. 시장조사업체 카운터포인트리서치는 9일 HBM4에서 12단 제품이 주력이 될 것이라고 추정했다. 카운터포인트의 이번 전망은 최근까지 업계 일각 전망과 엇갈린다. 최근 엔비디아가 주요 HBM 공급사에 주력품 사양을 12단에서 8단으로 낮춰달라고 요청했다는 언론 보도가 이어졌다. 주문형반도체(ASIC) 진영에서는 비용 부담 탓에 4단 제품까지 내려갈 것이라는 추정도 나왔다. HBM 적층 단수가 낮아지면 HBM에 투입하는 생산능력이 줄고, 그만큼 범용 D램 생산이 늘어 가격이 하락할 수 있다는 전망이 이어졌다. 이는 삼성전자를 비롯한 메모리 업체 실적 전망에는 악재로 꼽혔다.카운터포인트는 HBM 탑재량 증가 흐름이 이어질 것이라고 전망했다. 인공지능(AI)",
+          "published": "2026-10-08T23:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Nvidia-Backed Lumentum Sees Opto-Parts Capacity Sold Out to 2029",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-09/nvidia-backed-lumentum-sees-opto-parts-capacity-sold-out-to-2029",
+          "summary": "Lumentum Holdings Inc.’s optoelectronic parts are “completely sold out” through almost 2029 on demand from tech companies clamoring for faster AI data centers.",
+          "published": "2026-10-09T00:24:16+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대",
+          "link": "https://zdnet.co.kr/view/?no=20261008171002",
+          "summary": "[지디넷코리아]타이베이, 2026년 10월 8일 /PRNewswire/ -- 기가바이트(GIGABYTE)가 기존 128GB 제품군을 확장하는 GIGABYTE AI TOP ATOM의 새로운 64GB 통합 메모리 버전을 선보인다고 발표했다. 10월 23일부터 출시되는 이 신규 구성은 NVIDIA DGX Spark 플랫폼을 기반으로 한 AI TOP ATOM의 하드웨어 설계를 그대로 유지하면서 메모리 옵션을 제공하게 된다. 이에 따라 개발자, 연구자 및 기업 팀은 AI 워크로드와 메모리 요구 사항에 가장 적합한 구성을 더욱 유연하게 선택할 수 있으며, 용도에 맞는 전용 온프레미스 AI 개발 환경도 구축할 수 있다. GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대 생성형 AI와 에이전틱 AI 애플리케이션이 지속적으로 발전하면서 모델 테스트와 데이터 처리,애플리케이션 검증은 일상적인 개발 워크플로에서 점점 더 중요해지고 있다. GIGABYTE ",
+          "published": "2026-10-08T08:10:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -203,42 +205,47 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "Bitcoin (BTC) Falls as $550 Million in Risky Crypto Bets Wiped Out",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-07/bitcoin-btc-falls-as-550-million-in-risky-crypto-bets-wiped-out",
-          "summary": "Cryptocurrencies fell on Wednesday as a wave of forced selling swept across digital-asset venues, with broader market jitters further weighing on risk appetite.",
-          "published": "2026-10-07T09:48:45+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
+          "title": "\"로그인 없이 최애 응원\"…멜론, 전 세계 K팝 팬 참여 기능 도입",
+          "link": "https://zdnet.co.kr/view/?no=20261009073800",
+          "summary": "[지디넷코리아]멜론이 한국과 중국, 일본 중심으로 운영하던 K팝 통합 차트에 전 세계 팬들이 참여할 수 있는 응원 기능을 추가했다. 별도 회원가입이나 로그인 없이 좋아하는 아티스트를 응원하고, 결과를 사회관계망서비스(SNS)에 공유할 수 있다.카카오엔터테인먼트는 음악 플랫폼 멜론의 'Global-K Chart(글로벌 K 차트)'에 '응원하기' 기능을 도입했다고 9일 밝혔다.글로벌 K 차트는 멜론과 중국 텐센트뮤직, 일본 라인뮤직이 공동으로 운영하는 K팝 아티스트 통합 차트다. 세 나라 음악 플랫폼에서 발생한 음원 스트리밍 이용량과 팬 활동 지표 등을 합산해 아티스트 순위를 집계한다.이번에 추가된 응원하기 기능은 참여 대상을 한중일 이용자에서 전 세계 K팝 팬으로 넓힌 것이 특징이다. 기존 차트가 음악 감상과 플랫폼 내 활동 데이터를 기반으로 순위를 보여줬다면, 새 기능은 팬들이 직접 아티스트를 응원하는 별도 참여 공간으로 운영된다.이용자는 글로벌 K 차트 웹페이지에 접속한 뒤 일간차",
+          "published": "2026-10-08T22:38:00+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 1,
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "비트마인 \"이더리움 전체 유통량 5% 확보하면 매입 중단\"…10만개 남아 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41TlJRRU4yNVI2M0JVWURtSlNNMUlBZE9VLTdRUkFUOVVOX09IRVdlalBxZ0dhRkZjR2hSUjlzSjd1dDltdTgwUG9nbm9fSVdrRFZJU1NpcUJLYkMzUEc4VFZIN3dlUVpWeHJPTTgzVks?oc=5",
-          "summary": "비트마인 \"이더리움 전체 유통량 5% 확보하면 매입 중단\"…10만개 남아 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-08T00:14:59+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
+          "title": "\"등산 코스마다 날씨 다르네\"…네이버, 전국 301개 산 맞춤 예보 제공",
+          "link": "https://zdnet.co.kr/view/?no=20261009074344",
+          "summary": "[지디넷코리아]네이버가 단풍철을 맞아 전국 주요 산의 날씨를 등산 코스별로 확인할 수 있는 서비스를 선보였다. 등산객이 출발 시간과 이동 경로를 선택하면 산행 중 예상되는 기온과 바람, 강수 변화를 구간별로 안내하는 방식이다.네이버는 전국 301개 산을 대상으로 초단기 예보를 제공하는 '등산 테마날씨'를 지난달 출시했다고 9일 밝혔다.기존 지역 날씨가 행정구역을 중심으로 제공됐다면, 등산 테마날씨는 산의 위치 좌표를 기준으로 예보를 제공하는 것이 특징이다.특히 네이버 지도에 축적된 등산 코스 데이터를 날씨 예보와 결합했다. 이용자가 등산할 산과 코스, 출발 시간을 선택하면 이동 경로에 따라 달라지는 기온과 바람, 강수 정보를 시간대별로 확인할 수 있다.산행을 계획할 때 참고할 수 있는 일출 시각과 계절별 풍경 정보도 제공한다. 단풍과 개화 시기 등을 네이버 날씨 화면에서 확인할 수 있으며, 향후 다른 야외 활동 테마에도 관련 정보를 확대 적용할 계획이다.네이버는 지난해 8월 야구장을",
+          "published": "2026-10-08T22:48:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -246,37 +253,11 @@
           "event_labels": []
         }
       ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "미래에셋운용, 스테이트타워 남산 매각 추진 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rQ2NWTlZNbERsUmxYTTBQT3BLRVo0eEZSaXJhNTBzUEVGNkp2R1Q5dmJsX2FhTi1qTUdPemdrSl9EUmNjXzBPTnBZZXJsalpkU1RmdEJDRUVlQ0NUR2VlSjZvV2N0cjNzWFppSjlMQ2o?oc=5",
-          "summary": "미래에셋운용, 스테이트타워 남산 매각 추진 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-07T23:21:59+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
