@@ -1,159 +1,54 @@
 {
-  "generated_at": "2026-10-09T01:03:01.427649+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-10-10T00:36:05.682448+00:00",
+  "total_articles": 8,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "인도 진출 미뤄지는 스타링크…머스크, 현지 통신사 탓하며 억지 주장",
-          "link": "https://zdnet.co.kr/view/?no=20261009074540",
-          "summary": "[지디넷코리아]일론 머스크 스페이스X 최고경영자(CEO)가 위성인터넷 서비스 스타링크의 인도 진출이 지연되자 현지 통신사 방해 때문이라는 주장을 이어가고 있다.8일(현지시간) 테크크런치와 인디언익스프레스에 따르면 머스크는 지난 7일 엑스(X)에 “특정 기업들이 인도 국민에 대한 독점적 지배력을 유지하려 한다”며 “그들이 누구인지는 짐작할 수 있을 것”이라고 주장했다.이튿날에는 현지 통신사인 릴라이언스지오의 암바니 회장을 직접 지목하는 글을 올렸다.머스크는 “스타링크는 165개국 이상에서 허가를 받았고 지난 5년 동안 인도 정부의 모든 법률과 요구사항을 준수했다”며 “그런데 왜 아직도 허가가 나지 않는가. 암바니가 인도의 진짜 보스인가”라고 했다.인도 정부는 즉각 반박했다. 인도 통신부는 위성통신 규제 체계가 공정하고 비차별적으로 운영되고 있다며 스타링크를 포함한 3개 사업자가 대체로 동일한 인허가 단계에 있다고 밝혔다. 주파수 할당에 앞서 모든 사업자가 보안 요건을 충족해야 한다는 ",
-          "published": "2026-10-08T22:45:40+00:00",
+          "title": "스페이스X, 지상 통신시장 겨냥...800MHz 주파수 확보 추진",
+          "link": "https://zdnet.co.kr/view/?no=20261009190127",
+          "summary": "[지디넷코리아]스페이스X가 미국 전역을 아우르는 800MHz 대역 주파수 확보에 나섰다. 지상 이동통신사와 직접 경쟁을 예고한 셈이다. 위성통신의 약점으로 꼽혔던 실내 통신 문제를 해결하고, 위성과 지상망을 결합한 이동통신 서비스로 사업을 확대한다는 전략으로 풀이된다.8일(현지시간) 로이터와 월스트리트저널 등에 따르면 스페이스X는 미국 투자회사 그레인매니지먼트가 보유한 800MHz 대역 주파수 면허 전체를 인수하는 계약을 체결했다. 최대 14MHz 폭의 주파수가 대상이다. 인수 금액은 공식 공개되지 않았지만 약 80억 달러(약 11조원)로 알려졌다. 이 거래는 미국 연방통신위원회(FCC)의 승인을 거쳐야 한다. 800MHz 대역은 황금주파수로 불리는 대역으로 건물과 같은 장애물을 통과하는 데 유리하다. 스페이스X는 이를 활용해 스타링크 모바일의 서비스 범위를 실외뿐 아니라 건물 내부까지 확대할 것으로 보인다. 800MHz 대역을 지원하는 모뎀을 갖춘 스마트폰은 곧장 서비스 이용이 가",
+          "published": "2026-10-09T10:01:27+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 6,
             "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
-            "exec_change"
+            "m_and_a"
           ]
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 7,
       "articles": [
         {
-          "title": "Can China match up with Meta’s Muse in race to harness AI agents?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3370123/can-china-match-metas-muse-race-harness-ai-agents?utm_source=rss_feed",
-          "summary": "Meta Platforms’ breakout Muse personal AI agent is shining a spotlight on a new battleground in artificial intelligence – one in which China’s biggest internet companies are already jostling for position. Launched on September 8, Muse surpassed 2.5 million downloads in its first two weeks and topped free-app rankings on Apple and Google’s US app stores. Its popularity has drawn fresh attention to the emerging market for what are known as agent harnesses. Unlike chatbots, which merely respond to.",
-          "published": "2026-10-08T14:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 9,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia-Backed Firmus IPO Collapses as AI Valuation Concerns Grow",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-firmus-is-set-to-postpone-ipo-weigh-private-round",
-          "summary": "Firmus Grid Ltd. abandoned its attempt at one of Australia’s biggest-ever initial public offerings, after the Nvidia Corp.-backed data center company failed to lure global investors who’ve grown increasingly skittish over frothy AI valuations.",
-          "published": "2026-10-08T17:17:21+00:00",
+          "title": "Anthropic and OpenAI Use Different Revenue Calculations, Clouding AI Valuations",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-09/anthropic-and-openai-s-revenue-calculations-confuse-investors",
+          "summary": "When measuring the race between artificial intelligence leaders OpenAI and Anthropic PBC, investors have run into a problem: The two private companies calculate a closely watched revenue figure differently.",
+          "published": "2026-10-09T18:23:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 3,
             "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0UXNqM2JTeUZYREVKRjlJa2hBUjlNTG1mWmUxZEVfc2xUWmhmajQwZW55M2p3MnpHUHI1amVsSGkxbk1vZkQ4bmwydGlCOEpfakt0V1ZISk9oanBpRzJkS1prb0djd0NlMEE?oc=5",
-          "summary": "삼성전자, 3분기 영업익 107조...애플·엔비디아도 못 넘은 '100조' 첫 달성 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-08T03:10:32+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia-Backed Firmus IPO Being Pulled Sends AI Funding Warning",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-08/nvidia-backed-ipo-s-cratering-demand-sends-warning-on-ai-funding",
-          "summary": "The dramatic cancellation of an Nvidia-backed data center company’s initial public offering is revealing fresh cracks in the AI funding boom.",
-          "published": "2026-10-08T10:20:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "OpenAI’s Math Advances Spark a Reckoning for Academia",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-10-08/openai-s-math-advances-spark-a-reckoning-for-academia",
-          "summary": "A mathematician reflects on how AI is changing his profession",
-          "published": "2026-10-08T21:30:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"엔비디아 루빈 HBM4, 12단이 대세\"",
-          "link": "https://zdnet.co.kr/view/?no=20261008174405",
-          "summary": "[지디넷코리아]엔비디아 차세대 그래픽처리장치(GPU) '베라 루빈'에 탑재할 6세대 고대역폭메모리(HBM4)에서 12단 제품 비중이 대부분을 차지할 것이라는 전망이 나왔다. 최근 업계 일각에서 확산한 'HBM 단수 하향' 우려와 다르다. 시장조사업체 카운터포인트리서치는 9일 HBM4에서 12단 제품이 주력이 될 것이라고 추정했다. 카운터포인트의 이번 전망은 최근까지 업계 일각 전망과 엇갈린다. 최근 엔비디아가 주요 HBM 공급사에 주력품 사양을 12단에서 8단으로 낮춰달라고 요청했다는 언론 보도가 이어졌다. 주문형반도체(ASIC) 진영에서는 비용 부담 탓에 4단 제품까지 내려갈 것이라는 추정도 나왔다. HBM 적층 단수가 낮아지면 HBM에 투입하는 생산능력이 줄고, 그만큼 범용 D램 생산이 늘어 가격이 하락할 수 있다는 전망이 이어졌다. 이는 삼성전자를 비롯한 메모리 업체 실적 전망에는 악재로 꼽혔다.카운터포인트는 HBM 탑재량 증가 흐름이 이어질 것이라고 전망했다. 인공지능(AI)",
-          "published": "2026-10-08T23:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -162,30 +57,10 @@
           ]
         },
         {
-          "title": "Nvidia-Backed Lumentum Sees Opto-Parts Capacity Sold Out to 2029",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-09/nvidia-backed-lumentum-sees-opto-parts-capacity-sold-out-to-2029",
-          "summary": "Lumentum Holdings Inc.’s optoelectronic parts are “completely sold out” through almost 2029 on demand from tech companies clamoring for faster AI data centers.",
-          "published": "2026-10-09T00:24:16+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대",
-          "link": "https://zdnet.co.kr/view/?no=20261008171002",
-          "summary": "[지디넷코리아]타이베이, 2026년 10월 8일 /PRNewswire/ -- 기가바이트(GIGABYTE)가 기존 128GB 제품군을 확장하는 GIGABYTE AI TOP ATOM의 새로운 64GB 통합 메모리 버전을 선보인다고 발표했다. 10월 23일부터 출시되는 이 신규 구성은 NVIDIA DGX Spark 플랫폼을 기반으로 한 AI TOP ATOM의 하드웨어 설계를 그대로 유지하면서 메모리 옵션을 제공하게 된다. 이에 따라 개발자, 연구자 및 기업 팀은 AI 워크로드와 메모리 요구 사항에 가장 적합한 구성을 더욱 유연하게 선택할 수 있으며, 용도에 맞는 전용 온프레미스 AI 개발 환경도 구축할 수 있다. GIGABYTE AI TOP ATOM 64GB 통합 메모리 버전, 데스크톱 AI 개발 가능성 확대 생성형 AI와 에이전틱 AI 애플리케이션이 지속적으로 발전하면서 모델 테스트와 데이터 처리,애플리케이션 검증은 일상적인 개발 워크플로에서 점점 더 중요해지고 있다. GIGABYTE ",
-          "published": "2026-10-08T08:10:02+00:00",
+          "title": "에미상도 77년 머문 지상파 떠난다...내년부터 아마존 독점 중계",
+          "link": "https://zdnet.co.kr/view/?no=20261009110514",
+          "summary": "[지디넷코리아]미국 에미상 시상식이 2027년부터 6년간 아마존 프라임비디오를 통해 전 세계 240여 개국에 독점 생중계된다. 이로써 77년간 이어진 미국 지상파 방송사의 순환 중계 방식은 올해를 끝으로 막을 내린다.6일(현지시간) 로이터 등에 따르면 에미상 주관사인 텔레비전아카데미와 아마존 프라임비디오는 이날 에미상 독점 글로벌 중계를 위한 6년 계약을 체결했다.미국 연예 매체 더랩은 소식통을 인용해 계약 규모가 연간 약 1500만 달러(약 200억원)에 달할 것으로 보도했다. 아마존은 프라임비디오 유료 구독자가 아니더라도 누구나 시상식을 무료로 시청할 수 있다고 밝혔다.1949년 시작된 에미상은 TV 연기와 제작, 각본 등 분야의 성과를 기리는 시상식이다. 그동안 ABC, CBS, 폭스, NBC 등 미국 지상파 방송사가 순번제로 중계해 왔다.텔레비전아카데미는 아마존 계약의 핵심 이유로 시청자 접근성 확대와 중계의 연속성을 꼽았다.크리스 아브레고 텔레비전아카데미 회장은 “시청자 접",
+          "published": "2026-10-09T21:00:03+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -193,7 +68,111 @@
           "category_display": "빅테크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+          "link": "https://www.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true?utm_source=rss_feed",
+          "summary": "Did Chinese AI companies secretly tap US models to close the technology gap? That is the central question hanging over China’s tech sector following a wave of allegations from Washington and American AI lab Anthropic. According to a joint advisory by the National Security Agency, FBI, and Cybersecurity and Infrastructure Security Agency last month, Chinese AI developers have been systematically extracting capabilities from US frontier models to reduce their own computing, electricity and...",
+          "published": "2026-10-09T13:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "삼성전자, 올해 스마트폰 출하 목표 2.4억대→2.3억대 하향",
+          "link": "https://zdnet.co.kr/view/?no=20261009114316",
+          "summary": "[지디넷코리아]삼성전자가 올해 스마트폰 출하량 목표를 2억 4000만대에서 2억 3000만대 초반으로 낮췄다. 메모리 반도체 가격 급등에 따른 완제품 가격 인상, 수요 위축 등이 주요 원인이다. 삼성전자는 올해 남은 기간 애플 아이폰 판매량에 따라 스마트폰 출하량 1위를 애플에 빼앗길 수도 있다. 9일 업계에 따르면 삼성전자는 최근 부품 협력사에 4분기 스마트폰 부품 발주량 전망치를 낮춰 통보한 것으로 파악됐다. 한 업계 관계자 A는 \"삼성전자가 최근 협력사에 연간 스마트폰 출하량 2억 3000만대 초반에 해당하는 4분기 부품 발주량을 통보했다\"며 \"당초 부품업계에서 기대했던 (스마트폰 출하량 전망치) 2억 4000만대보다 적다\"고 밝혔다. 그는 \"(삼성전자 매출 비중이 큰) 일부 부품업체는 4분기 매출이 사업계획 대비 반토막 수준에 그칠 것으로 우려한다\"고 말했다. 또 다른 관계자 B는 \"삼성전자가 부품협력사에 전달한 4분기 부품 발주량 전망치가 추석 연휴(9월 24~27일) 전에",
+          "published": "2026-10-09T03:07:51+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "韓 공략 시동 건 코어위브…데이터센터 협력·추론 사업 키운다",
+          "link": "https://zdnet.co.kr/view/?no=20261009152305",
+          "summary": "[지디넷코리아]글로벌 인공지능(AI) 인프라 기업 코어위브가 한국 시장 공략에 속도를 내고 있다. 국내 여러 데이터센터 사업자들과 협력 방안을 논의하는 가운데 고성능 그래픽처리장치(GPU) 공급뿐 아니라 AI 추론 시장으로 사업 영역을 넓히려는 움직임도 본격화하고 있다.9일 업계에 따르면 코어위브는 한국 데이터센터 사업 진출 가능성을 열어두고 국내 여러 사업자들과 협의를 진행하고 있는 것으로 파악됐다. 구체적인 투자 규모와 데이터센터 위치, 협력 기업 등은 공개되지 않았다.코어위브는 최근 아시아 지역으로 AI 인프라 사업을 빠르게 확대하고 있다. 지난 8월 인도네시아에 총 360메가와트(MW) 규모의 데이터센터 3곳을 확보한다고 발표한 데 이어 이달 6일에는 인도 아다니커넥스와 협력해 나비뭄바이에 240MW 규모 AI 데이터센터를 구축한다고 밝혔다. 인도 시설에는 엔비디아의 차세대 '베라 루빈' 플랫폼을 도입할 예정이다.이런 가운데 코어위브는 지난 6일부터 8일까지 서울 강남구 코엑",
+          "published": "2026-10-09T07:06:12+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, ‘스마트홈 허브’ 베일 벗나…13일 공개 유력",
+          "link": "https://zdnet.co.kr/view/?no=20261009111208",
+          "summary": "[지디넷코리아]애플이 오는 13일(이하 현지시간) 새로운 스마트홈 제품을 선보일 전망이라고 나인투파이브맥 등 외신들이 8일 보도했다. 보도에 따르면 애플은 이날 언론 관계자들에게 행사 초대장을 발송했다.그렉 조스위악 애플 글로벌 마케팅 담당 수석부사장은 애플 로고가 자수로 새겨지는 과정을 담은 티저 영상을 공개했다. 애플은 이와 함께 언론 관계자들에게 초대장을 보내며 신제품 공개를 예고했다.이번 행사에서는 오랫동안 출시설이 제기돼 온 스마트홈 허브를 비롯해 차세대 애플 TV 4K와 새롭게 단장한 홈팟 미니 등 스마트홈 제품군이 공개될 것으로 예상된다.스마트홈 허브는 아이패드와 홈팟을 결합한 듯한 새로운 형태의 제품으로, 약 6인치 크기의 정사각형 디스플레이를 탑재할 것으로 알려졌다. 여러 사용자가 함께 스마트홈 기기를 제어하고, 페이스타임 통화를 하거나 동영상을 시청할 수 있다. 뉴스와 날씨 정보를 확인하고 캘린더 일정을 관리하는 기능도 지원할 것으로 전망된다. 또한 애플의 인공지능",
+          "published": "2026-10-09T02:38:24+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"미국인 채용하라\"…美, MS·어도비 등 8개사 외국인 영주권 지원 제동",
+          "link": "https://zdnet.co.kr/view/?no=20261009105949",
+          "summary": "[지디넷코리아]트럼프 행정부가 주요 IT 기업의 고숙련 외국인 영주권 취득 지원에 제동 걸었다. 이들 기업의 제도 악용을 줄이고 미국인 인력 채용을 늘리기 위한 조치다.8일(현지시간) 테크크런치 등 주요 외신에 따르면 미국 정부는 마이크로소프트와 어도비 등 8개 기업의 외국인 숙련 근로자 영주권 취득 지원 프로그램 참여를 중단한다고 밝혔다. 대상에는 캡제미니·코그니전트·HCL·인포시스·타타·위프로도 포함됐다.키스 손더링 미국 노동부 장관도 이들 기업과 관련한 영주권 취득용 노동인증 신청을 받아들이지 않겠다고 발표했다. 신규 신청뿐 아니라 이미 접수돼 심사 중인 신청에도 이번 조치를 적용한다.앞서 트럼프 행정부는 해당 기업들이 제도 악용 의혹을 제기하며 미국인 근로자 채용을 촉구했다. 제이디 밴스 미국 부통령은 이날 기자회견에서 마이크로소프트를 직접 거론하며 미국인 고용 필요성을 강조했다.마이크로소프트는 미국 내 직원 대다수가 미국인이라며 행정부에 추가 정보를 제공하겠다는 입장을 내놨",
+          "published": "2026-10-09T07:30:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -210,49 +189,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "\"로그인 없이 최애 응원\"…멜론, 전 세계 K팝 팬 참여 기능 도입",
-          "link": "https://zdnet.co.kr/view/?no=20261009073800",
-          "summary": "[지디넷코리아]멜론이 한국과 중국, 일본 중심으로 운영하던 K팝 통합 차트에 전 세계 팬들이 참여할 수 있는 응원 기능을 추가했다. 별도 회원가입이나 로그인 없이 좋아하는 아티스트를 응원하고, 결과를 사회관계망서비스(SNS)에 공유할 수 있다.카카오엔터테인먼트는 음악 플랫폼 멜론의 'Global-K Chart(글로벌 K 차트)'에 '응원하기' 기능을 도입했다고 9일 밝혔다.글로벌 K 차트는 멜론과 중국 텐센트뮤직, 일본 라인뮤직이 공동으로 운영하는 K팝 아티스트 통합 차트다. 세 나라 음악 플랫폼에서 발생한 음원 스트리밍 이용량과 팬 활동 지표 등을 합산해 아티스트 순위를 집계한다.이번에 추가된 응원하기 기능은 참여 대상을 한중일 이용자에서 전 세계 K팝 팬으로 넓힌 것이 특징이다. 기존 차트가 음악 감상과 플랫폼 내 활동 데이터를 기반으로 순위를 보여줬다면, 새 기능은 팬들이 직접 아티스트를 응원하는 별도 참여 공간으로 운영된다.이용자는 글로벌 K 차트 웹페이지에 접속한 뒤 일간차",
-          "published": "2026-10-08T22:38:00+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"등산 코스마다 날씨 다르네\"…네이버, 전국 301개 산 맞춤 예보 제공",
-          "link": "https://zdnet.co.kr/view/?no=20261009074344",
-          "summary": "[지디넷코리아]네이버가 단풍철을 맞아 전국 주요 산의 날씨를 등산 코스별로 확인할 수 있는 서비스를 선보였다. 등산객이 출발 시간과 이동 경로를 선택하면 산행 중 예상되는 기온과 바람, 강수 변화를 구간별로 안내하는 방식이다.네이버는 전국 301개 산을 대상으로 초단기 예보를 제공하는 '등산 테마날씨'를 지난달 출시했다고 9일 밝혔다.기존 지역 날씨가 행정구역을 중심으로 제공됐다면, 등산 테마날씨는 산의 위치 좌표를 기준으로 예보를 제공하는 것이 특징이다.특히 네이버 지도에 축적된 등산 코스 데이터를 날씨 예보와 결합했다. 이용자가 등산할 산과 코스, 출발 시간을 선택하면 이동 경로에 따라 달라지는 기온과 바람, 강수 정보를 시간대별로 확인할 수 있다.산행을 계획할 때 참고할 수 있는 일출 시각과 계절별 풍경 정보도 제공한다. 단풍과 개화 시기 등을 네이버 날씨 화면에서 확인할 수 있으며, 향후 다른 야외 활동 테마에도 관련 정보를 확대 적용할 계획이다.네이버는 지난해 8월 야구장을",
-          "published": "2026-10-08T22:48:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
