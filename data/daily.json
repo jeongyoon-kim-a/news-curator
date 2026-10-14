@@ -1,65 +1,106 @@
 {
-  "generated_at": "2026-10-13T02:28:26.349907+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-10-14T00:11:49.103843+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "Elon Musk's foundation is opaque, miserly and self-serving",
+          "link": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
+          "summary": "The world’s richest man disdains charity. His money is where his mouth is",
+          "published": "2026-10-13T20:38:10+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed",
-          "summary": "New research has exposed a potential flaw in the memory-saving technology underpinning DeepSeek’s models, marking a rare challenge to a breakthrough that has helped the Chinese artificial intelligence lab close the gap with US rivals OpenAI and Anthropic with its low-cost approach. The findings were published late last month in a paper led by researchers from ByteDance and co-authors affiliated with Princeton University, Stanford University and the University of California, Berkeley. The study,.",
-          "published": "2026-10-12T07:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Nvidia CEO Announces $2 Billion in Europe Deals During Tour",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang announced plans to invest $2 billion in European deals during a tour of the region that included a meeting with French President Emmanuel Macron.",
+          "published": "2026-10-13T16:07:12+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
+          "summary": "An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company’s San Francisco offices, according to statements from the artificial intelligence company and the US Justice Department.",
+          "published": "2026-10-13T20:13:49+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "카카오게임즈 '도깨비의세계', 구글 플레이 매출 1위 기록",
-          "link": "https://zdnet.co.kr/view/?no=20261013093905",
-          "summary": "[지디넷코리아]카카오게임즈의 신작 2.5D MMORPG '도깨비의세계'가 구글 플레이 매출 순위 정상에 올랐다.카카오게임즈(공동대표 김태환, 이시우)는 슈퍼캣(대표 김원배)이 개발한 신작 2.5D MMORPG '도깨비의세계'가 구글 플레이 매출 순위 1위를 기록했다고 13일 밝혔다.지난 8일 정식 출시된 '도깨비의세계'는 출시 5일 만에 구글 플레이 매출 1위를 달성했다. 앞서 사전 다운로드가 시작된 7일 애플 앱스토어 인기 순위 1위를 기록한 데 이어 정식 출시 당일 구글 플레이 인기 순위 1위에 올랐으며, 연휴 기간 양대 앱마켓 매출 순위 2위에 안착하며 흥행세를 이어왔다.카카오게임즈는 구글 플레이 매출 1위 달성을 기념해 이날 오전 10시 특별 쿠폰을 지급한다. 쿠폰 지급 관련 안내는 공식 커뮤니티에서 확인할 수 있다.회사는 국내 이용자를 위한 안정적인 서비스 제공을 최우선으로 두고, 시즌 단위 업데이트와 '도깨비 총회' 등을 통해 국내 서비스의 완성도를 지속해서 높여나갈 계획",
-          "published": "2026-10-13T00:39:05+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
+          "summary": "Anthropic PBC urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security.",
+          "published": "2026-10-13T22:24:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         },
         {
-          "title": "OpenAI’s GPT-6 may lead to robotics breakthrough  as soon as next year: Unitree founder",
-          "link": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed",
-          "summary": "US start-up OpenAI’s latest advances in artificial intelligence may be a tipping point that leads to a breakthrough for the robotics industry as soon as next year, according to the founder of Chinese giant Unitree Robotics. Wang Xingxing, also the CEO of the Hangzhou-based company, said on Monday that OpenAI’s recently released GPT-6 model prompted expectations that a breakthrough could happen “within one or two years”. “It’s possible that, say, a GPT-7 model released next year could directly...",
-          "published": "2026-10-12T13:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "Open models have real benefits. Do they outweigh the risks?",
+          "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
+          "published": "2026-10-13T10:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -72,14 +113,14 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "오픈AI, 유럽 본부 덩치 키운다…아일랜드서 200명 추가 채용",
-          "link": "https://zdnet.co.kr/view/?no=20261013090621",
-          "summary": "[지디넷코리아]글로벌 기술 기업들이 인공지능(AI) 관련 인력 구조조정을 이어가는 사이 오픈AI는 유럽 지역 채용을 확대하고 있다. 메타와 틱톡 등이 대규모 감원을 단행한 아일랜드 더블린에서 올해 발표한 신규 채용 규모를 450명으로 늘렸다.12일(현지시간) 블룸버그통신에 따르면 오픈AI는 이날 아일랜드 더블린에서 200명을 추가 채용할 예정이라고 발표했다. 지난 7월 250명 규모의 채용 계획을 밝힌 데 이어 추가 인력 확보에 나선 것이다. 이에 따라 올해 발표한 신규 채용 인원은 총 450명에 달한다.오픈AI는 현재 아일랜드에서 120명 이상의 직원을 고용하고 있다. 더블린은 오픈AI의 유럽 본부가 위치한 곳으로, 신규 채용이 진행되면 현지 조직 규모도 크게 확대될 전망이다.신규 채용은 기술직과 비 기술직을 아우른다. 기술직에는 AI 애플리케이션을 고객 환경에 배포하는 현장 배치 엔지니어와 솔루션 엔지니어, 개인정보 보호 엔지니어 등이 포함된다. 영업과 사용자 운영 부문에서도 인",
-          "published": "2026-10-13T00:09:10+00:00",
+          "title": "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
+          "link": "https://zdnet.co.kr/view/?no=20261014075542",
+          "summary": "[지디넷코리아]LG전자가 미국 애플(Apple)과 손잡고 차세대 사물인터넷(IoT) 기기 7종을 전격 선보이며 글로벌 AI홈 생태계 확장에 박차를 가한다.LG전자와 애플은 13일(현지시간) 미국 뉴욕 맨해튼에서 신제품 발표 행사를 개최하고, 일상 생활의 편의성과 안전성을 획기적으로 높인 AI홈 핵심 IoT 라인업을 공개했다고 14일 밝혔다. 이번 행사에는 곽도영 LG전자 북미지역대표 부사장, 정기현 HS플랫폼사업센터장 부사장과 매튜 코스텔로 애플 하드웨어 엔지니어링 부사장 등 양사 핵심 경영진이 대거 참석했다.이번에 공개된 신제품은 실내 카메라, 실외 카메라 2종(투광조명 탑재 여부별), 도어벨, 도어락, 온도 조절기, 온도 센서 등 총 7종이다. 해당 제품들은 연내 미국과 캐나다 등 북미 주요 시장과 영국을 시작으로 글로벌 시장에 순차적으로 출시될 예정이다.이번 협력은 LG전자가 오랫동안 쌓아온 주거 공간 경험 데이터 및 제조 역량에 애플의 독보적인 사용자 경험(UX) 플랫폼 생태",
+          "published": "2026-10-13T23:18:12+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -96,74 +137,50 @@
           "event_labels": []
         },
         {
-          "title": "\"우유도 검사받는데 AI는\"…MS 부회장, 법적 안전 규제 촉구",
-          "link": "https://zdnet.co.kr/view/?no=20261013071625",
-          "summary": "[지디넷코리아]마이크로소프트(MS) 부회장이 인공지능(AI)은 우유나 세탁기보다 안전 규제가 부족하다며 사고 발생 시 기업에 피해자 통보 의무를 부과하는 등 법적 안전장치를 마련해야 한다고 촉구했다.12일(현지시간) BBC에 따르면 브래드 스미스 MS 부회장 겸 사장은 '빅 보스 인터뷰' 팟캐스트에서 AI를 도구이자 무기로 규정하고 법적 구속력을 갖춘 안전 규칙이 필요하다고 밝혔다. 일상에서 사용하는 제품에는 엄격한 안전 기준이 적용되지만 AI는 그에 걸맞은 규제를 받지 않고 있다는 지적이다.스미스 부회장은 \"현재 세탁기는 AI보다 더 많은 안전 규제를 받는다\"며 \"식료품점에서 판매하는 우유 한 팩도 안전 규정과 검사를 적용받는다\"고 말했다.구체적인 안전장치로는 AI가 사람의 통제를 벗어났을 때 작동을 중단하거나 속도를 늦추는 '킬 스위치'를 제안했다. AI 에이전트가 예상하지 못한 행동을 하더라도 사람이 개입해 추가 피해를 막을 수 있도록 하기 위해서다.사고가 발생했을 때 기업의 ",
-          "published": "2026-10-13T00:09:32+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "아마존, AI 인프라 강화 위해 데카르트 9조 인수 협상 중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB5M29YaGVlaDVvaUxqNFkzVklCVVpZeGNOT3dKaDRtNzBEeU1wM1hidHN3VFVTSmxVZXlLdWtnVzU3Z2VUQmcwOVpsQ2hOVC1xdGIxbVNjQVNmWE9DY1hxcWNsOVhvdkp4akE?oc=5",
-          "summary": "아마존, AI 인프라 강화 위해 데카르트 9조 인수 협상 중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-12T03:02:44+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "\"내년도 삼전닉스 성장동력은 HBM4…엔비디아 루빈 출하 본격화\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11c0k0RUlzVGZYU1c3UmRqOEVJRFNmbVVqeXVqRnFKSkhZV2lhWGhPd0FOY0F4MUk0VzV0c3IwakNWRXd5MWpqOXFOcG5UbXJXdWJobmR3Y0NqbUhKR2wxY0lzdWM2MzV5ZTVpOGlndmc?oc=5",
+          "summary": "\"내년도 삼전닉스 성장동력은 HBM4…엔비디아 루빈 출하 본격화\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-13T05:04:14+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "India Food Watchdog to Tighten Grip on $80 Billion Online Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-13/india-food-watchdog-to-tighten-grip-on-80-billion-online-market",
-          "summary": "India’s top food regulator is preparing tighter rules for quick delivery online platforms, including Blinkit, Swiggy Ltd.’s Instamart and Amazon Now, as it intensifies a nationwide crackdown on unsafe practices across the world’s largest consumer market.",
-          "published": "2026-10-13T01:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE45VlVwS0U0QzBjVG9qXzJHRERtZWJtX3EtM1hhTlpveXdpdTFKN1J0bmlmektCdkx5aEpVSzU1ZHhuVFlCTWM3TWdncDQ0blJ4c1dTWEtqeHpkeXE0aVZIa1R5aUQ5Xy1wcnc?oc=5",
-          "summary": "메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-12T20:53:35+00:00",
+          "title": "The Download: open model trade-offs and geothermal power’s promise",
+          "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
+          "published": "2026-10-13T12:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYzJKUUFObk1ScU4zdXhsMGdDQl9LUlRXWmJiUWhjTHIxMi1kYTZxTk9jb0hmWWFkQzRhV1dlZjJWR0hvaUJva1VpY2tPV0VfcUxvREFGUUZDd2lnRWdINmtCYWFEeVl3SFE?oc=5",
+          "summary": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-13T20:01:14+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -183,87 +200,48 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "토스뱅크 \"이체 오류 정정…중복 입금 취소 예정\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JQk8xck5yZUstU3B4bnlHb1VnT3E4SnN2ZklOMUNSSmVYSzctVU5yLUtwQl9VbWRIc2JZSUpYc3JBSVhsV0xQRFg0WlYtalVvS1dLYll6QmxQN2p2ZmwzZjZYSV95NGlmcXZEeW9LUmo?oc=5",
-          "summary": "토스뱅크 \"이체 오류 정정…중복 입금 취소 예정\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-12T08:36:40+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "AI labs are buying data from dead startups to train their models",
+          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
+          "published": "2026-10-13T09:00:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 13,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
         {
-          "title": "카카오뱅크, 외국인 시장 진출로 밸류업 '승부수'…자금운용은 숙제 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RSjRtbUJaUTNYMDhndEd5QXdteTd1YUZKRllGd2dlTXdXUzdiQUVLTW5tdmJhNHRsa0wzckp5dGl6VnpteVVRWHRDeTFKa2hhZ216bmo3YUZ6cnB2WGlvS0RnUkdGMWZFbGVvSGVvZlk?oc=5",
-          "summary": "카카오뱅크, 외국인 시장 진출로 밸류업 '승부수'…자금운용은 숙제 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-13T00:21:31+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[AI 고속도로] 정부 정보시스템 2030년까지 클라우드 전환…12월 로드맵 나온다",
-          "link": "https://zdnet.co.kr/view/?no=20261013092218",
-          "summary": "[지디넷코리아]정부가 오는 2030년까지 행정·공공기관 정보시스템의 클라우드 전환을 마무리하기 위한 중장기 계획 수립에 속도를 낸다. 연말까지 범정부 클라우드 전환 로드맵을 마련하고 민간 클라우드 활용 확대와 핵심 정보시스템의 클라우드 네이티브 전환을 단계적으로 추진한다는 방침이다.행정안전부와 한국지능정보사회진흥원(NIA)은 지난 12일 서울 명동 포스트타워에서 행정·공공기관 정보화 담당자를 대상으로 '클라우드서비스제공사(CSP)별 서비스 설명회'를 개최했다. 행사에는 네이버클라우드·KT클라우드·NHN클라우드·삼성SDS·카카오엔터프라이즈·가비아 등 국내 주요 CSP 6개사가 참석했다.이번 설명회에선 공공부문 클라우드 정책 방향과 민간 클라우드 전환지원 계획, CSP 선정 시 고려사항 등이 공유됐다. 참석 기업들은 각사의 클라우드 서비스와 기술지원 체계를 소개하고 기관별 전환 방안과 비용 등을 상담했다.정부가 클라우드 전환에 속도를 내는 배경으로는 공공부문의 낮은 클라우드 활용률이 꼽",
-          "published": "2026-10-13T00:56:31+00:00",
+          "title": "눈치까지 배우는 카카오 AI '선톡'…가상 카톡서 대화 훈련",
+          "link": "https://zdnet.co.kr/view/?no=20261013170136",
+          "summary": "[지디넷코리아]카카오가 인공지능(AI)이 이용자에게 먼저 말을 거는 ‘선톡’ 기능을 고도화한다. 대화 흐름과 맞지 않는 제안을 하거나 불필요하게 개입하는 문제를 줄이고, 이용자에게 실질적으로 도움이 되는 순간을 판단하도록 개선한다는 계획이다. 이를 위해 실제 카카오톡과 유사한 가상 환경에서 AI끼리 대화하며 다양한 상황을 학습하는 ‘클론’ 기술을 활용하고 있다.윤소원 카나나 인 카카오톡 프로덕트 매니저는 13일 경기도 용인시에서 열린 개발자 컨퍼런스 ‘이프카카오(if(kakao)26)’에서 가상 환경 ‘클론’을 활용한 카나나 인 카카오톡(카인카) 개발 과정과 향후 고도화 방향을 소개했다.카나나 인 카카오톡은 이용자의 대화 내용을 기기 안에서 분석해 일정 관리와 예약, 구매, 검색 등을 먼저 제안하는 AI 서비스다. 지난해 열린 이프카카오에서 핵심 기능이 처음 공개됐으며, 비공개 베타 테스트를 거쳐 올해 3월 정식 출시됐다.카카오는 카나나 인 카카오톡이 먼저 연락하는 ‘선톡’ 체계를 ",
+          "published": "2026-10-13T08:38:16+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HV2VEZDlYVmpBS3k3WFBWM0hjYXNSN0JuQlNkNXZKZnpZS01uOHBvbWtET2p5WkM1MS1aQk03UFF5MWNXczUxUW9zSVNEN19vX3JodXJwaFVKYllDZlhQcGdkWG5yNGQtSGc?oc=5",
-          "summary": "네이버클라우드, 베트남 FPT와 아태 지역 AI 팩토리 사업 확대 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-12T03:21:41+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
