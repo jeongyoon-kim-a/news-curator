@@ -1,26 +1,48 @@
 {
-  "generated_at": "2026-10-14T00:11:49.103843+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-10-14T23:46:11.656670+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Elon Musk's foundation is opaque, miserly and self-serving",
-          "link": "https://www.economist.com/business/2026/10/13/elon-musks-foundation-is-opaque-miserly-and-self-serving",
-          "summary": "The world’s richest man disdains charity. His money is where his mouth is",
-          "published": "2026-10-13T20:38:10+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
+          "title": "Tesla-SpaceX Deal News Possible This Year, Barclays Analyst Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says",
+          "summary": "A merger between Elon Musk’s Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker’s annual general meeting, according to analysts at Barclays.",
+          "published": "2026-10-14T21:13:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 19,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cFl2OHNQUC02SXZsRnBpMGRmbXFZVkZOUnUtNU9vd3dDbkNhaDRqeXZPQlhfTnItdlBaeVloMXBfVFAxWnBpWi1Gall2RHRWZm5iTkcxaTdkZ2VYMGVsanJSTVk5SzJUOHc?oc=5",
+          "summary": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-14T08:07:35+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,10 +55,53 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia CEO Announces $2 Billion in Europe Deals During Tour",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-13/nvidia-s-huang-plans-2-billion-in-europe-ai-deals-in-next-week",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang announced plans to invest $2 billion in European deals during a tour of the region that included a meeting with French President Emmanuel Macron.",
-          "published": "2026-10-13T16:07:12+00:00",
+          "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
+          "summary": "Anthropic PBC told prospective investors its third-quarter revenue hit $16.8 billion, according to people familiar with the matter, as the artificial intelligence model maker pushes ahead with plans to go public.",
+          "published": "2026-10-14T22:22:48+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "funding"
+          ]
+        },
+        {
+          "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+          "summary": "OpenAI agreed not to use trade secrets that Apple Inc. claims were stolen by employees who defected from the iPhone maker to the artificial intelligence startup while a legal fight between the companies plays out.",
+          "published": "2026-10-14T10:30:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn’t believe that the current level of concern about the technology is warranted.",
+          "published": "2026-10-14T17:34:47+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -55,10 +120,10 @@
           ]
         },
         {
-          "title": "OpenAI Says Staffer Arrested for Hidden Recording Device in Office",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-13/openai-says-staffer-arrested-for-hidden-recording-device-in-office",
-          "summary": "An employee at OpenAI was arrested and charged with using a hidden recording device in one of the company’s San Francisco offices, according to statements from the artificial intelligence company and the US Justice Department.",
-          "published": "2026-10-13T20:13:49+00:00",
+          "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
+          "summary": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.",
+          "published": "2026-10-14T18:52:33+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -75,61 +140,41 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
-          "summary": "Anthropic PBC urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security.",
-          "published": "2026-10-13T22:24:46+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Open models have real benefits. Do they outweigh the risks?",
-          "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-          "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the&#8230;",
-          "published": "2026-10-13T10:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "“너희도 우리 기밀 훔쳐갔잖아”…애플에 고소당한 오픈AI의 맞소송 예고 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iM01yT1NmTURCVjE3TVdLUXFORTJia3Y3YWNrLUFrSmctcUZhZVBlc3cwOGVBYVN1TlNFRFBxdmJ1T3dUaEozLXdLTVlhS3hieVE?oc=5",
+          "summary": "“너희도 우리 기밀 훔쳐갔잖아”…애플에 고소당한 오픈AI의 맞소송 예고 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-14T22:11:25+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "regulation"
           ]
         },
         {
-          "title": "LG전자, 애플과 AI홈 생태계 확장...차세대 IoT 기기 7종 공개",
-          "link": "https://zdnet.co.kr/view/?no=20261014075542",
-          "summary": "[지디넷코리아]LG전자가 미국 애플(Apple)과 손잡고 차세대 사물인터넷(IoT) 기기 7종을 전격 선보이며 글로벌 AI홈 생태계 확장에 박차를 가한다.LG전자와 애플은 13일(현지시간) 미국 뉴욕 맨해튼에서 신제품 발표 행사를 개최하고, 일상 생활의 편의성과 안전성을 획기적으로 높인 AI홈 핵심 IoT 라인업을 공개했다고 14일 밝혔다. 이번 행사에는 곽도영 LG전자 북미지역대표 부사장, 정기현 HS플랫폼사업센터장 부사장과 매튜 코스텔로 애플 하드웨어 엔지니어링 부사장 등 양사 핵심 경영진이 대거 참석했다.이번에 공개된 신제품은 실내 카메라, 실외 카메라 2종(투광조명 탑재 여부별), 도어벨, 도어락, 온도 조절기, 온도 센서 등 총 7종이다. 해당 제품들은 연내 미국과 캐나다 등 북미 주요 시장과 영국을 시작으로 글로벌 시장에 순차적으로 출시될 예정이다.이번 협력은 LG전자가 오랫동안 쌓아온 주거 공간 경험 데이터 및 제조 역량에 애플의 독보적인 사용자 경험(UX) 플랫폼 생태",
-          "published": "2026-10-13T23:18:12+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Apple Prepares to Debut First AI Features in China in December",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
+          "summary": "Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.",
+          "published": "2026-10-14T19:50:37+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 3,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -137,81 +182,35 @@
           "event_labels": []
         },
         {
-          "title": "\"내년도 삼전닉스 성장동력은 HBM4…엔비디아 루빈 출하 본격화\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11c0k0RUlzVGZYU1c3UmRqOEVJRFNmbVVqeXVqRnFKSkhZV2lhWGhPd0FOY0F4MUk0VzV0c3IwakNWRXd5MWpqOXFOcG5UbXJXdWJobmR3Y0NqbUhKR2wxY0lzdWM2MzV5ZTVpOGlndmc?oc=5",
-          "summary": "\"내년도 삼전닉스 성장동력은 HBM4…엔비디아 루빈 출하 본격화\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-13T05:04:14+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "The Download: open model trade-offs and geothermal power’s promise",
-          "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report arguing that a powerful new model released by the Chinese company Z.ai, poses a major cyberattack&#8230;",
-          "published": "2026-10-13T12:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1EYzJKUUFObk1ScU4zdXhsMGdDQl9LUlRXWmJiUWhjTHIxMi1kYTZxTk9jb0hmWWFkQzRhV1dlZjJWR0hvaUJva1VpY2tPV0VfcUxvREFGUUZDd2lnRWdINmtCYWFEeVl3SFE?oc=5",
-          "summary": "구글, ‘제미나이 4 아르곤’ 본격 상용화…실무 성과·제품 생태계로 승부 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-13T20:01:14+00:00",
+          "title": "애플, 시리 AI 탑재 디스플레이 '홈뷰' 등 스마트 홈 제품 대거 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbzI1ZUZVV3AySEl3dXRQbFZwNzA3eFJwem53ZG84THJoVmlRV3VpYVpaMXRPV3Z6YlhXYkROenFNc2FMZEtmQU5oYTd0OHI2eXR0eVlwcXNKc2VnMENzaU95REZVQllPR2c?oc=5",
+          "summary": "애플, 시리 AI 탑재 디스플레이 '홈뷰' 등 스마트 홈 제품 대거 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-14T06:54:02+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "AI labs are buying data from dead startups to train their models",
-          "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-          "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around&#8230;",
-          "published": "2026-10-13T09:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMDdacHN4aVBpRllsT1MtdHVXV1cyc0d3cG5Hb3QzM3hCNEhKSUFMQlNubDJLajJ0WGtVTkllWEhELTRVdHd4YmZXdUNlbjBMX2dnUzhQZ1haVl9wblNuTWhrRXY1LVZ6UXc?oc=5",
+          "summary": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-14T07:29:45+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -224,15 +223,83 @@
         }
       ]
     },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
       "articles": [
         {
-          "title": "눈치까지 배우는 카카오 AI '선톡'…가상 카톡서 대화 훈련",
-          "link": "https://zdnet.co.kr/view/?no=20261013170136",
-          "summary": "[지디넷코리아]카카오가 인공지능(AI)이 이용자에게 먼저 말을 거는 ‘선톡’ 기능을 고도화한다. 대화 흐름과 맞지 않는 제안을 하거나 불필요하게 개입하는 문제를 줄이고, 이용자에게 실질적으로 도움이 되는 순간을 판단하도록 개선한다는 계획이다. 이를 위해 실제 카카오톡과 유사한 가상 환경에서 AI끼리 대화하며 다양한 상황을 학습하는 ‘클론’ 기술을 활용하고 있다.윤소원 카나나 인 카카오톡 프로덕트 매니저는 13일 경기도 용인시에서 열린 개발자 컨퍼런스 ‘이프카카오(if(kakao)26)’에서 가상 환경 ‘클론’을 활용한 카나나 인 카카오톡(카인카) 개발 과정과 향후 고도화 방향을 소개했다.카나나 인 카카오톡은 이용자의 대화 내용을 기기 안에서 분석해 일정 관리와 예약, 구매, 검색 등을 먼저 제안하는 AI 서비스다. 지난해 열린 이프카카오에서 핵심 기능이 처음 공개됐으며, 비공개 베타 테스트를 거쳐 올해 3월 정식 출시됐다.카카오는 카나나 인 카카오톡이 먼저 연락하는 ‘선톡’ 체계를 ",
-          "published": "2026-10-13T08:38:16+00:00",
+          "title": "Bitcoin Slides as Wall Street Risk Pullback Tests Bullish Turn",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-14/bitcoin-hits-lower-end-of-trading-range-as-risk-appetite-wanes",
+          "summary": "Bitcoin fell as much as 2.3% toward the lower end of its recent trading range, caught in a broader retreat from risk assets even as crypto analysts have turned sharply more bullish on the token.",
+          "published": "2026-10-14T18:19:38+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "은행 이어 가상자산 업계도 해킹…고팍스·프라뱅도 개인정보 유출",
+          "link": "https://zdnet.co.kr/view/?no=20261014161400",
+          "summary": "[지디넷코리아]은행에 이어 상호금융(새마을금고중앙회)·저축은행·핀테크·가상자산 업계도 해킹으로 인해 개인정보가 유출된 것으로 확인됐다.14일 금융위원회에 따르면 신한은행 침해사고 전후로 사고 발생이 확인된 금융회사는 전 업권에 걸쳐 총 16개사로 파악됐다. ▲은행업권(신한은행·국민은행·부산은행·하나은행) ▲저축은행업권(예가람저축은행·웰컴저축은행·DB저축은행·OK저축은행) ▲여신업권(현대캐피탈·산은캐피탈) ▲온라인투자연계업권(PFCT·모우다) ▲전자금융업권(브라이트픽스) ▲가상자산업권(스트리미·프라뱅) ▲상호금융업권(새마을금고중앙회) 등이다.현재까지 확인된 금융회사의 정보 유출 규모는 이름과 연락처, 주민등록번호, 이메일 등을 포함해 약 10만건이다. 직접적인 부정 결제 우려가 있는 계좌 비밀번호나 카드 번호 등에 관한 유출은 확인되지 않은 상태다.다만, 금융권 침해 사고는 더 확대될 가능성이 있다. 현재도 금융회사들이 공유된 IP 등을 바탕으로 침해발생 여부를 확인 중이다.지난 8일",
+          "published": "2026-10-14T09:04:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
+      "articles": [
+        {
+          "title": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOEJ0YTV6Y0Zta0wwWVhPcnhfR1o0dHBJc2tKLTdCSUJ4SlR6NUpkMnRHbzk5dDJmeU50dG9hc3ZLa3plMUJtRnlKQUFKQmZBd0xxejdBa3h5bk5VYnEyM2w4b3c4WWtWNWc?oc=5",
+          "summary": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-14T06:36:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "라이엇게임즈, 2026 LCK 시청 지표 발표…평균 분당 시청자 수 70만 돌파",
+          "link": "https://zdnet.co.kr/view/?no=20261014175541",
+          "summary": "[지디넷코리아]국내 리그 오브 레전드 프로 e스포츠 리그인 LCK가 프랜차이즈 도입 6년 만에 평균 분당 시청자 수 70만을 돌파하며 역대 최고 지표를 경신했다.라이엇 게임즈는 지난 4월1일부터 9월13일까지 진행된 '2026 리그 오브 레전드 챔피언스 코리아(LCK)'의 공식 시청 지표를 14일 발표했다.발표에 따르면 2026 LCK의 평균 분당 시청자 수(AMA)는 71만 4000명을 기록해 2025년 대비 13% 증가했다. 프랜차이즈 시스템을 처음 도입한 2021년(32만 6000명)과 비교하면 6년 만에 2.19배 늘어난 수치다. 젠지와 한화생명e스포츠가 맞붙은 결승전 최고 동시 시청자 수(PCU) 역시 전년 동기 대비 24% 상승해 리그 흥행성을 입증했다.이번 시즌을 앞두고 네이버 치지직과 SOOP이 5년간의 중계권을 확보하면서 기존 유튜브 중심 시청 층의 이탈 우려가 제기됐으나, 두 플랫폼의 스트리머 동시 송출(코스트리밍) 투자에 힘입어 안정적으로 자리 잡았다.해외 시청 ",
+          "published": "2026-10-14T09:30:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
