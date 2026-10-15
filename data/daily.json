@@ -1,38 +1,79 @@
 {
-  "generated_at": "2026-10-14T23:46:11.656670+00:00",
+  "generated_at": "2026-10-15T23:35:01.333047+00:00",
   "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 4,
       "articles": [
         {
-          "title": "Tesla-SpaceX Deal News Possible This Year, Barclays Analyst Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/tesla-spacex-deal-news-possible-this-year-barclays-analyst-says",
-          "summary": "A merger between Elon Musk’s Tesla Inc. and SpaceX could be announced ahead of the electric-vehicle maker’s annual general meeting, according to analysts at Barclays.",
-          "published": "2026-10-14T21:13:13+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "SpaceX’s Starlink expansion is a bold gamble on the future",
+          "link": "https://www.economist.com/business/2026/10/15/spacexs-starlink-expansion-is-a-bold-gamble-on-the-future",
+          "summary": "Elon Musk is betting that robotics will dramatically increase demand for connectivity",
+          "published": "2026-10-15T12:50:21+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 14,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "TSMC confirms talks with Elon Musk over Texas ‘Terafab’ but insists on operational control",
+          "link": "https://www.scmp.com/tech/big-tech/article/3371010/tsmc-confirms-talks-elon-musk-over-texas-terafab-insists-operational-control?utm_source=rss_feed",
+          "summary": "Taiwan Semiconductor Manufacturing Co (TSMC) is in discussions regarding a potential role in Elon Musk’s proposed Terafab project in Texas, according to company chairman and CEO C.C. Wei, although he stressed that TSMC would retain operational control of any partner factory. The plant “has got to be run by TSMC”, Wei said during the third-quarter earnings call on Thursday. TSMC, the world’s largest contract chipmaker, has sent teams to Texas to assess expansion opportunities beyond its US hub in",
+          "published": "2026-10-15T09:31:35+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 4,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "earnings",
+            "exec_change"
           ]
         },
         {
-          "title": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95cFl2OHNQUC02SXZsRnBpMGRmbXFZVkZOUnUtNU9vd3dDbkNhaDRqeXZPQlhfTnItdlBaeVloMXBfVFAxWnBpWi1Gall2RHRWZm5iTkcxaTdkZ2VYMGVsanJSTVk5SzJUOHc?oc=5",
-          "summary": "스페이스XSI, X·그록·커서 통합한 월 구독 패키지 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-14T08:07:35+00:00",
+          "title": "Harvard Fund Hits Record $68 Billion After 27% Annual Return",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-15/harvard-fund-soars-to-record-68-billion-after-27-annual-return",
+          "summary": "Harvard University’s endowment jumped to a record $68 billion as successful bets on equities and venture capital including SpaceX holdings helped the richest US college weather an unprecedented pressure campaign from President Donald Trump.",
+          "published": "2026-10-15T17:00:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스XSI, 최고 성능 '그록 보이스 3.0' 공개...\"실무 전화 해결률 1위\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByeldnN1Y0ejdFcXp3OXo2UUpMUkd0czh3RXp3akYyMFZSUk5TcURrVnZXUEozRW5rdDQ3bUpyeWZKajNUcHo5WC1CdmFuTl9kY2lzZWc0andtTTFta0pvZmw0TFozYXJWY3c?oc=5",
+          "summary": "스페이스XSI, 최고 성능 '그록 보이스 3.0' 공개...\"실무 전화 해결률 1위\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-15T08:55:44+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -52,56 +93,35 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 7,
       "articles": [
         {
-          "title": "Anthropic Revenue Hits $16.8 Billion in Quarter Before IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-revenue-jumps-to-16-8-billion-in-quarter-before-ipo",
-          "summary": "Anthropic PBC told prospective investors its third-quarter revenue hit $16.8 billion, according to people familiar with the matter, as the artificial intelligence model maker pushes ahead with plans to go public.",
-          "published": "2026-10-14T22:22:48+00:00",
+          "title": "Anthropic Stands Alone as Rest of US IPO Market Slows to a Crawl",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-15/anthropic-stands-alone-as-rest-of-us-ipo-market-slows-to-a-crawl",
+          "summary": "A cocktail of risks is threatening to stall the US IPO pipeline, leaving Anthropic PBC’s potential blockbuster debut as one of the few offerings that investors can count on.",
+          "published": "2026-10-15T19:03:17+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 15,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 4,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
             "funding"
           ]
         },
         {
-          "title": "OpenAI Vows Not to Use Trade Secrets Allegedly Taken From Apple",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
-          "summary": "OpenAI agreed not to use trade secrets that Apple Inc. claims were stolen by employees who defected from the iPhone maker to the artificial intelligence startup while a legal fight between the companies plays out.",
-          "published": "2026-10-14T10:30:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia CEO Says He Would Cut Off Buyers Who Build Unsafe AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang said he would halt the supply of chips to a customer that was developing unsafe AI software, though he doesn’t believe that the current level of concern about the technology is warranted.",
-          "published": "2026-10-14T17:34:47+00:00",
+          "title": "Nvidia CEO Downplays CoreWeave Concerns, Bolstering Stock",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-15/nvidia-ceo-huang-says-coreweave-improving-no-backstop-needed",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang defended the financial health of AI computing supplier CoreWeave Inc., a major customer in which the chipmaker is also an investor, after concerns over its debt sparked a massive selloff of its shares and bonds.",
+          "published": "2026-10-15T15:27:52+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -120,72 +140,75 @@
           ]
         },
         {
-          "title": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia",
-          "summary": "The OpenAI employee who was arrested and charged with allegedly using a hidden recording device in one of the ChatGPT maker’s San Francisco offices had a one-way ticket to Saudi Arabia booked for Oct. 12, according to a court filing.",
-          "published": "2026-10-14T18:52:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“너희도 우리 기밀 훔쳐갔잖아”…애플에 고소당한 오픈AI의 맞소송 예고 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iM01yT1NmTURCVjE3TVdLUXFORTJia3Y3YWNrLUFrSmctcUZhZVBlc3cwOGVBYVN1TlNFRFBxdmJ1T3dUaEozLXdLTVlhS3hieVE?oc=5",
-          "summary": "“너희도 우리 기밀 훔쳐갔잖아”…애플에 고소당한 오픈AI의 맞소송 예고 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-14T22:11:25+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "엔비디아 CEO \"美·中 협력해 AI 안전하게 발전시켜야\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LZGlxb2NIOS1KQlBKcUgybVVBd2xoYXpsSVVPLU01eTJsdldrVFlBQ0ZGS3NlMWZLbU05N0NCbm5lRnp1OERDRkFLOGxEUmQ5alBFeXVVdkRXSWdCR05rWWdRWUJNNkd4LUdBR3M3TjI?oc=5",
+          "summary": "엔비디아 CEO \"美·中 협력해 AI 안전하게 발전시켜야\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-15T01:24:19+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "exec_change"
           ]
         },
         {
-          "title": "Apple Prepares to Debut First AI Features in China in December",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
-          "summary": "Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.",
-          "published": "2026-10-14T19:50:37+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "이퀄베리, 美 아마존 할인 행사서 매출 5배 증가",
+          "link": "https://zdnet.co.kr/view/?no=20261015173156",
+          "summary": "[지디넷코리아]부스터스가 운영하는 스킨케어 브랜드 이퀄베리가 미국 아마존 할인 행사에서 전년 대비 5배 수준의 매출을 기록했다. 특히 피부 탄력과 주름 관리를 겨냥한 NAD+ 제품군이 전체 매출의 절반 이상을 차지하며 성장을 이끌었다.부스터스는 지난 6~7일 미국 아마존에서 열린 '프라임 빅 딜 데이즈(Prime Big Deal Days)'에서 이퀄베리 매출이 지난해 같은 행사보다 401% 증가했다고 15일 밝혔다.프라임 빅 딜 데이즈는 아마존이 매년 10월 유료 멤버십 회원을 대상으로 진행하는 대규모 할인 행사다.이번 행사 기간 이퀄베리 아마존 스토어 방문은 약 63만건으로, 전년 대비 3.7배 증가했다.가장 높은 성장률을 기록한 제품은 'NAD+ 펩타이드 세럼'이다. 행사 기간 매출이 지난해보다 1877% 늘어나 약 20배 성장했다. 아마존 페이셜 세럼 카테고리 순위도 기존 67위에서 7위로 상승했다.올해 3월 출시한 'NAD+ 크림'도 성과를 냈다. 이 제품은 이번 행사에서 아",
+          "published": "2026-10-15T08:37:15+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "earnings"
+          ]
+        },
+        {
+          "title": "How could a superintelligence take over the world? Let me count the ways",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3370688/how-could-superintelligence-take-over-world-let-me-count-ways?utm_source=rss_feed",
+          "summary": "OpenAI recently announced perhaps its biggest mathematics breakthrough yet: it released novel results on 377 high-profile open problems. Artificial intelligence (AI) casually solved these decades-old problems as a mere by-product of training. The community of mathematicians did not universally welcome this development, with University of Connecticut professor Alvaro Lozano-Robledo commenting: “I am not sure at this point what this (hostile?) takeover of the mathematical landscape is trying to...",
+          "published": "2026-10-15T12:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "애플, 시리 AI 탑재 디스플레이 '홈뷰' 등 스마트 홈 제품 대거 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fbzI1ZUZVV3AySEl3dXRQbFZwNzA3eFJwem53ZG84THJoVmlRV3VpYVpaMXRPV3Z6YlhXYkROenFNc2FMZEtmQU5oYTd0OHI2eXR0eVlwcXNKc2VnMENzaU95REZVQllPR2c?oc=5",
-          "summary": "애플, 시리 AI 탑재 디스플레이 '홈뷰' 등 스마트 홈 제품 대거 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-14T06:54:02+00:00",
+          "title": "애플, 12월 중국서 AI 첫선…알리바바·바이두 손잡고 1년 반 만에 진입 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTN3hkMHZETkhjYzZ2MWZyTkNLVUdiZkpGT2hZbHBQZUsxY0lGODdiODRwSmtNMmp5akNOMWNRa3NfU01RZDB1R2VKSjBydmNYejFveFZ6dS1SeWo5aUlmTk1sUVZjV3RDTkE?oc=5",
+          "summary": "애플, 12월 중국서 AI 첫선…알리바바·바이두 손잡고 1년 반 만에 진입 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-15T04:01:04+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -202,19 +225,19 @@
           "event_labels": []
         },
         {
-          "title": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rMDdacHN4aVBpRllsT1MtdHVXV1cyc0d3cG5Hb3QzM3hCNEhKSUFMQlNubDJLajJ0WGtVTkllWEhELTRVdHd4YmZXdUNlbjBMX2dnUzhQZ1haVl9wblNuTWhrRXY1LVZ6UXc?oc=5",
-          "summary": "구글, AI '바이브 코딩' 앱 비공개 실행 기능 도입…\"개발자 등록 필요 없어\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-14T07:29:45+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"가장 빠르게, 가장 나답게\"…성수동 ‘지그재그 익스프레스’ 가보니",
+          "link": "https://zdnet.co.kr/view/?no=20261015173130",
+          "summary": "[지디넷코리아]국내 패션 일번지 성수동에 ‘가장 빠르고, 가장 지그재그다운’ 팝업이 문을 열었다. 쇼핑몰 50곳과 함께 새로운 상품 탐색을 통해 나다움을 발견하고, 빠른 배송을 경험해 볼 수 있는 공간을 오프라인에 구현했다.15일 서울 성동구에 위치한 앤더슨씨 성수. 지그재그는 오는 16일부터 18일까지 3일간 오프라인 팝업 ‘지그재그 익스프레스’를 운영하기에 앞서 미디어 초청 행사를 개최했다.이번 팝업의 주제는 ‘지그재그 익스프레스’로, 새로운 트렌드·상품의 발견부터 빠른 배송까지 이어지는 지그재그만의 강점을 곳곳에 녹였다.핵심 테마에 걸맞게 팝업 현장 입구부터 속도감을 느낄 수 있는 인테리어가 방문객들을 맞았다. 또 지그재그 익스프레스에서는 플랫폼을 대표하는 쇼핑몰 50곳이 함께 팝업을 꾸렸다.1층 큐레이션존에는 39개 쇼핑몰 상품을 알파벳 순서대로 데일리 캐주얼, 페미닌, 올사이즈, 빈티지 캐주얼, 스트릿 캐주얼, 모던 시크 등 6개 테마로 나눠서 전시했다. 테마 옆에는 각각의",
+          "published": "2026-10-15T08:39:22+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -228,18 +251,18 @@
       "count": 2,
       "articles": [
         {
-          "title": "Bitcoin Slides as Wall Street Risk Pullback Tests Bullish Turn",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-14/bitcoin-hits-lower-end-of-trading-range-as-risk-appetite-wanes",
-          "summary": "Bitcoin fell as much as 2.3% toward the lower end of its recent trading range, caught in a broader retreat from risk assets even as crypto analysts have turned sharply more bullish on the token.",
-          "published": "2026-10-14T18:19:38+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "MSCI Decision Moves Michael Saylor’s Strategy Toward Index Exit",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-15/msci-decision-moves-michael-saylor-s-strategy-toward-index-exit",
+          "summary": "MSCI Inc. adopted new rules that could ultimately push Strategy Inc. out of its global equity benchmarks, potentially triggering billions of dollars in stock sales and adding fresh pressure to the financing model behind Michael Saylor’s vast Bitcoin holdings.",
+          "published": "2026-10-15T21:26:53+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 14,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -248,10 +271,10 @@
           "event_labels": []
         },
         {
-          "title": "은행 이어 가상자산 업계도 해킹…고팍스·프라뱅도 개인정보 유출",
-          "link": "https://zdnet.co.kr/view/?no=20261014161400",
-          "summary": "[지디넷코리아]은행에 이어 상호금융(새마을금고중앙회)·저축은행·핀테크·가상자산 업계도 해킹으로 인해 개인정보가 유출된 것으로 확인됐다.14일 금융위원회에 따르면 신한은행 침해사고 전후로 사고 발생이 확인된 금융회사는 전 업권에 걸쳐 총 16개사로 파악됐다. ▲은행업권(신한은행·국민은행·부산은행·하나은행) ▲저축은행업권(예가람저축은행·웰컴저축은행·DB저축은행·OK저축은행) ▲여신업권(현대캐피탈·산은캐피탈) ▲온라인투자연계업권(PFCT·모우다) ▲전자금융업권(브라이트픽스) ▲가상자산업권(스트리미·프라뱅) ▲상호금융업권(새마을금고중앙회) 등이다.현재까지 확인된 금융회사의 정보 유출 규모는 이름과 연락처, 주민등록번호, 이메일 등을 포함해 약 10만건이다. 직접적인 부정 결제 우려가 있는 계좌 비밀번호나 카드 번호 등에 관한 유출은 확인되지 않은 상태다.다만, 금융권 침해 사고는 더 확대될 가능성이 있다. 현재도 금융회사들이 공유된 IP 등을 바탕으로 침해발생 여부를 확인 중이다.지난 8일",
-          "published": "2026-10-14T09:04:05+00:00",
+          "title": "넥슨, 'FC 프로 모바일 월드 챔피언십 2026' 한국 대표 유창호·권민석 출전",
+          "link": "https://zdnet.co.kr/view/?no=20261015171504",
+          "summary": "[지디넷코리아]'FC 모바일' 초대 글로벌 챔피언을 가리는 최상위 e스포츠 대회에 한국 대표 선수 2인이 출전해 정상 도전에 나선다.넥슨은 'EA SPORTS FC Mobile(이하 'FC 모바일')'의 글로벌 최상위 대회 'FC 프로 모바일 월드 챔피언십 2026'에 한국 선수 2인이 출전한다고 15일 밝혔다.이번 대회는 오는 21일부터 25일까지 서울 중구 동대문디자인플라자(DDP) 쇼룸에서 오프라인으로 열린다.올해 첫 출범한 'FC 프로 모바일' 정규 시즌을 결산하는 이번 무대에는 각 지역 선발전을 통과한 글로벌 32인이 참가해 총상금 25만 달러(약 3억 3600만원)를 두고 경쟁한다.한국 대표로는 'Ahina' 유창호와 'Circle' 권민석이 출전 명단에 이름을 올렸다. 우승자에게는 상금 6만 달러(약 8000만원), 준우승자에게는 4만 달러(약 5400만원), 공동 3위에게는 각각 2만 달러(약 2700만원)가 수여된다.경기는 21일과 22일 32강 조별 예선(8개 조,",
+          "published": "2026-10-15T08:35:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -271,35 +294,13 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGOEJ0YTV6Y0Zta0wwWVhPcnhfR1o0dHBJc2tKLTdCSUJ4SlR6NUpkMnRHbzk5dDJmeU50dG9hc3ZLa3plMUJtRnlKQUFKQmZBd0xxejdBa3h5bk5VYnEyM2w4b3c4WWtWNWc?oc=5",
-          "summary": "내년 1월 인적분할 앞둔 카카오그룹 CEO 총출동...첫 공동 IR서 미래 전략 공유 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-14T06:36:08+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "라이엇게임즈, 2026 LCK 시청 지표 발표…평균 분당 시청자 수 70만 돌파",
-          "link": "https://zdnet.co.kr/view/?no=20261014175541",
-          "summary": "[지디넷코리아]국내 리그 오브 레전드 프로 e스포츠 리그인 LCK가 프랜차이즈 도입 6년 만에 평균 분당 시청자 수 70만을 돌파하며 역대 최고 지표를 경신했다.라이엇 게임즈는 지난 4월1일부터 9월13일까지 진행된 '2026 리그 오브 레전드 챔피언스 코리아(LCK)'의 공식 시청 지표를 14일 발표했다.발표에 따르면 2026 LCK의 평균 분당 시청자 수(AMA)는 71만 4000명을 기록해 2025년 대비 13% 증가했다. 프랜차이즈 시스템을 처음 도입한 2021년(32만 6000명)과 비교하면 6년 만에 2.19배 늘어난 수치다. 젠지와 한화생명e스포츠가 맞붙은 결승전 최고 동시 시청자 수(PCU) 역시 전년 동기 대비 24% 상승해 리그 흥행성을 입증했다.이번 시즌을 앞두고 네이버 치지직과 SOOP이 5년간의 중계권을 확보하면서 기존 유튜브 중심 시청 층의 이탈 우려가 제기됐으나, 두 플랫폼의 스트리머 동시 송출(코스트리밍) 투자에 힘입어 안정적으로 자리 잡았다.해외 시청 ",
-          "published": "2026-10-14T09:30:01+00:00",
+          "title": "BTS·블랙핑크부터 코르티스까지…멜론뮤직어워드 'TOP10' 투표 시작",
+          "link": "https://zdnet.co.kr/view/?no=20261015174645",
+          "summary": "[지디넷코리아]방탄소년단(BTS)과 블랙핑크, 에스파, 아이브부터 신인 그룹 코르티스와 키키까지 올해 가장 사랑받은 K팝 아티스트 10팀을 가리는 팬 투표가 시작된다.카카오엔터테인먼트 음악 플랫폼 멜론은 '2026 멜론뮤직어워드(MMA2026)'의 본상인 'TOP10' 투표를 15일부터 29일까지 진행한다고 이날 밝혔다.TOP10은 한 해 동안 사랑받은 아티스트 10팀에 수여하는 상이다. 최종 수상자는 음원 성적 60%, 심사 점수 20%, 팬 투표 20%를 합산해 결정한다.올해 후보에는 총 30팀이 이름을 올렸다. 방탄소년단과 블랙핑크, 태연, 볼빨간사춘기, 악뮤(AKMU), 임영웅 등 기존 인기 아티스트와 에스파, 아이브, 르세라핌, 아일릿, 엔믹스 등 걸그룹이 포함됐다.보이그룹 중에서는 에이티즈, 보이넥스트도어, 라이즈, 엔시티 위시, 투어스, 플레이브 등이 후보에 올랐다. 코르티스와 하츠투하츠, 키키 등 신인 그룹도 경쟁에 합류했다.이 밖에 이창섭, 우즈(WOODZ), 영케이",
+          "published": "2026-10-15T09:13:52+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
