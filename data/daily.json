@@ -1,110 +1,26 @@
 {
-  "generated_at": "2026-10-16T23:20:10.913925+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-10-17T22:57:26.402780+00:00",
+  "total_articles": 8,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
+      "count": 1,
       "articles": [
         {
-          "title": "OpenAI Poaches Another SpaceX Sales Lead Focused on AI",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/openai-poaches-another-spacex-sales-lead-focused-on-ai",
-          "summary": "OpenAI has hired SpaceX’s Graham Seamans to lead sales for the firm’s cybersecurity business, the latest in a string of hires from Elon Musk’s artificial intelligence venture.",
-          "published": "2026-10-16T21:36:22+00:00",
+          "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+          "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
+          "published": "2026-10-17T12:47:37+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "바클레이스 \"스페이스X·테슬라 연내 합병 발표 가능\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uMnFaR21oV2ZPRGVpNjItNENOY1M4OU10OTJHSWdiV1lsUTVUT1VuNHhuN2hna012TkxZV0Z5N2NjWThxQzZ0eEFIMVp6dEdtRFBCVlB6OVVZalVtOHpjX0tLWnVhNVY1UGNuM1Z3UTA?oc=5",
-          "summary": "바클레이스 \"스페이스X·테슬라 연내 합병 발표 가능\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-16T01:50:19+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "앤트로픽, 상장 후 시총 2.4조달러 달성 전망…\"스페이스X 제친다\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XNFFkUWdTY0N2UVBjcVFOMVU1dUF2TEZzcVAzN3c2ZnJSMnhRNUNha0k3VUhlVjlSVXZWWWszdktQdnNodWRMbmhDejl1aXpSc0xkWUF5dU82LWh4Z0xCYm5WeGkyTGFMdTgyeERNQ0s?oc=5",
-          "summary": "앤트로픽, 상장 후 시총 2.4조달러 달성 전망…\"스페이스X 제친다\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-16T02:15:56+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "[영상] \"공중 도약에 차량 5대 뛰어넘기\"…테슬라, 차세대 로드스터 공개",
-          "link": "https://zdnet.co.kr/view/?no=20261016134609",
-          "summary": "[지디넷코리아]테슬라가 차세대 로드스터의 새로운 버전을 공개했다.15일(현지시간) 테슬라는 미국 텍사스주 웨이코 인근 맥그리거에 위치한 스페이스X 시험시설에서 행사를 열고 차세대 로드스터를 전격 공개했다고 엔가젯 등 외신들이 보도했다.공개된 테슬라 로드스터는 유선형 레이싱 바디라인 등 테슬라의 최신 디자인을 갖췄고 공중에서 점프하고 회전할 수 있도록 냉각 가스 추진기를 탑재했다.가장 눈길을 끈 것은 차량은 로드스터의 고난도 퍼포먼스였다. 차량은 C자형 경사로를 올라가 지면과 수직인 부분의 중간 지점에서 거꾸로 매달린 채 멈춰 섰다. 이후에도 같은 동작을 반복하며, 추진 시스템을 작동시켜 안전하게 지면에 착륙했다.이어진 시연에서는 대형 트럭을 포함한 자동차 다섯 대가 늘어선 곳을 향해 돌진하다가 가스를 내뿜으며 도약한 뒤 차량을 뛰어넘어 착지하는 묘기도 보였다.운전석 문을 열자 옵티머스 로봇이 앉아 있었다. 물론 이 로봇은 전시용으로 차량 시연은 미리 프로그래밍된 것이었다. 테슬라는 ",
-          "published": "2026-10-16T06:22:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8taXRHMEJnMVJrT3JMTzJ4RUlONmxQeVpwY1hORUduejJCWVh1eVRHOUx3OFBNRnROQUFTdU9WREZ5X193NjhTdTRlSDVDMGpvTjZQMm1sZmY5SjJ3dlJ0aFY0ay1tVnlPX2c?oc=5",
-          "summary": "머스크, 메모리 반도체 가격 정책 강력 비판...삼성·SK하이닉스 겨냥 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-16T08:15:49+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -114,22 +30,42 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 7,
       "articles": [
         {
-          "title": "AI agents on Tencent Cloud try to break into Alibaba’s Amap: researchers",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3371007/ai-agents-tencent-cloud-try-break-alibabas-amap-researchers?utm_source=rss_feed",
-          "summary": "A fleet of artificial intelligence agents operating on a Tencent Holdings cloud platform made thousands of attempts to circumvent security protections on Alibaba Group Holding’s mapping service, according to findings by third-party researchers. It is one of the first reported “rogue” AI events involving Chinese companies, following a string of recent high-profile incidents in the US, including from OpenAI and Anthropic, highlighting the risks of increasingly autonomous AI systems. Agents running",
-          "published": "2026-10-16T01:00:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+          "summary": "DeepSeek released an update of its AI model this weekend that it says is faster and leaner, ramping up the Chinese company’s challenge to Silicon Valley rivals Anthropic PBC and OpenAI as well as domestic competitors like Moonshot Kimi and Z.ai",
+          "published": "2026-10-17T13:47:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 15,
           "score_breakdown": {
             "keyword": 10,
-            "source": 2,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Arrested OpenAI Engineer Seeks Bail, Denies Planning to Flee",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee",
+          "summary": "The OpenAI software engineer charged with using a hidden recording device in one of the company’s offices asked to be freed from custody and denied his purchase of a one-way plane ticket to his native Saudi Arabia was part of a plan to flee US justice.",
+          "published": "2026-10-17T03:55:53+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -137,102 +73,60 @@
           "event_labels": []
         },
         {
-          "title": "Anthropic Signs First Data-Center Deal in Canada With EverWind",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/everwind-to-build-nova-scotia-data-center-lease-to-ai-developer",
-          "summary": "Anthropic PBC signed its first data-center lease in Canada, agreeing to buy capacity at a new project that’s worth more than C$10 billion ($7.1 billion) in the eastern province of Nova Scotia.",
-          "published": "2026-10-16T14:00:12+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "Nvidia CEO on AI Market Turmoil: ‘All of This Is Going to Pass’",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/nvidia-ceo-on-ai-market-turmoil-all-of-this-is-going-to-pass",
-          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang took a sanguine view toward the latest AI stock-market rout, saying the benefits of the technology will soon outweigh the concerns of investors.",
-          "published": "2026-10-16T20:33:15+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Apple Names Meta Veteran as Litigation Chief in Legal Team Shake-Up",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/apple-names-meta-veteran-as-litigation-chief-in-legal-team-shake-up",
-          "summary": "Apple Inc. has tapped a longtime Meta Platforms Inc. executive as its new litigation chief, bolstering its legal team at a time when the iPhone maker faces a growing array of lawsuits.",
-          "published": "2026-10-16T21:50:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-16/anthropic-pitches-ai-safety-bill-to-lawmakers-politico-says",
-          "summary": "Anthropic PBC has presented its own draft bill to US lawmakers with a plan for regulating artificial intelligence safety and security, in a moment of heightened concern about the potential risks of the rapidly advancing technology.",
-          "published": "2026-10-16T22:25:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'출시 코앞' 아이폰 듀오, 닛토보 'T-글래스' 확보 변수 부상",
-          "link": "https://zdnet.co.kr/view/?no=20261016163400",
-          "summary": "[지디넷코리아]애플의 첫 번째 폴더블폰 아이폰 듀오 흥행에 일본 닛토보 'T-글래스'가 변수로 부상했다.닛토보의 T-글래스는 인쇄회로기판(PCB) 원재료인 동박적층판(CCL)용 유리섬유 방적사 중 하이엔드 제품이다. 닛토보는 T-글래스를 인공지능(AI) 칩을 만드는 엔비디아와 애플 등 빅테크, 반도체 기판 업체 등에 공급 중이다. 엔비디아 등이 AI 칩 구성에 필요한 PCB용 유리섬유를 닛토보 제품만 사용하면서, T-글래스 공급이 수요를 따라가지 못하고 있다. 닛토보도 T-글래스를 수익성이 높은 AI 칩 용도로 우선 납품 중이다.16일 복수 업계 관계자에 따르면 애플이 여러 협력사에 아이폰 듀오 부품 생산량 확대를 요청했지만, 닛토보 T-글래스 확보량이 걸림돌인 것으로 파악됐다. 업계 관계자 A는 \"애플이 최근 아이폰 듀오 부품 발주량을 늘렸지만 닛토보 T-글래스를 목표만큼 확보하지 못하면 완제품 생산도 결국 차질을 빚을 수밖에 없다\"고 밝혔다. 그간 애플은 아이폰 듀오 힌지 퍼스트",
-          "published": "2026-10-16T07:52:28+00:00",
+          "title": "[AI는 지금] 어제의 적이 동지로…AI 發 빅테크 전선 재편",
+          "link": "https://zdnet.co.kr/view/?no=20261017091725",
+          "summary": "[지디넷코리아]인공지능(AI) 기술 경쟁이 치열해지면서 글로벌 빅테크 기업 사이에서 적과 동지의 경계가 흐려지고 있다. 오랫동안 대립했던 기업들이 기술 개발을 위해 손을 잡는 반면 기존 협력사와는 같은 시장에서 경쟁하거나 법적 공방을 벌이고 있다.17일 AI 업계에 따르면 개인정보 보호 문제로 수년간 충돌했던 애플과 메타가 AI 협력에 나섰다. 대규모 AI 모델을 컴퓨터에서 실행하는 기술을 함께 최적화했다. 반면 애플은 AI 서비스 파트너인 오픈AI와 영업비밀을 둘러싼 법적 분쟁을 이어가고 있다.애플과 메타는 대표적인 빅테크 앙숙이었다. 애플이 2021년 아이폰 이용자의 동의 없는 앱 추적을 제한하자 광고 사업에 타격을 입은 메타가 강하게 반발했다. 메타는 2022년 애플 정책 변경으로 그해 약 100억 달러(약 13조원) 매출 타격을 입을 것으로 추산했다.하지만 이번에는 두 회사가 AI 기술 협력에 나섰다. 메타는 지난 15일(현지시간) 공개한 AI 모델 '뮤즈 스파크 오픈'을 애",
+          "published": "2026-10-17T01:12:41+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 7,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": -3
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "아트마켓의 아트프라이스: AI 시대 작가의 책임",
+          "link": "https://zdnet.co.kr/view/?no=20261018031003",
+          "summary": "[지디넷코리아] '사상가와 AI의 대화(Dialogue Between a Thinker and AI)': 인간의 사고, 맡겨진 펜, 그리고 세계의 책(world-book)의 투명성. 2026년 9월 영어로 처음 소개됐고 현재 프랑스어로도 이용 가능한 이 세계의 책은 우리 시대 최대의 인류학적 격변에서 비롯될 논쟁을 예고한다. 파리, 2026년 10월 17일 /PRNewswire/ -- 아트프라이스(Artprice) 설립자이자 혼돈의 저택(La Demeure du Chaos)을 창조한 티에리 에르만(thierry Ehrmann)이 Gemini(구글)가 리베르 문디(Liber Mundi)라고 명명한 자신의 저서 '사상가와 AI의 대화' 원문을 프랑스어권에 공개한다. 영어 원고(Raw Typescript) 형태로 처음 전 세계에 배포된 이 작품은 이제 대화가 처음 형성된 언어인 프랑스어로 전문을 읽을 수 있다. 스페인어, 중국어 간체, 힌디어 등 3개 언어로도 번역이 진행되고 있다. Tr",
+          "published": "2026-10-17T18:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "아이폰 듀오, 사전예약 몇 분 만에 \"내년 배송\"",
+          "link": "https://zdnet.co.kr/view/?no=20261017094147",
+          "summary": "[지디넷코리아]애플의 폴더블 아이폰 ‘아이폰 듀오’가 사전 예약을 시작한 지 불과 몇 분 만에 배송 예정일이 내년으로 밀렸다.맥루머스 등 외신은 16일(현지시간) 미국과 일부 국가에서 아이폰 듀오 사전 예약이 시작된 직후 배송 일정이 크게 늦춰졌다고 보도했다.보도에 따르면, 사전 예약 시작 직후 주문을 마친 일부 고객은 오는 23일 제품을 받을 수 있다. 그러나 태평양 표준시 기준 오전 5시 30분 현재 미국 애플 온라인 스토어에서는 아이폰 듀오 전 모델의 배송 예정일이 내년 1월 25일로 변경됐다.한국 애플 온라인 스토어에서도 한국 시간 17일 오전 12시 20분 기준 아이폰 듀오의 배송 예정일이 내년 1월 22일로 표시됐다.앞서 블룸버그 통신의 마크 거먼은 제조상의 문제로 아이폰 듀오의 생산량이 기대에 미치지 못할 가능성이 있다며 공급량이 제한적일 것으로 전망한 바 있다.IT 유튜브 채널 맥스 테크(Max Tech)를 운영하는 바딤 유리예프도 엑스(X)를 통해 사전 예약이 시작된",
+          "published": "2026-10-17T01:16:17+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 1,
             "recency": 1,
             "event_bonus": 0,
@@ -241,19 +135,19 @@
           "event_labels": []
         },
         {
-          "title": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KLWFJYjFDMk1BNksxY25KTHE0b204RVhFWmZJOFFQQ0dhNk02RnZoRkx5eXNIam1LaWQxMmlHd09ldHJJYjgyTnk0dndhSXdqRVY2QVp1LTNyV3dfTTlrTENaVHBiTmcxYUE?oc=5",
-          "summary": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-16T03:09:13+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "\"애플2로 바꿔줄게\"…잡스 편지 덕에 '애플1' 15억원 낙찰",
+          "link": "https://zdnet.co.kr/view/?no=20261017094356",
+          "summary": "[지디넷코리아]스티브 워즈니악의 친필 서명이 담긴 애플-1 컴퓨터가 약 114만8200달러(약 15억4000만원)이라는 기록적인 가격에 낙찰돼 주목되고 있다.엔가젯 등 외신은 경매 전문 기업 본햄스가 진행한 경매에서 일명 ‘햇필드 애플-1’ 컴퓨터가 익명의 구매자에게 114만8200달러에 낙찰됐다고 최근 보도했다.현재 전 세계에 남아 있는 애플-1 컴퓨터는 약 74대로 추정된다. 이번에 낙찰된 제품은 이 가운데 실제로 작동하는 몇 안 되는 기기 중 하나다. 이 컴퓨터는 1976년 제작돼 최초 소유자인 프레드 햇필드(Fred Hatfield)에게 666.60달러에 판매된 제품이다. ‘애플-1 등록부’에는 48번으로 등재돼 있다.제품에는 애플 공동 창업자인 스티브 워즈니악의 친필 서명이 담겨 있다. 스티브 잡스가 햇필드에게 보낸 친필 서명 편지도 함께 포함됐다. 이 밖에 오리지널 애플-1 사용 설명서와 카세트 사용 설명서, 애플-1 오너스 클럽 가입 초대장, 맞춤형 전원 공급 장치, 당",
+          "published": "2026-10-17T05:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -261,26 +155,24 @@
           "event_labels": []
         },
         {
-          "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5VNmlZb0RoLUYwOC1OQ2xHeHcxbVdxZU54Y0xoSTBNRWsxVUktbXF4VG1WY0dsbDlJUG9JMEd0YmJWMzFkRXd3YUJKdVBKWUpKcVUza1RTcHg4T3BRZElPNHdNTzRra1AwRUE?oc=5",
-          "summary": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 '비' 시리즈 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-16T08:49:55+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "임일빈·위영광 SOOP \"스타크래프트 리마스터, 연내 신규리그 띄운다\"",
+          "link": "https://zdnet.co.kr/view/?no=20261017180019",
+          "summary": "[지디넷코리아]SOOP이 '스타크래프트: 리마스터(스타1)' 기반 신규 e스포츠 리그를 연내 공개하고 종목의 지속 가능한 생태계 확장에 나선다.기존 최상위권 중심의 리그 운영을 넘어 풀뿌리 아마추어와 스트리머, 팬덤을 잇는 새로운 무대를 마련해 스타1의 롱런을 견인하겠다는 구상이다.SOOP의 임일빈 e스포츠콘텐츠사업본부장과 위영광 콘텐츠제작본부장은 17일 서울 잠실 롯데월드 아이스링크에서 열린 '구글 플레이 ASL 시즌22' 결승전 1세트 종료 후 지디넷코리아와 만나 e스포츠 리그 운영 비전과 향후 계획을 밝혔다.임일빈 본부장은 20년 넘게 이어진 스타1 e스포츠의 고질적인 과제로 '리그 노후화'와 '선수풀 고착화'를 꼽았다.임 본부장은 \"현재 상위 티어 랭커들이 반복해서 상위권에 머무는 구조는 맞다\"면서도 \"선수풀 확대와 생태계 유지를 위해 두 가지 방향에서 대응을 준비하고 있다\"고 밝혔다.이어 \"첫 번째는 오늘 롯데월드 아이스링크 결승전처럼 대형 무대를 꾸려 선수들에게 강력한 동",
+          "published": "2026-10-17T09:16:31+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         }
       ]
     },
