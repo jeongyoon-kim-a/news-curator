@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-20T23:40:46.327192+00:00",
-  "total_articles": 19,
+  "generated_at": "2026-10-21T23:56:15.123372+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 4,
       "articles": [
         {
-          "title": "머스크 \"테슬라·스페이스X 합병 좋은생각\"…양사에 특별위 구성 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83OWJKVU5ZUlRfZ1BONm9qeF9UMFhTOWFpUWdIQm45aEdjLXJpU3F2RDBnWHdJWjliN1MteW85aWNIZV9STnZwRHZ1M2ZtMVYwYUE?oc=5",
-          "summary": "머스크 \"테슬라·스페이스X 합병 좋은생각\"…양사에 특별위 구성 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-20T21:56:33+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Tesla signs deal to integrate Alipay into its cars as China competition heats up",
+          "link": "https://www.scmp.com/tech/big-tech/article/3371668/tesla-signs-deal-integrate-alipay-its-cars-china-competition-heats",
+          "summary": "Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla roll out an Alipay-powered smart parking service across its Chinese fleet, according to the fintech firm. Neither side revealed a launch date or which car models would receive the feature, though...",
+          "published": "2026-10-21T14:30:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 18,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 2,
-            "recency": 3,
+            "recency": 2,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -29,72 +29,10 @@
           ]
         },
         {
-          "title": "Musk Says ASML and Others Are Expediting Chipmaking Gear for Terafab",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/musk-says-asml-and-others-are-expediting-chipmaking-gear-for-terafab",
-          "summary": "ASML Holding NV and other key providers of chipmaking machines have expedited supplies for Tesla Inc. and SpaceX’s Terafab, Elon Musk said, signaling that the billionaire is making fast progress on an ambitious semiconductor project.",
-          "published": "2026-10-20T21:52:03+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Musk Gave Order to Slow Down Ukraine’s Starlink, WSJ Reports",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/musk-gave-the-order-to-slow-down-ukraine-s-starlink-wsj-reports",
-          "summary": "A recent slowdown of the SpaceX’s Starlink satellite system that enables Ukraine to fend off deadly Russian aerial assaults came from an order by Elon Musk, the company’s chief executive officer, the Wall Street Journal reported on Tuesday.",
-          "published": "2026-10-20T22:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "RBC \"스페이스X·테슬라 합병 쉽지 않다\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14VzIzMTdDc1NMRjFrbmRxNGVTUTBhTFBlLXdzc0U2QlNJUmc2MHBVc1lpS1JSd3BLNDZmSnZfVjI3Z2xtbnhucTR0TGotX0JxZzl3MW5nTHJEWFU3c014MjNmb1pVaDl2Qy1OTlJ1ZTE?oc=5",
-          "summary": "RBC \"스페이스X·테슬라 합병 쉽지 않다\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-20T00:04:49+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "머스크 \"ASML, 테라팹에 장비 공급 앞당겨\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jTS1DNkFaSW9mWUJvc1N1OE9UeWd1YTVnaldyVmdubXo2MXRRRmwwaUI1cTlLclBuTDlvQ2NVUk1xYWZkNWc4WWdaNHU3QkNIc1E?oc=5",
-          "summary": "머스크 \"ASML, 테라팹에 장비 공급 앞당겨\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-20T22:50:09+00:00",
+          "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02TnVFVFBFdnJDYkl0ZWVQd3J0SnRKWlNaVUNNQVFxcHYzTVI2WmRxTmVJYVFWcVFNN0hxZjhTd2NYQnNudUhCWGRpc1hxZGdBZ1E?oc=5",
+          "summary": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-21T20:18:10+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -102,29 +40,53 @@
           "category_display": "일론 머스크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         },
         {
-          "title": "S&P 500 Climbs as Big Bank Stocks Rally, SpaceX Results Loom",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-futures-slip-as-neocloud-ipo-elice-flops-spacex-results-loom",
-          "summary": "The S&amp;P 500 Index erased early-session losses to close higher on Tuesday as big banks and healthcare companies rallied. The tech-heavy Nasdaq 100 Index ended the day with a slight decline after South Korean neocloud company Elice Inc. tanked in its trading debut, spurring concern about the sustainability of the global AI boom.",
-          "published": "2026-10-20T11:57:42+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "뉴욕증시, 스페이스X 실적에 AI 불안 잠재우며 상승 출발 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YdFpEWEFyTlpwbktZN2ZaRE03aDljNDEwYVZVd2lVR0RsTHF0b0RVek9iRlpacXk4STIwclVVTWZaYmtfUDlqQVpoRldvY0NHWUE?oc=5",
+          "summary": "뉴욕증시, 스페이스X 실적에 AI 불안 잠재우며 상승 출발 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-21T14:16:05+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V3BjTTZXV3BIVEgwcjhEaHFNNTFfY0g4UVE1S0ZiN19hWlpEcjZmUXVVTU1JOFJTUFBBNTkzTlZiYlB4b3BPb055MGZpQQ?oc=5",
+          "summary": "로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-21T08:33:43+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -137,20 +99,42 @@
       "count": 8,
       "articles": [
         {
-          "title": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1ajhSMEJRa1F5WG04bkRnVV91MnUwc1JIS3V0aFJjMlQxWkNXQTlRMXpISHhCU3otWWJ0TENxdl9fTkg3elE2RTlLVU9VNUVMbFMxX0VNOVBPVGwyQVhVRGp3SDVkVlBnVnc?oc=5",
-          "summary": "아마존, 파이토치 연동 '토치뉴런' 공개...엔비디아 SW 독점에 도전 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-20T07:07:22+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Meta Earnings: Live Results for Q3 2026, AI Spending, Mark Zuckerberg Comments",
+          "link": "https://www.bloomberg.com/news/live-blog/2026-10-21/meta-third-quarter-earnings-live-updates",
+          "summary": "",
+          "published": "2026-10-21T18:52:50+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
+          "summary": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over 43 million times based on widely viewed deceptive statements made by the company and its top...",
+          "published": "2026-10-21T19:08:19+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -159,78 +143,84 @@
           ]
         },
         {
-          "title": "Nvidia-Backed Pigment Nabs $250 Million to Challenge Microsoft",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/nvidia-backed-pigment-nabs-250-million-to-challenge-microsoft",
-          "summary": "Pigment, a French AI company that competes with Microsoft’s Excel and PowerPoint, has raised $250 million in a funding round, bolstering a push by a prominent European startup to take on an American technology giant. The financing, set to be announced Tuesday, values the company at $2.3 billion. The Scaleup Europe Fund led the round, with participation from Nvidia Corp. and World Innovation Lab, a US and Japan-based fund, as well as existing institutional investors Iconiq, IVP and Meritech Capit",
-          "published": "2026-10-20T20:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "US Sanctions Chinese Venture Firm in Google AI Secrets Case",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
-          "summary": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
-          "published": "2026-10-20T07:11:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 9,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Who is Yuki Chen, China’s ‘superstar’ hacker who just joined AI leader Z.ai?",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3371530/who-yuki-chen-chinas-superstar-hacker-who-just-joined-ai-leader-zai",
-          "summary": "Yuki Chen, a prolific Chinese cybersecurity researcher, has joined leading Chinese artificial intelligence model company Z.ai as the country’s AI sector grapples with the technology’s growing impact on global cyberspace. Chen’s appointment comes amid growing concern over AI-assisted cyberattacks and autonomous agents acting beyond their instructions, including recent cases involving Chinese tech giant Tencent Holdings as well as US start-ups OpenAI and Anthropic. “New journey, new mission!” Chen",
-          "published": "2026-10-20T11:30:06+00:00",
+          "title": "Why Anthropic has a major China problem ahead of its blockbuster IPO",
+          "link": "https://www.scmp.com/tech/big-tech/article/3371504/why-anthropic-has-major-china-problem-ahead-its-blockbuster-ipo",
+          "summary": "The growing popularity of Chinese artificial intelligence models has emerged as a key risk factor for Anthropic ahead of its blockbuster initial public offering, according to US research firm Hedgeye Risk Management. “It’s all about Chinese competition when analysing Anthropic,” said Felix Wang, managing director and global tech sector head at Hedgeye. “Many of my clients are asking the same question.” The assessment comes as Anthropic faces renewed investor jitters over whether its massive AI..",
+          "published": "2026-10-21T00:00:15+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "Anthropic May Spend $750 Billion on Computing Costs, WSJ Reports",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/anthropic-could-spend-750-billion-on-computing-costs-wsj-says",
-          "summary": "Anthropic PBC could spend $750 billion on additional computing power in the coming years, according to a Wall Street Journal report, as the company prepares for an initial public offering.",
-          "published": "2026-10-20T20:04:21+00:00",
+          "title": "Nvidia CEO to deliver keynote speech in Berlin as his firm faces investor scrutiny over AI",
+          "link": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai",
+          "summary": "Nvidia CEO Jensen Huang is set to take the stage in Berlin on Wednesday, as the world’s most valuable company faces heightened investor scrutiny over whether the massive artificial intelligence spending boom – the engine behind the chipmaker’s meteoric growth – can deliver long-term returns. The conference agenda focuses on sovereign AI, industrial automation and operational infrastructure – key sectors where Nvidia hopes to drive demand beyond the handful of US tech giants currently dominating.",
+          "published": "2026-10-21T06:07:51+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uUGZlUmhTUlpHUmNydTJQNk1aSjFEWDRPNUNxc3htc2F6TDZQWjdBeXlULS1IaUhrQ0VpU01ybUYzSUZJNk1TX3QwNU0ycW10Ymc?oc=5",
+          "summary": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-21T20:07:08+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Meta Plans to Issue New Non-Voting Stock for Capital Raising",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-plans-to-issue-new-non-voting-stock-semafor-reports",
+          "summary": "Meta Platforms Inc. has established a new class of non-voting stock that it could use to fund its heavy spending on artificial intelligence.",
+          "published": "2026-10-21T19:56:24+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
             "event_bonus": 0,
@@ -239,58 +229,38 @@
           "event_labels": []
         },
         {
-          "title": "CAS, 마이크로소프트와 협력해 제약, 생명과학 및 화학 산업 혁신 가속화",
-          "link": "https://zdnet.co.kr/view/?no=20261021001025",
-          "summary": "[지디넷코리아] CAS Connections℠, 전문가가 직접 선별한 신뢰할 수 있는 과학 지식을 Microsoft Copilot에 통합 콜럼버스, 오하이오, 2026년 10월 20일 /PRNewswire/ -- 미국화학회(American Chemical Society) 산하 사업부인 CAS가 오늘 Microsoft Copilot에서 CAS Connections를 이용할 수 있게 됐다고 발표했다. 이 커넥터를 통해 Copilot 고객은 CAS Content Collection™과 과학 연구를 위해 개발된 에이전틱 AI인 CAS Newton℠에 접근할 수 있다. CAS와 마이크로소프트(Microsoft)는 제약, 생명과학, 화학 분야 조직의 요구를 고려해 이 커넥터를 개발했다. 이러한 산업의 연구개발(R&amp;D)팀에는 연구자의 고유한 요구에 맞춘 과학 정보와 기능이 필요하다. CAS Connections는 CAS가 150년 이상 선별 및 축적해 온 과학 지식과 CAS Newton의",
-          "published": "2026-10-20T15:10:25+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google Cloud Outage Mostly Resolved After Knocking Out Services",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-20/google-cloud-outage-takes-down-revolut-and-other-banks-in-uk",
-          "summary": "A Google Cloud outage in Europe that knocked out digital bank Revolut Ltd. and other online services for several hours on Tuesday has mostly been resolved, the US tech company said.",
-          "published": "2026-10-20T10:29:12+00:00",
+          "title": "Meta Touts AI Progress While Escalating Its Bet on the Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering",
+          "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg told investors that a pricey wager on artificial intelligence is delivering results, setting the stage for the company to bet even more aggressively on the market.",
+          "published": "2026-10-21T20:07:06+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yMVI4eVVRNXNSOXh4T1Joa0dDNVhNdk1mVC14bnNUaWhTT1JjMEtCWG16LVZzVDJKaG5tZ1Q1clliRzRhNHNtVzkySHNJVlIweWdqSmlYcVlkNmhGcFV0c2xRX2NiTDhDMWc?oc=5",
-          "summary": "앤트로픽, ‘숨은 의도 읽는’ 새 모델 준비...구글·오픈AI도 후속작 예고 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-20T02:39:33+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
+          "link": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+          "summary": "Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between open-source and closed-source AI as a battle between “light and darkness”. The company on Tuesday released DeepInfer, an inference framework tailored to support its DeepSeek-V4.1-Flash model on both Nvidia’s SM100 Blackwell graphics processing units (GPUs) and Huawei...",
+          "published": "2026-10-21T05:03:27+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -302,65 +272,23 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "나스닥 상장설 주목받는 '업비트' 운영사 두나무, 미국에 법인 설립 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5iQzN4NTM3SVRGeGd1c3NZLUhWRGtsMGxDenpYTHZmTmU1VVFOMVBlNThQN0t0cDU5cmw2cmMxRGJrUHZaaDZHbUVVQ3VhSXhudExnbmZlRlctZTFTNkg0bkx4VjlXMzZyeVFZcUlVSF8?oc=5",
-          "summary": "나스닥 상장설 주목받는 '업비트' 운영사 두나무, 미국에 법인 설립 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-20T01:08:54+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "아톤, 수협 '스테이블코인 여수신 PoC' 완료",
+          "link": "https://zdnet.co.kr/view/?no=20261021225755",
+          "summary": "[지디넷코리아]아톤이 Sh수협은행과 함께 스테이블코인으로 적금에 가입하고 대출을 받는 은행 업무 흐름을 검증했다.아톤은 'Sh스테이블코인 여수신상품 개념검증(PoC)'을 마쳤다고 21일 밝혔다.국내 은행권은 그동안 원화 스테이블코인 실증을 결제, 정산, 송금 중심으로 진행해 왔다. 이번 검증은 은행 업무 프로세스 수준에서 수신과 여신까지 범위를 넓혔다.원화와 1대 1로 연동되는 Sh스테이블코인을 검증용으로 발행했다. 아톤은 이 코인 위에서 수신과 여신이 하나의 흐름으로 이어지도록 설계했다. 수신 영역에서는 이용자가 보유한 Sh스테이블코인으로 적금에 가입하고 추가 납입과 중도 해지까지 처리하는 프로세스를 구현했다. 여신 영역에서는 담보 평가부터 대출 실행, 일부 상환, 전액 상환, 담보 반환, 청산에 이르는 절차를 검증했다.발행, 유통, 상환 전 구간도 함께 다뤘다. 이용자가 연동 계좌에 원화를 입금해 Sh스테이블코인으로 전환한 뒤 송금, QR결제, 환불을 거쳐 원화로 상환하고 출금하",
+          "published": "2026-10-21T14:00:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 11,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "한은·BOE, 토큰화 프로젝트 협력 강화 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZUklJaFpfZHg2b2dpQUJ3UzY2S0tkUXg0dkJiUU9JOXhzOG1iZ3dXVHVGV3lMc2xKRnp3UFlTSkwwUmdzb29tMDRJNFBuSnQ2S0lkUVp3ZGhWVEhsb2RmTmlBY2ZSSGVsdWFDOFBjUGQ?oc=5",
-          "summary": "한은·BOE, 토큰화 프로젝트 협력 강화 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-20T03:00:09+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WczNUSmJfbHR3eVlLdmhJMGVEVmYwXy1RVXNrNG0ydXoweWdoUmpCRGNTejhxS2R3SDdSUlpnaUpxeTlpcTl3ekxWWm5BWlRORklaZVE5NE1MUkRhZ29ZLWNIdFBYcnpVakE?oc=5",
-          "summary": "클로드 코드, 맥에 숨은 암호화폐 채굴 악성코드 포착...CPU 사용률 1175% 치솟아 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-20T08:16:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -370,49 +298,8 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "MFG코리아, 신규 외식 브랜드 ‘까사페드로’ 선봬…그랑서울점 개점",
-          "link": "https://zdnet.co.kr/view/?no=20261020174723",
-          "summary": "[지디넷코리아]매드포갈릭을 운영하는 엠에프지코리아가 신규 외식 브랜드 ‘까사페드로’를 선보이고 외식 브랜드 확대에 나섰다.엠에프지코리아는 지난 20일 서울 종로구 그랑서울에 까사페드로 첫 매장을 열었다고 밝혔다.까사페드로는 지중해 가정식 분위기를 바탕으로 아침부터 저녁까지 식사를 제공하는 외식 브랜드다.메뉴는 샐러드 보울과 플랫브레드, 브런치, 파스타, 그릴·스테이크 등으로 구성했다. 대표 메뉴는 통부라타 치즈를 올린 ‘까사 통부라타 샐러드’와 프렌치토스트, 소시지, 베이컨, 스크램블 에그 등을 담은 ‘페드로 브런치 플래터’다.들기름과 명란, 깻잎을 활용한 ‘들기름 명란 파스타’와 샥슈카 방식에 떡볶이를 접목한 ‘에그 인 헬 떡볶이’ 등 한국식 재료를 활용한 메뉴도 마련했다.매장은 지하철 1호선 종각역과 연결된 그랑서울에 자리 잡았다. 평일 직장인과 주말 방문객을 모두 겨냥해 출근 전 식사부터 브런치, 저녁 식사까지 운영할 계획이다.엠에프지코리아는 오는 11월 30일까지 개점 기념 ",
-          "published": "2026-10-20T10:14:46+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오, 카카오톡 채널 개편…소식·숏폼 콘텐츠 한눈에 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5paUh5Q1ZRbmVFQmlaaDJoaUJhUGY5SUxwOV9uMjNYZGRjYjI1THRTZWRvVVBCanQ1QTBGa0FYNHZ2c3g1dXlGU1Z3RlZnVWswTHc?oc=5",
-          "summary": "카카오, 카카오톡 채널 개편…소식·숏폼 콘텐츠 한눈에 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-20T00:23:52+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
