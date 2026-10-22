@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-10-21T23:56:15.123372+00:00",
-  "total_articles": 13,
+  "generated_at": "2026-10-22T23:55:02.436598+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
+      "count": 6,
       "articles": [
         {
-          "title": "Tesla signs deal to integrate Alipay into its cars as China competition heats up",
-          "link": "https://www.scmp.com/tech/big-tech/article/3371668/tesla-signs-deal-integrate-alipay-its-cars-china-competition-heats",
-          "summary": "Tesla has agreed a deal to integrate Chinese fintech giant Ant Group’s Alipay digital payment software into its vehicles in China, as Elon Musk’s firm steps up efforts to offer localised smart features amid intense competition in the Chinese market. The agreement, signed on Tuesday, will see Tesla roll out an Alipay-powered smart parking service across its Chinese fleet, according to the fintech firm. Neither side revealed a launch date or which car models would receive the feature, though...",
-          "published": "2026-10-21T14:30:06+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aWU9CSmVkbk1kbUNHcDlhcXhzX3NHOHBJMjRzU0hkVWVQbzBWNUxIX0JpZ011WGdxb0ViM3hEY21vMjRkZ29xWVhOQlpOdEpsNGo0Q3FwbWR1WFpTUWlJb3FaV2p3Si14dGc?oc=5",
+          "summary": "[10월22일] 테슬라·스페이스X 합병, 최강 ‘통합 AI 기업’ 탄생할까 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-22T22:00:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 15,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 6,
             "source": 2,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -29,10 +29,53 @@
           ]
         },
         {
-          "title": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02TnVFVFBFdnJDYkl0ZWVQd3J0SnRKWlNaVUNNQVFxcHYzTVI2WmRxTmVJYVFWcVFNN0hxZjhTd2NYQnNudUhCWGRpc1hxZGdBZ1E?oc=5",
-          "summary": "테슬라, 3분기 매출 281억 달러…시장 예상치 상회 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-21T20:18:10+00:00",
+          "title": "트럼프, 머스크에 직접 전화…“우크라 스타링크 속도 제한 풀어라” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBHWGpaWHhhQmdvVlZXQmRmTHFTdktDWjlTRmFld2dxaHU2XzdCMWlaNWlPZmxqNmRWQlg1RjF0TFBQVGdKMkFaQmlIU0NRQQ?oc=5",
+          "summary": "트럼프, 머스크에 직접 전화…“우크라 스타링크 속도 제한 풀어라” &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-22T21:39:15+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "테슬라, 차 팔아 남기는 몫 늘었는데…영업이익은 반토막",
+          "link": "https://zdnet.co.kr/view/?no=20261022232504",
+          "summary": "[지디넷코리아]테슬라가 자동차 사업 수익성을 개선하고도 미래 사업에 쏟는 비용이 늘면서 이익 방어에 실패했다. 인공지능(AI)·로봇 전환에 드는 비용 부담으로 올해 3분기 영업이익이 반토막 났다.테슬라는 21일(현지시간) 발표한 3분기 실적 자료에서 매출 280억 4600만 달러, 영업이익 7억 1800만 달러를 기록했다고 밝혔다. 매출은 지난해 같은 기간과 비슷했지만 영업이익은 56% 감소했다. 영업이익률은 5.8%에서 2.6%로 낮아졌다.자동차 사업에서는 판매량 감소와 마진 개선이 동시에 나타났다. 3분기 차량 인도량은 48만 6532대로 전년 동기 대비 2% 줄었으며, 자동차 부문 매출도 205억 6000만 달러로 3% 감소했다.반면 규제 크레딧 판매를 제외한 자동차 매출총이익률은 지난해 3분기 15.4%에서 올해 18.1%로 높아졌다. 직전 분기 16.3%보다도 개선된 수치다. 규제 크레딧 매출은 다른 자동차 업체에 판매하는 배출가스 규제 관련 크레딧에서 발생한다.테슬라는 지",
+          "published": "2026-10-22T14:32:20+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "regulation"
+          ]
+        },
+        {
+          "title": "무감독 자율주행, 사고내면 머스크가 갚아주나…내년 신형FSD 도입 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBrSjdNNFYzVDl1WkY1TFpHeGVINnlIVEVHRzllZFBLVzNQTi1hOEZ3SzFxQnNTYzJMS2ZkTENCd1JxclpGTlA3X1Bwc2JsQQ?oc=5",
+          "summary": "무감독 자율주행, 사고내면 머스크가 갚아주나…내년 신형FSD 도입 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-22T21:01:41+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -40,57 +83,55 @@
           "category_display": "일론 머스크",
           "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         },
         {
-          "title": "뉴욕증시, 스페이스X 실적에 AI 불안 잠재우며 상승 출발 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YdFpEWEFyTlpwbktZN2ZaRE03aDljNDEwYVZVd2lVR0RsTHF0b0RVek9iRlpacXk4STIwclVVTWZaYmtfUDlqQVpoRldvY0NHWUE?oc=5",
-          "summary": "뉴욕증시, 스페이스X 실적에 AI 불안 잠재우며 상승 출발 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-21T14:16:05+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "SpaceX in Talks to Access 80,000 Cell Sites for New Network",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-22/spacex-in-talks-to-access-80-000-cell-sites-for-wireless-network",
+          "summary": "SpaceX aims to secure a minimum of 80,000 cell sites across the US, and it’s in talks with at least one major cellular infrastructure company to reach that goal, according to people familiar with the matter.",
+          "published": "2026-10-22T21:31:42+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "日 증시, 스페이스X 실적발 美 기술주 강세 속 혼조 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PNUFtTWdlWWxIQ2ZjLXZKcGZ0amt1YVRodWNCUThHVXpjTUlIc2dPWkpCNEM0M1NnTVhLcG5kZkhyWTFBSkcwczBCR3BVSWJmbk95Yi02YmNNbFMzZV9hWEJoWXFsOTQyTk1QSk1LT3c?oc=5",
+          "summary": "日 증시, 스페이스X 실적발 美 기술주 강세 속 혼조 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-22T02:26:00+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
             "earnings"
           ]
-        },
-        {
-          "title": "로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4V3BjTTZXV3BIVEgwcjhEaHFNNTFfY0g4UVE1S0ZiN19hWlpEcjZmUXVVTU1JOFJTUFBBNTkzTlZiYlB4b3BPb055MGZpQQ?oc=5",
-          "summary": "로봇·데이터센터·우주 '올인원…' 머스크 'AI제국' 승부수 던졌다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-21T08:33:43+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -99,41 +140,39 @@
       "count": 8,
       "articles": [
         {
-          "title": "Meta Earnings: Live Results for Q3 2026, AI Spending, Mark Zuckerberg Comments",
-          "link": "https://www.bloomberg.com/news/live-blog/2026-10-21/meta-third-quarter-earnings-live-updates",
-          "summary": "",
-          "published": "2026-10-21T18:52:50+00:00",
+          "title": "Anthropic, OpenAI, Musk Pledge Donations Amid AI Backlash",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-22/anthropic-openai-musk-pledge-donations-amid-ai-backlash",
+          "summary": "Top AI firms are pitching different approaches to give money to public causes.",
+          "published": "2026-10-22T20:01:25+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 16,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 10,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Meta to pay New Mexico a historic US$25 billion in Cambridge Analytica Facebook case",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3371689/meta-pay-new-mexico-historic-us25-billion-cambridge-analytica-case",
-          "summary": "Meta Platforms was ordered to pay a groundbreaking US$25 billion civil penalty to the state of New Mexico in a consumer deception case spurred by the Cambridge Analytica scandal. The fine issued by state court Judge Francis Mathew is among the largest verdicts issued in US legal history. The award comes after a jury in Santa Fe determined that Meta had violated the state’s consumer protection over 43 million times based on widely viewed deceptive statements made by the company and its top...",
-          "published": "2026-10-21T19:08:19+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "퀄컴이 닦은 길에 엔비디아 진입...Arm 윈도 PC 경쟁 본격화",
+          "link": "https://zdnet.co.kr/view/?no=20261022155356",
+          "summary": "[지디넷코리아]지난 9년간 Arm 기반 윈도 PC 시장을 사실상 독점해 온 퀄컴이 강력한 경쟁자를 맞았다. 엔비디아가 GPU 기술력을 앞세운 'RTX 스파크'를 정식 출시하면서다.퀄컴은 마이크로소프트와 함께 소프트웨어 호환성 문제를 해결하고 Arm 기반 PC 생태계를 구축해 왔다. 특히 자체 설계한 오라이언 CPU를 탑재한 스냅드래곤 X 엘리트로 Arm 기반 윈도 PC의 성능을 한 단계 끌어올렸다.엔비디아는 이렇게 구축된 생태계에 PC와 서버 시장에서 검증된 블랙웰 GPU를 앞세워 진입했다. CPU 성능과 전력 효율을 강조해 온 퀄컴에 GPU 성능이라는 새로운 경쟁 과제를 던진 셈이다.마이크로소프트는 윈도용 시스템반도체(SoC)의 선택지를 넓히고 Arm은 자사 CPU IP(설계자산)를 활용하는 PC 플랫폼의 새로운 성공 가능성을 확보했다. 반면 퀄컴은 독점적 지위를 잃고 GPU 경쟁력 강화라는 어려운 숙제를 안게 됐다.마이크로소프트는 2012년 엔비디아 테그라3를 활용한 Arm 기반",
+          "published": "2026-10-22T23:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 8,
+            "source": 1,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -143,20 +182,20 @@
           ]
         },
         {
-          "title": "Why Anthropic has a major China problem ahead of its blockbuster IPO",
-          "link": "https://www.scmp.com/tech/big-tech/article/3371504/why-anthropic-has-major-china-problem-ahead-its-blockbuster-ipo",
-          "summary": "The growing popularity of Chinese artificial intelligence models has emerged as a key risk factor for Anthropic ahead of its blockbuster initial public offering, according to US research firm Hedgeye Risk Management. “It’s all about Chinese competition when analysing Anthropic,” said Felix Wang, managing director and global tech sector head at Hedgeye. “Many of my clients are asking the same question.” The assessment comes as Anthropic faces renewed investor jitters over whether its massive AI..",
-          "published": "2026-10-21T00:00:15+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Anthropic IPO to Drive Blockbuster Gains for Iconiq, Spark, GIC",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-22/anthropic-ipo-to-drive-blockbuster-gains-for-iconiq-spark-gic",
+          "summary": "By the time Iconiq made its first investment in Anthropic PBC in 2025, the artificial intelligence developer was valued at $183 billion — more than almost any other tech startup in the world — and well on its way to becoming an AI juggernaut. Yet even Iconiq’s later stage bet is now set to bring in massive returns as Anthropic nears its Wall Street debut.The investment firm, which has pumped more than $6 billion into Anthropic, owns a stake worth approximately $17 billion based on the AI company",
+          "published": "2026-10-22T19:34:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -165,96 +204,94 @@
           ]
         },
         {
-          "title": "Nvidia CEO to deliver keynote speech in Berlin as his firm faces investor scrutiny over AI",
-          "link": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai",
-          "summary": "Nvidia CEO Jensen Huang is set to take the stage in Berlin on Wednesday, as the world’s most valuable company faces heightened investor scrutiny over whether the massive artificial intelligence spending boom – the engine behind the chipmaker’s meteoric growth – can deliver long-term returns. The conference agenda focuses on sovereign AI, industrial automation and operational infrastructure – key sectors where Nvidia hopes to drive demand beyond the handful of US tech giants currently dominating.",
-          "published": "2026-10-21T06:07:51+00:00",
+          "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-22/openai-shifts-value-to-1-25-trillion-as-funding-talks-finalize",
+          "summary": "OpenAI, which is seeking to raise around $30 billion in a fresh funding round, is now targeting a valuation of $1.25 trillion during the final stages of negotiations, according to people familiar with the matter.",
+          "published": "2026-10-22T23:31:57+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "슈퍼마이크로, 노키아와 NVIDIA Aerial RAN Computer 솔루션을 네트워크 엣지에 도입해 저지연 AI 서비스 지원",
+          "link": "https://zdnet.co.kr/view/?no=20261022181003",
+          "summary": "[지디넷코리아] 현재 5G에 적용할 수 있는 AI-RAN 플랫폼으로 주파수 효율을 높여 네트워크 경제성을 개선하고, 소프트웨어 업그레이드를 통한 진화 경로로 인프라 투자 보호 저지연 핵심 AI 서비스, 기업용 엣지 추론 및 실용적인 피지컬 AI 애플리케이션을 지원해 AI 수익화 기회 창출 슈퍼마이크로 인프라, 엔비디아 가속 컴퓨팅, 노키아 RAN 소프트웨어를 결합한 통합 AI-RAN 스택 구축 새너제이, 캘리포니아, 2026년 10월 22일 /PRNewswire/ -- Data Center Building Block Solutions&reg;(DCBBS) 기반의 AI, 기업용, 스토리지 및 5G/엣지 토털 IT 솔루션 공급업체 슈퍼마이크로 컴퓨터(Super Micro Computer, Inc., 나스닥: SMCI)가 노키아(Nokia)와 협력해 분산형 기지국부터 중앙집중형 네트워크 허브까지 인공지능 무선접속망(AI-RAN)을 구축하고 있다. 슈퍼마이크로의 AI 최적화 인프라를 기반으",
+          "published": "2026-10-22T09:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "‘Jensen’s nightmare’: Huawei, DeepSeek narrow AI chip ecosystem gap with Nvidia: report",
+          "link": "https://www.scmp.com/tech/tech-war/article/3371806/jensens-nightmare-huawei-deepseek-narrow-ai-chip-ecosystem-gap-nvidia-report",
+          "summary": "Deepening “symbiosis” with artificial intelligence model start-up DeepSeek is helping Chinese tech champion Huawei Technologies catch up with Nvidia’s chip hardware and software ecosystem in a scenario that could mean Jensen Huang’s “nightmare is starting to come true”, according to a new report. DeepSeek’s latest software releases, on top of its increased experimentation with Huawei’s powerful Ascend 950PR chips, reveal that the technological gap with the US is closing, as the two firms...",
+          "published": "2026-10-22T12:00:14+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 9,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "exec_change"
-          ]
+          "event_labels": []
         },
         {
-          "title": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5uUGZlUmhTUlpHUmNydTJQNk1aSjFEWDRPNUNxc3htc2F6TDZQWjdBeXlULS1IaUhrQ0VpU01ybUYzSUZJNk1TX3QwNU0ycW10Ymc?oc=5",
-          "summary": "메타, 3분기 매출 26% 오른 646억 달러…주당순이익 기대치 미달 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-21T20:07:08+00:00",
+          "title": "[단독] 삼성전기, 테슬라·엔비디아 3.7조 투자받는다…AI칩기판 라인구축 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53WkZvanZ6elRsQ2Mwdmp3VlJKSUhGNlktai1VWmFQOW5nUHNONTVhOHBlVzJlbVpHbl9sRDJNZFJHMG42eHp4RWNKUkFJa0tRTTRGTld3?oc=5",
+          "summary": "[단독] 삼성전기, 테슬라·엔비디아 3.7조 투자받는다…AI칩기판 라인구축 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-22T06:34:12+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Meta Plans to Issue New Non-Voting Stock for Capital Raising",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-plans-to-issue-new-non-voting-stock-semafor-reports",
-          "summary": "Meta Platforms Inc. has established a new class of non-voting stock that it could use to fund its heavy spending on artificial intelligence.",
-          "published": "2026-10-21T19:56:24+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Meta Touts AI Progress While Escalating Its Bet on the Market",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-21/meta-boosts-bet-on-ai-with-new-spending-outlook-stock-offering",
-          "summary": "Meta Platforms Inc. Chief Executive Officer Mark Zuckerberg told investors that a pricey wager on artificial intelligence is delivering results, setting the stage for the company to bet even more aggressively on the market.",
-          "published": "2026-10-21T20:07:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "DeepSeek seeks ‘total victory’ over closed-source AI with new open-source tool",
-          "link": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
-          "summary": "Chinese artificial intelligence start-up DeepSeek has fully open-sourced an internally developed framework designed to run AI models efficiently, as a senior researcher at the company described the growing divide between open-source and closed-source AI as a battle between “light and darkness”. The company on Tuesday released DeepInfer, an inference framework tailored to support its DeepSeek-V4.1-Flash model on both Nvidia’s SM100 Blackwell graphics processing units (GPUs) and Huawei...",
-          "published": "2026-10-21T05:03:27+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTzZncDJxYzVzMlM0M2ZwMkxXUk95a1UySnVEZnpmdURSbTNlNEd0Yi1RcDNTREdRVWtnZ29OY0d3SWlVTUotcmxZeHlSeVhVUHA0ZzlrdjFLZXg3N2wwTEdRek53LUpKQWc?oc=5",
+          "summary": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-22T08:40:06+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -272,22 +309,42 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "아톤, 수협 '스테이블코인 여수신 PoC' 완료",
-          "link": "https://zdnet.co.kr/view/?no=20261021225755",
-          "summary": "[지디넷코리아]아톤이 Sh수협은행과 함께 스테이블코인으로 적금에 가입하고 대출을 받는 은행 업무 흐름을 검증했다.아톤은 'Sh스테이블코인 여수신상품 개념검증(PoC)'을 마쳤다고 21일 밝혔다.국내 은행권은 그동안 원화 스테이블코인 실증을 결제, 정산, 송금 중심으로 진행해 왔다. 이번 검증은 은행 업무 프로세스 수준에서 수신과 여신까지 범위를 넓혔다.원화와 1대 1로 연동되는 Sh스테이블코인을 검증용으로 발행했다. 아톤은 이 코인 위에서 수신과 여신이 하나의 흐름으로 이어지도록 설계했다. 수신 영역에서는 이용자가 보유한 Sh스테이블코인으로 적금에 가입하고 추가 납입과 중도 해지까지 처리하는 프로세스를 구현했다. 여신 영역에서는 담보 평가부터 대출 실행, 일부 상환, 전액 상환, 담보 반환, 청산에 이르는 절차를 검증했다.발행, 유통, 상환 전 구간도 함께 다뤘다. 이용자가 연동 계좌에 원화를 입금해 Sh스테이블코인으로 전환한 뒤 송금, QR결제, 환불을 거쳐 원화로 상환하고 출금하",
-          "published": "2026-10-21T14:00:05+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Trump, Crypto Firm Sued for Profiting Off Foreign Government",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-22/trump-and-crypto-firm-sued-for-profiting-from-foreign-government",
+          "summary": "Donald Trump and World Liberty Financial, the cryptocurrency venture he co-founded with his sons, were sued by a shareholder in a rival crypto firm over claims the president illegally profited from his office in violation of the US Constitution.",
+          "published": "2026-10-22T18:40:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Sam Bankman-Fried says he has paid his debts",
+          "link": "https://www.economist.com/finance-and-economics/2026/10/22/sam-bankman-fried-says-he-has-paid-his-debts",
+          "summary": "The crypto tycoon speaks with The Economist from prison in California",
+          "published": "2026-10-22T15:51:39+00:00",
+          "source_key": "economist_finance",
+          "source_name": "The Economist - Finance",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
