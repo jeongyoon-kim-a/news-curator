@@ -1,91 +1,43 @@
 {
-  "generated_at": "2026-10-24T22:59:31.240450+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-10-25T23:05:10.261214+00:00",
+  "total_articles": 9,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 2,
       "articles": [
         {
-          "title": "UK Vows £100 Million for Biosecurity Lab With OpenAI, Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-23/uk-vows-100-million-for-biosecurity-lab-with-openai-anthropic",
-          "summary": "The UK announced £100 million ($134 million) for a AI Biosecurity Lab which will be supported by OpenAI, Anthropic and Google DeepMind, part of a raft of measures designed to improve the government’s ability to understand and tackle the risks posed by the technology.",
-          "published": "2026-10-23T23:01:00+00:00",
+          "title": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
+          "summary": "Elon Musk said SpaceX has closed a $40 billion debt deal to pay for the chips it needs to fuel its artificial intelligence ambitions.",
+          "published": "2026-10-25T21:22:39+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 17,
           "score_breakdown": {
-            "keyword": 10,
+            "keyword": 8,
             "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "'중국판 엔비디아' 캠브리콘, 매출 급등…\"국산화 노력 수혜\"",
-          "link": "https://zdnet.co.kr/view/?no=20261024160155",
-          "summary": "[지디넷코리아]중국 인공지능(AI) 반도체 팹리스 캠브리콘 3분기 매출이 급등했다고 사우스차이나모닝포스트(SCMP) 등이 23일(현지시간) 보도했다. 캠브리콘의 3분기 매출은 35억 3000만위안(약 6900억원)으로 전년 동기 대비 105% 뛰었다. 순이익은 148% 증가한 14억위안(2700억원)이다.캠브리콘은 지난 2016년 설립된 팹리스다. '중국판 엔비디아'로 불린다. AI 데이터센터와 에지 AI용 프로세서 'MLU' 시리즈를 개발해 왔다. 화웨이와 알리바바 등 현지 대형 IT 기업이 고객사다. 캠브리콘의 매출 급등은 AI 인프라 투자 확대와 더불어, 엔비디아 칩을 자국산 제품으로 대체하려는 중국 정부 노력의 결과다. SCMP는 \"캠브리콘 2분기 매출은 전년 동기 대비 76% 증가했는데, 3분기 성장세는 이보다 가팔랐다\"며 \"자립 가능한 AI 컴퓨팅 생태계를 개발하려는 중국 정부 전략에 힘입은 결과\"라고 평가했다. 올해 연간으로도 높은 성장세가 예상된다. 캠브리콘은 올해 매",
-          "published": "2026-10-24T13:00:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-          "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-          "published": "2026-10-24T02:08:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "m_and_a"
           ]
         },
         {
-          "title": "China’s AI compute surge heavily reliant on US chips, offshore cloud access: report",
-          "link": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-          "summary": "China’s access to artificial intelligence computing power will double next year, but US-designed chips will account for about 65 per cent of that capacity, an indication of its continued reliance on foreign hardware, according to new research. Total compute available to Chinese entities was expected to expand in 2027 from about 4.6 million to 8.8 million “H100-equivalents” – a metric benchmarked against Nvidia’s data-centre graphics processing units, according to a report by the Washington-based",
-          "published": "2026-10-24T01:00:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uS21femVXTTVHUGlZRWRqbmJRNEpRQ3h0aGF6TWRFYm1QM0I0LVV4OG9PMkNUQWJZcDY5dzJfVnpadzdZekhoeE9HaGdHTy1VUXhxSThMdkJUUmZHd1ZFeVNnZVZXOHlLQkE?oc=5",
+          "summary": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-25T01:08:35+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
@@ -95,63 +47,49 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 4,
+      "articles": [
         {
-          "title": "[안광섭 AI 진테제] 대규모 LLM이 불평등 증폭",
-          "link": "https://zdnet.co.kr/view/?no=20261024135151",
-          "summary": "[지디넷코리아]최근 모 언론사에 AI가 만든 세계에서 소수자가 지워진다는 연구가 소개됐다. 서울대 보건대학원 김승섭 교수 연구팀의 '침묵의 설계자' 연구다. 11월 5일 공개 강연 포스터 제목은 더 나아간다. \"대규모 언어모델은 어떻게 소수자를 지우고 불평등을 증폭시키는가.\" 소수자의 과소재현을 관찰한 실험과 현실의 불평등을 증폭시킨다는 주장 사이에는, 제목 하나로 건너뛸 수 없는 거리가 있다.필자는 연구진이 공개한 41쪽 한국어 발표자료와 깃허브 저장소, 김 교수의 공개 게시물을 기준으로 이 주장을 검토했다. 이 글이 묻는 것은 소수자를 보호해야 하느냐가 아니다. 연구가 실제로 무엇을 확인했고, 그 확인이 어디까지의 주장을 허용하느냐다.1만 개의 응답이 확인한 것연구진은 엔비디아의 '네모트론 페르소나 코리아'에서 가상 인물 1만 개를 뽑았다. 이를 라마 3.3에 입력하고, 각 인물이 돼 장애 여부와 성적 지향, 생애 경험 등에 답하도록 했다. 그중 1000개는 다른 세 모델에도 적",
-          "published": "2026-10-24T04:51:51+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
+          "summary": "Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things: play music, make calls, answer questions through Meta’s artificial intelligence assistant, or let the wearer dictate texts and audio messages. Users can connect their calendar to keep tabs on it throughout the day, set reminders and get recommendations for things like nea",
+          "published": "2026-10-25T12:00:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "SFC \"삼성D에 맥북 OLED용 청색호스트 공급...청색도판트 놓쳐\"",
-          "link": "https://zdnet.co.kr/view/?no=20261024143943",
-          "summary": "[지디넷코리아]코스피 상장에 도전하는 청색 유기발광다이오드(OLED) 재료업체 SFC가 삼성디스플레이에 애플 맥북 프로 OLED 재료세트용 청색 호스트를 공급한다고 밝혔다. 애플은 다음 주 첫 번째 OLED 맥북 프로를 공개할 예정이다. 패널은 모두 삼성디스플레이가 IT 8.6세대 OLED A6 라인에서 만들어 납품한다. SFC는 삼성디스플레이와 일본 호도가야 합작사다. SFC는 지난 19일 제출한 증권신고서에서 \"삼성디스플레이의 모바일 유기재료 세트 M10부터 M16까지 7년 연속 청색 호스트·도판트를 모두 공급해 왔다\"면서도 \"(삼성디스플레이) IT용 유기재료 세트의 경우 2026년 T3에서 청색 호스트는 종전처럼 채택됐지만 청색 도판트는 스택1·2 모두 타사 제품으로 변경됐다\"고 밝혔다. 이는 삼성디스플레이가 2024년부터 양산 중인 애플 아이패드 프로 OLED의 재료세트 T2용 청색 호스트(스택1·2)와 청색 도판트(스택1·2)는 모두 SFC가 납품했지만, 삼성디스플레이가 올",
-          "published": "2026-10-24T06:40:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "regulation"
           ]
         },
         {
-          "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려” - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByQVJOSGY5R1Ywb0FaSl9Oc3ExY29hRnNkTjFYaGx5NDNMM0NfUm5EeUU5VUVBajc2SXBOM2h3SWN0czVYTjM3b1RzVFU5TmNJQTR4Zmxkem4zNDYwd1o1YWk1T3Y1b2M2OFE?oc=5",
-          "summary": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려” &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-24T00:05:59+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "깃허브가 제시한 AI·사람 개발 협업 생태계는",
+          "link": "https://zdnet.co.kr/view/?no=20261025110541",
+          "summary": "[지디넷코리아]깃허브가 인공지능(AI)과 사람이 개발 영역에서 협업하는 방식을 제시한다. 깃허브는 오는 28~29일(현지시간) 미국 샌프란시스코 포트메이슨센터에서 연례 개발자 컨퍼런스 '깃허브 유니버스 2026'을 개최한다. 올해 주제는 '에이전트 시대, 모두 함께'다. 사람과 개발 도구에 AI 에이전트까지 연결해 하나의 작업 흐름을 만드는 방식이 소개될 예정이다. 개발자가 코드를 직접 작성하는 역할에서 나아가 AI에 업무를 배분하고 전체 과정을 조율하는 변화를 다룬다.주요 세션에는 깃허브와 마이크로소프트를 비롯해 오픈AI·앤트로픽·엔비디아·피그마 관계자들이 참여한다. 특히 AI 기반 개발 미래를 논의하는 패널에는 카라 필립스 앤트로픽 응용 AI 아키텍트와 로한 바르마 오픈AI 코덱스 제품 리드, 케이트 캐틀린 깃허브 스태프 제품 매니저가 나선다. 이들은 앞으로 2년간 AI가 소프트웨어 개발 방식에 가져올 변화를 토론할 예정이다.이번 행사의 핵심 관전 포인트는 AI에 맡길 수 있는 ",
+          "published": "2026-10-25T05:10:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 8,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -159,10 +97,30 @@
           "event_labels": []
         },
         {
-          "title": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85b2s3TS1IcjZnVEw5c1BYSlQ0TUNpSXZ6aWxUSjBvZTBkSElkYVhLeTg1X3JlM1RmZzJLWjRYVExXZFFYZ0ZVYTN0eUJLOWhlTEJtNlM2Yk10X3R2TDJFelJVOGJicVV6MVE?oc=5",
-          "summary": "메타 '뮤즈' 아시아 첫발...네이버 \"국내 도입 시 허용 여부 검토\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-24T07:07:08+00:00",
+          "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
+          "summary": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
+          "published": "2026-10-25T14:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HZGhpYkxsOFVqTkhER1VYbnZoODNaMUszRzdmeGJKc3hzczlGQXhFR09iU0l0TzhWdWJDaVFqUTFGMGZ6UGNjYUxmMWd0amExbVgwN1o4VWN0dUlDMmx2SE9sZGZWUUZnbVE?oc=5",
+          "summary": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-25T08:10:30+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -182,25 +140,47 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-          "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-          "published": "2026-10-24T10:54:35+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
+          "link": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
+          "summary": "After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”. “Our next major milestone is to [help] bring regulated digital money into everyday payments and commercial applications, while connecting traditional payment infrastructure with this emerging digital finance,” said Dominic Maffei, CEO of Anchorpoint. “This is a public...",
+          "published": "2026-10-25T23:00:15+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "중동 긴장 고조에 비트코인 약세…이번주 FOMC 주목",
+          "link": "https://zdnet.co.kr/view/?no=20261025100518",
+          "summary": "[지디넷코리아]중동 지역 지정학적 긴장이 고조되면서 비트코인이 한 달여 만에 최저 수준으로 떨어졌다. 25일 코인마켓캡에 따르면 비트코인은 전일 대비 0.27% 상승한 8만 769 달러에 거래되고 있다. 일주일 전과 비교하면 0.76% 하락한 수준이다.이날 한때 비트코인은 7만 9000 달러 선까지 하락했으나 이후 반등하며 8만 달러 선을 회복했다. 주요 가상자산도 소폭 하락하거나 횡보세를 보이고 있다. 이더리움은 전일 대비 0.51% 하락한 2358 달러를 기록하고 있다. 같은 기간 XRP(리플)는 1.46% 상승한 1.3 달러, 솔라나는 0.34% 오른 102.33 달러에 거래 중이다.최근 가상자산 시장 하락세는 미국과 이란 간 군사적 긴장이 고조된 영향으로 풀이된다. 미국이 이란 공격 가능성에 대비해 중동 전역 대사관과 군사기지에 자국 인력 대피 명령을 내렸다는 보도가 전해지면서 투자심리가 위축된 것으로 해석된다.월스트리트저널(WSJ)에 따르면 제이 클레이턴 미국 국가정보국장은",
+          "published": "2026-10-25T02:37:28+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
           "score": 7,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
+            "keyword": 10,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -5
           },
           "event_labels": []
         }
@@ -211,20 +191,20 @@
       "count": 1,
       "articles": [
         {
-          "title": "가을비도 삼켜버린 5000명의 열기…다시 달린 이봉주, 함께 뛴 공직사회",
-          "link": "https://zdnet.co.kr/view/?no=20261024155153",
-          "summary": "[지디넷코리아]24일 오전 8시. '네이버웍스와 함께 하는 세종런26'이 열리는 세종중앙공원엔 참가자들로 북적이고 있었다. 공원 인근 주차장엔 이미 '만차' 안내판이 걸렸다. 출발까지 한 시간이 남은 시각이었다. 참가자들은 공식 티셔츠 위로 배번을 고쳐 달며 도시축제마당으로 모여들었다. 빗줄기에도 몸을 푸는 참가자들 사이로 기록칩을 점검하는 소리와 음악소리가 뒤섞였다.이날 열린 '세종런 26'에는 약 5000명이 참가했다.세종특별자치시육상연맹이 주최·주관하고 세종시체육회·세종시·네이버클라우드가 후원한 이번 대회는 2026 세종 스포츠 축제 1부 이벤트로 치러졌다. 네이버클라우드가 러닝 대회를 후원한 것은 이번이 처음이다.레이스는 세종중앙공원 이응다리를 돌아오는 5km와 이응다리와 세종교차로를 지나 국립세종수목원까지 이어지는 10km 코스로 진행됐다. 9시 정각이 되자 10km 참가자들 A·B 두 그룹으로 나뉘어 10분 간격으로 출발했다. 20분 뒤엔 5km 참가자가 뒤를 이었다.이번",
-          "published": "2026-10-24T11:36:04+00:00",
+          "title": "SLL, JTBC ‘파이널 테이블’ 온라인 팬 소통 확대",
+          "link": "https://zdnet.co.kr/view/?no=20261025135536",
+          "summary": "[지디넷코리아]SLL이 JTBC 새 토일드라마 ‘파이널 테이블’의 첫 방송에 맞춰 출연 배우들이 직접 참여하는 온라인 팬 행사를 잇달아 마련했다.지난 23일 네이버 치지직 SLL 공식 채널에서 진행된 ‘파이널 테이블 애피타이저’에는 안효섭, 홍화연, 장률, 정유진이 출연했다. 약 2시간 동안 이어진 생방송에서 배우들은 김밥 만들기와 쟁반 꾸미기, 밸런스 게임 등에 참여하며 시청자들과 소통했다.작품의 OST를 맞히는 퀴즈와 관전 포인트 소개, 선물 증정 행사도 진행됐다. 방송 중 시청자들은 실시간 채팅으로 출연진에게 반응을 전했으며, 해당 라이브는 60만회 이상의 시청수를 기록했다.25일에는 치지직 ‘찐혜자’ 채널에서 드라마 2회를 함께 시청하는 이벤트가 열린다. 정유진이 직접 출연해 방송을 보면서 팬들과 대화를 나눌 예정이다.SLL 관계자는 “‘파이널 테이블’은 화려한 요리 대결 뒤에 숨은 인간적인 이야기를 다루는 드라마”라며 “시청자들과의 공감과 참여를 통해 드라마에 대한 관심을 ",
+          "published": "2026-10-25T04:55:36+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
