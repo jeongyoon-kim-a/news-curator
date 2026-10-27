@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-25T23:05:10.261214+00:00",
-  "total_articles": 9,
+  "generated_at": "2026-10-27T00:16:23.872950+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "Musk Claims SpaceX Closed $40 Billion Debt Deal for AI Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-25/musk-says-spacex-closed-40-billion-debt-deal-blasts-neoclouds",
-          "summary": "Elon Musk said SpaceX has closed a $40 billion debt deal to pay for the chips it needs to fuel its artificial intelligence ambitions.",
-          "published": "2026-10-25T21:22:39+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
+          "summary": "Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familiar with the matter.",
+          "published": "2026-10-26T21:43:04+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 17,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 3,
             "recency": 3,
             "event_bonus": 3,
@@ -29,103 +29,15 @@
           ]
         },
         {
-          "title": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5uS21femVXTTVHUGlZRWRqbmJRNEpRQ3h0aGF6TWRFYm1QM0I0LVV4OG9PMkNUQWJZcDY5dzJfVnpadzdZekhoeE9HaGdHTy1VUXhxSThMdkJUUmZHd1ZFeVNnZVZXOHlLQkE?oc=5",
-          "summary": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-25T01:08:35+00:00",
+          "title": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRk1NNzZNM1FMZkxsVmFBWm9XQUx4bktISVZ3NjJqblAycE9yT2xwMGR6MEFNRDFOLUlnaTBJQWlkRDBHSkdXdUx0U0doa09Qei1OSmlvcV9KSE5OSmhuMXhSRGQ5ZDBscGc?oc=5",
+          "summary": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-26T03:24:22+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "Ray-Ban Meta Audio AI Glasses Cost More While Ditching a Key Feature: Review",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-25/ray-ban-meta-audio-ai-glasses-cost-more-while-ditching-a-key-feature-review",
-          "summary": "Meta Platforms Inc.’s $349-and-up Ray-Ban Meta Audio, announced last month, are an odd proposition. On the one hand, they’re more expensive than some of the company’s entry-level models and yet they do many of the same things: play music, make calls, answer questions through Meta’s artificial intelligence assistant, or let the wearer dictate texts and audio messages. Users can connect their calendar to keep tabs on it throughout the day, set reminders and get recommendations for things like nea",
-          "published": "2026-10-25T12:00:03+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "깃허브가 제시한 AI·사람 개발 협업 생태계는",
-          "link": "https://zdnet.co.kr/view/?no=20261025110541",
-          "summary": "[지디넷코리아]깃허브가 인공지능(AI)과 사람이 개발 영역에서 협업하는 방식을 제시한다. 깃허브는 오는 28~29일(현지시간) 미국 샌프란시스코 포트메이슨센터에서 연례 개발자 컨퍼런스 '깃허브 유니버스 2026'을 개최한다. 올해 주제는 '에이전트 시대, 모두 함께'다. 사람과 개발 도구에 AI 에이전트까지 연결해 하나의 작업 흐름을 만드는 방식이 소개될 예정이다. 개발자가 코드를 직접 작성하는 역할에서 나아가 AI에 업무를 배분하고 전체 과정을 조율하는 변화를 다룬다.주요 세션에는 깃허브와 마이크로소프트를 비롯해 오픈AI·앤트로픽·엔비디아·피그마 관계자들이 참여한다. 특히 AI 기반 개발 미래를 논의하는 패널에는 카라 필립스 앤트로픽 응용 AI 아키텍트와 로한 바르마 오픈AI 코덱스 제품 리드, 케이트 캐틀린 깃허브 스태프 제품 매니저가 나선다. 이들은 앞으로 2년간 AI가 소프트웨어 개발 방식에 가져올 변화를 토론할 예정이다.이번 행사의 핵심 관전 포인트는 AI에 맡길 수 있는 ",
-          "published": "2026-10-25T05:10:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple to Unveil Touch-Screen MacBook Pro; Executive Promotions; In-Box Checker",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-10-25/apple-to-unveil-touch-screen-macbook-pro-executive-promotions-in-box-checker",
-          "summary": "Also: The company rolls out a retail store tool to reduce wasted inventory.",
-          "published": "2026-10-25T14:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HZGhpYkxsOFVqTkhER1VYbnZoODNaMUszRzdmeGJKc3hzczlGQXhFR09iU0l0TzhWdWJDaVFqUTFGMGZ6UGNjYUxmMWd0amExbVgwN1o4VWN0dUlDMmx2SE9sZGZWUUZnbVE?oc=5",
-          "summary": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-25T08:10:30+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -138,20 +50,151 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 2,
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
       "articles": [
         {
-          "title": "Standard Chartered-led Anchorpoint plans retail stablecoin as HSBC RedCoin launches",
-          "link": "https://www.scmp.com/business/cryptocurrency/article/3372060/standard-chartered-led-anchorpoint-plans-retail-stablecoin-hsbc-redcoin-launches",
-          "summary": "After HSBC RedCoin launched on Friday, Anchorpoint – the stablecoin-issuing joint venture led by Standard Chartered – said it plans to launch a retail product on a public blockchain, even as it takes a “prudent approach”. “Our next major milestone is to [help] bring regulated digital money into everyday payments and commercial applications, while connecting traditional payment infrastructure with this emerging digital finance,” said Dominic Maffei, CEO of Anchorpoint. “This is a public...",
-          "published": "2026-10-25T23:00:15+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "Anthropic Warns of Existential Risk, Liability and Slowing Sales",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-warns-of-existential-risk-liability-and-slowing-sales",
+          "summary": "Anthropic PBC’s filing for a landmark initial public offering included nearly 100 pages of risk factors, an unusually exhaustive set of disclosures for how the company’s artificial intelligence business could go awry.The list included everything from slowing revenue growth and government regulation to “catastrophic or existential risks to humanity.” The scope of the risks hints at unique challenge public market investors face in gauging the promise and peril of Anthropic’s technology.",
+          "published": "2026-10-26T21:11:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "regulation"
+          ]
+        },
+        {
+          "title": "Anthropic Grows More Reliant on Google, Amazon, Microsoft",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
+          "summary": "Anthropic PBC is relying more and more on Alphabet Inc.’s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence technology to customers, despite the three companies being rivals, investors and key suppliers of computing power.",
+          "published": "2026-10-26T17:09:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips",
+          "summary": "Chipmaker Broadcom Inc. has arranged a $63 billion deal with Bank of America Corp., Blackstone Inc., Citigroup Inc. and Morgan Stanley to finance the purchase of chips for AI model developer Anthropic PBC.",
+          "published": "2026-10-26T20:36:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "What Anthropic’s IPO Reveals About the AI Boom: Live Q&A",
+          "link": "https://www.bloomberg.com/sessions/2026-10-27/live-q-amp-a-what-anthropic-s-ipo-reveals-about-the-ai-boom",
+          "summary": "Anthropic’s IPO is offering a rare look inside the business of frontier AI. Bloomberg journalists answer your questions in an interactive Live Q&amp;A on Tuesday, Oct. 27 at 1 p.m. EDT.",
+          "published": "2026-10-26T20:38:26+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Anthropic Mum on Investment Grade as It Warns of More Debt",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt",
+          "summary": "Anthropic PBC warned it may need to seek more financing sooner than the artificial-intelligence company had anticipated while saying little about its potential path to an investment-grade credit rating in its closely watched IPO filing.",
+          "published": "2026-10-26T20:56:09+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom",
+          "summary": "Anthropic PBC’s initial public offering is laying bare the stark extremes of the multi-trillion-dollar AI boom business model: astonishing growth paired with uncertainty about demand and the spending required to continue developing the technology. The startup, which publicly filed IPO paperwork on Monday, is poised to be the first major US firm focused solely on building AI software to make its market debut.",
+          "published": "2026-10-26T23:23:19+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Don’t expect supersize profits from Anthropic any time soon",
+          "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
+          "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
+          "published": "2026-10-26T22:23:01+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
             "keyword": 5,
@@ -161,40 +204,45 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "중동 긴장 고조에 비트코인 약세…이번주 FOMC 주목",
-          "link": "https://zdnet.co.kr/view/?no=20261025100518",
-          "summary": "[지디넷코리아]중동 지역 지정학적 긴장이 고조되면서 비트코인이 한 달여 만에 최저 수준으로 떨어졌다. 25일 코인마켓캡에 따르면 비트코인은 전일 대비 0.27% 상승한 8만 769 달러에 거래되고 있다. 일주일 전과 비교하면 0.76% 하락한 수준이다.이날 한때 비트코인은 7만 9000 달러 선까지 하락했으나 이후 반등하며 8만 달러 선을 회복했다. 주요 가상자산도 소폭 하락하거나 횡보세를 보이고 있다. 이더리움은 전일 대비 0.51% 하락한 2358 달러를 기록하고 있다. 같은 기간 XRP(리플)는 1.46% 상승한 1.3 달러, 솔라나는 0.34% 오른 102.33 달러에 거래 중이다.최근 가상자산 시장 하락세는 미국과 이란 간 군사적 긴장이 고조된 영향으로 풀이된다. 미국이 이란 공격 가능성에 대비해 중동 전역 대사관과 군사기지에 자국 인력 대피 명령을 내렸다는 보도가 전해지면서 투자심리가 위축된 것으로 해석된다.월스트리트저널(WSJ)에 따르면 제이 클레이턴 미국 국가정보국장은",
-          "published": "2026-10-25T02:37:28+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 7,
+          "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
+          "summary": "Chinese AI video-generation models have surpassed leading US rivals in visual quality, but several fall behind in safety precautions, according to researchers at the University of Hong Kong. ByteDance’s Seedance 2.0 Pro took top spot in a ranking of 12 leading artificial intelligence video-generation models, scoring 3.84 out of 5 for visual quality. It outperformed Google DeepMind’s Veo 3.1, which scored 3.47, and OpenAI’s Sora 2 Pro, on 3.27, in a study led by Zhenhui Jack Jiang, professor of..",
+          "published": "2026-10-26T08:00:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
+            "keyword": 8,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
-            "noise_penalty": -5
+            "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "SLL, JTBC ‘파이널 테이블’ 온라인 팬 소통 확대",
-          "link": "https://zdnet.co.kr/view/?no=20261025135536",
-          "summary": "[지디넷코리아]SLL이 JTBC 새 토일드라마 ‘파이널 테이블’의 첫 방송에 맞춰 출연 배우들이 직접 참여하는 온라인 팬 행사를 잇달아 마련했다.지난 23일 네이버 치지직 SLL 공식 채널에서 진행된 ‘파이널 테이블 애피타이저’에는 안효섭, 홍화연, 장률, 정유진이 출연했다. 약 2시간 동안 이어진 생방송에서 배우들은 김밥 만들기와 쟁반 꾸미기, 밸런스 게임 등에 참여하며 시청자들과 소통했다.작품의 OST를 맞히는 퀴즈와 관전 포인트 소개, 선물 증정 행사도 진행됐다. 방송 중 시청자들은 실시간 채팅으로 출연진에게 반응을 전했으며, 해당 라이브는 60만회 이상의 시청수를 기록했다.25일에는 치지직 ‘찐혜자’ 채널에서 드라마 2회를 함께 시청하는 이벤트가 열린다. 정유진이 직접 출연해 방송을 보면서 팬들과 대화를 나눌 예정이다.SLL 관계자는 “‘파이널 테이블’은 화려한 요리 대결 뒤에 숨은 인간적인 이야기를 다루는 드라마”라며 “시청자들과의 공감과 참여를 통해 드라마에 대한 관심을 ",
-          "published": "2026-10-25T04:55:36+00:00",
+          "title": "서강대, 네이버•코드프레소와 AI 역량 평가 협력 MOU 체결",
+          "link": "https://zdnet.co.kr/view/?no=20261026181002",
+          "summary": "[지디넷코리아] 이번 학기 AI 역량 평가 추진…진단 결과를 교육과 연계해 학생 역량 향상 지원 서울 대한민국, 2026년 10월 26일 /PRNewswire/ -- 서강대학교 AI중심대학은 10월 26일 네이버, 코드프레소와 AI역량평가 협력을 위한 업무협약(MOU)을 체결했다. 세 기관은 이번 학기 AI 역량 평가 실시를 목표로 학생의 AI 역량을 체계적으로 진단하고, 산업 현장의 수요를 대학 교육에 반영하기 위한 협력을 추진한다. 이번 협약은 서강대의 AI 인재양성 기반에 기업의 기술•산업 경험을 접목해 교육의 실효성을 높이기 위해 마련됐다. 학생의 AI 기술 이해도와 활용 능력을 진단하고, 그 결과를 교육과 연계해 실질적인 역량 향상을 지원하는 것이 핵심이다. 서강대는 이번 학기 중 AI 역량 평가를 실시해 학생들의 역량 수준과 학습 수요를 파악할 계획이다. 평가 결과는 학생이 자신의 강점과 보완할 영역을 이해하고 학습 방향을 설정하는 데 활용된다. 대학은 이를 AI 교육과정",
+          "published": "2026-10-26T09:10:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
