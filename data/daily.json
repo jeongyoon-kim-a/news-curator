@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-10-27T00:16:23.872950+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-10-28T00:19:27.881358+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "Pimco Scoops Up $4 Billion of Massive SpaceX AI Debt Package",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/pimco-scoops-up-4-billion-of-massive-spacex-ai-debt-package",
-          "summary": "Pacific Investment Management Co. bought a $4 billion slice of a huge SpaceX financing deal that will help expand its artificial intelligence ambitions, according to people familiar with the matter.",
-          "published": "2026-10-26T21:43:04+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "美FCC, 아마존의 글로벌스타 인수승인…스타링크와 경쟁 발판 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBQMEZ2RDJoc2RGRWdvQ0gzdFR3Z0N5WTBYeFJOMlVrbzBlUUdfZjh1bHBLOU9wM0xSVWVDUDdKOE9VbTg4Zjd3emcyRHNXSVVxVEE?oc=5",
+          "summary": "美FCC, 아마존의 글로벌스타 인수승인…스타링크와 경쟁 발판 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-27T22:20:23+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 3,
+            "source": 2,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -27,26 +27,6 @@
           "event_labels": [
             "m_and_a"
           ]
-        },
-        {
-          "title": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRk1NNzZNM1FMZkxsVmFBWm9XQUx4bktISVZ3NjJqblAycE9yT2xwMGR6MEFNRDFOLUlnaTBJQWlkRDBHSkdXdUx0U0doa09Qei1OSmlvcV9KSE5OSmhuMXhSRGQ5ZDBscGc?oc=5",
-          "summary": "스페이스X, 53조 부채로 GPU 확보...\"네오클라우드는 도산 위기\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-26T03:24:22+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -55,55 +35,12 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic Warns of Existential Risk, Liability and Slowing Sales",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-warns-of-existential-risk-liability-and-slowing-sales",
-          "summary": "Anthropic PBC’s filing for a landmark initial public offering included nearly 100 pages of risk factors, an unusually exhaustive set of disclosures for how the company’s artificial intelligence business could go awry.The list included everything from slowing revenue growth and government regulation to “catastrophic or existential risks to humanity.” The scope of the risks hints at unique challenge public market investors face in gauging the promise and peril of Anthropic’s technology.",
-          "published": "2026-10-26T21:11:21+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "regulation"
-          ]
-        },
-        {
-          "title": "Anthropic Grows More Reliant on Google, Amazon, Microsoft",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-ipo-filing-cites-reliance-on-google-amazon-microsoft",
-          "summary": "Anthropic PBC is relying more and more on Alphabet Inc.’s Google, Amazon.com Inc. and Microsoft Corp. to sell its artificial intelligence technology to customers, despite the three companies being rivals, investors and key suppliers of computing power.",
-          "published": "2026-10-26T17:09:43+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Broadcom Arranges $63 Billion Deal to Finance Anthropic’s Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips",
-          "summary": "Chipmaker Broadcom Inc. has arranged a $63 billion deal with Bank of America Corp., Blackstone Inc., Citigroup Inc. and Morgan Stanley to finance the purchase of chips for AI model developer Anthropic PBC.",
-          "published": "2026-10-26T20:36:14+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Banks Eye $21 Billion Bonds for Broadcom Chip-Financing Deal",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-27/banks-eye-21-billion-of-bonds-for-broadcom-chip-financing-deal",
+          "summary": "Banks are planning to sell as much as about $21 billion of high-grade bonds as soon as early next year as part of a $63 billion funding package that Broadcom Inc. has pulled together to help finance chips for AI developer Anthropic PBC.",
+          "published": "2026-10-27T20:09:29+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -120,98 +57,10 @@
           ]
         },
         {
-          "title": "What Anthropic’s IPO Reveals About the AI Boom: Live Q&A",
-          "link": "https://www.bloomberg.com/sessions/2026-10-27/live-q-amp-a-what-anthropic-s-ipo-reveals-about-the-ai-boom",
-          "summary": "Anthropic’s IPO is offering a rare look inside the business of frontier AI. Bloomberg journalists answer your questions in an interactive Live Q&amp;A on Tuesday, Oct. 27 at 1 p.m. EDT.",
-          "published": "2026-10-26T20:38:26+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Anthropic Mum on Investment Grade as It Warns of More Debt",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-remains-mum-on-investment-grade-as-it-flags-more-debt",
-          "summary": "Anthropic PBC warned it may need to seek more financing sooner than the artificial-intelligence company had anticipated while saying little about its potential path to an investment-grade credit rating in its closely watched IPO filing.",
-          "published": "2026-10-26T20:56:09+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Anthropic’s IPO Sets Up Defining Moment for Wall Street and AI Boom",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-26/anthropic-s-ipo-sets-up-defining-moment-for-wall-street-and-ai-boom",
-          "summary": "Anthropic PBC’s initial public offering is laying bare the stark extremes of the multi-trillion-dollar AI boom business model: astonishing growth paired with uncertainty about demand and the spending required to continue developing the technology. The startup, which publicly filed IPO paperwork on Monday, is poised to be the first major US firm focused solely on building AI software to make its market debut.",
-          "published": "2026-10-26T23:23:19+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Don’t expect supersize profits from Anthropic any time soon",
-          "link": "https://www.economist.com/business/2026/10/26/dont-expect-supersize-profits-from-anthropic-any-time-soon",
-          "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
-          "published": "2026-10-26T22:23:01+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
-          "summary": "Chinese AI video-generation models have surpassed leading US rivals in visual quality, but several fall behind in safety precautions, according to researchers at the University of Hong Kong. ByteDance’s Seedance 2.0 Pro took top spot in a ranking of 12 leading artificial intelligence video-generation models, scoring 3.84 out of 5 for visual quality. It outperformed Google DeepMind’s Veo 3.1, which scored 3.47, and OpenAI’s Sora 2 Pro, on 3.27, in a study led by Zhenhui Jack Jiang, professor of..",
-          "published": "2026-10-26T08:00:07+00:00",
+          "title": "How China ‘risk factors’ loom over Anthropic’s hotly anticipated IPO filing",
+          "link": "https://www.scmp.com/tech/big-tech/article/3372329/how-china-risk-factors-loom-over-anthropics-hotly-anticipated-ipo-filing",
+          "summary": "Open-weight models, China-US tensions, Taiwan – just a few of the more than dozen references to China-related risks cited in Anthropic’s much-anticipated listing prospectus, which was finally released on Monday after months of speculation. Mostly concentrated within the 93-page “risk factors” section of the filing with the US Securities and Exchange Commission, the disclosures reveal how the Silicon Valley start-up assesses the commercial threats posed by China and its artificial intelligence...",
+          "published": "2026-10-27T13:00:08+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -219,7 +68,131 @@
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+          "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out&#8230;",
+          "published": "2026-10-27T12:10:00+00:00",
+          "source_key": "mit_tech_review",
+          "source_name": "MIT Technology Review",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "엔비디아 매디슨 황, 내달 한국 또 찾는다…피지컬 AI 협력 주목 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZNzdDUDBFaWdyZWhZTDJqTXc5TkdUTlZiemJvWUg4WFZWUFlxZWh4WkZubHZkeFQtMlQyd1BTbTZza2lFMFdaSV8tdmx1VUFBb2c?oc=5",
+          "summary": "엔비디아 매디슨 황, 내달 한국 또 찾는다…피지컬 AI 협력 주목 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-27T21:30:02+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple 14-inch, 16-inch MacBook Pro Touch Price Is Likely $2,899; Laptop Details",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-27/apple-14-inch-16-inch-macbook-pro-touch-price-is-likely-2-899-laptop-details",
+          "summary": "Apple Inc., after successfully betting this month that consumers are willing to pay $2,000 or more for a foldable iPhone, is preparing to test their appetite for another pricey new product: touch-screen laptops.",
+          "published": "2026-10-27T22:01:19+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FUzJQdm0xVV9vRGl4VkxGdGFxenhZLUgyeWRObGZXMEp6dXRPaWQ0TXloVW1FMmtLLUJCb0daMU5FUFA4alJPQ0cwYnJ3Rk4zclEtOUlUenc5RG95elNsX00yQmtEa3ZBT0E?oc=5",
+          "summary": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-27T08:50:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBQUWFKTGdubm91UFJtUC1ITHVUQVNvUlM2a1ZQSlI3aG44QWt6ZGNicEp4RnNEMzFFV3VXWnZhYThLdG5DTEJidlIwWTBNTE1xdHdYQWdHYVJjXzMwb0ZBYWs0a3QwY1VXd3c?oc=5",
+          "summary": "구글, 음성·실시간 편집 갖춘 월드모델 '지니 4' 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-27T22:17:10+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배” - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtUUNkRUNFbmd6M05DLWRZaVpoZlgyYTk0OTNMOXQtZjVwQ0VSSENPR2NNMWdiblBQZVdMaEVFTjlNeTAwc1BhMFBKZ1BnN19hNHJveERocW90b21Xd19ER3d3R3U3MDJvb2c?oc=5",
+          "summary": "애플, OLED 아이패드 미니 공개…“AI 성능 최대 4.5배” &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-27T06:59:30+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -231,28 +204,111 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 4,
+      "articles": [
+        {
+          "title": "Bitcoin’s Road to $100,000 Is Crowded With Would-Be Sellers",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-27/bitcoin-s-road-to-100-000-is-crowded-with-would-be-sellers",
+          "summary": "Bitcoin investors cheered as their favorite coin rebounded over the summer. With the turn of the season, they’ve been left with a nagging question: why did the rally fizzle out?",
+          "published": "2026-10-27T17:21:20+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "당정 \"실사구시로 사안 정리\"…가상자산 과세 추가유예 여부 협의 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UWjVGQjNpQjg4VktuNGVQQWFGNUxOWWNlQUNESlV0RUEtVlMzd3lPaURub0ZIVmt5TE9CTzBJcnFjNGJQRHFrZmQwcWhGV0s3Q0E?oc=5",
+          "summary": "당정 \"실사구시로 사안 정리\"…가상자산 과세 추가유예 여부 협의 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-27T23:05:15+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“과세 인프라 미비·청년 우려”…與, 가상자산 과세 추가 유예 무게 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB0UlJlRXNqRm14NDQ2VGZGYUFLRWVGMzJoRVJsWWhTdzFiVkY3OWhfMWdHN1djNHJ0MUxQV1ZTNjYzSE1sWWZNdmMyZUdWcFpyVjh6VA?oc=5",
+          "summary": "“과세 인프라 미비·청년 우려”…與, 가상자산 과세 추가 유예 무게 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-27T23:50:20+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "JB금융그룹, 3Q 당기순익 2100억원…역대 최대 실적",
+          "link": "https://zdnet.co.kr/view/?no=20261027174642",
+          "summary": "[지디넷코리아]JB금융그룹이 역대 최대 실적을 경신했다.JB금융지주는 올 3분기 지배지분 순이익이 전년 동기대비 각각 0.8% 증가한 2100억원을 기록했다고 27일 밝혔다. 올해 누적 지배지분 순이익은 전년 동기대비 2.9% 늘어난 5957억원이다. 3분기, 누적 기준 모두 사상 최대 실적이다.3분기 주요 경영지표도 양호한 수준이다. 지배 지분 자기자본이익률(ROE)과 연결 총자산이익률(ROA)이 각각 13.3%와 1.08%를 기록했다. 영업이익경비율(CIR)과 잠정 보통주자본비율(CET1)도 35.8%와 12.39%로 안정적인 수준이다.JB금융그룹은 위험가중자산이익률(RORWA)이 높은 사업 비중을 확대하는 자산 리밸런싱 전략을 이어오고 있다. 3분기 누적 그룹의 위험가중자산(RWA) 성장률을 원화대출금 성장률인 10.0%보다 낮은 5.1%에서 관리했다.JB금융그룹 주요 계열사별로 살펴보면 전북은행은 725억원, 광주은행은 824억원, JB우리캐피탈은 663억원의 순이익을 기록했",
+          "published": "2026-10-27T08:46:42+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 1,
       "articles": [
         {
-          "title": "서강대, 네이버•코드프레소와 AI 역량 평가 협력 MOU 체결",
-          "link": "https://zdnet.co.kr/view/?no=20261026181002",
-          "summary": "[지디넷코리아] 이번 학기 AI 역량 평가 추진…진단 결과를 교육과 연계해 학생 역량 향상 지원 서울 대한민국, 2026년 10월 26일 /PRNewswire/ -- 서강대학교 AI중심대학은 10월 26일 네이버, 코드프레소와 AI역량평가 협력을 위한 업무협약(MOU)을 체결했다. 세 기관은 이번 학기 AI 역량 평가 실시를 목표로 학생의 AI 역량을 체계적으로 진단하고, 산업 현장의 수요를 대학 교육에 반영하기 위한 협력을 추진한다. 이번 협약은 서강대의 AI 인재양성 기반에 기업의 기술•산업 경험을 접목해 교육의 실효성을 높이기 위해 마련됐다. 학생의 AI 기술 이해도와 활용 능력을 진단하고, 그 결과를 교육과 연계해 실질적인 역량 향상을 지원하는 것이 핵심이다. 서강대는 이번 학기 중 AI 역량 평가를 실시해 학생들의 역량 수준과 학습 수요를 파악할 계획이다. 평가 결과는 학생이 자신의 강점과 보완할 영역을 이해하고 학습 방향을 설정하는 데 활용된다. 대학은 이를 AI 교육과정",
-          "published": "2026-10-26T09:10:02+00:00",
+          "title": "\"초기 구축비 10배 줄인다\"… AI 데이터센터 전력난 구원투수 나선 토종 반도체",
+          "link": "https://zdnet.co.kr/view/?no=20261027163746",
+          "summary": "[지디넷코리아]국내 주요 인공지능(AI) 반도체·인프라 기업이 컴퓨팅 자원을 동적으로 할당하는 'K-컴포저블 클러스터(K-Composable Cluster)'를 구축한다. 막대한 전력 소모와 비용 문제 문제에 직면한 인공지능(AI) 데이터센터 효율을 높이는 것이 목적이다. 27일 서울 AI허브에서 열린 'K-클라우드 테크 데이 2026'에서 김주영 하이퍼엑셀 대표는 'AI 반도체 기반 데이터센터 학습·추론 시스템 통합·검증' 과제 현황과 개발 로드맵을 발표했다.이 사업은 2025년 4월부터 2030년 12월까지 총 5년 9개월 진행하는 대형 국책과제다. 정부 지원금 348억원과 기관 부담금 110억원 등 총 458억원을 투입한다. 주관기관인 하이퍼엑셀을 필두로 리벨리온, 파네시아, 망고부스트, 래블업, 카이스트, 네이버클라우드 등 토종 기술 기업이 총망라됐다.프로젝트 핵심 배경은 하이퍼스케일 AI 데이터센터 확장의 최대 걸림돌로 부상한 전력 부족이다. 현재 데이터센터 전체 구축비용 ",
+          "published": "2026-10-27T12:36:20+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 5,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
