@@ -1,155 +1,41 @@
 {
-  "generated_at": "2026-10-29T00:39:56.256241+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-10-30T00:40:49.853292+00:00",
+  "total_articles": 17,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "Elon Musk, Jensen Huang have opposing outlooks on AI neoclouds. Who is likely correct?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3372447/elon-musk-jensen-huang-have-opposing-outlooks-ai-neoclouds-who-likely-correct",
-          "summary": "As investor anxiety over an artificial intelligence bubble mounts, SpaceX’s Elon Musk and Nvidia chief Jensen Huang have offered starkly divergent outlooks on whether the specialist cloud providers powering the boom can survive their mounting debts. While Musk has warned of impending collapses and consolidation among the more than 200 dedicated graphics processing unit (GPU) rental ventures known as “neoclouds”, Huang remains bullish, insisting that robust market demand will unlock the capital..",
-          "published": "2026-10-28T13:30:10+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbEpnb0k2elZMNmU4MkhYYm93RHFTejUzVjJ3eUx1b0FudnJyUGZLOWU3aUpQMnBkQ0JTRThKeWtRNGpMcWhzRlJGQVpIa1RobVgzcXFoM1h4a0FpU2pqSV9kenpvUExFdHc?oc=5",
+          "summary": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-29T07:54:36+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
             "keyword": 8,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
-      "articles": [
-        {
-          "title": "Alphabet’s Revenue Miss Reignites Fears Over AI Spending Binge",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-28/alphabet-reports-disappointing-revenue-income-shares-drop",
-          "summary": "Alphabet Inc.’s search and advertising sales disappointed in the most recent quarter, reinforcing investors’ fears that Google is losing ground to AI rivals despite pouring hundreds of billions of dollars into the technology.",
-          "published": "2026-10-28T20:06:48+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Four Unanswered Questions From Anthropic’s IPO Filing",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-10-28/four-unanswered-questions-from-anthropic-s-ipo-filing",
-          "summary": "Unpacking the company’s 300-plus page prospectus",
-          "published": "2026-10-28T20:35:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "FuriosaAI Quadruples Valuation to $2.9 Billion in Nvidia Chase",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-28/furiosaai-quadruples-valuation-to-2-9-billion-in-nvidia-chase",
-          "summary": "South Korean AI chip startup FuriosaAI quadrupled its valuation to $2.9 billion in a fresh funding round, bolstering its bid to challenge the likes of Nvidia Corp.",
-          "published": "2026-10-28T23:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "[속보] 인앱결제 강제가 과징금 철퇴로…구글 429억원·애플 208억원 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00enhOUEl5Wlp5RXBXYTdDUWhSR01iUS1WRkU3WDR6WFpVWUgtYjh5WGRFY0llRWlzYzBUUUtmdVRENGl3WGdrZWl6eVZOUQ?oc=5",
-          "summary": "[속보] 인앱결제 강제가 과징금 철퇴로…구글 429억원·애플 208억원 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-28T07:33:15+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
             "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Banks Shelve Bond Sale for Anthropic-Tied Texas Data Center",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-28/banks-shelve-bond-sale-for-anthropic-tied-texas-data-center",
-          "summary": "Banks are delaying plans to offload part of a $15 billion loan to fund a data center tied to Anthropic PBC in Texas, after the state put a hold on new projects while assessing risks to its power grid.",
-          "published": "2026-10-28T21:50:15+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달에 주가 10%↓(종합) - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9peUhKbjBsc21wTGFvZm45bVlteDI2dGhYeC1NeDE2YVZ2bHdzaE1aTFFEUUxrci0ydkVjQk50S0M3UnBTSWthcTBIT3kyU0N0QXc?oc=5",
-          "summary": "알파벳, 클라우드 100% 성장에도 실적 기대치 미달에 주가 10%↓(종합) &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-28T21:52:03+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZE83QUljak51cHRhb3BsVFR5eFlDUTBqZ1V3QmdBeFk3NmdFcUVScHFQdzVYR05ray11aEEtTWJLZXRBTDA1bzJFYkg3ZjBLbW5BeDBQOEV0LUxuVHlOa0xrWDFoNm5QZHc?oc=5",
+          "summary": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-29T21:29:38+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 10,
           "score_breakdown": {
             "keyword": 3,
@@ -161,12 +47,122 @@
           "event_labels": [
             "earnings"
           ]
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Nvidia in Talks to Offer Credit Support for Nscale Project",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
+          "summary": "Nvidia Corp. is in discussions to provide credit guarantees for an Nscale data center facility that Anthropic PBC plans to use, according to a person familiar with the matter.",
+          "published": "2026-10-29T23:59:53+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 16,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         },
         {
-          "title": "Microsoft’s Surging Cloud Sales Show AI Spending Paying Off",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-28/microsoft-reports-quarterly-cloud-sales-that-beat-estimates",
-          "summary": "Microsoft Corp. posted increasing growth in its cloud business and kept its capital expenditures in check, satisfying investors amid a drumbeat of concern that spending on artificial intelligence won’t pay off.",
-          "published": "2026-10-28T20:08:01+00:00",
+          "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oNjlrcDBfcHNBTk0wMnlRRkpnWkoyaXJ5cHJSdmNEQU5LWHV2MWZBaFFYODZoNVpDNUgwT2pZTEVtbU1CbldYRVNNMFJXVGhQZE54LXZNLW85MHFFNk5MeC1kUGpJZVJoc1E?oc=5",
+          "summary": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-29T20:06:36+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes",
+          "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
+          "summary": "Chinese artificial intelligence chipmaker Iluvatar CoreX claims that its new Tiangai 300 graphics processing unit (GPU) can match and even surpass Nvidia’s H200 in real-world AI workloads, highlighting efforts by domestic players to close the technology gap with the US chip giant. In a live demonstration for mainland Chinese media outlets on Wednesday, the Shanghai-based firm showed the Tiangai 300 outperforming the H200 in complex multimodal tasks, including text-to-image and text-to-video...",
+          "published": "2026-10-29T14:00:08+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWnpsTHByN3Fpd3ZHc3JKRTN0dEZ4eHJXdVFHQUVkMnJfY1ozUF94c2R3OUNvVWh3WXQ5U0V3Rk5zVFFKeE1WZVNYdGZrTm13bUE?oc=5",
+          "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-29T14:05:07+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
+          "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-29T14:05:13+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Amazon Spending Soars Amid Slowing Growth of Online Business",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
+          "summary": "Amazon.com Inc. shares dropped after the company reported greater capital spending than anticipated and the slowest growth in the core e-commerce business in three years.",
+          "published": "2026-10-29T20:15:58+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -183,15 +179,173 @@
           "event_labels": []
         },
         {
-          "title": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsMDFfSVpveUhFYmZyX0s2RUo1UWNQM1ZHNGM3WjBoSnZVNTVUTElFRzB6ZGNCUFVJQTh3aGN5SThTUkZwZlNZSlpsRkp1NWZwbHdkMWE5a1NHa3lTYnRUUDRhS0pKdGJfeVE?oc=5",
-          "summary": "구글, 1년 만에 AI 성능 평가 1위 탈환…'제미나이 4 카본' 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-28T20:22:15+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
+          "summary": "Apple Inc.’s main assembly partner Hon Hai Precision Industry Co. expects its expansive global manufacturing presence will help it fulfill growing demand for the US company’s marquee foldable device.",
+          "published": "2026-10-29T23:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge",
+          "summary": "Shares of Chinese semiconductor suppliers Biwin Storage Technology and Moore Threads tumbled on Thursday alongside a broader rout in mainland technology stocks, despite blockbuster third-quarter revenue driven by strong artificial intelligence demand. Both stocks plunged more than 10 per cent during Thursday morning trading, reversing Wednesday’s rallies of 8.4 per cent for Biwin and 5.8 per cent for Moore Threads. By the end of the day, Biwin was down 15.79 per cent and Moore Threads was down..",
+          "published": "2026-10-29T05:35:00+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 5,
+      "articles": [
+        {
+          "title": "두나무·FIU 항소심 첫 변론…'미신고 사업자 거래 차단 의무' 공방",
+          "link": "https://zdnet.co.kr/view/?no=20261029180236",
+          "summary": "[지디넷코리아]가상자산 거래소 업비트 운영사 두나무가 금융정보분석원(FIU)을 상대로 제기한 행정소송 1심에서 승소한 가운데, FIU가 항소심에서 두나무의 미필적 고의와 중과실을 주장하며 1심 판결에 반박했다.29일 서울고등법원 제7행정부에서 열린 두나무와 FIU 간 항소심 변론기일에서 FIU 측 변호인단은 “원고에게는 중과실에 해당하는 이유가 있다”며 “1심 판결 결론과 이유 모두 수긍할 수 없다”고 주장했다.이번 항소심은 지난 4월 두나무가 FIU를 상대로 제기한 영업일부정지 처분 취소 행정소송 1심에서 승소한 이후 FIU가 항소하면서 진행됐다.당시 1심 재판부는 FIU가 두나무에 제재를 부과할 법적 근거가 충분하지 않다고 판단해 두나무의 손을 들어줬다.그러나 이날 항소심에서 FIU 측은 두나무가 미신고 해외 가상자산사업자와의 거래 금지 의무를 위반할 가능성을 인식하고도 적극적인 조치를 취하지 않았다고 주장했다.FIU 측 변호인단은 “원고는 미신고 해외 가상자산사업자와의 거래 금",
+          "published": "2026-10-29T09:09:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 9,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
+          "summary": "Coinbase Global Inc. returned to profitability for the first time in a year while posting a quarterly decline in revenue, showing how closely the largest US digital-asset platform’s fortunes remain wedded to crypto markets.",
+          "published": "2026-10-29T20:32:50+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Binance Freezes $2.5 Billion After Suspected Hack; Bitcoin Sinks",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
+          "summary": "A suspected hack of Binance, the world’s largest crypto exchange, prompted it to freeze more than $2.5 billion in assets and sent the price of digital tokens tumbling. Binance said it hasn’t confirmed any impact to customer funds.",
+          "published": "2026-10-29T21:25:33+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“美 중간선거 끝나면 2배 올랐다?”…미장과 비트코인 과거 상승률 보니 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qX3lHMjRXM1pSTHlzYnl0LWJ1WGZIMzgtR1pSZGJ2MEV0REUwZW9IbVJOX0g2SXZ0eEVfTGNReUlHaHZiV1dFX2ZFTlVfWEl5LVE?oc=5",
+          "summary": "“美 중간선거 끝나면 2배 올랐다?”…미장과 비트코인 과거 상승률 보니 &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-29T11:01:37+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "빗썸 사내 그룹웨어 해킹…이용자·임직원 7159명 정보 유출",
+          "link": "https://zdnet.co.kr/view/?no=20261029183404",
+          "summary": "[지디넷코리아]국내 가상자산 거래소 빗썸의 사내 그룹웨어 시스템이 해킹당해 이용자와 임직원 등 총 7159명의 개인정보가 유출되는 사고가 발생했다.29일 빗썸에 따르면 이번 사고로 개인정보가 유출된 이용자는 총 6444명이다. 이 가운데 844명의 개인정보가 노출됐으며, 나머지 5600명 정보는 암호화된 파일 형태로 유출됐다.유출된 이용자 개인정보에는 성명, 휴대전화번호, 이메일 주소, 주민등록번호, 운전면허번호, 계좌번호, 신분증 사본 등이 포함됐다. 다만 구체적인 유출 정보 범위는 이용자별로 다른 것으로 파악됐다.이와 함께 임직원 715명 정보도 유출됐다.이번 사고는 지난 27일 오전 11시 28분부터 오후 12시 27분 사이에 발생했다. 빗썸은 같은 날 오후 12시 14분 비정상적인 접근을 처음 인지했다.빗썸은 사고 인지 직후 공격자 접근 경로를 차단하고 모바일 그룹웨어 사용을 전면 중단하는 등 긴급 보안 조치를 시행했다. 현재 서비스 개발사와 함께 보안 점검 및 패치를 진행하",
+          "published": "2026-10-29T09:34:04+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
+      "articles": [
+        {
+          "title": "네이버, 언론사 뉴스편집 다양화…\"심층 기사 노출도 확대\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95M3pUaUNZcVNlLWM0b2YycGR0cjYyRnhxOVYwSkJ3Q3pJbFFLeHdQZzd4NnR5SW5hVHUzSlNaaElBQkdOTEtfVGVzZFBOamUtbkY1ck5KbFZWellCRUNQcUlSWWZfeG5RcnYyeFYyZ2I?oc=5",
+          "summary": "네이버, 언론사 뉴스편집 다양화…\"심층 기사 노출도 확대\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-30T00:30:39+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
@@ -201,23 +355,17 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "The Download: dead startups fueling AI and interspecies communication",
-          "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data was worth much. But he’s&#8230;",
-          "published": "2026-10-28T12:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTDlqQ3FrRmg4VGxMRTFOdlZ6MzA1SkRIOWJIempkVTRVYUdkOHNjVU5mUmFOdHFuMjdFeXdTb0tnbTQ0M1FES2FzQW14MTF5NGxDVENBSnlUVWZaTHpaZDhqblJqZHFDcEE?oc=5",
+          "summary": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-29T07:50:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -230,58 +378,10 @@
         }
       ]
     },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
-    },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 2,
-      "articles": [
-        {
-          "title": "미래에셋, 日 산코증권 인수…현지 리테일 시장 진출 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qWVh6ckZteDhDZGp6SEFDUzBDakR6RDBPLTIyM1VWS24wdktPd0lnSTRPWlJheUJ2Q2Q5RzZQX1pmdGhtcDlmS3Y5UXdrTmNhaEE?oc=5",
-          "summary": "미래에셋, 日 산코증권 인수…현지 리테일 시장 진출 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-28T22:19:28+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "\"대신·빗썸·미래에셋도 털려\"…국가안보실, 직접 나섰다",
-          "link": "https://zdnet.co.kr/view/?no=20261028180832",
-          "summary": "[지디넷코리아]청와대가 28일 금융권 연쇄 해킹의 2차 피해를 막기 위해 관계기관 합동 긴급점검회의를 열고 보안 여력이 부족한 중소 금융회사의 취약점을 점검하기로 했다.이날 송기호 국가안보실 3차장 주재로 '금융권 연쇄 해킹 대응 긴급점검회의'가 개최됐다.은행, 증권, 보험, 온라인투자연계금융 등 금융권과 가상자산 분야의 침해사고 대응을 총괄하고 조정하기 위해서다. 회의에는 금융위원회, 과학기술정보통신부, 개인정보보호위원회, 금융보안원, 한국인터넷진흥원(KISA) 관계자가 참석했다.참석기관들은 사고별 조사 진행 상황과 조치 내용을 확인하고 유출 정보를 악용한 스미싱과 보이스피싱 등 2차 피해 방지 대책을 논의했다. 외부 연계서버와 사내 업무시스템처럼 유사한 공격경로를 점검하는 방안도 살폈다.이들은 앞으로 공격정보, 조사결과를 실시간 공유하며 공조하기로 했다. 송 차장은 \"금융 분야 해킹은 국민의 재산과 금융 신뢰에 직결되는 만큼, 신속한 대응과 2차 피해 차단에 만전을 기해 달라\"며",
-          "published": "2026-10-28T09:18:59+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
