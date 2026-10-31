@@ -1,46 +1,49 @@
 {
-  "generated_at": "2026-10-30T00:40:49.853292+00:00",
-  "total_articles": 17,
+  "generated_at": "2026-10-31T00:33:27.071754+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KbEpnb0k2elZMNmU4MkhYYm93RHFTejUzVjJ3eUx1b0FudnJyUGZLOWU3aUpQMnBkQ0JTRThKeWtRNGpMcWhzRlJGQVpIa1RobVgzcXFoM1h4a0FpU2pqSV9kenpvUExFdHc?oc=5",
-          "summary": "푸틴 \"머스크는 진정한 천재\" 극찬...러시아판 스타링크 개발은 이제 첫걸음 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-29T07:54:36+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "우주 넘어 클라우드까지...스페이스X, 단숨에 매출 10위권",
+          "link": "https://zdnet.co.kr/view/?no=20261031074349",
+          "summary": "[지디넷코리아]우주발사체와 위성통신 사업을 운영하는 스페이스X가 AI 클라우드 시장에서도 빠르게 존재감을 키우고 있다. 올해 상용 서비스를 시작한 AI 클라우드 사업이 3분기 매출 기준 2군 클라우드 사업자 상위 10위권에 진입했다.시장조사업체 시너지리서치그룹이 발표한 글로벌 클라우드 인프라 서비스 시장 조사에서 스페이스X의 AI·클라우드 사업부인 스페이스X/SI가 3분기 매출 상위 10위권에 올랐다.스페이스X는 지난 2월 일론 머스크의 AI 기업 xAI를 인수한 뒤 AI 클라우드 사업의 상용 서비스를 확대했다. 지난 10월에는 사업부 명칭을 스페이스X/SI로 변경했다.AI 수요 확대에 힘입어 신흥 클라우드 사업자들도 빠르게 성장하고 있다. 시너지리서치그룹은 오라클과 코어위브, 크루소, 네비우스, 플루이드스택, 투게더AI, 엔스케일 등을 3분기 성장률이 높은 사업자로 꼽았다. AI 연산에 특화된 네오클라우드 기업들이 기존 사업자들의 시장 점유율을 잠식하고 있다는 분석이다.앤트로픽과 ",
+          "published": "2026-10-30T22:43:49+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 19,
           "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 10,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a",
+            "earnings"
+          ]
         },
         {
-          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1LZE83QUljak51cHRhb3BsVFR5eFlDUTBqZ1V3QmdBeFk3NmdFcUVScHFQdzVYR05ray11aEEtTWJLZXRBTDA1bzJFYkg3ZjBLbW5BeDBQOEV0LUxuVHlOa0xrWDFoNm5QZHc?oc=5",
-          "summary": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-29T21:29:38+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "머스크·저커버그, AI 대신 '초지능' 사용…트럼프 영향",
+          "link": "https://zdnet.co.kr/view/?no=20261030222234",
+          "summary": "[지디넷코리아]실리콘밸리에서 친 트럼프 성향이 강한 일론 머스크와 마크 저커버그가 인공지능(AI) 대신 초지능(SI)이란 용어를 사용해 눈길을 끌었다.CNBC에 따르면 저커버그는 지난 21일(현지시간) 메타 실적 발표 컨퍼런스콜에서 “개인의 초지능을 모든 사람에게 전달하는 것이 목표다”라고 강조했다.당시 저커버그는 AI란 용어 대신 SI를 사용해 눈길을 끌었다. 물론 메타는 지난 해 이미 메타 초지능 연구소(Meta Superintelligence Labs)란 조직을 만들었기 때문에 저커버그의 초지능 용어 사용이 트럼프 방침 때문인지는 명확하지 않은 상황이다.또 다른 친트럼프 성향 경영자인 일론 머스크 역시 ‘초지능’이란 용어를 사용했다.머스크는 이달 초 스페이스X의 AI 사업 부문 명칭을 스페이스X SI로 변경했다.하지만 그는 테슬라 컨퍼런스 콜에선 휴머노이드 로봇에 대해 언급하면서 AI와 SI를 함께 사용해 눈길을 끌었다.당시 머스크는 “일부 휴머노이드 로봇은 매우 인상적이다”면",
+          "published": "2026-10-30T13:23:08+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 10,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
+            "keyword": 10,
+            "source": 1,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -55,32 +58,32 @@
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia in Talks to Offer Credit Support for Nscale Project",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-in-talks-to-offer-credit-support-for-nscale-project",
-          "summary": "Nvidia Corp. is in discussions to provide credit guarantees for an Nscale data center facility that Anthropic PBC plans to use, according to a person familiar with the matter.",
-          "published": "2026-10-29T23:59:53+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
+          "link": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
+          "summary": "Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in extended trading on Thursday, while Amazon shed 7.3 per cent. Alphabet tumbled 12.6 per cent during the regular session in its worst day on record, dragging the Nasdaq Composite down 1.4 per cent and...",
+          "published": "2026-10-30T09:44:46+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
+            "keyword": 9,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5oNjlrcDBfcHNBTk0wMnlRRkpnWkoyaXJ5cHJSdmNEQU5LWHV2MWZBaFFYODZoNVpDNUgwT2pZTEVtbU1CbldYRVNNMFJXVGhQZE54LXZNLW85MHFFNk5MeC1kUGpJZVJoc1E?oc=5",
-          "summary": "미 정보당국 \"젠슨 황과 접촉한 중국 사업가는 스파이\"…엔비디아 반박 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-29T20:06:36+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as ‘groundless’",
+          "link": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
+          "summary": "China on Friday hit out at reported US intelligence allegations that a suspected Chinese spy had targeted Nvidia chief executive Jensen Huang, dismissing the claims as “groundless speculation” aimed at smearing Beijing. “The relevant report is based on groundless speculation and [is] purely aimed at smearing and slandering China,” Chinese foreign ministry spokesman Guo Jiakun told a regular media briefing in Beijing. The pushback came after US outlet The New York Times reported on Thursday that.",
+          "published": "2026-10-30T10:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -88,59 +91,19 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chinese AI chipmaker Iluvatar CoreX says new GPU matches Nvidia’s H200 as chip gap closes",
-          "link": "https://www.scmp.com/tech/tech-war/article/3372598/ai-chipmaker-iluvatar-corex-says-new-gpu-matches-nvidias-h200-home-grown-push-accelerates",
-          "summary": "Chinese artificial intelligence chipmaker Iluvatar CoreX claims that its new Tiangai 300 graphics processing unit (GPU) can match and even surpass Nvidia’s H200 in real-world AI workloads, highlighting efforts by domestic players to close the technology gap with the US chip giant. In a live demonstration for mainland Chinese media outlets on Wednesday, the Shanghai-based firm showed the Tiangai 300 outperforming the H200 in complex multimodal tasks, including text-to-image and text-to-video...",
-          "published": "2026-10-29T14:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kWnpsTHByN3Fpd3ZHc3JKRTN0dEZ4eHJXdVFHQUVkMnJfY1ozUF94c2R3OUNvVWh3WXQ5U0V3Rk5zVFFKeE1WZVNYdGZrTm13bUE?oc=5",
-          "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-29T14:05:07+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "exec_change"
           ]
         },
         {
-          "title": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14c2hPTU5Da0wxZ3NMVGl5d3RUVTRRMTRSb1lxMnczVXMwaXhrd245SWFiWXFNVlZJV3Rqa0JwM0lpby1FakJESWdHMjMxejZ5STNDTElFb3hqallTbzd3VmlMbDFwNDJuMEtKdERhaVE?oc=5",
-          "summary": "뉴욕증시, 알파벳 실적 소화하며 하락 출발 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-29T14:05:13+00:00",
+          "title": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MjVMUUtlWll1d0pkWFJWZjRHWTB6c20tZm1MbkFiM1JaZFpsUlBLN3hIS0pkWElrbFBnNUtQeXUzd2pzbUVnOTBoZGtHWjZBb24wNXltNFg5VEhYenF3b0FkUmdrb3hBV0kxOG5TZW4?oc=5",
+          "summary": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-10-30T14:02:27+00:00",
           "source_key": "einfomax",
           "source_name": "연합인포맥스",
           "source_weight": 2,
@@ -159,10 +122,10 @@
           ]
         },
         {
-          "title": "Amazon Spending Soars Amid Slowing Growth of Online Business",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/amazon-spending-soars-on-effort-to-meet-demand-for-ai-services",
-          "summary": "Amazon.com Inc. shares dropped after the company reported greater capital spending than anticipated and the slowest growth in the core e-commerce business in three years.",
-          "published": "2026-10-29T20:15:58+00:00",
+          "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
+          "summary": "S&amp;P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s balance sheet stemming from elevated spending tied to artificial intelligence.",
+          "published": "2026-10-30T21:56:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -179,190 +142,103 @@
           "event_labels": []
         },
         {
-          "title": "Apple’s iPhone Maker Confident of Meeting Surge in Duo Demand",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/apple-s-iphone-maker-confident-of-meeting-surge-in-duo-demand",
-          "summary": "Apple Inc.’s main assembly partner Hon Hai Precision Industry Co. expects its expansive global manufacturing presence will help it fulfill growing demand for the US company’s marquee foldable device.",
-          "published": "2026-10-29T23:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Google supplier Biwin, GPU leader Moore Threads see stocks plunge despite revenue surge",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3372535/google-supplier-biwin-gpu-leader-moore-threads-see-stocks-plunge-despite-revenue-surge",
-          "summary": "Shares of Chinese semiconductor suppliers Biwin Storage Technology and Moore Threads tumbled on Thursday alongside a broader rout in mainland technology stocks, despite blockbuster third-quarter revenue driven by strong artificial intelligence demand. Both stocks plunged more than 10 per cent during Thursday morning trading, reversing Wednesday’s rallies of 8.4 per cent for Biwin and 5.8 per cent for Moore Threads. By the end of the day, Biwin was down 15.79 per cent and Moore Threads was down..",
-          "published": "2026-10-29T05:35:00+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "유라클, 애플 맥 스튜디오 기반 AI 코딩 도구 공급 확대",
+          "link": "https://zdnet.co.kr/view/?no=20261030175723",
+          "summary": "[지디넷코리아]유라클이 애플 맥 스튜디오(Mac Studio)를 활용한 인공지능(AI) 코딩 도구 공급을 확대한다. 기업이 별도 GPU 서버를 구축하지 않고도 내부 개발 환경에서 AI를 활용할 수 있도록 애플 공인 파트너와 협력한다.유라클(대표 조준희, 권태일)은 지난 21일부터 이틀간 열린 '애플 파트너 인에이블먼트(Apple Partner Enablement)' 행사에서 애플 공인 파트너(APN)를 대상으로 AI 코딩 솔루션 '아테나 코드어시스턴트'를 소개했다고 30일 밝혔다.아테나 코드어시스턴트는 AI 모델을 기업 내부 장비에서 실행하는 개발 지원 도구다. 소스코드를 외부 클라우드로 전송하지 않고 코드 작성과 수정, 설계 검토, 질의응답 등을 수행할 수 있다. 필요에 따라 외부 상용 AI 모델과 연동하는 기능도 지원한다.이번에 소개한 구성은 맥 스튜디오의 통합 메모리 구조를 활용한 것이 특징이다. CPU와 GPU가 메모리를 공유해 별도 고성능 GPU 서버 없이도 AI 모델을 구",
+          "published": "2026-10-30T08:57:33+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개",
+          "link": "https://zdnet.co.kr/view/?no=20261030214136",
+          "summary": "[지디넷코리아]엔비디아가 현지 시각 10월 28일 음성을 글로 옮기는 오픈 가중치 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)'를 공개했다. 오픈 가중치 모델은 학습을 마친 모델 파일을 공개해 누구나 내려받아 실행할 수 있는 모델이다. 네모트론 3.5 트랜스크라이브는 40개 언어 받아쓰기를 지원하고, 영어와 대부분의 지원 언어 사이 음성 번역도 처리한다.전체 매개변수는 약 340억 개지만, 작업마다 일부 전문가 모듈만 작동하는 전문가 혼합(MoE) 구조여서 실제 연산에 참여하는 매개변수는 약 43억 개다. 최대 1시간 분량의 녹음을 한 번에 처리하고, 화자를 구분해 누가 말했는지 표시한다. 테크크런치는 최대 8명의 화자를 구분할 수 있다고 전했으며, 실시간 음성은 지원하지 않고 녹음 파일만 처리한다고 설명했다.엔비디아가 공개한 단어 오류율은 영어 오픈 ASR 9개 데이터셋 평균 4.71%, 7개 언어 평균 4.62%를 기록했다. 단어 오류율",
+          "published": "2026-10-30T12:41:36+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Chevron Keeps Microsoft Data Center Plan Despite Texas Pause",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause",
+          "summary": "Chevron Corp. expects to power up a Microsoft Corp. data center project in West Texas on schedule despite Governor Greg Abbott’s suspension of digital infrastructure permits.",
+          "published": "2026-10-30T10:41:11+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, 'SNS중독·우울증' 청소년 원고와 합의…스냅은 재판 진행 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqSldHV3VWUFNBLVpmcDFPdVZzQmM0dW15V0VwTGxtelRzSmVzbkxwTzJza1l6Nk9LSk9McE0zd2pFbmhlVFpfVXpCTUVMYnlLd0E?oc=5",
+          "summary": "메타, 'SNS중독·우울증' 청소년 원고와 합의…스냅은 재판 진행 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-10-30T18:26:00+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 5,
-      "articles": [
-        {
-          "title": "두나무·FIU 항소심 첫 변론…'미신고 사업자 거래 차단 의무' 공방",
-          "link": "https://zdnet.co.kr/view/?no=20261029180236",
-          "summary": "[지디넷코리아]가상자산 거래소 업비트 운영사 두나무가 금융정보분석원(FIU)을 상대로 제기한 행정소송 1심에서 승소한 가운데, FIU가 항소심에서 두나무의 미필적 고의와 중과실을 주장하며 1심 판결에 반박했다.29일 서울고등법원 제7행정부에서 열린 두나무와 FIU 간 항소심 변론기일에서 FIU 측 변호인단은 “원고에게는 중과실에 해당하는 이유가 있다”며 “1심 판결 결론과 이유 모두 수긍할 수 없다”고 주장했다.이번 항소심은 지난 4월 두나무가 FIU를 상대로 제기한 영업일부정지 처분 취소 행정소송 1심에서 승소한 이후 FIU가 항소하면서 진행됐다.당시 1심 재판부는 FIU가 두나무에 제재를 부과할 법적 근거가 충분하지 않다고 판단해 두나무의 손을 들어줬다.그러나 이날 항소심에서 FIU 측은 두나무가 미신고 해외 가상자산사업자와의 거래 금지 의무를 위반할 가능성을 인식하고도 적극적인 조치를 취하지 않았다고 주장했다.FIU 측 변호인단은 “원고는 미신고 해외 가상자산사업자와의 거래 금",
-          "published": "2026-10-29T09:09:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 9,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Coinbase Returns to Profitability While Posting Another Revenue Drop",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/coinbase-returns-to-profitability-while-posting-another-revenue-drop",
-          "summary": "Coinbase Global Inc. returned to profitability for the first time in a year while posting a quarterly decline in revenue, showing how closely the largest US digital-asset platform’s fortunes remain wedded to crypto markets.",
-          "published": "2026-10-29T20:32:50+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Binance Freezes $2.5 Billion After Suspected Hack; Bitcoin Sinks",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-29/binance-founder-says-possible-hack-of-exchange-bitcoin-falls",
-          "summary": "A suspected hack of Binance, the world’s largest crypto exchange, prompted it to freeze more than $2.5 billion in assets and sent the price of digital tokens tumbling. Binance said it hasn’t confirmed any impact to customer funds.",
-          "published": "2026-10-29T21:25:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“美 중간선거 끝나면 2배 올랐다?”…미장과 비트코인 과거 상승률 보니 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qX3lHMjRXM1pSTHlzYnl0LWJ1WGZIMzgtR1pSZGJ2MEV0REUwZW9IbVJOX0g2SXZ0eEVfTGNReUlHaHZiV1dFX2ZFTlVfWEl5LVE?oc=5",
-          "summary": "“美 중간선거 끝나면 2배 올랐다?”…미장과 비트코인 과거 상승률 보니 &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-29T11:01:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "빗썸 사내 그룹웨어 해킹…이용자·임직원 7159명 정보 유출",
-          "link": "https://zdnet.co.kr/view/?no=20261029183404",
-          "summary": "[지디넷코리아]국내 가상자산 거래소 빗썸의 사내 그룹웨어 시스템이 해킹당해 이용자와 임직원 등 총 7159명의 개인정보가 유출되는 사고가 발생했다.29일 빗썸에 따르면 이번 사고로 개인정보가 유출된 이용자는 총 6444명이다. 이 가운데 844명의 개인정보가 노출됐으며, 나머지 5600명 정보는 암호화된 파일 형태로 유출됐다.유출된 이용자 개인정보에는 성명, 휴대전화번호, 이메일 주소, 주민등록번호, 운전면허번호, 계좌번호, 신분증 사본 등이 포함됐다. 다만 구체적인 유출 정보 범위는 이용자별로 다른 것으로 파악됐다.이와 함께 임직원 715명 정보도 유출됐다.이번 사고는 지난 27일 오전 11시 28분부터 오후 12시 27분 사이에 발생했다. 빗썸은 같은 날 오후 12시 14분 비정상적인 접근을 처음 인지했다.빗썸은 사고 인지 직후 공격자 접근 경로를 차단하고 모바일 그룹웨어 사용을 전면 중단하는 등 긴급 보안 조치를 시행했다. 현재 서비스 개발사와 함께 보안 점검 및 패치를 진행하",
-          "published": "2026-10-29T09:34:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "네이버, 언론사 뉴스편집 다양화…\"심층 기사 노출도 확대\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95M3pUaUNZcVNlLWM0b2YycGR0cjYyRnhxOVYwSkJ3Q3pJbFFLeHdQZzd4NnR5SW5hVHUzSlNaaElBQkdOTEtfVGVzZFBOamUtbkY1ck5KbFZWellCRUNQcUlSWWZfeG5RcnYyeFYyZ2I?oc=5",
-          "summary": "네이버, 언론사 뉴스편집 다양화…\"심층 기사 노출도 확대\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-30T00:30:39+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYTDlqQ3FrRmg4VGxMRTFOdlZ6MzA1SkRIOWJIempkVTRVYUdkOHNjVU5mUmFOdHFuMjdFeXdTb0tnbTQ0M1FES2FzQW14MTF5NGxDVENBSnlUVWZaTHpaZDhqblJqZHFDcEE?oc=5",
-          "summary": "카카오, 개인 AI 에이전트용 임베딩 모델 2종 오픈 공개 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-29T07:50:13+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "“얼굴이 티켓이자 지갑이라고?”…네이버가 성수동서 펼친 승부수 [현장] - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IbDBaWE9PMXg5ejdJRmFsck9aOFl4SDRHY2NTX2lCZV93cWJ0Yno5ejYxMUxzWndSTGtmQld5aktEeUozOEU1NlRZZjRjb1M5VFc5Vg?oc=5",
+          "summary": "“얼굴이 티켓이자 지갑이라고?”…네이버가 성수동서 펼친 승부수 [현장] &nbsp;&nbsp; 매일경제",
+          "published": "2026-10-30T12:19:18+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
