@@ -1,55 +1,30 @@
 {
-  "generated_at": "2026-10-31T00:33:27.071754+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-10-31T23:58:10.752500+00:00",
+  "total_articles": 12,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "우주 넘어 클라우드까지...스페이스X, 단숨에 매출 10위권",
-          "link": "https://zdnet.co.kr/view/?no=20261031074349",
-          "summary": "[지디넷코리아]우주발사체와 위성통신 사업을 운영하는 스페이스X가 AI 클라우드 시장에서도 빠르게 존재감을 키우고 있다. 올해 상용 서비스를 시작한 AI 클라우드 사업이 3분기 매출 기준 2군 클라우드 사업자 상위 10위권에 진입했다.시장조사업체 시너지리서치그룹이 발표한 글로벌 클라우드 인프라 서비스 시장 조사에서 스페이스X의 AI·클라우드 사업부인 스페이스X/SI가 3분기 매출 상위 10위권에 올랐다.스페이스X는 지난 2월 일론 머스크의 AI 기업 xAI를 인수한 뒤 AI 클라우드 사업의 상용 서비스를 확대했다. 지난 10월에는 사업부 명칭을 스페이스X/SI로 변경했다.AI 수요 확대에 힘입어 신흥 클라우드 사업자들도 빠르게 성장하고 있다. 시너지리서치그룹은 오라클과 코어위브, 크루소, 네비우스, 플루이드스택, 투게더AI, 엔스케일 등을 3분기 성장률이 높은 사업자로 꼽았다. AI 연산에 특화된 네오클라우드 기업들이 기존 사업자들의 시장 점유율을 잠식하고 있다는 분석이다.앤트로픽과 ",
-          "published": "2026-10-30T22:43:49+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fUElUUXc1U2x2WnVFM2F6SDhMYl94QXZhZ19XVTdrdVZsNkFsY3BtUU9hMnpJYnFVU0VaZTNrQnVtaUlYd1l2N01UVFNBZEVTYkotbUlaWThGNVBmNklvRV9PQWItUHl6YkE?oc=5",
+          "summary": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-31T10:58:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 19,
+          "score": 8,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a",
-            "earnings"
-          ]
-        },
-        {
-          "title": "머스크·저커버그, AI 대신 '초지능' 사용…트럼프 영향",
-          "link": "https://zdnet.co.kr/view/?no=20261030222234",
-          "summary": "[지디넷코리아]실리콘밸리에서 친 트럼프 성향이 강한 일론 머스크와 마크 저커버그가 인공지능(AI) 대신 초지능(SI)이란 용어를 사용해 눈길을 끌었다.CNBC에 따르면 저커버그는 지난 21일(현지시간) 메타 실적 발표 컨퍼런스콜에서 “개인의 초지능을 모든 사람에게 전달하는 것이 목표다”라고 강조했다.당시 저커버그는 AI란 용어 대신 SI를 사용해 눈길을 끌었다. 물론 메타는 지난 해 이미 메타 초지능 연구소(Meta Superintelligence Labs)란 조직을 만들었기 때문에 저커버그의 초지능 용어 사용이 트럼프 방침 때문인지는 명확하지 않은 상황이다.또 다른 친트럼프 성향 경영자인 일론 머스크 역시 ‘초지능’이란 용어를 사용했다.머스크는 이달 초 스페이스X의 AI 사업 부문 명칭을 스페이스X SI로 변경했다.하지만 그는 테슬라 컨퍼런스 콜에선 휴머노이드 로봇에 대해 언급하면서 AI와 SI를 함께 사용해 눈길을 끌었다.당시 머스크는 “일부 휴머노이드 로봇은 매우 인상적이다”면",
-          "published": "2026-10-30T13:23:08+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -58,18 +33,78 @@
       "count": 8,
       "articles": [
         {
-          "title": "Amid brutal sell-off, what comes next for Google, Amazon and other Big Tech titans?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3372737/amid-brutal-sell-what-comes-next-google-amazon-and-other-big-tech-titans",
-          "summary": "Soaring artificial intelligence revenues have failed to shield Intel, Amazon and Google’s parent company Alphabet from a brutal Wall Street sell-off, as their latest quarterly results deepened investor jitters over mounting capital spending and delayed returns. Intel plunged about 23 per cent in extended trading on Thursday, while Amazon shed 7.3 per cent. Alphabet tumbled 12.6 per cent during the regular session in its worst day on record, dragging the Nasdaq Composite down 1.4 per cent and...",
-          "published": "2026-10-30T09:44:46+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
+          "summary": "OpenAI has cut its fundraising target by $10 billion as an AI stock selloff and rival Anthropic PBC’s impending public listing complicate its efforts to secure investor commitments, the Financial Times reported.",
+          "published": "2026-10-31T04:00:40+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "디에스앤지, 고대 해커톤 '2026 InThon' B300 서버 지원",
+          "link": "https://zdnet.co.kr/view/?no=20261031121310",
+          "summary": "[지디넷코리아]AI 인프라 전문기업 디에스앤지(DS&amp;G, 대표 서정열)는 10월 31일부터 11월 1일까지 고려대학교 정보대학이 개최하는 ‘2026 InThon’ 해커톤·데이터톤 대회에 엔비디아 'HGX B300 8-GPU' 서버 2대를 후원한다.올해 4회째를 맞은 ‘2026 InThon’은 고려대학교 정보대학, 정보대학 학생회, AI 중심대학이 공동 주관한다. SW·AI 전공 학생 약 150명이 해커톤과 데이터톤에 나눠 참가하며, 해커톤 팀은 무박 2일 24시간 안에 주제에 맞춰 실제로 동작하는 앱이나 웹 서비스를 만들어 제출한다.디에스앤지는 엔비디아의 파트너(NPN, NVIDIA Partner Network) 중 엘리트 파트너이자 슈퍼마이크로 국내 최대 총판이기도 하다. 엔비디아는 자사 파트너를 Registered, Preferred, Elite로 구분해 운영하고 있다. 엘리트(Elite)가 가장 높은 등급이다. Registered는 기본적인 엔비디아 파트너 단계고, Pr",
+          "published": "2026-10-31T03:13:10+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
-            "keyword": 9,
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
+          "summary": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
+          "published": "2026-10-31T06:40:29+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRWV2bTdBLW5BX0h2UWpIM3hkcUFoenItQzcxekEwdUhPNTV3ZDFNZGZ5RW1vMEhHazFDX05OVmNMdUhmdDNOLTk4VHlULXNFVGhTeG00VnhIYWtybTNIMmNOZ3A1VUtFN3c?oc=5",
+          "summary": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-31T08:01:47+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -78,63 +113,19 @@
           "event_labels": []
         },
         {
-          "title": "China dismisses US report of suspected spy targeting Nvidia CEO Jensen Huang as ‘groundless’",
-          "link": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
-          "summary": "China on Friday hit out at reported US intelligence allegations that a suspected Chinese spy had targeted Nvidia chief executive Jensen Huang, dismissing the claims as “groundless speculation” aimed at smearing Beijing. “The relevant report is based on groundless speculation and [is] purely aimed at smearing and slandering China,” Chinese foreign ministry spokesman Guo Jiakun told a regular media briefing in Beijing. The pushback came after US outlet The New York Times reported on Thursday that.",
-          "published": "2026-10-30T10:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pS3pSS0VUdnlLRVRwX0ttQXhxMUxWOHdoa2k1ODdRdDhpa1JnR3doY1hmUkVXWXI2MU1JdG9XVGh3M1RTdDhqWElnd0tzZzVvXzZBQ0xWVGVaR0g2aTVuUEt4S0MzWWtUV1E?oc=5",
+          "summary": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-31T23:13:28+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84MjVMUUtlWll1d0pkWFJWZjRHWTB6c20tZm1MbkFiM1JaZFpsUlBLN3hIS0pkWElrbFBnNUtQeXUzd2pzbUVnOTBoZGtHWjZBb24wNXltNFg5VEhYenF3b0FkUmdrb3hBV0kxOG5TZW4?oc=5",
-          "summary": "뉴욕증시, 아마존·인텔 실적 부진에 하락 출발 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-10-30T14:02:27+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Meta’s Rating Outlook Cut to Negative by S&P on AI Spending",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-30/meta-s-credit-rating-outlook-downgraded-to-negative-by-s-p",
-          "summary": "S&amp;P Global Ratings took an early step toward potentially downgrading Meta Platforms Inc.’s credit rating within the next two years, amid growing pressure on the tech company’s balance sheet stemming from elevated spending tied to artificial intelligence.",
-          "published": "2026-10-30T21:56:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -142,106 +133,55 @@
           "event_labels": []
         },
         {
-          "title": "유라클, 애플 맥 스튜디오 기반 AI 코딩 도구 공급 확대",
-          "link": "https://zdnet.co.kr/view/?no=20261030175723",
-          "summary": "[지디넷코리아]유라클이 애플 맥 스튜디오(Mac Studio)를 활용한 인공지능(AI) 코딩 도구 공급을 확대한다. 기업이 별도 GPU 서버를 구축하지 않고도 내부 개발 환경에서 AI를 활용할 수 있도록 애플 공인 파트너와 협력한다.유라클(대표 조준희, 권태일)은 지난 21일부터 이틀간 열린 '애플 파트너 인에이블먼트(Apple Partner Enablement)' 행사에서 애플 공인 파트너(APN)를 대상으로 AI 코딩 솔루션 '아테나 코드어시스턴트'를 소개했다고 30일 밝혔다.아테나 코드어시스턴트는 AI 모델을 기업 내부 장비에서 실행하는 개발 지원 도구다. 소스코드를 외부 클라우드로 전송하지 않고 코드 작성과 수정, 설계 검토, 질의응답 등을 수행할 수 있다. 필요에 따라 외부 상용 AI 모델과 연동하는 기능도 지원한다.이번에 소개한 구성은 맥 스튜디오의 통합 메모리 구조를 활용한 것이 특징이다. CPU와 GPU가 메모리를 공유해 별도 고성능 GPU 서버 없이도 AI 모델을 구",
-          "published": "2026-10-30T08:57:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 40개 언어 받아쓰는 오픈 음성인식 모델 공개",
-          "link": "https://zdnet.co.kr/view/?no=20261030214136",
-          "summary": "[지디넷코리아]엔비디아가 현지 시각 10월 28일 음성을 글로 옮기는 오픈 가중치 AI 모델 '네모트론 3.5 트랜스크라이브(Nemotron 3.5 Transcribe)'를 공개했다. 오픈 가중치 모델은 학습을 마친 모델 파일을 공개해 누구나 내려받아 실행할 수 있는 모델이다. 네모트론 3.5 트랜스크라이브는 40개 언어 받아쓰기를 지원하고, 영어와 대부분의 지원 언어 사이 음성 번역도 처리한다.전체 매개변수는 약 340억 개지만, 작업마다 일부 전문가 모듈만 작동하는 전문가 혼합(MoE) 구조여서 실제 연산에 참여하는 매개변수는 약 43억 개다. 최대 1시간 분량의 녹음을 한 번에 처리하고, 화자를 구분해 누가 말했는지 표시한다. 테크크런치는 최대 8명의 화자를 구분할 수 있다고 전했으며, 실시간 음성은 지원하지 않고 녹음 파일만 처리한다고 설명했다.엔비디아가 공개한 단어 오류율은 영어 오픈 ASR 9개 데이터셋 평균 4.71%, 7개 언어 평균 4.62%를 기록했다. 단어 오류율",
-          "published": "2026-10-30T12:41:36+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Chevron Keeps Microsoft Data Center Plan Despite Texas Pause",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-30/chevron-keeps-microsoft-data-center-timeline-despite-texas-pause",
-          "summary": "Chevron Corp. expects to power up a Microsoft Corp. data center project in West Texas on schedule despite Governor Greg Abbott’s suspension of digital infrastructure permits.",
-          "published": "2026-10-30T10:41:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타, 'SNS중독·우울증' 청소년 원고와 합의…스냅은 재판 진행 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqSldHV3VWUFNBLVpmcDFPdVZzQmM0dW15V0VwTGxtelRzSmVzbkxwTzJza1l6Nk9LSk9McE0zd2pFbmhlVFpfVXpCTUVMYnlLd0E?oc=5",
-          "summary": "메타, 'SNS중독·우울증' 청소년 원고와 합의…스냅은 재판 진행 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-10-30T18:26:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJeDFHSi1oR1kwMnlsUlcxM1NJYnlHN1Q2YnoyZ2ljVm8xblRrckJYYm5JbWFoeUNja01WYjIyc0xOQW1jZXY2aGg3RC1pNWJmN0JkUm1XQS14aG0wWnhkeHA0aUZjaXNqUFE?oc=5",
+          "summary": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-31T08:38:01+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "“얼굴이 티켓이자 지갑이라고?”…네이버가 성수동서 펼친 승부수 [현장] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9IbDBaWE9PMXg5ejdJRmFsck9aOFl4SDRHY2NTX2lCZV93cWJ0Yno5ejYxMUxzWndSTGtmQld5aktEeUozOEU1NlRZZjRjb1M5VFc5Vg?oc=5",
-          "summary": "“얼굴이 티켓이자 지갑이라고?”…네이버가 성수동서 펼친 승부수 [현장] &nbsp;&nbsp; 매일경제",
-          "published": "2026-10-30T12:19:18+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95TmdtYnpNVE90d1hLU0c4azRvZ2xORmJPZmJienhZMTk5Q2p0Zi1fQTlLVkJ2ck9jeC14LU5pcUxCR2wwZC03ZmVnSk50Y2tLV3NzSXJteFREdEN3SlNjMVc1dUYtY3p4dmc?oc=5",
+          "summary": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송 &nbsp;&nbsp; AI타임스",
+          "published": "2026-10-31T09:05:26+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
+          "link": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
+          "summary": "Apple’s long-awaited artificial intelligence features will be officially launched in China in December, ending two years of regulatory uncertainty as the US tech giant seeks to bring advanced technologies to its second-largest market with the help of Alibaba Group Holding. The first batch of Apple Intelligence services will roll out to Chinese iPhone users alongside the iOS 27.3 update in December, following an open beta test with developers starting November 4, the US company said in a...",
+          "published": "2026-10-31T10:02:17+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -253,6 +193,77 @@
           "event_labels": []
         }
       ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 3,
+      "articles": [
+        {
+          "title": "스테이블코인 결제 나선 카드업계…해외 발행사 동결권 변수",
+          "link": "https://zdnet.co.kr/view/?no=20261030151710",
+          "summary": "[지디넷코리아]국내 카드업계가 스테이블코인 기반 지급결제 사업을 확대하는 가운데 해외 발행사 자산동결 권한이 새로운 검토 과제로 떠오를 전망이다.지난 29일(현지시간) 글로벌 가상자산거래소 '바이낸스'에서 해킹으로 57억 달러 이상 가상자산이 탈취된 정황이 포착됐다. 가상자산에는 테더와 서클 등이 발행한 스테이블코인도 포함됐다. 스테이블코인 발행사는 해킹 사고 이후 관련 자산을 동결하면서 거래소와 별도로 발행사가 자산 이전을 통제할 수 있다는 점이 재확인됐다. 서클 USDC 약관은 특정 블록체인 주소에 대한 자산 이전을 제한할 수 있는 권한을 명시하고 있다. 이용자가 충분한 스테이블코인을 보유하더라도 해당 주소가 동결되면 자산 이전이 제한될 수 있는 것이다.이 때문에 외부 발행 스테이블코인을 결제에 활용하는 경우에는 발행사의 자산동결 권한을 고려해야 할 것으로 관측된다. 국내 카드사는 스테이블코인 지급 결제·정산 기술검증(PoC)을 진행 중이다. 고객이 보유한 스테이블코인으로 결제한",
+          "published": "2026-10-31T01:00:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
+          "link": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
+          "summary": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
+          "published": "2026-10-31T21:59:09+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
+          "link": "https://zdnet.co.kr/view/?no=20261031132848",
+          "summary": "[지디넷코리아]올가을 국내 금융권에서 은행, 저축은행, 캐피탈사, 증권사, 가상자산 거래소까지 침해 사고가 계속 일어났다. 금융당국이 10월 중순까지 파악한 침해 금융회사는 16곳이다. 1년 전에는 한 카드사에서 약 300만 명의 정보가 새어 나갔다. 피해를 본 회사들은 대부분 보안 인증을 받았고, 장비를 갖췄으며, 정기적으로 점검도 받았다. 사고가 많아진 이유는 누군가 게을러서가 아니다. 사람이 직접 막는 보안 체계가 한계에 부딪혔다. 이 체계를 무너뜨린 쪽은 국가 해킹 부대나 큰 범죄 조직이 아니다. AI를 사용하는 누구나 가능한 일이다.1841년 1월, 광저우로 들어가는 주강 입구에서 영국 철제 증기선 네메시스호가 청나라 정크선 15척과 싸웠다. 네메시스호는 660톤에 대포 여섯 문을 실었고, 바람이나 물때를 기다리지 않고 원하는 때 원하는 방향으로 움직였다. 배 밑이 얕아 범선이 들어갈 수 없는 강도 거슬러 올라갔다. 그날 청나라 수군은 정크선 11척을 잃었고, 중국인들은 이",
+          "published": "2026-10-31T04:28:48+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
