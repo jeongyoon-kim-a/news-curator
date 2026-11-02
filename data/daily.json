@@ -1,71 +1,72 @@
 {
-  "generated_at": "2026-10-31T23:58:10.752500+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-11-02T00:24:54.488582+00:00",
+  "total_articles": 8,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
-      "articles": [
-        {
-          "title": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fUElUUXc1U2x2WnVFM2F6SDhMYl94QXZhZ19XVTdrdVZsNkFsY3BtUU9hMnpJYnFVU0VaZTNrQnVtaUlYd1l2N01UVFNBZEVTYkotbUlaWThGNVBmNklvRV9PQWItUHl6YkE?oc=5",
-          "summary": "머스크, 놀란에 맞서 AI판 '오디세이' 공개…평가 엇갈려 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-31T10:58:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
-          "summary": "OpenAI has cut its fundraising target by $10 billion as an AI stock selloff and rival Anthropic PBC’s impending public listing complicate its efforts to secure investor commitments, the Financial Times reported.",
-          "published": "2026-10-31T04:00:40+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Hackers are running riot with AI. Its makers want to cash in",
+          "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
+          "summary": "OpenAI and Anthropic spy a big opportunity in cyber-security",
+          "published": "2026-11-01T21:41:42+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 15,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 1,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "디에스앤지, 고대 해커톤 '2026 InThon' B300 서버 지원",
-          "link": "https://zdnet.co.kr/view/?no=20261031121310",
-          "summary": "[지디넷코리아]AI 인프라 전문기업 디에스앤지(DS&amp;G, 대표 서정열)는 10월 31일부터 11월 1일까지 고려대학교 정보대학이 개최하는 ‘2026 InThon’ 해커톤·데이터톤 대회에 엔비디아 'HGX B300 8-GPU' 서버 2대를 후원한다.올해 4회째를 맞은 ‘2026 InThon’은 고려대학교 정보대학, 정보대학 학생회, AI 중심대학이 공동 주관한다. SW·AI 전공 학생 약 150명이 해커톤과 데이터톤에 나눠 참가하며, 해커톤 팀은 무박 2일 24시간 안에 주제에 맞춰 실제로 동작하는 앱이나 웹 서비스를 만들어 제출한다.디에스앤지는 엔비디아의 파트너(NPN, NVIDIA Partner Network) 중 엘리트 파트너이자 슈퍼마이크로 국내 최대 총판이기도 하다. 엔비디아는 자사 파트너를 Registered, Preferred, Elite로 구분해 운영하고 있다. 엘리트(Elite)가 가장 높은 등급이다. Registered는 기본적인 엔비디아 파트너 단계고, Pr",
-          "published": "2026-10-31T03:13:10+00:00",
+          "title": "AI 투자 열풍의 그늘…빅테크 곳간에 경고등",
+          "link": "https://zdnet.co.kr/view/?no=20261101120650",
+          "summary": "[지디넷코리아]알파벳, 아마존, 메타 등 주요 빅테크가 인공지능(AI) 데이터센터에 막대한 자금을 투입하면서 현금흐름이 악화하고 있다. 클라우드 사업은 빠르게 성장하고 있지만 일부 기업은 영업활동으로 벌어들인 현금보다 설비투자에 더 많은 자금을 사용하면서 투자비 회수와 수익성에 대한 우려가 커지고 있다.주요 하이퍼스케일러 4곳 중 3곳이 3분기 잉여현금흐름(FCF) 적자를 기록하면서 시장의 관심도 AI 투자 규모와 매출 성장률에서 실제 투자 성과와 현금 창출 능력으로 이동하는 모습이다.지난달 31일(현지시간) 블룸버그통신에 따르면 미국 주요 빅테크 기업 3분기 실적 발표 이후 AI 투자 부담에 대한 시장의 경계심이 커졌다. 기술주 중심 나스닥100지수는 10월 한 달간 6.7% 하락하며 지난해 3월 이후 가장 큰 월간 낙폭을 기록했다.실제 빅테크의 클라우드 사업은 높은 성장세를 이어갔다. 3분기 구글클라우드 매출은 전년 동기 대비 103%, 아마존웹서비스(AWS)는 39%, 마이크로",
+          "published": "2026-11-01T03:33:13+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 14,
           "score_breakdown": {
             "keyword": 10,
             "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+          "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+          "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle multiple tasks with minimal human intervention, as it steps up competition with US rivals OpenAI and Anthropic in developing coding assistants. The proposed system, dubbed super agent, aimed to reduce the need for humans to coordinate multiple AI agents and monitor their progress, addressing a key bottleneck in managing today’s increasingly complex workflows, according to a...",
+          "published": "2026-11-01T10:00:26+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -73,10 +74,32 @@
           "event_labels": []
         },
         {
-          "title": "OpenAI’s Altman Meets Samsung Executives as Chip Crunch Deepens",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-31/openai-sam-altman-samsung-executives-memory-crunch-deepens",
-          "summary": "OpenAI Chief Executive Officer Sam Altman met with Samsung Group’s top executives in South Korea on Saturday to deepen cooperation on memory chips and AI infrastructure as global shortages intensify.",
-          "published": "2026-10-31T06:40:29+00:00",
+          "title": "[ZD브리핑] 반도체·로봇·수소 산업 행사 풍성…통신·게임 등 실적 주목",
+          "link": "https://zdnet.co.kr/view/?no=20261101115152",
+          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 정보기술(IT)·산업계에서는 반도체 패키징과 로봇, 수소 등 첨단산업 최신 기술과 사업 전략을 살펴볼 수 있는 대형 행사가 잇따릅니다. 부산에서 열리는 국제학술대회 'ISMP 2026'에는 오픈AI와 SK하이닉스, 엔비디아 등 주요 기업이 참여하며, 일산에서는 국내 최대 로봇 전시회 '로보월드 2026'과 '월드 하이드로젠 엑스포 2026'이 개최됩니다. 차세대 양자컴퓨팅 플랫폼 공개와 인공지능(AI) 데이터센터 관련 행사도 예정돼 있습니다.주요 기업들의",
+          "published": "2026-11-01T03:19:11+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+          "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
+          "published": "2026-11-01T03:48:18+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -93,19 +116,41 @@
           "event_labels": []
         },
         {
-          "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRWV2bTdBLW5BX0h2UWpIM3hkcUFoenItQzcxekEwdUhPNTV3ZDFNZGZ5RW1vMEhHazFDX05OVmNMdUhmdDNOLTk4VHlULXNFVGhTeG00VnhIYWtybTNIMmNOZ3A1VUtFN3c?oc=5",
-          "summary": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-31T08:01:47+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "메타메트릭스와 레디, 국내 영어 문해력 협력 확대",
+          "link": "https://zdnet.co.kr/view/?no=20261102001003",
+          "summary": "[지디넷코리아] 한국 내 Lexile Express Test 독점 유통사인 레디, 연구에 기반한 도구를 제공해 영어 읽기 능력을 평가하고, 학생별 수준에 적합한 텍스트를 연결하며, 읽기 능력의 향상 모니터링 예정 노스캐롤라이나 더럼 및 한국 서울, 2026년 11월 1일 /PRNewswire/ -- Lexile&reg; Framework for Reading 개발사인 메타메트릭스(MetaMetrics&reg;)와 서울에 본사를 둔 교육 기술 기업 레디 코퍼레이션(LEDDI Corporation, 이하 레디)이 파트너십 확대를 발표했다. 이번 협약에 따라 레디는 한국에서 Lexile Framework for Reading의 컴퓨터 적응형 및 고정형 Express Test를 독점 공급하는 공식 유통사가 된다. LEDDI Corporation is dedicated to providing educators with innovative and easy-to-use tools for teac",
+          "published": "2026-11-01T15:10:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
+          ]
+        },
+        {
+          "title": "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
+          "link": "https://zdnet.co.kr/view/?no=20261101134510",
+          "summary": "[지디넷코리아]앞으로 웹사이트 운영자가 설정 한번 만으로 주요 인공지능(AI) 기업에 콘텐츠 학습 거부 의사를 전달할 수 있게 된다.그동안 AI 기업마다 별도의 크롤러 차단 규칙을 설정해야 했지만 앞으로는 공통 규칙을 적용해 여러 기업에 한꺼번에 학습 거부 의사를 표시할 수 있다.1일 오픈AI, 구글, 마이크로소프트, 앤트로픽은 웹사이트의 AI 학습 관련 공통 신호를 수용하겠다는 계획을 발표했다. 국제인터넷표준화기구(IETF)의 AI 선호도(AIPREF) 작업반에서 논의 중인 기술을 기반으로 한다.핵심은 웹사이트의 '로봇 배제 표준(robots.txt)' 파일에 AI 학습 거부 의사를 공통으로 표시하는 것이다. robots.txt는 검색엔진이나 AI 크롤러가 웹사이트 콘텐츠에 접근하는 방식을 설정하는 파일이다.기존에는 오픈AI의 'GPT봇', 구글의 '구글 익스텐디드' 등 기업별로 다른 크롤러나 정책 식별자를 지정해 각각 규칙을 관리해야 했다.새로운 방식은 공통 식별자를 사용해 여러",
+          "published": "2026-11-01T05:44:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 6,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -113,80 +158,20 @@
           "event_labels": []
         },
         {
-          "title": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pS3pSS0VUdnlLRVRwX0ttQXhxMUxWOHdoa2k1ODdRdDhpa1JnR3doY1hmUkVXWXI2MU1JdG9XVGh3M1RTdDhqWElnd0tzZzVvXzZBQ0xWVGVaR0g2aTVuUEt4S0MzWWtUV1E?oc=5",
-          "summary": "구글, 인터넷 없이 작동하는 '제미나이 라이브' 개발 중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-31T23:13:28+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "Apple Touch-Screen MacBook Pro Impressions; Software Division Gaming Shake-Up",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
+          "summary": "Also: The latest on the cracked iPhone Duo screens.",
+          "published": "2026-11-01T15:00:01+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJeDFHSi1oR1kwMnlsUlcxM1NJYnlHN1Q2YnoyZ2ljVm8xblRrckJYYm5JbWFoeUNja01WYjIyc0xOQW1jZXY2aGg3RC1pNWJmN0JkUm1XQS14aG0wWnhkeHA0aUZjaXNqUFE?oc=5",
-          "summary": "구글, 제미나이 채팅에서 문서·PDF 직접 편집 기능 추가 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-31T08:38:01+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95TmdtYnpNVE90d1hLU0c4azRvZ2xORmJPZmJienhZMTk5Q2p0Zi1fQTlLVkJ2ck9jeC14LU5pcUxCR2wwZC03ZmVnSk50Y2tLV3NzSXJteFREdEN3SlNjMVc1dUYtY3p4dmc?oc=5",
-          "summary": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송 &nbsp;&nbsp; AI타임스",
-          "published": "2026-10-31T09:05:26+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
-          "link": "https://www.scmp.com/tech/big-tech/article/3372831/apple-intelligence-roll-out-iphones-china-december-alibaba-backing",
-          "summary": "Apple’s long-awaited artificial intelligence features will be officially launched in China in December, ending two years of regulatory uncertainty as the US tech giant seeks to bring advanced technologies to its second-largest market with the help of Alibaba Group Holding. The first batch of Apple Intelligence services will roll out to Chinese iPhone users alongside the iOS 27.3 update in December, following an open beta test with developers starting November 4, the US company said in a...",
-          "published": "2026-10-31T10:02:17+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -196,69 +181,8 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "스테이블코인 결제 나선 카드업계…해외 발행사 동결권 변수",
-          "link": "https://zdnet.co.kr/view/?no=20261030151710",
-          "summary": "[지디넷코리아]국내 카드업계가 스테이블코인 기반 지급결제 사업을 확대하는 가운데 해외 발행사 자산동결 권한이 새로운 검토 과제로 떠오를 전망이다.지난 29일(현지시간) 글로벌 가상자산거래소 '바이낸스'에서 해킹으로 57억 달러 이상 가상자산이 탈취된 정황이 포착됐다. 가상자산에는 테더와 서클 등이 발행한 스테이블코인도 포함됐다. 스테이블코인 발행사는 해킹 사고 이후 관련 자산을 동결하면서 거래소와 별도로 발행사가 자산 이전을 통제할 수 있다는 점이 재확인됐다. 서클 USDC 약관은 특정 블록체인 주소에 대한 자산 이전을 제한할 수 있는 권한을 명시하고 있다. 이용자가 충분한 스테이블코인을 보유하더라도 해당 주소가 동결되면 자산 이전이 제한될 수 있는 것이다.이 때문에 외부 발행 스테이블코인을 결제에 활용하는 경우에는 발행사의 자산동결 권한을 고려해야 할 것으로 관측된다. 국내 카드사는 스테이블코인 지급 결제·정산 기술검증(PoC)을 진행 중이다. 고객이 보유한 스테이블코인으로 결제한",
-          "published": "2026-10-31T01:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "FBI Blames North Korea for $6 Billion Binance Crypto Hack",
-          "link": "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
-          "summary": "The FBI said that North Korea was responsible for stealing more than $6 billion in cryptocurrencies in a brazen hacking attack on Binance.",
-          "published": "2026-10-31T21:59:09+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[보안칼럼] 인간중심 사이버보안의 몰락",
-          "link": "https://zdnet.co.kr/view/?no=20261031132848",
-          "summary": "[지디넷코리아]올가을 국내 금융권에서 은행, 저축은행, 캐피탈사, 증권사, 가상자산 거래소까지 침해 사고가 계속 일어났다. 금융당국이 10월 중순까지 파악한 침해 금융회사는 16곳이다. 1년 전에는 한 카드사에서 약 300만 명의 정보가 새어 나갔다. 피해를 본 회사들은 대부분 보안 인증을 받았고, 장비를 갖췄으며, 정기적으로 점검도 받았다. 사고가 많아진 이유는 누군가 게을러서가 아니다. 사람이 직접 막는 보안 체계가 한계에 부딪혔다. 이 체계를 무너뜨린 쪽은 국가 해킹 부대나 큰 범죄 조직이 아니다. AI를 사용하는 누구나 가능한 일이다.1841년 1월, 광저우로 들어가는 주강 입구에서 영국 철제 증기선 네메시스호가 청나라 정크선 15척과 싸웠다. 네메시스호는 660톤에 대포 여섯 문을 실었고, 바람이나 물때를 기다리지 않고 원하는 때 원하는 방향으로 움직였다. 배 밑이 얕아 범선이 들어갈 수 없는 강도 거슬러 올라갔다. 그날 청나라 수군은 정크선 11척을 잃었고, 중국인들은 이",
-          "published": "2026-10-31T04:28:48+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
