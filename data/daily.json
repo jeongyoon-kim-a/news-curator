@@ -1,29 +1,47 @@
 {
-  "generated_at": "2026-11-02T00:24:54.488582+00:00",
-  "total_articles": 8,
+  "generated_at": "2026-11-03T02:48:07.872181+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 4,
       "articles": [
         {
-          "title": "Hackers are running riot with AI. Its makers want to cash in",
-          "link": "https://www.economist.com/business/2026/11/01/hackers-are-running-riot-with-ai-its-makers-want-to-cash-in",
-          "summary": "OpenAI and Anthropic spy a big opportunity in cyber-security",
-          "published": "2026-11-01T21:41:42+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
+          "title": "그록, AI 챗봇 사용 한도 축소…\"서비스 운영비 부담\"",
+          "link": "https://zdnet.co.kr/view/?no=20261103084951",
+          "summary": "[지디넷코리아]그록이 인공지능(AI) 서비스 운영비 부담을 줄이기 위해 챗봇 사용 한도를 낮춘 것으로 전해졌다. 서비스 제공 비용이 매출에 비해 지나치게 커진 데 따른 조치다.2일(현지시간) 테크크런치 등 외신에 따르면 일부 그록 봇 이용자들은 지난 핼러윈 주말 주간 사용 한도가 갑자기 소진됐다는 글을 소셜미디어 엑스(X)에 잇따라 올린 것으로 확인됐다. 챗봇을 추가로 쓰지 않았는데도 한도 소진율이 50%에서 100%로 뛰었다는 이용자도 있었다.일론 머스크 스페이스X 최고경영자(CEO)는 1일 엑스에서 한도 조정 배경으로 그록 봇의 운영 비용을 들었다. 한도를 얼마나 줄였는지와 앞으로 구독자에게 어떤 기준을 적용할지는 밝히지 않았다.그록 봇이 속한 AI 사업은 스페이스X의 주요 수익원이다. 스페이스X가 지난달 공개한 자료에 따르면 회사 전체 수입 52%가 AI 사업에서 나왔다. 다만 그록 봇만 놓고 보면 서비스 매출보다 운영 비용이 높은 것으로 나타났다. 실제 AI 사업을 맡은 '슈",
+          "published": "2026-11-02T23:54:08+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 18,
           "score_breakdown": {
             "keyword": 10,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "머스크 \"그록 서비스 비용 지속 가능하지 않다\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45ZUxuOUt3VDF0MXY0QkREMXo5Uk5aajBxWEZ3dkg2ZFA5cUZhY2JMU2xTMG9PUW9jTVR6VmhUaHRkVVBYNW40LWF5NnRqdVJwN2hyZzV6YnEySUs0LWNaUm94MzVrQlFBaTd0T0JWTjE?oc=5",
+          "summary": "머스크 \"그록 서비스 비용 지속 가능하지 않다\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-03T01:17:52+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -32,104 +50,20 @@
           "event_labels": []
         },
         {
-          "title": "AI 투자 열풍의 그늘…빅테크 곳간에 경고등",
-          "link": "https://zdnet.co.kr/view/?no=20261101120650",
-          "summary": "[지디넷코리아]알파벳, 아마존, 메타 등 주요 빅테크가 인공지능(AI) 데이터센터에 막대한 자금을 투입하면서 현금흐름이 악화하고 있다. 클라우드 사업은 빠르게 성장하고 있지만 일부 기업은 영업활동으로 벌어들인 현금보다 설비투자에 더 많은 자금을 사용하면서 투자비 회수와 수익성에 대한 우려가 커지고 있다.주요 하이퍼스케일러 4곳 중 3곳이 3분기 잉여현금흐름(FCF) 적자를 기록하면서 시장의 관심도 AI 투자 규모와 매출 성장률에서 실제 투자 성과와 현금 창출 능력으로 이동하는 모습이다.지난달 31일(현지시간) 블룸버그통신에 따르면 미국 주요 빅테크 기업 3분기 실적 발표 이후 AI 투자 부담에 대한 시장의 경계심이 커졌다. 기술주 중심 나스닥100지수는 10월 한 달간 6.7% 하락하며 지난해 3월 이후 가장 큰 월간 낙폭을 기록했다.실제 빅테크의 클라우드 사업은 높은 성장세를 이어갔다. 3분기 구글클라우드 매출은 전년 동기 대비 103%, 아마존웹서비스(AWS)는 39%, 마이크로",
-          "published": "2026-11-01T03:33:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
-          "link": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
-          "summary": "Chinese artificial intelligence start-up DeepSeek has previewed a plan for a more autonomous AI agent that can handle multiple tasks with minimal human intervention, as it steps up competition with US rivals OpenAI and Anthropic in developing coding assistants. The proposed system, dubbed super agent, aimed to reduce the need for humans to coordinate multiple AI agents and monitor their progress, addressing a key bottleneck in managing today’s increasingly complex workflows, according to a...",
-          "published": "2026-11-01T10:00:26+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VQXRpMWc1VnFBVjUwN1NpWTBSOEVzYXl4emhKRklueTM2Z2xMQWw1bmNlM21PSF92YVRPdHpSdW1iV25zLXNfYlZNalllNjNTVF9HdWNJV2pBblNSUUtUdU1KY3FGbXFicmc?oc=5",
+          "summary": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-02T07:34:18+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[ZD브리핑] 반도체·로봇·수소 산업 행사 풍성…통신·게임 등 실적 주목",
-          "link": "https://zdnet.co.kr/view/?no=20261101115152",
-          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 정보기술(IT)·산업계에서는 반도체 패키징과 로봇, 수소 등 첨단산업 최신 기술과 사업 전략을 살펴볼 수 있는 대형 행사가 잇따릅니다. 부산에서 열리는 국제학술대회 'ISMP 2026'에는 오픈AI와 SK하이닉스, 엔비디아 등 주요 기업이 참여하며, 일산에서는 국내 최대 로봇 전시회 '로보월드 2026'과 '월드 하이드로젠 엑스포 2026'이 개최됩니다. 차세대 양자컴퓨팅 플랫폼 공개와 인공지능(AI) 데이터센터 관련 행사도 예정돼 있습니다.주요 기업들의",
-          "published": "2026-11-01T03:19:11+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
-          "summary": "DeepSeek has released a prototype of a more autonomous coding agent as it seeks to challenge Anthropic PBC’s popular Claude Code.",
-          "published": "2026-11-01T03:48:18+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "메타메트릭스와 레디, 국내 영어 문해력 협력 확대",
-          "link": "https://zdnet.co.kr/view/?no=20261102001003",
-          "summary": "[지디넷코리아] 한국 내 Lexile Express Test 독점 유통사인 레디, 연구에 기반한 도구를 제공해 영어 읽기 능력을 평가하고, 학생별 수준에 적합한 텍스트를 연결하며, 읽기 능력의 향상 모니터링 예정 노스캐롤라이나 더럼 및 한국 서울, 2026년 11월 1일 /PRNewswire/ -- Lexile&reg; Framework for Reading 개발사인 메타메트릭스(MetaMetrics&reg;)와 서울에 본사를 둔 교육 기술 기업 레디 코퍼레이션(LEDDI Corporation, 이하 레디)이 파트너십 확대를 발표했다. 이번 협약에 따라 레디는 한국에서 Lexile Framework for Reading의 컴퓨터 적응형 및 고정형 Express Test를 독점 공급하는 공식 유통사가 된다. LEDDI Corporation is dedicated to providing educators with innovative and easy-to-use tools for teac",
-          "published": "2026-11-01T15:10:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 2,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -138,19 +72,172 @@
           ]
         },
         {
-          "title": "\"한 번 설정으로 AI 학습 거부\"…오픈AI·구글·MS·앤트로픽 동참",
-          "link": "https://zdnet.co.kr/view/?no=20261101134510",
-          "summary": "[지디넷코리아]앞으로 웹사이트 운영자가 설정 한번 만으로 주요 인공지능(AI) 기업에 콘텐츠 학습 거부 의사를 전달할 수 있게 된다.그동안 AI 기업마다 별도의 크롤러 차단 규칙을 설정해야 했지만 앞으로는 공통 규칙을 적용해 여러 기업에 한꺼번에 학습 거부 의사를 표시할 수 있다.1일 오픈AI, 구글, 마이크로소프트, 앤트로픽은 웹사이트의 AI 학습 관련 공통 신호를 수용하겠다는 계획을 발표했다. 국제인터넷표준화기구(IETF)의 AI 선호도(AIPREF) 작업반에서 논의 중인 기술을 기반으로 한다.핵심은 웹사이트의 '로봇 배제 표준(robots.txt)' 파일에 AI 학습 거부 의사를 공통으로 표시하는 것이다. robots.txt는 검색엔진이나 AI 크롤러가 웹사이트 콘텐츠에 접근하는 방식을 설정하는 파일이다.기존에는 오픈AI의 'GPT봇', 구글의 '구글 익스텐디드' 등 기업별로 다른 크롤러나 정책 식별자를 지정해 각각 규칙을 관리해야 했다.새로운 방식은 공통 식별자를 사용해 여러",
-          "published": "2026-11-01T05:44:35+00:00",
+          "title": "BMW, 내년 獨서 도심 자동주행 도입…테슬라 FSD에 도전장",
+          "link": "https://zdnet.co.kr/view/?no=20261103083808",
+          "summary": "[지디넷코리아]BMW가 2027년부터 독일 현지에서 내비게이션과 연동한 도심 부분 자동주행 기능을 도입한다. 교차로 회전과 차선 변경, 우선 통행 상황 대응, 회전교차로 통과 등을 지원하는 레벨 2 주행 보조 시스템이다.BMW는 2일(현지시간) 독일을 시작으로 내비게이션 경로에 따라 작동하는 도심 부분 자동주행 기능을 내년부터 제공한다고 밝혔다. 다른 국가에는 단계적으로 확대할 계획이다. 정확한 출시 시점과 국가별 일정은 추후 공개한다.새 기능은 BMW 맵스에서 목적지를 설정하면 교차로 좌우 회전과 도심 차선 변경, 우선 통행 상황 대응, 회전교차로 통과 등을 지원한다. 독일 등 일부 시장에서는 기존 시티 어시스턴트를 통해 신호등에 맞춰 자동으로 정차하고 출발하는 기능도 이용할 수 있다.BMW는 모터웨이 어시스턴트와 시티 어시스턴트를 결합해 고속도로에서 교외 도로를 거쳐 도심까지 내비게이션 경로에 따른 부분 자동주행을 이어갈 수 있다고 설명했다.다만 차량이 운전자 개입 없이 도심을 ",
+          "published": "2026-11-02T23:56:16+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Anthropic Taps Macquarie, CommSec for Australia IPO Retail Offer",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/anthropic-taps-macquarie-commsec-for-australia-ipo-retail-offer",
+          "summary": "Anthropic PBC has tapped eight firms including Macquarie Group Ltd. and Commonwealth Bank of Australia’s CommSec unit for its Australian retail offer ahead of its highly anticipated Nasdaq debut that’s set to be among the largest ever initial public offerings.",
+          "published": "2026-11-02T22:23:53+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "애플, 역대 최대 매출 잔치…주가 왜 떨어졌나",
+          "link": "https://zdnet.co.kr/view/?no=20261103075349",
+          "summary": "[지디넷코리아]애플이 9월 마감된 회계연도 4분기에 지난 해보다 12% 증가한 1145억 달러 매출을 기록하면서 역대 최고치를 경신했다. 하지만 애플 주가는 시간외 거래에서 하락했다고 CNBC 등 외신들이 2일(현지시간) 보도했다.이날 공개한 것은 애플의 2026 회계연도 4분기 실적이다. 애플의 회계연도는 10월부터 이듬해 9월까지이다. 특히 이번 실적 발표는 9월 1일 취임한 존 터너스 애플 최고경영자(CEO) 체제에서 처음 진행한 것이어서 큰 관심을 끌었다. 애플 공식 발표에 따르면 4분기 매출은 1145억 달러로 집계됐다. 이는 지난 해보다 12% 증가한 4분기 역대 최대 수치다. 또 시장조사업체 LSEG가 집계한 월가 전망치 1134억 달러도 웃돌았다. 애플의 4분기 순이익은 307억 달러로 집계됐으며, 주당순이익은 2.10달러로 예상치인 1.99달러를 넘어섰다.4분기 아이폰 매출은 575억 8000만 달러로 전년 동기 대비 17.6% 증가했다. 이는 시장 예상치인 565억",
+          "published": "2026-11-02T23:43:30+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "OpenAI Says Former Army Secretary Dan Driscoll to Join Company",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/openai-says-former-army-secretary-dan-driscoll-to-join-company",
+          "summary": "OpenAI is hiring former US Army Secretary Dan Driscoll to help expand the use of artificial intelligence for national and cyber security.",
+          "published": "2026-11-03T00:19:45+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple’s Tightening Margins Overshadow Upbeat Holiday Forecast",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/apple-growth-decelerates-with-china-sales-missing-estimates",
+          "summary": "Apple Inc. delivered a mixed outlook to investors in its first quarterly report under Chief Executive Officer John Ternus, with narrower profit margins overshadowing an upbeat sales forecast.",
+          "published": "2026-11-02T21:37:54+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
+          "summary": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+          "published": "2026-11-03T01:08:40+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플 CEO \"AI를 위한 AI는 출시 안 해\"…제품 중심 전략 고수 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HZWpENDE3VUFTYjRFSkhRSFdkLWdVa2tSYkVYUTlZaGxRVHR4TVREN01CWFdHZDl2QlVXcHBjYVpmSXR6QUlFS1FIOENPelZVQ0o4R0FfZG84RVpwSXdYZ2s5eWlCdnVYd1E?oc=5",
+          "summary": "애플 CEO \"AI를 위한 AI는 출시 안 해\"…제품 중심 전략 고수 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-02T05:10:13+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "엔비디아, 9~10일 서울서 'AI 데이' 개최…삼성·SK·LG 등 참여 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSTFRZjhRSnZwS1JmTDVQaTBYT284QmszdFBiZGtUWElyNVo4VEZGMFZ4RFVkTU9SV0lZbmZHSWZ4Q1RORzN1ellxWVYyOTFPVDA5TVBXdTh6UWhadWVfTWc4UjlQYXB4OVk4d0FObko?oc=5",
+          "summary": "엔비디아, 9~10일 서울서 'AI 데이' 개최…삼성·SK·LG 등 참여 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-02T05:11:11+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -158,20 +245,20 @@
           "event_labels": []
         },
         {
-          "title": "Apple Touch-Screen MacBook Pro Impressions; Software Division Gaming Shake-Up",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-11-01/apple-touch-screen-macbook-pro-impressions-software-division-gaming-shake-up",
-          "summary": "Also: The latest on the cracked iPhone Duo screens.",
-          "published": "2026-11-01T15:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "엔비디아, 잡음·울림 제거하는 초경량 음성 복원 AI 공개…대형 모델 능가 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95ZVo3c2tJd1c4VWprakE0aUpRZHozcU5RNFZuYkM2cm1nMUxFOGRJNVRjVmtOTVdyRzdRN0tBbE1mOGpsNjQ4b3FVUG04NFJJUVFOaEZ6SksxaFlOZ1ZuZWpGaTl3VmNYY2c?oc=5",
+          "summary": "엔비디아, 잡음·울림 제거하는 초경량 음성 복원 AI 공개…대형 모델 능가 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-02T07:29:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -181,13 +268,57 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "North Korea Denies Role in $6.3 Billion Binance Crypto Heist",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-02/north-korea-denies-role-in-6-3-billion-binance-crypto-heist",
+          "summary": "North Korea rejected US claims that it was behind the theft of more than $6 billion in cryptocurrency from Binance, after the FBI blamed an elite team of Pyongyang’s hackers for the biggest crypto heist on record.",
+          "published": "2026-11-02T23:10:15+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OYjkteWF6eHc4OFQ3bVhLcmdubWZGNlNqaTFHakhLME90S2YteGFxWkU5RzdLbVZLMm5IVDlrb0pRaUdFU0traEZFTzBlYTE5ZUI4Y1FIVFQzN09XNzR5VWs2ZkhFc3dIMnc?oc=5",
+          "summary": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-02T06:55:11+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
