@@ -1,26 +1,128 @@
 {
-  "generated_at": "2026-11-06T01:25:17.200450+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-11-07T00:42:41.277507+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 6,
       "articles": [
         {
-          "title": "After US$474m gamble flops, what happens now to Elon Musk’s Tesla, SpaceX and China ties?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3373422/after-us474m-gamble-flops-what-happens-now-elon-musks-tesla-spacex-and-china-ties",
-          "summary": "Elon Musk bet nearly half a billion dollars that political spending could keep Washington friendly to his sprawling business empire. On Tuesday, that bet came up short. As Democrats recaptured control of the US Congress in the midterm elections, the world’s richest man found himself facing an abruptly altered political landscape. After pouring a record-breaking US$474 million into political groups – overwhelmingly backing Republicans – Musk now faces a divided Washington keen to examine his...",
-          "published": "2026-11-05T15:00:08+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "외신들이 일론 머스크를 '패배자'라 부르는 이유 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pb2Z5akhKb0dIdXdVYUJzVzloaXZCVDZsbVI5VXdBdTcxdnhrZ01keUkyNjcyQnd5ckphaGExVktzc055a1lRTHFQTThWRXZvR2VIbGNZSTFrUjA3UU1vOXNxYWRBUDhaWWZFMFB0UG7SAXRBVV95cUxQVHp5Ti1hekpEVzA0VE5WcWlBRnRNYmlwWnd4cy05UmhXTVRTNWxKdU5LaWhvYjdIYm5EV18zNFhnZmpzNWN0ZFJzWHY2MlktRWNmbF9DbkU3Mndpb3czZE9yTXpXLXNFUkhQbjNTNXM5bzg1SA?oc=5",
+          "summary": "외신들이 일론 머스크를 '패배자'라 부르는 이유 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-06T23:14:38+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 14,
+          "score": 15,
           "score_breakdown": {
             "keyword": 10,
             "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "“합병 먹구름”…스페이스X·테슬라 이틀째 급락 ‘시총 500조원 증발’ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HdVVoNzgzOUtDWGRzNnpQLTFVbUdwTm4yRUcxTGpBUnIxdU5TZ25OenpvQ043c084cm1GUDZlck9OYk1uenBVV0U1Q1Vnd3IzTGc?oc=5",
+          "summary": "“합병 먹구름”…스페이스X·테슬라 이틀째 급락 ‘시총 500조원 증발’ &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-06T12:44:22+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
             "recency": 2,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
+          "summary": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
+          "published": "2026-11-06T17:34:03+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "태극기 중간에 테슬라 마크…머스크 ‘韓시장 1위’ 자축 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcHRTc1ZncUtwNWVQUHkwZ1JvZVhmaUZDLXJocldnVXdBdlh0aEJPOU5ES0drWHBKSXRoWVE1a3BLRTFKM2FNaFZ0TUFrYVpSOVNZeXZB?oc=5",
+          "summary": "태극기 중간에 테슬라 마크…머스크 ‘韓시장 1위’ 자축 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-06T11:39:57+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "테슬라, 사이버트럭 생산 중단…로보택시 ‘사이버캡’에 승부수 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VZ1VXR1BtYTFRV2pLXzRfYVUtR2lYUXZSdnZpUDFGT1Y5V2R0RWNDS1A0dUtfTlI5SGRJdTdlZmxwdU54WWdXWm42LXVHQQ?oc=5",
+          "summary": "테슬라, 사이버트럭 생산 중단…로보택시 ‘사이버캡’에 승부수 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-06T21:36:23+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X 로켓 의존 줄인다…AST, 자체 발사체 개발 추진",
+          "link": "https://zdnet.co.kr/view/?no=20261107064358",
+          "summary": "[지디넷코리아]AST스페이스모바일이 자체 로켓 개발에 나선다. 위성 제작에서 발사까지 수직계열화를 추진해 외부 발사체에 대한 의존도를 낮춘다는 구상이다.6일(현지시간) AST스페이스모바일은 재사용을 고려한 발사체 ‘블랙리프트’를 개발하고, 2028년 말부터 발사당 블루버드 위성 최대 5기를 저궤도에 배치할 계획이라고 발표했다. 이에 따라 파이어플라이에어로스페이스와 엔진 공급, 기술지원, 제조 라이선스를 포함한 13억 달러 규모 계약을 체결했다.파이어플라이는 블랙리프트 초기 3기에 사용할 미란다 엔진 27개와 진공 환경용 비라 엔진 9개를 공급한다. AST스페이스모바일은 해당 엔진을 직접 생산할 수 있는 영구 라이선스도 확보한다. 엔진 제조시설은 미국에 신설할 예정이다.계약은 라이선스 확보 대가 약 8억 달러와 초기 엔진 공급 2억 5000만달러, 3년간 기술지원 2억 5000만달러로 구성된다. 라이선스 대가는 현금 4억 달러와 주식으로 지급한다. 엔진 지식재산권은 파이어플라이가 보유",
+          "published": "2026-11-06T22:00:01+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,83 +135,39 @@
       "count": 8,
       "articles": [
         {
-          "title": "슈퍼마이크로, IBM 및 엔비디아와 추론 성능이 막강한 KV 캐시 솔루션 출시",
-          "link": "https://zdnet.co.kr/view/?no=20261106001013",
-          "summary": "[지디넷코리아] KV(key-value, 키값) 캐시 솔루션으로 Supermicro Petascale 스토리지 서버와 IBM Storage Scale 소프트웨어, NVIDIA Dynamo 추론 소프트웨어, NVIDIA Spectrum-X 이더넷 스위치 통합 성능 테스트 결과, KV 캐시를 사용하지 않는 시스템 대비 긴 컨텍스트 구간의 첫 토큰 생성 시간(TTFT) 단축 GPU 활용률과 처리량, 인프라 확장성을 높여 고객의 추론 효율을 대폭 개선 새너제이, 캘리포니아, 2026년 11월 5일 /PRNewswire/ -- Data Center Building Block Solutions&reg;(DCBBS)를 기반으로 AI와 엔터프라이즈, 스토리지, 5G/엣지 분야에서 토털 IT 솔루션을 공급하는 슈퍼마이크로(Supermicro, Inc., 나스닥: SMCI)가 11월 5일 IBM, 엔비디아(NVIDIA)와 함께 새 KV 캐시 스토리지 솔루션을 발표했다. AMD EPYC 9005 Ser",
-          "published": "2026-11-05T15:10:13+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Google Takes Over Wyoming Data Center That Crusoe Had Pitched",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
+          "summary": "Alphabet Inc.’s Google has bought out Crusoe’s data center site in southeast Wyoming, opting to take on the project itself after the AI computing upstart failed to lock in customers.",
+          "published": "2026-11-06T19:30:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 2,
+            "keyword": 6,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "데이터센터 규제 역풍에도…구글, 와이오밍에 170억弗 투자 강행 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HOEJfMEQtVldSVng5VDZKQzJuMmF6ZlI1bjl0Q0wyRXdiUDhoeVByVzM1bjhfREk3RWMwYUlRUmM3TzF6dVlPOG9NdjhJQ2Rod2xzN3p0ZjQ1bExQMUNYZHA0WEd6SDQtcnY0ZExfWjE?oc=5",
-          "summary": "데이터센터 규제 역풍에도…구글, 와이오밍에 170억弗 투자 강행 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-05T19:29:54+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
+          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
+          "summary": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
+          "published": "2026-11-06T17:36:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Powered by GPT-6, Unitree humanoid robots master painting, chess without training, says CEO",
-          "link": "https://www.scmp.com/tech/tech-trends/article/3373423/powered-gpt-6-unitree-humanoid-robots-master-painting-chess-without-training-says-ceo",
-          "summary": "Robots developed by Chinese humanoid maker Unitree Robotics can now paint pictures and play chess without any prior training, relying on frontier AI models to navigate complex physical tasks, according to founder and CEO Wang Xingxing. Speaking on Thursday at the China International Import Expo (CIIE) in Shanghai, Wang said Unitree’s machines, powered by OpenAI’s GPT-6, were capable of executing intricate robotic sequences, such as dynamically replacing brush water and blending pigments, guided.",
-          "published": "2026-11-05T11:00:23+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Can a DoorDash-Instacart fusion stand up to Amazon and Walmart?",
-          "link": "https://www.economist.com/business/2026/11/05/can-a-doordash-instacart-fusion-stand-up-to-amazon-and-walmart",
-          "summary": "The proposed merger shows the danger that delivery startups face",
-          "published": "2026-11-05T13:58:17+00:00",
-          "source_key": "economist_business",
-          "source_name": "The Economist - Business",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "source": 3,
             "recency": 2,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -119,39 +177,59 @@
           ]
         },
         {
-          "title": "OpenAI to Change How It Handles Data Centers After Outcry",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-05/openai-to-change-how-it-handles-data-center-efforts-after-outcry",
-          "summary": "OpenAI said it will avoid nondisclosure agreements when it negotiates data center deals and ensure residents don’t pay for the electricity to power those projects, part of a framework the company believes should be adopted into laws governing the expansion of artificial intelligence.",
-          "published": "2026-11-05T10:00:00+00:00",
+          "title": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
+          "summary": "An OpenAI engineer charged with planting a hidden recording device in one of the company’s offices pleaded not guilty in federal court.",
+          "published": "2026-11-06T19:14:32+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "China blocks SoftBank’s US$5.4 billion takeover of ABB’s robotics division",
-          "link": "https://www.scmp.com/business/china-business/article/3373415/china-blocks-softbanks-us54-billion-takeover-abbs-robotics-division",
-          "summary": "China’s state planner has told Japanese investor SoftBank it will not allow the US$5.4 billion acquisition ‌of the robotics segment of engineering group ABB to go ahead, the Swiss firm said on Thursday. The case marks the second major deal blocked by China this year after Meta Platforms was ordered to unwind its US$2 billion-plus acquisition of artificial intelligence start-up Manus. The news comes as Beijing tightens scrutiny of foreign investment in domestic start-ups that are developing...",
-          "published": "2026-11-05T10:23:53+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
+          "summary": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as the information is not public. The remainder of the round, which could increase to as much as $20 billion in total, is expected to be completed in the coming weeks, one person said.The AI developer has been in talks for",
+          "published": "2026-11-06T20:58:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살",
+          "link": "https://zdnet.co.kr/view/?no=20261106174059",
+          "summary": "[지디넷코리아]엔비디아가 네이버에 1조3400억원 규모의 자금을 납입하며 인공지능(AI) 팩토리 투자의 매듭을 지었다. 이번 납입으로 엔비디아는 네이버의 3대 주주에 등극한다. 네이버는 AI 팩토리 구축을 기반으로 한 AI 인프라 사업을 가속화한다.6일 금융감독원 전자공시시스템에 따르면 네이버는 엔비디아로부터 제3자 배정 유상증자에 따른 신주 인수대금 1조3412억원이 전액 납입됐다고 공시했다.해당 유상증자를 통해 발행되는 신주는 655만8435주로, 보통주다. 이를 통해 엔비디아가 확보하는 네이버의 지분은 4.13%로 국민연금(9.49%), 블랙록(7.31%) 다음이다. 투자 금액은 그대로지만, 환율이 변동하면서 신규 발행 규모가 줄어들었고, 엔비디아의 확보 예상 지분율은 4.54%에서 4.13%로 감소했다.앞서 네이버는 브룩필드로부터 최대 90억 달러(약 12조 1941억원) 규모의 컴퓨팅 인프라 확보 계약을 체결해 엔비디아 지분 투자의 선결 조건을 충족했다.이에 따라 네이버는 ",
+          "published": "2026-11-06T10:33:02+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
             "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -161,39 +239,59 @@
           ]
         },
         {
-          "title": "T-Mobile Customers Swap Roaming, Hotspots For Streaming Benefits",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-05/t-mobile-customers-swap-roaming-hotspots-for-streaming-benefits",
-          "summary": "T-Mobile US Inc. customers are being given the chance to add free phone plan benefits like Apple TV streaming subscriptions and Xbox Game Pass access, instead of more traditional benefits like international roaming.",
-          "published": "2026-11-05T23:07:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "“네이버 3대 주주 됐다”…엔비디아, 1조3400억 납입 완료 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ajdiMWtteFRLTXpGY1NQQjcyZUlXQ2haeDQyWXZBSllDaTF1WXNvY2kzVk4xQmxfU054dFE2RGdkTGJfaUlqNlRPTzYtTzFrVkprZWxR?oc=5",
+          "summary": "“네이버 3대 주주 됐다”…엔비디아, 1조3400억 납입 완료 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-06T13:00:37+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 3,
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "실버포트 \"기존 인증 시스템 변경 없이 MFA 구현 가능\"",
-          "link": "https://zdnet.co.kr/view/?no=20261105200348",
-          "summary": "[지디넷코리아]실버포트가 기존 인증 시스템을 그대로 둔 채 모든 계정의 접근을 요청 순간에 통제하고 인공지능(AI) 에이전트의 이상행위까지 차단하는 '실버포트 ID 보안 플랫폼(Silverfort Identity Security Platform)'으로 국내 금융, 제조 분야 엔터프라이즈 고객을 다수 확보했다.필립 리처드슨 실버포트 아시아태평양 지역 기술제휴 매니저는 지디넷코리아와 만나 이 기술의 작동 방식과 적용 범위를 설명했다.리처드슨 매니저는 인프라를 바꾸지 않고 접근 시점에서 보호를 적용한다고 설명했다. 핵심은 특허 기술인 '런타임 접근 보호'다. 기존 인증 경로에서 접근 요청을 확인하고 권한을 부여하는 시점에 정책을 집행하는 방식이다. 서버와 애플리케이션, 사용자 행동을 바꾸거나 별도 에이전트와 프록시를 설치할 필요가 없다. 마이크로소프트의 계정 관리 시스템인 액티브 디렉터리도 그대로 쓰고, 첫 보호 적용까지 24시간이 걸리지 않는다고 설명했다.리처드슨 매니저는 모든 계정과 ",
-          "published": "2026-11-05T11:12:44+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5",
+          "summary": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-06T17:38:32+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WGxtM1llX3FHTmN5Vi1RNTF5UTg0dDJ1LXZndXpxdmI4ZHMzM0htUDB3TmdxWDVoNmd0c2NVTks4UWoyOWRaV0ZlZHBaYVhDckw1UDNQNXZmWkowdVpWaVlhRExCakNuVlE?oc=5",
+          "summary": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-06T08:25:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 8,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 5,
+            "source": 2,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -204,28 +302,23 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5NYmRmQ2RaRUZtTVl0VmdKUi1MSks3VHUyalR4YmZ4dk51VzFkaHhkakJKZERZWXBZYzdscjFELWpaV2Y3NkFBbkhqUXVCWWZnRkE?oc=5",
-          "summary": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓ &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-06T00:12:47+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
+          "title": "Bitcoin Steadies After Record Hack Fallout, Midterm Turbulence",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
+          "summary": "Bitcoin settled near recent lows after a bruising selloff on Thursday swept through cryptocurrencies and other risky assets, pressured by lackluster chipmaker earnings and a Democratic sweep of Congress.",
+          "published": "2026-11-06T12:07:44+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -234,10 +327,38 @@
           ]
         },
         {
-          "title": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5XVVJoTUVsUjR2UUZ2MzNxTXpIal9JSmVLdWpWcVlUQ0NDSmw4T001TEY5X1YtTVNmWWxETG5BQU1PdFRheS1kZXE5SlRFbUxUMHc?oc=5",
-          "summary": "“카카오, 플랫폼 사업이 매출 성장 이끈건 맞는데”…IBK투자증권, 목표가↓ &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-06T00:12:47+00:00",
+          "title": "Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand",
+          "link": "https://www.scmp.com/business/cryptocurrency/article/3373582/crypto-heavyweight-solana-eyes-hong-kong-expansion-tap-growing-tokenisation-demand",
+          "summary": "Solana, one of the world’s largest blockchain networks, plans to expand in Hong Kong to tap the city’s growing demand for tokenisation, according to a senior executive. “I believe that the biggest opportunity for Solana is actually in [the Asia-Pacific region],” Solana Company chairman and CEO Joseph Chee said in an interview in Hong Kong earlier this week. Founded in the US in 2018, the company is behind one of the most popular cryptocurrencies. With a market capitalisation of about US$53...",
+          "published": "2026-11-06T12:03:24+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 2,
+      "articles": [
+        {
+          "title": "지상파 3사-네이버 AI 뉴스 저작권 소송 8차 변론… 12월 1일 변론 종결 | 톱셀럽(topceleV) - 뷰타임즈",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GbXBUdUFST1VkOXFGZExjRG5XVnVDTnVodlZCQk9oY3YwSHQwQmFSVEMyN0F3bmh4LWpoMjBxcUtHWTlfTkZEVU13SlM3Z2ZScVdOcWNVUEpoQ1psck1xS9IBZkFVX3lxTE1wOVN4LVFtRXJGUUgzVF8tU2pSMTJyVV8zWHc4Y3ZZdmIwei1jTGo1aGgyVTdOMWtsRlI1TjZHWVBiQWNRMjdOTmJUZnJWTXBuc2hpS0lnb2tsdXBQT2t1R2g1VW1DQQ?oc=5",
+          "summary": "지상파 3사-네이버 AI 뉴스 저작권 소송 8차 변론… 12월 1일 변론 종결 | 톱셀럽(topceleV) &nbsp;&nbsp; 뷰타임즈",
+          "published": "2026-11-06T16:50:20+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -247,34 +368,28 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "regulation"
           ]
-        }
-      ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "'안정' 택한 미래에셋 임원 인사…키워드는 '보안·디지털·AI' - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kMG5VT1Vib29COTQ2MFo3Nk13RGVZYzZ0ZmJ5UzA1bkEyLWxhWkJOSTZpdU82UW9LaURhOG5reDRSdWNJSWRSYmFKcHV6SDBZMlJqbFFIbGxVYmtCeF80Vk1PeVFJeTNjakd3TnlseGc?oc=5",
-          "summary": "'안정' 택한 미래에셋 임원 인사…키워드는 '보안·디지털·AI' &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-05T08:55:56+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
+          "title": "금보원 사칭 \"피해금 일부 환급” 보이스피싱 등장",
+          "link": "https://zdnet.co.kr/view/?no=20261106174924",
+          "summary": "[지디넷코리아]금융보안원(원장 박상원)을 사칭, 피해금 일부를 환급해주겠다는 보이스피싱이 등장했다. 금보원은 소비자의 각별한 주의를 당부했다.6일 금보원에 따르면 최근 보이스피싱 피해자를 대상으로 금보원을 사칭해 피해금 일부를 환급해주겠다고 속여, 추가 금전 입금을 유도하는 사기 정황이 확인됐다.사기범은 보이스피싱 피해자에게 모바일 메신저(카카오톡)로 먼저 연락, 금융보안원을 사칭한 허위 안내문을 전달 후 환급 대상자라고 기망했다. 이후 피해자 모임을 가장한 단체 채팅방에 초대, 보이스피싱 피해금 일부를 환급해 주는 정책이 있다고 속이고 금전 입금을 유도했다.박상원 원장은 “금융보안원은 보이스피싱 피해금 환급을 위한 별도의 특별구제보조금 지급 정책을 시행하고 있지 않다. 피해금 환급을 조건으로 어떠한 금전 입금도 요구하지 않는다”며 “피해금을 돌려주겠다며 먼저 돈을 요구하면 절대 송금하지 말고, 경찰청 통합대응단(전화 1394)에 즉시 신고하길 바란다\"고 밝혔다.",
+          "published": "2026-11-06T08:49:24+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 3,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -282,6 +397,11 @@
           "event_labels": []
         }
       ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
