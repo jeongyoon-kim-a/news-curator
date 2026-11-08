@@ -1,128 +1,26 @@
 {
-  "generated_at": "2026-11-07T00:42:41.277507+00:00",
-  "total_articles": 18,
+  "generated_at": "2026-11-08T00:17:19.010177+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 6,
+      "count": 1,
       "articles": [
         {
-          "title": "외신들이 일론 머스크를 '패배자'라 부르는 이유 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Pb2Z5akhKb0dIdXdVYUJzVzloaXZCVDZsbVI5VXdBdTcxdnhrZ01keUkyNjcyQnd5ckphaGExVktzc055a1lRTHFQTThWRXZvR2VIbGNZSTFrUjA3UU1vOXNxYWRBUDhaWWZFMFB0UG7SAXRBVV95cUxQVHp5Ti1hekpEVzA0VE5WcWlBRnRNYmlwWnd4cy05UmhXTVRTNWxKdU5LaWhvYjdIYm5EV18zNFhnZmpzNWN0ZFJzWHY2MlktRWNmbF9DbkU3Mndpb3czZE9yTXpXLXNFUkhQbjNTNXM5bzg1SA?oc=5",
-          "summary": "외신들이 일론 머스크를 '패배자'라 부르는 이유 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-06T23:14:38+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Ny1YOUpGVnBUclZiMTJ0ZnJpTUxpMHZKNzN3eXdQWVBGYUloUjlUbzBwdnBTSDlydUJYVFpZb05vUWFkTUREUnRmRlpmcmY2M0NtZjBfcGYtZnlqSGRnZzJzS0NtUTJGMlE?oc=5",
+          "summary": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-07T00:57:09+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 15,
+          "score": 6,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“합병 먹구름”…스페이스X·테슬라 이틀째 급락 ‘시총 500조원 증발’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HdVVoNzgzOUtDWGRzNnpQLTFVbUdwTm4yRUcxTGpBUnIxdU5TZ25OenpvQ043c084cm1GUDZlck9OYk1uenBVV0U1Q1Vnd3IzTGc?oc=5",
-          "summary": "“합병 먹구름”…스페이스X·테슬라 이틀째 급락 ‘시총 500조원 증발’ &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-06T12:44:22+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "SpaceX Embrace of Compute Deals Eases Reliance on US Contracts",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/spacex-to-get-under-10-of-revenue-from-us-government-musk-says",
-          "summary": "SpaceX’s reliance on US government-funded contracts will continue to shrink, Elon Musk said, signaling a shift in focus away from what was previously his rocket-launch company’s most important partnership.",
-          "published": "2026-11-06T17:34:03+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "태극기 중간에 테슬라 마크…머스크 ‘韓시장 1위’ 자축 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XcHRTc1ZncUtwNWVQUHkwZ1JvZVhmaUZDLXJocldnVXdBdlh0aEJPOU5ES0drWHBKSXRoWVE1a3BLRTFKM2FNaFZ0TUFrYVpSOVNZeXZB?oc=5",
-          "summary": "태극기 중간에 테슬라 마크…머스크 ‘韓시장 1위’ 자축 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-06T11:39:57+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "테슬라, 사이버트럭 생산 중단…로보택시 ‘사이버캡’에 승부수 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1VZ1VXR1BtYTFRV2pLXzRfYVUtR2lYUXZSdnZpUDFGT1Y5V2R0RWNDS1A0dUtfTlI5SGRJdTdlZmxwdU54WWdXWm42LXVHQQ?oc=5",
-          "summary": "테슬라, 사이버트럭 생산 중단…로보택시 ‘사이버캡’에 승부수 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-06T21:36:23+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X 로켓 의존 줄인다…AST, 자체 발사체 개발 추진",
-          "link": "https://zdnet.co.kr/view/?no=20261107064358",
-          "summary": "[지디넷코리아]AST스페이스모바일이 자체 로켓 개발에 나선다. 위성 제작에서 발사까지 수직계열화를 추진해 외부 발사체에 대한 의존도를 낮춘다는 구상이다.6일(현지시간) AST스페이스모바일은 재사용을 고려한 발사체 ‘블랙리프트’를 개발하고, 2028년 말부터 발사당 블루버드 위성 최대 5기를 저궤도에 배치할 계획이라고 발표했다. 이에 따라 파이어플라이에어로스페이스와 엔진 공급, 기술지원, 제조 라이선스를 포함한 13억 달러 규모 계약을 체결했다.파이어플라이는 블랙리프트 초기 3기에 사용할 미란다 엔진 27개와 진공 환경용 비라 엔진 9개를 공급한다. AST스페이스모바일은 해당 엔진을 직접 생산할 수 있는 영구 라이선스도 확보한다. 엔진 제조시설은 미국에 신설할 예정이다.계약은 라이선스 확보 대가 약 8억 달러와 초기 엔진 공급 2억 5000만달러, 3년간 기술지원 2억 5000만달러로 구성된다. 라이선스 대가는 현금 4억 달러와 주식으로 지급한다. 엔진 지식재산권은 파이어플라이가 보유",
-          "published": "2026-11-06T22:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -132,64 +30,44 @@
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 8,
+      "count": 6,
       "articles": [
         {
-          "title": "Google Takes Over Wyoming Data Center That Crusoe Had Pitched",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/google-takes-over-wyoming-data-center-that-crusoe-had-pitched",
-          "summary": "Alphabet Inc.’s Google has bought out Crusoe’s data center site in southeast Wyoming, opting to take on the project itself after the AI computing upstart failed to lock in customers.",
-          "published": "2026-11-06T19:30:21+00:00",
+          "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
+          "summary": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic PBC at a time when Americans are increasingly uneasy over the rapidly developing technology.",
+          "published": "2026-11-07T14:30:00+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 6,
+            "keyword": 5,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "regulation"
+          ]
         },
         {
-          "title": "Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity",
-          "summary": "Microsoft Corp. is winding down an arrangement to rent AI computing from Oracle Corp., part of a larger reassessment of billions of dollars in cloud partnerships.",
-          "published": "2026-11-06T17:36:39+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
+          "summary": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
+          "published": "2026-11-07T20:00:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "OpenAI Staffer Pleads Not Guilty to Office Bugging Charge",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-staffer-pleads-not-guilty-to-office-bugging-charge",
-          "summary": "An OpenAI engineer charged with planting a hidden recording device in one of the company’s offices pleaded not guilty in federal court.",
-          "published": "2026-11-06T19:14:32+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -197,92 +75,10 @@
           "event_labels": []
         },
         {
-          "title": "OpenAI Completes $11 Billion Portion of Funding at $1.25 Trillion Value",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value",
-          "summary": "OpenAI has closed on new funding of roughly $11 billion, the initial part of a round that values the company at $1.25 trillion, according to people familiar with the matter.The funding was wired to the company as of Friday, said the people, who spoke on condition of anonymity as the information is not public. The remainder of the round, which could increase to as much as $20 billion in total, is expected to be completed in the coming weeks, one person said.The AI developer has been in talks for",
-          "published": "2026-11-06T20:58:41+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 네이버에 1.3조원 납입…‘AI 팩토리’ 물살",
-          "link": "https://zdnet.co.kr/view/?no=20261106174059",
-          "summary": "[지디넷코리아]엔비디아가 네이버에 1조3400억원 규모의 자금을 납입하며 인공지능(AI) 팩토리 투자의 매듭을 지었다. 이번 납입으로 엔비디아는 네이버의 3대 주주에 등극한다. 네이버는 AI 팩토리 구축을 기반으로 한 AI 인프라 사업을 가속화한다.6일 금융감독원 전자공시시스템에 따르면 네이버는 엔비디아로부터 제3자 배정 유상증자에 따른 신주 인수대금 1조3412억원이 전액 납입됐다고 공시했다.해당 유상증자를 통해 발행되는 신주는 655만8435주로, 보통주다. 이를 통해 엔비디아가 확보하는 네이버의 지분은 4.13%로 국민연금(9.49%), 블랙록(7.31%) 다음이다. 투자 금액은 그대로지만, 환율이 변동하면서 신규 발행 규모가 줄어들었고, 엔비디아의 확보 예상 지분율은 4.54%에서 4.13%로 감소했다.앞서 네이버는 브룩필드로부터 최대 90억 달러(약 12조 1941억원) 규모의 컴퓨팅 인프라 확보 계약을 체결해 엔비디아 지분 투자의 선결 조건을 충족했다.이에 따라 네이버는 ",
-          "published": "2026-11-06T10:33:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "“네이버 3대 주주 됐다”…엔비디아, 1조3400억 납입 완료 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE92ajdiMWtteFRLTXpGY1NQQjcyZUlXQ2haeDQyWXZBSllDaTF1WXNvY2kzVk4xQmxfU054dFE2RGdkTGJfaUlqNlRPTzYtTzFrVkprZWxR?oc=5",
-          "summary": "“네이버 3대 주주 됐다”…엔비디아, 1조3400억 납입 완료 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-06T13:00:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4OUJiNUtuQU14ejFFbGI1MFMxTzZmWDNWZkJGT2Z6ZU5nQWEyT1dMVjJ2eTFEY0JnRGN3QXFOQVVTVUZ0SDlGaU1DdjhqSzNiVmxhRzFMRVJ3c3N5WV9OYmluVTRtVjNpcEhBNmVYVDQ?oc=5",
-          "summary": "\"TSMC, 첨단 AI 메모리 반도체 생산 검토…엔비디아 요청\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-06T17:38:32+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15WGxtM1llX3FHTmN5Vi1RNTF5UTg0dDJ1LXZndXpxdmI4ZHMzM0htUDB3TmdxWDVoNmd0c2NVTks4UWoyOWRaV0ZlZHBaYVhDckw1UDNQNXZmWkowdVpWaVlhRExCakNuVlE?oc=5",
-          "summary": "엔비디아, 미국 노후 전화국 130곳 AI 데이터센터로 전환 추진 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-06T08:25:00+00:00",
+          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZGZTQThOS3ZtN2FUTDJzcG00bHIxVXFMbHN0TzdlQUxTNllMNk5TR1lSZkJWQm1JYkw3U3h1Y0NCMnZZVTVSYUhUeGZCSDJBQm1ZSXRfQjh4MV9ESUw4NFV1Uy1ja2hnSkE?oc=5",
+          "summary": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-07T01:19:37+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -297,95 +93,57 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Bitcoin Steadies After Record Hack Fallout, Midterm Turbulence",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-06/bitcoin-selloff-eases-as-investors-explore-cautious-recovery",
-          "summary": "Bitcoin settled near recent lows after a bruising selloff on Thursday swept through cryptocurrencies and other risky assets, pressured by lackluster chipmaker earnings and a Democratic sweep of Congress.",
-          "published": "2026-11-06T12:07:44+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
         },
         {
-          "title": "Crypto heavyweight Solana eyes Hong Kong expansion to tap growing tokenisation demand",
-          "link": "https://www.scmp.com/business/cryptocurrency/article/3373582/crypto-heavyweight-solana-eyes-hong-kong-expansion-tap-growing-tokenisation-demand",
-          "summary": "Solana, one of the world’s largest blockchain networks, plans to expand in Hong Kong to tap the city’s growing demand for tokenisation, according to a senior executive. “I believe that the biggest opportunity for Solana is actually in [the Asia-Pacific region],” Solana Company chairman and CEO Joseph Chee said in an interview in Hong Kong earlier this week. Founded in the US in 2018, the company is behind one of the most popular cryptocurrencies. With a market capitalisation of about US$53...",
-          "published": "2026-11-06T12:03:24+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "지상파 3사-네이버 AI 뉴스 저작권 소송 8차 변론… 12월 1일 변론 종결 | 톱셀럽(topceleV) - 뷰타임즈",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GbXBUdUFST1VkOXFGZExjRG5XVnVDTnVodlZCQk9oY3YwSHQwQmFSVEMyN0F3bmh4LWpoMjBxcUtHWTlfTkZEVU13SlM3Z2ZScVdOcWNVUEpoQ1psck1xS9IBZkFVX3lxTE1wOVN4LVFtRXJGUUgzVF8tU2pSMTJyVV8zWHc4Y3ZZdmIwei1jTGo1aGgyVTdOMWtsRlI1TjZHWVBiQWNRMjdOTmJUZnJWTXBuc2hpS0lnb2tsdXBQT2t1R2g1VW1DQQ?oc=5",
-          "summary": "지상파 3사-네이버 AI 뉴스 저작권 소송 8차 변론… 12월 1일 변론 종결 | 톱셀럽(topceleV) &nbsp;&nbsp; 뷰타임즈",
-          "published": "2026-11-06T16:50:20+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "금보원 사칭 \"피해금 일부 환급” 보이스피싱 등장",
-          "link": "https://zdnet.co.kr/view/?no=20261106174924",
-          "summary": "[지디넷코리아]금융보안원(원장 박상원)을 사칭, 피해금 일부를 환급해주겠다는 보이스피싱이 등장했다. 금보원은 소비자의 각별한 주의를 당부했다.6일 금보원에 따르면 최근 보이스피싱 피해자를 대상으로 금보원을 사칭해 피해금 일부를 환급해주겠다고 속여, 추가 금전 입금을 유도하는 사기 정황이 확인됐다.사기범은 보이스피싱 피해자에게 모바일 메신저(카카오톡)로 먼저 연락, 금융보안원을 사칭한 허위 안내문을 전달 후 환급 대상자라고 기망했다. 이후 피해자 모임을 가장한 단체 채팅방에 초대, 보이스피싱 피해금 일부를 환급해 주는 정책이 있다고 속이고 금전 입금을 유도했다.박상원 원장은 “금융보안원은 보이스피싱 피해금 환급을 위한 별도의 특별구제보조금 지급 정책을 시행하고 있지 않다. 피해금 환급을 조건으로 어떠한 금전 입금도 요구하지 않는다”며 “피해금을 돌려주겠다며 먼저 돈을 요구하면 절대 송금하지 말고, 경찰청 통합대응단(전화 1394)에 즉시 신고하길 바란다\"고 밝혔다.",
-          "published": "2026-11-06T08:49:24+00:00",
+          "title": "\"TSMC, 메모리 진출 검토…엔비디아 요청\" 디인포메이션",
+          "link": "https://zdnet.co.kr/view/?no=20261107132711",
+          "summary": "[지디넷코리아]세계 최대 파운드리(반도체 위탁생산) 업체 TSMC가 메모리 시장 진출을 검토하고 있다는 보도가 나왔다. 6일(현지시간) IT 매체 디인포메이션 등 외신은 TSMC가 최근 차세대 메모리 기술인 3D D램 생산을 위한 사업화 구상에 착수했다고 보도했다. 3D D램은 셀을 수직으로 쌓아 성능과 용량을 높인 차세대 반도체다. 외신은 TSMC의 사업화 구상 배경에 최대 고객인 미국 엔비디아의 강력한 요청이 있었다고 설명했다. 이어 TSMC가 신규 메모리 전용 공장을 건설하거나 기존 파운드리 공장을 개조하는 방안을 검토 중이고, 첨단 패키징을 총괄하는 쉬궈진 부사장이 해당 프로젝트를 이끌고 있다고 덧붙였다.이번 행보는 인공지능(AI) 수요 급증으로 발생한 글로벌 메모리 공급난이 직접적 계기가 된 것으로 풀이된다. 엔비디아 등 글로벌 팹리스(반도체 설계전문) 기업은 고대역폭메모리(HBM)와 첨단 D램의 가격 급등과 공급 부족에 대응해 공급망 다변화 정책을 적극 추진한 바 있다.",
+          "published": "2026-11-07T05:15:36+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81VXNDa1FuNWRJc0NRa0xEcTQya2hxeTZUWGFuRDlVT1pWSU1La0RGd2hlVlBnLXFzZUpOT1ZEV29KQUJucnY5d0NGaDQwYU9CbFFPVGFPalNpZmg3Q3pVeHFCQzQ3U0xlMkE?oc=5",
+          "summary": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-07T06:39:27+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"3분기 태블릿 출하 23% 급감...2028년 이전 회복 어려워\"",
+          "link": "https://zdnet.co.kr/view/?no=20261107151936",
+          "summary": "[지디넷코리아]3분기 전 세계 태블릿 출하량이 전년 동기보다 23.0% 급감했다고 시장조사업체 옴디아가 최근 밝혔다. 2분기 출하량도 전년비 9.9% 감소한 바 있다.옴디아가 집계한 3분기 전 세계 태블릿 출하량은 3219만대다. 거의 3년 만에 최저다. 지역별로 중동과 중국, 서유럽 시장에서 감소폭이 컸다. 옴디아는 \"공급 제약 심화로 완제품 업체의 2026~2027년 전략 우선순위에서 태블릿이 밀려나고 있다\"며 \"공급 제약은 2027년에도 심해져, 태블릿 시장에서 유의미한 회복은 2028년 이전에는 어려울 것\"이라고 전망했다. '공급 제약'이란 표현은 메모리 반도체 가격 급등에 따른 제조원가 상승, 그리고 이에 따른 완제품 가격 인상, 중저가 제품 시장 위축 등을 가리키는 것으로 보인다. 3분기 태블릿 출하량 상위 5개 업체 중 출하량이 전년비 늘어난 업체는 3위 레노버가 유일하다. 1위 애플의 3분기 태블릿(아이패드) 출하량은 전년 동기보다 27.5% 급감한 1158만대다. 출",
+          "published": "2026-11-07T06:34:37+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 5,
           "score_breakdown": {
             "keyword": 3,
@@ -398,10 +156,82 @@
         }
       ]
     },
-    "mirae_asset": {
-      "display_name": "미래에셋",
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
+          "summary": "Crypto’s extraordinary run of political good fortune in Washington has come to an abrupt halt. With Democrats set to control Congress following their midterm sweep, the industry faces the prospect of tougher rules and closer scrutiny of its ties to President Donald Trump.",
+          "published": "2026-11-07T13:00:00+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "고팍스, 해킹 협박에 입출금·매매 일시 중단…자산 피해 없어",
+          "link": "https://zdnet.co.kr/view/?no=20261106214656",
+          "summary": "[지디넷코리아]국내 가상자산 거래소 고팍스(운영사 스트리미)가 해킹 협박 이메일을 받고 가상자산 입출금과 매매 서비스를 일시 중단했다. 이용자 자산 보호를 위한 선제적 조치로, 현재까지 확인된 자산 피해는 없는 것으로 파악됐다.7일 고팍스에 따르면, 회사는 전날 해킹 협박 이메일을 받은 뒤 오후 2시 55분부터 가상자산 입출금을 중단했다. 이어 오후 3시 53분부터 매매 서비스도 일시 중단했다.이번 조치는 실제 해킹 발생 여부가 확인되기 전 이용자 자산 피해를 예방하기 위한 것이다. 고팍스는 해킹 협박 진위 여부를 확인하고 안전성이 확보됐다고 판단되면 입출금과 매매 서비스를 재개할 방침이다.이와 함께 고팍스는 이용자 가상자산 전량을 인터넷과 분리된 콜드월렛으로 이전해 보관할 예정이라고 밝혔다. 이에 따라 고팍스 웹사이트와 앱을 통한 직접 출금 기능도 일시 중단된다.다만 출금을 원하는 이용자는 고객지원센터를 통해 별도로 신청할 수 있다.고팍스는 “출금을 원하는 이용자는 고팍스 고객지원",
+          "published": "2026-11-07T00:18:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
       "count": 0,
       "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 1,
+      "articles": [
+        {
+          "title": "미래에셋 생명·자산운용 이어 증권도 개인정보 유출",
+          "link": "https://zdnet.co.kr/view/?no=20261107091854",
+          "summary": "[지디넷코리아]미래에셋그룹 핵심 주력 계열사인 미래에셋증권마저 외부 해킹 공격에 노출되면서 고객과 임직원 개인정보가 유출되는 사고가 발생했다. 앞서 미래에셋생명보험과 미래에셋자산운용 등 주요 계열사들이 잇따라 사이버 공격을 당한 데 이어, 그룹의 핵심 축인 증권사까지 뚫린 상태다.7일 미래에셋증권은 공식 홈페이지 공지사항을 통해 지난 4일과 5일 양일간 외부 비정상적인 공격을 받아 고객 계좌번호 및 임직원 개인정보가 유출됐다고 밝혔다.구체적으로 지난 4일 모바일웹 휴대폰 인증 로그인 서비스가 외부 공격을 받아 고객 계좌번호 등이 유출됐다. 3800명 고객의 계좌번호가 털렸다고 부연했다.이어 다음 날인 5일에는 사내 그룹웨어 시스템인 'mi-global'에 추가 공격이 발생하면서, 퇴직자와 외주 직원을 포함한 임직원 3만5255명의 성명과 사번·이메일 주소·휴대전화 번호 등 개인정보가 새나갔다. 다만 회사 측은 주민등록번호 등 고유식별정보나 민감 정보는 유출되지 않은 것으로 파악됐다고",
+          "published": "2026-11-07T00:43:35+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     }
   }
 }
