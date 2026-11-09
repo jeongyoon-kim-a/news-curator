@@ -1,42 +1,64 @@
 {
-  "generated_at": "2026-11-08T00:17:19.010177+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-11-09T00:38:00.086547+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 1,
       "articles": [
         {
-          "title": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Ny1YOUpGVnBUclZiMTJ0ZnJpTUxpMHZKNzN3eXdQWVBGYUloUjlUbzBwdnBTSDlydUJYVFpZb05vUWFkTUREUnRmRlpmcmY2M0NtZjBfcGYtZnlqSGRnZzJzS0NtUTJGMlE?oc=5",
-          "summary": "테슬라, 판매 부진 사이버트럭 접고 로보택시 역량 집중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-07T00:57:09+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "China’s Pudu Robotics, which makes 80% of its sales abroad, takes on Tesla in humanoids",
+          "link": "https://www.scmp.com/tech/tech-trends/article/3373641/chinas-pudu-robotics-which-makes-80-its-sales-abroad-takes-tesla-humanoids",
+          "summary": "Humanoid robots represent the next frontier for Pudu Robotics, according to founder and CEO Felix Zhang Tao, as the global commercial robotics leader takes on Elon Musk’s Tesla in the growing sector and explores manufacturing in Europe, its largest overseas market. “It’s definitely a competitor, but a long-term one,” Zhang told the South China Morning Post in a recent interview, adding that Tesla was a “very good” rival whose high profile had driven innovation and broadened market awareness in..",
+          "published": "2026-11-08T09:00:28+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 8,
       "articles": [
         {
-          "title": "AI Safety Advocates Make Gains After $110 Million Midterm Fight",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/ai-safety-advocates-make-gains-after-110-million-midterm-fight",
-          "summary": "Candidates who favor stricter oversight of artificial intelligence racked up wins in key congressional races, aided by a pro-regulation political funding group backed in part by Anthropic PBC at a time when Americans are increasingly uneasy over the rapidly developing technology.",
-          "published": "2026-11-07T14:30:00+00:00",
+          "title": "DeepSeek’s AI Agent Platform Hits 1.54 Million Daily Users",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/deepseek-s-ai-agent-platform-hits-1-54-million-daily-users",
+          "summary": "DeepSeek, the Chinese AI disruptor, released striking adoption numbers for its AI agent infrastructure as it continues to challenge Anthropic PBC and OpenAI with an entire swath of applications built around open-source AI technologies.",
+          "published": "2026-11-08T18:01:43+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 15,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia Board to Probe Spying Case After CEO Jensen Huang Admits Infidelity",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+          "summary": "In a 257-word memo to employees, Nvidia Corp. Chief Executive Officer Jensen Huang left no doubt that the chip colossus was embroiled in a crisis like none before in its three-decade history.",
+          "published": "2026-11-08T20:00:02+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -46,28 +68,117 @@
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Read the Statements From Nvidia’s Board and CEO Jensen Huang",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/read-the-memos-from-nvidia-s-board-and-ceo-jensen-huang",
+          "summary": "Nvidia Corp.’s board of directors said it was investigating whether a foreign intelligence agency targeted its CEO Jensen Huang, who sent out his own memo admitting having an affair.",
+          "published": "2026-11-08T20:23:30+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Anthropic Buys Power for AI Data Centers in $3.4B Deal, FT Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-08/anthropic-buys-power-for-ai-data-centres-in-3-4b-deal-ft-says",
+          "summary": "Anthropic PBC has agreed to pay $3.4 billion for gas-fired generators for data centers, the FT reported, in what it described as the largest known single purchase of power-generation equipment by an AI lab.",
+          "published": "2026-11-08T11:48:21+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "m_and_a"
           ]
         },
         {
-          "title": "Meta’s $25 Billion Bond Sale Highlights Shifting Landscape for Tech Debt",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/meta-s-bond-sale-shows-new-reality-for-tech-debt-credit-weekly",
-          "summary": "Selling billions of dollars of corporate bonds on Election Day seemed like a real gamble.",
-          "published": "2026-11-07T20:00:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "[ZD브리핑] 삼성·SK·LG 엔비디아 'AI 데이' 총출동 ..KT·네이버·게임 빅3 실적 발표",
+          "link": "https://zdnet.co.kr/view/?no=20261108125202",
+          "summary": "[지디넷코리아]지디넷코리아는 IT 업계의 이슈를 미리 체크하는 '이번 주 꼭 챙겨봐야 할 뉴스'를 제공합니다. '꼭 챙길 뉴스'는 정보통신, 소프트웨어(SW), 전자기기, 소재부품, 콘텐츠, 플랫폼, e커머스, 금융, 디지털 헬스케어, 게임, 블록체인, 과학 등의 소식을 담았습니다. 바쁜 현대인들의 월요병을 조금이나마 덜어 줄 '꼭 챙길 뉴스'를 통해 한 주 동안 발생할 IT 이슈를 미리 확인해 보시기 바랍니다. [편집자주]이번 주 AI와 ICT 산업계의 기대를 모았던 젠슨 황 엔비디아 최고경영자(CEO) 장녀인 매디슨 황 엔비디아 옴니버스·로보틱스 제품 마케팅 수석이사 방한이 돌연 취소됐습니다. 이에 따라 예정돼 있던 배경훈 부총리 겸 과학기술정보통신부 장관과의 면담을 비롯해 국내 대기업과 비즈니스 협력 일정도 모두 취소됐습니다. 황 수석이사의 불참과 관계없이 '엔비디아 AI 데이 서울 2026' 행사는 예정대로 개최됩니다.정책 분야에서는 정보통신기획평가원이 주관하고 과학기술정보통",
+          "published": "2026-11-08T04:33:53+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 9,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황, 불륜 인정…엔비디아 이사회 자체 조사 착수",
+          "link": "https://zdnet.co.kr/view/?no=20261109083723",
+          "summary": "[지디넷코리아]젠슨 황 엔비디아 최고경영자(CEO) 겸 설립자가 외국 정보기관의 정보 수집 활동 대상이 됐다는 의혹이 불거진 가운데, 엔비디아 이사회가 이와 관련한 독립적인 조사에 착수했다.엔비디아는 8일(현지시간) 성명서를 통해 \"사외이사로 구성된 위원회가 외부 독립 법률 고문의 도움을 받아 조사를 감독할 것\"이라며 \"이사회는 국가 안보나 엔비디아 기밀이 유출됐다고 믿을 만한 이유는 없으나, 이사회 회조사에서는 모든 정보를 검토할 것\"이라고 밝혔다.회사는 이어 \"젠슨 황 CEO는 이번 검토를 전적으로 지지하며, 협조할 것을 약속했다\"고 덧붙였다.앞서 뉴욕타임스(NYT)는 지난달 30일 미 정보당국이 중국 국적의 앨리스 황이 젠슨 황 CEO와 긴밀한 관계를 맺고 중국으로 정보를 유출해온 것으로 판단하고 있다고 보도했다. 앨리스 황은 엔비디아의 고객사인 싱가포르 데이터센터 업체 메가스피드의 임원으로 알려졌다. 메가스피드는 대중국 반도체 수출통제를 우회하는 데 관여했다는 의혹으로미 당국",
+          "published": "2026-11-08T23:58:17+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황, 불륜 사실 인정하고 사과…엔비디아 \"CEO직 유지\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEUUdCel8ySF9jYVYtc0Q0SnJfdnhvb1hSLXdsc1dQZ2lkRzNTNmE5VUQ4M1RCTlI5anRnYUNoeVlCdzBfNGlycXNIMDZzS3luUnc4dE1PajQ4NU5EVFVWeldwcU9CRGRSY1E?oc=5",
+          "summary": "젠슨 황, 불륜 사실 인정하고 사과…엔비디아 \"CEO직 유지\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-08T21:42:12+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -75,35 +186,72 @@
           "event_labels": []
         },
         {
-          "title": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBSZGZTQThOS3ZtN2FUTDJzcG00bHIxVXFMbHN0TzdlQUxTNllMNk5TR1lSZkJWQm1JYkw3U3h1Y0NCMnZZVTVSYUhUeGZCSDJBQm1ZSXRfQjh4MV9ESUw4NFV1Uy1ja2hnSkE?oc=5",
-          "summary": "TSMC, 엔비디아 요청에 3D D램 검토…삼성·SK하이닉스와 경쟁하나 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-07T01:19:37+00:00",
+          "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5icFVOaFVYQm5ZczlxN3p6bl9ISHJMd1NqMFpsN3pVRmxIcFJneDdiVFZXamRkS1o0bmc0WkRFMHpwQ0lwckxlcHhIbmJtLXQxWmNIVXRzcGZqZmp2NnFUVEt3NS03bGZoZ3c?oc=5",
+          "summary": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-08T02:26:48+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 8,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
             "recency": 1,
-            "event_bonus": 0,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
-          "event_labels": []
-        },
+          "event_labels": [
+            "m_and_a"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 1,
+      "articles": [
         {
-          "title": "\"TSMC, 메모리 진출 검토…엔비디아 요청\" 디인포메이션",
-          "link": "https://zdnet.co.kr/view/?no=20261107132711",
-          "summary": "[지디넷코리아]세계 최대 파운드리(반도체 위탁생산) 업체 TSMC가 메모리 시장 진출을 검토하고 있다는 보도가 나왔다. 6일(현지시간) IT 매체 디인포메이션 등 외신은 TSMC가 최근 차세대 메모리 기술인 3D D램 생산을 위한 사업화 구상에 착수했다고 보도했다. 3D D램은 셀을 수직으로 쌓아 성능과 용량을 높인 차세대 반도체다. 외신은 TSMC의 사업화 구상 배경에 최대 고객인 미국 엔비디아의 강력한 요청이 있었다고 설명했다. 이어 TSMC가 신규 메모리 전용 공장을 건설하거나 기존 파운드리 공장을 개조하는 방안을 검토 중이고, 첨단 패키징을 총괄하는 쉬궈진 부사장이 해당 프로젝트를 이끌고 있다고 덧붙였다.이번 행보는 인공지능(AI) 수요 급증으로 발생한 글로벌 메모리 공급난이 직접적 계기가 된 것으로 풀이된다. 엔비디아 등 글로벌 팹리스(반도체 설계전문) 기업은 고대역폭메모리(HBM)와 첨단 D램의 가격 급등과 공급 부족에 대응해 공급망 다변화 정책을 적극 추진한 바 있다.",
-          "published": "2026-11-07T05:15:36+00:00",
+          "title": "바이낸스, 해킹 사고 9일만에 CFO 사임…에어월렛스 출신 선임",
+          "link": "https://zdnet.co.kr/view/?no=20261109080934",
+          "summary": "[지디넷코리아]글로벌 가상자산 거래소 바이낸스에서 63억 달러 규모 해킹 사고가 발생한지 9일만에 최고재무책임자(CFO)가 물러난다. 바이낸스는 해킹 사고 이전부터 예정된 인사라고 강조했으나, 대규모 자산 탈취 사고 직후 이뤄진 만큼 배경에 관심이 쏠린다.8일(현지시간) 블룸버그에 따르면, 카이저 응(Kaiser Ng) 바이낸스 CFO가 물러나고 글로벌 결제기업 에어월렉스 출신 저스틴 옉(Justin Yek)이 후임을 맡는다.다만 응 CFO의 정확한 퇴임 시점과 향후 사업 계획 등은 공개되지 않았다.허이 바이낸스 공동 최고경영자(CEO)는 “카이저 응 CFO는 바이낸스에서 5년 넘게 근무한 뒤 새로운 사업에 도전하기로 결정했다”고 설명했다. 이어 “지난 6개월 동안 인수인계 계획을 진행해왔다”고 말하며 이번 인사가 최근 발생한 해킹 사고와 무관하다고 강조했다.응 CFO는 2022년 1월부터 바이낸스 CFO를 맡아왔다. 바이낸스 합류 전에는 글로벌 가상자산 거래소 크라켄에서 근무했다.",
+          "published": "2026-11-08T23:27:17+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 3,
+      "articles": [
+        {
+          "title": "김용하 총괄 PD, ‘블루 아카이브’ 5주년 현장서 이용자와 소통",
+          "link": "https://zdnet.co.kr/view/?no=20261108113011",
+          "summary": "[지디넷코리아]김용하 넥슨게임즈 총괄 PD가 ‘블루 아카이브’ 글로벌 서비스 5주년을 기념하는 축제 현장에서 이용자들과 함께 게임을 즐기며 소통했다.김 PD는 8일 경기 고양시 킨텍스 제2전시장 9홀에서 진행 중인 ‘블루 아카이브 5주년 페스티벌’을 찾았다. 이날 김 PD는 현장 게임에 직접 이용자들과 함께 참여하고 굿즈를 직접 나눠주며 팬들과 만났다.넥슨이 7일부터 이틀간 마련한 이번 행사는 지난 5년간 ‘블루 아카이브’를 즐겨온 이용자들이 게임 속 세계관을 체험하고 교류하는 오프라인 축제다. 행사장에는 총력전 보스를 활용한 미니게임과 포토존, 공식 굿즈를 판매하는 ‘샬레 스토어’ 등이 마련됐다. 팬 아티스트 97팀이 이틀에 걸쳐 참여하는 ‘키보토스 마켓’에서는 이용자들이 직접 만든 2차 창작물도 선보였다.김 PD는 “선생님들과 함께한 시간을 한 해씩 꼽다 보니 어느새 다섯 손가락을 모두 채우게 됐다”며 “그동안 함께해 주신 선생님들께 감사드리며, 이번 페스티벌에서 즐거운 추억을 ",
+          "published": "2026-11-08T03:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 7,
           "score_breakdown": {
             "keyword": 5,
@@ -115,15 +263,35 @@
           "event_labels": []
         },
         {
-          "title": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81VXNDa1FuNWRJc0NRa0xEcTQya2hxeTZUWGFuRDlVT1pWSU1La0RGd2hlVlBnLXFzZUpOT1ZEV29KQUJucnY5d0NGaDQwYU9CbFFPVGFPalNpZmg3Q3pVeHFCQzQ3U0xlMkE?oc=5",
-          "summary": "메타, AI로 맞춤형 앱 만드는 '뮤즈 스페이스' 출시 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-07T06:39:27+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "넥슨 ‘블루 아카이브’, 모집 개편·메인스토리 추가…'5주년 업데이트' 청사진 공개",
+          "link": "https://zdnet.co.kr/view/?no=20261108170705",
+          "summary": "[지디넷코리아]넥슨 ‘블루 아카이브’가 글로벌 서비스 5주년을 맞아 학생 모집 체계를 개편하고 새로운 메인 스토리를 선보인다. 픽업 대상 학생을 얻지 못한 경우 모집 횟수를 다음 픽업으로 이월하는 시스템을 도입하는 한편, 음악과 출판, 식음료 협업으로 게임 밖에서도 이용자 접점을 넓힌다.넥슨은 8일 경기 고양시 킨텍스에서 열린 ‘블루 아카이브 5주년 페스티벌’에서 ‘키보토스 라이브’를 통해 이 같은 계획을 공개했다. 현장에는 김용하 넥슨게임즈 총괄 PD와 이준호 부PD가 참석해 주요 업데이트와 IP 활용 계획을 소개했다.오는 10일 점검 이후 적용하는 학생 모집 개편은 기존 ‘모집 포인트’를 폐지하고 ‘모집 스택’을 도입하는 것이 골자다. 일반 픽업과 특별 픽업으로 나눠 모집 횟수를 각각 누적하며, 두 종류 모두 100회 모집 시 3성 학생이 확정적으로 등장한다. 이때 픽업 대상 학생이 나올 확률은 50%다.100회 모집에서 픽업 대상 학생을 얻지 못하면 횟수가 계속 쌓이고, 200",
+          "published": "2026-11-08T08:07:05+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "쿠팡·네이버에 버젓이 올라온 ‘한푸’…서경덕 “중국 억지 주장에 빌미 제공” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rWVJXNGsycEhncDZWTms1dkh6QUdteXBYVXF3Um5LOFM3THFLZTRMTFVObEJVU0VTcW9uaENES29lbkdhRU1vVFZkVWZTcGNsaGszbg?oc=5",
+          "summary": "쿠팡·네이버에 버젓이 올라온 ‘한푸’…서경덕 “중국 억지 주장에 빌미 제공” &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-08T05:04:42+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
@@ -133,105 +301,13 @@
             "noise_penalty": 0
           },
           "event_labels": []
-        },
-        {
-          "title": "\"3분기 태블릿 출하 23% 급감...2028년 이전 회복 어려워\"",
-          "link": "https://zdnet.co.kr/view/?no=20261107151936",
-          "summary": "[지디넷코리아]3분기 전 세계 태블릿 출하량이 전년 동기보다 23.0% 급감했다고 시장조사업체 옴디아가 최근 밝혔다. 2분기 출하량도 전년비 9.9% 감소한 바 있다.옴디아가 집계한 3분기 전 세계 태블릿 출하량은 3219만대다. 거의 3년 만에 최저다. 지역별로 중동과 중국, 서유럽 시장에서 감소폭이 컸다. 옴디아는 \"공급 제약 심화로 완제품 업체의 2026~2027년 전략 우선순위에서 태블릿이 밀려나고 있다\"며 \"공급 제약은 2027년에도 심해져, 태블릿 시장에서 유의미한 회복은 2028년 이전에는 어려울 것\"이라고 전망했다. '공급 제약'이란 표현은 메모리 반도체 가격 급등에 따른 제조원가 상승, 그리고 이에 따른 완제품 가격 인상, 중저가 제품 시장 위축 등을 가리키는 것으로 보인다. 3분기 태블릿 출하량 상위 5개 업체 중 출하량이 전년비 늘어난 업체는 3위 레노버가 유일하다. 1위 애플의 3분기 태블릿(아이패드) 출하량은 전년 동기보다 27.5% 급감한 1158만대다. 출",
-          "published": "2026-11-07T06:34:37+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Crypto’s Trump-Fueled Washington Boom Reaches Its Endgame",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-07/crypto-s-trump-fueled-washington-boom-reaches-its-endgame",
-          "summary": "Crypto’s extraordinary run of political good fortune in Washington has come to an abrupt halt. With Democrats set to control Congress following their midterm sweep, the industry faces the prospect of tougher rules and closer scrutiny of its ties to President Donald Trump.",
-          "published": "2026-11-07T13:00:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "고팍스, 해킹 협박에 입출금·매매 일시 중단…자산 피해 없어",
-          "link": "https://zdnet.co.kr/view/?no=20261106214656",
-          "summary": "[지디넷코리아]국내 가상자산 거래소 고팍스(운영사 스트리미)가 해킹 협박 이메일을 받고 가상자산 입출금과 매매 서비스를 일시 중단했다. 이용자 자산 보호를 위한 선제적 조치로, 현재까지 확인된 자산 피해는 없는 것으로 파악됐다.7일 고팍스에 따르면, 회사는 전날 해킹 협박 이메일을 받은 뒤 오후 2시 55분부터 가상자산 입출금을 중단했다. 이어 오후 3시 53분부터 매매 서비스도 일시 중단했다.이번 조치는 실제 해킹 발생 여부가 확인되기 전 이용자 자산 피해를 예방하기 위한 것이다. 고팍스는 해킹 협박 진위 여부를 확인하고 안전성이 확보됐다고 판단되면 입출금과 매매 서비스를 재개할 방침이다.이와 함께 고팍스는 이용자 가상자산 전량을 인터넷과 분리된 콜드월렛으로 이전해 보관할 예정이라고 밝혔다. 이에 따라 고팍스 웹사이트와 앱을 통한 직접 출금 기능도 일시 중단된다.다만 출금을 원하는 이용자는 고객지원센터를 통해 별도로 신청할 수 있다.고팍스는 “출금을 원하는 이용자는 고팍스 고객지원",
-          "published": "2026-11-07T00:18:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 5,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "미래에셋 생명·자산운용 이어 증권도 개인정보 유출",
-          "link": "https://zdnet.co.kr/view/?no=20261107091854",
-          "summary": "[지디넷코리아]미래에셋그룹 핵심 주력 계열사인 미래에셋증권마저 외부 해킹 공격에 노출되면서 고객과 임직원 개인정보가 유출되는 사고가 발생했다. 앞서 미래에셋생명보험과 미래에셋자산운용 등 주요 계열사들이 잇따라 사이버 공격을 당한 데 이어, 그룹의 핵심 축인 증권사까지 뚫린 상태다.7일 미래에셋증권은 공식 홈페이지 공지사항을 통해 지난 4일과 5일 양일간 외부 비정상적인 공격을 받아 고객 계좌번호 및 임직원 개인정보가 유출됐다고 밝혔다.구체적으로 지난 4일 모바일웹 휴대폰 인증 로그인 서비스가 외부 공격을 받아 고객 계좌번호 등이 유출됐다. 3800명 고객의 계좌번호가 털렸다고 부연했다.이어 다음 날인 5일에는 사내 그룹웨어 시스템인 'mi-global'에 추가 공격이 발생하면서, 퇴직자와 외주 직원을 포함한 임직원 3만5255명의 성명과 사번·이메일 주소·휴대전화 번호 등 개인정보가 새나갔다. 다만 회사 측은 주민등록번호 등 고유식별정보나 민감 정보는 유출되지 않은 것으로 파악됐다고",
-          "published": "2026-11-07T00:43:35+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
