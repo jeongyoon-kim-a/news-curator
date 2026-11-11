@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T03:17:38.313024+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-11-11T01:06:07.094510+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
@@ -12,12 +12,12 @@
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI Backer Altimeter Targets More Than $3 Billion for Private Markets Funds",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-backer-altimeter-targets-more-than-3-billion-for-private-markets-funds",
-          "summary": "Altimeter Capital Management, a prominent OpenAI and Anthropic PBC investor, is raising a set of new funds for its private markets investment work.The firm is targeting a $2.5 billion new venture capital fund to back late-stage, pre-IPO companies, according to securities filings and a person familiar with the matter. Altimeter is also in discussions to raise around $800 million to $900 million for a new venture fund that will back a diverse group of younger startups, according to the person, who",
-          "published": "2026-11-10T01:46:11+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
+          "title": "Anthropic IPO Explained: Nasdaq Listing and Key Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks",
+          "summary": "In late 2020, a group of senior OpenAI employees unhappy with what they saw as the company’s failure to adequately prioritize AI ethics and safety left the firm to form Anthropic PBC. Just a few years later, the younger company has become an artificial intelligence behemoth that is expected to hold one of the largest initial public offerings in history.",
+          "published": "2026-11-10T22:37:59+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -34,54 +34,32 @@
           ]
         },
         {
-          "title": "Nvidia faces defining test as Jensen Huang probe adds to chip stock turbulence",
-          "link": "https://www.scmp.com/tech/big-tech/article/3373825/nvidia-faces-defining-test-jensen-huang-probe-adds-chip-stock-turbulence",
-          "summary": "Nvidia is facing an unprecedented valuation test as a board inquiry into CEO Jensen Huang exposes the US chipmaker to a rare key-person risk, while investors also weigh the midterm elections’ potential impact on Washington’s chip controls and AI regulation. The company’s shares slumped 7.3 per cent as markets opened in the United States on Monday, following Huang’s bombshell confirmation over the weekend that he had been unfaithful to his wife and would cooperate with an investigation into his..",
-          "published": "2026-11-09T14:30:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 7,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change",
-            "funding"
-          ]
-        },
-        {
-          "title": "Can DeepSeek challenge OpenAI, Anthropic in AI agents as Harness adoption takes off?",
-          "link": "https://www.scmp.com/tech/big-tech/article/3373757/can-deepseek-challenge-openai-anthropic-ai-agents-harness-adoption-takes",
-          "summary": "DeepSeek’s Harness artificial intelligence agent framework has reached 1.54 million daily active users less than three months after launch, the Chinese AI champion said on Sunday, marking rapid growth in a new battleground between leading Chinese and American AI giants. Users of Harness through the company’s official application programming interface were consuming around 92 trillion tokens a day as of November 4, the Hangzhou-based start-up said. That is equivalent to about 1.1 billion tokens..",
-          "published": "2026-11-09T07:00:04+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Anthropic Investors Shop IPO Shares Early, and at a Big Premium",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
+          "summary": "Some Anthropic PBC backers are offering a portion of their IPO allocation to new investors in the run-up to the largest public listing on record.",
+          "published": "2026-11-10T20:58:08+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         },
         {
-          "title": "Nvidia CEO Jensen Huang's Affair With Alleged Spy Raises Succession Concerns",
-          "link": "https://www.bloomberg.com/news/features/2026-11-09/nvidia-ceo-jensen-huang-s-affair-with-alleged-spy-raises-succession-concerns",
-          "summary": "The board is probing whether its CEO was targeted by a foreign agent and facing the risk of a future without its singular leader.",
-          "published": "2026-11-09T23:41:26+00:00",
+          "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
+          "link": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
+          "summary": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
+          "published": "2026-11-10T21:27:25+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -100,20 +78,64 @@
           ]
         },
         {
-          "title": "엔비디아 주주들, 젠슨 황에 소송…“주가 급락 손해배상하라” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oRTVfY0c4ZEEzd0RmUHhoNlFSRnFlc25MZHBUUEp4X2pLbGhHN0dIaGktYTBNM05QMF94aW5WSVRiYWROSFNQVFdWSDZMV19PUGc?oc=5",
-          "summary": "엔비디아 주주들, 젠슨 황에 소송…“주가 급락 손해배상하라” &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-10T00:34:41+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+          "summary": "OpenAI’s quarterly revenue hit $10 billion for the first time in the three months ending in September, according to people familiar with the matter, driven by strong demand for its latest artificial intelligence software.",
+          "published": "2026-11-10T22:33:06+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
+            "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        },
+        {
+          "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
+          "summary": "Australian retail investors are able to buy shares of Anthropic PBC in the artificial intelligence giant’s initial public offering, which targets a valuation of $1.4 trillion.",
+          "published": "2026-11-10T22:35:28+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 '허위 설명' 쟁점 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTTZuMmNJRW42VWNpRm1qbmtiTUdVY0p3bDUwODd6R1R6YUtlUmRWMXYwQnVxUF90ZzB3VW5VaXpaT3lDUVFrSlZ2Tjc2M3R0X3dTR1FnZE55MG1EdHd4VDFZNUJRRnJVdkE?oc=5",
+          "summary": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 '허위 설명' 쟁점 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-10T02:34:38+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -122,56 +144,12 @@
           ]
         },
         {
-          "title": "Anthropic Retracts Filing That Showed IPO Target, Reuters Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
-          "summary": "Anthropic PBC sent out and retracted a filing that appeared to show it was aiming to raise as much as $69.3 billion ⁠through an initial public offering, Reuters said.",
-          "published": "2026-11-10T01:43:10+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "젠슨 황 엔비디아 CEO, 자리 지킬까…트럼프·월가 의견 분분 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBReXRqaTRYSS1vTmhlVTZXUXZReExGd2M2cnJyY1YteThZZkI3VXVOR05rTDJwUjNMVThVUWQ4T1VXaTI3VmV1WU1aMFE0b1ZYYk41WHgtZmo1bGFrSFBRZXVqa0FEenpUQXVJd2VpTmXSAXRBVV95cUxNN0FzUGtBZklwTXVBY213eEhwSHhDSjJfcWF6bmdBVTluclJXSFY4YVM2ZG5mT0lKbzFabHRkN1lCaHlzQVRKN19qaGJ4Q3RURVZPV3NpMlB2dzdGWld5UVZ3OE1mR1lueDh2alRSa2FWVk9kWg?oc=5",
-          "summary": "젠슨 황 엔비디아 CEO, 자리 지킬까…트럼프·월가 의견 분분 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-10T00:05:36+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "구글, 엔비디아 추격 박차…AI 반도체 'TPU' 제품군 확대 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lamMxOEw2dzl1QldrN1NiTXlKbUx6VDNueEdjVnF6WVBZNFFGMkx5MW5xVlg0Yno4ckZCNGYzMUlBQ0lZdUtUTmFCNFprRmdaSlg1Y3ZtXzBpMDBSZTlYdjlDSS1meUlQeEpBQWFEdTg?oc=5",
-          "summary": "구글, 엔비디아 추격 박차…AI 반도체 'TPU' 제품군 확대 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-09T14:10:01+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxYjBGV1lzeE13SmJNZUFDS2I4ZmstY01wbDg3RGxNakJjY0dCUC1adVRlVFA2UGRFdVoxOUFrYUlkdkFVQ2pQWmFRT1VSdGNEQ0VBNjNZOV93X1ZFbXllWE9vUzRZTU91RUE?oc=5",
+          "summary": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-10T05:00:23+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -184,95 +162,76 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
+          "link": "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
+          "summary": "A political storm sparked by US media reports alleging American intelligence agencies suspect Nvidia CEO Jensen Huang was targeted in an espionage operation – a claim Beijing has denied – threatens to intensify Washington’s tech blockade on China following a Democratic midterm victory. Analysts said the twin developments could give the US Congress the political momentum needed to plug loopholes in existing semiconductor restrictions, accelerating efforts to curb third-country chip smuggling and.",
+          "published": "2026-11-10T14:30:22+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
-    "korea_fintech": {
-      "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 1,
       "articles": [
         {
-          "title": "[AI는 지금] IPO 앞둔 앤트로픽, '페이블·미토스 5.2' 공개…에이전트 협업 강화",
-          "link": "https://zdnet.co.kr/view/?no=20261110094407",
-          "summary": "[지디넷코리아]앤트로픽이 기업공개(IPO)를 앞두고 더 빠르고 저렴한 클로드 신모델을 출시했다. 여러 AI 에이전트가 일을 나눠 처리하는 능력을 높여 개발자와 연구자가 더 복잡한 작업을 맡길 수 있도록 했다.앤트로픽은 9일(현지시간) 공식 홈페이지를 통해 '클로드 페이블 5.2'와 '클로드 미토스 5.2'를 공개했다. 이전 버전보다 답변 생성 속도를 최대 30% 높이고 기본 이용 요금을 100만 토큰당 입력 8달러(약 1만원), 출력 40달러(약 5만원)로 낮췄다.신모델은 여러 단계로 나뉜 작업을 진행하고 결과를 검토하는 능력을 높였다. 어려운 문제는 직접 풀고 간단한 작업은 작은 모델에 맡겨 시간과 비용을 줄인다.두 제품은 같은 기반 모델을 사용하지만 이용 조건이 다르다. 페이블은 보안과 생물학 분야에서 악용될 수 있는 요청을 제한해 일반 고객에게 제공한다. 미토스는 보안·생명과학 분야에서 심사를 통과한 조직을 대상으로 공급한다.앤트로픽은 페이블 5.2에 운영체제 시제품 개발을 맡",
-          "published": "2026-11-10T01:33:31+00:00",
+          "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
+          "link": "https://zdnet.co.kr/view/?no=20261111061014",
+          "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Convergence 4th Annual Crypto, FinTech, AI &amp; Energy Infrastructure Conference)에 참가한다고 회사 측이 11월 9일 발표했다. 퀀티넘은 콘퍼런스 기간에 대담에 참여하고 투자자들과 일대일 미팅을 진행할 예정이다. 퀀티넘 소개 퀀티넘은 양자 컴퓨팅을 실제 환경에 구축하도록 도와주는 풀스택 플랫폼을 제공하는 선도 양자 컴퓨팅 기업이다. 회사는 기성 QCCD 아키텍처를 기반으로 여러 세대의 이온 트랩 양자 시스템을 상용화했고 이 아키텍처에 새로운 설계와 기능을 구현해 평균 2큐비트",
+          "published": "2026-11-10T21:10:14+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 11,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "AI가 찾은 버그, 고치는 속도가 따라잡았다",
-          "link": "https://zdnet.co.kr/view/?no=20261110102528",
-          "summary": "[지디넷코리아]리눅스 커널 일부 영역에서 인공지능(AI)으로 찾아낸 버그 보고 속도를 고치는 속도가 앞지르기 시작했다.이를 계기로 AI 확산으로 급증한 보안 패치 부담에 대응할 수 있을 것이라는 조심스러운 기대가 나오고 있다.9일 더레지스터 등 외신에 리누스 토발즈 리눅스 커널 개발 총괄은 리눅스 7.4의 두 번째 출시 후보 버전(RC2)을 공개하며 이같이 밝혔다.그는 알렉세이 스타로보이토프 eBPF 공동 개발자 겸 유지관리자 설명을 바탕으로 eBPF 부문에서 새 버그가 보고되는 속도보다 수정 패치가 제출되는 속도가 더 빠르다고 설명했다. eBPF는 격리된 프로그램을 리눅스 커널 안에서 실행할 수 있게 하는 기술로 네트워크 트래픽 처리와 시스템 모니터링 등에 쓰인다.지난 4월 앤트로픽이 취약점 탐지 모델 '미토스'를 공개한 이후 AI를 활용한 결함 발견이 늘면서 개발진과 IT 운영팀 패치 부담이 급증하는 추세다.마이크로소프트는 지난 9월 974건의 결함을 수정하며 역대 최다 기록을 ",
-          "published": "2026-11-10T01:34:20+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
+            "keyword": 6,
             "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
-        },
+        }
+      ]
+    },
+    "korea_fintech": {
+      "display_name": "한국 핀테크",
+      "count": 1,
+      "articles": [
         {
-          "title": "“타이어 8종 최대 47% 할인”…콘티넨탈, 11일 네이버 쇼핑라이브 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5jdWZYS01WeE14eGE4Mzk2R2VsRDl3YmtLNlpfZE1lcDZWZ0JTVTBCNzZfSUROLTBkaHIzWF9kVThzMDNyV1hQVGV1VERLRVlBUzBIM1dR?oc=5",
-          "summary": "“타이어 8종 최대 47% 할인”…콘티넨탈, 11일 네이버 쇼핑라이브 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-10T01:53:06+00:00",
+          "title": "1.3조원 받자마자 불륜 인정이라니…젠슨황 스캔들에 네이버는? - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FRlQtV2llN0J6cFJSTlZKTnFVejR2QmZqWnhPU2lTb2liYldoRzRpZDVmTjRPdEx6YkRTTXpDczVELWVpTHZtcnhkTUw5Q3NzbFZnczJ3?oc=5",
+          "summary": "1.3조원 받자마자 불륜 인정이라니…젠슨황 스캔들에 네이버는? &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-10T05:17:01+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "[영상] 모두의 AI, 국민의 삶 바꿀까",
-          "link": "https://zdnet.co.kr/view/?no=20261110110854",
-          "summary": "[지디넷코리아]식당에 전화해 예약이 가능한지 확인하는 일을 인공지능(AI)에 맡기고, 카카오톡에서 자신이 받을 수 있는 공공서비스를 찾아 신청한다. 정부가 추진하는 '모두의 AI'가 그리는 일상이다. 평소 쓰는 전화와 메신저, 생활 앱에서 누구나 국산 AI를 무료로 이용할 수 있게 한다는 구상이다.10일 김동환 포티투마루 대표는 지디넷코리아와의 영상 인터뷰에서 익숙한 서비스에 AI를 넣으면 고령층 등 AI를 처음 접하는 국민의 이용 문턱을 낮출 수 있을 것으로 기대했다.과학기술정보통신부는 지난 8월 SK텔레콤, 카카오, KT 등 3개 컨소시엄을 사업 수행기관으로 선정했다. 세 컨소시엄은 각자 범용 AI 챗봇과 생활 분야 특화 서비스를 개발하고 있다. 지난 10월 16일 비공개 베타 테스트에 들어갔으며 12월 정식 출시를 추진한다.SK텔레콤은 별도 앱을 설치하지 않아도 전화와 문자로 AI를 쓸 수 있도록 하는 데 집중한다. 스마트폰 앱이나 온라인 신청에 익숙하지 않은 고령층도 평소처럼",
-          "published": "2026-11-10T02:50:23+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -282,51 +241,8 @@
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 2,
-      "articles": [
-        {
-          "title": "미래에셋, ‘TIGER 200커버드콜액티브 ETF’ 신규 상장 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2R1k5SUhTTUNtcmFhV0Vtd0w0ZWhSaVdiMzZjUU9YOFJoUWZIbGxSVFlwNzZPTnNhQWd2Mm1Hb1Q2V1hQRmc0TU54UXlBNmVB?oc=5",
-          "summary": "미래에셋, ‘TIGER 200커버드콜액티브 ETF’ 신규 상장 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-10T02:39:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "특징주, 미래에셋증권-코리아 밸류업 지수(Korea Value-up In 테마 상승세에 6.19% ↑ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rNVA3WlpySWdNU1duRlNVbVRub1E4cG5kbXRMRlh4d1A2NHh1UFNGME9tUkxyTDQ3LTlkX1htVzVNR0xha3ZrOGtoTTN0WHlnaFE?oc=5",
-          "summary": "특징주, 미래에셋증권-코리아 밸류업 지수(Korea Value-up In 테마 상승세에 6.19% ↑ &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-10T00:48:14+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
