@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T01:06:07.094510+00:00",
-  "total_articles": 10,
+  "generated_at": "2026-11-12T02:09:19.930174+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
@@ -12,12 +12,12 @@
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic IPO Explained: Nasdaq Listing and Key Risks",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-ipo-explained-nasdaq-listing-and-key-risks",
-          "summary": "In late 2020, a group of senior OpenAI employees unhappy with what they saw as the company’s failure to adequately prioritize AI ethics and safety left the firm to form Anthropic PBC. Just a few years later, the younger company has become an artificial intelligence behemoth that is expected to hold one of the largest initial public offerings in history.",
-          "published": "2026-11-10T22:37:59+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
+          "summary": "In late September, OpenAI entered discussions for its latest funding round with confidence. After having early discussions with prospective backers who had expressed interest, the company presented its terms: at least $30 billion in new capital at a $1.4 trillion valuation.Few startups have been as successful at fundraising as OpenAI, which was last valued at $852 billion. This time, however, some investors felt the terms were too lofty, according to people familiar with the matter, who spoke on",
+          "published": "2026-11-11T21:39:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -34,20 +34,20 @@
           ]
         },
         {
-          "title": "Anthropic Investors Shop IPO Shares Early, and at a Big Premium",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-investors-shop-ipo-shares-early-and-at-a-big-premium",
-          "summary": "Some Anthropic PBC backers are offering a portion of their IPO allocation to new investors in the run-up to the largest public listing on record.",
-          "published": "2026-11-10T20:58:08+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
+          "link": "https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race",
+          "summary": "Taiwan Semiconductor Manufacturing Company’s (TSMC) move to take equity stakes in both OpenAI and Anthropic will give the world’s largest contract chipmaker direct financial ties to the frontier AI labs driving demand for its business. Its board on Tuesday authorised up to US$500 million to buy Anthropic common shares at its initial public offering (IPO) price, and up to US$500 million to buy preferred shares in OpenAI. Directors separately approved up to US$500 million to establish a dedicated.",
+          "published": "2026-11-11T07:30:21+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 15,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
+            "keyword": 10,
+            "source": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
@@ -56,54 +56,10 @@
           ]
         },
         {
-          "title": "La crisis de Nvidia expone su dependencia de Jensen Huang",
-          "link": "https://www.bloomberg.com/news/features/2026-11-10/la-crisis-de-nvidia-expone-su-dependencia-de-jensen-huang",
-          "summary": "La junta está investigando si su CEO fue objeto de una espía china y evalúa el riesgo de un futuro sin su singular líder.",
-          "published": "2026-11-10T21:27:25+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "OpenAI Third-Quarter Revenue Soars Nearly 50% to $10 Billion",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
-          "summary": "OpenAI’s quarterly revenue hit $10 billion for the first time in the three months ending in September, according to people familiar with the matter, driven by strong demand for its latest artificial intelligence software.",
-          "published": "2026-11-10T22:33:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings"
-          ]
-        },
-        {
-          "title": "Anthropic Lodges Australian Prospectus, Opening IPO to Retail",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-lodges-australian-prospectus-opening-ipo-to-retail",
-          "summary": "Australian retail investors are able to buy shares of Anthropic PBC in the artificial intelligence giant’s initial public offering, which targets a valuation of $1.4 trillion.",
-          "published": "2026-11-10T22:35:28+00:00",
+          "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
+          "summary": "Anthropic PBC’s long-awaited initial public offering will give investors a crucial look at the health of the artificial intelligence trade, and Wall Street hopes it will spur the next leg of the AI-fueled stock market rally that’s going on four years.",
+          "published": "2026-11-11T21:15:02+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
@@ -122,20 +78,42 @@
           ]
         },
         {
-          "title": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 '허위 설명' 쟁점 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTTZuMmNJRW42VWNpRm1qbmtiTUdVY0p3bDUwODd6R1R6YUtlUmRWMXYwQnVxUF90ZzB3VW5VaXpaT3lDUVFrSlZ2Tjc2M3R0X3dTR1FnZE55MG1EdHd4VDFZNUJRRnJVdkE?oc=5",
-          "summary": "엔비디아·젠슨 황, 주주 집단소송 직면…스파이 의혹 '허위 설명' 쟁점 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-10T02:34:38+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
+          "summary": "Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China, a person familiar with the situation said.",
+          "published": "2026-11-11T23:46:39+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "흔들리는 엔비디아·다가오는 미국규제에 삼전닉스 '초긴장' - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kd0d4b0lSTWlKZ3d5U1pPWng3U0VLazZLS0hUbnN5T3ZBSnpPUW1vWl8xb0NwV2xkRjFkY2RHR3ZEa0NFbm9QWjJjanBCdFpkbGc?oc=5",
+          "summary": "흔들리는 엔비디아·다가오는 미국규제에 삼전닉스 '초긴장' &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-12T00:39:41+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
           },
@@ -144,67 +122,63 @@
           ]
         },
         {
-          "title": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxYjBGV1lzeE13SmJNZUFDS2I4ZmstY01wbDg3RGxNakJjY0dCUC1adVRlVFA2UGRFdVoxOUFrYUlkdkFVQ2pQWmFRT1VSdGNEQ0VBNjNZOV93X1ZFbXllWE9vUzRZTU91RUE?oc=5",
-          "summary": "구글, AI 에이전트·보안 특화 TPU 2종 공개…엔비디아 추격 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-10T05:00:23+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "How Nvidia CEO’s troubles, US midterms may tighten China chip curbs: ‘adding fuel to fire’",
-          "link": "https://www.scmp.com/tech/big-tech/article/3373977/adding-fuel-fire-how-nvidia-ceos-troubles-us-midterms-may-tighten-china-chip-curbs",
-          "summary": "A political storm sparked by US media reports alleging American intelligence agencies suspect Nvidia CEO Jensen Huang was targeted in an espionage operation – a claim Beijing has denied – threatens to intensify Washington’s tech blockade on China following a Democratic midterm victory. Analysts said the twin developments could give the US Congress the political momentum needed to plug loopholes in existing semiconductor restrictions, accelerating efforts to curb third-country chip smuggling and.",
-          "published": "2026-11-10T14:30:22+00:00",
+          "title": "‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight",
+          "link": "https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify",
+          "summary": "Nvidia shares fell more than 8 per cent at one point in US after-hours trading on Wednesday as CEO Jensen Huang’s prospects of hanging onto his role became more clouded after media reports of a board meeting and another extramarital affair. The drop in the American AI chip giant’s share price erased a 2.9 per cent rebound in the regular trading session, after the stock lost over 9.5 per cent in trading on Monday and Tuesday. It came as speculation mounted over whether Huang would keep his job...",
+          "published": "2026-11-12T00:53:52+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
             "exec_change"
           ]
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
+        },
         {
-          "title": "퀀티넘, 캔터 컨버전스 제4회 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스 참가",
-          "link": "https://zdnet.co.kr/view/?no=20261111061014",
-          "summary": "[지디넷코리아] 브룸필드, 콜로라도, 2026년 11월 11일 /PRNewswire/ -- 양자컴퓨팅 선도 기업 퀀티넘(Quantinuum Inc., 나스닥: QNT, 이하 '회사')의 경영진이 2026년 11월 10일부터 12일까지 플로리다주 마이애미에서 열리는 캔터 컨버전스 제4회 연례 암호화폐•핀테크•AI•에너지 인프라 콘퍼런스(Cantor Convergence 4th Annual Crypto, FinTech, AI &amp; Energy Infrastructure Conference)에 참가한다고 회사 측이 11월 9일 발표했다. 퀀티넘은 콘퍼런스 기간에 대담에 참여하고 투자자들과 일대일 미팅을 진행할 예정이다. 퀀티넘 소개 퀀티넘은 양자 컴퓨팅을 실제 환경에 구축하도록 도와주는 풀스택 플랫폼을 제공하는 선도 양자 컴퓨팅 기업이다. 회사는 기성 QCCD 아키텍처를 기반으로 여러 세대의 이온 트랩 양자 시스템을 상용화했고 이 아키텍처에 새로운 설계와 기능을 구현해 평균 2큐비트",
-          "published": "2026-11-10T21:10:14+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 10,
+          "title": "Anthropic IPO Risks Causing AI Correction, Selby Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+          "summary": "Anthropic PBC’s blockbuster initial public offering may become the catalyst for major reversal in the artificial intelligence trade, according to Jack Selby, who runs the venture capital firm Copper Sky.",
+          "published": "2026-11-11T06:13:06+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Nvidia Preparing to Oust Jensen Huang After Affairs, WSJ Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
+          "summary": "Nvidia Corp.’s board is preparing to oust Chief Executive Officer Jensen Huang after multiple extramarital affairs, including one with a woman who is reportedly suspected of being a Chinese spy, the Wall Street Journal said Wednesday.",
+          "published": "2026-11-11T22:27:33+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -213,36 +187,84 @@
         }
       ]
     },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 0,
+      "articles": []
+    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "1.3조원 받자마자 불륜 인정이라니…젠슨황 스캔들에 네이버는? - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9FRlQtV2llN0J6cFJSTlZKTnFVejR2QmZqWnhPU2lTb2liYldoRzRpZDVmTjRPdEx6YkRTTXpDczVELWVpTHZtcnhkTUw5Q3NzbFZnczJ3?oc=5",
-          "summary": "1.3조원 받자마자 불륜 인정이라니…젠슨황 스캔들에 네이버는? &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-10T05:17:01+00:00",
+          "title": "네이버 3분기 영업이익 4천513억원…작년 동기 대비 20.9%↓ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKckhvdzZnNGwzeFNlQzRBcy1UdWJLUjkya1M3OVRsWndNeGdQUmhFTTFjYzNVNzZROGl4LTJkeW9OOTdYNGFiekFYQzkwM2NlM1E?oc=5",
+          "summary": "네이버 3분기 영업이익 4천513억원…작년 동기 대비 20.9%↓ &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-11T23:16:03+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "네이버, 3Q 영업익 4513억원…투자 늘려 전년比 20.9%↓",
+          "link": "https://zdnet.co.kr/view/?no=20261112081012",
+          "summary": "[지디넷코리아]네이버가 올해 3분기 커머스와 파이낸셜 플랫폼, 글로벌 개인간 거래(C2C) 사업 약진으로 두 자릿수 성장세를 이뤄냈다. 다만, 인프라·콘텐츠·오프라인 데이터 등 인공지능(AI) 경쟁력 확보를 위한 투자액 확대로 영업이익은 20%가량 줄었다.네이버는 올해 3분기 매출액 3조 4724억원, 영업이익 4513억원을 기록했다고 공시했다. 매출은 전년 동기 대비 10.7% 증가한 반면 영업이익은 20.9% 감소했다.사업 부문별 매출액은 ▲네이버 플랫폼 1조 9484억원 ▲파이낸셜 플랫폼 4877억원 ▲글로벌 도전 1조 364억원이다.네이버 플랫폼 매출은 추석 연휴에도 AI 수익화 시도 확장에 따른 광고 매출 성장과 네이버플러스 스토어앱과 멤버십을 중심으로 한 구매 확대를 바탕으로 전년 동기 대비 7.3% 증가한 1조 9484억원을 기록했다. 서비스 매출은 네이버플러스 스토어와 멤버십 이용자 확대, N배송 강화로 커머스 생태계 확장 흐름이 지속되며 전년 동기 대비 13.1% 성",
+          "published": "2026-11-11T23:26:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": -3
+          },
+          "event_labels": [
+            "earnings"
+          ]
+        }
+      ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 1,
+      "articles": [
+        {
+          "title": "미래에셋증권 3분기 영업손실 5천23억원…적자 전환 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FLWNYRTdRZ1VwNlQ4LUl2Qk1JSXp3QVBnNGd5SUdiWDJ0TVJ4d3JId1hUa2JuTWdhNjJLN0lodzhjOTRYOV9vSnp4RzYwV2tIWVE?oc=5",
+          "summary": "미래에셋증권 3분기 영업손실 5천23억원…적자 전환 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-12T00:41:11+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
