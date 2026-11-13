@@ -1,67 +1,109 @@
 {
-  "generated_at": "2026-11-12T02:09:19.930174+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-11-13T01:42:57.442477+00:00",
+  "total_articles": 16,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 3,
+      "articles": [
+        {
+          "title": "스페이스X·테슬라, 사상최대 합병 임박…\"이르면 내달 발표\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1MSnhHck9wd2FnYkQ4cUlmbkkwX3ZsM2s4RXQtam42Tk4wQzItN05qVnRqeFI1R0c3Q2E5NmJWOHpaSHp6NUdVYkVpN29SVWJTeGc?oc=5",
+          "summary": "스페이스X·테슬라, 사상최대 합병 임박…\"이르면 내달 발표\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-12T23:18:09+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "머스크, '해임설' 젠슨 황에 \"영입한다면 영광\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nR0J6ZkktN0Z0SV9paVljV0pmbGtlSEg5MENRMXg4XzhoS3gwYUMtaTlkTFdieHRCZnpTTUlpYTJZN1E1QlcwMWhRcVlmS0FpcjNMRy1McFB5bThyb3A1TnU4X05hOXlHaFVQOTlZajU?oc=5",
+          "summary": "머스크, '해임설' 젠슨 황에 \"영입한다면 영광\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-12T04:18:38+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설…740억달러 투자 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ka0dianA2Wkx4VEwyTWhYVVNfNlF6RTRFQzBzbklRNnFHNGctN0xNc3EwNlpRaVFLaDNDUDdrbjU4eThqelhrc3hnMzY2UTVhaHNIejJDN003azZEeWtMMzRJZE9YRlZ0dmZOUGNLRHU?oc=5",
+          "summary": "스페이스X, 美 텍사스·애리조나에 데이터센터 2곳 건설…740억달러 투자 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-12T18:50:14+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "OpenAI, Anthropic Valuations Fuel VC Fears of Startup Correction",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-11/openai-anthropic-valuations-fuel-vc-fears-of-startup-correction",
-          "summary": "In late September, OpenAI entered discussions for its latest funding round with confidence. After having early discussions with prospective backers who had expressed interest, the company presented its terms: at least $30 billion in new capital at a $1.4 trillion valuation.Few startups have been as successful at fundraising as OpenAI, which was last valued at $852 billion. This time, however, some investors felt the terms were too lofty, according to people familiar with the matter, who spoke on",
-          "published": "2026-11-11T21:39:14+00:00",
+          "title": "[포스트 젠슨 황] 임시 CEO 콜렛 크레스 과제는",
+          "link": "https://zdnet.co.kr/view/?no=20261113073253",
+          "summary": "[지디넷코리아]엔비디아 이사회가 창업자이자 33년간 최고경영자(CEO)로 재직한 젠슨 황을 경질하고 콜렛 크레스 최고재무책임자(CFO)를 임시 CEO로 삼아 사태 진화에 나섰다. 콜렛 크레스 임시 CEO 체제의 경영 정상화 과제, 엔비디아의 향후 사업 전망과 국내 반도체 산업에 미칠 영향, 차기 CEO 후보군과 후계 구도를 세 차례에 걸쳐 살펴본다. [편집자 주]12일(현지시간) 엔비디아 임시 CEO에 오른 콜렛 크레스 CFO 앞에는 어려운 과제가 산적했다. 전임자 젠슨 황의 강력한 리더십에 의존했던 조직을 안정시키고 경영 의사결정 구조와 내부 통제 체계 재정비가 필요하다.또 엔비디아의 중장기 전략과 대규모 투자, 인수합병 등 주요 의사결정에서 어떤 리더십을 발휘할지는 아직 불확실하다.CNBC에 따르면 콜렛 크레스 CEO는 임직원에게 보낸 첫 메시지에서도 조직 안정화와 결속을 강조했다. 그는 \"최근 매우 어려운 시기를 겪었음에도 회복력과 전문성을 보여주고 변함없이 헌신해준 임직원들에",
+          "published": "2026-11-12T22:43:47+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Wall Street Whistles Past Nvidia Risk to Bet on Wobbly AI Trade",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-12/wall-street-whistles-past-nvidia-risk-to-bet-on-wobbly-ai-trade",
+          "summary": "Wall Street isn’t particularly concerned about the risks to the artificial intelligence trade posed by the ouster of Nvidia Corp.’s long-time Chief Executive Officer Jensen Huang over a series of romantic relationships, including one with a suspected Chinese spy.",
+          "published": "2026-11-12T21:37:51+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 18,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "What Taiwanese chip giant TSMC gains from taking stakes in OpenAI and Anthropic’s AI race",
-          "link": "https://www.scmp.com/tech/big-tech/article/3374037/what-taiwanese-chip-giant-tsmc-gains-taking-stakes-openai-and-anthropics-ai-race",
-          "summary": "Taiwan Semiconductor Manufacturing Company’s (TSMC) move to take equity stakes in both OpenAI and Anthropic will give the world’s largest contract chipmaker direct financial ties to the frontier AI labs driving demand for its business. Its board on Tuesday authorised up to US$500 million to buy Anthropic common shares at its initial public offering (IPO) price, and up to US$500 million to buy preferred shares in OpenAI. Directors separately approved up to US$500 million to establish a dedicated.",
-          "published": "2026-11-11T07:30:21+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 15,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Anthropic IPO Is ‘Jenga Block’ Holding Up Next Leg of AI Trade",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-is-jenga-block-holding-up-next-leg-of-ai-trade",
-          "summary": "Anthropic PBC’s long-awaited initial public offering will give investors a crucial look at the health of the artificial intelligence trade, and Wall Street hopes it will spur the next leg of the AI-fueled stock market rally that’s going on four years.",
-          "published": "2026-11-11T21:15:02+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -78,10 +120,33 @@
           ]
         },
         {
-          "title": "Nvidia Working With Outside Firm to Identify CEO Candidates",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-working-with-outside-firm-to-identify-ceo-candidates",
-          "summary": "Nvidia Corp.’s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen Huang following reports of multiple extramarital affairs, including one with a woman who is reportedly suspected of spying for China, a person familiar with the situation said.",
-          "published": "2026-11-11T23:46:39+00:00",
+          "title": "[포스트 젠슨 황] 엔비디아 성장세 이어질까...국내 반도체 공급망도 주목",
+          "link": "https://zdnet.co.kr/view/?no=20261113073707",
+          "summary": "[지디넷코리아]엔비디아 이사회가 창업자이자 33년간 최고경영자(CEO)로 재직한 젠슨 황을 경질하고 콜렛 크레스 최고재무책임자(CFO)를 임시 CEO로 삼아 사태 진화에 나섰다. 콜렛 크레스 임시 CEO 체제의 경영 정상화 과제, 엔비디아의 향후 사업 전망과 국내 반도체 산업에 미칠 영향, 차기 CEO 후보군과 후계 구도를 세 차례에 걸쳐 살펴본다. [편집자 주]최근 엔비디아의 성장 동력은 AI 모델 학습과 추론을 위한 GPU 수요다. 글로벌 클라우드 사업자와 AI 기업들은 대규모 데이터센터를 구축하고 있으며, 기업과 각국 정부도 자체 AI 인프라 확보에 나서고 있다.엔비디아 2분기 매출은 962억 2100만 달러(약 133조 1600억원)로 전년 동기(467억 4300만 달러, 약 64조 6900억원) 대비 두 배 이상 늘어났다. 전체 매출 중 상당수가 데이터센터에서 나온다.엔비디아는 GPU 성능 향상과 차세대 제품 출시, 소프트웨어 생태계 확장, 대규모 공급망 투자를 동시에 추진",
+          "published": "2026-11-12T22:43:52+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Inside Jensen Huang's Final Hours as the CEO of Nvidia",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-13/inside-jensen-huang-s-final-hours-as-the-ceo-of-nvidia",
+          "summary": "At the end, Jensen Huang looked broken and shattered, his legendary energy depleted. After weeks spent denying the allegations of infidelity and fighting to remain in his job as Nvidia Corp.’s chief executive officer, his surrender late Wednesday night was unconditional. Huang’s usual take-charge demeanor had evaporated, according to a person familiar with the situation, and he’d started using phrases like “whatever” and “I don’t care.”",
+          "published": "2026-11-13T00:56:49+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -100,34 +165,56 @@
           ]
         },
         {
-          "title": "흔들리는 엔비디아·다가오는 미국규제에 삼전닉스 '초긴장' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5kd0d4b0lSTWlKZ3d5U1pPWng3U0VLazZLS0hUbnN5T3ZBSnpPUW1vWl8xb0NwV2xkRjFkY2RHR3ZEa0NFbm9QWjJjanBCdFpkbGc?oc=5",
-          "summary": "흔들리는 엔비디아·다가오는 미국규제에 삼전닉스 '초긴장' &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-12T00:39:41+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "Jensen Huang Removed as Nvidia CEO Following Affairs, Board Appoints Kress",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-12/jensen-huang-face-of-the-ai-boom-ousted-by-nvidia-board-as-ceo",
+          "summary": "Nvidia Corp. Chief Executive Officer Jensen Huang, the preeminent face of the AI infrastructure boom, was ousted from his post after reports of three affairs, including one with a woman suspected of spying for China.",
+          "published": "2026-11-12T13:50:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 12,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation"
+            "exec_change"
           ]
         },
         {
-          "title": "‘Web of complexity’: Jensen Huang’s position in doubt as Nvidia shares plunge overnight",
-          "link": "https://www.scmp.com/tech/article/3374131/nvidia-shares-plunge-after-hours-trading-concerns-about-ceo-jensen-huang-intensify",
-          "summary": "Nvidia shares fell more than 8 per cent at one point in US after-hours trading on Wednesday as CEO Jensen Huang’s prospects of hanging onto his role became more clouded after media reports of a board meeting and another extramarital affair. The drop in the American AI chip giant’s share price erased a 2.9 per cent rebound in the regular trading session, after the stock lost over 9.5 per cent in trading on Monday and Tuesday. It came as speculation mounted over whether Huang would keep his job...",
-          "published": "2026-11-12T00:53:52+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
+          "title": "‘Dark Day’: Silicon Valley Mourns Nvidia’s Decision to Oust CEO",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-12/-dark-day-silicon-valley-mourns-nvidia-s-decision-to-oust-ceo",
+          "summary": "The ouster of Nvidia Corp. Chief Executive Officer Jensen Huang has sent shockwaves throughout Silicon Valley, prompting a chorus of venture capitalists and founders to criticize the chipmaker’s decision and express concerns about the broader impact on the industry. Huang was removed by Nvidia’s board of directors, two people familiar with the matter said, after reports of two affairs, including one with a woman suspected of spying for China and another with an employee. Huang, the only CEO in N",
+          "published": "2026-11-12T19:07:18+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sOWRURUxLdWxzeTBRNzBiUXFXalVfUkctUUF6RUpraHNqNnhwQVJ1bjM4VGFCLXR3X0Vqei1mQXpKSjhYTW5vOW5KaDd4a2ktaEQ5dU5rMGpTazVkY1ZqNHZWLW9hLVE4VUE?oc=5",
+          "summary": "젠슨 황, 엔비디아 CEO 사임…주가 14% 급락·후임 선정 착수 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-12T19:47:53+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -144,41 +231,69 @@
           ]
         },
         {
-          "title": "Anthropic IPO Risks Causing AI Correction, Selby Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-          "summary": "Anthropic PBC’s blockbuster initial public offering may become the catalyst for major reversal in the artificial intelligence trade, according to Jack Selby, who runs the venture capital firm Copper Sky.",
-          "published": "2026-11-11T06:13:06+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[속보] 젠슨 황, 엔비디아 CEO 전격 사임…‘검은 재킷’의 마법 깨졌다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1abWFOcXdFQmNOdDM0eFYweDE3LXV1ejVkQ1BTbmxXbVE1ei1uV1J4NFpkUUtZang1S3owZHQyTEtGNlMzaXVpQ1poMmt0OURzZXc?oc=5",
+          "summary": "[속보] 젠슨 황, 엔비디아 CEO 전격 사임…‘검은 재킷’의 마법 깨졌다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-12T13:58:26+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 11,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
-            "recency": 1,
+            "source": 2,
+            "recency": 2,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "funding"
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 2,
+      "articles": [
+        {
+          "title": "DSRV, 타이거리서치와 맞손…디지털자산 수탁·토큰화 사업 확대",
+          "link": "https://zdnet.co.kr/view/?no=20261113093050",
+          "summary": "[지디넷코리아]국내 블록체인 기업 DSRV가 금융권 공략을 위해 리서치 기업과 손을 잡았다.DSRV는 디지털자산 전문 리서치 기업 타이거리서치와 블록체인 금융산업 분야 협력을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.두 회사는 토큰증권(STO), 실물자산 토큰화(RWA), 디지털자산 수탁 등 온체인 금융 도입을 검토 중인 금융기관을 대상으로 비즈니스 모델링부터 시스템 개발 등 전 과정을 지원한다.타이거리서치의 시장 분석 노하우를 활용한 사전 진단 컨설팅을 통해 실행 전략을 수립할 계획이다. 이를 DSRV 디지털자산 지갑(월렛), 수탁(커스터디), 자산 토큰화 등 엔드투엔드 솔루션 인프라에 연결해 금융기관 대상 사업에 나설 방침이다.서병윤 DSRV 공동대표는 “타이거리서치와 함께 제도권 금융이 인프라 구축, 규제 부담 없이 온체인 금융 비즈니스를 본격화할 수 있도록 적극 지원할 것”이라고 강조했다.",
+          "published": "2026-11-13T00:30:50+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 17,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation"
           ]
         },
         {
-          "title": "Nvidia Preparing to Oust Jensen Huang After Affairs, WSJ Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-11/nvidia-ceo-had-an-affair-with-health-executive-at-firm-nyt-says",
-          "summary": "Nvidia Corp.’s board is preparing to oust Chief Executive Officer Jensen Huang after multiple extramarital affairs, including one with a woman who is reportedly suspected of being a Chinese spy, the Wall Street Journal said Wednesday.",
-          "published": "2026-11-11T22:27:33+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
+          "title": "美 법무부, 바이낸스 해킹 자산 회수 본격화…12억 달러 압류 승인",
+          "link": "https://zdnet.co.kr/view/?no=20261113092213",
+          "summary": "[지디넷코리아]미국 법무부(DOJ)가 글로벌 가상자산 거래소 바이낸스 해킹 사고로 탈취된 자산 회수에 속도를 내고 있다.미 법무부는 12일(현지시간) 바이낸스 해킹 사고와 관련해 12억 달러(약 1조 6036억원) 이상 가상자산을 압류하거나 처분을 제한할 수 있도록 법원 승인을 받았다고 밝혔다.이로써 지금까지 미국 당국과 민간 기업이 협력해 동결한 자산은 총 27억 달러(약 3조 6093억원)를 넘어선 것으로 나타났다. 다만 법원 승인을 확보한 것으로, 해당 자산을 모두 회수하거나 바이낸스에 반환한 것은 아니다.앞서 바이낸스는 지난달 29일 해킹으로 약 63억 달러(약 8조 4218억원) 상당 이용자 가상자산을 탈취당했다. 법무부는 이번 해킹 배후로 북한 해킹 조직인 ‘트레이더트레이터’를 지목했다.수사당국은 해커가 탈취한 가상자산을 여러 블록체인과 지갑으로 이동하며 자금세탁을 시도하고 있는 것으로 파악했다. 특히 블록체인 간 자산을 이전하는 브릿지와 거래 내역 추적을 어렵게 만드는 ",
+          "published": "2026-11-13T00:28:43+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
+            "keyword": 3,
+            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -187,28 +302,23 @@
         }
       ]
     },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 0,
-      "articles": []
-    },
     "korea_fintech": {
       "display_name": "한국 핀테크",
       "count": 2,
       "articles": [
         {
-          "title": "네이버 3분기 영업이익 4천513억원…작년 동기 대비 20.9%↓ - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKckhvdzZnNGwzeFNlQzRBcy1UdWJLUjkya1M3OVRsWndNeGdQUmhFTTFjYzNVNzZROGl4LTJkeW9OOTdYNGFiekFYQzkwM2NlM1E?oc=5",
-          "summary": "네이버 3분기 영업이익 4천513억원…작년 동기 대비 20.9%↓ &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-11T23:16:03+00:00",
+          "title": "[게시판] 카카오뱅크 \"청소년 전용 '미니 내맘대로 저금' 30만좌 넘어\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZzd3MjRWWG9BeEFCcUMwVVRGQXhLZTJ1Rmo3anQxZ01OX3NHSC1DWUdpclVjRElQMnExMXFJS1A5dnllVWI0d3F5MV9NcVBId2c?oc=5",
+          "summary": "[게시판] 카카오뱅크 \"청소년 전용 '미니 내맘대로 저금' 30만좌 넘어\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-13T01:06:49+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 8,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
@@ -217,26 +327,24 @@
           "event_labels": []
         },
         {
-          "title": "네이버, 3Q 영업익 4513억원…투자 늘려 전년比 20.9%↓",
-          "link": "https://zdnet.co.kr/view/?no=20261112081012",
-          "summary": "[지디넷코리아]네이버가 올해 3분기 커머스와 파이낸셜 플랫폼, 글로벌 개인간 거래(C2C) 사업 약진으로 두 자릿수 성장세를 이뤄냈다. 다만, 인프라·콘텐츠·오프라인 데이터 등 인공지능(AI) 경쟁력 확보를 위한 투자액 확대로 영업이익은 20%가량 줄었다.네이버는 올해 3분기 매출액 3조 4724억원, 영업이익 4513억원을 기록했다고 공시했다. 매출은 전년 동기 대비 10.7% 증가한 반면 영업이익은 20.9% 감소했다.사업 부문별 매출액은 ▲네이버 플랫폼 1조 9484억원 ▲파이낸셜 플랫폼 4877억원 ▲글로벌 도전 1조 364억원이다.네이버 플랫폼 매출은 추석 연휴에도 AI 수익화 시도 확장에 따른 광고 매출 성장과 네이버플러스 스토어앱과 멤버십을 중심으로 한 구매 확대를 바탕으로 전년 동기 대비 7.3% 증가한 1조 9484억원을 기록했다. 서비스 매출은 네이버플러스 스토어와 멤버십 이용자 확대, N배송 강화로 커머스 생태계 확장 흐름이 지속되며 전년 동기 대비 13.1% 성",
-          "published": "2026-11-11T23:26:25+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3Z0FlMnFkY1N4QWJMczk5Tk52SFJ4dmdIT1pwV0JHdzNSRVZrNjgzTmhqNzNKdWRyMkoxY21QM0huRWlNRGVBRzBXRGhwSFBneERocjB6dkNqaTRlMFVPSnVERXc0bVVkaFE?oc=5",
+          "summary": "네이버, AI 팩토리 2조원 첫 수주 확보…”10곳 이상과 추가 협상 중\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-12T03:45:08+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
           "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": -3
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
           },
-          "event_labels": [
-            "earnings"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -245,10 +353,10 @@
       "count": 1,
       "articles": [
         {
-          "title": "미래에셋증권 3분기 영업손실 5천23억원…적자 전환 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FLWNYRTdRZ1VwNlQ4LUl2Qk1JSXp3QVBnNGd5SUdiWDJ0TVJ4d3JId1hUa2JuTWdhNjJLN0lodzhjOTRYOV9vSnp4RzYwV2tIWVE?oc=5",
-          "summary": "미래에셋증권 3분기 영업손실 5천23억원…적자 전환 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-12T00:41:11+00:00",
+          "title": "특징주, 미래에셋벤처투자-창투사 테마 상승세에 5.46% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6cUo3OUhWc3FsbmlmMVI1NTFLaThKNkF3REEyX3ZXNW1tOHp0aGZMOTQyQnhPSGRuQXIzLVFLMHlQc1NfclN4eGNJaXFnSEVjbXc?oc=5",
+          "summary": "특징주, 미래에셋벤처투자-창투사 테마 상승세에 5.46% ↑ &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-13T00:27:31+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
