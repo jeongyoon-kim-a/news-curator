@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-15T00:52:44.452887+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-11-16T00:51:23.629676+00:00",
+  "total_articles": 18,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 6,
       "articles": [
         {
-          "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
-          "summary": "Just months after SpaceX was denied a swift entry into the S&amp;P 500 Index, Elon Musk may have found a backdoor: Merging with Tesla Inc., one of the stock-market benchmark’s biggest members.",
-          "published": "2026-11-14T14:00:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "젠슨 황 복귀 청원 12만명 돌파...일론 머스크·개리 탄도 동참",
+          "link": "https://zdnet.co.kr/view/?no=20261115113033",
+          "summary": "[지디넷코리아]엔비디아 창업자 젠슨 황 최고경영자(CEO) 사임을 둘러싸고 일론 머스크 테슬라 CEO를 비롯한 실리콘밸리 주요 기업인이 잇달아 복귀 지지에 나섰다.33년간 회사를 이끈 창업자 퇴진 과정에 충분한 조사와 소명 절차가 없었다는 비판이 확산하면서 온라인 복귀 청원에는 12만명 이상이 참여했다. 엔비디아 직원과 기관투자자도 이사회에 결정을 재검토할 것을 요구하고 있다.15일 엔비디아 이사회에 젠슨 황 CEO 복귀를 요구하는 '스탠드 위드 젠슨(Stand with Jensen)'에는 12만 8천명 이상이 서명했다.서명자 가운데 엔비디아 현직 직원이라고 밝힌 인원은 5965명, 전직 직원은 1108명, 주주는 6만3063명이다. 다만 서명자 신원과 소속은 자체 신고 방식으로 검증되지 않았으며 일부 허위 서명이 발견돼 삭제 작업이 진행 중이다.이번 청원에는 일론 머스크 CEO를 비롯해 개리 탄 와이콤비네이터 CEO, 암자드 마사드 리플릿 CEO, 팀 스위니 에픽게임즈 CEO 등 ",
+          "published": "2026-11-15T03:19:14+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 18,
+          "score": 14,
           "score_breakdown": {
             "keyword": 10,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 3,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a"
+            "exec_change"
           ]
         },
         {
-          "title": "“젠슨 황 퇴진은 잘못됐다”…머스크 등 거물들 ‘감싸기’ 행보 논란 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zZ0VfMy1xSW01VE4zcHN2NTVYSmhRZmhkR0d1Sm9BR2F4dDVReHpqYTh1TWtVRmVoM24zVjVXbkRERUNsYk93b1BKUUloTVlrWHc?oc=5",
-          "summary": "“젠슨 황 퇴진은 잘못됐다”…머스크 등 거물들 ‘감싸기’ 행보 논란 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-14T07:51:19+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "22시간 우주 돌고 돌아온 스페이스X 스타십…거대 로봇팔로 '덥석'",
+          "link": "https://zdnet.co.kr/view/?no=20261115173150",
+          "summary": "[지디넷코리아]일론 머스크가 이끄는 우주기업 스페이스X가 지구 궤도를 22시간 넘게 비행한 우주선을 발사대의 거대한 로봇팔로 붙잡는 데 성공했다. 우주에서 돌아온 대형 우주선을 발사 장소에서 직접 회수한 것은 이번이 처음으로, 스페이스X가 추진하는 완전 재사용 로켓 개발에 중요한 진전을 이뤘다는 평가가 나온다.14일(현지시간) 로이터통신과 AP통신 등 외신에 따르면 스페이스X는 이날 미국 텍사스주 스타베이스 발사장에서 스타십 상단 우주선 '십 42(Ship 42)'를 발사탑에 설치된 기계식 로봇팔로 포획하는 데 성공했다.이번 비행은 스타십의 15번째 시험비행으로, 우주선은 전날 오후 5시 47분 미국 텍사스주 스타베이스에서 발사됐다. 이후 지구 궤도에 진입해 약 22시간 30분 동안 지구를 14바퀴 돌고 다시 발사장으로 돌아왔다.우주선은 지구 대기권에 재진입한 뒤 엔진을 이용해 하강 속도를 조절했다. 발사장에 접근한 우주선은 수직 자세로 전환해 천천히 내려왔고, 발사탑 양쪽에서 뻗어",
+          "published": "2026-11-15T08:38:45+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 10,
+            "source": 1,
             "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -49,50 +49,54 @@
           "event_labels": []
         },
         {
-          "title": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yVlhZOGQwVXhxNUFQMUxYa01kS2FfS09WdnRzaC1CbnNPQjZTZ1ZuN1JOQWVZVVRhOGo3dU83cExvZXdRamtlb3VJaUxKaEhvWHZaZ3JfNTZmTHlIdWxDaHpUc29UN2ppeXc?oc=5",
-          "summary": "머스크, 젠슨 황 퇴진에 영화로 경의…앞서 \"영입하면 영광\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-14T08:37:48+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Could Jensen Huang make a comeback? Musk, other tech heavyweights pressure Nvidia board",
+          "link": "https://www.scmp.com/tech/big-tech/article/3374494/could-jensen-huang-make-comeback-musk-other-tech-heavyweights-pressure-nvidia-board",
+          "summary": "Support has continued to build across the tech industry for Jensen Huang, with figures including Elon Musk rallying behind the former Nvidia CEO and an unverified online petition calling on the board to reinstate the company’s founder. Organisers of the “Stand with Jensen” campaign, who describe themselves as Nvidia employees, partners and shareholders, urged the board to “bring Jensen back while an independent investigation establishes the facts”, according to an open letter on the initiative’s",
+          "published": "2026-11-15T14:00:09+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         },
         {
-          "title": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lQzcyakYyZG1BNEpHOXpoNjBHYURLMlJuRXlXUURYY19CMU5OUE5GdEtYU3N5ZXJyTTNZTEppRmJtYnFhQUZFSUZQeUJUclB5bmc?oc=5",
-          "summary": "스페이스X, 사상 첫 우주선 본체 회수…완전재사용 로켓 예고 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-14T23:32:19+00:00",
+          "title": "[단독] 머스크 이어 박현주도 ‘젠슨황 복귀 청원’ 동참…“사임 너무 성급” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBMXzZuZXhGNGRVcTU2WDlvZmVyUVp4emNBcHVxdVN5R2RhSEU3aEVVbng4b1NfOEIzdG9NTXdMNG1PLTA3ZmRIVHlVaFNNdVB5VHc?oc=5",
+          "summary": "[단독] 머스크 이어 박현주도 ‘젠슨황 복귀 청원’ 동참…“사임 너무 성급” &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-15T06:53:42+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 8,
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
+            "recency": 1,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "exec_change"
+          ]
         },
         {
-          "title": "스페이스X, 영상 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BVnRfd3dzQzR0dVRLbFlZbDBJMHdHSFA1Z094dFk4aGpVYTdBdy1kTVBHQTgzaUV0NXZSY0EzQVNLeFFHOHdvNlNCRlBVSEJqUERQejV1ckc5LV9qQkZHeDlIbDFnTm9KTUE?oc=5",
-          "summary": "스페이스X, 영상 AI '그록 이매진' 개발팀 대부분 해고...AI 코딩에 집중 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-14T01:15:28+00:00",
+          "title": "테슬라, '사이버캡' 사전 주문 시작…월 40만원 안 내면 운행 불가 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4N0xJang4X2Z4YVFCRGpUVnRSSzQtNDFXSzdneFY1VXNVeUtCZzlXNHZxSWpTWU5SVnlXLW0tS0FLblE4NkZwZVhuUGJXZ0ZwQTZZenRVdS1oTE9DZU9hQ1ktb0NJRGRjWHc?oc=5",
+          "summary": "테슬라, '사이버캡' 사전 주문 시작…월 40만원 안 내면 운행 불가 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-15T03:40:27+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -109,10 +113,10 @@
           "event_labels": []
         },
         {
-          "title": "운전대 없는 테슬라 '사이버캡', 개인도 산다…가격은 4000만원",
-          "link": "https://zdnet.co.kr/view/?no=20261114234839",
-          "summary": "[지디넷코리아]테슬라가 운전대와 페달이 없는 완전자율주행 차량 '사이버캡'을 일반 소비자에게 판매하기 시작했다. 차량 가격은 3만 달러(약 4000만원) 수준이지만, 실제 운행하려면 매달 299달러(약 40만원)의 자율주행 서비스 구독료를 별도로 내야 한다.14일(현지시간) 로이터통신 등에 따르면 테슬라는 전날 사회관계망서비스(SNS) 엑스(X)를 통해 일부 고객에게 사이버캡을 개인용으로 구매할 수 있는 초청장을 발송했다고 밝혔다. 그동안 로보택시 서비스에 활용해 온 자율주행 전용 차량을 개인 소비자에게도 판매하는 것이다.사이버캡은 테슬라가 2024년 처음 공개한 2인승 자율주행 전기차다. 황금색 차체에 위로 열리는 버터플라이 도어를 적용했으며, 운전대와 가속·브레이크 페달이 없는 것이 특징이다. 운전자가 직접 차량을 조작하는 대신 인공지능(AI)이 주행을 담당하도록 설계됐다.테슬라가 제시한 차량 가격은 2만9990달러다. 구매를 원하는 고객은 환불되지 않는 예약금 1000달러를 내",
-          "published": "2026-11-14T15:00:03+00:00",
+          "title": "내 돈 주고 산 테슬라 사이버캡…구독료 끊으면 운전도 못 한다",
+          "link": "https://zdnet.co.kr/view/?no=20261115215513",
+          "summary": "[지디넷코리아]테슬라가 운전대 없는 자율주행차 '사이버캡'을 개인에게 판매하기 시작했지만, 구매 이후에도 매달 구독료를 내야 차량을 운행할 수 있다. 구독을 해지하면 직접 운전하는 것도 불가능해 사실상 차량을 이용할 수 없게 된다. 자동차를 소유하더라도 운행 권한은 소프트웨어 구독에 달린 셈이다.14일(현지시간) 미국 IT 전문매체 더버지와 전기차 전문매체 일렉트렉 등에 따르면 테슬라는 최근 공개한 사이버캡 자율주행 구독 계약에 차량 운행을 위해 유효한 구독 서비스가 반드시 필요하다는 조건을 명시했다.테슬라는 지난 13일 일부 고객을 대상으로 사이버캡 개인 구매 초청을 시작했다. 차량 가격은 2만9990달러(약 4000만원)로 책정됐으며, 구매를 위해서는 환불되지 않는 예약금 1000달러(약 134만원)를 내야 한다. 초기 인도 예정 시점은 오는 12월이다.문제는 차량을 구매한 이후에도 별도의 비용이 발생한다는 점이다.테슬라는 사이버캡 구매자에게 월 299달러(약 40만원)의 '오토",
+          "published": "2026-11-15T13:11:24+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
@@ -135,103 +139,217 @@
       "count": 8,
       "articles": [
         {
-          "title": "[뉴욕증시-주간전망] 엔비디아 실적에 앤트로픽 상장…'AI 빅위크' - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5BSXByWGdxcDFXVHAtX2F3bkNvRjZRZW5YMDU4OGVIdDdObks0VDVYMGN1MWJoZUpwWWd4bUhYTDhvXzc1NnktTmRKYXQ3Y1loUnc?oc=5",
-          "summary": "[뉴욕증시-주간전망] 엔비디아 실적에 앤트로픽 상장…'AI 빅위크' &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-14T22:00:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Anthropic’s giant IPO puts the heat on OpenAI",
+          "link": "https://www.economist.com/business/2026/11/15/anthropics-giant-ipo-puts-the-heat-on-openai",
+          "summary": "Coding agents are big business. But what comes next?",
+          "published": "2026-11-15T19:49:20+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 17,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 10,
             "source": 2,
             "recency": 3,
-            "event_bonus": 4,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
             "funding"
           ]
         },
         {
-          "title": "\"청소년 SNS에 경고문 의무\"...빅테크, 美뉴욕주에 소송",
-          "link": "https://zdnet.co.kr/view/?no=20261114225122",
-          "summary": "[지디넷코리아]미국 뉴욕주가 청소년이 쓰는 SNS에 정신건강 경고문을 띄우도록 한 법이 시행을 앞두고 법정 다툼에 들어갔다. 뉴욕주는 청소년과 보호자에게 건강 정보를 주려는 조치라고 설명했다. 구글과 메타를 회원으로 둔 단체는 정부가 정한 메시지를 민간 플랫폼이 대신 전하도록 강제하는 것은 표현의 자유 침해라고 맞섰다.13로이터에 따르면 인터넷기업 단체 넷초이스는 내년 1월1일 시행 예정인 뉴욕주의 소셜미디어 경고문 표시법을 막아 달라며 연방법원에 소송을 냈다. 넷초이스에는 구글, 유튜브, 페이스북 인스타그램을 운영하는 메타, 스냅챗 운영사 스냅, 틱톡 운영사 바이트댄스 등 30개 이상 기업이 가입해 있다. 단체는 소장에서 주정부가 선호하는 온라인 안전 메시지를 회원사가 전하도록 강제하는 것은 미국 수정헌법 제1조에 어긋난다고 주장했다.뉴욕주가 지난해 말 만든 이 법은 알고리즘 피드, 자동재생, 무한 스크롤처럼 이용을 계속하게 만드는 기능을 갖춘 SNS 플랫폼을 대상으로 한다. 플랫",
-          "published": "2026-11-14T23:00:02+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Firmus Plans to Raise $3 Billion After IPO Collapse, AFR Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/firmus-plans-to-raise-3-billion-after-ipo-collapse-afr-says",
+          "summary": "Firmus Grid Ltd. is planning a $3 billion private fundraising effort that will include new equity and debt issuance, as well as locking in pre-payments from customers including its backer Nvidia Corp. and Meta Platforms Inc., the Australian Financial Review reported.",
+          "published": "2026-11-15T09:40:54+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Like Apple after Steve Jobs? Analysts debate Nvidia’s post-Jensen Huang future",
+          "link": "https://www.scmp.com/tech/big-tech/article/3374421/apple-after-steve-jobs-analysts-debate-nvidias-post-jensen-huang-future",
+          "summary": "As the technology world debates how Nvidia is likely to fare without Jensen Huang, analysts keep returning to the same analogy: the departure of legendary CEO Steve Jobs from Apple. The similarities between the two cases are clear: a top American tech company forced to move on from a visionary leader. And Apple’s history is all the more intriguing given it replaced Jobs twice – with dramatically different results. Huang resigned from Nvidia on Thursday amid media reports of his alleged...",
+          "published": "2026-11-15T12:00:06+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 13,
           "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "美상무부 차관, '스캔들 퇴진' 젠슨 황 연사 초청 추진 논란…정경유착 의혹 확산",
-          "link": "https://zdnet.co.kr/view/?no=20261114132902",
-          "summary": "[지디넷코리아]미국 상무부에서 수출통제 정책을 총괄하는 제프리 케슬러 산업안보 차관이 최근 불륜·중국 스파이 연루 의혹으로 불명예 퇴진한 젠슨 황 전 엔비디아 최고경영자(CEO)를 상무부 연례 콘퍼런스 주요 연사로 초청하려 했던 사실이 뒤늦게 드러나 논란이 일고 있다. 피규제 기업인 엔비디아 수장을 규제 당국 행사의 간판 연사로 세우려 했다는 점에서 부적절한 유착 의혹이 불거지며 미 의회의 집중 추궁 대상이 됐다.블룸버그 통신은 복수의 관계자를 인용해 케슬러 차관이 내년 1월 10일 워싱턴에서 열리는 상무부 산업안보국(BIS) 연례 콘퍼런스에 젠슨 황을 연사로 초빙하는 방안을 추진했다고 14일(현지시간) 보도했다. 케슬러 차관은 주변에 황 전 CEO를 행사에 참석시킬 수 있다고 공언했으나, 최근 스캔들로 황이 갑작스럽게 사임하면서 무산된 것으로 전해졌다. BIS는 엔비디아의 첨단 인공지능(AI) 반도체의 해외 수출을 직접 통제하고 단속하는 핵심 규제 기관이다. 규제 대상 기업의 경영",
-          "published": "2026-11-14T07:30:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
+            "keyword": 8,
+            "source": 2,
             "recency": 1,
-            "event_bonus": 5,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "regulation",
             "exec_change"
           ]
         },
         {
-          "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-          "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
-          "published": "2026-11-14T20:00:00+00:00",
+          "title": "Anthropic’s IPO Makes Dario Amodei the New Face of the AI Boom",
+          "link": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
+          "summary": "The startup is set for the biggest IPO of all time, putting&nbsp;AI investors’ hopes and dreams — and fears — onto a frontier model maker.",
+          "published": "2026-11-15T19:00:20+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
             "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Nvidia’s Jensen Huang in Talks With Allies Over CEO Comeback, Report Says",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/huang-discusses-comeback-as-nvidia-chief-with-allies-ft-says",
+          "summary": "Ousted Nvidia Corp. chief executive officer Jensen Huang is discussing a possible comeback to the company just days after the board of directors pushed him out, the Financial Times reported.",
+          "published": "2026-11-15T19:14:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Nvidia Feels the Heat on CEO Search as Bessent Calls for Shakeup",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/bessent-says-nvidia-needs-dramatic-shakeup-after-huang-ouster",
+          "summary": "Nvidia Corp. is facing intense pressure as it embarks on a search for a new chief executive after ousting Jensen Huang, with Treasury Secretary Scott Bessent saying the chipmaker needs a “dramatic shakeup” in leadership.",
+          "published": "2026-11-15T15:16:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tTjE1VlhTV2NFUHFrNlVpNGljM040TGxxODNWN1hyWmhtMUtBV0lKa2xtREwxd3l3aVN1X2IzeDlTNjg1OEVMaFNNV1Vxczc5NUE?oc=5",
+          "summary": "\"젠슨 황, 엔비디아 CEO 복귀 논의 중…백악관 설득 시도\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-15T20:06:58+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BTm5BYWdCN2JOdEszV2NJU2R2LXNrVmYxY01JdWVTTUVkYjJDNWxJMV9sSHMxWGVtN0ZsbTZSWXBUcjcxVEhwQV9tSXBkOExfRWFqUmY0eFFPdnBCZkdQeDhEZHpidmVVNHc?oc=5",
+          "summary": "젠슨 황, 엔비디아 CEO 복귀 논의…측근들 백악관 설득 추진 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-15T20:32:58+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        }
+      ]
+    },
+    "digital_asset": {
+      "display_name": "디지털 자산",
+      "count": 3,
+      "articles": [
+        {
+          "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+          "summary": "Bitcoin’s latest selloff is testing the resolve of some of the cryptocurrency market’s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
+          "published": "2026-11-15T05:10:27+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "“젠슨황 돌아와야”…복귀 요구 나선 엔비디아 주주들, 왜 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56eElNYUJLaWYwWUpiRHEtSnJsbnVEaWgtZWxpZHNENXdOTE9nTnQ3WXIwU3lMNmN5UE1aRXZqdmRKT09WcmZGckVuTXZ1OXZzZmc?oc=5",
-          "summary": "“젠슨황 돌아와야”…복귀 요구 나선 엔비디아 주주들, 왜 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-14T23:24:07+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "스트래티지 회장, 비트코인 추매 시사…\"하락장엔 주황색 점 더 필요\" - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5wOXNWNmx0ejZ0WnBRUFo5dVg2NzhpcVM0U19lNkZiSGp6ZW9CbzA0NU5qd2NNN1ZuUGpINFNiMkluQWhNQTBaSExvZktrdjBzLXNqa0c2YW9Jck95MFh5OWtpemNlZ3pfY2wtRzRFSm_SAXRBVV95cUxNTG9QWkNkdUdPZnFZNldYRVlqYUd4MDRWRDFESzVKQy04M1g5WFJTUW42TDNrZEJTdTVtVVBoUmptblNrOW5mZ3RoTWl5T3VLa1pFSmg5LWZRa1dKazFZV3VYdXNJLVJFY0lnMWppME5wa3lrZA?oc=5",
+          "summary": "스트래티지 회장, 비트코인 추매 시사…\"하락장엔 주황색 점 더 필요\" &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-16T00:24:14+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
           "score": 10,
           "score_breakdown": {
             "keyword": 5,
@@ -243,88 +361,22 @@
           "event_labels": []
         },
         {
-          "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
-          "summary": "The ultimate key man risk.",
-          "published": "2026-11-14T09:00:19+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "‘Double standard’: why Jensen Huang saga sparked a debate about race for Asian-Americans",
-          "link": "https://www.scmp.com/tech/big-tech/article/3374435/double-standard-why-jensen-huang-saga-sparking-debate-about-race",
-          "summary": "While global markets focus on the geopolitical and business implications of Jensen Huang’s resignation from Nvidia, another fierce debate is raging among Asian-Americans: whether race played a role in the downfall of one of corporate America’s most recognisable Asian faces. At the heart of the unease is the lack of public evidence for the most explosive allegation against Huang: that he had a romantic relationship with a Chinese businesswoman reportedly engaging in espionage for Beijing. The New",
-          "published": "2026-11-14T15:00:07+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“젠슨 황 복직 안 하면 스페이스X 간다?”… 엔비디아 발칵 뒤집은 ‘가짜 사직서’ - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBYU0NJRWVjbWc2VnRTQjlOUzh6V0o3dk9HRzhvZ1RST0RjUWhReDFKUEU5ZVhiQUdQLXNEU0Rwb1JfS2pnMFlPdjBYSW14Zw?oc=5",
-          "summary": "“젠슨 황 복직 안 하면 스페이스X 간다?”… 엔비디아 발칵 뒤집은 ‘가짜 사직서’ &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-14T01:12:42+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
-    },
-    "digital_asset": {
-      "display_name": "디지털 자산",
-      "count": 1,
-      "articles": [
-        {
-          "title": "가상자산 법인 참여 지연에 거래소들 전담조직 축소 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwNjZzdW9QVnpFWWFDZnR2alh6ZWZpV0d0dzFkdk51cHRqbkwtR1NBNlZZNlFUQ0dmaUNsUExIaG80YUE2V2p3a0l2T1VXN3dBN1E?oc=5",
-          "summary": "가상자산 법인 참여 지연에 거래소들 전담조직 축소 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-14T20:57:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "비트코인, 과거 반복 시 강세장 전환 임박 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1PMS13a0VLd0J5ZHltd1hna1NKa01OS0F5ME52c1VQTmxPWm5NbXkwSWhvZmFaSm1Qb1AxdWcyYUhuOEpZMFV4Y1k2d2R0cXdIdmp4cy1RcjVFSm5Xbnd1Q2F3d3FYWG95cWZDaVJMTXk?oc=5",
+          "summary": "비트코인, 과거 반복 시 강세장 전환 임박 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-15T23:44:08+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
           "source_weight": 2,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 5,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
             "recency": 3,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -5
           },
           "event_labels": []
         }
@@ -332,8 +384,29 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
+      "count": 1,
+      "articles": [
+        {
+          "title": "BTS, MMA2026서 6관왕…임영웅 '베스트 솔로'·아이브·에스파 대상",
+          "link": "https://zdnet.co.kr/view/?no=20261116000043",
+          "summary": "[지디넷코리아]방탄소년단(BTS)이 '2026 멜론뮤직어워드(MMA2026)'에서 대상 2개를 포함해 6관왕에 올랐다. 임영웅은 '베스트 솔로' 남자 부문을 수상했으며, 아이브와 에스파, 코르티스도 각각 대상을 차지했다.카카오엔터테인먼트의 뮤직플랫폼 멜론은 지난 14일부터 15일까지 서울 고척스카이돔에서 열린 MMA2026이 막을 내렸다고 15일 밝혔다.올해로 18회를 맞은 MMA는 처음으로 이틀간 개최됐다. 행사에는 총 3만6천여 명의 관객이 참석했으며, 26팀의 아티스트가 무대에 올랐다. 시상은 총 29개 부문에서 진행됐다.올해 가장 많은 상을 받은 아티스트는 방탄소년단이다. 방탄소년단은 대상인 '올해의 아티스트'와 '카카오뱅크 올해의 앨범'을 비롯해 'TOP10', '베스트 그룹' 남자, '스테이지 오브 더 이어', '글로벌 TOP10'까지 총 6개 부문에서 수상했다.지난 3월 발매한 정규 5집 'ARIRANG'은 타이틀곡 'SWIM'으로 발매 1시간 만에 멜론 TOP100 정",
+          "published": "2026-11-15T15:00:43+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
