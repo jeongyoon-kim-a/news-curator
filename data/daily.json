@@ -1,52 +1,52 @@
 {
-  "generated_at": "2026-11-17T03:30:41.326110+00:00",
-  "total_articles": 15,
+  "generated_at": "2026-11-18T02:47:03.105648+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
       "count": 2,
       "articles": [
         {
-          "title": "The open-source movement wants Jensen Huang back",
-          "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including Elon Musk and several influential Nvidia&#8230;",
-          "published": "2026-11-16T18:38:47+00:00",
+          "title": "Ambani Seeks to Build Satellite Capacity for Starlink Challenge",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/ambani-seeks-to-build-satellite-capacity-for-starlink-challenge",
+          "summary": "Billionaire Mukesh Ambani-led Reliance Group is exploring manufacturing partnerships to support its planned 1,600-satellite broadband constellation, people familiar with the matter said, in a push to create an Indian-controlled alternative to Elon Musk’s Starlink.",
+          "published": "2026-11-18T01:00:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+          "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
+          "published": "2026-11-17T13:10:00+00:00",
           "source_key": "mit_tech_review",
           "source_name": "MIT Technology Review",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 11,
+          "score": 10,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
+            "recency": 1,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
             "exec_change"
           ]
-        },
-        {
-          "title": "테슬라는 사고 싶고 중국차는 꺼리고…전기차 구입의향 온도차",
-          "link": "https://zdnet.co.kr/view/?no=20261117091315",
-          "summary": "[지디넷코리아]테슬라가 국내에 진출했거나 진출을 추진 중인 수입 전기차 브랜드 가운데 인지도와 구입의향, 이미지 개선도에서 모두 1위를 차지했다. 반면 중국 전기차 브랜드는 높은 인지도가 실제 구매 의향으로 이어지지 못한 것으로 나타났다.자동차 리서치 전문기관 컨슈머인사이트는 자동차 보유자 8951명을 대상으로 수입 전기차 브랜드 인식을 조사한 결과 이같이 나타났다고 17일 밝혔다.이번 조사는 컨슈머인사이트가 매년 7월 진행하는 '연례 자동차 기획조사'의 하나다. 국내에 진출했거나 진출 계획을 발표한 테슬라·BYD·샤오미·폴스타·지커·샤오펑 등 6개 브랜드의 인지 수준과 구입의향을 물었다. 최근 1년간 이미지가 좋아지거나 나빠진 브랜드에 대한 조사도 함께 진행했다.테슬라 인지율은 99%로 조사 대상 브랜드 중 가장 높았다. 응답자의 56%는 모델 상세 정보까지 안다고 답했고, 43%는 브랜드를 들어봤다고 응답했다.BYD와 샤오미 인지율은 각각 81%, 78%로 뒤를 이었다. 폴스타는",
-          "published": "2026-11-17T01:20:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
         }
       ]
     },
@@ -55,172 +55,108 @@
       "count": 8,
       "articles": [
         {
-          "title": "인텔 \"GPU D270, 고성능컴퓨팅 분야로 확장 가능\"",
-          "link": "https://zdnet.co.kr/view/?no=20261117104728",
-          "summary": "[지디넷코리아]인텔이 내년 출시할 추론 특화 GPU D270(크레센트 아일랜드) 관련 자체 성능시험 결과를 일부 공개하고 \"D270을 AI 추론 뿐만 아니라 고성능컴퓨팅(HPC) 분야까지 활용할 수 있다\"고 설명했다.인텔 GPU D시리즈 중 최상위 제품인 D270은 LPDDR5X 메모리를 480GB 탑재 가능하며 전력 소모는 350W, 냉각 방식은 공랭식이다. 카드 한 장당 최대 3000억 개 매개변수(패러미터) 모델을 처리 가능하며 최대 8개까지 구성 가능하다.인텔은 이날 양산 전 단계 실리콘을 이용해 옵션 가격 산정, 유럽형 몬테카를로 등 금융 서비스 대상으로 엔비디아 RTX 프로 6000 블랙웰 서버 에디션과 성능을 비교한 결과를 공개했다.흥미로운 점은 인텔 D270이 해당 테스트에서 RTX 프로 6000 블랙웰 대비 최대 5.9배 높은 애플리케이션 처리량을 보였다는 것이다. 특히 엔비디아 GPU 시스템 대비 상대적으로 적은 메모리와 CPU 코어수로 더 높은 처리량을 나타냈다.",
-          "published": "2026-11-17T01:47:54+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Nvidia Raises Outlook, Says It Can Thrive Without Huang",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
+          "summary": "Nvidia Corp. sought to deliver a clear message during its first earnings update since the departure of longtime leader Jensen Huang: He’s not coming back, and the company will be fine without him.",
+          "published": "2026-11-17T21:24:23+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "\"돈 쏟아부은 AI, 이제 성과 내놔라\"…내년에 시장 판도 확 바뀐다",
-          "link": "https://zdnet.co.kr/view/?no=20261117105056",
-          "summary": "[지디넷코리아]인공지능(AI)에 대한 막대한 투자가 실제 사업 성과로 이어지는지를 검증하려는 움직임이 내년부터 본격화될 전망이다. AI 에이전트가 기업 업무를 직접 수행하는 사례가 늘면서 투자 수익성뿐 아니라 의사결정에 대한 책임과 신뢰성도 주요 평가 기준으로 떠오를 것으로 예상된다.17일 글로벌 데이터·AI 기업 SAS가 발표한 '2027년 AI 전망'에 따르면 AI 기술의 가능성에 주목했던 기업들이 앞으로는 비용 대비 성과를 더욱 엄격하게 따지고 자율적으로 작동하는 AI에 대한 관리·감독 체계를 강화할 것으로 예상된다.특히 AI 투자 확대를 이끌었던 기업들의 전략에도 변화가 나타날 것으로 전망된다. 높은 기업가치와 부채 증가, 막대한 데이터센터 구축 비용이 수익성 검증 압박과 맞물리면서 AI 투자 시장이 재조정될 가능성이 높은 것이다. 여기에 투자와 매출이 서로 연결되는 순환거래 관행에 대한 감시도 강화될 것으로 관측됐다.이러한 변화 속에서 아마존웹서비스(AWS), 마이크로소프트",
-          "published": "2026-11-17T01:50:56+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "funding"
-          ]
-        },
-        {
-          "title": "CNBC \"엔비디아 이사회, 젠슨 황 CEO 복귀 검토 안 해\"",
-          "link": "https://zdnet.co.kr/view/?no=20261117101806",
-          "summary": "[지디넷코리아]엔비디아 이사회가 젠슨 황 전 최고경영자(CEO)의 복귀를 검토하지 않고 있으며 대신 그의 행보와 관련한 내부 조사에 집중하고 있다는 보도가 나왔다. 미국 CNBC가 16일(현지시간) 사안에 정통한 관계자들을 인용해 이같이 전했다.엔비디아 이사회는 지난 10일(현지시간) 젠슨 황 관련 의혹을 조사하기 위해 한국계 미국인 김준현(Joon H. Kim) 변호사와 그가 속한 로펌 '왁첼, 립튼, 로젠 &amp; 카츠(WLRK)'를 선임하고 조사 중이다.또 젠슨 황이 사임하자 콜렛 크레스 최고재무책임자(CFO)를 임시 CEO로 세우고 오는 17일(현지시간)에 3분기 실적을, 이어 18일 오전에는 임직원 대상 타운홀 미팅을 통해 향후 회사 운영 방향에 대해 설명할 예정이다.젠슨 황의 복귀를 요구하는 움직임은 온라인 서명 운동으로 구체화되고 있다. 젠슨 황 사임 이후 개설된 '스탠드 위드 젠슨(Stand with Jensen)' 웹사이트에서는 엔비디아 이사회를 대상으로 공개서한을",
-          "published": "2026-11-17T01:40:18+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
+          "score": 16,
           "score_breakdown": {
             "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "카카오게임즈, ‘도깨비의세계’ 흥행 발판…내년 신작·해외 사업 확대",
-          "link": "https://zdnet.co.kr/view/?no=20261117094945",
-          "summary": "[지디넷코리아]카카오게임즈가 4분기 ‘도깨비의세계’ 국내 흥행을 발판으로 내년 해외 시장 공략을 확대한다. 새해 초 ‘오딘Q’를 한국·대만·일본에 동시에 선보이고, ‘도깨비의세계’도 모바일과 스팀으로 해외에 내놓을 계획이다. PC·콘솔 신작과 미투온 인수로 매출원도 넓힌다.17일 게임업계에 따르면 카카오게임즈는 구글플레이 매출 1위에 오른 ‘도깨비의세계’가 올해 4분기 모바일 게임 매출 회복을 이끌 것으로 전망했다. 4분기 중 추진하는 미투온 연결 편입도 실적 반등에 힘을 보탤 것으로 내다봤다. 새해에는 1월 ‘오딘Q’ 출시를 바탕으로 1분기 영업흑자 전환을 목표로 잡았다.회사는 출시 초기 과금을 절제하고 서비스 안정과 콘텐츠 개선에 집중하면서 기존 MMORPG 밖의 이용자층까지 끌어들였다고 설명했다. 김태환 카카오게임즈 공동대표는 지난 4일 진행된 3분기 실적 컨퍼런스콜에서 “소수의 고액 과금 이용자에게 기대기보다는 중소 과금 이용자를 중심으로 폭넓은 매출 기반이 만들어지고 있다”",
-          "published": "2026-11-17T01:57:44+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "source": 3,
             "recency": 3,
             "event_bonus": 5,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a",
-            "earnings"
+            "earnings",
+            "regulation"
           ]
         },
         {
-          "title": "트럼프, 젠슨 황 CEO 복귀 지지…엔비디아 이사회는 논의 안 해 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ER29xQ2U1d3hlZGZJbWtpcks5cDhFTEhyVHZ5ZEhCa3hnenhhZmw1a292RUdFTi1yMF94NkJrXzNWcTVsVVRMWi12MTBoTnRObHBkY0JLNjA0QmMzdmNjV01nSnFLS3FJbHc?oc=5",
-          "summary": "트럼프, 젠슨 황 CEO 복귀 지지…엔비디아 이사회는 논의 안 해 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-16T20:54:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "Microsoft Executive Says Nvidia Drama Could Boost Rival Chips",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/microsoft-executive-says-nvidia-drama-could-boost-rival-chips",
+          "summary": "Nvidia Corp.’s corporate drama could help prompt customers to consider alternatives to the company’s AI chips, according to a top Microsoft Corp. executive.",
+          "published": "2026-11-17T22:34:04+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 14,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back",
+          "summary": "US chip giant Nvidia doubled revenue in the third quarter to more than US$115 billion, the company reported on Tuesday while ruling out any return for ousted CEO Jensen Huang after a Chinese spy scandal. The results, which beat expectations, came hours after Huang said he wanted his job back in the latest twist for the company at the centre of an AI boom that has propelled markets to record highs and boosted global economic growth. Huang, a leading promoter of AI, stepped down last week...",
+          "published": "2026-11-17T22:47:11+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 2,
-            "event_bonus": 2,
+            "recency": 3,
+            "event_bonus": 4,
             "noise_penalty": 0
           },
           "event_labels": [
+            "earnings",
             "exec_change"
           ]
         },
         {
-          "title": "Nvidia Short Sellers Reap $24 Billion as Stock Extends Slide",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/nvidia-short-sellers-reap-24-billion-as-stock-extends-slide",
-          "summary": "Nvidia Corp.’s tumble in the wake of the scandal that led to former Chief Executive Officer Jensen Huang’s ouster has fueled tens of billions of dollars in gains for short sellers.",
-          "published": "2026-11-16T21:55:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "Nvidia board says it has no plans to reinstate Jensen Huang as CEO",
+          "link": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo",
+          "summary": "Nvidia’s board has no plans to reinstate co-founder Jensen Huang as chief executive, chairman Harvey Jones said on Tuesday, as interim CEO Colette Kress raised the chipmaker’s growth outlook and sought to reassure investors about its future without its long-time leader. “The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,” Jones said at the start of the company’s first earnings call since Huang’s departure last week. Hours earlier, in a post on..",
+          "published": "2026-11-18T00:36:34+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 2,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 4,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
         },
         {
-          "title": "Anthropic Faces a Longer Wait Than SpaceX to Join Stock Indexes",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/anthropic-faces-a-longer-wait-than-spacex-to-join-stock-indexes",
-          "summary": "Anthropic’s planned initial public offering could generate billions of dollars in demand from index-tracking funds, though the artificial intelligence startup may have to wait longer than SpaceX did to join two major stock benchmarks.",
-          "published": "2026-11-16T23:06:22+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jQWJQdm1kenVlTmJTUUlHMWwwMXlFRnBETXVlQnJ0UllPYjkwb2lyemk4SjFERUNmS2s1dDVoT0RxZjhxQ19yT1ozdkRORXBZU3N6cVlXLV9NbkRzUGVyaFk3c1ZLdTJjTkxvS3o4amo?oc=5",
+          "summary": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-17T23:21:08+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 11,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "과징금 맞고도 또...메가커피 고객정보 유출됐다",
-          "link": "https://zdnet.co.kr/view/?no=20261117105136",
-          "summary": "[지디넷코리아]커피 프랜차이즈 메가MGC커피에서 고객 개인정보가 유출되는 사고가 발생했다. 올해 초 개인정보 보호 의무 위반으로 6억원이 넘는 과징금을 부과받은 데 이어, 9개월 만에 실제 고객정보 유출까지 확인되면서 회사의 개인정보 관리체계에 대한 비판이 커질 전망이다.17일 회사 홈페이지 공지에 따르면 고객센터 시스템 운영을 맡은 위탁업체 메타엠이 외부 해킹 공격을 받아 고객 30명의 휴대전화번호가 유출됐다. 이와 함께 고객센터에 문의를 남긴 이용자의 전화번호와 이메일 주소도 추가로 유출됐을 가능성이 있어 조사가 진행 중이다.사고는 지난 12일 오전 2시18분부터 3시50분까지 발생했다. 외부 공격자가 메타엠 서버에 침입해 고객센터 시스템의 관리 기능에 접근하면서 개인정보가 유출됐다. 메가커피는 사고 발생 사흘 뒤인 15일 위탁업체로부터 관련 사실을 통보받았다.회사는 유출 사실이 확인됐거나 유출 가능성이 있는 고객에게 18일까지 문자메시지 등을 통해 개별 안내할 계획이다. 다만 ",
-          "published": "2026-11-17T01:55:08+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
+            "source": 2,
             "recency": 3,
             "event_bonus": 3,
             "noise_penalty": 0
@@ -228,28 +164,115 @@
           "event_labels": [
             "regulation"
           ]
+        },
+        {
+          "title": "Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
+          "summary": "A string of Anthropic PBC’s existing venture capital investors are looking to pour even more money into the artificial intelligence startup in its upcoming initial public offering, a sign of continued fervor and support from firms that have already significantly invested in the company.",
+          "published": "2026-11-17T23:53:15+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "What to watch for in Nvidia’s first earnings report since Jensen Huang resigned",
+          "link": "https://www.scmp.com/tech/article/3374710/what-watch-nvidias-first-earnings-report-jensen-huang-resigned",
+          "summary": "Nvidia faces its biggest investor test since the resignation of co-founder Jensen Huang when it reports quarterly earnings on Tuesday US time, with interim CEO Colette Kress under pressure to prove the chipmaker can scale up its next-generation hardware and keep customer orders flowing without its long-time visionary at the helm. Wall Street expects Nvidia to post financial third-quarter revenue of US$108.9 billion, up about 91 per cent from a year earlier, and adjusted earnings of US$2.47 a...",
+          "published": "2026-11-17T13:30:05+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "엔비디아, 최근 분기 매출 컨센 상회…시간외 3%대 껑충(상보) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMWtnc1ktMjRyT3U0aFZzZldodXZ5bzI2VUJZVGZEVnkxZ1o1cTF6dmYwUXZ6dERnb2RfWldFRWFFQmNyRHd5d1pNX21namd0cmRPOG9yempWQjJibkpWeVVfM2RqZDU4WWlaZFdrN1I?oc=5",
+          "summary": "엔비디아, 최근 분기 매출 컨센 상회…시간외 3%대 껑충(상보) &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-17T21:33:29+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 1,
+      "count": 2,
       "articles": [
         {
-          "title": "MIT Brothers Cleared of Charges in $25 Million Crypto Case",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-16/mit-brothers-acquitted-in-25-million-crypto-case-avoid-retrial",
-          "summary": "Two brothers who graduated from Massachusetts Institute of Technology were cleared of charges that they stole $25 million in cryptocurrency, avoiding a new trial in the case after a jury failed to reach a verdict last year.",
-          "published": "2026-11-16T20:44:10+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "업비트, 3분기 고객보호준비금 65.6% 상향",
+          "link": "https://zdnet.co.kr/view/?no=20261118103348",
+          "summary": "[지디넷코리아]국내 가상자산 거래소 업비트와 빗썸 고객예치금이 올해 들어 나란히 30% 가량 감소한 것으로 나타났다. 반면 해킹 등 사고에 대비해 마련하는 이용자보호준비금은 두 거래소가 엇갈린 흐름을 보였다.18일 금융감독원 전자공시시스템에 따르면, 업비트 운영사 두나무의 올해 3분기 말 고객예치금은 약 3조 9733억원으로 지난해 말 대비 31.9% 감소했다.빗썸 역시 같은 기간 회원예치금이 약 2조 352억원에서 1조3875억원으로 31.8% 줄었다. 두 거래소 모두 고객예치금이 30% 넘게 감소한 셈이다.고객예치금은 이용자가 거래소에 맡긴 원화 자금이다. 예치금 감소에는 이용자 출금뿐 아니라 가상자산 매수 등 다양한 요인이 영향을 미칠 수 있다. 다만 두 거래소 모두 3분기 영업손실을 기록한 점을 고려하면 가상자산 거래 위축으로 인한 이용자 출금이 영향을 미쳤을 것으로 풀이된다.고객예치금은 비슷한 비율로 줄었지만, 이용자보호준비금은 서로 다른 흐름을 보였다. 이용자보호준비금은 ",
+          "published": "2026-11-18T01:44:08+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 8,
+          "score": 13,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
+            "keyword": 9,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "NHN KCP, AI 에이전트 결제부터 블록체인 정산 구현",
+          "link": "https://zdnet.co.kr/view/?no=20261118104428",
+          "summary": "[지디넷코리아]국내 결제기업 NHN KCP가 스테이블코인 기반 인공지능(AI) 에이전트 결제·정산 기술 검증을 완료했다.NHN KCP는 구글 AI 에이전트 결제 프로토콜 ‘AP2’와 웹 기반 결제 프로토콜 ‘x402’를 자체 결제 인프라를 통해 연동했다고 18일 밝혔다.AI 에이전트가 사용자를 대신해 상품이나 서비스를 이용하고, 사전에 부여받은 권한과 조건에 따라 비용을 지불하는 방식이다. 구글 AP2 규격에 따른 ▲AI 에이전트 결제 요청 ▲x402 기반 결제 처리 ▲자체 구축 결제 특화 메인넷 활용한 블록체인 정산 등을 테스트했다.AP2는 사용자가 AI 에이전트에 부여한 구매 권한과 승인 조건을 검증 가능한 형태로 전달하는 AI 에이전트 결제 프로토콜이다.x402는 코인베이스가 공개한 개방형 결제 프로토콜로 인터넷 통신 규격인 HTTP의 ‘402 Payment Required(결제 필요)’ 응답 코드를 활용해 웹 서비스 이용과 결제 과정을 연결한다. NHN KCP는 결제 권한을 ",
+          "published": "2026-11-18T01:51:43+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "digital_asset",
+          "category_display": "디지털 자산",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -259,42 +282,27 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 4,
+      "count": 0,
+      "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 2,
       "articles": [
         {
-          "title": "카카오뱅크, 애플페이 도입…국내 은행권 최초 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9reVpLX0NfWjJwUXlwU3p2TG96bmxZWFRBYmswcS1mV0FFRWRXM1JLZ25IRWNiNlNjWjhjWGFIc3M5XzJ2UmkxTHBoSjN0Z2JJYi1XdmdweVhZaG9hVG93dVJCMG9fYWV6M3Vjdm5GMDA?oc=5",
-          "summary": "카카오뱅크, 애플페이 도입…국내 은행권 최초 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-16T05:53:00+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWEp2N1h0RFNuT0JDSk1GY0FuN2diRHlwaTdrLTlJTUtSWVZndURsT0dKZHhBRXZWUmM4d1NvdjlVQkpJODNBVFRaaUp2NmdFRGo0cg?oc=5",
+          "summary": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-17T23:54:32+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 11,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 8,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "수능 앞서 부정시험 논란에 여론 '시끌'…\"정부 조치 촉구\"",
-          "link": "https://zdnet.co.kr/view/?no=20261117093609",
-          "summary": "[지디넷코리아]올해 세무사 시험에서 생성형 인공지능(AI)을 활용한 부정행위가 논란이 되면서 사회관계망서비스(SNS)상에서는 올해 대학수학능력시험을 연기해야 한다는 여론이 들끓고 있다. 여기에 ‘일타강사’들까지 나서 정부의 책임 있는 조치를 촉구했다.17일 국내 최대 수험생 정보 커뮤니티 네이버 카페 ‘수만휘’에 따르면 해당 카페에는 AI를 활용한 부정행위와 올해 수능에 대한 불신을 담은 글이 올라오고 있다. 한 이용자는 “교육부를 못 믿겠다”면서 “올해 수능 부정행위를 절대 못 막을 거 같다”고 우려했다.또 다른 이용자도 “(수능) 연기 후 토익처럼 전파탐지기 설치나 중국처럼 철저한 대책 도입 또는 AI만 보이는 코드 등을 인쇄할 때 넣는 방법을 찾아야 한다”며 “당장 실현 가능한 대책이 있든 없든 연기하고 대책을 생각해봐야 한다. 완벽한 대책이 나오지 않더라도 연기한 후 사회적으로 충분한 논의가 우선”이라는 댓글을 남겼다.수험생들이 이처럼 공분한 까닭은 올해 있었던 제63회 세무",
-          "published": "2026-11-17T01:33:33+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -302,51 +310,26 @@
           "event_labels": []
         },
         {
-          "title": "전문 크리에이터 콘텐츠 강화…네이버, 일부 이용자 대상 베타 테스트",
-          "link": "https://zdnet.co.kr/view/?no=20261117101730",
-          "summary": "[지디넷코리아]네이버는 일부 이용자를 대상으로 앱 홈피드에서 분야별 전문성과 영향력을 갖춘 크리에이터 콘텐츠 추천을 강화해 지금 주목받는 주요 이슈를 보다 직관적으로 발견할 수 있도록 하는 베타 테스트를 시작했다고 17일 밝혔다.시범 서비스는 나이와 일과 중 활동 시간 등을 토대로 화면에 나타나는 게시물을 달리 구성한다. 다루는 영역은 ▲증시 ▲운동 경기 소식 ▲건강 관리 ▲먹거리 ▲여행까지 다양하다.출근 무렵에는 ▲삼프로TV ▲부읽남TV ▲슈카월드가 다룬 주식시장 및 부동산 관련 내용을 볼 수 있다. 낮에는 ▲약사가 들려주는 약 이야기 ▲리틀약사가 소개하는 식사 후 혈당 조절법이나 가볍게 몸을 움직이는 방법 등을 접하게 된다.퇴근 이후에는 경기 승패나 방송 프로그램 관련 소식이 등장한다. 휴일에는 가볼 만한 장소와 식당, 카페를 찾는 데 도움이 되는 게시물을 배치한다. 따로 검색하지 않아도 그때그때 필요한 내용을 살펴볼 수 있도록 한 구성이다.관심 분야가 같아도 나이에 따라 화면 ",
-          "published": "2026-11-17T01:55:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA5YWQzMVRhRlNjUHlFcVJyN0RoVUF0UEpIT2RNeUZlaXh6cmxMWDdIV2VxcVd3RUhva1lEM05iUlRPQVdxUWRKa2pjRjJDTHNCVjBVT3B6NjNRbWZrWHlJTzhOc2ZONjlVYkE?oc=5",
-          "summary": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-16T06:55:25+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
+          "title": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYWpiN29HSlg3WTU0QksxTDZkQnZTZm5EWmlNdFhtTlhiUFRuemF4OWpZbS03OUFjUE10OENsdEs3ZGtlemhsbXB6TVh0OXhHWnc?oc=5",
+          "summary": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-17T23:54:32+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 6,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
