@@ -1,175 +1,21 @@
 {
-  "generated_at": "2026-11-18T02:47:03.105648+00:00",
-  "total_articles": 14,
+  "generated_at": "2026-11-19T02:23:00.587710+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 2,
-      "articles": [
-        {
-          "title": "Ambani Seeks to Build Satellite Capacity for Starlink Challenge",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-18/ambani-seeks-to-build-satellite-capacity-for-starlink-challenge",
-          "summary": "Billionaire Mukesh Ambani-led Reliance Group is exploring manufacturing partnerships to support its planned 1,600-satellite broadband constellation, people familiar with the matter said, in a push to create an Indian-controlled alternative to Elon Musk’s Starlink.",
-          "published": "2026-11-18T01:00:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
-          "link": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
-          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures, including Elon Musk, but comb through the names, and&#8230;",
-          "published": "2026-11-17T13:10:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Nvidia Raises Outlook, Says It Can Thrive Without Huang",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
-          "summary": "Nvidia Corp. sought to deliver a clear message during its first earnings update since the departure of longtime leader Jensen Huang: He’s not coming back, and the company will be fine without him.",
-          "published": "2026-11-17T21:24:23+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 16,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "regulation"
-          ]
-        },
-        {
-          "title": "Microsoft Executive Says Nvidia Drama Could Boost Rival Chips",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/microsoft-executive-says-nvidia-drama-could-boost-rival-chips",
-          "summary": "Nvidia Corp.’s corporate drama could help prompt customers to consider alternatives to the company’s AI chips, according to a top Microsoft Corp. executive.",
-          "published": "2026-11-17T22:34:04+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Nvidia results beat expectations, as ousted CEO Huang told no way back",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3374805/nvidia-results-beat-expectations-ousted-ceo-huang-told-no-way-back",
-          "summary": "US chip giant Nvidia doubled revenue in the third quarter to more than US$115 billion, the company reported on Tuesday while ruling out any return for ousted CEO Jensen Huang after a Chinese spy scandal. The results, which beat expectations, came hours after Huang said he wanted his job back in the latest twist for the company at the centre of an AI boom that has propelled markets to record highs and boosted global economic growth. Huang, a leading promoter of AI, stepped down last week...",
-          "published": "2026-11-17T22:47:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Nvidia board says it has no plans to reinstate Jensen Huang as CEO",
-          "link": "https://www.scmp.com/tech/article/3374812/nvidia-board-says-it-has-no-plans-reinstate-jensen-huang-ceo",
-          "summary": "Nvidia’s board has no plans to reinstate co-founder Jensen Huang as chief executive, chairman Harvey Jones said on Tuesday, as interim CEO Colette Kress raised the chipmaker’s growth outlook and sought to reassure investors about its future without its long-time leader. “The Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO,” Jones said at the start of the company’s first earnings call since Huang’s departure last week. Hours earlier, in a post on..",
-          "published": "2026-11-18T00:36:34+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 4,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "earnings",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토 - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jQWJQdm1kenVlTmJTUUlHMWwwMXlFRnBETXVlQnJ0UllPYjkwb2lyemk4SjFERUNmS2s1dDVoT0RxZjhxQ19yT1ozdkRORXBZU3N6cVlXLV9NbkRzUGVyaFk3c1ZLdTJjTkxvS3o4amo?oc=5",
-          "summary": "엔비디아, 삼성전기 생산라인 추가 자금지원 검토 &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-17T23:21:08+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "Anthropic Backers Sequoia, Lightspeed Set to Invest More in IPO",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-17/anthropic-backers-sequoia-lightspeed-set-to-invest-more-in-ipo",
-          "summary": "A string of Anthropic PBC’s existing venture capital investors are looking to pour even more money into the artificial intelligence startup in its upcoming initial public offering, a sign of continued fervor and support from firms that have already significantly invested in the company.",
-          "published": "2026-11-17T23:53:15+00:00",
+          "title": "Anthropic IPO Raises $107.3 Billion to Top SpaceX’s Record Debut",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
+          "summary": "Anthropic PBC and its seven co-founders raised a record $107.3 billion in an upsized IPO and private placement, becoming the first frontier AI lab to tap public markets for the development of thinking machines.",
+          "published": "2026-11-18T21:09:49+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -188,35 +34,100 @@
           ]
         },
         {
-          "title": "What to watch for in Nvidia’s first earnings report since Jensen Huang resigned",
-          "link": "https://www.scmp.com/tech/article/3374710/what-watch-nvidias-first-earnings-report-jensen-huang-resigned",
-          "summary": "Nvidia faces its biggest investor test since the resignation of co-founder Jensen Huang when it reports quarterly earnings on Tuesday US time, with interim CEO Colette Kress under pressure to prove the chipmaker can scale up its next-generation hardware and keep customer orders flowing without its long-time visionary at the helm. Wall Street expects Nvidia to post financial third-quarter revenue of US$108.9 billion, up about 91 per cent from a year earlier, and adjusted earnings of US$2.47 a...",
-          "published": "2026-11-17T13:30:05+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
+          "summary": "Japanese stocks that once commanded a premium for their exposure to artificial intelligence are now looking too risky, with Jensen Huang’s abrupt departure from Nvidia Corp. adding to concerns about the industry’s outlook, investors say.",
+          "published": "2026-11-18T23:50:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
+          "summary": "Anthropic PBC raised about $3 billion from Japanese investors as part of its initial public offering, the lower end of its planned range, according to a regulatory filing on Thursday.",
+          "published": "2026-11-19T00:10:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Anthropic IPO Hands SK Hynix Tycoon’s Firm $3 Billion Windfall",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
+          "summary": "Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial-intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.",
+          "published": "2026-11-19T01:36:26+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Nvidia Sizes Up Arm CEO Haas in Search for Huang Successor",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
+          "summary": "Nvidia Corp. recruiting firm Heidrick &amp; Struggles approached Arm Holdings Plc Chief Executive Officer Rene Haas as part of its hunt for a new leader, stepping up efforts to move on from longtime CEO Jensen Huang.",
+          "published": "2026-11-18T18:45:41+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
           "score": 12,
           "score_breakdown": {
             "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 4,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings",
             "exec_change"
           ]
         },
         {
-          "title": "엔비디아, 최근 분기 매출 컨센 상회…시간외 3%대 껑충(상보) - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BMWtnc1ktMjRyT3U0aFZzZldodXZ5bzI2VUJZVGZEVnkxZ1o1cTF6dmYwUXZ6dERnb2RfWldFRWFFQmNyRHd5d1pNX21namd0cmRPOG9yempWQjJibkpWeVVfM2RqZDU4WWlaZFdrN1I?oc=5",
-          "summary": "엔비디아, 최근 분기 매출 컨센 상회…시간외 3%대 껑충(상보) &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-17T21:33:29+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
+          "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UR1g3R280MHlFb21Ld1ZjNnZaSXRYOHRzdjlLVVdNZFRFMHRaYXhqZi04LVRHbzZIdi0wT0R0THpoc3UwbE9OYzc4di1xOGNOSmc?oc=5",
+          "summary": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-19T00:28:16+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -229,50 +140,75 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "earnings"
+            "exec_change"
+          ]
+        },
+        {
+          "title": "메타, AI 투자 위한 C종 주식 발행 보류…\"주주 소송 탓\"",
+          "link": "https://zdnet.co.kr/view/?no=20261119091127",
+          "summary": "[지디넷코리아]메타가 마크 저커버그 최고경영자(CEO)의 지분 희석 없이 인공지능(AI) 투자 자금을 조달하기 위해 추진한 새로운 종류의 주식 발행을 보류하기로 했다. 해당 계획에 반대하는 주주들과 법적 분쟁 중이기 때문이다.18일(현지시간) 블룸버그 등 외신에 따르면 메타는 소송이 진행되는 동안 C종 주식을 발행하지 않기로 합의했다. 해당 소송의 재판은 내년 4월 미국 델라웨어주 형평법원에서 열릴 예정이다.당초 메타는 내년 1월 19일, 의결권이 없는 새로운 종류의 C종 주식을 신설하고 이후 저커버그 CEO를 포함한 기존 주주들에게 이를 주식배당 형태로 지급할 계획이었다. 이를 통해 저커버그는 과반의 의결권을 유지하면서도 일부 주식을 매각할 수 있게 될 예정이었다.메타는 성명을 통해 “주주들의 최선의 이익을 위해 법원이 허용하는 한 최대한 신속하게 최종 판단을 받으려 한다”면서 “이번 소송에서 제기된 주장에 적극적으로 대응할 것”이라고 말했다.메타는 AI 분야의 주도권을 확보하기 ",
+          "published": "2026-11-19T00:28:40+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 5,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "regulation",
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
+          "summary": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
+          "published": "2026-11-19T00:54:52+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
           ]
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 2,
+      "count": 1,
       "articles": [
         {
-          "title": "업비트, 3분기 고객보호준비금 65.6% 상향",
-          "link": "https://zdnet.co.kr/view/?no=20261118103348",
-          "summary": "[지디넷코리아]국내 가상자산 거래소 업비트와 빗썸 고객예치금이 올해 들어 나란히 30% 가량 감소한 것으로 나타났다. 반면 해킹 등 사고에 대비해 마련하는 이용자보호준비금은 두 거래소가 엇갈린 흐름을 보였다.18일 금융감독원 전자공시시스템에 따르면, 업비트 운영사 두나무의 올해 3분기 말 고객예치금은 약 3조 9733억원으로 지난해 말 대비 31.9% 감소했다.빗썸 역시 같은 기간 회원예치금이 약 2조 352억원에서 1조3875억원으로 31.8% 줄었다. 두 거래소 모두 고객예치금이 30% 넘게 감소한 셈이다.고객예치금은 이용자가 거래소에 맡긴 원화 자금이다. 예치금 감소에는 이용자 출금뿐 아니라 가상자산 매수 등 다양한 요인이 영향을 미칠 수 있다. 다만 두 거래소 모두 3분기 영업손실을 기록한 점을 고려하면 가상자산 거래 위축으로 인한 이용자 출금이 영향을 미쳤을 것으로 풀이된다.고객예치금은 비슷한 비율로 줄었지만, 이용자보호준비금은 서로 다른 흐름을 보였다. 이용자보호준비금은 ",
-          "published": "2026-11-18T01:44:08+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
+          "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
+          "summary": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
+          "published": "2026-11-18T09:45:09+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 13,
+          "score": 9,
           "score_breakdown": {
-            "keyword": 9,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "NHN KCP, AI 에이전트 결제부터 블록체인 정산 구현",
-          "link": "https://zdnet.co.kr/view/?no=20261118104428",
-          "summary": "[지디넷코리아]국내 결제기업 NHN KCP가 스테이블코인 기반 인공지능(AI) 에이전트 결제·정산 기술 검증을 완료했다.NHN KCP는 구글 AI 에이전트 결제 프로토콜 ‘AP2’와 웹 기반 결제 프로토콜 ‘x402’를 자체 결제 인프라를 통해 연동했다고 18일 밝혔다.AI 에이전트가 사용자를 대신해 상품이나 서비스를 이용하고, 사전에 부여받은 권한과 조건에 따라 비용을 지불하는 방식이다. 구글 AP2 규격에 따른 ▲AI 에이전트 결제 요청 ▲x402 기반 결제 처리 ▲자체 구축 결제 특화 메인넷 활용한 블록체인 정산 등을 테스트했다.AP2는 사용자가 AI 에이전트에 부여한 구매 권한과 승인 조건을 검증 가능한 형태로 전달하는 AI 에이전트 결제 프로토콜이다.x402는 코인베이스가 공개한 개방형 결제 프로토콜로 인터넷 통신 규격인 HTTP의 ‘402 Payment Required(결제 필요)’ 응답 코드를 활용해 웹 서비스 이용과 결제 과정을 연결한다. NHN KCP는 결제 권한을 ",
-          "published": "2026-11-18T01:51:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 3,
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -282,27 +218,22 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 0,
-      "articles": []
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
       "count": 2,
       "articles": [
         {
-          "title": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VWEp2N1h0RFNuT0JDSk1GY0FuN2diRHlwaTdrLTlJTUtSWVZndURsT0dKZHhBRXZWUmM4d1NvdjlVQkpJODNBVFRaaUp2NmdFRGo0cg?oc=5",
-          "summary": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-17T23:54:32+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 10,
+          "title": "AI 창작·글로벌 게임 한자리에…‘지스타 2026’ 부산서 개막",
+          "link": "https://zdnet.co.kr/view/?no=20261119090001",
+          "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 국제게임전시회 ‘지스타 2026’이 19일 부산 벡스코에서 나흘간 일정에 들어간다. AI 기업이 처음 메인 스폰서를 맡고, 해외 PC·콘솔 게임 전시와 스팀·치지직 협업이 더해지면서 현장 신작 체험부터 온라인 참여까지 행사의 폭을 넓혔다.올해로 22회째인 지스타는 이날 개막해 22일까지 진행된다. 조직위가 개막 전 공개한 집계 기준으로 41개국 1237개사가 3445부스 규모로 참가한다. 행사는 한국게임산업협회가 주최하고 지스타조직위원회와 부산정보산업진흥원이 공동 주관한다.올해 메인 스폰서는 AI 스토리 창작 플랫폼 ‘크랙’을 운영하는 뤼튼테크놀로지스다. 비게임 기업이 지스타 메인 스폰서를 맡은 것은 처음이다. 뤼튼은 ‘AI와 크랙으로 여는 창작의 신세계’를 주제로 전시와 발표를 진행하며, 게임과 AI 창작이 만나는 접점을 소개한다.행사장 밖 이용자를 위한 프로그램도 마련했다. 네이버 치지직은 지스타 현장 방송인",
+          "published": "2026-11-19T01:00:03+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
+            "keyword": 3,
+            "source": 1,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -310,26 +241,31 @@
           "event_labels": []
         },
         {
-          "title": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vYWpiN29HSlg3WTU0QksxTDZkQnZTZm5EWmlNdFhtTlhiUFRuemF4OWpZbS03OUFjUE10OENsdEs3ZGtlemhsbXB6TVh0OXhHWnc?oc=5",
-          "summary": "“내 정보도 유출됐나”…미래에셋생명 해킹 피해 눈덩이, 정보유출 1만명 훌쩍 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-17T23:54:32+00:00",
+          "title": "네이버 뉴스제휴 심사 607개사 신청…최종 통과 언론사 0곳 - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jNnhCaWlFNV9ibzhueENXdGh2TnZNQmxKYmduekZfQnAyTmRWakJzUjlZLUswb3g5STJnVlRnWTl4T0FqSkdNWXAwZFlqXzJIaWc?oc=5",
+          "summary": "네이버 뉴스제휴 심사 607개사 신청…최종 통과 언론사 0곳 &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-18T05:35:24+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 10,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 6,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 3,
             "source": 2,
-            "recency": 3,
+            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         }
       ]
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
+      "count": 0,
+      "articles": []
     }
   }
 }
