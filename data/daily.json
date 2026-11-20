@@ -1,87 +1,107 @@
 {
-  "generated_at": "2026-11-19T02:23:00.587710+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-11-20T02:07:07.629244+00:00",
+  "total_articles": 14,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
+      "count": 2,
+      "articles": [
+        {
+          "title": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14Z3RvNXJycllCNUcwQmFTOENMejBZdHJ0UUdVQllkOXZSUTc4OTh2WVpFMkRpdHFBTmktVV9ZM3BLODF0ZDRzaXp3WDN6MnZBaTdUUGhZbVptRloyZnEzVDQzTjE1RkpsQ2c?oc=5",
+          "summary": "앤트로픽, 나스닥 상장 첫날 기업가치 2조달러…스페이스X 추월 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-19T20:25:23+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "SpaceX Sells $32 Billion of AI Chip Debt at Yields Topping 8%",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/spacex-eyes-at-least-32-billion-ai-chip-debt-sale-on-thursday",
+          "summary": "SpaceX sold $32 billion of bonds to fund its purchase of artificial intelligence chips on Thursday, in a complicated and relatively high-yielding transaction that may serve as a model for a wave of similar financings to come.",
+          "published": "2026-11-19T15:07:20+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Anthropic IPO Raises $107.3 Billion to Top SpaceX’s Record Debut",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-is-said-to-price-ipo-at-83-per-share",
-          "summary": "Anthropic PBC and its seven co-founders raised a record $107.3 billion in an upsized IPO and private placement, becoming the first frontier AI lab to tap public markets for the development of thinking machines.",
-          "published": "2026-11-18T21:09:49+00:00",
+          "title": "Anthropic Shares Drop Post-Market on Apple’s AI Agent Plans",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-shares-drop-post-market-on-apple-s-ai-agent-plans",
+          "summary": "Shares of Anthropic PBC fell more than 3% in after-hours trading following their New York debut, as Apple Inc. plans to develop an autonomous AI agent and investor caution over the AI trade weighed on momentum throughout the day.",
+          "published": "2026-11-20T00:40:04+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
+            "keyword": 8,
             "source": 3,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "funding"
-          ]
+          "event_labels": []
         },
         {
-          "title": "Nvidia Turmoil Spurs Valuation Rethink of Japan’s AI Shares",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-18/nvidia-turmoil-spurs-valuation-rethink-of-japan-s-ai-shares",
-          "summary": "Japanese stocks that once commanded a premium for their exposure to artificial intelligence are now looking too risky, with Jensen Huang’s abrupt departure from Nvidia Corp. adding to concerns about the industry’s outlook, investors say.",
-          "published": "2026-11-18T23:50:00+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
+          "title": "[AI 고속도로] 엔비디아가 돈 대고 GPU 팔고…네오클라우드 '순환 투자' 시험대",
+          "link": "https://zdnet.co.kr/view/?no=20261120093648",
+          "summary": "[지디넷코리아]엔비디아가 인공지능(AI) 인프라 기업에 대규모 자금을 투자하고 이들 기업이 다시 엔비디아 그래픽처리장치(GPU)를 구매하는 순환 투자 방식이 확산하면서, 코어위브·네비우스 등 네오클라우드 기업의 자금 조달 능력과 투자 지속성을 둘러싼 우려가 커지고 있다.19일(현지시간) 월스트리트저널(WSJ)에 따르면 엔비디아는 AI 개발사와 클라우드 사업자, 데이터센터 등 AI 생태계 전반에 1000억 달러(약 133조원) 이상을 투자한 것으로 나타났다. 2023년 이후 투자와 인수 거래는 최소 293건에 달하며 올해에만 벤처 투자 129건에 참여했다.엔비디아는 AI 반도체를 공급하는 동시에 고객사에 직접 투자하거나 향후 연산 자원을 구매하기로 약정하고 있다. 투자받은 기업은 이 자금으로 데이터센터를 짓고 엔비디아 GPU를 구매하는 구조다. 엔비디아가 보유한 상장기업 8곳의 지분 가치는 지난 9월 말 기준 480억 달러(약 64조원)를 넘었다. 향후 공급·구매, 클라우드 서비스, ",
+          "published": "2026-11-20T00:40:14+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 14,
           "score_breakdown": {
             "keyword": 5,
-            "source": 3,
+            "source": 1,
             "recency": 3,
-            "event_bonus": 2,
+            "event_bonus": 5,
             "noise_penalty": 0
           },
           "event_labels": [
+            "m_and_a",
             "funding"
           ]
         },
         {
-          "title": "Anthropic IPO Raises $3 Billion in Japan, Lower End of Range",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-raises-3-billion-in-japan-tranche-of-us-mega-ipo",
-          "summary": "Anthropic PBC raised about $3 billion from Japanese investors as part of its initial public offering, the lower end of its planned range, according to a regulatory filing on Thursday.",
-          "published": "2026-11-19T00:10:13+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "funding"
-          ]
-        },
-        {
-          "title": "Anthropic IPO Hands SK Hynix Tycoon’s Firm $3 Billion Windfall",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-hands-sk-hynix-tycoon-s-firm-3-billion-windfall",
-          "summary": "Anthropic PBC’s blockbuster initial public offering has delivered a multibillion-dollar windfall for billionaire Chey Tae-won’s empire, rewarding an early bet on the artificial-intelligence startup by SK Telecom Co., South Korea’s largest mobile carrier.",
-          "published": "2026-11-19T01:36:26+00:00",
+          "title": "Anthropic Becomes World’s 7th Most Valuable Company After IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-becomes-world-s-7th-most-valuable-company-after-ipo",
+          "summary": "Anthropic PBC’s blockbuster IPO lifted the company into the ranks of the most valuable in the world, with shares closing 17% from the offer price to give it a $1.8 trillion fully diluted market value.",
+          "published": "2026-11-19T23:16:20+00:00",
           "source_key": "bloomberg_markets",
           "source_name": "Bloomberg Markets",
           "source_weight": 3,
@@ -100,34 +120,78 @@
           ]
         },
         {
-          "title": "Nvidia Sizes Up Arm CEO Haas in Search for Huang Successor",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-18/arm-ceo-rene-haas-approached-by-nvidia-board-s-recruitment-firm",
-          "summary": "Nvidia Corp. recruiting firm Heidrick &amp; Struggles approached Arm Holdings Plc Chief Executive Officer Rene Haas as part of its hunt for a new leader, stepping up efforts to move on from longtime CEO Jensen Huang.",
-          "published": "2026-11-18T18:45:41+00:00",
+          "title": "Anthropic IPO’s Australia Tranche Said About 10 Times Subscribed",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-raises-only-110-million-from-australian-investors",
+          "summary": "Anthropic PBC drew orders for about 10 times the final allocations in the Australian tranche of its record-breaking US initial public offering, according to a person familiar with the matter.",
+          "published": "2026-11-19T23:35:17+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Dollar Heads for Fourth Week of Gains Following Anthropic IPO",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-20/dollar-heads-for-fourth-week-of-gains-following-anthropic-ipo",
+          "summary": "The dollar is headed for a fourth straight weekly gain as demand tied to the Anthropic PBC IPO further lifts the currency that has been supported by expectations of further Federal Reserve interest-rate hikes and elevated US Treasury yields.",
+          "published": "2026-11-20T00:20:47+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "funding"
+          ]
+        },
+        {
+          "title": "Asian Chip Stocks Slide as Anthropic IPO Fails to Dispel AI Woes",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-20/asian-chip-stocks-slide-as-anthropic-ipo-fails-to-dispel-ai-woes",
+          "summary": "Asia’s chip-related shares resumed their selloff on Friday despite Anthropic PBC’s blockbuster listing, a sign that concerns about the artificial intelligence trade, which have been building for months, continue to dominate investor sentiment.",
+          "published": "2026-11-20T01:49:55+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 13,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UR1g3R280MHlFb21Ld1ZjNnZaSXRYOHRzdjlLVVdNZFRFMHRaYXhqZi04LVRHbzZIdi0wT0R0THpoc3UwbE9OYzc4di1xOGNOSmc?oc=5",
-          "summary": "한달 만에 27% ‘폭락의 눈물’…CEO 리스크까지 겹친 엔비디아 앞날은 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-19T00:28:16+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
+          "title": "Anthropic soars, but it may soon be back, cap in hand",
+          "link": "https://www.economist.com/business/2026/11/19/anthropic-soars-but-it-may-soon-be-back-cap-in-hand",
+          "summary": "The biggest IPO of all time is just a start",
+          "published": "2026-11-19T23:15:40+00:00",
+          "source_key": "economist_business",
+          "source_name": "The Economist - Business",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
@@ -140,53 +204,28 @@
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "funding"
           ]
         },
         {
-          "title": "메타, AI 투자 위한 C종 주식 발행 보류…\"주주 소송 탓\"",
-          "link": "https://zdnet.co.kr/view/?no=20261119091127",
-          "summary": "[지디넷코리아]메타가 마크 저커버그 최고경영자(CEO)의 지분 희석 없이 인공지능(AI) 투자 자금을 조달하기 위해 추진한 새로운 종류의 주식 발행을 보류하기로 했다. 해당 계획에 반대하는 주주들과 법적 분쟁 중이기 때문이다.18일(현지시간) 블룸버그 등 외신에 따르면 메타는 소송이 진행되는 동안 C종 주식을 발행하지 않기로 합의했다. 해당 소송의 재판은 내년 4월 미국 델라웨어주 형평법원에서 열릴 예정이다.당초 메타는 내년 1월 19일, 의결권이 없는 새로운 종류의 C종 주식을 신설하고 이후 저커버그 CEO를 포함한 기존 주주들에게 이를 주식배당 형태로 지급할 계획이었다. 이를 통해 저커버그는 과반의 의결권을 유지하면서도 일부 주식을 매각할 수 있게 될 예정이었다.메타는 성명을 통해 “주주들의 최선의 이익을 위해 법원이 허용하는 한 최대한 신속하게 최종 판단을 받으려 한다”면서 “이번 소송에서 제기된 주장에 적극적으로 대응할 것”이라고 말했다.메타는 AI 분야의 주도권을 확보하기 ",
-          "published": "2026-11-19T00:28:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Blue Owl Plans $513 Million CMBS for Amazon-Leased Data Center",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-19/blue-owl-plans-513-million-cmbs-for-amazon-leased-data-center",
-          "summary": "Blue Owl Capital Inc. is preparing to sell $513 million of commercial mortgage backed securities to fund the acquisition of a Northern Virginia data center that’s fully leased to Amazon.com Inc., according to people with knowledge of the matter.",
-          "published": "2026-11-19T00:54:52+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
+          "title": "California Probing If Nvidia Misled Investors on China Risks",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-19/california-probing-if-nvidia-misled-investors-over-china-risks",
+          "summary": "Nvidia Corp. is being investigated by California officials to determine whether any of its actions resulted in advanced chips or confidential information being improperly obtained by China.",
+          "published": "2026-11-19T22:31:14+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 12,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 5,
             "source": 3,
             "recency": 3,
-            "event_bonus": 3,
+            "event_bonus": 0,
             "noise_penalty": 0
           },
-          "event_labels": [
-            "m_and_a"
-          ]
+          "event_labels": []
         }
       ]
     },
@@ -195,44 +234,46 @@
       "count": 1,
       "articles": [
         {
-          "title": "Bitcoin Erases Bessent Rally as Leverage and Liquidity Fade",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-18/bitcoin-erases-bessent-rally-as-leverage-and-liquidity-fade",
-          "summary": "Bitcoin has erased all the gains from its late-summer rally as fading risk appetite and the record hack at exchange Binance drove investors to retreat, leaving the largest token trading in a thinner market increasingly vulnerable to sharp price swings.",
-          "published": "2026-11-18T09:45:09+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "앤트로픽 나스닥 축포 쏜 날, 비트코인은 하락세 ‘울상’",
+          "link": "https://zdnet.co.kr/view/?no=20261120094902",
+          "summary": "[지디넷코리아]미국 인공지능(AI) 기업 앤트로픽이 나스닥 시장에 성공적으로 상장했지만, 비트코인은 하락세를 이어갔다. 앤트로픽 기업공개(IPO)에 따른 자금 이동이 비트코인 가격 하락에 영향을 미쳤다는 주장이 나오는 가운데 전문가들은 미국 금리인상 우려와 시장 유동성 감소에 더 주목하고 있다.20일 코인마켓캡에 따르면 비트코인은 전일 대비 1.34% 내린 6만 2019 달러에 거래 중이다. 일주일 전보다 약 13% 하락한 가격이다.반면 19일(현지시간) 나스닥 시장에 상장한 앤트로픽 주가는 공모가 대비 약 17% 오른 97.17 달러로 거래를 마쳤다. 장중 한때 115 달러를 넘어서기도 했다.창펑 자오 바이낸스 창업자는 소셜미디어 X를 통해 앤트로픽 IPO를 비트코인 하락 원인 중 하나로 지목했다. 앤트로픽 상장에 참여하려는 투자자들이 자금을 확보하기 위해 보유 중인 가상자산을 매도하면서 비트코인 가격에 하락 압력이 발생했다는 설명이다.앞서 비트코인은 지난 5월 약 8만 달러에서 ",
+          "published": "2026-11-20T01:27:25+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "digital_asset",
           "category_display": "디지털 자산",
-          "score": 9,
+          "score": 14,
           "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
+            "keyword": 8,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
+          "event_labels": [
+            "funding"
+          ]
         }
       ]
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 2,
+      "count": 3,
       "articles": [
         {
-          "title": "AI 창작·글로벌 게임 한자리에…‘지스타 2026’ 부산서 개막",
-          "link": "https://zdnet.co.kr/view/?no=20261119090001",
-          "summary": "[지디넷코리아][부산=최병준, 이도원, 정진성, 이선민, 진성우 기자] 국제게임전시회 ‘지스타 2026’이 19일 부산 벡스코에서 나흘간 일정에 들어간다. AI 기업이 처음 메인 스폰서를 맡고, 해외 PC·콘솔 게임 전시와 스팀·치지직 협업이 더해지면서 현장 신작 체험부터 온라인 참여까지 행사의 폭을 넓혔다.올해로 22회째인 지스타는 이날 개막해 22일까지 진행된다. 조직위가 개막 전 공개한 집계 기준으로 41개국 1237개사가 3445부스 규모로 참가한다. 행사는 한국게임산업협회가 주최하고 지스타조직위원회와 부산정보산업진흥원이 공동 주관한다.올해 메인 스폰서는 AI 스토리 창작 플랫폼 ‘크랙’을 운영하는 뤼튼테크놀로지스다. 비게임 기업이 지스타 메인 스폰서를 맡은 것은 처음이다. 뤼튼은 ‘AI와 크랙으로 여는 창작의 신세계’를 주제로 전시와 발표를 진행하며, 게임과 AI 창작이 만나는 접점을 소개한다.행사장 밖 이용자를 위한 프로그램도 마련했다. 네이버 치지직은 지스타 현장 방송인",
-          "published": "2026-11-19T01:00:03+00:00",
+          "title": "성시경이 개발한 라면…세븐일레븐, 바지락짬뽕 컵라면 출시",
+          "link": "https://zdnet.co.kr/view/?no=20261120093901",
+          "summary": "[지디넷코리아]세븐일레븐이 가수 성시경과 함께 개발한 바지락짬뽕 컵라면을 선보인다. 성시경이 메뉴 선정과 레시피 개발, 시식에 참여한 상품으로 껍질째 넣은 바지락과 면발을 차별화 요소로 내세웠다.세븐일레븐은 ‘시경 pick 놀면리얼바지락짬뽕라면’을 전국 점포에 출시했다고 20일 밝혔다. ‘놀면’은 ‘세상에 없던 놀라운 라면’이라는 문구에서 따온 이름이다.신제품에는 고온·고압 공법을 적용한 바지락 원물을 껍질째 담았다. 동결건조 해물 블록과 후레이크를 넣고 닭 육수를 배합했다. 면은 일반 유탕면보다 전분 함량을 5%포인트 높여 찰진 식감을 살렸다.세븐일레븐은 지난 7월부터 성시경과 협력사, 연구원이 참여한 회의를 수십 차례 진행하며 상품을 개발했다. 공식 유튜브 채널에서는 성시경의 시식 후기와 별도 조리법을 담은 영상도 공개했다.출시 기념으로 이달 말까지 제품 구매 시 ‘더미식백미밥’을 증정한다. NH농협카드와 우리카드, 네이버페이 포인트·머니, 엘페이로 결제하면 30% 중복 할인도 ",
+          "published": "2026-11-20T00:56:06+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 8,
             "source": 1,
             "recency": 3,
             "event_bonus": 0,
@@ -241,10 +282,10 @@
           "event_labels": []
         },
         {
-          "title": "네이버 뉴스제휴 심사 607개사 신청…최종 통과 언론사 0곳 - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jNnhCaWlFNV9ibzhueENXdGh2TnZNQmxKYmduekZfQnAyTmRWakJzUjlZLUswb3g5STJnVlRnWTl4T0FqSkdNWXAwZFlqXzJIaWc?oc=5",
-          "summary": "네이버 뉴스제휴 심사 607개사 신청…최종 통과 언론사 0곳 &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-18T05:35:24+00:00",
+          "title": "[속보] ‘SM 주가조작’ 혐의 카카오 김범수 2심도 무죄 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OVnJxYjVGczNDdGdUbVNNM2w4S1VoNjhHSTNtT1RiY25XWlZjSUc3ZllfRW5rblNLdjB6WXpOd2Y1TGZyV1F0Z19mVXZPREdNN1FZYw?oc=5",
+          "summary": "[속보] ‘SM 주가조작’ 혐의 카카오 김범수 2심도 무죄 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-20T01:36:33+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -254,9 +295,29 @@
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
             "event_bonus": 0,
-            "noise_penalty": 0
+            "noise_penalty": -2
+          },
+          "event_labels": []
+        },
+        {
+          "title": "카카오 김범수 SM 시세조종 혐의 2심 무죄 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5aTlZRMlRTM184cG91UnZNVkpISVNFdkJHY1RGQzFGbTRjNHROajhvZ0ZKcmVXZ2NSY2JpYXE0Y3YwM2ZkYkl5dXlWOTZubllKZXlEc3NRUy1YZGg3ZHphVC12N3BMT3pPY09MZ2FNVELSAXRBVV95cUxPT09mVEpULXROMkQxY3hKcGptbmpLb20tdzl3b0dPVFJkVmNURXluTU96RXVGSlBuNWdmYkU0dDJ6NnNVUmp6ZGFNa3pHSk43dGFZVHZyV1MyUHVDYjdKaENZcUFSMlhrRFE5R0kxdlN5NVBCYw?oc=5",
+          "summary": "카카오 김범수 SM 시세조종 혐의 2심 무죄 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-20T01:36:05+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 5,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": -3
           },
           "event_labels": []
         }
