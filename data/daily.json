@@ -1,144 +1,41 @@
 {
-  "generated_at": "2026-11-22T01:02:28.545940+00:00",
-  "total_articles": 12,
+  "generated_at": "2026-11-23T01:27:47.405834+00:00",
+  "total_articles": 11,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 5,
-      "articles": [
-        {
-          "title": "테슬라 FSD 특례 심사 제동…첨부자료 5장뿐",
-          "link": "https://zdnet.co.kr/view/?no=20261121002210",
-          "summary": "[지디넷코리아]테슬라코리아가 국내에서 감독형 완전자율주행(FSD) 기능을 운용하기 위해 규제 특례를 신청했지만, 제출 자료가 부족해 심사가 본격화되지 못하고 있다. 정부는 안전성과 해외 결함조사 등에 관한 구체적인 자료를 보완해 달라고 요구했다.국토교통부는 한국교통안전공단이 테슬라코리아가 제출한 '테슬라 FSD 감독형' 특례 신청서를 검토한 결과 현재 서류만으로는 기술 검토가 어렵다는 의견을 지난 20일 회사 측에 전달했다고 밝혔다.테슬라코리아는 지난달 22일 이메일을 통해 '자동차 및 자동차부품의 성능과 기준에 관한 규칙'에 따른 특례신청서를 제출했다. 신청서에는 기술설명서 2장과 네덜란드 승인서 표지 3장이 첨부됐다.국토부는 이후 성능시험대행자인 한국교통안전공단에 관련 서류 검토를 요청했다. 공단은 제출된 자료가 미흡해 검토하기 어렵고, 추가 확인과 보완이 필요하다는 의견을 테슬라코리아에 전달했다.국토부에 따르면 테슬라코리아가 제출한 기술설명서는 테슬라 홈페이지에 공개된 FSD ",
-          "published": "2026-11-21T06:48:49+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "머스크 “나는 열렬한 중국 팬…‘중국산 장난감’ 가진 아들도 사랑하는 나라” - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WYXpReEw0V2kzMkc5UjU0Y0x4WTd0aGxVVDJUWFBTclZST0F6a3BHMlJleFd4TGw4ODJXY3ZYQWpvTzJZdWNxYm9xNWEtYXUwb0E?oc=5",
-          "summary": "머스크 “나는 열렬한 중국 팬…‘중국산 장난감’ 가진 아들도 사랑하는 나라” &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-21T09:11:00+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53MFIxMUxoZDVZRUNTSE0xNk11N2M5TkN2Q2QydXBHeW9zNG9obUV0TTdZdXF5TEFsWW9wTGRwdmhncGh6RFlLRmFsekY0SmNLaEx5OHBxTm81akh0WVEyb19RTk5PV19vU0E?oc=5",
-          "summary": "머스크의 우주 데이터센터, 첫 금융 장벽…채권단 \"GPU 반입 제한\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-21T09:55:59+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Goldman Sachs, Apollo Price $32 Billion SpaceX Bonds to Fund AI Chip Purchases",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
-          "summary": "Goldman Sachs Group Inc. spent more than a year trying to solve one of tech’s biggest headaches: how to pay for AI chips without wrecking corporate balance sheets.",
-          "published": "2026-11-21T15:31:22+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 2,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82eC1jeV9falAyWFRWb2ZXaWtWLUF1YjlpN1NFQjVuSFpNVzFWTW1wMVlXMlIwOGNfVFdRR1NPbHA4NTVTWDJoSzJSMnJPTElCTjFjbldzVWhOanVUV25uNkVSaEhSNUVHa3c?oc=5",
-          "summary": "스페이스X, '커서'의 중국 AI 모델 퇴출 검토 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-21T02:01:27+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
-      "count": 6,
+      "count": 8,
       "articles": [
         {
-          "title": "Wall Street Asks What Can Save AI Trade After Anthropic Wipeout",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-21/wall-street-asks-what-can-save-ai-trade-after-anthropic-wipeout",
-          "summary": "It’s been a tough month for the stock market, rocked by back-to-back punches from the stunning ouster of Jensen Huang from Nvidia Corp. and the Democrats’ decisive victory in the midterm elections.",
-          "published": "2026-11-21T13:00:00+00:00",
-          "source_key": "bloomberg_markets",
-          "source_name": "Bloomberg Markets",
-          "source_weight": 3,
+          "title": "\"AI 학습에 전기 44kWh\"...TTA, MLPerf 전력평가 국내 첫 등재",
+          "link": "https://zdnet.co.kr/view/?no=20261123094804",
+          "summary": "[지디넷코리아]한국정보통신기술협회가 AI 학습에 쓰인 전력을 측정해 국제 성능 벤치마크 ‘MLPerf 트레이닝’에 국내 최초로 공식 등재됐다. AI 가속기 4장을 장착한 서버 한 대로 ‘라마 3.1 8B’를 목표 수준까지 학습시키는 데 약 19시간 47분이 걸렸고, 전력 사용량은 약 44kWh였다.협회는 23일 학습 과정의 전력 사용량을 1초 간격으로 기록하고, 10차례 반복 측정한 결과를 참가 기관 간 상호 검토를 거쳐 확정했다고 밝혔다. 평가에는 구글, 엔비디아, AMD 등 역대 최다인 24개 기관이 참여했다. 전력 측정 결과를 공식 제출한 곳은 한국정보통신기술협회가 유일했다.MLPerf는 주요 AI 기업과 학계가 참여하는 국제 비영리단체 ML커먼스가 운영하는 성능 벤치마크다. 학습 평가에서는 AI 모델이 정해진 목표 성능에 도달하는 데 걸리는 시간을 측정한다. 전력 측정은 선택 항목으로, 같은 학습을 마치는 데 얼마나 많은 전기를 쓰는지도 확인할 수 있다.시험에는 국내 중소기업",
+          "published": "2026-11-23T00:48:04+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 14,
+          "score": 12,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 3,
-            "recency": 1,
+            "keyword": 8,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iT0s1dlpmU1VqMjhsQmlzd25GRW8yME45eElDQWFDS0dpVFhGMHhIQ003dkxETFFkZnBBSC0wZHBmSTZOU3dFZjR5bmczR2FfcVN0dGpsMUQzR292UHpLSmk1MkZ3bi1GYVE?oc=5",
-          "summary": "엔비디아, SEC 회계 조사에 주가 14% 폭락…시총 4위 추락 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-21T01:32:11+00:00",
+          "title": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdG9idUg4cnV5TWtPeDZjN1p2S0dHeWFYUHJjYjJCdndQTVZ1VUFPZklZVVV2YWtCM01vQTA1Sk52TUQwdk9mUnhOM2tBem1FVlFyTFp4SF9oVWQ2U3QtZDhxMDlGdHR5YkE?oc=5",
+          "summary": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-22T02:15:38+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -157,30 +54,72 @@
           ]
         },
         {
-          "title": "California Nvidia Probe Covers Potential Criminal Law Violations",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
-          "summary": "California’s probe into whether Nvidia Corp. illegally sold advanced chips to China and misled investors about the conduct is also looking at potential criminal violations of state law, raising the stakes for the chipmaker.",
-          "published": "2026-11-21T17:11:23+00:00",
+          "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
+          "summary": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
+          "published": "2026-11-22T19:40:54+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 10,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 3,
-            "recency": 2,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83NWt6LU9KWnhWazBHdUIxSWM4UmxSR056Q2c1dG45TE05VmFuLVJfc2lxMlRRUFRuRkRyX256LVZ0alVMWE1rbG5aLVRrdjFMUW0wMTc0RDZXX05TeEROM3lXYkJ6Njk5cXc?oc=5",
-          "summary": "미 민주당, 엔비디아의 메가스피드 조사 개입 의혹 조사 착수 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-21T02:25:40+00:00",
+          "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
+          "link": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
+          "summary": "Washington’s new rulebook spells trouble for a multibillion dollar cloud business helping to power the region’s data center boom.",
+          "published": "2026-11-22T22:00:13+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "\"아마존, AI칩 스타트업 10조원 인수 임박\" - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZRTJXY2dsRHJtcTB1MlNGRnhnN1kxRzN4czd0WnJyTjJNY2Q0NndSN3gzTmZUaG5weV9XZ2VVNHNBOUdCMUQ5VWFTLXFVZ2ZEYXc?oc=5",
+          "summary": "\"아마존, AI칩 스타트업 10조원 인수 임박\" &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-22T22:32:14+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 3,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "m_and_a"
+          ]
+        },
+        {
+          "title": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaXJuclh4TWxNRFVaV09vQWQ0ckF5ekpfT01wNU4zNTh5V2ozREwwOWFQMGlRWkV5dHVfYnR5R25zLUhCREZNcTBBWmNNbXVValNpaVFiYlpQSW82VENOM2VfTG8xM1dkRnc?oc=5",
+          "summary": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-22T08:17:00+00:00",
           "source_key": "aitimes",
           "source_name": "AI타임스",
           "source_weight": 2,
@@ -197,40 +136,40 @@
           "event_labels": []
         },
         {
-          "title": "Apple TV 4K Review: New $299 Streaming Box is Excellent But Too Expensive",
-          "link": "https://www.bloomberg.com/news/features/2026-11-21/apple-tv-4k-review-new-299-streaming-box-is-excellent-but-too-expensive",
-          "summary": "At $299, the company’s excellent set-top box is suddenly hard to recommend.",
-          "published": "2026-11-21T13:00:15+00:00",
+          "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
+          "summary": "Also: The company prepares a slew of new iPhones, iPads and Macs for early 2027.",
+          "published": "2026-11-22T15:00:01+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 7,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 3,
-            "recency": 1,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zQWVKamYxWUNqdklBRmpOa2NySFpPZXJxZjR5ZFVpTlpLUlhrUGRhQ0NCS3dMYVRiV0U4S2V6VUFmTS1nUFpOWm50N19aSTkyNzhEREZuaHNEck5WSlhBcTExU3ktNUp5Wnc?oc=5",
-          "summary": "구글, 제미나이 앱에 GIF 생성 기능 출시…오픈AI 이어 도입 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-21T07:39:48+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
+          "title": "[인터뷰] AI가 코딩해도 개발자는 살아남는다…AWS가 전한 생존 전략은",
+          "link": "https://zdnet.co.kr/view/?no=20261123090554",
+          "summary": "[지디넷코리아]\"인공지능(AI)이 소프트웨어 개발 속도를 높이고 있지만 더 중요한 변화는 개발자의 자율성이 커지고 있다는 점입니다. 개발자는 AI를 활용해 더 크고 복잡한 시스템을 직접 구축할 수 있게 됐습니다.\"다르코 메사로스 아마존웹서비스(AWS) 디스팅귀시드 개발자 애드보킷은 지난 22일 서울 스페이스쉐어 삼성역센터에서 열린 'AWS 커뮤니티 데이 서울 2026'에서 지디넷코리아와 만나 AI가 소프트웨어 개발 방식과 개발자 역할을 바꾸고 있다고 강조했다.그는 AI 코딩 도구를 활용한 개발 생산성 향상 사례를 소개하며 단순한 코드 생성 자동화를 넘어 개발자가 고객 요구사항을 직접 구현할 수 있는 환경을 만드는 것이 중요하다고 짚었다.최근 AI가 코드 작성 속도를 높이면서 소프트웨어 개발 과정의 병목도 달라지고 있다. 과거에는 개발자가 코드를 작성하는 데 많은 시간이 필요했지만 이제는 AI가 생성한 코드를 검토하고 실제 서비스에 반영하는 과정이 새로운 과제로 떠올랐다.메사로스 애드",
+          "published": "2026-11-23T00:20:38+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 6,
+          "score": 7,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -245,23 +184,63 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 1,
+      "count": 3,
       "articles": [
         {
-          "title": "‘카카오 vs TPG’ 분쟁 첫 분기점…메가박스중앙은 회생안 마련 ‘총력’ [M&A복덕방] - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xbDV6VW1PZW50UWtObXRCSzViVXNFM2E5UHV4eVZ3elRPdy1qNDdxTkg5cHZKUGVLZlJyaVlSZzVYYy1aRjlubWt4cU1nd0V5UVE?oc=5",
-          "summary": "‘카카오 vs TPG’ 분쟁 첫 분기점…메가박스중앙은 회생안 마련 ‘총력’ [M&amp;A복덕방] &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-21T08:41:52+00:00",
+          "title": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다 - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZmJvM0NnajhpMkZjX1N2M0VaSjRiaThlVGRKY3hCQ2hEOW9wMHZqRGhRT2dSSlIyVVcxRWVPX0RodkJKUThVNXI0Vk5jUQ?oc=5",
+          "summary": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다 &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-22T22:52:04+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
             "source": 2,
-            "recency": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "전용주 디토닉 대표 \"설명 가능한 AI 넘어 판단 근거까지 추적해야”",
+          "link": "https://zdnet.co.kr/view/?no=20261123093011",
+          "summary": "[지디넷코리아]디토닉이 국방 AI를 기존 체계에 부가 기능으로 덧붙이는 수준에서 벗어나, 임무·운영 방식을 설계하는 단계부터 AI 활용을 고려하는 '네이티브 AI' 전환을 제안했다.23일 회사에 따르면, 전용주 디토닉 대표는 충남대학교 정심화국제문화회관에서 열린 '2026 민·군 겸용 기술 협력 국제포럼(GDIF 2026)'의 AI 산업 분야 토론에 패널로 참여해 이 같은 의견을 제시했다.국방과학연구소·네이버클라우드·LIG D&amp;A 등 주요 기관 및 기업이 참여한 토론에서 전 대표는 “국방 현장에서 빠른 판단과 대응을 하려면 모델의 성능뿐 아니라 필요한 데이터를 체계적으로 확보하고, AI가 즉시 활용할 수 있도록 준비하는 것이 중요하다”고 강조했다.이어 네이티브 AI에 필요한 사고 전환의 사례로 기존 차량 체계를 벗어나 운전대·페달 없이 자율주행을 전제로 설계된 '사이버캡'을 들었다. 전 대표는 “국내에서는 전시에 그친 사이버캡이 이미 미국에서는 판매를 시작했다”며 “기술을 기",
+          "published": "2026-11-23T00:44:33+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "매드포갈릭, 파스타·스테이크 최대 50% 할인권 판매",
+          "link": "https://zdnet.co.kr/view/?no=20261123092042",
+          "summary": "[지디넷코리아]매드포갈릭이 블랙 프라이데이 시즌을 맞아 파스타와 스테이크 할인권을 선보인다.엠에프지코리아가 운영하는 매드포갈릭은 오는 29일까지 카카오톡 선물하기에서 ‘매드 블랙 프라이데이’ 모바일 할인권을 판매한다고 밝혔다.할인권은 ‘파스타 50% 할인권’과 ‘스테이크 50% 할인권’ 등 2종으로 구성됐다.파스타 할인권은 갈릭 명란 파스타, 골든 레이어 시그니처 라자냐, 넘침주의 파스타 레드 등 7종 가운데 1종을 선택할 수 있으며 1만4350원에 판매한다.스테이크 할인권은 포레스트 스트립 스테이크, 갈릭 스노잉 스테이크, 매드 크림 휠렛 스테이크 등 3종 가운데 1종을 고를 수 있다. 가격은 최대 50% 할인된 3만3400원이다.스테이크 주문 시에는 스프와 사이드 메뉴를 각각 1개씩 제공한다.할인권은 구매일로부터 93일간 사용할 수 있다. 놀이동산 입점 매장은 사용 대상에서 제외되며, 12월 24일과 25일, 31일에도 사용할 수 없다.윤다예 엠에프지코리아 대표는 “연말 모임 수",
+          "published": "2026-11-23T00:55:30+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "korea_fintech",
+          "category_display": "한국 핀테크",
+          "score": 7,
+          "score_breakdown": {
+            "keyword": 3,
+            "source": 1,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
