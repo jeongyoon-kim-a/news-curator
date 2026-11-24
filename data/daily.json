@@ -1,154 +1,45 @@
 {
-  "generated_at": "2026-11-23T01:27:47.405834+00:00",
-  "total_articles": 11,
+  "generated_at": "2026-11-24T05:10:11.838599+00:00",
+  "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 0,
-      "articles": []
-    },
-    "bigtech": {
-      "display_name": "빅테크",
-      "count": 8,
+      "count": 4,
       "articles": [
         {
-          "title": "\"AI 학습에 전기 44kWh\"...TTA, MLPerf 전력평가 국내 첫 등재",
-          "link": "https://zdnet.co.kr/view/?no=20261123094804",
-          "summary": "[지디넷코리아]한국정보통신기술협회가 AI 학습에 쓰인 전력을 측정해 국제 성능 벤치마크 ‘MLPerf 트레이닝’에 국내 최초로 공식 등재됐다. AI 가속기 4장을 장착한 서버 한 대로 ‘라마 3.1 8B’를 목표 수준까지 학습시키는 데 약 19시간 47분이 걸렸고, 전력 사용량은 약 44kWh였다.협회는 23일 학습 과정의 전력 사용량을 1초 간격으로 기록하고, 10차례 반복 측정한 결과를 참가 기관 간 상호 검토를 거쳐 확정했다고 밝혔다. 평가에는 구글, 엔비디아, AMD 등 역대 최다인 24개 기관이 참여했다. 전력 측정 결과를 공식 제출한 곳은 한국정보통신기술협회가 유일했다.MLPerf는 주요 AI 기업과 학계가 참여하는 국제 비영리단체 ML커먼스가 운영하는 성능 벤치마크다. 학습 평가에서는 AI 모델이 정해진 목표 성능에 도달하는 데 걸리는 시간을 측정한다. 전력 측정은 선택 항목으로, 같은 학습을 마치는 데 얼마나 많은 전기를 쓰는지도 확인할 수 있다.시험에는 국내 중소기업",
-          "published": "2026-11-23T00:48:04+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\" - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zdG9idUg4cnV5TWtPeDZjN1p2S0dHeWFYUHJjYjJCdndQTVZ1VUFPZklZVVV2YWtCM01vQTA1Sk52TUQwdk9mUnhOM2tBem1FVlFyTFp4SF9oVWQ2U3QtZDhxMDlGdHR5YkE?oc=5",
-          "summary": "미국 AI 칩 규제에 중국 기업들 잇단 타격…WSJ \"엔비디아 금단 현상\" &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-22T02:15:38+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
-          "summary": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
-          "published": "2026-11-22T19:40:54+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Trump's AI Chip Crackdown on China After Nvidia Crisis Squeezes Southeast Asia",
-          "link": "https://www.bloomberg.com/news/features/2026-11-22/trump-s-ai-chip-crackdown-on-china-after-nvidia-crisis-squeezes-southeast-asia",
-          "summary": "Washington’s new rulebook spells trouble for a multibillion dollar cloud business helping to power the region’s data center boom.",
-          "published": "2026-11-22T22:00:13+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "\"아마존, AI칩 스타트업 10조원 인수 임박\" - 매일경제 마켓",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZRTJXY2dsRHJtcTB1MlNGRnhnN1kxRzN4czd0WnJyTjJNY2Q0NndSN3gzTmZUaG5weV9XZ2VVNHNBOUdCMUQ5VWFTLXFVZ2ZEYXc?oc=5",
-          "summary": "\"아마존, AI칩 스타트업 10조원 인수 임박\" &nbsp;&nbsp; 매일경제 마켓",
-          "published": "2026-11-22T22:32:14+00:00",
+          "title": "특징주, 미래에셋증권-스페이스X(SpaceX) 테마 상승세에 2.46% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBzLU9FYUxzNEdPeFNndkFNc2RUMFV5aTJjdm1EX1IwNG1zbkoyUTJqREJkYkhPU05OWTBSOTBWbXNJWnh5OGhGSzdMTGJlcXRrZnc?oc=5",
+          "summary": "특징주, 미래에셋증권-스페이스X(SpaceX) 테마 상승세에 2.46% ↑ &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-24T00:48:33+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
           "score": 11,
           "score_breakdown": {
-            "keyword": 3,
+            "keyword": 6,
             "source": 2,
             "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "m_and_a"
-          ]
-        },
-        {
-          "title": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaXJuclh4TWxNRFVaV09vQWQ0ckF5ekpfT01wNU4zNTh5V2ozREwwOWFQMGlRWkV5dHVfYnR5R25zLUhCREZNcTBBWmNNbXVValNpaVFiYlpQSW82VENOM2VfTG8xM1dkRnc?oc=5",
-          "summary": "젠슨 황의 '악수 거래', 엔비디아 경영 위험으로…공급망 유지 시험대 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-22T08:17:00+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Apple’s AI Agent War, Early 2027 Product Plans and iPhone Duo Face Unlock Review",
-          "link": "https://www.bloomberg.com/news/newsletters/2026-11-22/apple-s-ai-agent-war-early-2027-product-plans-and-iphone-duo-face-unlock-review",
-          "summary": "Also: The company prepares a slew of new iPhones, iPads and Macs for early 2027.",
-          "published": "2026-11-22T15:00:01+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 8,
+          "title": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjVXR6SUZyQ0Z0OVVPVjlSZXhSZk1sMy1GODhSTlNKVTA0SkFtSGJ4TGpiZWR4bjZ4Qk1sbkRuSngtYUF2Q3dXU2hEQjRxZXMtSWxRMTI2SXppT3pUc3ByYzFjMHVOOXR1VFE?oc=5",
+          "summary": "황 복귀에 엔비디아 직원들 환호…머스크·알트먼도 환영 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-23T22:10:26+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 9,
           "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
+            "keyword": 5,
+            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -156,19 +47,218 @@
           "event_labels": []
         },
         {
-          "title": "[인터뷰] AI가 코딩해도 개발자는 살아남는다…AWS가 전한 생존 전략은",
-          "link": "https://zdnet.co.kr/view/?no=20261123090554",
-          "summary": "[지디넷코리아]\"인공지능(AI)이 소프트웨어 개발 속도를 높이고 있지만 더 중요한 변화는 개발자의 자율성이 커지고 있다는 점입니다. 개발자는 AI를 활용해 더 크고 복잡한 시스템을 직접 구축할 수 있게 됐습니다.\"다르코 메사로스 아마존웹서비스(AWS) 디스팅귀시드 개발자 애드보킷은 지난 22일 서울 스페이스쉐어 삼성역센터에서 열린 'AWS 커뮤니티 데이 서울 2026'에서 지디넷코리아와 만나 AI가 소프트웨어 개발 방식과 개발자 역할을 바꾸고 있다고 강조했다.그는 AI 코딩 도구를 활용한 개발 생산성 향상 사례를 소개하며 단순한 코드 생성 자동화를 넘어 개발자가 고객 요구사항을 직접 구현할 수 있는 환경을 만드는 것이 중요하다고 짚었다.최근 AI가 코드 작성 속도를 높이면서 소프트웨어 개발 과정의 병목도 달라지고 있다. 과거에는 개발자가 코드를 작성하는 데 많은 시간이 필요했지만 이제는 AI가 생성한 코드를 검토하고 실제 서비스에 반영하는 과정이 새로운 과제로 떠올랐다.메사로스 애드",
-          "published": "2026-11-23T00:20:38+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 7,
+          "title": "머스크, AI 업계 자금난 재차 경고...\"2027년 수천억달러 추가 필요\" - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTdVI2NFU0ZDEzU3BjSGo3Y0FmMzFtMEk4LW5QcnVqUDdKbEJ5Rm9KRFVzbFJWS0U1dC1RQ0lYdEk1Sl9mb2IweVR3Y0lZZU1mdWJGQ0lyNmtzT19pRGZ1bTB0UUJ2QzR6c3c?oc=5",
+          "summary": "머스크, AI 업계 자금난 재차 경고...\"2027년 수천억달러 추가 필요\" &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-23T07:34:25+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "뉴럴링크 뇌 칩 환자, 손가락 움직임 상상해 'GTA 6' 조작 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nZ0FwWXBBRV9pSmEyYlZoVmVKVE9Cem5WZHV4dU1NMnBPLVkyaTQ4TWlVcUEzTkRzTWxvX1Fzbm91SFROQk52aHUyMjlXay1ZbW9hOXNMYkRLYjdOc1VvWTlGbE5Nbzh2Tnc?oc=5",
+          "summary": "뉴럴링크 뇌 칩 환자, 손가락 움직임 상상해 'GTA 6' 조작 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-23T08:30:52+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 6,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        }
+      ]
+    },
+    "bigtech": {
+      "display_name": "빅테크",
+      "count": 8,
+      "articles": [
+        {
+          "title": "Nvidia reinstates Jensen Huang as CEO; Trump praises ‘correct’ decision; shares surge",
+          "link": "https://www.scmp.com/tech/big-tech/article/3375515/nvidia-reinstates-jensen-huang-ceo-president-and-board-director",
+          "summary": "Nvidia has reinstated Jensen Huang as its CEO, president and board director with immediate effect, after the company determined following input from US officials that the move would not pose a national security risk. The firm’s board of directors voted unanimously to reinstate Huang following a series of discussions and meetings with him, after which the board was satisfied with Huang’s candour and ability to lead the firm, the company said in a statement on Monday. “In the process of reaching..",
+          "published": "2026-11-23T14:06:36+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 4,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change",
+            "funding"
+          ]
+        },
+        {
+          "title": "Megaspeed Faces US Blacklist After Nvidia CEO Ouster, Sources Say",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal",
+          "summary": "The Trump administration put Megaspeed International on a US trade blacklist that bars it from buying advanced artificial intelligence chips, targeting a Singapore-based firm at the heart of the scandal that briefly cost Jensen Huang his job at Nvidia Corp.",
+          "published": "2026-11-23T20:43:55+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Why Nvidia CEO Jensen Huang Matters So Much to the Stock Market",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-23/why-nvidia-ceo-jensen-huang-matters-so-much-to-the-stock-market",
+          "summary": "The decision by Nvidia Corp.’s board of directors to restore Jensen Huang as chief executive officer on Nov. 23 after President Donald Trump pressed for the move speaks to the enormous impact both of Huang on the company and of the company on the larger stock market. The sharp decline in Nvidia’s stock price that began after news emerged that Huang had had an affair with a woman suspected of being an asset for Chinese intelligence erased more than two trillion dollars of value from the stock mar",
+          "published": "2026-11-23T22:37:22+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "Jensen Huang returns to Nvidia to applause from staff, no trademark leather jacket in sight",
+          "link": "https://www.scmp.com/tech/tech-war/article/3375539/jensen-huang-returns-nvidia-applause-staff-no-trademark-leather-jacket-sight",
+          "summary": "When Jensen Huang walked back into Nvidia’s headquarters in Santa Clara on Monday – without his trademark black leather jacket – the applause from cheering staff momentarily drowned out nearly two weeks of corporate turmoil. “I’m going to be a better CEO the second time around,” Huang told the crowd, joking that he would need the IT department to set him up with a computer on his first day back. The emotional homecoming marked a stunning reversal just 11 days after Huang’s abrupt resignation...",
+          "published": "2026-11-24T01:45:37+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "US places Megaspeed on blacklist as Jensen Huang returns to helm of Nvidia",
+          "link": "https://www.scmp.com/tech/tech-war/article/3375556/us-places-megaspeed-blacklist-jensen-huang-returns-helm-nvidia",
+          "summary": "The US Department of Commerce has added Megaspeed, the Singapore-based cloud computing firm at the centre of the ongoing Nvidia saga, to its trade blacklist, hours after the chip giant reinstated co-founder Jensen Huang as CEO following his abrupt departure 11 days prior. In a filing released on Monday, the department’s Bureau of Industry and Security placed Megaspeed International and six other entities in Southeast Asia – widely regarded as Megaspeed’s affiliates – on its Entity List. The...",
+          "published": "2026-11-24T03:48:10+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NSWVmZ1VIbVBoUzdDNDdIVW9lbFIyZDh4a2NxMzFKSHFHQXpYSjlmMHAxLWFZdFlZaDBra2F0bm5jLWcxVXZ5RzdOTTUwckdIZWFCRmhINE83RzZveGxMUmppY0dXUDZEMHc?oc=5",
+          "summary": "젠슨 황, 사임 11일 만에 엔비디아 CEO 복귀…트럼프 직접 개입 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-23T19:50:17+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 2,
+            "noise_penalty": 0
+          },
+          "event_labels": [
+            "exec_change"
+          ]
+        },
+        {
+          "title": "RBC Has Ideas For Canada to Unlock Tech GDP Gains as NVIDIA Rallies",
+          "link": "https://www.bloomberg.com/news/newsletters/2026-11-23/rbc-has-ideas-for-canada-to-unlock-tech-gdp-gains-as-nvidia-rallies",
+          "summary": "Plus: Why COP talks failed",
+          "published": "2026-11-23T23:30:00+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Huang Comeback Ignites Limit-Up Frenzy in Battered Asia AI Trade",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-23/asian-chip-stocks-set-to-jump-as-huang-comeback-refires-ai-trade",
+          "summary": "Asia’s AI trade came roaring back Tuesday, with chipmakers and data-center plays from Taiwan to Kuala Lumpur surging as Jensen Huang’s return to Nvidia unleashed a buying frenzy across a sector battered by weeks of doubts over the durability of the AI boom.",
+          "published": "2026-11-23T23:45:20+00:00",
+          "source_key": "bloomberg_markets",
+          "source_name": "Bloomberg Markets",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -184,67 +274,29 @@
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 1,
       "articles": [
         {
-          "title": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBaZmJvM0NnajhpMkZjX1N2M0VaSjRiaThlVGRKY3hCQ2hEOW9wMHZqRGhRT2dSSlIyVVcxRWVPX0RodkJKUThVNXI0Vk5jUQ?oc=5",
-          "summary": "총수가 재판에 묶인 사이 ‘AI시대’…4년 멈춘 카카오, 성장시계 다시 돈다 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-22T22:52:04+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "전용주 디토닉 대표 \"설명 가능한 AI 넘어 판단 근거까지 추적해야”",
-          "link": "https://zdnet.co.kr/view/?no=20261123093011",
-          "summary": "[지디넷코리아]디토닉이 국방 AI를 기존 체계에 부가 기능으로 덧붙이는 수준에서 벗어나, 임무·운영 방식을 설계하는 단계부터 AI 활용을 고려하는 '네이티브 AI' 전환을 제안했다.23일 회사에 따르면, 전용주 디토닉 대표는 충남대학교 정심화국제문화회관에서 열린 '2026 민·군 겸용 기술 협력 국제포럼(GDIF 2026)'의 AI 산업 분야 토론에 패널로 참여해 이 같은 의견을 제시했다.국방과학연구소·네이버클라우드·LIG D&amp;A 등 주요 기관 및 기업이 참여한 토론에서 전 대표는 “국방 현장에서 빠른 판단과 대응을 하려면 모델의 성능뿐 아니라 필요한 데이터를 체계적으로 확보하고, AI가 즉시 활용할 수 있도록 준비하는 것이 중요하다”고 강조했다.이어 네이티브 AI에 필요한 사고 전환의 사례로 기존 차량 체계를 벗어나 운전대·페달 없이 자율주행을 전제로 설계된 '사이버캡'을 들었다. 전 대표는 “국내에서는 전시에 그친 사이버캡이 이미 미국에서는 판매를 시작했다”며 “기술을 기",
-          "published": "2026-11-23T00:44:33+00:00",
+          "title": "카카오게임즈, '오딘Q' 내년 1월 26일 한국·대만·일본 동시 출시",
+          "link": "https://zdnet.co.kr/view/?no=20261124113235",
+          "summary": "[지디넷코리아]카카오게임즈가 '오딘: 발할라 라이징'의 세계관을 계승한 신작 MMORPG '오딘Q'를 내년 1월 한국·대만·일본에 동시 출시한다.카카오게임즈는 라이온하트 스튜디오가 개발 중인 모바일·PC 크로스플랫폼 MMORPG '오딘Q: 발키리스콜'의 정식 출시일을 24일 공개했다. 게임은 2027년 1월 26일 한국·대만·일본에 동시 출시 계획이다. 세 지역 사전예약은 오는 12월 29일 한국과 일본 기준 오전 11시, 대만 현지 시간 오전 10시에 시작한다.카카오게임즈는 이날 공식 티저 페이지를 열고 '오딘의 이름으로'라는 슬로건과 함께 신규 키비주얼을 선보였다. 북유럽 신화를 바탕으로 한 세계관과 게임을 대표하는 종족 '발키리'의 모습을 처음 공개했다.'오딘Q'의 원작인 '오딘: 발할라 라이징'은 2021년 출시 이후 국내 양대 앱 마켓과 대만에서 매출 1위를 기록했다. 대한민국 게임대상에서는 대상을 받았다.이용자는 티저 페이지에서 정식 출시까지 남은 시간을 확인할 수 있다.",
+          "published": "2026-11-24T02:45:01+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 7,
+          "score": 9,
           "score_breakdown": {
             "keyword": 3,
             "source": 1,
             "recency": 3,
-            "event_bonus": 0,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
-          "event_labels": []
-        },
-        {
-          "title": "매드포갈릭, 파스타·스테이크 최대 50% 할인권 판매",
-          "link": "https://zdnet.co.kr/view/?no=20261123092042",
-          "summary": "[지디넷코리아]매드포갈릭이 블랙 프라이데이 시즌을 맞아 파스타와 스테이크 할인권을 선보인다.엠에프지코리아가 운영하는 매드포갈릭은 오는 29일까지 카카오톡 선물하기에서 ‘매드 블랙 프라이데이’ 모바일 할인권을 판매한다고 밝혔다.할인권은 ‘파스타 50% 할인권’과 ‘스테이크 50% 할인권’ 등 2종으로 구성됐다.파스타 할인권은 갈릭 명란 파스타, 골든 레이어 시그니처 라자냐, 넘침주의 파스타 레드 등 7종 가운데 1종을 선택할 수 있으며 1만4350원에 판매한다.스테이크 할인권은 포레스트 스트립 스테이크, 갈릭 스노잉 스테이크, 매드 크림 휠렛 스테이크 등 3종 가운데 1종을 고를 수 있다. 가격은 최대 50% 할인된 3만3400원이다.스테이크 주문 시에는 스프와 사이드 메뉴를 각각 1개씩 제공한다.할인권은 구매일로부터 93일간 사용할 수 있다. 놀이동산 입점 매장은 사용 대상에서 제외되며, 12월 24일과 25일, 31일에도 사용할 수 없다.윤다예 엠에프지코리아 대표는 “연말 모임 수",
-          "published": "2026-11-23T00:55:30+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
+          "event_labels": [
+            "earnings"
+          ]
         }
       ]
     },
