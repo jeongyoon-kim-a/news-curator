@@ -1,26 +1,86 @@
 {
-  "generated_at": "2026-11-25T03:59:58.695361+00:00",
+  "generated_at": "2026-11-26T03:24:37.009793+00:00",
   "total_articles": 13,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 1,
+      "count": 4,
       "articles": [
         {
-          "title": "Data centers are getting their own natural gas power plants",
-          "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
-          "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI boom.&#160;&#160; xAI’s&#8230;",
-          "published": "2026-11-24T11:00:00+00:00",
-          "source_key": "mit_tech_review",
-          "source_name": "MIT Technology Review",
+          "title": "특징주, 미래에셋벤처투자-스페이스X(SpaceX) 테마 상승세에 3.08% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9lX2hLVkI2ZkltdzJncXBMUmYwbW9Mc2ZYZ2xUdVlZTUhCcFRUZDJJcFM2bDdGMUxfbFhCaEtBOXFGMVRaYW15S2cwejRvMlVPTUE?oc=5",
+          "summary": "특징주, 미래에셋벤처투자-스페이스X(SpaceX) 테마 상승세에 3.08% ↑ &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-26T00:06:46+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
           "source_weight": 2,
           "category": "elon_musk",
           "category_display": "일론 머스크",
-          "score": 6,
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "특징주, 에이치브이엠-스페이스X(SpaceX) 테마 상승세에 5.9% ↑ - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Z3Q2cU82UlVIQkRVVnVhbFE5X1l1MHlXbWJ6d3NWZFRHbTBrZElPYjFRQUFuRzE5em13YWVvRndlU2RsWlVRSVNWd2JWaFc4VEE?oc=5",
+          "summary": "특징주, 에이치브이엠-스페이스X(SpaceX) 테마 상승세에 5.9% ↑ &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-26T00:07:28+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "특징주, 나노팀-스페이스X(SpaceX) 테마 상승세에 6.46% ↑ - 매일경제 마켓",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Xd2hMZjRNb3EzcnlKVFhTZDFTaTVpTlQyVFkxNEZsSm9wWFNndXBJcm9iN1NhLU5CdGdJdXJMRVlqUnVPeXNESXd6WGxKTDZnYlE?oc=5",
+          "summary": "특징주, 나노팀-스페이스X(SpaceX) 테마 상승세에 6.46% ↑ &nbsp;&nbsp; 매일경제 마켓",
+          "published": "2026-11-26T00:17:26+00:00",
+          "source_key": "mk_economy",
+          "source_name": "매일경제",
+          "source_weight": 2,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 11,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 2,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "SpaceX Wins Government Approval to Launch Space Data Centers",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-25/spacex-receives-government-approval-to-launch-space-data-centers",
+          "summary": "The US Federal Communications Commission approved SpaceX’s request to launch as many as 1 million satellites for the creation of a network of data centers in orbit for complex artificial intelligence computing.",
+          "published": "2026-11-25T18:05:26+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "elon_musk",
+          "category_display": "일론 머스크",
+          "score": 8,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
-            "recency": 1,
+            "source": 3,
+            "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
           },
@@ -33,141 +93,52 @@
       "count": 8,
       "articles": [
         {
-          "title": "China stocks miss out as Huang’s Nvidia return sparks AI rally",
-          "link": "https://www.scmp.com/plus/tech/tech-war/article/3375612/china-stocks-miss-out-huangs-nvidia-return-sparks-ai-rally",
-          "summary": "Jensen Huang returned to Nvidia 11 days after stepping down as chief executive officer amid a sex and spying scandal, aided by US President Donald Trump lobbying the chipmaker’s board. “I made the deal,” Trump said on Monday in an interview with broadcaster CNBC. Chinese President Xi Jinping is “probably not thrilled at the news” of Huang’s return, Trump said, adding that China could have tried to hire the 63-year-old CEO had he not rejoined Nvidia. Shares of Nvidia surged 32 per cent on Huang’s",
-          "published": "2026-11-24T09:13:03+00:00",
+          "title": "US finds no evidence China told Alice Huang to spy on Nvidia’s Jensen Huang, report says",
+          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375812/us-finds-no-evidence-china-told-tech-exec-spy-nvidias-jensen-huang-report-says",
+          "summary": "US ⁠officials found no evidence ⁠that tech executive Alice Huang was directed by Beijing to spy on Nvidia CEO Jensen Huang, The Wall Street Journal reported on Wednesday, citing people familiar with a classified briefing. The briefing ‌comes after US President Donald Trump cleared the way for Jensen Huang’s reinstatement earlier this week, assuring Nvidia that its CEO posed no national-security threat. The controversy began with concerns over Alice Huang’s alleged Chinese intelligence links and.",
+          "published": "2026-11-25T18:23:37+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
             "keyword": 5,
             "source": 2,
-            "recency": 1,
-            "event_bonus": 5,
+            "recency": 2,
+            "event_bonus": 2,
             "noise_penalty": 0
           },
           "event_labels": [
-            "m_and_a",
             "exec_change"
           ]
         },
         {
-          "title": "Why Anthropic could be the biggest loser from Jensen Huang’s return to Nvidia",
-          "link": "https://www.scmp.com/tech/big-tech/article/3375630/why-anthropic-could-be-biggest-loser-jensen-huangs-return-nvidia",
-          "summary": "Jensen Huang’s stunning return to Nvidia sent artificial intelligence and chip-related stocks soaring on Monday – with one glaring exception: Anthropic. While Nvidia notched its biggest single-day surge since 2003 – adding nearly US$1 trillion to the chipmaker’s market value – shares of the newly listed AI model developer slid more than 1 per cent to US$87.64 on the Nasdaq, hovering less than 6 per cent above its initial public offering price. The divergent market reactions came as American...",
-          "published": "2026-11-24T13:00:09+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
+          "title": "Anthropic’s Stock Sparks Rare Divide Inside One Wall Street Firm",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-25/anthropic-s-stock-sparks-rare-divide-inside-one-wall-street-firm",
+          "summary": "Two equity analysts at a single Wall Street research firm have taken the unusual step of posting conflicting views on the outlook for the hottest stock in the market: Anthropic PBC’s newly listed shares.",
+          "published": "2026-11-25T21:35:47+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 13,
+          "score": 11,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 2,
-            "recency": 1,
+            "keyword": 5,
+            "source": 3,
+            "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
           },
           "event_labels": []
         },
         {
-          "title": "Nvidia’s Jensen Huang says he is in therapy, as comeback rally fades",
-          "link": "https://www.scmp.com/news/world/united-states-canada/article/3375675/nvidias-jensen-huang-apologises-staff-says-he-therapy",
-          "summary": "Jensen Huang apologised to Nvidia staff and said he was in therapy on Tuesday, as a stock rally triggered by his shock return as CEO faltered amid persistent doubts over the probes he faces and the fate of the AI investment boom. “I made some terrible mistakes,” Huang told an hour-long all-hands meeting at the company’s Santa Clara, California, headquarters, The New York Times reported after reviewing a live stream of the event. He told staff it was “not acceptable” that he had broken a code of.",
-          "published": "2026-11-24T22:03:22+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Jensen Huang’s return steadies Nvidia, but China curbs, US scrutiny show no sign of easing",
-          "link": "https://www.scmp.com/tech/big-tech/article/3375632/jensen-huangs-return-steadies-nvidia-china-curbs-us-scrutiny-show-no-sign-easing",
-          "summary": "Jensen Huang’s return as Nvidia’s CEO may steady the chipmaker’s leadership and calm jitters across the global artificial intelligence supply chain, but it is unlikely to ease US export restrictions on China as national security scrutiny in Washington intensifies, analysts say. The reinstatement of Huang on Monday, ending an 11-day leadership crisis at one of the world’s most valuable companies, sent Nvidia shares surging more than 31 per cent to close at US$165.05 on the Nasdaq, adding nearly..",
-          "published": "2026-11-25T03:00:17+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "젠슨 황 약발 떨어졌나…'부채 우려'에 AI 관련주 동반 하락",
-          "link": "https://zdnet.co.kr/view/?no=20261125084953",
-          "summary": "[지디넷코리아]젠슨 황의 엔비디아 최고경영자(CEO) 복귀 소식에 완화되는 듯했던 인공지능(AI) 시장에 대한 불안감이 좀처럼 수그러들지 않고 있다.미국 증시에서 엔비디아 주가가 6% 가까이 급락하는 등 전날 급등했던 AI 관련주들이 일제히 하락했다고 CNBC 등 외신이 24일(현지시간) 보도했다.이날 엔비디아 주가는 전 거래일보다 9.67달러(5.9%) 내린 155.38달러에 거래를 마쳤다. 이에 따라 시가총액은 하루 만에 약 2330억 달러(약 314조원) 감소했다.CNBC는 월가에서 AI 인프라 구축에 필요한 막대한 부채 부담에 대한 우려가 커지고 있다고 분석했다. 그동안 엔비디아는 단순한 반도체 설계업체를 넘어 AI 산업 전반의 투자를 뒷받침하는 핵심 자금 공급원 역할을 해왔다. 젠슨 황 최고경영자(CEO)는 AI 업계에서 영향력 있는 투자자로 꼽히며 코어위브와 같은 네오클라우드 기업을 지원해 왔다.젠슨 황 CEO는 엔비디아의 막대한 자금력과 업계 내 위상을 바탕으로 AI 기",
-          "published": "2026-11-25T02:20:56+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "엔비디아 CEO 후보였던 르네 하스, Arm CEO 2033년까지 연임 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aYUptMmVmVVBITHpOa0hwSmRYZ0RLYkxySzMwd2RtZFdjc3NtV0Q5U3F6LU1RREpJREpxLTVPdG1vQ1hCX1B6bFNrR1ZqNm5yQkRIYmw0aS05MVl3YVo4NDl4VElWakRlNFE?oc=5",
-          "summary": "엔비디아 CEO 후보였던 르네 하스, Arm CEO 2033년까지 연임 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-24T06:46:57+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "Why Taiwan’s chip industry welcomes Jensen Huang’s Nvidia comeback",
-          "link": "https://www.scmp.com/tech/big-tech/article/3375627/why-taiwans-chip-industry-welcomes-jensen-huangs-nvidia-comeback",
-          "summary": "Days of anxiety across Taiwan’s technology sector have given way to a sigh of relief, as Jensen Huang’s dramatic return to the helm of Nvidia helped fuel a blistering rally in chip and hardware stocks. His reinstatement could spur fresh investment in the island’s semiconductor industry, particularly if the US chip giant shifts more business away from mainland China, analysts said. Taipei’s benchmark Taiex index jumped nearly 9 per cent on Tuesday, after Nvidia restored Huang as CEO, president...",
-          "published": "2026-11-24T11:00:11+00:00",
+          "title": "Jensen Huang is back. The risk to Nvidia and the AI boom remains",
+          "link": "https://www.scmp.com/opinion/world-opinion/article/3375628/jensen-huang-back-risk-nvidia-and-ai-boom-remains",
+          "summary": "Jensen Huang resigned as CEO of Nvidia on November 12, yet on November 23 the board reinstated him. In the intervening days, the company lost around a trillion dollars in market value. When the news of Huang’s reinstatement broke on Monday, Nvidia shares jumped more than 30 per cent and recovered nearly all the losses that followed his exit. Staff crowded the Nvidia headquarters lobby in Santa Clara, California, to welcome him back. The trouble began on October 29, when The New York Times...",
+          "published": "2026-11-25T08:36:51+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -186,10 +157,10 @@
           ]
         },
         {
-          "title": "Nvidia Is a ‘Good Corporate Citizen,’ Attorney General Says",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-24/nvidia-is-a-good-corporate-citizen-us-attorney-general-says",
-          "summary": "US Attorney General Todd Blanche said Nvidia Corp. is “a good corporate citizen,” while declining to directly answer questions about whether the Justice Department is scrutinizing the circumstances that led to the temporary exit of Chief Executive Officer Jensen Huang.",
-          "published": "2026-11-24T16:59:52+00:00",
+          "title": "S&P Says It May Downgrade Nvidia’s Ratings on Governance Worries",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-25/s-p-says-it-may-downgrade-nvidia-s-ratings-on-governance-worries",
+          "summary": "S&amp;P Global Ratings is looking at cutting Nvidia Corp.’s credit by one notch, citing concerns over the company’s management and governance following the departure, and then the return, of Chief Executive Officer Jensen Huang.",
+          "published": "2026-11-25T18:56:21+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
@@ -204,96 +175,117 @@
             "noise_penalty": 0
           },
           "event_labels": []
+        },
+        {
+          "title": "[ZD e게임] 20년 추억 담은 엠게임 '귀혼키우기'…IP 너머의 매력은 숙제",
+          "link": "https://zdnet.co.kr/view/?no=20261126105818",
+          "summary": "[지디넷코리아]엠게임이 20년 장수 지식재산권(IP) 귀혼을 활용한 신작 '귀혼키우기'를 선보였다. 원작 특유의 무협 감성에 방치형 RPG의 간편한 성장 방식을 접목해 기존 팬은 물론 신규 이용자도 쉽게 즐길 수 있도록 했다.엠게임은 지난 24일 귀혼키우기를 정식 출시했다. 출시 전후로는 신작에 대한 기대감을 증명했다. 사전예약자는 100만명을 돌파했고, 출시 후 애플 앱스토어와 구글 플레이스토어 인기 순위 1위를 기록했다.직접 플레이해 본 결과 방치형 RPG의 기본기에 충실한 구성을 확인할 수 있었다. 원작에 대한 추억을 간직한 이용자에게는 반가운 요소가 있었지만, IP를 제외하면 여타 방치형 RPG와 구분되는 매력은 다소 부족했다. 정식 출시 이후에도 개선이 필요한 부분이 곳곳에서 눈에 띄었다.플레이 과정에서 가장 인상적인 부분은 원작 귀혼에서 만나볼 수 있었던 마물들의 디자인이다. 과거 귀혼을 즐겼던 이용자라면 익숙한 마물의 모습을 보는 것만으로도 당시 추억을 떠올릴 수 있다.",
+          "published": "2026-11-26T02:25:41+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 10,
+          "score_breakdown": {
+            "keyword": 6,
+            "source": 1,
+            "recency": 3,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Nvidia’s Jensen Huang is back – but will he still be a regular visitor to China?",
+          "link": "https://www.scmp.com/tech/big-tech/article/3375795/nvidias-jensen-huang-back-will-he-still-be-regular-visitor-china",
+          "summary": "While Jensen Huang has reclaimed his seat atop Nvidia, his days as Silicon Valley’s most visible and frequent emissary to China are likely over as the United States tightens its chip export controls, according to analysts. Following the 63-year-old’s brief departure amid internal and congressional probes into his extramarital affairs and China ties, observers are questioning whether Huang can maintain the Beijing-friendly posture that defined his recent tenure. Over the past two years, Huang has",
+          "published": "2026-11-25T15:30:07+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "S&P, 엔비디아 신용등급 '부정적 관찰대상' 등재 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EV2J3ZjJIOTFxdElsLXFRZzJJaVNIcmxmc0ZkVWx0N2dGU1F0Y1NxcWgyV2FkU3pXeGFlc1FBUmdUZmpEVng3RDg4WTRGbUdRSi1fZ2hpVXRFcVRxclpvZUctclZ1YlJvV0NlbFlEdTfSAXRBVV95cUxOV1RJTVpiUUx4VURBTlQ3b3JJWXdWU0w0TktjUmVMMlFfVF80bGFPQVgwOVJvb1dKcnVMc0JaRFY0bEJ5SF9mVEMxdXBhU2FkdWNVT0lvTm81b0dJWFlJUEp2LWQwYjRNeDlnMTU2d05wVUh4OA?oc=5",
+          "summary": "S&amp;P, 엔비디아 신용등급 '부정적 관찰대상' 등재 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-25T18:45:37+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "S&P, 엔비디아 신용등급 강등 경고…\"90일내 한단계 하향 가능\"(종합) - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15YkRianFadUtZMGVLelNnZjFoOWxsaTZiZWdqUjE4ajJLMzZCV2sxdFpfTTFFRVNEdVF0VDZOQW0wNVFqTzJTbmd1d2V3cDNEcUdIdWF0Z1pxQjVhelNHOHFIek8xVm1wN1NHRUFxRW4?oc=5",
+          "summary": "S&amp;P, 엔비디아 신용등급 강등 경고…\"90일내 한단계 하향 가능\"(종합) &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-25T19:23:41+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
         }
       ]
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 3,
-      "articles": [
-        {
-          "title": "코인 거래소, 대주주 지분제한 '비상'…경영권부터 신사업까지 변수",
-          "link": "https://zdnet.co.kr/view/?no=20261125105057",
-          "summary": "[지디넷코리아]금융위원회가 디지털자산법 제정을 통해 가상자산 거래소 대주주 지분을 원칙적으로 20%까지 제한하기로 하면서 거래소 업계에 대대적인 지배구조 변화가 예고됐다. 현재 정부안대로라면 법 통과 이후 국내 5대 원화 가상자산 거래소 모두 지분 재편이 불가피하다.25일 가상자산 업계에 따르면 금융위가 전날 발표한 디지털자산법 정부안에는 가상자산 거래소 소유분산 규제가 담겼다. 자본시장 대체거래소(ATS)에 준해 주식 소유 한도를 원칙적으로 20%로 제한하되, 금융위 승인을 받으면 최대 34%까지 보유할 수 있도록 했다.금융위는 거래소 지정 이후 3년간 규제 적용을 유예할 방침이다. 중소형 거래소에는 투자유치 필요성 등을 고려해 최대 3년간 유예기간을 추가로 부여할 수 있도록 했다.현재 국내 5대 원화 가상자산 거래소 모두 최대주주 지분율이 20%를 웃돌고 있다.업비트 운영사 두나무는 네이버파이낸셜과 포괄적 주식교환을 통한 기업결합을 추진하고 있다. 내년 3월 31일로 예정된 주식",
-          "published": "2026-11-25T01:58:43+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 19,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 5,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "funding"
-          ]
-        },
-        {
-          "title": "비트코인 급락에 투자자 손실 확대…큰손은 '매집 전략'",
-          "link": "https://zdnet.co.kr/view/?no=20261125092925",
-          "summary": "[지디넷코리아]최근 비트코인 가격이 한때 5만 5000 달러 대까지 떨어지면서 손실 구간에 놓인 비트코인 수량이 역대 최대치를 기록했다.24일(현지시간) 블록체인 분석업체 글래스노드에 따르면, 미실현 손실 구간에 진입한 비트코인 수량은 1160만개를 넘어서며 역대 최대 규모로 집계됐다.글래스노드가 집계하는 손실 구간 비트코인은 마지막으로 블록체인 상에서 이동했을 당시 가격보다 현재 시장가격이 낮은 비트코인 수량을 의미한다. 실제 매도로 손실이 확정된 것이 아닌 미실현 손실을 나타내는 지표다.반면 수익 구간에 놓인 비트코인 수량은 850만개까지 감소했다. 이는 글로벌 가상자산 거래소 FTX가 파산한 지난 2022년 11월 기록한 860만개보다 적은 규모다.과거에는 비트코인 가격이 저점을 기록하더라도 수익 구간에 있는 비트코인 수량은 이전 약세장 때보다 많았다. 그러나 이번에는 비트코인 가격이 FTX 파산 당시(약 1만 6000 달러 선)보다 높은 수준임에도 수익 구간에 놓인 수량은 오",
-          "published": "2026-11-25T01:55:30+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": -5
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“가상자산부터 방산까지 전방위 확장”…트럼프 일가, 대선 이후 40개 이상 사업 관여 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE54WnF5eHA5ZzZ3VGVIWGdOd1NpeTlicjdpOWRDbjFjVEdqU082VVRjWExlWUtKZUpqLVp2WFVDaEVwQ21ZNnRPam5UZW1hOERLWWc?oc=5",
-          "summary": "“가상자산부터 방산까지 전방위 확장”…트럼프 일가, 대선 이후 40개 이상 사업 관여 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-24T13:12:04+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 6,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
+      "count": 0,
+      "articles": []
+    },
+    "mirae_asset": {
+      "display_name": "미래에셋",
       "count": 1,
       "articles": [
         {
-          "title": "모두의카드, 내달부터 13~18세 청소년도 쓴다…환급혜택 정률형 20% 등",
-          "link": "https://zdnet.co.kr/view/?no=20261125090014",
-          "summary": "[지디넷코리아]다음 달부터 대중교통비 환급 혜택을 받을 수 있는 모두의카드를 13~18세 청소년도 쓸 수 있게 된다. 또 내년 2월부터는 청소년·청년·외국인 특화 카드상품 3종도 나온다.국토교통부 대도시권광역교통위원회는 올해 미성년자 본인인증 체계·이용약관 등을 개선하고, 지방정부·카드사 등 관계 기관과 협력해 12월부터 만 13~18세 청소년도 모두의카드를 이용할 수 있게 됐다고 25일 밝혔다. 환급 기준은 정률형 20%, 정액형 6만 2000원(수도권, 일반형 기준)이 적용된다.청소년이 이용할 수 있는 카드는 선불·체크 카드로 12월에는 농협·신한·우리·이즐·코레일·토스·티머니·하나·IBK기업·KB국민(18세)·카카오뱅크·케이뱅크 등 12개 카드사에서 발급할 수 있다. 카드를 발급받은 뒤 모두의카드 앱이나 누리집에서 회원가입과 등록해서 이용할 수 있다. 앞으로 시스템 개발 등을 거쳐 청소년이 발급받을 수 있는 카드 상품을 확대할 예정이다.대광위는 이번 개선으로 청소년을 포함한 가",
-          "published": "2026-11-25T02:00:01+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 14,
+          "title": "미래에셋, 캐피탈·VC 중심 '신성장 투자 플랫폼' 확장 가속도 - 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MQ3JLRFFuREhqQ242LUpIdW1yZGs4Y2hSWlBDLXZ2cFRPMWZGRWI3Yy15dEdTUVhENm43dlpudkZHMTlvN2VId2RHRUdYTnNSdlRfbFhLVHpmLUR6czJ0NmQweUoyUjI2QW5teEVsTE0?oc=5",
+          "summary": "미래에셋, 캐피탈·VC 중심 '신성장 투자 플랫폼' 확장 가속도 &nbsp;&nbsp; 연합인포맥스",
+          "published": "2026-11-25T23:04:20+00:00",
+          "source_key": "einfomax",
+          "source_name": "연합인포맥스",
+          "source_weight": 2,
+          "category": "mirae_asset",
+          "category_display": "미래에셋",
+          "score": 10,
           "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
+            "keyword": 5,
+            "source": 2,
             "recency": 3,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -301,11 +293,6 @@
           "event_labels": []
         }
       ]
-    },
-    "mirae_asset": {
-      "display_name": "미래에셋",
-      "count": 0,
-      "articles": []
     }
   }
 }
