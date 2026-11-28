@@ -1,217 +1,30 @@
 {
-  "generated_at": "2026-11-27T03:32:22.325997+00:00",
-  "total_articles": 21,
+  "generated_at": "2026-11-28T03:09:23.469163+00:00",
+  "total_articles": 10,
   "categories": {
     "elon_musk": {
       "display_name": "일론 머스크",
-      "count": 4,
-      "articles": [
-        {
-          "title": "Musk Says He’ll Give US Children Another SpaceX Share Every Year",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/musk-says-every-us-kid-to-get-two-spacex-shares-doubling-pledge",
-          "summary": "Elon Musk and SpaceX will give every child in the US another share in the space exploration company every year, according to a post on X from the world’s richest man.",
-          "published": "2026-11-26T04:52:54+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "머스크 \"美 모든 어린이에게 스페이스X 주식 2주씩 제공\" - 연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LOWtiZGpuSldzMmlpNnFsODg2UXVfNm9LLXA0UXJ3YTJiU2VXdTBNZmVzeHdwbThhRUtJYktWaUl3T0Vub08ySEM1THNJUEpLSUs2TXdiNVZuMjBXWldjeWswT3FQNUY0NWV2Sno5M3Q?oc=5",
-          "summary": "머스크 \"美 모든 어린이에게 스페이스X 주식 2주씩 제공\" &nbsp;&nbsp; 연합인포맥스",
-          "published": "2026-11-26T03:56:09+00:00",
-          "source_key": "einfomax",
-          "source_name": "연합인포맥스",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "China pushes brain-computer interface breakthroughs as Neuralink advances towards market",
-          "link": "https://www.scmp.com/business/china-business/article/3375858/china-pushes-brain-computer-interface-breakthroughs-neuralink-advances-towards-market",
-          "summary": "Chinese firms are racing to claim brain-computer interface (BCI) breakthroughs as Elon Musk’s Neuralink advances towards commercialisation, with Beijing seeking to leapfrog the US by setting standards and expanding real-world applications in what it sees as a strategic industry. Neuralink said on Wednesday it would launch a late-stage trial to evaluate the safety and effectiveness of its implantable BCI device for adults living with amyotrophic lateral sclerosis (ALS), allowing them to control..",
-          "published": "2026-11-26T07:00:11+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 11,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "“다들 그런 제안해”… 머스크를 머쓱하게 한 이재용의 한마디 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3VUUzdmZLUEFiWjlDcmxwTWhlWURkVG5XZXdZLWpTR0NMU05ZSWNYeGpQa2lOa2ljOTlEUWNYYmdleVNVZFhYbG1xcWpKbzRsV1ZYVER3?oc=5",
-          "summary": "“다들 그런 제안해”… 머스크를 머쓱하게 한 이재용의 한마디 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-26T13:18:14+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "elon_musk",
-          "category_display": "일론 머스크",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "bigtech": {
       "display_name": "빅테크",
       "count": 8,
       "articles": [
         {
-          "title": "Holidays to Test AI Shopping Bots From Google, Amazon, Meta and OpenAI",
-          "link": "https://www.bloomberg.com/news/features/2026-11-26/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-and-openai",
-          "summary": "Google, Amazon, Meta and OpenAI all want to help pick your holiday gifts. Whose advice will shoppers take?",
-          "published": "2026-11-26T22:00:04+00:00",
+          "title": "Bots de compras con IA amenazan el dominio de Amazon y Google",
+          "link": "https://www.bloomberg.com/news/features/2026-11-27/bots-de-compras-con-ia-amenazan-el-dominio-de-amazon-y-google",
+          "summary": "Google, Amazon, Meta y OpenAI compiten por ayudarte a elegir los regalos de Navidad. ¿A quién escucharán los compradores?",
+          "published": "2026-11-27T20:02:48+00:00",
           "source_key": "bloomberg_tech",
           "source_name": "Bloomberg Technology",
           "source_weight": 3,
           "category": "bigtech",
           "category_display": "빅테크",
-          "score": 16,
+          "score": 15,
           "score_breakdown": {
             "keyword": 10,
             "source": 3,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "Laila Khawaja on how the Jensen Huang saga resets the US-China tech rivalry",
-          "link": "https://www.scmp.com/tech/tech-war/article/3375909/laila-khawaja-how-jensen-huang-saga-resets-us-china-tech-rivalry",
-          "summary": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China’s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
-          "published": "2026-11-26T22:00:16+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "FT \"엔비디아, 동남아 4개국 GPU 서버 출하 중단\"",
-          "link": "https://zdnet.co.kr/view/?no=20261127102706",
-          "summary": "[지디넷코리아]엔비디아가 주요 GPU 서버 제조사에 말레이시아·싱가포르·태국·인도네시아 등 동남아시아 4개 국가 대상 GPU 서버 출하를 중단하라고 요청했다고 파이낸셜타임스(FT)가 관계자를 인용해 26일(현지시간) 보도했다.FT는 \"엔비디아 GPU 탑재 서버를 공급하는 델테크놀로지스, 슈퍼마이크로 등 제조사는 해당 국가 고객사 대상 주문한 제품을 배송할 수 없다고 안내했다\"고 전했다.이번 조치는 미국 상무부가 이달 16일 발표하고 19일부터 시행한 새로운 수출통제 규정과 맞물려 있다.새로운 수출 규정에 따르면 첨단 AI 반도체의 물리적 수출뿐 아니라 해외 데이터센터에 설치된 미국산 반도체를 클라우드 등 원격으로 이용하는 행위까지 규제 대상에 포함된다.또 인도네시아, 말레이시아, 싱가포르, 태국, 브라질 등 5개국으로 첨단 반도체를 수출하거나 재수출·역내 이전하는 경우에도 별도 허가를 받도록 했다.미국 정부는 중국 등 수출통제 대상국에 일정 규모 이상의 컴퓨팅 자원을 제공하는 해외 ",
-          "published": "2026-11-27T01:57:03+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 12,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 3,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation"
-          ]
-        },
-        {
-          "title": "How US-China tech rivalry has been reset by Jensen Huang saga",
-          "link": "https://www.scmp.com/plus/tech/tech-war/article/3375892/how-us-china-tech-rivalry-has-been-reset-jensen-huang-saga",
-          "summary": "Laila Khawaja is research director at Gavekal Technologies, the financial services and analytics firm’s tech wing. Before her current role, she worked at Gavekal Fathom China from its founding in 2009, developing broad expertise in China’s corporate landscape. A graduate of Beijing Foreign Studies University and Harvard University, she is currently based in Miami. In this interview, Khawaja discusses the whirlwind dismissal and restoration of Nvidia CEO Jensen Huang, how that saga and other...",
-          "published": "2026-11-26T07:57:45+00:00",
-          "source_key": "scmp_tech",
-          "source_name": "SCMP Tech",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 10,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 2,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "exec_change"
-          ]
-        },
-        {
-          "title": "아마존·메타, AI 에이전트 '뮤즈' 접근 차단 해제 협상 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52Vkh0Znh6aUtzaGJiN1RMeTVaRHYwYmktN0QtTFlIWDZicWNMb2lRMzdXSW03T0JiSVZyTDJRZ3lMUVlNUk5uMUxrWm9OYUhiS3BkUXFNRDdhMVl6c1NJZGNsUUw5NWhldUE?oc=5",
-          "summary": "아마존·메타, AI 에이전트 '뮤즈' 접근 차단 해제 협상 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-26T07:50:15+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 6,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단 - AI타임스",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IVE9CbThxSjhiZUk5b0p1b1VCc3VHS3lsc25yRUxGSF91U2ZzSVQ2b0U4dldOZDNxSUpHN0ltSkJxOHBJdThUNHFYdkVoSF91ZmNiN09ld0R4aHFDc05QdTY1cXJ5RmRnMHc?oc=5",
-          "summary": "엔비디아, 동남아 4개국 AI 서버 출하 중단…중국 우회 접근 차단 &nbsp;&nbsp; AI타임스",
-          "published": "2026-11-26T20:55:39+00:00",
-          "source_key": "aitimes",
-          "source_name": "AI타임스",
-          "source_weight": 2,
-          "category": "bigtech",
-          "category_display": "빅테크",
-          "score": 9,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
             "recency": 2,
             "event_bonus": 0,
             "noise_penalty": 0
@@ -219,32 +32,92 @@
           "event_labels": []
         },
         {
-          "title": "SAP, AI 전환에 최소 1만 개 일자리 감축 검토",
-          "link": "https://zdnet.co.kr/view/?no=20261127100428",
-          "summary": "[지디넷코리아]SAP가 인공지능(AI) 중심으로 소프트웨어(SW) 사업을 재편하면서 최소 1만개 일자리를 줄이는 방안을 검토 중이다.27일 블룸버그 등 외신에 따르면 SAP가 전 부서에 감축 가능한 영역을 파악에 나섰다.업계 관계자에 따르면 이번 감축은 제품, 엔지니어링과 영업 부문이 주요 검토 대상이다. 감축 규모는 확정 전이며 노사 협의 결과에 따라 달라질 수 있지만 제품 개발부터 판매까지 사업 방식을 손보는 과정에서 전체 인력 최소 9%가 영향을 받을 전망이다.현재 SAP는 전 세계에서 11만 명 이상을 고용하고 있어 예정대로 감축이 진행될 경우 1만명 이상 일자리가 줄어든다는 분석이다.크리스티안 클라인 SAP 최고경영자(CEO)는 초기 AI 제품 도입 과정에서 어려움을 겪은 뒤 기존 애플리케이션에 AI 기능을 내장하는 데 주력하고 있다. SAP는 올해 경영이사회를 두 차례 개편했다. 제품 부문을 이끌던 무함마드 알람이 계약을 갱신하지 않으면서 클라인 CEO가 그의 업무 대부분",
-          "published": "2026-11-27T01:47:08+00:00",
+          "title": "OpenAI Says Apple Pressured Suppliers to Shun Its Devices",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/openai-says-apple-pressured-suppliers-to-shun-its-devices",
+          "summary": "The trade-secrets fight between OpenAI and Apple Inc. is widening, with the artificial intelligence company accusing the iPhone maker of undermining its supplier relationships and using unfair employment agreements to prevent talent from jumping ship.",
+          "published": "2026-11-27T19:02:10+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 13,
+          "score_breakdown": {
+            "keyword": 8,
+            "source": 3,
+            "recency": 2,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "미 공군 핵심 클라우드 '클라우드 원' 뚫렸다",
+          "link": "https://zdnet.co.kr/view/?no=20261127222046",
+          "summary": "[지디넷코리아]미국 공군의 민감한 전술과 인사, 군수 데이터를 다루는 핵심 클라우드 컴퓨팅 플랫폼 '클라우드 원(Cloud One)'이 해킹 당했다고 로이터, 인디펜던트 등 외신들이 27일(현지시간) 보도했다.클라우드 원은 2017년 시작된 미 공군의 대표 클라우드 플랫폼으로, 마이크로소프트, 아마존, 오라클, 알파벳 등 4개 사업자가 운영을 맡고 있다. 인사, 급여, 군수, 정비, 방공 레이더 데이터를 통합하는 '클라우드 기반 지휘통제(CBC2)', 전 세계 200여 곳의 미 공군 기지에서 폭탄, 미사일을 추적하는 '전구 통합 전투 탄약 체계(TICMS)' 등 수십 개 애플리케이션을 구동한다.침해는 최근 한 달 이내 시스템 업그레이드 작업 중 발견됐다. 소식통들은 공격자가 소프트웨어 취약점을 악용해 '컨트롤 플레인'에 접근한 것으로 파악했다. 이는 이론상 군용기 작동 상태나 예비 부품 이동 등을 확인할 수 있는 '만능 리모컨'과 같은 권한이다. 다만 해커가 이를 이용했는지는 확인되",
+          "published": "2026-11-27T13:28:02+00:00",
           "source_key": "zdnet_korea",
           "source_name": "ZDNet Korea",
           "source_weight": 1,
           "category": "bigtech",
           "category_display": "빅테크",
+          "score": 12,
+          "score_breakdown": {
+            "keyword": 10,
+            "source": 1,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRZzJIdnR3S3NBTTViVE4ydXZ3VWd1ZnJiMmNHZXZmNU5XYWVHVlExOE5Mdks2bUxnRHpGazd2dnhKdmsySkVMQnVDSnBBekJuUl9TNkhLb3ZRZnNEb2VlN3BKSlFBWGJFWXc?oc=5",
+          "summary": "구글도 AI 수학 연구 경쟁 가세…소인수분해 34년 기록 경신 주장 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-27T06:20:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
           "score": 9,
           "score_breakdown": {
             "keyword": 3,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 2,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 3,
             "noise_penalty": 0
           },
           "event_labels": [
-            "exec_change"
+            "m_and_a"
           ]
         },
         {
-          "title": "Chinese AI chips to capture 88% of home market by 2028, UBS says, as Nvidia woes mount",
-          "link": "https://www.scmp.com/tech/tech-war/article/3375758/chinese-ai-chips-capture-88-home-market-2028-ubs-says-nvidia-woes-mount",
-          "summary": "China’s annual domestic artificial intelligence accelerator shipments are set to jump nearly sixfold between 2025 and 2030 to more than 10 million units, with Cambricon Technologies and Biren Technology emerging as front runners, according to UBS. This comes as Beijing doubles down on technological self-reliance amid heightened scrutiny over US chip exports following the recent Nvidia saga. Shipments of locally made AI processors – rising from 1.7 million units in 2025 – would propel Chinese...",
-          "published": "2026-11-26T04:00:11+00:00",
+          "title": "Nvidia Blackwell Tech Used at China Site Tied to Alice Huang",
+          "link": "https://www.bloomberg.com/news/articles/2026-11-27/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+          "summary": "A pair of Chinese firms installed Nvidia Corp.’s powerful Blackwell semiconductors in a Shanghai data center linked to Alice Huang, the woman at the heart of a controversy surrounding the US chipmaker.",
+          "published": "2026-11-27T11:45:46+00:00",
+          "source_key": "bloomberg_tech",
+          "source_name": "Bloomberg Technology",
+          "source_weight": 3,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 9,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 3,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+          "link": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing. 1. Chinese astronauts greet first foreign crew member with historic handshake China’s latest crewed space mission, Shenzhou-24, successfully delivered three astronauts to the Tiangong space station on Wednesday, including its first...",
+          "published": "2026-11-27T04:15:06+00:00",
           "source_key": "scmp_tech",
           "source_name": "SCMP Tech",
           "source_weight": 2,
@@ -253,6 +126,46 @@
           "score": 8,
           "score_breakdown": {
             "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "Netherlands ‘will not be dictated to’, trade chief says in fight against US Match Act",
+          "link": "https://www.scmp.com/economy/global-economy/article/3376024/netherlands-will-not-be-dictated-trade-chief-says-fight-against-us-match-act",
+          "summary": "Days after the Dutch foreign minister sent similar messages during his visit to China, the country’s trade minister has vowed that the government would do “everything in its power” to stop the US’ Multilateral Alignment of Technology Controls on Hardware (Match) Act from being adopted, but acknowledged that the Nvidia saga had made the battle more difficult. Addressing the Dutch lower house on Thursday, Trade Minister Sjoerd Sjoerdsma said the cabinet shared the concerns raised by lawmakers...",
+          "published": "2026-11-27T09:00:13+00:00",
+          "source_key": "scmp_tech",
+          "source_name": "SCMP Tech",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 8,
+          "score_breakdown": {
+            "keyword": 5,
+            "source": 2,
+            "recency": 1,
+            "event_bonus": 0,
+            "noise_penalty": 0
+          },
+          "event_labels": []
+        },
+        {
+          "title": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란 - AI타임스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE43UEt3UWtfV1FveVZUSndnR29kVXNXLXNIQVNaTEdCWU9hRFAzS0NGUmlaSlNIQWE4OTZmOHV5UmdCZXZTUXNxNDc2MGFQS1E3NXJ6VGNseTRyUnpPNmIwZDFRRl9Pa3BBUlE?oc=5",
+          "summary": "애플, 미니맥스 AI 동반자 '토키' 앱스토어에서 삭제…아동 안전 논란 &nbsp;&nbsp; AI타임스",
+          "published": "2026-11-27T05:25:00+00:00",
+          "source_key": "aitimes",
+          "source_name": "AI타임스",
+          "source_weight": 2,
+          "category": "bigtech",
+          "category_display": "빅테크",
+          "score": 6,
+          "score_breakdown": {
+            "keyword": 3,
             "source": 2,
             "recency": 1,
             "event_bonus": 0,
@@ -264,143 +177,18 @@
     },
     "digital_asset": {
       "display_name": "디지털 자산",
-      "count": 5,
-      "articles": [
-        {
-          "title": "코인거래소 규제 촘촘해진 디지털자산법…관건은 시행령",
-          "link": "https://zdnet.co.kr/view/?no=20261127110619",
-          "summary": "[지디넷코리아]금융위원회가 디지털자산법 제정을 통해 가상자산 거래소 경영과 영업활동 전반에 대한 감독 권한을 확대한다. 금융사에 준하는 감독 체계 수준으로, 업계에선 향후 구체적인 제재 기준과 운영 방식을 담은 시행령에 주목하고 있다.27일 디지털자산법 정부안에 따르면 금융위는 가상자산 거래소 임원 해임 요구부터 영업양도 명령, 가상자산 상장·상장폐지 규정 변경까지 가능하도록 법적 근거를 마련했다.먼저 금융위는 가상자산 거래소가 경영건전성 기준을 충족하지 못하거나 해킹·전산장애, 대규모 금융사고 등으로 기준을 충족하지 못할 것으로 판단하면 경영개선 조치를 할 수 있다. 자본 증감과 보유자산 처분, 영업양도 등을 권고·요구하거나 명령할 수 있다.관련해 임원 직무를 정지하거나 임원 업무를 대신할 관리인을 선임하는 것도 가능하다.거래소 임직원에 대한 제재 권한도 마련했다. 금융위는 디지털자산법에서 정한 인가 요건 등을 위반한 임원에게 해임 요구, 최대 6개월 직무정지, 문책경고 등 조치를",
-          "published": "2026-11-27T02:12:24+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 21,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 7,
-            "noise_penalty": 0
-          },
-          "event_labels": [
-            "regulation",
-            "exec_change",
-            "funding"
-          ]
-        },
-        {
-          "title": "8.5조원 털린 바이낸스, 한 달 만에 출금 서비스 정상화",
-          "link": "https://zdnet.co.kr/view/?no=20261127090219",
-          "summary": "[지디넷코리아]글로벌 가상자산 거래소 바이낸스가 약 63억 달러(약 8조 4741억원) 규모 해킹 사고 발생 4주 만에 출금 서비스를 정상화했다. 지난 1일부터 비트코인 출금을 시작으로 단계적으로 서비스를 복구한 결과다.바이낸스는 26일(현지시간) 공지사항을 통해 지난달 발생한 해킹 사고 관련 출금 중단 조치를 모두 해제했다고 밝혔다.현재 바이낸스는 대부분 블록체인 네트워크에서 출금 서비스를 재개한 상태다. 다만 해킹 사고와 무관한 시스템 유지보수나 예정된 업그레이드 등으로 일부 네트워크에서는 입출금이 제한되고 있다.바이낸스 네트워크 현황 페이지에 따르면, 달러 스테이블코인 USDC는 헤데라와 월드체인 네트워크에서 핫월렛 잔액 부족으로 출금이 중단된 상태다. 소닉 네트워크에서는 보안 문제로 출금이 제한되고 있다.출금 서비스는 이번달 1일부터 단계적으로 재개됐다. 바이낸스는 당시 비트코인 출금을 우선 복구한 뒤 다른 블록체인 네트워크로 서비스를 확대해 왔다.바이낸스는 이용자들에게 해킹",
-          "published": "2026-11-27T01:49:40+00:00",
-          "source_key": "zdnet_korea",
-          "source_name": "ZDNet Korea",
-          "source_weight": 1,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 14,
-          "score_breakdown": {
-            "keyword": 10,
-            "source": 1,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "비트코인 채굴 적자 수렁…채굴기업, 손절매 나서 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95UzFuLWl0eERQT0xHN3hnRDJzQzd5WHBILVNaRllPU2lCX1ZiWVoxUXAyMXRJTEdMSTJ6NFE1MU01N2ZfLWJheEVmUW80S1RsU0E?oc=5",
-          "summary": "비트코인 채굴 적자 수렁…채굴기업, 손절매 나서 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-26T08:40:37+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "StanChart’s Crypto Custody Unit Suffers Data Breach",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/stanchart-s-crypto-custody-unit-suffers-data-breach",
-          "summary": "Standard Chartered’s crypto custody subsidiary Zodia Custody Ltd. said it had suffered a security breach, exposing some client and staff information.",
-          "published": "2026-11-26T12:24:38+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "QRT to Merge $2 Billion Hedge Fund With Flagship Qube Strategy",
-          "link": "https://www.bloomberg.com/news/articles/2026-11-26/qrt-to-merge-2-billion-hedge-fund-with-flagship-qube-strategy",
-          "summary": "Qube Research &amp; Technologies, one of the fastest growing investment firms in the world, is set to merge its crypto-focused money pool with its flagship hedge fund strategy.",
-          "published": "2026-11-26T12:51:20+00:00",
-          "source_key": "bloomberg_tech",
-          "source_name": "Bloomberg Technology",
-          "source_weight": 3,
-          "category": "digital_asset",
-          "category_display": "디지털 자산",
-          "score": 7,
-          "score_breakdown": {
-            "keyword": 3,
-            "source": 3,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     },
     "korea_fintech": {
       "display_name": "한국 핀테크",
-      "count": 3,
+      "count": 2,
       "articles": [
         {
-          "title": "쇼핑 기록으로 대출 심사…케이뱅크·웰컴저축銀, 네이버페이와 맞손 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVekw2a1R4VkxQaE13UDBLRzVQZ084dURka1RMQTBFQ1BDWjBjWlRRSUVmWmthOEgyX2czVkZQRV9PYnJEeFpudU1XeVdQUFdKcUhzdQ?oc=5",
-          "summary": "쇼핑 기록으로 대출 심사…케이뱅크·웰컴저축銀, 네이버페이와 맞손 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-27T01:44:40+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "korea_fintech",
-          "category_display": "한국 핀테크",
-          "score": 13,
-          "score_breakdown": {
-            "keyword": 8,
-            "source": 2,
-            "recency": 3,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        },
-        {
-          "title": "소상공인부터 택시기사까지 … 카카오, 5년간 3777억 상생 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tZ2p4X1JEVlZQWDlGQU5YeTJBbkRNNi0yazZJQzg1Tm15cTZHTVZpTjJ0S2hJSzVSSFhreTY3Z205VGZzSDRKcDJRT2hHUQ?oc=5",
-          "summary": "소상공인부터 택시기사까지 … 카카오, 5년간 3777억 상생 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-26T08:22:08+00:00",
+          "title": "뿔난 카카오엔터 연예인 주주들…“카카오 분할 막아달라” - 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4ZWNsZm1iZ1NoNjU1TFV6Yng0aVJlQTZjVnNlTUc0cW1CYUhsSEZNb3JYOW5XU3Z3VWJEZGN0S2tYLTlxaWk5T211ZlM3R0NCa0E?oc=5",
+          "summary": "뿔난 카카오엔터 연예인 주주들…“카카오 분할 막아달라” &nbsp;&nbsp; 매일경제",
+          "published": "2026-11-27T07:46:23+00:00",
           "source_key": "mk_economy",
           "source_name": "매일경제",
           "source_weight": 2,
@@ -417,52 +205,33 @@
           "event_labels": []
         },
         {
-          "title": "“3000억 받고 777억 더”…카카오는 5년간 이 돈을 어디에 썼을까? - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zT2lVOFNrbXVmR1NNTklOYkxyVTV4eXo5dWFscU5KdlZqcGNkZ3djOVVqaEhKdnhwbHRHdnhhYlJJd3AzQk1BV2MxcGVVUQ?oc=5",
-          "summary": "“3000억 받고 777억 더”…카카오는 5년간 이 돈을 어디에 썼을까? &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-26T11:34:27+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
+          "title": "김범수 카카오, SM엔터 시세조종 혐의 무죄 확정…공소청 상고 포기",
+          "link": "https://zdnet.co.kr/view/?no=20261127183559",
+          "summary": "[지디넷코리아]SM엔터테인먼트 인수 당시 시세조종 혐의로 기소된 김범수 카카오 창업자의 무죄가 확정됐다.27일 법조계에 따르면 공소청이 상고 기한인 이날까지 상고 여부를 밝히지 않음에 따라 김 창업자에게 무죄를 선고한 항소심의 판결이 확정됐다.공소청은 1·2심의 판결 내용이나 취지, 상고심 인용 가능성 등을 종합 검토해 상고하지 않기로 한 것으로 알려졌다.앞서 김 센터장은 2023년 2월 SM엔터 인수 과정에서 경쟁사인 하이브의 공개 매수를 저지하기 위해 SM엔터 주가를 하이브의 공개매수가인 12만원보다 높게 유지하려 한 혐의로 기소됐다.당시 검찰은 김 창업자가 같은 해 2월 16~17일과 27일 배재현 전 카카오 투자총괄대표, 원아시아파트너스 등과 공모해 약 1100억원을 투입하고, 고가매수와 물량소진 등의 방식으로 SM엔터 주가를 300회 이상 조종했다고 봤다.공소청은 김 창업자에 대해 1·2심에서 모두 징역 15년과 벌금 5억원을 구형했다. 이와 함께 1272억638만1300원",
+          "published": "2026-11-27T09:37:15+00:00",
+          "source_key": "zdnet_korea",
+          "source_name": "ZDNet Korea",
+          "source_weight": 1,
           "category": "korea_fintech",
           "category_display": "한국 핀테크",
-          "score": 6,
+          "score": 5,
           "score_breakdown": {
             "keyword": 3,
-            "source": 2,
+            "source": 1,
             "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
+            "event_bonus": 3,
+            "noise_penalty": -3
           },
-          "event_labels": []
+          "event_labels": [
+            "m_and_a"
+          ]
         }
       ]
     },
     "mirae_asset": {
       "display_name": "미래에셋",
-      "count": 1,
-      "articles": [
-        {
-          "title": "[인기검색TOP5] 셀로맥스사이언스, 미래에셋벤처투자, 나라스페이스테크놀로지, 나무가, 삼성전기 - 매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5OY2swbTczeDBHUHNIY05zR2Z1Qm40S3pQXzFvdnRYbUh4cWhWajhHb0paVG5EMldMdFlOOGZSSWhhLWZuakozeE9mVWxXT240QWc?oc=5",
-          "summary": "[인기검색TOP5] 셀로맥스사이언스, 미래에셋벤처투자, 나라스페이스테크놀로지, 나무가, 삼성전기 &nbsp;&nbsp; 매일경제",
-          "published": "2026-11-26T06:14:09+00:00",
-          "source_key": "mk_economy",
-          "source_name": "매일경제",
-          "source_weight": 2,
-          "category": "mirae_asset",
-          "category_display": "미래에셋",
-          "score": 8,
-          "score_breakdown": {
-            "keyword": 5,
-            "source": 2,
-            "recency": 1,
-            "event_bonus": 0,
-            "noise_penalty": 0
-          },
-          "event_labels": []
-        }
-      ]
+      "count": 0,
+      "articles": []
     }
   }
 }
